@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Whatever you are, Talos' spirit guides you.  You are his vessel.</Source>
+      <Dest>无论你在哪里，Talos都会引导你。你在他的庇佑下。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not try blessing a person instead?  I'm in need of your help.</Source>
+      <Dest>为什么不选择尝试去祝福一个人？我的确需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would he do this you?</Source>
+      <Dest>他为什么这样对你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would he do this you?</Source>
+      <Dest>他为什么这样对你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would he do this you?</Source>
+      <Dest>他为什么这样对你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would he do this you?</Source>
+      <Dest>他为什么这样对你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would he do this you?</Source>
+      <Dest>他为什么这样对你？</Dest>
+    </String>
+    <String List="0">
+      <Source>I feel that way about everyone.</Source>
+      <Dest>我对所有人都是那种感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Talk is cheap. Clearly you are just a spineless coward.</Source>
+      <Dest>這談話多麼地下賤。很顯然你是個沒骨氣的懦夫!</Dest>
+    </String>
+    <String List="0">
+      <Source>Talk is cheap. Clearly you are just a spineless coward.</Source>
+      <Dest>這談話多麼地下賤。很顯然你是個沒骨氣的懦夫!</Dest>
+    </String>
+    <String List="0">
+      <Source>Who is this man you despise?</Source>
+      <Dest>你鄙视的这人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Violence only begets more violence.  Fear not, the Gods will punish this man.</Source>
+      <Dest>暴力只会催生更多暴力。不要怕，神会惩罚这人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Out of curiosity, what other horrifying things would you do to Gabriel?</Source>
+      <Dest>出于好奇我想问一句，你还要对Gabriel做出什么其他的恐怖的事情来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is it possible to disrupt his source of income?</Source>
+      <Dest>有可能截断他的收入来源吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>That's exactly what this quest calls for.  A brute priest.</Source>
+      <Dest>这正是这个任务所需要的，一个粗野的司祭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I meant like a Forsworn witch, but a priest works too.</Source>
+      <Dest>事实上，我更想要一个弃誓者巫师，但祭司也成。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your teeth, huh? I ought to try that sometime myself.</Source>
+      <Dest>你的牙齿对吗？有机会的话我想自己试试看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, eyes taste more like soft-boiled eggs.</Source>
+      <Dest>其实呢，眼球的味道跟煮的软软的鸡蛋差不多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, eyes taste more like soft-boiled eggs.</Source>
+      <Dest>其实呢，眼球的味道跟煮的软软的鸡蛋差不多。</Dest>
+    </String>
+    <String List="0">
+      <Source>You became even closer friends?</Source>
+      <Dest>你们竟然成了密友?</Dest>
+    </String>
+    <String List="0">
+      <Source>Your actions will define you. You are every bit a priest as anyone.</Source>
+      <Dest>你的行为将会出卖你。和任何人一样，从头到脚你都是一个祭司。</Dest>
+    </String>
+    <String List="0">
+      <Source>Were you two ever friends?</Source>
+      <Dest>你们曾经是朋友吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And why do you hate him?</Source>
+      <Dest>你为什么讨厌他？</Dest>
+    </String>
+    <String List="0">
+      <Source>And why do you hate him?</Source>
+      <Dest>你为什么讨厌他？</Dest>
+    </String>
+    <String List="0">
+      <Source>And why do you hate him?</Source>
+      <Dest>你为什么讨厌他？</Dest>
+    </String>
+    <String List="0">
+      <Source>And why do you hate him?</Source>
+      <Dest>你为什么讨厌他？</Dest>
+    </String>
+    <String List="0">
+      <Source>You should talk to this person and work out your issues like gentlemen.</Source>
+      <Dest>你最好礼貌的和这人交谈并且解决你的问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then leave this town. There's nothing for you here.</Source>
+      <Dest>那就离开这个镇，这里没你想要的。</Dest>
+    </String>
+    <String List="0">
+      <Source>If that's true, then he should die like the rat he is.</Source>
+      <Dest>如果那是真的，死亡就是他这样的鼠辈所应得的。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason why you haven't acted.</Source>
+      <Dest>为什么你还没有行动？一定原因的。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason why you haven't acted.</Source>
+      <Dest>为什么你还没有行动？一定原因的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, that seems rather unfortunate.</Source>
+      <Dest>我很抱歉，那看起来真不幸。</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer a more stealthy approach.</Source>
+      <Dest>我更倾向于悄悄潜入。</Dest>
+    </String>
+    <String List="0">
+      <Source>The guards just take his accusations as truth?</Source>
+      <Dest>那些守卫就把他的指控都当真了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>The guards just take his accusations as truth?</Source>
+      <Dest>那些守卫就把他的指控都当真了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>A love triangle. These never end well.</Source>
+      <Dest>三角恋。从来不会有好结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>A love triangle. These never end well.</Source>
+      <Dest>三角恋。从来不会有好结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a bit too violent for my tastes.</Source>
+      <Dest>那可比我的口味还要暴力一点哦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here stewing over it?  Kill this man.</Source>
+      <Dest>你还在磨蹭什么？杀了他！</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here stewing over it?  Kill this man.</Source>
+      <Dest>你还在磨蹭什么？杀了他！</Dest>
+    </String>
+    <String List="0">
+      <Source>I would probably vomit if I had someone's eye in my mouth.</Source>
+      <Dest>要是我把谁的眼珠子吃到嘴里肯定呕了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would probably vomit if I had someone's eye in my mouth.</Source>
+      <Dest>要是我把谁的眼珠子吃到嘴里肯定呕了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know it sounds unlikely, but humor me.</Source>
+      <Dest>我知道这听起来不太可能，但能给我个面子吗。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's your problem. You obviously need more wealth.</Source>
+      <Dest>那就是你的问题了。显然你得更有钱才行啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's your problem. You obviously need more wealth.</Source>
+      <Dest>那就是你的问题了。显然你得更有钱才行啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't need apologies. You didn't do anything. He's the one that has to apologize. He's the one who should suffer.</Source>
+      <Dest>我不需要道歉.  你什么都没做.  他才是应该道歉的人.  他才是应该吃苦头的人.</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabriel.  Just saying his name makes me want to take a pair of hot pliers and twist off his nose.</Source>
+      <Dest>Gabriel.  一提起这个名字我就想拿起烧红的钳子拧下他的鼻子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course they will. They damn better. But not until I get my turn.</Source>
+      <Dest>他们当然会。他们会该死的变本加厉，直到我得到了我的机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>But even after I served my time, he's had them toss me in the dungeon on some trumped up charge.</Source>
+      <Dest>但就算我服完了刑，我还是被他所指使的那些家伙以莫须有的罪名给扔进了地牢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You just have to picture the pain. The sweet, delicious pain as the juices flood into your mouth.</Source>
+      <Dest>你只需要想象那种痛苦。想象甜蜜而美味的痛苦像是果汁一样流进你的嘴里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Because I can't. Doesn't matter if I have an alibi. Everyone would know who really did it.</Source>
+      <Dest>因为我不能。我有没有不在场证明并不重要。每个人都会知道是谁真的做了它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you don't know what's it like.  You don't have that hate in your heart. Good for you.  But that ain't me.</Source>
+      <Dest>所以你不懂。你心中没有那种憎恶。祝你好运。但那并不是我。</Dest>
+    </String>
+    <String List="2">
+      <Source>He dies, they'll all think it was me.  The worst part is, if I want to keep my head, I have to make sure he stays alive.</Source>
+      <Dest>他死了，他们认为是我干的，最糟糕的事，如果我想保住我的命，那我就得让他“活着”。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean, like, sabotage? That ain't what I do.</Source>
+      <Dest>你的意思是..搞破坏？我不会那样做的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can punch someone in the throat, you can make them wear your dagger like a hat, but nothing is as raw and as pure as using your teeth.</Source>
+      <Dest>你能打对手的喉咙，能把匕首插到他们脑袋上，但是没有什么能像用牙咬一样那么狠那么纯粹。</Dest>
+    </String>
+    <String List="2">
+      <Source>He's a snitch. He told the guards about the bandits I used to run with before he hired me.</Source>
+      <Dest>他是个泄密者。他把我之前收纳强盗的事告诉了守卫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I'll chew off his eyes like a couple of hard-boiled eggs.</Source>
+      <Dest>我会像吃水煮蛋般咬下他眼睛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought of that.  Pay a guard to look the other way, while I stick my dagger up his nose.</Source>
+      <Dest>我是这样想的。我们去请一个向导，然后我用剑顶着他的鼻子让他帮我们找其他的路。但是我觉得这么做还不够。</Dest>
+    </String>
+    <String List="2">
+      <Source>We used to be friends. I thought we were brothers. When he snitched to the guard, we became something else.</Source>
+      <Dest>我们曾经是朋友。我以为我们是兄弟。当他从守卫那儿告发我的时候，我们之间的关系就变了味。</Dest>
+    </String>
+    <String List="2">
+      <Source>What can I do? If I tried to hide my rage, I'd probably lose my mind. So I just think about all the things I'd do to that little snitch if I could.</Source>
+      <Dest>那么我能做点儿什么呢？如果我试着隐藏愤怒的话，我可能会失去我的心。所以我会对告密者做所有我能想到并可以做到的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph, you're a bloody sod, but you ain't lying.  If I had any guts, I wouldn't give a damn about dying, as long as he went down with me.</Source>
+      <Dest>哼，你真是个残忍的家伙。但你说对了。如果我再有点儿勇气，我就不会在乎自己是怎么死的，只要能拉他垫背就行了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As if the guards need a reason to beat down an Argonian.</Source>
+      <Dest>这个守卫好像得有个理由揍个亚龙人一顿。</Dest>
+    </String>
+    <String List="2">
+      <Source>He has a thing for one of the guards. She has a thing for me. But that ain't a good reason why.</Source>
+      <Dest>他对一位守卫有好感。她又对我有好感。但我又想不通为什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Talos? Now I know you're crazy. Talos' spirit in a bloody lizard?</Source>
+      <Dest>塔洛斯?  我算明白了，你个疯子。  塔洛斯的魂魄是他丫的蜥蜴？！.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd nick off a section of his skin.  Just a small piece, enough to grip it between my finger and my thumb.</Source>
+      <Dest>我偷走了他皮肤的一部分。非常小的一片，刚好能够用我的食指和拇指夹住。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah. Used to work as his bodyguard. Saved his life more times than I can count. Now all I think about is his death.</Source>
+      <Dest>是啊。过去一直是他的警卫。救过他命的次数多得数不清。现在我脑子里想的全是他的死讯。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not me. I want him to know. I want the last thing he sees to be my bloody gums.</Source>
+      <Dest>不是我。我想让他知道。我想让他最后看到的东西是我血淋淋的牙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that so, cannibal? When I picture his eyes in my mouth, I'll have to savor the yolk then. </Source>
+      <Dest>是这样吗，食人族？我一想到他的眼珠在我嘴里，我就不得不给蛋黄加点调料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll press my elbow against his throat, get real close...so he can smell the stink on my breath.</Source>
+      <Dest>我把手肘压在他的喉咙上，贴的非常近……他都能闻到我口臭的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Blessing?  You mean, like a priest?</Source>
+      <Dest>祈祷？你是说，跟个牧师那样？</Dest>
+    </String>
+    <String List="2">
+      <Source>But I won't give him the satisfaction of knowing he won.  When I bite off his face, I don't want to see him smile.</Source>
+      <Dest>不过我可不会让他获得胜利的喜悦。当我撕烂他脸皮的时候，我可不想看到他还能笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, a little gold always helps grease the wheels, and Gabriel's fingers are covered in grease.</Source>
+      <Dest>当然，一点儿金子总能有助于“润滑”人际关系，而加百列的手指上涂满了“润滑用”的油脂。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is there to work out?  Is he gonna turn back time?  Well, he better wipe my memory too, or I'll still remember it all.</Source>
+      <Dest>还有什么需要解决？他会时光倒流么？嗯，他最好消除我的记忆，不然我还是会记得这一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't you get it?  It's because I can't.  I kill him, I become exactly what he says I am.</Source>
+      <Dest>你还不明白么？因为我不能。我杀了他，他说什么我就必须做什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd rip off his ears. Just tear them right off. I wouldn't even need a knife.</Source>
+      <Dest>我会扯掉他的耳朵，就这样硬生生撕下来。我甚至不需要刀子。</Dest>
+    </String>
+    <String List="2">
+      <Source>But what I got ain't enough. No way any guard is going to kill their own meal ticket.</Source>
+      <Dest>但是我所得到的还不够多啊，没有哪个守卫会断了自己的发财的路子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know.  I ain't what that pus-drinker says I am, but I ain't what you say either.</Source>
+      <Dest>我不知道，我不是那个烂酒鬼说的那样，但也不是你所说的那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you ever hated someone so much, you just wanted to bite off his eyes?</Source>
+      <Dest>你是否试过如此的恨一个人，恨到你只想去把他的眼睛给咬下来么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd lay his prick on his belly, and drive a dagger through both before stomping his balls with my boot.  </Source>
+      <Dest>我要重重地用拳头打他的喉咙。我要把他的刺插在他的肚子上，然后用一把匕首把它整个划开，然后我要用我的皮鞋踩烂他的蛋蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Hist, you're serious!  You've got the wrong guy, stranger.</Source>
+      <Dest>Hist在上，你是认真的！你找错人了，陌生人。</Dest>
+    </String>
+    <String List="2">
+      <Source>That I won't do. The docks are my home. Besides, I'll take a thousand nights in the dungeon before I'd give him the pleasure.</Source>
+      <Dest>我是不会离开的。这里是我的家。要知道，在我发现这片乐土之前，我可是在地牢挨过了千百个清冷的夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) You're funny, jester. That's good.  It's been a long time since I remembered how to laugh.</Source>
+      <Dest>（笑）你真能搞笑啊小丑。不错不错。我有好长一段时间不记得怎么笑出来啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, it's good for the soul, trust me.  Just thinking about it brings a smile to my face.</Source>
+      <Dest>没错，相信我，这对灵魂是有益的。你看看我脸上的微笑就明白了，这就是那玩意所带给我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I'd peel it off...slowly...savoring every inch of skin tearing off bone.</Source>
+      <Dest>然后我会把他的皮给扒下来...慢慢地扒下来...享受将他那每一寸皮肤被从肌肉上剥下来时的那种快感。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I would just drive my nails into his flesh, pressing and pressing, until they popped holes through the skin!</Source>
+      <Dest>不，我会把我的爪子深深地嵌入他的身体里，使劲地压啊压，直到它们在他身上穿出洞来为止！</Dest>
+    </String>
+    <String List="2">
+      <Source>Because there ain't no good reason for what he's done.  But what he's done, it's reason enough for what I'll do to him.</Source>
+      <Dest>因为他所做的事不怎么好解释。但这也足以解释我会对他做什么了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's all I can do at this point, picture it.  Because if anyone ever lays a hand on him, they'll all blame me.</Source>
+      <Dest>这时我只能做到这里了，想想吧。因为只要有人拉他一把，就会来怪我。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's all I can do at this point, picture it.  Because if anyone ever lays a hand on him, they'll all blame me.</Source>
+      <Dest>这时我只能做到这里了，想想吧。因为只要有人拉他一把，就会来怪我。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Alright. I guess it couldn't hurt my reputation, people seeing me as a priest of bloody Talos! Here, have it. You're bloody blessed.</Source>
+      <Dest>（笑声）好好。我觉得这也许不会让我的名声受到损失，人们认为我是特么塔罗斯的祭司！来来来拿着。你现在被特么的祝福了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even a rat's death is too good for him. I want to hook my hands into the corners of his mouth, and then tear off his face from his skull.</Source>
+      <Dest>作为一个叛徒，让他挂掉算便宜他了。我要用手勾住他的下巴，然后把他的脸从头上扯下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then, I'd wrap my hands around his throat, but I wouldn't strangle him.  </Source>
+      <Dest>然后，我掐住了他的喉咙，但是却没掐死他。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I'd have him bite the end of a table.  Then I'd slam my warhammer into the back of his skull.</Source>
+      <Dest>我会打的他头晕目眩。然后用我的战锤砸碎他的后背.</Dest>
+    </String>
+    <String List="2">
+      <Source>That's when you know you hate a man.  I mean, really, really hate him.</Source>
+      <Dest>就是那时候你觉得很讨厌男人.  我是指,真的,真的讨厌他.</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to nail his hand to the table, and then bend back his thumbs until they pop right off.</Source>
+      <Dest>我要把他的手用钉子钉在桌子上然后再把他的拇指扳到后面直到它裂开为止</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah? I bet they think there's nothing you can do about it either. That's why they don't shut up.</Source>
+      <Dest>是吗？我打赌他们认为没有一件你可以做的事。这就是为什么他们不肯闭嘴。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, jester, not even close.  What we became, goes beyond words.  But if I ever get to slam my fist into his nose, I'll let you know if I find some.</Source>
+      <Dest>不，小丑，还差得远呢。我们会怎么样，一切尽在不言中。但是如果我狠狠地用拳头打了他的鼻子，然后打听到什么的话我也许会告诉你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="2">
+      <Source>What now?</Source>
+      <Dest>那么现在？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyagh!</Source>
+      <Dest>哈啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Nnnnnnargh!</Source>
+      <Dest>呃嗯嗯嗯嗯嗯啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngh!</Source>
+      <Dest>啊呀呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>You see Gabriel, spit in his face for me.</Source>
+      <Dest>如果你见到Gabriel,帮我啐丫的一口唾沫.</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want?</Source>
+      <Dest>你要干嘛？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>That all you've got?</Source>
+      <Dest>这就是你弄到的全部东西了？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

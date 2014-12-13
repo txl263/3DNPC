@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What predicament were you talking about?</Source>
+      <Dest>你在说什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What predicament were you talking about?</Source>
+      <Dest>你在说什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. How is alchemy rewarding?</Source>
+      <Dest>好。炼金的报酬怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. How is alchemy rewarding?</Source>
+      <Dest>好。炼金的报酬怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. How is alchemy rewarding?</Source>
+      <Dest>好。炼金的报酬怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. How is alchemy rewarding?</Source>
+      <Dest>好。炼金的报酬怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Alchemy) What did the snowberry say to the fire salts?  You're irresistible.</Source>
+      <Dest>（炼金）雪梅对火盐说什么？你难以抗拒。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Alchemy) What did the snowberry say to the fire salts?  You're irresistible.</Source>
+      <Dest>（炼金）雪梅对火盐说什么？你难以抗拒。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have more than enough of it.  Feminine charm.</Source>
+      <Dest>你有超乎寻常的女性吸引力</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>His pride?</Source>
+      <Dest>他的骄傲？</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Conjurer or idiot apprentice, it doesn't matter.  Mages are weak.</Source>
+      <Dest>大法师亦或菜鸟学徒都无所谓。法师太弱了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Conjurer or idiot apprentice, it doesn't matter.  Mages are weak.</Source>
+      <Dest>大法师亦或菜鸟学徒都无所谓。法师太弱了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Conjurer or idiot apprentice, it doesn't matter.  Mages are weak.</Source>
+      <Dest>大法师亦或菜鸟学徒都无所谓。法师太弱了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Conjurer or idiot apprentice, it doesn't matter.  Mages are weak.</Source>
+      <Dest>大法师亦或菜鸟学徒都无所谓。法师太弱了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That depends.  How do alchemists feel about Dibellan arts?</Source>
+      <Dest>这要看情况。炼金术士会如何看待 Dibellan arts?</Dest>
+    </String>
+    <String List="0">
+      <Source>That depends.  How do alchemists feel about Dibellan arts?</Source>
+      <Dest>这要看情况。炼金术士会如何看待 Dibellan arts?</Dest>
+    </String>
+    <String List="0">
+      <Source>Everything you need is inside the satchel. Why think outside it? I'm confused.</Source>
+      <Dest>你要的所有东西都在背包里了，为什么还要去外面？我很困惑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Everything you need is inside the satchel. Why think outside it? I'm confused.</Source>
+      <Dest>你要的所有东西都在背包里了，为什么还要去外面？我很困惑。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter what you discover if you can't survive a bandit raid.</Source>
+      <Dest>如果你不能从强盗袭击中安全脱身，就算你知道的再多也是毫无意义的.</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter what you discover if you can't survive a bandit raid.</Source>
+      <Dest>如果你不能从强盗袭击中安全脱身，就算你知道的再多也是毫无意义的.</Dest>
+    </String>
+    <String List="0">
+      <Source>In Cyrodiil, some people say lavender is bad luck.</Source>
+      <Dest>在赛瑞迪尔，有些人认为薰衣草会带来厄运。</Dest>
+    </String>
+    <String List="0">
+      <Source>And here I am.  Now give me all your gold or die.</Source>
+      <Dest>这次该我啦。金子全给我交出来不然宰了你！.</Dest>
+    </String>
+    <String List="0">
+      <Source>And here I am.  Now give me all your gold or die.</Source>
+      <Dest>这次该我啦。金子全给我交出来不然宰了你！.</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly was your relationship with Borvir?</Source>
+      <Dest>你和Borvir究竟啥关系啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly was your relationship with Borvir?</Source>
+      <Dest>你和Borvir究竟啥关系啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly was your relationship with Borvir?</Source>
+      <Dest>你和Borvir究竟啥关系啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly was your relationship with Borvir?</Source>
+      <Dest>你和Borvir究竟啥关系啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Alchemy is boring.  Herbalists are boring.  You are boring.</Source>
+      <Dest>炼金很枯燥。草药很枯燥。你也很枯燥。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did Borvir ever succeed in his experiments?</Source>
+      <Dest>博弗的实验从来没有成功过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>In Cyrodiil, some people say lavender is a sign of good luck.</Source>
+      <Dest>在赛瑞迪尔，人们都说薰衣草是幸运的象征。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that work out?</Source>
+      <Dest>那是怎么解决的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that work out?</Source>
+      <Dest>那是怎么解决的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that work out?</Source>
+      <Dest>那是怎么解决的？</Dest>
+    </String>
+    <String List="0">
+      <Source>I think Phinis Gestor might have mentioned missing apprentices.</Source>
+      <Dest>我记得 Phinis Gestor 好像提起过失踪的学员的事.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think Phinis Gestor might have mentioned missing apprentices.</Source>
+      <Dest>我记得 Phinis Gestor 好像提起过失踪的学员的事.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think Phinis Gestor might have mentioned missing apprentices.</Source>
+      <Dest>我记得 Phinis Gestor 好像提起过失踪的学员的事.</Dest>
+    </String>
+    <String List="0">
+      <Source>I saved you this time, but I may not be here the next.</Source>
+      <Dest>这次我救了你，可未必有下一次。</Dest>
+    </String>
+    <String List="0">
+      <Source>I saved you this time, but I may not be here the next.</Source>
+      <Dest>这次我救了你，可未必有下一次。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know he isn't a college mage?</Source>
+      <Dest>你怎么知道他不是个学院法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know he isn't a college mage?</Source>
+      <Dest>你怎么知道他不是个学院法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know he isn't a college mage?</Source>
+      <Dest>你怎么知道他不是个学院法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know he isn't a college mage?</Source>
+      <Dest>你怎么知道他不是个学院法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not a bandit, but odds are I might kill you anyway.</Source>
+      <Dest>我倒不是强盗，不过不管我是什么都可以杀了你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not a bandit, but odds are I might kill you anyway.</Source>
+      <Dest>我倒不是强盗，不过不管我是什么都可以杀了你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not a bandit, but odds are I might kill you anyway.</Source>
+      <Dest>我倒不是强盗，不过不管我是什么都可以杀了你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You thought this fool was a college mage?  Open your eyes, woman.</Source>
+      <Dest>你以为这货是个学院法师？睁大眼睛仔细看看吧，女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You thought this fool was a college mage?  Open your eyes, woman.</Source>
+      <Dest>你以为这货是个学院法师？睁大眼睛仔细看看吧，女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You thought this fool was a college mage?  Open your eyes, woman.</Source>
+      <Dest>你以为这货是个学院法师？睁大眼睛仔细看看吧，女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just in time too.  It would appear the last bandit didn't care to bargain.</Source>
+      <Dest>也很及时。看起来上一个强盗不喜欢讨价还价。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just in time too.  It would appear the last bandit didn't care to bargain.</Source>
+      <Dest>也很及时。看起来上一个强盗不喜欢讨价还价。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Alchemy) A chaurus lays an egg on a vampire. Nothing comes of it.</Source>
+      <Dest>(Alchemy)查鲁斯在吸血鬼身上产了卵。什么也孵不出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course you can make your own luck.  All you need is a crown of lettuce and some taproot.</Source>
+      <Dest>你当然能给自己创造幸运。你所需要的仅仅是生菜的花冠和一些直立根。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dibellan arts...wait, are you saying what I think you're saying? </Source>
+      <Dest>迪贝拉艺术…等等，你在说什么？你刚才在说什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Drunks mostly.  Alcohol is um...it's an intelligence drainer. Sometimes I wonder if it's brewed with Monkshod and fennel seeds.</Source>
+      <Dest>主要是酒鬼。酒精……对智力影响很大。有时我觉得它就是跟毒草和茴香籽一起酿出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how I convinced him to share the space.  With a rudimentary alchemist's trick, and well...perhaps a little feminine charm.</Source>
+      <Dest>我就是那样说服他让我留下的。用一点初级的炼金小技巧，还有……也许再加点女性魅力。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see. Right.  An apprentice. That would explain why Borvir was so hapless against that bandit.  But I guess he wasn't the only one.</Source>
+      <Dest>我懂了。是啊，一个菜鸟。这就解释了为什么Borvir 如此不幸的与这个强盗对战，但我猜他不是唯一的那个。</Dest>
+    </String>
+    <String List="2">
+      <Source>As someone who categorizes things by fours, I can safely determine that you are vile, disgusting, perverse, and well, weird.</Source>
+      <Dest>作为把物品分为四类的人，我可以[毫无疑问（safely）]地指出你这家伙恶劣、恶心、任性以及非常古怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, only when mixed with another substance like ginseng, appleroot, or um, a wheel of cheese.  But you're right.  You know your alchemy.</Source>
+      <Dest>很好，只有当混合另一种像人参一样的物质，苹果根，或者嗯，一片奶酪。但你是对的。你很了解你的炼金术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah.  There you are.  Not you specifically, of course.  But I was waiting for an adventurer to free me from this predicament.</Source>
+      <Dest>阿，你来了。当然不是特别指你，只是我在等一位探险者来将我从这困境之中解放出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had assumed Borvir would be more than enough protection against the occasional bandit.  </Source>
+      <Dest>我以为博弗足够对抗偶尔出现的强盗的了。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I admit, not everything can be as thrilling as destruction magic....or as harmful.  However, alchemy is rewarding in its own way.</Source>
+      <Dest>我承认，一般的魔法都比不上毁灭系的刺激……和强力。不过，炼金术有它独特的回报。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, he was pretty descriptive regarding some of the more, um, promiscuous Elves.</Source>
+      <Dest>其实他可漂亮了，可以去问问好多乱搞的精灵们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Granted, you could be both. Like ogre's teeth! Yes, ogre's teeth can be used to drain intelligence or fortify strength.</Source>
+      <Dest>当然，你也可以两个都做到。比如用食人魔的牙齿！没错，食人魔的牙齿可以被用来降低智力，增强力量。】</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>You aren't related to any bandits or anything, are you?  I hope I didn't just, you know, insult your sister.  I bet she's really pretty.</Source>
+      <Dest>你肯定跟那些强盗什么的没什么瓜葛，是吧？我希望我刚才，大概，没有说你妹妹的坏话吧。她绝对是个美女。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said he was a conjurer from the College of Winterhold.  And that's his corpse.  So I um...I'm beginning to doubt the accuracy of that statement.</Source>
+      <Dest>他自称是一个来自于冬堡学院的巫师。而这是他的尸体，所以，我...我从一开始就怀疑他这个说法的准确性。</Dest>
+    </String>
+    <String List="2">
+      <Source>When digested, lavender will normally help you resist magic.  But if you only chew the sprigs, it can fortify your personality.</Source>
+      <Dest>当完全消化之后，薰衣草可以帮助你抵抗魔法。但如果你只是咀嚼它的嫩芽，它只会提升你的品行。</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't want to get in the habit of making Alchemy jokes.  Well, um, because they're stupid.</Source>
+      <Dest>你不会想要养成开炼金术玩笑的习惯的。好吧，嗯，因为它们真的蠢透了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Predicament?  Oh right. Well, when um, Borvir became arrow fodder, I humbly suggested to the bandit that he could make far greater use of me alive.</Source>
+      <Dest> 困境？好吧，当然，borvir 成了挡箭牌，我谦卑地建议强盗去充分地利用我生命。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I was pretty much paralyzed throughout the whole ordeal.  It's um...well...it's no wonder my colleagues nicknamed me Canis Root.</Source>
+      <Dest>整场磨难让我完全麻木了。怪不得我的同事给我起了个绰号叫犬型根。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess that's not really a compliment.  In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>我猜那不是称赞。无论如何，我叫卡伊娜。我是名炼金术师。哦不，我是不会给你酿啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But it doesn't matter.  He's um, well, you can see what he is.  In any event, my name is Kianna. I'm an alchemist. And no, I won't brew you an ale.</Source>
+      <Dest>但没关系。他……嗯，呃，你能看到他究竟是什么。无论如何，我叫卡伊娜。我是一个炼金术士。不，我不会给你去酿一瓶啤酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh. Needless to say I don't like those odds.   But if you're saying there's a chance you'll let me live, I'll take it.</Source>
+      <Dest>哦。不用说，我当然不喜欢这赔率了。但如果你说有个机会能让我活下去，这注我买了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, I'd say the opposite is true.  But only when mixed with another substance like ginseng, appleroot, or um, a wheel of cheese.</Source>
+      <Dest>其实，我想说，反之亦然。但只是在混合进像是人参啊，苹果根啊，或者，嗯……一块奶酪的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm.  I was going to say, his "alembic."  But that works too.  Alchemists do take a lot of pride in their discoveries.</Source>
+      <Dest>嗯，我得说，他的“蒸馏器“。但是那无所谓。炼金师确实能从他们的研究发现中获得众人的尊敬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Except, um, snowberries do help you resist fire.  So do fire salts.  I don't think that makes sense.  Which is good, for you anyway.</Source>
+      <Dest>还有，呃，雪浆果可以增加火抗，火焰也有这功效。我不觉得这有啥意义。但这可能对你有点用。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some restore your health, others might ravage it, but the mountain will never be rid of either.</Source>
+      <Dest>有些可以恢复你的健康，而其他一些对你的健康不利。但不管怎样，高山都永远存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can uh...teach you how to properly use an alembic!  You know, to get the best quality potions.  </Source>
+      <Dest>我不能额…教你怎么正确地使用蒸馏器！你懂的，怎么做极品药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told him I rely on invisibility potions to well, survive out in the wild.  But Borvir insisted he needed the teeth for chilling his mead.</Source>
+      <Dest>我告诉他我需要那个来制作隐形药水，以此在野外生存。但伯维尔却坚持他需要寒霜幽灵的牙齿……来冰镇他的蜜酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  So you're not an adventurer. You're a thief.  I'm sorry to hear that.  I suppose that uh, also fell into the realm of possibility. </Source>
+      <Dest>我明白了。所以，你不是一个冒险家。你是个小偷。我很抱歉知道这个。我想，呃，也在可能的范围里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll even taste them first.  And no tricks like with the bandits.  Alchemist's honor.</Source>
+      <Dest>我甚至可以第一个品尝它们。不能像跟强盗一样的耍花招。这是炼金术师的荣誉。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's an unusual statement.  You either have considerable strength, or have...well, not to be mean, but a sizable amount of ignorance.</Source>
+      <Dest>这是一个不同寻常的声明。你也有相当的实力，或者说……呃，还是算了，总之还有很多无知的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  It's uh, it's a figure of speech.  It means...well, I'm terrible at explaining these things, at least without some stoneflowers and kreshweed</Source>
+      <Dest>是的。咳嗯，这是个固定搭配。也就是说……呃，我不怎么会解释这类事啦，至少没有一些石中花啊kreshweed什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Um, yes. Borvir. We were roommates, well, um, without the room. I found him out here by chance, fighting an ice wraith.</Source>
+      <Dest>呃，是的，博弗。我们以前是室友，嗯，呃，可是没有屋子。我是在这里偶然遇到他的，当时他在和一条冰怨灵搏斗。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not in the slightest. A wise move, although I um, I hesitate to accuse a bandit of wisdom. Sometimes I wonder if their diet is made of wickwheat.</Source>
+      <Dest>不，才不是那样。明智的决定。尽管我，嗯，不愿去谴责一个有脑子的强盗。有些时候我好奇他们吃的东西是不是都是灯芯小麦做的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take, um, Elves Ear.  Depending on the mixture, it can restore your magicka or improve your eyesight.</Source>
+      <Dest>需要，嗯，精灵耳。只要通过混合, 它就能恢复你的魔力，提升你的视力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  But another adventurer could.  Bandits and adventurers are like um, well...red and blue mountain flowers.</Source>
+      <Dest>是的。但另一个冒险者可以。 强盗和冒险者的关系就像，嗯，呃……红色和蓝色的山花。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I don't, but um...the subject he was studying?  It uh...wasn't reflective of a college curriculum.</Source>
+      <Dest>呃，我没有，但是，嗯……他在研究这个主题吗？这……嗯，这可不能反映出学院的课程啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't want to go into what the odds say, but it's not in your favor.</Source>
+      <Dest>我才不关心少部分人说了什么，但这是于你没有好处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, no no no.  You must not know many females.  I'm about as seductive as an old tree covered with polypores.</Source>
+      <Dest>哦，不不不。你不必认识很多女人。我和树干上长着木耳的老树一样引人注目。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I suppose some Nords might consider mead studies to be the epitome of higher learning.  Some, not all, mind you.</Source>
+      <Dest>尽管我认为诺的人也许把蜂蜜酒的研究当成是高深学问。一部分，不是全部，你别在意.</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't suppose you have any on you?  Probably not.</Source>
+      <Dest>我不认为你有任何可能！</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>What role does environment play in the potency of a potion?  Why are things different when they are ground or distilled?</Source>
+      <Dest>环境对一瓶药剂的功效有多大影响？为什么材料在研磨之后会和蒸馏的效果不一样呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, not you too. At least you didn't have them walk into a bar.  Am I cringing?  I feel like I'm cringing.</Source>
+      <Dest>哦，也不是你。至少你没让他们进酒吧。我在奉承你么？我觉得我在奉承你。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a bit abrasive, and I knew he'd eventually ask me to leave. Luckily he was also a conjurer, and had a few spare lavender lying around.</Source>
+      <Dest>他有点伤人感情了，我也知道他最后想轰我走。幸运的是他也是个巫师，而且他周围也有一些剩下的薰衣草。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>不管怎么样, 我的名字叫卡伊娜。我是一名炼金术师。并且，我是不会去酿造啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>不管怎么样, 我的名字叫卡伊娜。我是一名炼金术师。并且，我是不会去酿造啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So maybe our vision is tied to magic, or maybe Elves Ear is an augmenter of some sort.</Source>
+      <Dest>所以说，也许我们的视野被魔法所局限，又或者说精灵的耳朵没准是某种增幅器。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know this one.  His children.</Source>
+      <Dest>我认识这家伙。是他的孩子。</Dest>
+    </String>
+    <String List="0">
+      <Source>What predicament were you talking about?</Source>
+      <Dest>你在说什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What predicament were you talking about?</Source>
+      <Dest>你在说什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You still have to use logic.  You don't look at the sky to study fish.</Source>
+      <Dest>用用你的大脑吧蠢蛋！你不能看着天空来研究鱼类。</Dest>
+    </String>
+    <String List="0">
+      <Source>You still have to use logic.  You don't look at the sky to study fish.</Source>
+      <Dest>用用你的大脑吧蠢蛋！你不能看着天空来研究鱼类。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you teach me to be a better alchemist?</Source>
+      <Dest>你能教我如何成为一位出色的炼金术士吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear an Alchemist joke.</Source>
+      <Dest>我想听到一个炼金术士的笑话。</Dest>
+    </String>
+    <String List="0">
+      <Source>You managed to survive though.  You must be tough.</Source>
+      <Dest>想要设法生存下来的话，你必须变得坚强。</Dest>
+    </String>
+    <String List="0">
+      <Source>You managed to survive though.  You must be tough.</Source>
+      <Dest>想要设法生存下来的话，你必须变得坚强。</Dest>
+    </String>
+    <String List="0">
+      <Source>You managed to survive though.  You must be tough.</Source>
+      <Dest>想要设法生存下来的话，你必须变得坚强。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of jokes?</Source>
+      <Dest>什么笑话？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of jokes?</Source>
+      <Dest>什么笑话？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, about that.  There's only one bedroll here.</Source>
+      <Dest>是的,关于那。这里只有一个铺盖卷。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you doing out here?</Source>
+      <Dest>你在外面是做什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you doing out here?</Source>
+      <Dest>你在外面是做什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you doing out here?</Source>
+      <Dest>你在外面是做什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do alchemists do that?  Brew ale?</Source>
+      <Dest>像炼金术士们做的那样？酿啤酒？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do alchemists do that?  Brew ale?</Source>
+      <Dest>像炼金术士们做的那样？酿啤酒？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if your research yields nothing?</Source>
+      <Dest>如果你的研究收益最終是零，會怎樣？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if your research yields nothing?</Source>
+      <Dest>如果你的研究收益最終是零，會怎樣？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes it so difficult?</Source>
+      <Dest>它怎么会这么难？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes it so difficult?</Source>
+      <Dest>它怎么会这么难？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes it so difficult?</Source>
+      <Dest>它怎么会这么难？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes it so difficult?</Source>
+      <Dest>它怎么会这么难？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue.  I'm a killer, for instance.</Source>
+      <Dest>很多人会说点听起来不太真实的事。比如我说我是个杀手。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue.  I'm a killer, for instance.</Source>
+      <Dest>很多人会说点听起来不太真实的事。比如我说我是个杀手。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue.  I'm a killer, for instance.</Source>
+      <Dest>很多人会说点听起来不太真实的事。比如我说我是个杀手。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue.  I'm a killer, for instance.</Source>
+      <Dest>很多人会说点听起来不太真实的事。比如我说我是个杀手。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue. I'm the Dragonborn, by the way.</Source>
+      <Dest>顺便说一下，我就是龙裔。很多人说这听起来不像真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue. I'm the Dragonborn, by the way.</Source>
+      <Dest>顺便说一下，我就是龙裔。很多人说这听起来不像真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue. I'm the Dragonborn, by the way.</Source>
+      <Dest>顺便说一下，我就是龙裔。很多人说这听起来不像真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A lot of people say things that sound untrue. I'm the Dragonborn, by the way.</Source>
+      <Dest>顺便说一下，我就是龙裔。很多人说这听起来不像真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>His feces, obviously.</Source>
+      <Dest>很明显，这是他的残骸。</Dest>
+    </String>
+    <String List="0">
+      <Source>His feces, obviously.</Source>
+      <Dest>很明显，这是他的残骸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  Of course.  Although I can't tell if that's a jest. I uh...I think it's all that lettuce I've been eating.   </Source>
+      <Dest>好的。当然。我不知道这是不是一个玩笑。我，额...我想我吃到的全部是生菜。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  Of course.  Although I can't tell if that's a jest. I uh...I think it's all that lettuce I've been eating.   </Source>
+      <Dest>好的。当然。我不知道这是不是一个玩笑。我，额...我想我吃到的全部是生菜。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I uh, well...I came out here for research. Most of my colleagues find that absurd, considering this part of Skyrim is, you know, blanketed with snow.</Source>
+      <Dest>我 额, 恩...我跑出来是搞勘察的. 我大部分同事觉得很荒谬, 觉得天际省这部分, 你知道, 都被白雪所覆盖.</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  That's me.  Tough, clever, and well, probably lucky.  Although uh...my resilience has nothing to do with my own constitution.</Source>
+      <Dest>对.  那就是我.  强硬, 聪明, 恩, 也许还很幸运.  但是 恩...我的乐观态度没有给我的体质带来任何用处.</Dest>
+    </String>
+    <String List="2">
+      <Source>Right. Like I said, feminine charm. As in, I charmed Borvir into behaving like a gentleman.  He slept on the furs.</Source>
+      <Dest>对. 就像我说的, 女人的魅力. 比方说, 我把博弗迷得像个绅士一样.  He slept on the furs.</Dest>
+    </String>
+    <String List="2">
+      <Source>Alchemy is mostly a serious endeavor.  There's a few jokes my colleagues like to pass around, but they're mostly awful.</Source>
+      <Dest>炼金术大多是严肃的工作。我们同僚当中是有些这方面的笑话，不过大多数很烂。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if it's bandits you kill, I'm hardly one to object.</Source>
+      <Dest>可要是你们要杀的只是强盗，我恐怕算不上。</Dest>
+    </String>
+    <String List="2">
+      <Source>But alright. How's this. An arena fighter takes a blow to the head. Blood starts leaking into his eyes, but the fighter refuses to yield.</Source>
+      <Dest>但好吧，这是怎样的惨烈啊，一个竞技场的战士的头挨了一击，鲜血模糊了他的眼睛，但战士仍不肯屈服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Field research is typically conducted in the um, forests to the south, in caves, or near the marshes.</Source>
+      <Dest>实地研究通常在小岛,南部森林,山洞里或附近的沼泽进行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is the room sanitized?  Is your alembic sanitized?  Trace elements of other ingredients, no matter how small, can alter the output completely.</Source>
+      <Dest>房间消毒彻底吗？实验台消毒彻底吗？要是有其他材料的元素混进来，不管多么微量，都会彻底改变整个实验结果。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay...yes, but I think that goes without saying.  Although human flesh does have a number of uses, so it isn't necessarily true, either.</Source>
+      <Dest>好吧……是的，但我认为这是理所当然的。尽管人肉有很多用途，那这也不一定是真的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I'd argue that things that haven't been discovered are well...counterintuitive by nature.  Not everything is as obvious as deathbells.</Source>
+      <Dest>所以我要说尚未发现的东西常常是……违反直觉的。不是每样东西都像丧钟花那样显而易见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, as a matter of fact, there are some birds of prey who dive under water to feed, and fish  who leap out of the water to evade predators.</Source>
+      <Dest>哇，实际上，有些捕食的鸟潜在水里，猎杀那些要躲避大鳄而跃出水面的鱼。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>His...what?  That's not a joke, that's just revolting.  Although I did have a colleague who swore by the potency of urine.</Source>
+      <Dest>他的……什么？这可不是个玩笑，真是太让人反胃了。尽管我的一个同僚就尿液的功效郑重发誓了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The herbalist doesn't say anything.  It's not polite to talk with your mouth full.</Source>
+      <Dest>那个草药师什么也没说。因为嘴里嚼着东西说话是不礼貌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bee and uh, a blue dartwing, they meet by the pond when a thunderstorm hits. But it turns out only the bee was shocked by the weather.</Source>
+      <Dest>一只蜜蜂和一只，呃，蓝蜻蜓，在池塘边相遇，赶上一场雷雨。结果被闪电击中的只有蜜蜂。【蓝蜻蜓效果1：抵抗闪电】</Dest>
+    </String>
+    <String List="2">
+      <Source>The merchant, um, he looks at the plant and says "Some people may call that a flower, me, I call it a treasure."  </Source>
+      <Dest>这个商人，恩，他看着这个植物说“一些人管这叫做一朵花儿，而我呢，把它们叫做宝贝。” </Dest>
+    </String>
+    <String List="2">
+      <Source>Well, some aren't really jokes, but puns.  Like "Comberry nice to meet you!" or  "If you love him, why don't you frost mirriam?"</Source>
+      <Dest>呃，有些真不是笑话，而是双关语。比如“没对象的，要么是谁都看不上，要么是谁都看不上。”或者“迫于生计我只能去当鸭子，没想到刚嘎嘎两声就被富婆赶出来了。”</Dest>
+    </String>
+    <String List="2">
+      <Source>But I um...I'm not really looking for the typical.  We're not going to advance the field of alchemy without thinking outside of the satchel.</Source>
+      <Dest>但是我...嗯...我并不想成为典型学者。我们要开创炼金新领域就必须跳脱传统思维。</Dest>
+    </String>
+    <String List="2">
+      <Source>This could be interpreted as a form of torture, you know.  Perhaps you like being tortured, but I prefer a nap.</Source>
+      <Dest>这可以解释为一种酷刑，你知道的。也许你喜欢被折磨，但我更爱去睡觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those were, um, waters I was definitely not going to explore.</Source>
+      <Dest>这儿可都是，嗯，都是水啊。我是绝对不会下去探个究竟的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) If anything is a sign the world is ending, that's it.  Okay, how about this.</Source>
+      <Dest>（叹气）如果世界末日有个标志的话，估计就是这样。好吧，这样如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Right. Teach you alchemy...In a word, no.  I mean, alchemy isn't just measuring out ingredients and boiling them together like a soup.</Source>
+      <Dest>是啊，教你炼金术......总之，就是不行。我的意思是，炼金术可不仅仅是搞清楚材料然后一锅煮这么简单的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>The next blow knocks him out, and he loses the match.  The next day he visits the alchemist and um, screams at the potion maker.</Source>
+      <Dest>然后下一击把他打趴下了，他输了那场比赛。第二天他回去拜访药剂师，对他大声怒吼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have to take into account your surroundings.  I mean, what if there's magical resonance affecting your distillation?</Source>
+      <Dest>你还得考虑周围环境因素吧。我是说，要是有什么魔法共振效应影响着你的【蒸馏】呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's the one thing an alchemist will never swallow?</Source>
+      <Dest>有什么东西是炼金术师永远不会吃的？</Dest>
+    </String>
+    <String List="2">
+      <Source>You know, terrible miscarriages of language.  It makes you want to unlearn the common tongue.</Source>
+      <Dest>你知道的，用错语言很可怕，这搅得你想把通用语忘掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>But before I could um...enact my plan, another bandit killed him and took his place.  Three bandits later, and well, here we are.</Source>
+      <Dest>但是在我能……呃，执行能我的计划之前，另一个强盗杀掉并取代了他。之后又有三个，所以呢，就变成了现在这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I always carry a satchel of blue mountain flowers to chew on to restore my health in emergencies, and um, well...lettuce to help with the luck.</Source>
+      <Dest>我总是背着一包蓝山花在紧急的时候用来恢复生命, 还有，嗯...拿生菜来提升幸运.</Dest>
+    </String>
+    <String List="2">
+      <Source>But Dragonborn or Dragon's tongue, right now I'm not in a position to do anything but thank you.</Source>
+      <Dest>不论是龙裔还是龙舌兰，我现在都不能做任何事，但还是谢谢你了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>In truth, I was planning on killing him, using a similar trick to the one, you know, Asliel Direnni used to vanquish the Locvar.</Source>
+      <Dest>事实上，我正计划要杀了他，用那个相似的伎俩，你知道的，就是阿斯里尔·迪仁尼用来征服洛克瓦的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's...not something I can teach.  You need to have a feel for the variables, and how they're changing.  You either have it or you don't.</Source>
+      <Dest>这不是我能教你的东西。你需要感知它的变化，它们是怎样发生改变的。你要么能拥有它，要么不能。</Dest>
+    </String>
+    <String List="2">
+      <Source>You do realize these jokes are awful, right?  If you were studying at a jester academy, they would probably be, you know, grounds for expulsion?</Source>
+      <Dest>你知道这些笑话很糟糕的，对吗？如果你在一个小丑学院学习，这很可能会成为，呃，你被开除的理由！</Dest>
+    </String>
+    <String List="2">
+      <Source>We've been known to, um, experiment with various ingredients.  But Borvir would've been the one to ask about that.  Well, back when he was alive.</Source>
+      <Dest>我们确实通晓，嗯，有关各种素材的实验。但是Borvir才是唯一能帮到你的人。 哇哦, 趁他还没死先赶回去吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's trial and error, the process of elimination.  That's pretty much the methodology of any alchemist.</Source>
+      <Dest>一如炼金术师的研究一般，淘汰的过程是历经重复失败的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know, for a second there I think I almost achieved a state of bliss. This joke will, well, it will certainly rectify that.</Source>
+      <Dest>你知道，有一会我觉得我几乎达到一种极度欢快的状态。 This joke will, well, it will certainly rectify that.</Dest>
+    </String>
+    <String List="2">
+      <Source>No two ingredients are alike.  You can have one juniper berry that's sweet and ripe and another one that's highly acidic.</Source>
+      <Dest>没有两种材料是差不多的。你能弄到一个又熟又甜的雪浆果也能弄到一个酸的倒牙的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyways, a priest, an alchemist, and um, a mage all contract the same illness.  So the priest returns to his temple and um, prays for a cure.</Source>
+      <Dest>总之，一个牧师，一个炼金术师，还有一个嗯，一个染上了什么病的魔法师。所以呢牧师回到他的神庙并且嗯，嗯祈祷能让他痊愈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>不管怎么样, 我的名字叫卡伊娜。我是一名炼金术师。并且，我是不会去酿造啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>不管怎么样, 我的名字叫卡伊娜。我是一名炼金术师。并且，我是不会去酿造啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, my name is Kianna.  I'm an alchemist.  And no, I won't brew you an ale.</Source>
+      <Dest>不管怎么样, 我的名字叫卡伊娜。我是一名炼金术师。并且，我是不会去酿造啤酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

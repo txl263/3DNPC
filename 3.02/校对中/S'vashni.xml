@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What does the Stance of Stendarr entail?</Source>
+      <Dest>Stance of Stendarr 意味着什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Stance of Stendarr entail?</Source>
+      <Dest>Stance of Stendarr 意味着什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Stance of Stendarr entail?</Source>
+      <Dest>Stance of Stendarr 意味着什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Stance of Stendarr entail?</Source>
+      <Dest>Stance of Stendarr 意味着什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Stance of Stendarr entail?</Source>
+      <Dest>Stance of Stendarr 意味着什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to know about the Julianos stance.</Source>
+      <Dest>我很想了解 Julianos stance。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to know about the Julianos stance.</Source>
+      <Dest>我很想了解 Julianos stance。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to know about the Julianos stance.</Source>
+      <Dest>我很想了解 Julianos stance。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to know about the Julianos stance.</Source>
+      <Dest>我很想了解 Julianos stance。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should be careful who you threaten.</Source>
+      <Dest>你应该小心提防你威胁过的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these swords you seek.</Source>
+      <Dest>说说你找到的这把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these swords you seek.</Source>
+      <Dest>说说你找到的这把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these swords you seek.</Source>
+      <Dest>说说你找到的这把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these swords you seek.</Source>
+      <Dest>说说你找到的这把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about Kynareth's technique.</Source>
+      <Dest>有意思，跟我说说 Kynareth 的高招。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about Kynareth's technique.</Source>
+      <Dest>有意思，跟我说说 Kynareth 的高招。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you hail from, brash one?</Source>
+      <Dest>高傲的家伙，你从哪来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you hail from, brash one?</Source>
+      <Dest>高傲的家伙，你从哪来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you hail from, brash one?</Source>
+      <Dest>高傲的家伙，你从哪来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you hail from, brash one?</Source>
+      <Dest>高傲的家伙，你从哪来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you hail from, brash one?</Source>
+      <Dest>高傲的家伙，你从哪来？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like fate to me.</Source>
+      <Dest>貌似是我的宿命。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like fate to me.</Source>
+      <Dest>貌似是我的宿命。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know your name.</Source>
+      <Dest>我希望能知道你的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know your name.</Source>
+      <Dest>我希望能知道你的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing.  Tell me about the technique derived from Akatosh.</Source>
+      <Dest>有趣。给我讲讲这项来自于阿卡托什的技能。</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing.  Tell me about the technique derived from Akatosh.</Source>
+      <Dest>有趣。给我讲讲这项来自于阿卡托什的技能。</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing.  Tell me about the technique derived from Akatosh.</Source>
+      <Dest>有趣。给我讲讲这项来自于阿卡托什的技能。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. Tell me about the Stance of Mara.</Source>
+      <Dest>很有趣，告訴我玛拉的立場與態度。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. Tell me about the Stance of Mara.</Source>
+      <Dest>很有趣，告訴我玛拉的立場與態度。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you could have easily been dead, if not for these series of coincidences.</Source>
+      <Dest>你可能早就死了，如果沒有這一連串的巧合的話。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you could have easily been dead, if not for these series of coincidences.</Source>
+      <Dest>你可能早就死了，如果沒有這一連串的巧合的話。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm curious about the Stance of Talos.</Source>
+      <Dest>我挺好奇塔洛斯之势的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm curious about the Stance of Talos.</Source>
+      <Dest>我挺好奇塔洛斯之势的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>我听说刀锋战士不会招募那些帮不上忙的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>我听说刀锋战士不会招募那些帮不上忙的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>我听说刀锋战士不会招募那些帮不上忙的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>我听说刀锋战士不会招募那些帮不上忙的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>我听说刀锋战士不会招募那些帮不上忙的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens beyond fifty paces?</Source>
+      <Dest>五十步之后会发生什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens beyond fifty paces?</Source>
+      <Dest>五十步之后会发生什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the one who's down to her last breath.  Savor it before I kill you.</Source>
+      <Dest>你是让她咽下最后一口气儿的人。尝尝她的滋味儿，否则我就杀了你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the one who's down to her last breath.  Savor it before I kill you.</Source>
+      <Dest>你是让她咽下最后一口气儿的人。尝尝她的滋味儿，否则我就杀了你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I tire of your taunts.  Let's dance.</Source>
+      <Dest>真受不了你了，来个跳舞吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet it was this newly discovered faith in the workings of the Gods, that inspired him to develop the skills for which I'm the caretaker.</Source>
+      <Dest>然而正是这种在为神服务的过程中获得的新的信仰，促使他提升了我看管着的技能。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Embrace of Mara. Both blades held out horizontally, to create the illusion of an opening. </Source>
+      <Dest>皈依于玛拉。都把武器平举，开始制造幻术的开场。 </Dest>
+    </String>
+    <String List="2">
+      <Source>A son of Cloud Ruler Temple named me the Desert Fang.  The Thalmor know me as Death's Courier.</Source>
+      <Dest>凌云者神殿那边的人把我命名为荒漠之牙，而梭默则称我为死亡使者。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're bold.  Good.  It's been a long time since I met someone who could make my fur stand on end.  </Source>
+      <Dest>你真勇敢，很好。很久没碰到让我毛都竖起来的人了。  </Dest>
+    </String>
+    <String List="2">
+      <Source>You said it yourself.  There must always be one, and there can only be one.  But on that day, there was neither.</Source>
+      <Dest>你亲口说的。到时候一定会有一个，而且也只会有一个。可是到了那天，一个也没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn this infernal snowstorm!</Source>
+      <Dest>这该死的鬼暴风雪！</Dest>
+    </String>
+    <String List="2">
+      <Source>Then they won't mind offering me their blades.  </Source>
+      <Dest>那么他们就不会介意向我提供他们的刀片。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as we know naught from where the rain falls, the blade's vertical position masks its angle and its target.</Source>
+      <Dest>就像我们不知道雨滴落在哪里一样，刀处在垂直位置掩盖了它的攻击角度和目标。</Dest>
+    </String>
+    <String List="2">
+      <Source>Having left the order, his eyes were indeed tainted with sorrow, and for that he pitied this kitten when he should have abandoned it.</Source>
+      <Dest>离开 the order之后，他的眼中浸透了悲伤，于是在他本应遗弃这只小猫的时候同情了它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fools who couldnt see past their own weakness.   </Source>
+      <Dest>看不透自己弱点所在的傻瓜们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The tip of the blades nearly scrape the ground, sweeping upward to catch the crook of the elbow where the joints meet and the flesh is exposed.</Source>
+      <Dest>刀尖几乎是蹭着地面游移，接着上挑，卡在了那个骗子暴露在外的手肘关节处。</Dest>
+    </String>
+    <String List="2">
+      <Source>So, my mentor, at last you show your cowardly face.  Or what's left of it.</Source>
+      <Dest>那么，导师，最后你就给我看了你那张懦弱的脸。或是剩下的什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Blast! I almost had it this time! I...I could see it unfold in front me...I just need to retrace the steps!</Source>
+      <Dest>爆炸了！我这次几乎都做到了！我……我可以看见它在我眼前绽放……我只需要按步骤来一次就行！</Dest>
+    </String>
+    <String List="2">
+      <Source>Julianos teaches that from one thing, know ten thousand.  Study closely what is distant and look from a distance at what is close.</Source>
+      <Dest>从尤里安诺思学到的一件事是，纵知万千。见微知著，举一反三。</Dest>
+    </String>
+    <String List="2">
+      <Source>One is as light as a feather, and as fast as the arrow it fletches.</Source>
+      <Dest>它轻如鸿毛，又迅若飞矢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you hear me!  You cannot hide from me forever, my mentor.</Source>
+      <Dest>你到了吗！你不可能永远躲得开我，我的导师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twenty paces later a red gash will appear on the victim's neck, no thicker than a cat's hair.</Source>
+      <Dest>20步之后，一个红色的不超过猫毛宽的裂缝会出现的受害者的脖子上面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not even the most cowardly of Gods could approve of you using this outsider to settle our business.</Source>
+      <Dest>连最懦弱的众神也不会赞同你让这个局外人来插手我们的生意。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Blade who had left the service found me as he descended the steps.  To him it was a sign from the Divines.  </Source>
+      <Dest>一个刚做完礼拜离开神殿的刀锋战士在下楼梯时发现了我。对他来说或许这是圣灵的指引吧。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Both are life and death incarnate.  One knows not which role they play.  These are the perfect weapons to slay my mentor once more.</Source>
+      <Dest>两者皆是生与死的体现。没有谁知道扮演其中的哪个角色。它们都是再一次杀死我良师益友的最好武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Blades weren't fools, they would measure their Emperors by where they seat their Thalmor guests.  At the table, or on a pike.</Source>
+      <Dest>如果那些刀锋战士不是傻子，他们应该用他们让梭默客人坐的位置来衡量他们的皇帝。在饭桌上，或在战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come now, even you can see this is how it was meant to end.  </Source>
+      <Dest>来吧，就算你已经知道这就是既定的结局。</Dest>
+    </String>
+    <String List="2">
+      <Source>Akatosh. The Dragon God of Time. And what's battle but timing, no different than a bard's tune, a dance to the beat of a throbbing heart.</Source>
+      <Dest>阿卡托什。时空之龙神。无战为时空，无同吟遊诗人之舌，以舞的节奏震撼胸膛。</Dest>
+    </String>
+    <String List="2">
+      <Source>The other is as sharp and as piercing as a confession.  Heavy for an Akaviri sword...a blade meant to ward off blows and strike with force.</Source>
+      <Dest>另一把剑如北风般锋锐透骨。在阿卡维的剑中算是重剑了……一把用来卸开攻击和全力劈斩的剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>It makes no difference whether this Titus Mede is of dragon blood or skeever, just that his army stands between them and the executioner's axe.</Source>
+      <Dest>提图斯·迈德有龙血统还雪鼠血统都一样，只是要砍了他的脑袋之前要先过他的军队那一关。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like parasites who cling to the lion's mane, the weak must ally with the strong, and pray they aren't flicked off by the stroke of its tongue.</Source>
+      <Dest>就像寄生虫依附在狮子的鬃毛上一样，弱者必须依附于强者，并且祈祷自己不会像狮子舔走寄生虫一样，被强者用舌头一扫而落。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think on who they were, and not who they are.  The Blades are a group of bandits, rogues, and traitors.  Most of all they are fools.</Source>
+      <Dest>你考虑的是他们曾经怎样，而不是他们现在怎样。现在的刀锋兄弟会是一窝子强盗、流氓、叛徒。而且最重要的是，他们都是一群蠢蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shall we dance then, or do you wish to know the name of your better?</Source>
+      <Dest>那么我们来起舞吧，还是说我应该先自我介绍一下？</Dest>
+    </String>
+    <String List="2">
+      <Source>Cyrodiil, fool, from the steps of Cloud Ruler Temple.  From whence I came before that, no one knows.</Source>
+      <Dest>赛瑞迪尔，蠢货，从凌云者神庙的台阶之上。在此之前没人知道这件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Its edge doesn't appear to be as fine, but that's deliberate.  A light blade with an edge is brittle, and this sword is as sturdy as it is swift.</Source>
+      <Dest>这把刀的刀刃不是很精致，不过很结实。很轻的单刃刀很脆弱，而这把刀又结实又轻便。</Dest>
+    </String>
+    <String List="2">
+      <Source>As two warriors pass on the road, the blade is drawn from the scabbard and returned in a single motion. </Source>
+      <Dest>当两个武士在路上相遇，剑很快地从鞘里拔出又送了回去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bah! Garbled poetry and peasant wisdom.  Unnecessary layers of depth that belies what is the simplest of all truths.</Source>
+      <Dest>呸！胡言乱语的诗歌还有形同雕虫的智慧，无用的深层思考往往扭曲了最平实不过的事理。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is easier to kill a one-armed foe than one with two arms and a sword. The stance of Julianos is designed to disarm.  Quite literally, in fact.</Source>
+      <Dest>杀死一个独臂的敌人绝对比杀死一个双手健全还带着一把剑的敌人容易。尤里安诺斯的立场是设法使敌人失去战斗力。就事实来说，很实际。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thirty paces later and the gash will form a crescent, as pearls of blood trickle from the wound.</Source>
+      <Dest>三十步之后刀痕会形成一弯新月，血滴就像珍珠一样从伤口泼洒出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all the other instances, every day we live without incident, those moments are never ascribed to the laziness of the Gods.  Just forgotten.</Source>
+      <Dest>和所有其他的【副本】，每一天我们都毫无意外地活着，那些时候从不会被归因于圣灵的懒惰。只会被遗忘。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all the other instances, every day we live without incident, those moments are never ascribed to the laziness of the Gods.  Just forgotten.</Source>
+      <Dest>和所有其他的【副本】，每一天我们都毫无意外地活着，那些时候从不会被归因于圣灵的懒惰。只会被遗忘。</Dest>
+    </String>
+    <String List="2">
+      <Source>So fifty-one paces, traveler, from where you stand. That's when you can exhale.</Source>
+      <Dest>所以，51步，旅行者，从你现在所站的位置。那之后你就可以呼吸了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Talos.  Mortal man ascended to the Divines.  The front foot faces the opponent, just as Talos faced the armies of men.</Source>
+      <Dest>塔洛斯。凡人最终成就了圣灵之位。前脚面对着对手，就像塔洛斯面对凡人的军队。</Dest>
+    </String>
+    <String List="2">
+      <Source>Arkay! Blasted Arkay!  99 fools, life and death delivered by my blades, and not once has the Stance of Arkay shown itself.  </Source>
+      <Dest>阿尔凯! 该死的阿尔凯! 简直愚蠢至极，生死是由我的刀锋掌控的，而不是这阿尔凯之势区区一显灵就能决定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fifty paces and the line has run full circle, the blood dribbling onto his collar.  </Source>
+      <Dest>五十步之后，脖子上的伤口已经汇成一个圆，鲜血不断从颈间滴落。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stance of Kynareth.  Both blades pointed upward to the sky.  Power sacrificed for stealth.</Source>
+      <Dest>凯娜瑞斯的祝福. 双剑指向天空。牺牲力量以换取敏捷的加成。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sacred, and so dull they can't even shave your beard.  This scroll, on the other hand, may point me to what I need.</Source>
+      <Dest>神圣，却又无趣，连用来刮胡子都不行。不过换个角度，这个卷轴能将我引向我所需的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The world is full of such tales of fate and coincidence, for that's what we burn into our memories.</Source>
+      <Dest>这个世界充满了如此宿命和巧合的故事，那些都是烙印在我们记忆中的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The world is full of such tales of fate and coincidence, for that's what we burn into our memories.</Source>
+      <Dest>这个世界充满了如此宿命和巧合的故事，那些都是烙印在我们记忆中的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'is designed to stagger an opponent and end the fight quickly, but should you fail you will fall to your own exhaustion.</Source>
+      <Dest>这被设计成能使你的对手蹒跚，并可以很快结束战斗。但如果你失败了，你会死于自己的疲惫乏力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stendarr's Mercy. The only technique of the Nine that utilizes a single blade, and a single cut.</Source>
+      <Dest>斯坦德尔保佑.  九圣灵唯一一个只用一刀一个伤口的绝活。</Dest>
+    </String>
+    <String List="2">
+      <Source>The victim reaches for his neck, and upon touching it, his head topples over.</Source>
+      <Dest>受害者伸手握住了他的脖子，之后，他的脑袋便坍了下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>I plan on delivering Garrett to you, so you can settle this in single combat.</Source>
+      <Dest>我计划把Garrett送到你手上，这样能在你单打独斗的时候派上用场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I plan on delivering Garrett to you, so you can settle this in single combat.</Source>
+      <Dest>我计划把Garrett送到你手上，这样能在你单打独斗的时候派上用场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I plan on delivering Garrett to you, so you can settle this in single combat.</Source>
+      <Dest>我计划把Garrett送到你手上，这样能在你单打独斗的时候派上用场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am the pupil, and the one who will face you in the end.</Source>
+      <Dest>我就是那个学生，也是那个会与你同归于尽的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It will likely be someone else who will face you. I am but a lowly servant.</Source>
+      <Dest>当然是其他人要见你。我只是个卑微的仆人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It will likely be someone else who will face you. I am but a lowly servant.</Source>
+      <Dest>当然是其他人要见你。我只是个卑微的仆人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It will likely be someone else who will face you. I am but a lowly servant.</Source>
+      <Dest>当然是其他人要见你。我只是个卑微的仆人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ha, so you can't even learn one simple stance. Who's the imbecile now?</Source>
+      <Dest>哈，这么说你连一个简单的姿势都学不会。现在谁才是蠢货？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right.  One on one combat is the true test of one's mettle.</Source>
+      <Dest>你是对的。一对一的较量是对一个人勇气的真正考验。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your armor and sword.</Source>
+      <Dest>跟我说说你的盔甲和剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your armor and sword.</Source>
+      <Dest>跟我说说你的盔甲和剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like Garrett has adapted his philosophy to fit reality.</Source>
+      <Dest>听起来加勒特的哲学越发接地气了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like Garrett has adapted his philosophy to fit reality.</Source>
+      <Dest>听起来加勒特的哲学越发接地气了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like Garrett has adapted his philosophy to fit reality.</Source>
+      <Dest>听起来加勒特的哲学越发接地气了。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're looking for a fight, Skyrim's as good a place as any.</Source>
+      <Dest>如果你想找架打，天际是最合适的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're looking for a fight, Skyrim's as good a place as any.</Source>
+      <Dest>如果你想找架打，天际是最合适的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're looking for a fight, Skyrim's as good a place as any.</Source>
+      <Dest>如果你想找架打，天际是最合适的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're looking for a fight, Skyrim's as good a place as any.</Source>
+      <Dest>如果你想找架打，天际是最合适的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think faith plays no role in the technique?</Source>
+      <Dest>为什么你觉得技术面前信心毫无重要可言？</Dest>
+    </String>
+    <String List="0">
+      <Source>If he knew you didn't believe, why try to pass on the Stance of Arkay?</Source>
+      <Dest>如果他知道你不相信，为什么会尝试传给你the Stance of 阿爾凱?</Dest>
+    </String>
+    <String List="0">
+      <Source>If he knew you didn't believe, why try to pass on the Stance of Arkay?</Source>
+      <Dest>如果他知道你不相信，为什么会尝试传给你the Stance of 阿爾凱?</Dest>
+    </String>
+    <String List="0">
+      <Source>Just rename the technique "The Way of the Eight."  Problem solved.</Source>
+      <Dest>只要把它改名为 "The Way of the Eight."  问题就解决啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just rename the technique "The Way of the Eight."  Problem solved.</Source>
+      <Dest>只要把它改名为 "The Way of the Eight."  问题就解决啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here?</Source>
+      <Dest>你为什么会在这里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet in the end, the technique alludes you. There must be something to it.</Source>
+      <Dest>然而最后这项技能指向了你。这肯定意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet in the end, the technique alludes you. There must be something to it.</Source>
+      <Dest>然而最后这项技能指向了你。这肯定意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you killed the one person who could teach you.  Smart.</Source>
+      <Dest>所以你杀了那个能教你的人，聪明。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you killed the one person who could teach you.  Smart.</Source>
+      <Dest>所以你杀了那个能教你的人，聪明。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you killed the one person who could teach you.  Smart.</Source>
+      <Dest>所以你杀了那个能教你的人，聪明。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Stance of Dibella.</Source>
+      <Dest>跟我讲讲迪贝拉的姿态。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Stance of Dibella.</Source>
+      <Dest>跟我讲讲迪贝拉的姿态。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not even death can stop one so determined.  I applaud you.</Source>
+      <Dest>即使是死亡也无法阻挡如此坚定的人。我为你喝采。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not even death can stop one so determined.  I applaud you.</Source>
+      <Dest>即使是死亡也无法阻挡如此坚定的人。我为你喝采。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not even death can stop one so determined.  I applaud you.</Source>
+      <Dest>即使是死亡也无法阻挡如此坚定的人。我为你喝采。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not even death can stop one so determined.  I applaud you.</Source>
+      <Dest>即使是死亡也无法阻挡如此坚定的人。我为你喝采。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not even death can stop one so determined.  I applaud you.</Source>
+      <Dest>即使是死亡也无法阻挡如此坚定的人。我为你喝采。</Dest>
+    </String>
+    <String List="0">
+      <Source>And yet your blade is mute, while your mouth never stops moving.</Source>
+      <Dest>当你喋喋不休时，你的刀剑却缄默无声.</Dest>
+    </String>
+    <String List="0">
+      <Source>Only the weak rely on others. Forge your own legacy.</Source>
+      <Dest>只有弱者才依赖别人。打造属于你的传奇。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm curious about the Stance of Talos.</Source>
+      <Dest>我挺好奇塔洛斯之势的。</Dest>
+    </String>
+    <String List="0">
+      <Source>So it isn't faith you lack, but competence.</Source>
+      <Dest>这么说你缺少的不是信心，而是能力。</Dest>
+    </String>
+    <String List="0">
+      <Source>So it isn't faith you lack, but competence.</Source>
+      <Dest>这么说你缺少的不是信心，而是能力。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Stance of Zenithar?</Source>
+      <Dest>那么泽尼萨尔的立场又如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Stance of Zenithar?</Source>
+      <Dest>那么泽尼萨尔的立场又如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>You know what's meaningless?  Your existence in about 2 minutes.</Source>
+      <Dest>你知道什么是毫无意义的吗？在那两分钟里你的存在。</Dest>
+    </String>
+    <String List="0">
+      <Source>You know what's meaningless?  Your existence in about 2 minutes.</Source>
+      <Dest>你知道什么是毫无意义的吗？在那两分钟里你的存在。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned before you were after a pair of swords.</Source>
+      <Dest>你之前提到过你在寻找两把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned before you were after a pair of swords.</Source>
+      <Dest>你之前提到过你在寻找两把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned before you were after a pair of swords.</Source>
+      <Dest>你之前提到过你在寻找两把剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned before you were after a pair of swords.</Source>
+      <Dest>你之前提到过你在寻找两把剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>A great swordsman's talents are wasted in a war.  Stray arrows, trebuchets, accidents...many great warriors have been felled by the blade of chaos.</Source>
+      <Dest>伟大剑士的才华往往被战乱所浪费了。那些流矢，投石车，事故什么的...在混战中陨落了的伟大剑士实在太多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When braced together two blades are as resolute as any shield, and the winds of Zenithar will shift for those who labor and endure.</Source>
+      <Dest>当两把剑像盾牌一样坚毅地互相支撑时，泽尼萨尔的祝福就会降临到这些坚持不懈的人身上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.  I will wait for you both at winter's peak, where Kynareth sheds not a tear.</Source>
+      <Dest>很好，我会在冽冬之巅等着你们。 在那里，即使是凯娜瑞斯也流不出一滴泪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Without the mythology, the Way of the Nine would not exist. But inspiration is not the same as the Gods descending to earth and handing you power.</Source>
+      <Dest>要是没了神话，the Way of the Nine 不会存在。不過靈感這種東西不會像眾神一樣回歸塵土并且给你力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such is the reasoning behind my mentor's belief that the last stance, the one of Arkay, is now the only one that requires faith.</Source>
+      <Dest>这就是在我的导师信仰最终化身之后的理由，阿尔凯的唯一，现在只需要一个信仰者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I am not accustomed to their varying weights.  I will need to train before I can wield them as they were designed.</Source>
+      <Dest>依然，我并不习惯它们这多变的重力。在设计它们出来后让我使用之前我得需要训练下。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first, I played along, if only to extract the knowledge. Yet near the end, it was obvious to even him that I had no interest in fairy tales.</Source>
+      <Dest>开始的时候，我假装配合，为的只是提取知识。到了最后，连他都应该能够看得出来我对童话完全没兴趣。]</Dest>
+    </String>
+    <String List="2">
+      <Source>So the house cat can count to two?  One more than I expected.  But it doesn't count if you use your paws.</Source>
+      <Dest>所以这只家猫能数到2？我还以为它只能数到1呢。不过要是你用爪子数就不算。</Dest>
+    </String>
+    <String List="2">
+      <Source>A sanctuary for ghosts of the Akavir.  My mentor once spoke of it in passing.  Now, all those ghosts have passed.</Source>
+      <Dest>是Akavir幽灵的庇护所。我的导师提起过【它的过去】。而现在，所有那些幽灵都已成为过去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like your queries, they range from the utterly pointless to the completely meaningless.</Source>
+      <Dest>就像你的问题一样，他们说话的内容从【毫无重点】到【全无意义】。</Dest>
+    </String>
+    <String List="2">
+      <Source>But know this.  My sword serves no one.  </Source>
+      <Dest>可是要知道，我的剑不会为他人而战。 </Dest>
+    </String>
+    <String List="2">
+      <Source>And just to show that I am not entirely ungrateful, here.  A reward for your assistance.</Source>
+      <Dest>只是表明我并非忘恩负义。这是给你的报酬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet if I hadn't struck the killing blow, then I myself would be lost to the void, and that's a trade only imbeciles like you would find worthy.</Source>
+      <Dest> 然而如果我没有给出致命一击，那么我就会灰飞烟灭，只有像你这样愚蠢的人才会认为那是划算的交易。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fool, your words display the emptiness of your mind.  It was my mentor himself who stated the Stance of Arkay was one passed on through death.</Source>
+      <Dest>傻子，你的话已经表明了你的脑子空空如也。我那亲自制定了阿尔凯之势的导师，是个已通过了死亡试炼的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will not work on me, Elf.  This cat never retracts her claws.</Source>
+      <Dest>奉承对我没有用，精灵。这只猫咪永远不会缩回她的爪子。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will not work on me, Orc.  This cat never retracts her claws.</Source>
+      <Dest>奉承对我没有用，兽人。这只猫可不会缩回自己的爪子。</Dest>
+    </String>
+    <String List="2">
+      <Source>This means my mentor will have time to conduct whatever foolish rituals he has concocted, and leave him no excuse when I slay him and his pupil.</Source>
+      <Dest>这意味着我的导师有足够的时间去策划任何愚蠢的仪式了。就是因为这，在我杀掉他和他的学生的时候，他也没有能什么能寻得原谅的借口了。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So you wish to hear the song of my blades then?  You better listen carefully, as few ever make it past the first verse.</Source>
+      <Dest>(笑声) 所以你想听我刀片声演奏的曲子吗？你最好听仔细咯，因为很少有人能听它的演奏超过第一章节。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will not work on me, furball.  Unlike you, this cat never retracts her claws.</Source>
+      <Dest>阿谀奉承对我不起作用，小毛球。不像你，这些猫永远不会收起她们的爪子。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Scoffs) What you consider a fight, or even a war, is nothing more than a brawl between drunken louts over a spilled drink.</Source>
+      <Dest>(嘲笑)你以为一场战斗，甚至一个战争，跟酒鬼为打翻了酒而大打出手没什么不同吗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Idiot, why do I even waste my breath speaking to you?  This is not about a name or some fool's sense of glory.</Source>
+      <Dest>白痴，为什么我要浪费口水跟你说话，这与名字或者某个愚蠢的光荣感没任何关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>You ask me why I think faith plays no role?  I am living proof.  I mastered 8 techniques without once prostrating myself before an altar.</Source>
+      <Dest>你问我为什么认为信仰毫无作用？我就是活生生的证明。我掌握了八圣灵的技巧，却从未拜倒在他们的祭坛前哪怕一次。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two fangs of unparalleled edges and durability, masterly crafted and in my hands.</Source>
+      <Dest>这两柄獠牙有着无与伦比的锋利和持久，是经我的手精湛制作而成的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>My mentor once believed that every technique required an unwavering belief in the Divine for which it was named.</Source>
+      <Dest>我的导师曾相信，每个技巧都需要对圣灵坚定不移的信仰，因而才能得以命名。</Dest>
+    </String>
+    <String List="2">
+      <Source>One can't even trust his own side in the haze of war. Who's to say who's friend or foe, when your eyes squint through geysers of dirt and smoke.</Source>
+      <Dest>在战争的迷雾中你甚至连自己人都没法相信。在尘土和烟雾里眯缝着眼睛，谁看得出谁是敌是友。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's possible he views the outcome as both a reinforcement of his beliefs and a punishment for his wavering faith.</Source>
+      <Dest>可能他认为这次的结局既是对他信心的加强，也是对他动摇着的信念的惩罚。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the imbecile can count to two?  One more than I expected.  But it doesn't count if you use your hands.</Source>
+      <Dest>所以低能儿能数到二？比我想的还多一个。不过如果你用手了那就不算了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you lack faith in your own abilities, or in the task itself?  It matters not, whoever comes will carry the soul of my mentor.</Source>
+      <Dest>你是对自己的能力没信心呢，还是对这个任务本身没信心？没关系，不管是谁，只要来了，都肯定有着我导师的灵魂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will not work on me, human. This cat never retracts her claws.</Source>
+      <Dest>奉承不会对我有用的，人类，要知道猫从来不收回他的爪子</Dest>
+    </String>
+    <String List="2">
+      <Source>You say that as if what I attempt to master is easy.  If I lack competence, so does every other mortal who has ever lived, save one.</Source>
+      <Dest>你说的好像我想要掌握的东西很容易似的。如果我缺乏竞争力，那么每个曾经活着的人都没有竞争力，除了一个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is only because the 9th escapes me that he clings to the notion that faith is what I lack.</Source>
+      <Dest>只是因为第九次避开我，他才执着地认为我缺乏信仰。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tell him he will find me at winter's peak, where Kynareth shed's not a tear.</Source>
+      <Dest>告诉他，他能在冬之峦——那能将凯娜瑞斯之泪冻结成冰的地方找到我。</Dest>
+    </String>
+    <String List="2">
+      <Source>And still, I managed to kill him.</Source>
+      <Dest>而且最后我还是成功把他杀掉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed I was.  Two legendary swords, hidden away in a nameless barrow to the north.</Source>
+      <Dest>我确实是。两把传说中的剑，被藏在一个无名的推车中，运往北方。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I need is more time, and another chance to see the stance in battle.  What I do not lack is more faith.</Source>
+      <Dest>我所缺乏的就是能有更多的时间，还有就是一个能再一睹那战斗姿态的机会。信心，我从来都不会缺少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Clearly, it is the one who challenges me.  Is it bravado?  Or foolishness?  Our time will come, but my mentor comes first.</Source>
+      <Dest>当然是那些挑战我的家伙啦。那些家伙到底算是鲁莽呢？还是愚蠢呢？我们的时代就要来临了，但先得让我把招数都给学会。</Dest>
+    </String>
+    <String List="2">
+      <Source>She stands nude, arms raised cupping a golden flower, pouring cool water over her supple breasts.  But here beauty is artifice.</Source>
+      <Dest>她赤身裸体的站着，举起双臂，环住一簇金色的花朵，清凉的泉水倾倒在她柔软的乳房上。但这种美只是个假象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.  I wouldn't have it any other way.  I will wait for you at winter's peak, where Kynareth sheds not a tear.</Source>
+      <Dest>当然，我没有其他办法了。我会在冽冬之巅等你。那个凯娜瑞斯无泪之地。</Dest>
+    </String>
+    <String List="2">
+      <Source>The stance is seduction. The blade raised in the right hand glints like the midday sun, bewitching your eyes while its partner lies in the grass.</Source>
+      <Dest>这姿态是个诱饵。右手高举的利刃如正午的太阳般闪耀光芒，你的目光被牢牢抓住，却殊不知另一把利刃就藏在草丛中。</Dest>
+    </String>
+    <String List="2">
+      <Source>And only a devout simpleton tries to reassemble the wheel. I will build my own legacy, but only after I have absorbed all that is beneath me.</Source>
+      <Dest>而只有傻瓜才会覆辙重蹈。在我吞并所有弱者之后，我将在身后留下自己的轨迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why else, imbecile?  To hunt my old mentor.  Yet he continues to allude me, as does his Stance.  </Source>
+      <Dest>还能为什么，蠢材？只为猎杀我的先师。而他和他的的“姿态”全都在影射我。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no doubt my mentor was inspired by his faith.</Source>
+      <Dest>我确实为他的信念所鼓舞。</Dest>
+    </String>
+    <String List="2">
+      <Source>I seek perfection.  Knowledge.  Power.</Source>
+      <Dest>我追求完美。知识之极境，力量之极致。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is the only person I truly wish to slay, for in doing so I will master that which is rightfully mine.</Source>
+      <Dest>他是唯一我真正动了杀机的家伙。只有这样做了，我才能掌控真正的自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>As do all who bow to the Gods.  They believe the Divines protect us, and when they fail, they say it was all part of the plan.</Source>
+      <Dest>所有信奉圣灵的人都是这样。他们相信圣灵保护大家，就算愿想被打破，他们也说这是计划中的一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>The absence of one thing does not prove the other.  I lack knowledge.  I lack a method with which to obtain it, and a mentor to teach it.</Source>
+      <Dest>缺乏一件事物并不代表着缺乏所有，我是缺乏这方面的只是，也缺乏一个好的方法去得到知识，或者说我缺一个老师。</Dest>
+    </String>
+    <String List="2">
+      <Source>They twist reality at every turn, in order to fit the story they want to tell.</Source>
+      <Dest>他们到处歪曲事实。就为了讲他们想要的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we agree on something.  It's not often my views align with that of a simpleton's.  Perhaps I need to reexamine my position.</Source>
+      <Dest>那么我们也有些共识.  I我的观点也不是总是和傻子相符.  也许我应该重验我的观点.</Dest>
+    </String>
+    <String List="2">
+      <Source>Really...now that is an interesting twist.  Yet if there is justice in this world, then that is how this should be settled.</Source>
+      <Dest>真的……现在这个扭曲真有趣。但是如果这个世界上真的存在正义的话，那就是解决这个问题的办法了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems one of these ghosts was a greedy one.  He hid two legendary blades away where the others would be blind to his duplicity.</Source>
+      <Dest>其中一个鬼魂看上去很贪婪的样子。他在别的什么地方藏了两把超神的刀，别人对它的口是心非还一点看不出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will not work on me, boot.  This cat never retracts her claws.</Source>
+      <Dest>别跟我在这瞎胡掰，小子。这只猫没法收回自己的爪子</Dest>
+    </String>
+    <String List="2">
+      <Source>If you only see the mortal man, you'll neglect the hidden Divine.</Source>
+      <Dest>如果你只看事物的凡人，那么你会错过隐藏在背后的圣灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're a Blade you ought to seek revenge, not hide away like a coward.</Source>
+      <Dest>如果你是一个刀锋战士你应该寻求复仇，而不是像个懦夫一样躲起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're a Blade you ought to seek revenge, not hide away like a coward.</Source>
+      <Dest>如果你是一个刀锋战士你应该寻求复仇，而不是像个懦夫一样躲起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're a Blade you ought to seek revenge, not hide away like a coward.</Source>
+      <Dest>如果你是一个刀锋战士你应该寻求复仇，而不是像个懦夫一样躲起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're a Blade you ought to seek revenge, not hide away like a coward.</Source>
+      <Dest>如果你是一个刀锋战士你应该寻求复仇，而不是像个懦夫一样躲起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're a Blade you ought to seek revenge, not hide away like a coward.</Source>
+      <Dest>如果你是一个刀锋战士你应该寻求复仇，而不是像个懦夫一样躲起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mind if I speak to the priest? </Source>
+      <Dest>介意我和牧师说句话吗？ </Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough about your sword style.</Source>
+      <Dest>这充分了解你的剑式。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in how you killed your master.</Source>
+      <Dest>我对于你如何把你的导师干掉很有兴趣。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in how you killed your master.</Source>
+      <Dest>我对于你如何把你的导师干掉很有兴趣。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in how you killed your master.</Source>
+      <Dest>我对于你如何把你的导师干掉很有兴趣。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in how you killed your master.</Source>
+      <Dest>我对于你如何把你的导师干掉很有兴趣。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your armor and sword.</Source>
+      <Dest>跟我说说你的盔甲和剑。</Dest>
+    </String>
+    <String List="0">
+      <Source>The valorous Nords who fill the Hall of Sovngarde would beg to differ.</Source>
+      <Dest>松加德殿堂里勇猛的诺德英灵们不会同意。</Dest>
+    </String>
+    <String List="0">
+      <Source>The valorous Nords who fill the Hall of Sovngarde would beg to differ.</Source>
+      <Dest>松加德殿堂里勇猛的诺德英灵们不会同意。</Dest>
+    </String>
+    <String List="0">
+      <Source>The valorous Nords who fill the Hall of Sovngarde would beg to differ.</Source>
+      <Dest>松加德殿堂里勇猛的诺德英灵们不会同意。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would never dance with such an ugly partner.</Source>
+      <Dest>我永远也不会和这样一个丑陋的东西跳舞。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I would never dance with such an ugly partner.</Source>
+      <Dest>我永远也不会和这样一个丑陋的东西跳舞。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I would never dance with such an ugly partner.</Source>
+      <Dest>我永远也不会和这样一个丑陋的东西跳舞。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I would never dance with such an ugly partner.</Source>
+      <Dest>我永远也不会和这样一个丑陋的东西跳舞。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Without the blessing of the Divines, we are but beasts, slaves to emotion.</Source>
+      <Dest>没有Divines的祝福，我们只不过是野兽和情感的奴隶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Without the blessing of the Divines, we are but beasts, slaves to emotion.</Source>
+      <Dest>没有Divines的祝福，我们只不过是野兽和情感的奴隶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Without the blessing of the Divines, we are but beasts, slaves to emotion.</Source>
+      <Dest>没有Divines的祝福，我们只不过是野兽和情感的奴隶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Without the blessing of the Divines, we are but beasts, slaves to emotion.</Source>
+      <Dest>没有Divines的祝福，我们只不过是野兽和情感的奴隶。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's so special about this technique?</Source>
+      <Dest>这项技术有什么特别之处？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's so special about this technique?</Source>
+      <Dest>这项技术有什么特别之处？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's so special about this technique?</Source>
+      <Dest>这项技术有什么特别之处？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's so special about this technique?</Source>
+      <Dest>这项技术有什么特别之处？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's so special about this technique?</Source>
+      <Dest>这项技术有什么特别之处？</Dest>
+    </String>
+    <String List="0">
+      <Source>What secrets?</Source>
+      <Dest>什么秘密？</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say Falkreath is a dangerous place to hunt.</Source>
+      <Dest>他们说佛克瑞斯是个危险的狩猎点。</Dest>
+    </String>
+    <String List="0">
+      <Source>What stance did you use?</Source>
+      <Dest>你站在什麼立場？</Dest>
+    </String>
+    <String List="0">
+      <Source>What stance did you use?</Source>
+      <Dest>你站在什麼立場？</Dest>
+    </String>
+    <String List="0">
+      <Source>What stance did you use?</Source>
+      <Dest>你站在什麼立場？</Dest>
+    </String>
+    <String List="0">
+      <Source>Only the weak fear chaos.  I guess that solves the mystery of you.</Source>
+      <Dest>只有脆弱才会害怕混乱，我猜那会解开你的谜题.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Way of the Nine.</Source>
+      <Dest>给我讲讲九圣灵之道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Way of the Nine.</Source>
+      <Dest>给我讲讲九圣灵之道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any rumors or interesting news?</Source>
+      <Dest>有什么传闻或有趣的新闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any rumors or interesting news?</Source>
+      <Dest>有什么传闻或有趣的新闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any rumors or interesting news?</Source>
+      <Dest>有什么传闻或有趣的新闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any rumors or interesting news?</Source>
+      <Dest>有什么传闻或有趣的新闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you by chance know Delphine?</Source>
+      <Dest>你認識戴尔菲娜嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you by chance know Delphine?</Source>
+      <Dest>你認識戴尔菲娜嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you by chance know Delphine?</Source>
+      <Dest>你認識戴尔菲娜嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem rather young for a Blade.</Source>
+      <Dest>怎么会有你这么年轻的刀锋战士！</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem rather young for a Blade.</Source>
+      <Dest>怎么会有你这么年轻的刀锋战士！</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem rather young for a Blade.</Source>
+      <Dest>怎么会有你这么年轻的刀锋战士！</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem rather young for a Blade.</Source>
+      <Dest>怎么会有你这么年轻的刀锋战士！</Dest>
+    </String>
+    <String List="0">
+      <Source>Then why stay in Skyrim?</Source>
+      <Dest>那你为什么还留在 天际省?</Dest>
+    </String>
+    <String List="0">
+      <Source>Then why stay in Skyrim?</Source>
+      <Dest>那你为什么还留在 天际省?</Dest>
+    </String>
+    <String List="0">
+      <Source>Then why stay in Skyrim?</Source>
+      <Dest>那你为什么还留在 天际省?</Dest>
+    </String>
+    <String List="0">
+      <Source>Your concern is duly noted.  I'm fine though.</Source>
+      <Dest>我明白你的担心。不过我很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will understand little of what I speak, and much of it is of no practical use, but facile metaphors tossed around by a dying man.</Source>
+      <Dest>你可能很难理解我所说的，并且它们确实没什么实际用处，这些只不过是一个将死之人的肤浅隐喻罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your ears are sharper than your tongue, fool.   Try again.</Source>
+      <Dest>你的耳朵可比你的舌头要灵敏多了，白痴。再试一次。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet as it is not a single stance, but a motion that adapts to its opponent, it has proved as impenetrable in theory as it is in practice.</Source>
+      <Dest>而因为它并不是一个单独的姿态，而是适配对手的一系列动作，所以从理论上和实习中都证明了它的牢不可破。</Dest>
+    </String>
+    <String List="2">
+      <Source>I confess, I have killed enough Spriggans to start my own sawmill.  I could kill you too, and sell the bonemeal to my farmers.</Source>
+      <Dest>我得承认，被我杀掉的树精的尸体已经多得足够我开个锯木厂了。我也可以杀了你，然后把骨粉卖给我的农户们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another simple query from a devout simpleton.  The answer is tall, green, robed, and uglier than an Imp.</Source>
+      <Dest>另一个由虔诚的白痴问出来的白痴问题。答案嘛……很高，穿着长袍，绿，比小恶魔还丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I grow weary of your questions.  Speak quickly, or not at all.</Source>
+      <Dest>我厌倦了你的问题。要么说的太快，要么根本没用。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or more precisely, the tracks he left in the snow. There was a pattern there. If only I had more time.</Source>
+      <Dest>或者更确切地说，他在雪地上留下了足迹。那儿就有一个脚印。要是我有更多的时间的话……</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that right?  So you're a fool and a liar.  Good to know.</Source>
+      <Dest>是这样吗？所以你是个傻瓜和骗子。很好，我知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You need not convince me of such.  But this Delphine, if she is half the fool you are, won't appreciate how carelessly you toss around her name.</Source>
+      <Dest>你不需要说服我的。但戴尔芬，如果她有你的一半那么傻，就不会感激你这么随随便便地就泄露了她的身份。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Thalmor's tentacles extend all across Tamriel.  But in Skyrim their presence is weak.  </Source>
+      <Dest>梭默的势力遍布整个泰姆瑞尔大陆。但在天际省，他们可没有什么存在感。  </Dest>
+    </String>
+    <String List="2">
+      <Source>And do you by chance know Habasi, Tsikar, or Adanja?  Or should I throw more names into the wind to illustrate how daft you are?</Source>
+      <Dest>你知不知道 Habasi, Tsikar，还有阿达尼亚？还是我再多念几个名字来形容你的无知呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It snowed that night, when it should've rained.  My mentor looked at the sky and said Kynareth was all out of tears.  </Source>
+      <Dest>那一晚当该下雨的时候，却下了一夜的雪。我的导师仰望星空说这是凯娜瑞斯在哭泣。 </Dest>
+    </String>
+    <String List="2">
+      <Source>During the day, I visit Peak Shade's Tower, to calm my blood and meditate on The Way of the Nine.</Source>
+      <Dest>这一整天,我都逗留在峰顶阴影塔楼，以此平复我的血液，并沉思九圣灵之道。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was a stag that passed through here, white as a summer cloud.  The hunters think it would look better in red.</Source>
+      <Dest>有一只牡鹿经过这里，像夏天的云一样洁白。而猎人们认为如果它被自己的鲜血染红的话，看起来会更好。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Sovngarde is no different than Cloud Ruler Temple.   A great hall of great fools who no longer walk this plane.</Source>
+      <Dest>松加德跟云统者圣堂相比没什么不同。都是塞满了永远离开人世了的那些伟大蠢货们的伟大殿堂。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Emperor looked in the eyes of the 100 heads in that cart, he would've seen half of them were malnourished and on the brink of starvation.</Source>
+      <Dest>要是皇帝看看车里的100个脑袋，他一定看得出有一半营养不良的眼睛里闪烁着饥饿的眼神。</Dest>
+    </String>
+    <String List="2">
+      <Source>These days you'll find more dead Blades strewn across Tamriel than grains of sand.</Source>
+      <Dest>这些天你会发现死在泰姆瑞尔大陆各处的刀锋战士比地上的沙子都多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fool, the Stance of Arkay is the very heart of the dual sword technique. Life and death, ice and fire, the nature of all things are born of two.</Source>
+      <Dest>呆子，阿尔凯之势的核心是双剑技巧。如同生和死，冰与火一样，自然的一切都是成对儿出现的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our blades clashed but made no sound, muffled by the snowstorm.  His swords came at me from all directions, but I kept my eyes on his feet.</Source>
+      <Dest>我们剑锋相撞却发出声响，一切声响都被暴雪所压下了。他的剑从四面八方向我砍来，但我却一直注意着他双脚的动向。</Dest>
+    </String>
+    <String List="2">
+      <Source>Psh!  I kill Thalmor not for revenge, but to survive.  I am no Blade. The Order died the day they chose not to acknowledge the Emperor.</Source>
+      <Dest>呸！我杀梭默可不是为了复仇，而是为了生存。我不是刀锋战士。那个组织在他们选择不承认皇帝的那天已经死去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like most fools you need the Divines to guide you, for your own decisions lead you in circles.</Source>
+      <Dest>就像大多数蠢货一样，你总是需要圣灵们的指引，因为如果靠你自己的话，你就只会原地踏步。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Way of the Nine. Stances and techniques derived from the teachings of the Divines.  That was his legacy, and his gift to me, his only pupil.</Source>
+      <Dest>九圣灵之式。来源自圣灵教导的站姿，以及技巧。那是他的遗物，是他馈赠于我，他唯一一个弟子的天赋。</Dest>
+    </String>
+    <String List="2">
+      <Source>The kitten has claws, but mine are sharper.</Source>
+      <Dest>猫有爪子，但是我的更尖锐。</Dest>
+    </String>
+    <String List="2">
+      <Source>The night before I had chosen my stance.  While most would use the flurry of Akatosh, the technique is too violent.</Source>
+      <Dest>在我选择了自己【立场】的那夜以前，大多数人都用阿卡托什乱舞，但这个技能实在太暴力了。</Dest>
+    </String>
+    <String List="2">
+      <Source>While they are busy protecting their vital organs, they will bleed out from their wrists, with every Justicar I slay on the road below.</Source>
+      <Dest>当他们忙于保护重要器官时，血从他们的手中流出，此刻的道路之下满是我所杀害的审判者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Akatosh, Dibella, Julianos, Kynareth, Mara, Stendarr, Zenithar, and even Talos.  My blade cuts heaven and earth with the liturgy of Eight Divines.</Source>
+      <Dest>阿卡托什，迪贝拉，尤里安诺思，凯娜瑞斯，玛拉，斯丹纳尔，泽尼萨尔，甚至包括塔洛斯。吾之剑因八圣灵之名而撼天动地。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the strong have the right to be masters of their own destiny. Without the Empire, the Blades are just a guild of halfwits playing dress up.</Source>
+      <Dest>只有强者才有权掌控自己的命运。没了帝国，刀锋战士只不过是一群笨蛋过家家似的搞起的公会罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>At night, the hunter's camp at the mountaintop affords me a view of the land, and on clear nights, the bright necklace of stars.</Source>
+      <Dest>在夜里，山顶猎人的营地让我看到了这片土地的景色，在晴朗之夜，星空闪耀光辉。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I will enjoy watching your brow twitch in confusion, as I pass his words on to you.</Source>
+      <Dest>但我在把他的话转达给你的时候，喜欢看你把眉头纠结的拧成一团的样子。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Cloud Ruler Temple is now home to maggots and flies, sprout from the pores of their Thalmor cousins.</Source>
+      <Dest>凌云者神殿现在满是蛆蝇，在他们的梭默弟兄身上穿梭。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could kill my mentor and lose sight of the very thing I sought to learn.  And in the spiritual sense, the father does not come before the son.</Source>
+      <Dest>我可以杀掉我的导师，然后将我求索的真理抛诸脑后。就灵魂而言，一个父亲并不比儿子先被创造。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are a simpleton to assume that I am only drawn by death.  Life too, flourishes in this Hold.</Source>
+      <Dest>你假设我只展现出死亡一面就太傻。活着的一面也一样，这个城里可是千变万化的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are a simpleton to assume that I am only drawn by death.  Life too, flourishes in this Hold.</Source>
+      <Dest>你假设我只展现出死亡一面就太傻。活着的一面也一样，这个城里可是千变万化的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those who are not fools trim the fat and absorb only what they need.  </Source>
+      <Dest>是个没那么傻的人都会剔去无用的糟粕然后取其精华为己所用。  </Dest>
+    </String>
+    <String List="2">
+      <Source>You could be Tiber Septim reborn, and I'll still send you back to the Divines with your head in your arms.</Source>
+      <Dest>就算你是泰伯‧赛普汀重生，我也要把你的脑袋折进你胳膊里然后打包送回圣灵那儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>This duality applies to both life and battle.  When a mortal kills a foe, in that instant Arkay grants death to one and life to the other.</Source>
+      <Dest>这种双重性，不论是生活还是战斗都同样适用。当一名凡人杀死他敌人的一瞬间，阿尔凯在会赐予一人死亡的同时，也会赠与另一人生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>And like fools, they holed themselves up in their temple, like flies in jar.  All the Thalmor did was turn it over and cut off the air.</Source>
+      <Dest>就像一群蠢蛋一样，他们把自己藏在那些寺庙里头，就如同广口瓶里的一群苍蝇。梭默人仅仅是把瓶子倒了过来，阻断了空气而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>At night, the mountaintop allows me to survey the land, and on clear nights, the swirl of constellations in the sky.</Source>
+      <Dest>黑夜来临之时，我可以在山顶之上俯瞰这片土地。而在晴朗的夜晚，天空之中群星闪烁。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I said Kynareth does not cry for fools.   We drew our swords, and dashed through the trees, our feet rapping against snow.</Source>
+      <Dest>我说过 凯娜瑞斯 不为傻瓜哭泣。我们拔出剑来，在雪地里四下奔走，劈砍树木。</Dest>
+    </String>
+    <String List="2">
+      <Source>The garden of ferns, thistle, and mountain flowers, that grows in this hollow column stills my blood and allows me to meditate.</Source>
+      <Dest>蕨类植物，蓟，和山花的花园，生长在这个空心柱里，它能让我的气血平静下来，让我能够静心冥想。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know this Delphine.  I don't know why you would bring up her name, other than to convince me you are a fool.</Source>
+      <Dest>我不认识这个戴尔菲娜. 如果不是为了证明你是有多么蠢之外，我真的想不出别的什么理由，会让你提起她的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pitiful human, you may dance well with your feet, but this Khajiit dances on all fours, with two legs and dual blades.</Source>
+      <Dest>可怜的人类，你们跳舞只能用两只脚；而虎人却是四只，双脚和双剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are far from the swamp, lizard.  Judging by your gait, you cannot dance without stepping on your tail.</Source>
+      <Dest>你离沼泽挺远的呢，蜥蜴。从你的步伐看来，踩着自己的尾巴可没法跳舞不是吗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why do you defend that who would spit on your face for entering their land? </Source>
+      <Dest>为什么你会护着那帮因为你踏进了他们的地盘而往你脸上吐唾沫的家伙啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>And if the Ninth stands at the bridge between life and death, then I will walk it through the eyes of my enemies, my blades coated in their blood.</Source>
+      <Dest>如果九圣灵站在生与死之间的桥梁之上，那我就会通过我敌人的瞳孔在上面走一遭，我的刀刃会涂上他们的鲜血。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fools all become heroes when their opponent is a helpless beast.</Source>
+      <Dest>当对手是个无能的野兽之时，傻子们都能成为英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not at all.  Speak with your equal.  Pat around balls of yarn.   I have two swords to fetch.</Source>
+      <Dest>一点也不。【和你聊聊天。拍拍毛线球】我需要你去取两把剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the defense of Zenithar that shielded me from his attack. If I saw both his blades as swords, and not shields, I could parry, if not kill.</Source>
+      <Dest>是泽尼萨尔的守护从他的攻击之下庇佑我的。如果我看到他的双剑是用于攻击，而非防御的话，就算不杀他，我也能招架的住。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or so the priestly ones will tell you. Yet the true duality lies not in the dirt and the stars, but in how the blade serves as both sword and shield.</Source>
+      <Dest>或许祭司们会告诉你。然而真正的双重谎言不在于尘埃和星辰，而在于刀片如何同时作为利刃和盾牌而存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your blood boils hot, Nord, perhaps it will attract a horde of vampires. At least then there will be someone here that presents a challenge.</Source>
+      <Dest>诺德人你热血沸腾了。也许这会吸引一部分吸血鬼的注意。至少有人在这提出了挑战。</Dest>
+    </String>
+    <String List="2">
+      <Source>A dragon roosts in the hills to the south.  Having just gained life, it's not eager for death, and avoids my steel.</Source>
+      <Dest>一条定居在群山南面的龙重获新生。因为他不想死，于是便躲着我的武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Because I am no Blade.  The swords and armor I wear belong to a dead man.  A man I killed.  It's not an uncommon thing.</Source>
+      <Dest>因为我不是刀锋战士。我的盔甲核武器属于一个死去的人。我杀的。这可不是什么稀有货。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twin moons, one sky.  Each blade shifts from offense to defense, a mirror reflection of the other, and the opponent knows not where to strike.</Source>
+      <Dest>两个月亮，一片天空。每把刀从进攻转至防御，犀利的反击，当对手不知道带从哪里下手攻击。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your ears fail you, deaf one.  I don't fear chaos, nor death.  I despise it.   Only a fool acquires a taste for fish and proceeds to hunt for bears.</Source>
+      <Dest>你的耳朵把你坑了聋子。我不怕混乱也不怕死。我蔑视它。只有蠢驴才会对鱼和继续抓熊感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't come here for a fight.</Source>
+      <Dest>我来这不是为了起冲突的.</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't come here for a fight.</Source>
+      <Dest>我来这不是为了起冲突的.</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't come here for a fight.</Source>
+      <Dest>我来这不是为了起冲突的.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Stance of Arkay is mine to wield.  As is mastery of the Way of the Nine.</Source>
+      <Dest>我应该站在阿凯的立场上，并且主导这场战争.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Stance of Arkay is mine to wield.  As is mastery of the Way of the Nine.</Source>
+      <Dest>我应该站在阿凯的立场上，并且主导这场战争.</Dest>
+    </String>
+    <String List="0">
+      <Source>Let it go. The Gods only seek to make you both suffer.</Source>
+      <Dest>随它去吧。神灵们只会试图让你们双方都承受痛苦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let it go. The Gods only seek to make you both suffer.</Source>
+      <Dest>随它去吧。神灵们只会试图让你们双方都承受痛苦。</Dest>
+    </String>
+    <String List="0">
+      <Source>You still don't get it. It's faith in the Gods that is the source of its power.</Source>
+      <Dest>你还是没理解，对神的信仰正是它所有动力的来源。</Dest>
+    </String>
+    <String List="0">
+      <Source>You still don't get it. It's faith in the Gods that is the source of its power.</Source>
+      <Dest>你还是没理解，对神的信仰正是它所有动力的来源。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know what you're talking about. I'm here for the fresh air.</Source>
+      <Dest>我不知道你们在说什么。我就来呼吸呼吸新鲜空气。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know what you're talking about. I'm here for the fresh air.</Source>
+      <Dest>我不知道你们在说什么。我就来呼吸呼吸新鲜空气。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know what you're talking about. I'm here for the fresh air.</Source>
+      <Dest>我不知道你们在说什么。我就来呼吸呼吸新鲜空气。</Dest>
+    </String>
+    <String List="0">
+      <Source>You may not be a blade, but I doubt you're just some scavenger.</Source>
+      <Dest>你可能不是个 blade, 不过我怀疑你就是个捡破烂的.</Dest>
+    </String>
+    <String List="0">
+      <Source>You may not be a blade, but I doubt you're just some scavenger.</Source>
+      <Dest>你可能不是个 blade, 不过我怀疑你就是个捡破烂的.</Dest>
+    </String>
+    <String List="0">
+      <Source>You may not be a blade, but I doubt you're just some scavenger.</Source>
+      <Dest>你可能不是个 blade, 不过我怀疑你就是个捡破烂的.</Dest>
+    </String>
+    <String List="0">
+      <Source>You may not be a blade, but I doubt you're just some scavenger.</Source>
+      <Dest>你可能不是个 blade, 不过我怀疑你就是个捡破烂的.</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, your claws are unseemly and could use a trim.</Source>
+      <Dest>确实，你的爪子挺不得体的，你该修剪下了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, your claws are unseemly and could use a trim.</Source>
+      <Dest>确实，你的爪子挺不得体的，你该修剪下了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gods guide us on this path. You cannot stand in our way.</Source>
+      <Dest>上帝指引着我们的路，你不可能阻挡我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I hope the cold takes you.</Source>
+      <Dest>你真可怜。I hope the cold takes you.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I hope the cold takes you.</Source>
+      <Dest>你真可怜。I hope the cold takes you.</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you loathe this land and its people, then I suggest you leave.</Source>
+      <Dest>如果你讨厌这片土地和她的人民，那么我建议你离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you loathe this land and its people, then I suggest you leave.</Source>
+      <Dest>如果你讨厌这片土地和她的人民，那么我建议你离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you loathe this land and its people, then I suggest you leave.</Source>
+      <Dest>如果你讨厌这片土地和她的人民，那么我建议你离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you loathe this land and its people, then I suggest you leave.</Source>
+      <Dest>如果你讨厌这片土地和她的人民，那么我建议你离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>I see a perfectly acceptable dance partner up there on the platform.</Source>
+      <Dest>我看见台上有一个无比完美的舞伴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I see a perfectly acceptable dance partner up there on the platform.</Source>
+      <Dest>我看见台上有一个无比完美的舞伴。</Dest>
+    </String>
+    <String List="0">
+      <Source>What secrets?</Source>
+      <Dest>什么秘密？</Dest>
+    </String>
+    <String List="0">
+      <Source>What secrets?</Source>
+      <Dest>什么秘密？</Dest>
+    </String>
+    <String List="0">
+      <Source>What secrets?</Source>
+      <Dest>什么秘密？</Dest>
+    </String>
+    <String List="0">
+      <Source>For you maybe, but I am a prodigy of infinite potential.</Source>
+      <Dest>对你可能是这样，但我是一个拥有无限潜能的神童。</Dest>
+    </String>
+    <String List="0">
+      <Source>For you maybe, but I am a prodigy of infinite potential.</Source>
+      <Dest>对你可能是这样，但我是一个拥有无限潜能的神童。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just wanted to talk.</Source>
+      <Dest>只是想谈谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those who walk the supplicant's road can temporarily access the knowledge.</Source>
+      <Dest>那些走supplicant's road的人可以暂时获取知识。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those who walk the supplicant's road can temporarily access the knowledge.</Source>
+      <Dest>那些走supplicant's road的人可以暂时获取知识。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sometimes when you win, you still lose. This is one of those times.</Source>
+      <Dest>有时候你感觉赢了，其实你没有。比如现在。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sometimes when you win, you still lose. This is one of those times.</Source>
+      <Dest>有时候你感觉赢了，其实你没有。比如现在。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps for the other 8.  Yet the Stance of Arkay requires only faith.</Source>
+      <Dest>可能是其他8个。 阿凯之姿需要的只是信念。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps for the other 8.  Yet the Stance of Arkay requires only faith.</Source>
+      <Dest>可能是其他8个。 阿凯之姿需要的只是信念。</Dest>
+    </String>
+    <String List="0">
+      <Source>He promised to teach me the Stance of Arkay.</Source>
+      <Dest>他承诺会教我 Stance of 阿尔凯。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is your last chance to yield and ask for forgiveness.</Source>
+      <Dest>这是你投降并恳请原谅的最后机会了。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is your last chance to yield and ask for forgiveness.</Source>
+      <Dest>这是你投降并恳请原谅的最后机会了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have my doubts, but your mentor said it was possible.</Source>
+      <Dest>我有我的疑惑，可是你的导师说它是有可能的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have my doubts, but your mentor said it was possible.</Source>
+      <Dest>我有我的疑惑，可是你的导师说它是有可能的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all of them.  There's one right in front of me.</Source>
+      <Dest>不是所有人。就一个站在我面前。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all of them.  There's one right in front of me.</Source>
+      <Dest>不是所有人。就一个站在我面前。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am going to enjoy killing you.</Source>
+      <Dest>我会享受杀你的感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am going to enjoy killing you.</Source>
+      <Dest>我会享受杀你的感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps faith is what's needed after all.</Source>
+      <Dest>也许真正需要的只是信心。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps faith is what's needed after all.</Source>
+      <Dest>也许真正需要的只是信心。</Dest>
+    </String>
+    <String List="0">
+      <Source>All I see is a sheet of white.</Source>
+      <Dest>我只能看到一片白色。</Dest>
+    </String>
+    <String List="0">
+      <Source>All I see is a sheet of white.</Source>
+      <Dest>我只能看到一片白色。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you are still too late, and too stupid to comprehend why.  They are one in the same.</Source>
+      <Dest>你还是太迟钝了.  他们根本是一伙的.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you are not as foolish as you appear. The Stance of Arkay is a culmination of decades of training.</Source>
+      <Dest>你并不像看上去那么蠢. 阿尔凯正处于几十年训练后的巅峰时期.</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean the priest?  I misjudged you, coward.  I thought you were a warrior who craved a challenge.</Source>
+      <Dest>你是指牧师吗?  我高估你了，懦夫.  我还以为你是个无所畏惧的战士.</Dest>
+    </String>
+    <String List="2">
+      <Source>You wield the Stance of Arkay, and wear a crown of fools.  But enough talk!</Source>
+      <Dest>你行使着阿尔凯的态度，戴着傻瓜的王冠。多说无益。</Dest>
+    </String>
+    <String List="2">
+      <Source>No!  Gods have nothing to do with it!  Can't you see how close I am!</Source>
+      <Dest>不!神与它无关!你不知道我对此事有多清楚!</Dest>
+    </String>
+    <String List="2">
+      <Source>A sanctuary for the ghosts of the Akavir.  My mentor once spoke of it in passing.  Now, all those ghosts have passed.</Source>
+      <Dest>阿卡维尔——亡魂的圣所。我的导师过去曾说起过它。而现在，所有的亡魂都已归于虚无。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't cloud my head with your riddles!  I must find stay focused!  Did he pivot off his left foot to evade or strike?  Damn!</Source>
+      <Dest>不要用你的俏皮话搅乱我的思路！我必须集中精力做出判断！他到底有没有以左脚为支点进行击打或者躲闪！魂淡！</Dest>
+    </String>
+    <String List="2">
+      <Source>I am no such thing! The technique is here, in the snow! I just have to find it!</Source>
+      <Dest>没那种事！技巧是：去雪地里找！我必须得找到它！</Dest>
+    </String>
+    <String List="2">
+      <Source>It is only after I proved his beliefs to be lies that he was forced to alter his perception.</Source>
+      <Dest>仅仅当我证明了他的信仰不过是谎言后他才不得不强迫自己改变自己的看法。</Dest>
+    </String>
+    <String List="2">
+      <Source>But only when I was ready. (Scoffs) A phrase thrown around by masters of all disciplines who wish to teach their pupils the value of patience.</Source>
+      <Dest>可当我准备好的时候。（嘲笑）一个传言从那些要教他们学生懂得耐心的价值的【all discipline】大师们那里【流了出来】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Draw your weapon.  The time has come to paint the snow in stripes of red.</Source>
+      <Dest>拔出你的武器吧。是时候在雪地上用鲜血表演涂鸦了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There must be more tracks around here somewhere!  I won't let it slip away again!</Source>
+      <Dest>附近一定还有更多踪迹，这次我绝对不会再让它溜了!</Dest>
+    </String>
+    <String List="2">
+      <Source>There must be more tracks around here somewhere!  I won't let it slip away again!</Source>
+      <Dest>附近一定还有更多踪迹，这次我绝对不会再让它溜了!</Dest>
+    </String>
+    <String List="2">
+      <Source>There must be more tracks around here somewhere!  I won't let it slip away again!</Source>
+      <Dest>附近一定还有更多踪迹，这次我绝对不会再让它溜了!</Dest>
+    </String>
+    <String List="2">
+      <Source>There must be more tracks around here somewhere!  I won't let it slip away again!</Source>
+      <Dest>附近一定还有更多踪迹，这次我绝对不会再让它溜了!</Dest>
+    </String>
+    <String List="2">
+      <Source>There must be more tracks around here somewhere!  I won't let it slip away again!</Source>
+      <Dest>附近一定还有更多踪迹，这次我绝对不会再让它溜了!</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a shame I will have to kill you.  You would've made for an excellent jester.  But enough of your foolishness.</Source>
+      <Dest>杀你都嫌脏了我的手。你会是个优秀的小丑，但我受够了你的愚蠢。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I wasn't ready for, and never would be, was the religious nonsense with which he dressed the art of the kill.</Source>
+      <Dest>我还没同时永远也不会接受的是他给杀戮艺术披上的宗教性歪理。</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't understand the nature of swordsmanship then.  Trust me,  whatever he provides, it will grant you no power, only a fool's belief.</Source>
+      <Dest>你根本不懂剑术的性质。相信我，无论他提供了什么，那都不会让你获取力量的，只有傻子才会去相信呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I am going to enjoy the look on your face, when your bravado fails to save you.</Source>
+      <Dest>当你的虚张声势不能拯救自己的时候，我会享受你脸上的表情的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like him. Absolute belief. He said it was the Gods who gave him the Way of the Nine, and it could not be learned without faith.</Source>
+      <Dest>你听起来跟他很像，纯粹的信念。他说是众神赐予他九圣灵之路，而如果没有信仰，那将是无法企及的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You?  What do you know of the Way of the Nine?  It would take decades of training to master.</Source>
+      <Dest>你？关于九圣之道你知道什么？这将需要几十年的时间训练来掌握。</Dest>
+    </String>
+    <String List="2">
+      <Source>True. The one I killed to gain this armor was indeed a Blade, a master of the dual sword technique, and my mentor.</Source>
+      <Dest>正解，那个被我杀掉并被抢走盔甲的就是一个刀锋会成员，一位双持剑刃的大师，还是，我的导师。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, there's still a trace!  My blood, his footprints...blast, which ones are his?</Source>
+      <Dest>不，这里还有痕迹！我的血，他的脚印……靠，到底哪个是他的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Draw your weapon, disciple of Garrett.  The time has come to paint the snow in stripes of red.</Source>
+      <Dest>亮出你的武器吧，加勒特的弟子。是时候让雪地染上鲜红的血痕了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Draw your weapon, disciple of Garrett.  The time has come to paint the snow in stripes of red.</Source>
+      <Dest>亮出你的武器吧，加勒特的弟子。是时候让雪地染上鲜红的血痕了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Draw your weapon, disciple of Garrett.  The time has come to paint the snow in stripes of red.</Source>
+      <Dest>亮出你的武器吧，加勒特的弟子。是时候让雪地染上鲜红的血痕了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Draw your weapon, disciple of Garrett.  The time has come to paint the snow in stripes of red.</Source>
+      <Dest>亮出你的武器吧，加勒特的弟子。是时候让雪地染上鲜红的血痕了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gladly.  And I will use your carcass as a grindstone.</Source>
+      <Dest>我很荣幸。而且还打算用你的尸骨来磨磨刀呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Again your narrow mind fails you.  One can loathe more than one thing, and more than one people.</Source>
+      <Dest>你狭隘的思想再一次使你失败了。一个人可以憎恨不只一种东西，也可以憎恨不只一个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think you can protect my mentor by feigning ignorance, but his footprints are all over the snow.</Source>
+      <Dest>你以为你靠假装不知道就能够保护我的导师，但雪地上满是他的脚印。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or have you come for to sharpen your fangs?</Source>
+      <Dest>还是说你是跑过来磨牙的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>From this perch I can track and kill their Justicars by the threes, as the Thalmor are too much of cowards to face me alone.</Source>
+      <Dest>从这个制高点我只用三招就能狙杀他们的审判者,但是梭默中有太多的懦夫不敢单独迎击我。</Dest>
+    </String>
+    <String List="2">
+      <Source>In that case, the blades you seek are not here either.   </Source>
+      <Dest>所以说，你要找的那些武器也不在这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>At 16, my mentor had exhausted his use to me in terms of body. I would've granted him death right then, if not for the secrets his mind guarded.</Source>
+      <Dest>在16岁的时候,我导师的身体已经油灯燃尽，便经常使唤我。我那时真想杀死他了,要不是因为他心中守护着的秘密。</Dest>
+    </String>
+    <String List="2">
+      <Source>For they will fade the moment you realize this is all a farce!</Source>
+      <Dest>当他们消失的时候你将会意识到这一切完全是一场闹剧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Faith! More religious garbage! It requires nothing of the sort. Did you know my mentor used to think the same of all the techniques?</Source>
+      <Dest>信仰!宗教的垃圾!这根本不需要.我师父过去都觉得天底下的技术都一个样你知道吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>The supplicant's road? And you believed this foolishness? Of course the effects are temporary.</Source>
+      <Dest>求索之路？你相信了这套鬼话？那效果当然是临时的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't need faith, fool, I need time!  And clear skies!  Damn it, the tracks are all but gone!</Source>
+      <Dest>笨蛋，我根本不需要所谓的信念。我要的是时间。以及晴空。喵喵的，都已经是过去的事情了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have something to say?  Well save your breath.  The way I see it, you don't have much more of them left.</Source>
+      <Dest>你还有什么要说的吗？行啦省省吧。我看你也没几口气好喘了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did he promise to teach you the Stance of Arkay?  That it could be learned through ritual and faith?</Source>
+      <Dest>他有承诺说要教你Stance of 阿尔凯么？那是可以通过遵循仪式和信仰而学到的东西么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So he will say.  He will perform some ritual, whisper honey into your ears, tell you that the spirit of Arkay flows through you.</Source>
+      <Dest>他会说的。他会举行某些仪式，往你脑袋里塞好话，给你洗脑说阿尔凯的精神与你同在。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wish, I'll cross my blades with you, once the Stance is mine.  And both the technique and the sword that cuts you will be forged by legend.</Source>
+      <Dest>如果你要与我战上一场，那我当然会奉陪，并且胜利肯定在我这边。那把能你切成两段的剑以及精湛的剑技将会成为传奇。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet he was still my better, and our bodies would never be at an age where I could prove otherwise.</Source>
+      <Dest>但他还是我心目中最棒的那个。年龄永远代表不了我们的身体。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I were an archer standing before a Nord and a Thalmor, and had but two arrows in my quiver, you might ask me who I'd shoot first.</Source>
+      <Dest>如果我是个弓箭手，身前站着个诺德和个梭默，箭桶里只有两支箭，你可能会问我先射谁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now as I enter my prime, I search for the lesson that escaped into the void when we last crossed our blades.</Source>
+      <Dest>如今，我正处于全盛时期，我会吸取我们最后一次长剑相交之时逃往虚空的教训的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your claws are long and sharp, but our time will have to wait.  All the better to savor it, before it comes.</Source>
+      <Dest>你的爪子长而锋利，但是我们必须要等。所有这一切在它到来之前都是值得享受的。</Dest>
+    </String>
+    <String List="2">
+      <Source>First I must take down my old mentor, and to do that, I need to sharpen my own claws.</Source>
+      <Dest>首先我要干掉我的老先生, 这样的话, 我要先磨光我的爪子.</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a man of 40 years, and I no older than a dozen, when I first bested him in single combat.</Source>
+      <Dest>当我第一次单挑赢过他时，他刚到不惑之年，我比他大不了多少岁。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I'd tell you I'd shoot the Thalmor twice.  Their presence is thin here, and their Embassy on the other side of the province.</Source>
+      <Dest>我会告诉你我射了那梭默两次么？他们在这儿人口稀少，而且他们的大使馆也远在天际省的另一头。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you say, priest, but I see only a mortal, and not a God.</Source>
+      <Dest>是你这样说的，牧师，但我只看见一个凡人，而非神。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Scoffs) Talk is for cowards whose blades say nothing.</Source>
+      <Dest>(嘲笑) 谈话是给那些不会用刀的胆小鬼准备的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems one of these ghosts was a greedy one.  He hid two legendary blades away where the others would be blind to his duplicity.</Source>
+      <Dest>其中一个鬼魂看上去很贪婪的样子。他在别的什么地方藏了两把超神的刀，别人对它的口是心非还一点看不出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>And so you killed him.</Source>
+      <Dest>所以你就杀了他。</Dest>
+    </String>
+    <String List="0">
+      <Source>And so you killed him.</Source>
+      <Dest>所以你就杀了他。</Dest>
+    </String>
+    <String List="0">
+      <Source>And so you killed him.</Source>
+      <Dest>所以你就杀了他。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you switched stances.</Source>
+      <Dest>然后你就改变了立场。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you switched stances.</Source>
+      <Dest>然后你就改变了立场。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you switched stances.</Source>
+      <Dest>然后你就改变了立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, so the fool comes to dance once more.  But it seems I've slain all your partners.</Source>
+      <Dest>啊，那么再来跳个舞吧，蠢货。但似乎我已经杀死了你所有的舞伴。</Dest>
+    </String>
+    <String List="2">
+      <Source>To Akatosh. I went for the flurry and the kill. Yet when I saw his blade rise for the block, I hesitated, only to see that very blade run me through.</Source>
+      <Dest>向阿卡托什起誓，我向往混乱和杀戮。但当他举起剑防御的时候，我犹豫了，结果被他挥剑刺穿我的身体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Out with it, fool.</Source>
+      <Dest>有话快说，蠢蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the blade missed my heart by the width of a cat's hair.  I made no such mistake with his neck.</Source>
+      <Dest>但他的剑偏离了我的心脏一公分。我攻击他的脖子时倒是分毫不差。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not.  Even in death, he cannot evade my claws.  The Stance of Arkay will be mine.</Source>
+      <Dest>没关系。即使他死了，也无法躲开我的利爪。阿尔凯之势将被我收入囊中。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of it, the tracks, the blood, and his legacy, washed away in a tide of white. </Source>
+      <Dest>所有的一切，足迹，血液，和他的遗言，都被一股白色的浪潮冲走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tossed the half-empty bottle beside his severed head and said he could have the rest.  When he didn't respond, I couldn't help but laugh.</Source>
+      <Dest>就是那时候他暴露了那项技术的真谛。就在他向我使出夺命绝招的瞬间，我看得出他为的是自己保命。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have finally come, and come alone.  It seems my mentor is either a coward who hides behind his disciple, or a weakling who knows his betters.</Source>
+      <Dest>终于，你还是来了，而且是独自前来。好吧，如果我的那位精神导师先生不是一个躲藏在信徒背后的懦夫的话，便肯定是一个很有自知之明的胆小鬼了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was then that he revealed the true essence of the technique.  I assumed he moved to protect his life, when his stroke came for my death.</Source>
+      <Dest>就是那时候他暴露了那项技术的真谛。就在他向我使出夺命绝招的瞬间，我看得出他为的是自己保命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>So, you return, and the fires inside the crypt are lit.   This whole thing reeks of my mentor.</Source>
+      <Dest>所以，你回来了，而一把大火把地窖里的东西全烧了。我估计这件事跟我的导师脱不了干系。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone then.</Source>
+      <Dest>那就快走。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just like that, it was over.  I dropped to my knees and reached for my potion, as his body drowned in a cascade of snow.  </Source>
+      <Dest>就是那样，结束了。我跌倒了摔伤了膝盖，但却找到了疗伤的药，但他的尸体，却永远的沉没在了冰雪中。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How well did you know Elandir?</Source>
+      <Dest>你有多了解 Elandir?</Dest>
+    </String>
+    <String List="0">
+      <Source>How well did you know Elandir?</Source>
+      <Dest>你有多了解 Elandir?</Dest>
+    </String>
+    <String List="0">
+      <Source>You aren't exactly my type.</Source>
+      <Dest>你不是我要的那种。</Dest>
+    </String>
+    <String List="0">
+      <Source>You aren't exactly my type.</Source>
+      <Dest>你不是我要的那种。</Dest>
+    </String>
+    <String List="0">
+      <Source>First we have to get you out of these robes.</Source>
+      <Dest>首先我们得让你把这些长袍什么的脱下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>First we have to get you out of these robes.</Source>
+      <Dest>首先我们得让你把这些长袍什么的脱下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, I'm going to have to pass.</Source>
+      <Dest>对不起，我必须要过去。</Dest>
+    </String>
+    <String List="0">
+      <Source>We're going to need whips, chains, and a live pheasant.</Source>
+      <Dest>我们现在需要鞭子, 锁链,和一只活山鸡.</Dest>
+    </String>
+    <String List="0">
+      <Source>We're going to need whips, chains, and a live pheasant.</Source>
+      <Dest>我们现在需要鞭子, 锁链,和一只活山鸡.</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know what I want?</Source>
+      <Dest>你怎么知道我要什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just here for Lorne's key.</Source>
+      <Dest>我到这儿只不过是为了Lorne的钥匙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just here for Lorne's key.</Source>
+      <Dest>我到这儿只不过是为了Lorne的钥匙。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you tell Lorne?</Source>
+      <Dest>你给洛恩说什么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you tell Lorne?</Source>
+      <Dest>你给洛恩说什么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you tell Lorne?</Source>
+      <Dest>你给洛恩说什么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you tell Lorne?</Source>
+      <Dest>你给洛恩说什么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who do you think I'm after?</Source>
+      <Dest>你以为我在跟踪谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who do you think I'm after?</Source>
+      <Dest>你以为我在跟踪谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who do you think I'm after?</Source>
+      <Dest>你以为我在跟踪谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Get in the bed and I'll show you.</Source>
+      <Dest>到床上去，我会展示给你看的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Get in the bed and I'll show you.</Source>
+      <Dest>到床上去，我会展示给你看的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of services do you provide?</Source>
+      <Dest>你提供什么服务？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you tell me what I want.</Source>
+      <Dest>你为啥不告诉我那些我想知道的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you tell me what I want.</Source>
+      <Dest>你为啥不告诉我那些我想知道的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Deneris spoke of one named Elandir. Who was he?</Source>
+      <Dest>Deneris谈论到一个叫Elandir的人。他是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Lorne's role in all this?</Source>
+      <Dest>Lorne在这里扮演了什么角色？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Lorne's role in all this?</Source>
+      <Dest>Lorne在这里扮演了什么角色？</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew him like I know all my patrons. Intimately.</Source>
+      <Dest>我与他熟识，正如我认识我所有的顾客。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are quite lovely. I think I will enjoy our time together.</Source>
+      <Dest>你太可爱了。我想我会享受我们相处的时光的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I love a forceful woman. Let's not waste another minute talking.</Source>
+      <Dest>我喜欢女强人。别浪费时间，我们开始谈话吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Over here, handsome. Let me get a good look at you.</Source>
+      <Dest>到这儿来,帅小伙儿。让我好好看看你。</Dest>
+    </String>
+    <String List="2">
+      <Source>A man blinded by his desire to teach. He loved his pupil, and failed to see the Daedra in the darkness.</Source>
+      <Dest>有人因对传授知识的热忱而失明了。他给予他的学生太多的爱以至于没能看到那隐藏在黑暗中的魔族。</Dest>
+    </String>
+    <String List="2">
+      <Source>Elandir lived a long life, and so have I. It's not uncommon for those who cling to darkness to share the same shadow.</Source>
+      <Dest>Elandir 活了很久，我也是。依附于黑暗的人们投下同样的阴影并不奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the one you seek is a ghost.  For that man denied my offering, and only the dead earn that distinction.</Source>
+      <Dest>但你要找的那个人是个幽灵。他还拒绝了我的贡品，而且只有死人才会赢得这样的【荣誉】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet Lorne persisted. I offered him my body. He wanted the book. Men are always finding new ways to disappoint you.</Source>
+      <Dest>可 Lorne 很坚持。我要把身体给他。他却要他的书。男人总是有新鲜的花样来让你伤心。</Dest>
+    </String>
+    <String List="2">
+      <Source>The night is long, and there will be time for all your fantasies. The ones you think you know, and the ones you hide from yourself.</Source>
+      <Dest>长夜漫漫，有足够的时间留给你幻想。那些你认为你知道的，和你自己隐藏起来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say I lead people astray. They say I make people betray their spouses. When all I really do is allow you to be true to yourself.</Source>
+      <Dest>有人说我把人们引入歧途。他们说我让人们背叛了自己的配偶，而我只是让你们忠于本心而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm in the business of knowing. Everything you've done here you've done for a reason. Your eyes tell me the rest.</Source>
+      <Dest>我在知识的海洋里遨游。你在这所做的都是一个原因，至于其余的东西，你的眼睛都告诉我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Name your pleasure, sera, and discover it for the first time.</Source>
+      <Dest>说说你的兴趣，sera，然后第一时间发掘它。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a feeling it's right in front of you.</Source>
+      <Dest>在你面前我就有一种感觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>He followed the trail here. For the final echoes of any man, whether they be spoken by tongue or quill, will always whisper my name.</Source>
+      <Dest>他一直跟踪到这里。无论是谁，无论他们的遗言是说出来的还是写出来的，永远都会呢喃着我的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Love, passion, desire...only through this body will you experience them as they were meant to be.</Source>
+      <Dest>爱情，激情，欲望……只有凭借这具肉体，你才能如注定的一样经历它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know how Lorne died, but I know Elandir experienced pleasures few will ever know. It remains to be seen whether you will know the same.</Source>
+      <Dest>我不知道洛恩是怎么死的，但我知道兰迪尔心中腾起了鲜有人知晓的窃喜。剩下的问题就是你能否也察觉这点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like all patrons you tell me your secrets, and I show you mine.</Source>
+      <Dest>就像所有的主顾一样，你把自己的秘密告诉我，我也告诉你我的秘密。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was amazing. There aren't many clients who can satisfy me.</Source>
+      <Dest>超神了！要知道没有多少客户能让我一本满足啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told him what I told Elandir, and what I will tell you. A dead man will never bring you pleasure.</Source>
+      <Dest>我把对兰迪尔说的话也对他说了，而我会再对你说一遍。杀人不是什么令人高兴的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Elandir took my advice. He abandoned his brothers and gave me his diary as proof.</Source>
+      <Dest>兰迪尔采纳了我的建议。他丢下（出卖）了他的兄弟们，把他的日记给我作为证据。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lorne was like you. His desire blossomed from the seed of the dead, a journal written by Elandir Darksteel.</Source>
+      <Dest>Lorne 也曾像你一样。他的欲望绽放于一颗死亡之种，一本由 Elandir Darksteel 所写的日记。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm everyone's type. I grant all wishes. You simply don't know what to ask for.</Source>
+      <Dest>我是所有人都喜欢的类型。我能实现所有的愿望。你根本不知道该要什么了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only I know what you truly desire. You chase the flesh of another. A dead man, like the one before you, and the one before him.</Source>
+      <Dest>只有我懂你真正的欲望所在。你渴求别人的血肉。你就是行尸走肉，就像你前面的那个一样，就像他前面的那个一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only I know what you truly desire. You chase the flesh of another. A dead man, like the one before you, and the one before him.</Source>
+      <Dest>只有我懂你真正的欲望所在。你渴求别人的血肉。你就是行尸走肉，就像你前面的那个一样，就像他前面的那个一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only I know what you truly desire. You chase the flesh of another. A dead man, like the one before you, and the one before him.</Source>
+      <Dest>只有我懂你真正的欲望所在。你渴求别人的血肉。你就是行尸走肉，就像你前面的那个一样，就像他前面的那个一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only I know what you truly desire. You chase the flesh of another. A dead man, like the one before you, and the one before him.</Source>
+      <Dest>只有我懂你真正的欲望所在。你渴求别人的血肉。你就是行尸走肉，就像你前面的那个一样，就像他前面的那个一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only I know what you truly desire. You chase the flesh of another. A dead man, like the one before you, and the one before him.</Source>
+      <Dest>只有我懂你真正的欲望所在。你渴求别人的血肉。你就是行尸走肉，就像你前面的那个一样，就像他前面的那个一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such a shame. The things I would've shown you...</Source>
+      <Dest>真可惜。我明明都已经给你展示过了...</Dest>
+    </String>
+    <String List="2">
+      <Source>I think you're the type who likes to role play. You wear different masks, because you know not your own face, nor your own desire.</Source>
+      <Dest>我想你大概是那种喜欢扮演别人的家伙。你带着不同的面具，因为你根本不清楚你自己的脸长成什么样，也不清楚你想要的究竟是什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>I love a forceful man. Let's not waste another minute talking.</Source>
+      <Dest>我喜欢强有力的男人。让我们别再浪费时间说话了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's obvious. You desire Lorne, who wanted Elandir, who thought only of another.</Source>
+      <Dest>很明显。你渴望罗恩，那个想要兰迪尔的人，那个只想着另一个家伙的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only an experienced lover would be able to do what you just did. Or a talented one.</Source>
+      <Dest>只有一个阅历丰富的情人才能做到你刚才做的事。亦或是个才华横溢的天才。</Dest>
+    </String>
+    <String List="2">
+      <Source>Finally, someone who knows what they want. And yet you still know nothing.</Source>
+      <Dest>终于有人知道他们想要什么了，而你却一无所知。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know not what you're here for. And how could you, having never known my touch.</Source>
+      <Dest>你不知道你来这里的目的是什么。你怎么会从来不知道我。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, look at the size of that thing.  It's like an Argonian gave birth to a mammoth and taught it to swim.</Source>
+      <Dest>哇，看那个东西的大小。这就像一个亚龙人生下了猛犸象然後教牠如何游泳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Way ahead of you.</Source>
+      <Dest>道路就在你前方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, these people want to eat the priest?  That's just sick.</Source>
+      <Dest>等等，这些人想要吃了神父？真是令人毛骨悚然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.  What do you need?</Source>
+      <Dest>当然，你需要甚麽？</Dest>
+    </String>
+    <String List="2">
+      <Source>So are we friends again, you big oaf?</Source>
+      <Dest>所以我们又是朋友了，你个大笨蛋？</Dest>
+    </String>
+    <String List="2">
+      <Source>My commander asked me to scout a fort once. I said to Y'ffre with his cowardly tiptoeing and I charged on ahead.  Not to the fort, but the tavern.</Source>
+      <Dest>我的指挥官曾经让我去搜查一座堡垒。我紧张的走在前面，对胆小的，蹑手蹑脚跟在我身后的伊弗里说，那不是堡垒，而是酒馆。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was a waste of time.</Source>
+      <Dest>这只是在浪费时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Am I supposed to be impressed?  Well, I am.  That thing's amazing.  So don't say I don't ever do what I'm supposed to.</Source>
+      <Dest>我应该看起来印象深刻？好吧，我是。那事情令人惊奇。所以不要说那些我想象的却没曾做过的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are we helping this guy?  Tell me we're not helping this guy.</Source>
+      <Dest>我們是在幫這傢伙嗎？快告訴我我們不是在幫他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, this is the 2nd thing you've shown me that's really impressed me.  You could try for 3, but I don't think you want to go there.</Source>
+      <Dest>好的，这是你向我做的第二件让我印象深刻的事情了。你尝试去做第三件，但我不认为你想去那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tried to build a Dwarven spider once.  Turns out there's more to it than metal and soul gems.</Source>
+      <Dest>我曾经想试着造一只矮人蜘蛛。然而需要的东西远不止金属和灵魂石。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever get the feeling someone's watching you?  I wonder if they have it, the way you're staring.</Source>
+      <Dest>有没有觉得有人在看你？你这么死死紧盯的方式真让我感觉有这么个存在啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Figured you wouldn't be able to carry all that on your own.</Source>
+      <Dest>(笑声)估计你带不走所有属于你的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, look at the size of that thing.  It's like one of you lizards gave birth to a mammoth and taught it to swim.</Source>
+      <Dest>哇哦，看看这东西的尺寸。这就像你们蜥蜴人里的一个生出了只猛犸象然后还教会它游泳一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hurry up.</Source>
+      <Dest>快点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hurry up.</Source>
+      <Dest>快点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits are like rabbits.  Some of them are cute.  All of them bite.  And there's no end to them.</Source>
+      <Dest>强盗们就像兔崽子一样，有些很聪明，但他们全都要咬人，还没完没了的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You and your bloody stew!  It's like I killed your sister or something!  Well, good news, big brother, there's a baby on the way.  </Source>
+      <Dest>你和你那该死的炖菜！我和你有杀妹之仇吗！啊呸，真是个好消息啊，老兄，照这个吐法来看有个孩子都快出生了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Hey Moris, why don't you go fuck yourself?</Source>
+      <Dest>嘿莫里斯，为什么你不去干你自己呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave.  What are the chances there's untold riches inside?  Hm...maybe you should sit this one out.</Source>
+      <Dest>一个山洞。里面有数不清的财富的几率能有多少？嗯……也许你该装作没看见这山洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>And you'd leave me for a horker, so let's just forget the pleasantries and skip to the drinking.</Source>
+      <Dest>既然你愿意为了一个婊子把我给踢了，那咱们就什么也别说拉，都在酒里了。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Y'ffre, that's a sight.</Source>
+      <Dest>伊弗里在上，看看这风景。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm on it.</Source>
+      <Dest>我这就去。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hate Falmer hives.  I can never pick the locks on those large clams they call treasure chests.</Source>
+      <Dest>我讨厌雪精灵的聚居区。我永远不能撬开那个他们叫做宝箱的巨型蛤蚌上的锁。</Dest>
+    </String>
+    <String List="2">
+      <Source>So this is your home, huh.  What?  A Nord ruin?  Easy mistake.</Source>
+      <Dest>所以这就是你家，是吧。什么？一个诺德遗迹？真容易把它和你家搞混啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey Hadring, tell your dog to do his business outside.</Source>
+      <Dest>嘿，哈德灵，告诉你的狗让它自己外边玩去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hold on, did you hear that?  More importantly, do you smell that?  That island, over there!  Look!</Source>
+      <Dest>坚持住，你听到没？还有,你闻到了吗? 那座岛, 就在这里!  看啊!</Dest>
+    </String>
+    <String List="2">
+      <Source>They say Riften's a good city for begging, but I think Windhelm is fairly underrated.  All the angry folks make the nice ones open their purses.</Source>
+      <Dest>他们说裂谷城是个乞讨者的乐土，不过我感觉这么说对风盔城相当不公平。那些的愤怒的民众都能让上流者们乖乖打开他们的钱包。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>And don't tell me you don't smell it.  I can already see the saliva dribbling from your chin.</Source>
+      <Dest>不要告诉我你没有闻到。我已经可以看到你的口水顺着下巴滴下来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Y'ffre, whoever or whatever did this to these people...it needs to pay.</Source>
+      <Dest>通过伊弗里在上，任何对这些人做出这种事的人或者东西......要为此付出代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh, that was quick.  No wait, the opposite of that.  It was long. Greybeard long.  But time well spent.</Source>
+      <Dest>呼，很快嘛。没有等候，完全没有。的确用了很长时间，灰胡子的胡子那么长，但是时间没有被浪费。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why would anyone want to live with a bunch of dead things?  I don't get it.</Source>
+      <Dest>为什么有人愿意和一群死物生活在一起？我想不通。Why would anyone want to live with a bunch of dead things?  I don't get it.</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, easy, I came to make peace.</Source>
+      <Dest>嘿，放轻松，我是来和解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Animal hides are basically coin.  We skin them, sell them, and fatten our coin purse.</Source>
+      <Dest>动物皮毛是基本经济来源.  我们剥皮, 出售他们,以此来养肥我们的钱袋.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, here goes nothing...Attaaaaaaack!</Source>
+      <Dest>好了，这里什么事也没有……上啊啊啊啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the smell...it's like feet wrapped in armpit and garnished with moldy cheese.</Source>
+      <Dest>这个味道……闻起来就像把一双臭脚塞到了狐臭的腋窝里，周围还点缀着发霉的奶酪。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the smell...it's like feet wrapped in armpit and garnished with moldy cheese.</Source>
+      <Dest>这个味道……闻起来就像把一双臭脚塞到了狐臭的腋窝里，周围还点缀着发霉的奶酪。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's them or us.  Most likely them, but you never know. Anything can happen.</Source>
+      <Dest>不是他们就是我们。很有可能是他们，但你永远也没法确定。什么事都有可能发生。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey Moris, why don't you take off that stupid armor and wear something that suits you.</Source>
+      <Dest>嘿，莫里斯, 你为什么不脱掉那件奇葩的装备然后穿上某些适合你的衣服呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever try crafting things when you don't have the materials?  I made a dagger with a wooden handle once.  But I guess that made it a kitchen knife.</Source>
+      <Dest>你曾试过在缺乏材料的时候制作什么东西吗？我曾经用一支木柄做了把匕首。但是我想那是把菜刀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just tell me what to kill.  No need to explain why.  Or how. </Source>
+      <Dest>就告诉我要杀谁。不用说怎么杀和为什么杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think what?  Fultheim could take you in a fight?  I already thought that.  And I didn't have to think very long.</Source>
+      <Dest>想什么？ 弗瑟姆能把你卷入一场战斗？我正在想这事儿，显然我不用想太久。</Dest>
+    </String>
+    <String List="2">
+      <Source>I read somewhere Dwarves like to build things.  This qualifies as a "thing," doesn't it?</Source>
+      <Dest>我在某个地方读到过说矮人喜欢造东西。这玩意很显然就是那些“东西”不是么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to The Pale?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to The Pale?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to The Pale?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to The Pale?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to The Pale?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was that.</Source>
+      <Dest>就是那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Let's go find us a chef.</Source>
+      <Dest>好吧。那就去找我們的廚子吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you track down this horker.</Source>
+      <Dest>我可以帮你追踪这三牙海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you track down this horker.</Source>
+      <Dest>我可以帮你追踪这三牙海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you track down this horker.</Source>
+      <Dest>我可以帮你追踪这三牙海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you track down this horker.</Source>
+      <Dest>我可以帮你追踪这三牙海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you track down this horker.</Source>
+      <Dest>我可以帮你追踪这三牙海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you're here to hunt horkers then.</Source>
+      <Dest>那我猜你是来狩猎三牙海象的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you're here to hunt horkers then.</Source>
+      <Dest>那我猜你是来狩猎三牙海象的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about this chef.</Source>
+      <Dest>告诉我更多关于这个厨师的事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about this chef.</Source>
+      <Dest>告诉我更多关于这个厨师的事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think this inn is fairly lively.</Source>
+      <Dest>我觉得这家旅馆真有气氛。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think this inn is fairly lively.</Source>
+      <Dest>我觉得这家旅馆真有气氛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hate people who complain about thieves.  Want to stop a thief?  Chop off his hands.  Then his sausage if he has one.  Problem solved.</Source>
+      <Dest>我厌恶那些对盗贼抱怨的人。想要阻止盗贼偷盗?  砍掉他的手。如果他是男的，再砍掉他那根香肠儿。问题就解决了.</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if Eorlund can fix my rusty iron.  I don't know if I want to fixed.  Sharp blades tend to get stuck.</Source>
+      <Dest>我在想要是厄仑德能修好我这把生锈的破剑。我还不知道愿不愿意让他修呢。太锋利的剑刃老是会被卡住。</Dest>
+    </String>
+    <String List="2">
+      <Source>I feel like this city ages in dog years.  Now it's half-blind and limping around on one leg.  It's time to put it down.</Source>
+      <Dest>我感到这个城市的历史已经步入狗年代了。现在它已经半瞎而且还瘸了一条腿。是时候推翻它了。</Dest>
+    </String>
+    <String List="2">
+      <Source>They call it the Brinehammer or something like that.  We should head on over there.</Source>
+      <Dest>他们称之为海锤之类的。我们应该在那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>The dungeon is like the adventurer's inn.  We drink, we brawl, and then they give us a free room.</Source>
+      <Dest>地牢就像是冒险者们的酒馆儿。我们喝酒,打架,然后他们就给我们一间免费的客房。</Dest>
+    </String>
+    <String List="2">
+      <Source>We live in a magical world.  The other day an urchin asked me how to cast a spell, and I used illusion magic to pretend she wasn't there.</Source>
+      <Dest>我们都活在魔法般的世界中。前几天有个小鬼问我怎么施展法术，我就用了个幻术魔法装作她根本没在那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, he's Breton, and sells health potions that taste like taffy.  Except the potions aren't good for anything but a paper cut.</Source>
+      <Dest>好吧，他是个布莱顿人, 他卖的生命药水像极了太妃糖的味道。不只是药水，他卖的什么东西都不怎么样。呃。除了剪纸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, are we in Riverwood?  I can't tell.</Source>
+      <Dest>等等，我们是在河木镇吗？我没法说了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard there was some fancy Breton from High Rock living in The Reach.  Like cooks with magic or potions or something like that.  </Source>
+      <Dest>我听说，瑞驰有一些来自高岩省的稀奇古怪的布莱顿人。喜欢用魔法啊药水儿啊什么的做饭。</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude.  Never thought I'd see this city again with my head still attached.</Source>
+      <Dest>独孤城。我这辈子都不会再来这鬼地方了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stronghold Orcs are too serious.  Every day it's forge this or smelt that.  Why don't they pray to Malacath for a sense of humor?</Source>
+      <Dest>要塞里的兽人太严肃了 。每天不是锻造就是冶炼。为什么他们不向玛拉凯斯祈求赐予他们一些幽默感呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>If I had to rank these Nord cities in order, they'd all be tied for last.</Source>
+      <Dest>如果非要给那些诺德人的城市排名的话，它们都会并列第一。</Dest>
+    </String>
+    <String List="2">
+      <Source>Caves are dirty.  You should let me take the lead.  Don't want to sully that pretty face of yours.</Source>
+      <Dest>洞穴里都很脏的。你还是让我走先吧。别把你的小脸蛋儿弄花了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I hope you're a necromancer, because this place is about as lively as a bone crypt.  </Source>
+      <Dest>我希望你是个亡灵术士，因为这里就像地下墓穴一样热闹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anything else would be too weird.  Eating them's weird enough.</Source>
+      <Dest>其他的一切都是那么怪诞。尤其是要吃了他们这件事更是十足的奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>I spent two months in one of these camps.  Worst part was the mornings.  Only a lunatic wakes up before the sun.</Source>
+      <Dest>我在这些营地里呆了两个月的时间。最糟糕的是在早上。只有疯子才会在日出之前醒来 ！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever get a piece of food stuck in your teeth and you can't get it out?  It's been three days now.  I think it'd be easier to rip out the tooth.</Source>
+      <Dest>一块儿食物卡在你的牙缝里，你弄不出来吗？它已经在那儿三天了。我感觉你把牙拔掉还比较靠谱点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, this is gonna sound pretty stupid.  Because it is. </Source>
+      <Dest>恩，这听起来很傻。因为它本来就很傻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, an inn.  I'm going to find the nearest bed, lie down, and say goodbye to the rest of the this week.</Source>
+      <Dest>啊，是旅馆。我得赶快就近找张床，往上一躺，对这周剩下的时间说拜拜……</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Divines, we did it!  Well, mostly you did it, but I watched.  Some people won't even do that.  The smart ones, anyway.</Source>
+      <Dest>圣灵在上，我们做到了！啊，应该说是你做了，我看到了。别人连看都不敢呢。聪明人的话，反正差不多。</Dest>
+    </String>
+    <String List="2">
+      <Source>If rain is her tears, snow is like Kynareth's phlegm.  Who knew so much snot could be in one person?</Source>
+      <Dest>如果雨水是凯娜瑞斯的眼泪的话，那雪绝对是她的痰。谁知道那么多的鼻涕都是一个人的啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>The inn gets more lively on Fredas and Loredas.  Never understood it myself.  Every day can be a day off for me.</Source>
+      <Dest>多亏了Fredas和Loredas，旅馆显得更有生气了。每一天对我来说都像是放假，这种感觉…我自己都无法理解。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should try staying in one of these places for a month or so.  Takes at least that long to know the locals.  Half that long for them to annoy you.</Source>
+      <Dest>你应该试着在这些地方呆上一个月左右。了解那里的居民大概需要这么长时间。而那些人惹恼你只需要这一半的时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rain. This is why I try to stay away from fur armor.  I got so sick one time there were boats sailing down my nose.</Source>
+      <Dest>雨水，这就是我为啥尝试远离毛皮装备的原因。每次每次我总觉得这毛皮湿得像是可以在上面开船了，太让恶心了</Dest>
+    </String>
+    <String List="2">
+      <Source>Whenever I enter a cave, I think to myself, "Could be bandits, or worse.  As in no bandits."</Source>
+      <Dest>每次当我踏进一个洞穴时，我都会暗想："（这鬼地方）会有强盗么，好吧如果没有强盗那就更糟了。" </Dest>
+    </String>
+    <String List="2">
+      <Source>Can't spend five minutes here without losing the feeling in your toes.</Source>
+      <Dest>（站在这鬼地方）不出五分钟你的脚趾就会失去知觉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I figure a chef like that must be completely mad.  Mad enough to want to cook horkers.</Source>
+      <Dest>我觉着一个到这地步的厨师肯定完全疯了。已经疯狂到想去煮三牙海象了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, I've bedded a bandit or two in my life.  I like them dangerous.  Makes leaving them easy too, on account of all the danger.</Source>
+      <Dest>没错儿，我活这么长，上过一两个强盗。我就喜欢他们身上那种“危险性”。但由于他们那么危险，离开他们也很容易。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.  I'd say to wrap it in ice, but Skyrim's pretty much one big glacier.</Source>
+      <Dest>很好。我把它包在冰里，但天际省几乎就是个大冰川。</Dest>
+    </String>
+    <String List="2">
+      <Source>We could bring some of this horker meat back to Gorr, but that ain't exactly gonna help him seeing as he cooks as bad as he sweats.</Source>
+      <Dest>我们可以带一些三牙海象的肉回去给勾尔，但是鉴于他跟做苦工一样的烹饪水准，这估计并不会对他有什么实质性的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now they say he's cooking with magic.  Magic!  Guy like that probably works with all sorts of crazy meats.</Source>
+      <Dest>现在有人说他用魔法来烹饪。魔法！那些人大概整体都在跟疯子一起工作吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>My head's cold. Maybe I need to wear a hat and a helmet.  You don't think that would look funny, do you?  Wait, why am I asking you?</Source>
+      <Dest>我的头有点冷。也许我该戴顶帽子套上头盔。你不会觉得这样很好笑吧，是吧？等等，我干嘛要问你？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can you imagine being a dwarf who was afraid of big, empty spaces?  It'd be like being a beggar who was afraid of gold.</Source>
+      <Dest>矮人居然害怕空旷宽广的房间，这情形你能想象吗？听起来真像乞丐害怕金币一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should take the lead, seeing how you're excited to do this.  I'm more of follower anyway.</Source>
+      <Dest>你应该打头阵，既然你这么兴奋。我更适合做跟班才对。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, the horkers here are too small.  But Hadring says there's a horker so big it sunk an entire ship somewhere up north.</Source>
+      <Dest>你看，附近这些海象都太小了。可是哈德灵 说北方海边有只足以撞沉整艘大船的巨型海象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, if I really wanted to show the big oaf I cared, I wouldn't nab just any old horker.   </Source>
+      <Dest>当然，如果我真的要给那个蠢货看看我所关心的事情，我就不会去抓老三牙海象了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I was in the Imperial army, my commander called me lazy.  I told him he was right, and then I went back to sleep.</Source>
+      <Dest>我穿上帝国铠甲的时候，我的指挥官说我太慢了。我也这么觉得，于是我就回去睡觉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm here for horkers.  Yeah, that's right.  Horkers.  Told you it was stupid.</Source>
+      <Dest>我是来猎三牙海象的。没错，就是三牙海象。告诉过这很傻。</Dest>
+    </String>
+    <String List="2">
+      <Source>I picked up everything I know about restoration in this city.  Lots of places to heal, lots of people that need healing.</Source>
+      <Dest>我在这座城中找到每个需要恢复的事物。有那么多地方等着修复，那么多人需要治疗。</Dest>
+    </String>
+    <String List="2">
+      <Source>See, I have this friend, and he's mad about horkers.  Just loves 'em.  Loves to eat them, that is.</Source>
+      <Dest>你看，我的这个朋友痴迷于三牙海象，完全迷恋它们，我的意思是，吃。</Dest>
+    </String>
+    <String List="2">
+      <Source>These Dwarves use their metal for everything.  Forks, knives, plates.  I bet they had metal teeth too, to eat their bowl of rocks with.</Source>
+      <Dest>这些矮人的一切都用到了金属。叉子，刀子，盘子。我打赌他们的牙也是金属做的，用来吃他们碗里的石子儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I don't even know if it's real yet.  Come back later.  I might have something then.</Source>
+      <Dest>好吧,然而我甚至不知道它是否真实的。迟些再来。然后我可能拿来一些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I was thinking. </Source>
+      <Dest>无论如何，其实我一直在想。</Dest>
+    </String>
+    <String List="2">
+      <Source>What should we eat for dinner?  I could go for some venison.</Source>
+      <Dest>晚上吃什么？ 我可以打些鹿肉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Toughest battle I ever fought was against an Orc.  They're like trolls.  They never get tired.</Source>
+      <Dest>我曾经历过的最艰难的战斗是和兽人对打。他们就像巨魔一样，从不会感到疲倦。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>That big ugly housecarl in the Elven armor.  I think he has a thing for Elves, way he was eyeing me.</Source>
+      <Dest>那个穿着精灵盔甲的丑陋的侍卫。我觉得他就是在以看精灵的目光看着我。</Dest>
+    </String>
+    <String List="2">
+      <Source>You what? Are you serious? By Moris' cheese breath, you are. Well, far be it for me to talk you out of something stupid.  </Source>
+      <Dest>你说啥？你当真？看在莫里斯那张臭嘴的份上，看来你是认真的。好吧，别跟我说你没干过那样的傻事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Problem is, we can't take this meat to just any chef.  It'd be like taking a fine piece of ebony to an Altmer blacksmith.</Source>
+      <Dest>问题是，我们不能把这肉带给任何一个厨师。那就像是把一块上好的玄曜石拿给一个傲尔特莫铁匠一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring's swill is indeed bad and you should feel bad for defending it.</Source>
+      <Dest>Hadring的泔水真不咋地，你应该为捍卫它感到羞耻。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think horkers are delicious.</Source>
+      <Dest>我觉得 horkers 很好吃。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think horkers are delicious.</Source>
+      <Dest>我觉得 horkers 很好吃。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring would make a beautiful tavern wench.</Source>
+      <Dest>Hadring会做一个漂亮的小酒馆丫头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring would make a beautiful tavern wench.</Source>
+      <Dest>Hadring会做一个漂亮的小酒馆丫头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good enough for me.  I'll get myself looked at.</Source>
+      <Dest>对我来说不够好。.  I'll get myself looked at.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good enough for me.  I'll get myself looked at.</Source>
+      <Dest>对我来说不够好。.  I'll get myself looked at.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good enough for me.  I'll get myself looked at.</Source>
+      <Dest>对我来说不够好。.  I'll get myself looked at.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good enough for me.  I'll get myself looked at.</Source>
+      <Dest>对我来说不够好。.  I'll get myself looked at.</Dest>
+    </String>
+    <String List="0">
+      <Source>As an adventurer, sometimes you have to eat strange things.</Source>
+      <Dest>作为一个冒险者，有时候你不得不吃一些奇怪的东西。.</Dest>
+    </String>
+    <String List="0">
+      <Source>As an adventurer, sometimes you have to eat strange things.</Source>
+      <Dest>作为一个冒险者，有时候你不得不吃一些奇怪的东西。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Some magic ought to do the trick.</Source>
+      <Dest>一些魔法应该是耍了小花招。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some magic ought to do the trick.</Source>
+      <Dest>一些魔法应该是耍了小花招。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm fine.</Source>
+      <Dest>我没事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about yourself.</Source>
+      <Dest>告訴我更多關於你的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's the plan.  Attack anything that looks fat and blubbery.</Source>
+      <Dest>就是这么计划的。攻击所有看起来肥胖而多脂的玩意儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you're here to hunt horkers then.</Source>
+      <Dest>那我猜你是来狩猎三牙海象的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you're here to hunt horkers then.</Source>
+      <Dest>那我猜你是来狩猎三牙海象的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can always make new friends.</Source>
+      <Dest>你可以随时交到新的朋友。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You can always make new friends.</Source>
+      <Dest>你可以随时交到新的朋友。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You can always make new friends.</Source>
+      <Dest>你可以随时交到新的朋友。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems a little harsh for a spilled bowl of stew.</Source>
+      <Dest>对于一碗溢出的炖肉来说，这似乎太苛刻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems a little harsh for a spilled bowl of stew.</Source>
+      <Dest>对于一碗溢出的炖肉来说，这似乎太苛刻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems a little harsh for a spilled bowl of stew.</Source>
+      <Dest>对于一碗溢出的炖肉来说，这似乎太苛刻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems a little harsh for a spilled bowl of stew.</Source>
+      <Dest>对于一碗溢出的炖肉来说，这似乎太苛刻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult a task.</Source>
+      <Dest>听起不那么困难的任务。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult a task.</Source>
+      <Dest>听起不那么困难的任务。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult a task.</Source>
+      <Dest>听起不那么困难的任务。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult a task.</Source>
+      <Dest>听起不那么困难的任务。.</Dest>
+    </String>
+    <String List="0">
+      <Source>We should use stealth.</Source>
+      <Dest>咱们应该先隐藏一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>We should use stealth.</Source>
+      <Dest>咱们应该先隐藏一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you were saying your friend likes horkers...</Source>
+      <Dest>你曾经说过你的朋友像三牙海象......</Dest>
+    </String>
+    <String List="0">
+      <Source>So you were saying your friend likes horkers...</Source>
+      <Dest>你曾经说过你的朋友像三牙海象......</Dest>
+    </String>
+    <String List="0">
+      <Source>So you were saying your friend likes horkers...</Source>
+      <Dest>你曾经说过你的朋友像三牙海象......</Dest>
+    </String>
+    <String List="0">
+      <Source>Just wanted to talk.</Source>
+      <Dest>只是想谈谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just wanted to talk.</Source>
+      <Dest>只是想谈谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just wanted to talk.</Source>
+      <Dest>只是想谈谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem like a talker to me.</Source>
+      <Dest>我看你是个话痨。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem like a talker to me.</Source>
+      <Dest>我看你是个话痨。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you an adventurer?</Source>
+      <Dest>你是个冒险家吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you an adventurer?</Source>
+      <Dest>你是个冒险家吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Moris seems like the type to exaggerate.</Source>
+      <Dest>看起来莫里斯是那种夸大其辞的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Moris seems like the type to exaggerate.</Source>
+      <Dest>看起来莫里斯是那种夸大其辞的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Moris seems like the type to exaggerate.</Source>
+      <Dest>看起来莫里斯是那种夸大其辞的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Moris seems like the type to exaggerate.</Source>
+      <Dest>看起来莫里斯是那种夸大其辞的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stupid?  I challenge you to find a more intellectually stimulating topic.</Source>
+      <Dest>愚蠢？让我给你个挑战吧，去找些更刺激的关乎智力的话题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, it's probably nothing. But don't blame me if the dagger between your legs falls off in the morning. Although I think that's a symptom of Rattles.</Source>
+      <Dest>啊，可能没事。但别把你早上弄丢大腿上那把匕首的事怪到我头上。虽然我自己都说烦了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Hadring didn't rip out all his hair and stuff it up his nose, I'd say you were on to something.</Source>
+      <Dest>如果哈德灵不是因为他把他的头发全给扯下来塞进了鼻孔才秃的，那我得说你发现重点了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought maybe I'd be a priest, until I remembered the only God I worship is coin.</Source>
+      <Dest>我以为我会成为一个牧师，直到我记起我唯一崇拜的神是金币。.</Dest>
+    </String>
+    <String List="2">
+      <Source>So I'm waving my flagon around like it's midnight on the 1st of Morning Star, and I end up knocking his stew all over the floor.</Source>
+      <Dest>于是我挥舞着我的酒壶，就像是在晨星月第一天的午夜那样，结果把他的炖汤打翻了洒得地上到处都是。</Dest>
+    </String>
+    <String List="2">
+      <Source>The big oaf comes back, and I'm expecting things to go airborne.  Mugs, flagons, benches, alchemy tables.   </Source>
+      <Dest>那个大蠢蛋回来了。我预料东西都会从天而降。杯子，酒壶，长椅，炼金台。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought about my stomach once, but that was after bedding some worthless bandit.</Source>
+      <Dest>我挺饿的了，但在铺盖上却只有一些食之无味的强盗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Guess which one I am.</Source>
+      <Dest>猜猜我是哪一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're probably right.  I guess some adventurers like to explore caves and old forts, and others like to explore the bottom of a bottle.</Source>
+      <Dest>你或许是对的。我猜有的冒险者喜欢探索洞穴和古堡，而有些喜欢探索的则是瓶子的底端。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pretty much.  Got the face for it anyway.  I was too cute to be a tavern wench and too ugly to be a brothel whore.  </Source>
+      <Dest>差不多。总之【长什么样的脸，干什么样的事】如果我特别可爱的话，可能会成为一个酒馆的丫头。而如果我太丑了的话，也许会成为一个妓院的妓女。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, dagger pants, the name's Callen.  What can I do you for?</Source>
+      <Dest>不管怎样，带着刀的家伙, 我叫凯能。我能为你做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He's kind of jerk too.  Likes to tell Fultheim how there still ain't no "comely maidens" in this inn.</Source>
+      <Dest>他也是个大混蛋。老爱问弗瑟姆为什么这家酒馆儿还没有些“美丽的少女”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me get this straight.  You want to try and sneak around it?  Out here?  What are you some vampire, gonna disappear into the ice?</Source>
+      <Dest>让我把事情搞清楚。你想偷偷靠近它？在这里？你是个吸血鬼，还是块儿快要融化的冰吗？ </Dest>
+    </String>
+    <String List="2">
+      <Source>But he just...walked away.  Didn't say a word.  Would've been easier if he just let me have it.</Source>
+      <Dest>但他只是……走开了。一句话也没说。如果他告诉我怎么回事儿的话就简单多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not after he traveled to the coast to get the meat. Way it sounds, trekking through the snow's a bigger chore than an Altmer mating ritual.</Source>
+      <Dest>在他去往那个海岸猎了一堆肉之后，徒步走在雪地上的声音都得比傲尔特莫在交配仪式上发出的更大了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And no, I don't have the two mixed up.  At least, I don't think I do.  Which one is Hadring?</Source>
+      <Dest>不不，我没有把两者混淆。至少，我认为我没有。话说哪一个是哈德灵?</Dest>
+    </String>
+    <String List="2">
+      <Source>Ain't much to tell.  I tried being a soldier for the Empire, until I realized I hate taking orders.</Source>
+      <Dest>没什么好说的。我过去是一名帝国的士兵。直到我意识到自己讨厌听从命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, the name's Callen.  What can I do you for?</Source>
+      <Dest>总之，我叫凯能。我能为你做些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I considered becoming an assassin, but crouching really tears at my back.</Source>
+      <Dest>自此之后我就立志成为一个刺客，但要蜷起身子来真的是对我的背部的一种折磨。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could've been a housecarl, but I got a pair of knife ears and bad knees and I don't bend 'em for nobody.</Source>
+      <Dest>我原本可以成为一个侍卫, 但是我的傲骨不允许我给任何人低头。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's an understatement.  Bards like to exaggerate.  Jarls like to exaggerate. Moris will step on a cockroach and tell you he slew twelve dragons.</Source>
+      <Dest>这是个保守的陈述。吟遊诗人喜欢夸张。领主也喜欢夸张。莫里斯能踩死一只蟑螂然后扭脸告诉你他屠了十二条龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, wait, wait, you aren't planning on roasting the thing, are you?  We want that meat raw.</Source>
+      <Dest>等等，等等，等等，你不会是想烤了这东西吧？我们可是要生肉的！</Dest>
+    </String>
+    <String List="2">
+      <Source>So if you got things need slayin', I got the steel to slay 'em. Well, more like I got the iron.</Source>
+      <Dest>如果你要解决什么东西的话，我这有解决的工具，好吧，我这有锻铁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we're here.  You got a plan, or you want to just charge in stabbing?</Source>
+      <Dest>好极了，就是这儿。你有啥子计划吗？还是说你想就这么冲进去捅刀子？</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard that in some places, they got ones as big as a galleon and as ugly as an Orc's first wife.  </Source>
+      <Dest>我听说某些地方的人，会娶一个像帆船那么大，像兽人那么丑的女人当做他们的发妻。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like Gorr.  All that Redguard thinks about is his sodding stomach. </Source>
+      <Dest>你说话听起来就像勾尔。那个红卫人只关心他该死的肚皮有么有鼓鼓囊囊的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Thing is, my head's spinning from all the ale, and pretty soon my arms are spinning too, especially when one of them bards starts chirping.</Source>
+      <Dest>问题是，喝了这么多麦芽酒我已经开始头晕了，一眨眼的功夫我胳膊膀子也要不听使唤的，特别是那吟游诗人开始叽叽喳喳的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not much of a talker.  Now Moris, that one's a talker.  He won't shut up about his dead wife and the corpse he calls his manhood.  </Source>
+      <Dest>我不是什么健谈的人。莫里斯才是。他一直在谈论他死去的妻子和那具他称之为很有男子气概的尸体，嘴就没停过。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever, let's just find this thing before it sees its reflection and dies.</Source>
+      <Dest>无论如何，我们得趁它还没有看到自己的倒影并且死去之前找到它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever, let's just find this thing before it sees its reflection and dies.</Source>
+      <Dest>无论如何，我们得趁它还没有看到自己的倒影并且死去之前找到它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hold on.  Are you alright?  You look like you got ataxia.  I say that not as a priestess, but as someone who read "Withershins" back in the Year 199.</Source>
+      <Dest>等一会儿。你没事吧？你看起来像是得了运动失调症。我不是作为一名女祭司说这话的，而是作为早在199年就读了“逆时针”的读者说的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And those things are like watching paint dry on a portrait of lint.</Source>
+      <Dest>那些东西就像在看着肖像画上的油漆干掉一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most people you talk to it's like reading some ten volume tome about the shape of Nord beards.  </Source>
+      <Dest>大部分你与之交谈的人就像去读大量的关于诺德人胡子形状的书一样毫无价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, he wouldn't be the first who needed a good shave.  Never met a bald tavern wench though.</Source>
+      <Dest>唉，需要好好剃剃胡子的他也不是第一个了。不过我倒还真没见过秃头的酒馆女郎。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could drop a slaughterfish in his trousers and he'd laugh it off like some big joke, but spilling his stew is something he won't forgive.  </Source>
+      <Dest>我就算在他裤裆里放一条食人鱼，他会一笑而过觉得这只是个玩笑，但你要是把他的汤洒出了些，他可不会原谅你。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Problem is, I'm not so good at finding stuff.   Losing stuff, I'm the queen of that.  Finding, not so much.</Source>
+      <Dest>问题是，我不擅长找东西啊。说到丢东西，我绝对是全班第一。找东西么，倒着数吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like it.  Just don't try and be cute and go for my backside.  It ain't that big.</Source>
+      <Dest>我喜欢它。只是别试着可爱到躲到我的身后去，那里没有那么大。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I tell Fultheim "Well, at least now we got a warrior who doesn't need a strength potion to get off his stool."</Source>
+      <Dest>所以我告诉弗瑟姆:"呃，至少现在我们有了个不需要力量药水就能拉出粑粑的战士了。"</Dest>
+    </String>
+    <String List="2">
+      <Source>At least with Gorr, I manage to keep awake just long enough for him to bore me.</Source>
+      <Dest>至少跟戈尔一起的时候，我是被他烦得难以保持长时间的清醒。</Dest>
+    </String>
+    <String List="2">
+      <Source>New friends ain't necessarily good friends.  It's hard to find decent company.  </Source>
+      <Dest>新朋友，不一定是好朋友。很难找到像样的同伴。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he wants to talk, I'll talk.  Otherwise I've got nothing to say.</Source>
+      <Dest>如果他想聊聊的话，我会跟他谈。否则就没什么可说的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I decided to become an adventurer, because pretty much anyone qualifies.</Source>
+      <Dest>所以我决定成为一名冒险者，因为几乎人人都有资格。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay so I lied, I talk.  But I also get things done.</Source>
+      <Dest>好吧好吧，我撒谎了。但我也能把事情做好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right. So one day we're at some inn and he's gobbling down the slop, while I'm gobbling down the ale.</Source>
+      <Dest>是的。所以有那么一天，我们会在某个酒馆的时候。他趁我喝酒的时候把泔水吞掉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know, I've had worse.  Ever been to Cyrodiil?  They got beer that tastes like it was squeezed out of a miner's sock.  </Source>
+      <Dest>我不知道，我见过更糟的。去过赛瑞迪尔吗？他们那儿做出来的啤酒的味道就像是用矿工的臭袜子挤出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I considered opening my own bakery, but turns out my bread is better used as bricks.</Source>
+      <Dest>我想过开一家自己的面包店，但结果却发现我的面包还是当砖头用更好。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't be serious.  Well for starters, there's...um...and suddenly I'm drawing a blank.  That's embarrassing.</Source>
+      <Dest>你不是认真的吧。对于初学者来说，这个……嗯……我突然啥都想不起来了。这挺尴尬的哈。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought about becoming a beggar, but they make little more than sellswords.</Source>
+      <Dest>我想过当乞丐，但他们不比佣兵挣的多.</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought about training warriors, but I hate giving orders more than taking them.</Source>
+      <Dest>我考虑过训练战士，但是比起接受指挥我更讨厌发号施令。</Dest>
+    </String>
+    <String List="0">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>我理解为和Gorr还有三牙海象的交易进行的不错？ </Dest>
+    </String>
+    <String List="0">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>我理解为和Gorr还有三牙海象的交易进行的不错？ </Dest>
+    </String>
+    <String List="0">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>我理解为和Gorr还有三牙海象的交易进行的不错？ </Dest>
+    </String>
+    <String List="0">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>我理解为和Gorr还有三牙海象的交易进行的不错？ </Dest>
+    </String>
+    <String List="0">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>我理解为和Gorr还有三牙海象的交易进行的不错？ </Dest>
+    </String>
+    <String List="0">
+      <Source>Neither. Hadring is an innkeeper.</Source>
+      <Dest>不. Hadring是一个旅店老板.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good to see you.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good to see you.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good to see you.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good luck with that.</Source>
+      <Dest>祝你好运。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring is the fine Nord you and Moris keep belittling.</Source>
+      <Dest>哈德灵是那个被你和莫里斯轻视的好诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Still carrying that sword around, I see.</Source>
+      <Dest>还扛着那把剑到处乱晃啊，嗯我懂了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still carrying that sword around, I see.</Source>
+      <Dest>还扛着那把剑到处乱晃啊，嗯我懂了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You use an iron sword?</Source>
+      <Dest>你用铁剑？</Dest>
+    </String>
+    <String List="0">
+      <Source>You use an iron sword?</Source>
+      <Dest>你用铁剑？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are things?</Source>
+      <Dest>怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are things?</Source>
+      <Dest>怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are things?</Source>
+      <Dest>怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are things?</Source>
+      <Dest>怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring's selling something, but nobody's buying.</Source>
+      <Dest>哈德灵在卖东西，可是没人买他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hadring's selling something, but nobody's buying.</Source>
+      <Dest>哈德灵在卖东西，可是没人买他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think I'd rather eat the tusks.</Source>
+      <Dest>我看我还是吃那些牙算了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look lost in thought.</Source>
+      <Dest>你好像走神儿了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>You look lost in thought.</Source>
+      <Dest>你好像走神儿了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>You look lost in thought.</Source>
+      <Dest>你好像走神儿了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>You look lost in thought.</Source>
+      <Dest>你好像走神儿了 ？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask you some more personal questions.</Source>
+      <Dest>我要问你一些更加私人的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, turns out you're mighty stupid. If you want to keep that blisterwort you keep between your legs, you'll cook us some horker stew right now.</Source>
+      <Dest>好吧，原来你是真傻。如果你想继续保住你两腿之间那团恶心的汽泡草，就滚去给我们炖些三牙海象炖肉回来，赶紧的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the thing with males, dumber than a sack of forks when it comes to getting their pricks wet.</Source>
+      <Dest>那是男人们的问题，精虫上脑以后他们就跟废物差不多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Listen you perfume wearing sausage-drinker, and listen well.</Source>
+      <Dest>听着，你个吃提拉米苏还要蘸蒜泥的家伙，给老子听好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are we waiting for?  Let's go grab those ingredients before the meat goes bad.</Source>
+      <Dest>我们还等什么呢？赶在那肉没坏掉之前去把所有材料弄齐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope you know what your doing, Breton.  I mean fire salts?  What in Arkay's name is that for?  </Source>
+      <Dest>我希望你知道你做什么，布莱顿人。我的意思是火盐？ 阿尔凯在上，这怎么回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>哈？</Dest>
+    </String>
+    <String List="2">
+      <Source>They're probably healthier for you too.  And less filling.  I ate a horker loaf once and I think it got me pregnant.</Source>
+      <Dest>它们对你来说更健康，也不会过量。我吃过一次三牙海象肉，我当时的感觉是，它都快让我怀孕了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But don't you dare.  That stew's for Gorr.  And yes, I realize me saying that will only make you want to drink it more.</Source>
+      <Dest>但是你不敢。那炖汤是属于戈尔的。是的，我知道我这么说只会让你更想去喝它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't get me confused with that idiot Moris though.  I don't sleep with the damn thing.</Source>
+      <Dest>别把我跟这个弱智莫里斯混淆在一起。我可不跟这该死的玩意儿睡一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know what I was thinking? Was that horker a male or a female?  I can never tell with beasts.  </Source>
+      <Dest>你知道我在想什么吗！那个三牙海象是公的还是母的？我总弄不清。 </Dest>
+    </String>
+    <String List="2">
+      <Source>There I said it.  Won't ever say it again.</Source>
+      <Dest>我只说这一次，以後不会再提了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's friendships.  Wherever you take that smelly backside of yours, with me you'll never have to watch it.  I'll be there.</Source>
+      <Dest>这就是友情。无论你有个多臭的屁股，跟我在一块儿你永远不会注意到它。我一直会在你身边。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you sure you're feeling alright?  All those veins in your forehead can't be a good thing.</Source>
+      <Dest>你确定自己没问题吗？额头布满青筋可不是件好事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you sure you're feeling alright?  All those veins in your forehead can't be a good thing.</Source>
+      <Dest>你确定自己没问题吗？额头布满青筋可不是件好事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't offer much in terms of a reward.  Got this body and this sword, but I doubt you'd want either.</Source>
+      <Dest>我提供不了更多的奖励了。能给的就是这具尸体和这把剑，但我猜你这两个都不想要。</Dest>
+    </String>
+    <String List="2">
+      <Source>Point is, them peasants who owned the sacks and the cart had no use for them.  Wherever they were.</Source>
+      <Dest>重点是，农民们有麻袋和马车，但是这些对他们来说没有用。无论他们在哪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>If there's one thing I value, it ain't good beer or good cheer, although I could always do with more of both.  </Source>
+      <Dest>如果有一件事情我非常重视，它既不是美味的啤酒也不是尽情的庆祝，虽然我对两样都做没有任何意见。</Dest>
+    </String>
+    <String List="2">
+      <Source>What, is Gorr mad at me again? Fuck that guy.</Source>
+      <Dest>啥？戈尔那家伙又生我气了？该死的货。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>But maybe I'm wrong.  If by chance you ever need this rusty iron by your side, it's yours.</Source>
+      <Dest>但或许我想太多了。但如果有机会，你仍需要这个生锈的铁疙瘩在你身边，它就还是你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The old goat's got to leave the inn to somebody though. Maybe I ought to get one of them Mara amulets, see if the fish are biting.  </Source>
+      <Dest>【不过这个老色鬼得以把酒馆儿留给某人。】也许我应该拿到其中一人的玛拉护身符，看看鱼会不会上钩。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Again, I'm not a priestess, but I did stand behind a healer once when she cured some fool I almost clubbed to death.</Source>
+      <Dest>再说一遍，我不是女祭司，但我确实帮助过一个治疗者。有一次她救下了一个几乎被我乱棒拍死的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Again, I'm not a priestess, but I did stand behind a healer once when she cured some fool I almost clubbed to death.</Source>
+      <Dest>再说一遍，我不是女祭司，但我确实帮助过一个治疗者。有一次她救下了一个几乎被我乱棒拍死的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that what he is? I guessed as much, him keeping the inn and all. I did sort of hope he wasn't. It'd explain why he's so awful at it.</Source>
+      <Dest>他是这样的人？我以前认为他不过就是个旅馆老板。我本来还抱着一线希望觉得他不是这样的人。那就能解释他为什么对这事如此懊恼了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I forget what he looked like.  Maybe that was you.  Is your name Heimskr?</Source>
+      <Dest>我忘了他长什么样了。好像也可能是你？你是叫海姆斯科吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You got courage.  Heart.  Things to be admired.  I'm the one who admires them.</Source>
+      <Dest>你有胆量。也有真心。这些是值得受到钦佩的东西。我就是钦佩它们的人中的一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's "conjure a horker," Breton.  You just get dumber with every word.  And yes, we have the horker meat.  Get it from my partner.</Source>
+      <Dest>那是“召唤一个三牙海豚，”布莱顿人。你在每个字上都蠢的可以。是的，我们有三牙海豚肉。从我的伙伴那得到的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stuff of nightmares, is what that is.</Source>
+      <Dest>所谓梦魇，就是这样一种存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't believe I'm saying this but...that smells pretty good.  Almost like it wouldn't kill you to have a taste.  </Source>
+      <Dest>真不敢相信，我会要说这些，但是…这些魔法好棒。有种差点要杀死你的感觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>My friend over here may have asked you nicely, because neither of us thought you were stupid enough not to see we weren't really asking.  </Source>
+      <Dest>我这里的这个朋友或许已经很和气地请求过你了，因为我们都没想到你居然蠢到没看出来我们不是在“请”求。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to leave Gorr alone for now. He doesn't like being disturbed when he's alone with his stew.</Source>
+      <Dest>我想我现在得把勾尔给撇下了。当他烦闷的时候他可不愿意被别人所打扰。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm gonna head back up to Nightgate Inn.  Can't let Moris spread lies about me without some retribution. </Source>
+      <Dest>我将掉头回到夜门酒吧.不能让莫里斯散布关于我的谣言而不受到惩罚. </Dest>
+    </String>
+    <String List="2">
+      <Source>Rusty iron, if you wanna be particular. Rusty enough to give a bandit a real dirty nick, a nick that might fester and kill him.</Source>
+      <Dest>确切来说，锈铁。锈铁能在强盗身上留下很脏的创口，那创口可能会化脓，然后致死。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've picked up other swords on my travels.  I ain't stupid.  Won't use ol' Rusty if I don't have to.  Can't sell it, can't seem to throw it away. </Source>
+      <Dest>在旅行途中，我已经捡起其他的剑了。我不是个二货。没必要的话我才不会去用一把老旧到生锈了的剑呢。不能卖掉，似乎也不能把它扔掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Although it doesn't really cut so much as it clubs.  But if you smack 'em hard enough, they die all the same.</Source>
+      <Dest>虽然作为俱乐部它不是真的被削减那么多。但如果你不努力揍他们一顿，他们跟死了没什么两样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thanks.  Would've never gotten things smoothed over if it weren't for you. </Source>
+      <Dest>谢谢。要是没有你，这事情永远也解决不了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just tell me what to kill.  No need to explain why, or how.</Source>
+      <Dest>只要告诉我要杀谁就可以了。不需要解释为什么，怎么杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>There could be a legion of giant horker babies, waiting to be born.  And out for revenge on the leg-walkers that killed their father.</Source>
+      <Dest>这里可能会有一个关于巨大的三牙海象宝宝的传奇，那是一个关于向杀死他的父亲的两足生物复仇的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember Gorr and I once came across this dead horse and cart, lying on the road.</Source>
+      <Dest>我记得Gorr和我曾经碰到这个死马和马车，就倒在路上。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I go and check the sackS for valuables, and turn to Gorr to see what he's doing the same. And the big oaf was checking the horse for meat!</Source>
+      <Dest>于是我走过去查看麻袋里有没有值钱的东西，然后转向戈尔看看他是不是在做同样的事情。结果那个大呆子正在找马肉！</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a scary thought you know.  What if it...what if it planted its seed?</Source>
+      <Dest>你知道那可是个可怕的想法。要是……要是把他的种子种下去会怎么样呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rusty iron, but never tired.</Source>
+      <Dest>锈蚀了钢铁，但是永不疲倦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right behind you.</Source>
+      <Dest>就在你身后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever try and play Withershins?  I never get past "E."</Source>
+      <Dest>试着玩儿过“逆时针”吗，我从没能超出过字母 "E"。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you okay?  I read a book once that talked about diseases.  Inside was a picture that looked kind of like the face you're making.</Source>
+      <Dest>你还好么？我曾经读过一本病理的书。我看你现在的脸色和书上说的很像。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

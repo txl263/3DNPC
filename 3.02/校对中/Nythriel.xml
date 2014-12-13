@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I eat human flesh.</Source>
+      <Dest>我吃人肉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a compulsive hoarder.</Source>
+      <Dest>我是个强迫性囤积症患者。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a ridiculous tale.</Source>
+      <Dest>多么荒谬的故事啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Elisif react to the death of her husband?</Source>
+      <Dest>Hoid Elisif反应，她的丈夫去世了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Elisif react to the death of her husband?</Source>
+      <Dest>Hoid Elisif反应，她的丈夫去世了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Elisif react to the death of her husband?</Source>
+      <Dest>Hoid Elisif反应，她的丈夫去世了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Elisif react to the death of her husband?</Source>
+      <Dest>Hoid Elisif反应，她的丈夫去世了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Telling you would be like telling all of Tamriel.</Source>
+      <Dest>告诉你就是告诉整个Tamriel的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Telling you would be like telling all of Tamriel.</Source>
+      <Dest>告诉你就是告诉整个Tamriel的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Telling you would be like telling all of Tamriel.</Source>
+      <Dest>告诉你就是告诉整个Tamriel的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course. Nothing is as tragic as poorly dressed nobles.</Source>
+      <Dest>当然，最惨莫过于没好衣服穿的贵族。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course. Nothing is as tragic as poorly dressed nobles.</Source>
+      <Dest>当然，最惨莫过于没好衣服穿的贵族。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course. Nothing is as tragic as poorly dressed nobles.</Source>
+      <Dest>当然，最惨莫过于没好衣服穿的贵族。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anyone could sneak past this pathetic excuse for a guard.</Source>
+      <Dest>只要是个人就能潜行通过这个可怜的守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't really have a secret.</Source>
+      <Dest>我并不是有一个秘密。</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer to be alone.</Source>
+      <Dest>我还是一个人呆着吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you can give me an example. Not that I want to hear gossip or anything.</Source>
+      <Dest>也许你能给我个例子。八卦或其他什么的我不想听。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you can give me an example. Not that I want to hear gossip or anything.</Source>
+      <Dest>也许你能给我个例子。八卦或其他什么的我不想听。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you can give me an example. Not that I want to hear gossip or anything.</Source>
+      <Dest>也许你能给我个例子。八卦或其他什么的我不想听。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you can give me an example. Not that I want to hear gossip or anything.</Source>
+      <Dest>也许你能给我个例子。八卦或其他什么的我不想听。</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>You think Elisif cared more about clothes than Torygg?</Source>
+      <Dest>你觉得比起Torygg来Elisif更关心衣着？</Dest>
+    </String>
+    <String List="0">
+      <Source>You think Elisif cared more about clothes than Torygg?</Source>
+      <Dest>你觉得比起Torygg来Elisif更关心衣着？</Dest>
+    </String>
+    <String List="0">
+      <Source>You think Elisif cared more about clothes than Torygg?</Source>
+      <Dest>你觉得比起Torygg来Elisif更关心衣着？</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine Gisli would enjoy the sight of her brother bound and gagged.</Source>
+      <Dest>我能想象 Gisli会享受她兄弟被赛口捆绑的光景。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine Gisli would enjoy the sight of her brother bound and gagged.</Source>
+      <Dest>我能想象 Gisli会享受她兄弟被赛口捆绑的光景。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine Gisli would enjoy the sight of her brother bound and gagged.</Source>
+      <Dest>我能想象 Gisli会享受她兄弟被赛口捆绑的光景。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine Gisli would enjoy the sight of her brother bound and gagged.</Source>
+      <Dest>我能想象 Gisli会享受她兄弟被赛口捆绑的光景。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no clue why people think you gossip.  Everything you say is a fact.</Source>
+      <Dest>搞不懂人们为啥说你多嘴多舌。你说的每件事儿都是事实啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no clue why people think you gossip.  Everything you say is a fact.</Source>
+      <Dest>搞不懂人们为啥说你多嘴多舌。你说的每件事儿都是事实啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no clue why people think you gossip.  Everything you say is a fact.</Source>
+      <Dest>搞不懂人们为啥说你多嘴多舌。你说的每件事儿都是事实啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no clue why people think you gossip.  Everything you say is a fact.</Source>
+      <Dest>搞不懂人们为啥说你多嘴多舌。你说的每件事儿都是事实啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no clue why people think you gossip.  Everything you say is a fact.</Source>
+      <Dest>搞不懂人们为啥说你多嘴多舌。你说的每件事儿都是事实啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course it's laughable. The truth is probably something far more ridiculous.</Source>
+      <Dest>当然，这很好笑。但是真相或许更荒谬。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course it's laughable. The truth is probably something far more ridiculous.</Source>
+      <Dest>当然，这很好笑。但是真相或许更荒谬。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course it's laughable. The truth is probably something far more ridiculous.</Source>
+      <Dest>当然，这很好笑。但是真相或许更荒谬。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. I've been dying to tell someone my darkest secret.</Source>
+      <Dest>很好。我很想告诉别人我隐藏起来的秘密。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How did Ulfric really escape?</Source>
+      <Dest>為什麼？難到Ulfric真的會逃跑嗎？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How did Ulfric really escape?</Source>
+      <Dest>為什麼？難到Ulfric真的會逃跑嗎？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How did Ulfric really escape?</Source>
+      <Dest>為什麼？難到Ulfric真的會逃跑嗎？</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your reputation, why would people tell you anything?</Source>
+      <Dest>以你的名声而言，为什么人们会跟你说事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your reputation, why would people tell you anything?</Source>
+      <Dest>以你的名声而言，为什么人们会跟你说事？</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have been quite busy during the High King's death.</Source>
+      <Dest>在至高王死了之后的那段日子里你一定很忙吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have been quite busy during the High King's death.</Source>
+      <Dest>在至高王死了之后的那段日子里你一定很忙吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have been quite busy during the High King's death.</Source>
+      <Dest>在至高王死了之后的那段日子里你一定很忙吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have been quite busy during the High King's death.</Source>
+      <Dest>在至高王死了之后的那段日子里你一定很忙吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have been quite busy during the High King's death.</Source>
+      <Dest>在至高王死了之后的那段日子里你一定很忙吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've convinced me. You are doing this city a service.  Carry on.</Source>
+      <Dest>你说动我了。你所做的一切都是在为这个城市服务。继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've convinced me. You are doing this city a service.  Carry on.</Source>
+      <Dest>你说动我了。你所做的一切都是在为这个城市服务。继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've convinced me. You are doing this city a service.  Carry on.</Source>
+      <Dest>你说动我了。你所做的一切都是在为这个城市服务。继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've convinced me. You are doing this city a service.  Carry on.</Source>
+      <Dest>你说动我了。你所做的一切都是在为这个城市服务。继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been with you for a few minutes and I already need a bath.</Source>
+      <Dest>只在你旁边呆了几分钟我就想去洗澡了。.</Dest>
+    </String>
+    <String List="2">
+      <Source>I have it on good authority that Erikur's wizard, Melaran, has some rather disturbing habits. </Source>
+      <Dest>据可靠的消息来源，那个名叫梅拉然的艾瑞库尔魔法师，有一些令人不安的爱好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Poor Borgeir Bearclaw had to spend all night scraping what was left of the High King while Elisif wept in her chambers.</Source>
+      <Dest>当艾利西弗躲在房间里嚎啕大哭时，可怜的Borgeir Bearclaw花了一整晚去清理至高王的遗物。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Gourmet is less of a tease than you.</Source>
+      <Dest>美食的挑逗对我来说不及于你。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know third era fashion is all the rage these days but I think you have to go back a couple millennia to find a time when animal heads were stylish.</Source>
+      <Dest>我知道第三纪风格在那段时间曾风靡一时，不过我想你只有穿越回两千年前才能找到那段以动物脑袋为时尚的时期了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  Then I will speak with someone who appreciates what I have to say, instead of belittling it.</Source>
+      <Dest>好的.  那么我将去跟懂得欣赏我所说的人谈谈，至于贬低我的人就算了.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, then you're in luck!  I heard there's a Dunmer in Whiterun who will take all your junk off your hands, for a nominal fee.</Source>
+      <Dest>哦，那你还真走运！我听说只要象征性地破费点钱，一个在白漫城的暗精灵就能回收你身上所有的废品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tell me, what sort of person does the stranger fancy?</Source>
+      <Dest>告诉我，什么类型的人才能招陌生人喜欢呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not the scales of an Argonian, but that of a dragon.</Source>
+      <Dest>这看起来不像是亚龙人的鳞片。它更像是……龙鳞。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not the scales of an Argonian, but that of a dragon.</Source>
+      <Dest>这看起来不像是亚龙人的鳞片。它更像是……龙鳞。</Dest>
+    </String>
+    <String List="2">
+      <Source>Second, I'm delightful to speak with.  Not only do I have interesting rumors to share, but I can relate them in ways that spark your imagination.</Source>
+      <Dest>第二，我很乐意跟人聊天。不光是有些趣闻可以分享，还有我的添油加醋来激发你的想象。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, if I were to tell you that Elisif trusts Falk Firebeard with everything, you would likely nod your head and praise the steward.</Source>
+      <Dest>举例来说，如果我告诉你艾利西弗在任何事情上都无比信任佛可火胡， 你将会点头并赞赏这位管家。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, if I were to tell you that Elisif trusts Falk Firebeard with everything, you would likely nod your head and praise the steward.</Source>
+      <Dest>举例来说，如果我告诉你艾利西弗在任何事情上都无比信任佛可火胡， 你将会点头并赞赏这位管家。</Dest>
+    </String>
+    <String List="2">
+      <Source>General Tullius, meanwhile, was screaming at Aldis for letting Ulfric escape.  Naturally, Aldis made Roggvir a scapegoat for his own ineptitude.</Source>
+      <Dest>在此期间，图留斯将军对阿尔迪让乌佛瑞克逃脱的行为破口大骂。当然，阿尔迪因自己的无能又让罗吉维尔当了他的替罪羊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nor do I need more than one glance at you to see you're an adventurer with a hunger for battle and the flesh.</Source>
+      <Dest>我不需要对你多看一眼就知道你是一个对战斗充满渴望的冒险家。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Elisif mourned anything, it was the death of good taste under Stormcloak rule.</Source>
+      <Dest>如果艾利西弗有什么值得悲哀的话，那就是在风暴斗篷的统治下能得个好死。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I wasn't implying they perform these acts together...although now that I think about it...how salacious!</Source>
+      <Dest>不，我不是在暗示他们勾搭在一起做这些动作……虽然现在想想……还挺淫荡的！</Dest>
+    </String>
+    <String List="2">
+      <Source>But I suspect her husband was important too.  Well, I can't say all this melancholy has been good for her complexion, but she's still quite fetching.</Source>
+      <Dest>但我想她的丈夫也很重要。呃，我不能说所有的悲伤对她的气色都毫无影响，但她看起来还是很迷人。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I suspect her husband was important too.  Well, I can't say all this melancholy has been good for her complexion, but she's still quite fetching.</Source>
+      <Dest>但我想她的丈夫也很重要。呃，我不能说所有的悲伤对她的气色都毫无影响，但她看起来还是很迷人。</Dest>
+    </String>
+    <String List="2">
+      <Source>What manner of skeleton do you keep in your closet?  I promise it will be our little secret.</Source>
+      <Dest>你柜子里的骨骼是摆成什么样的？我保证我不会说出去的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps a Ratway blossom like Evette San could crawl through the sewers and swim to Hjaalmarch, but I don't see Ulfric as the dirty type.</Source>
+      <Dest>也许像是爱芙缇·珊那样的鼠道之花可以爬出下水道，游去希雅陲领，但我不认为乌佛瑞克也是那么肮脏的类型。</Dest>
+    </String>
+    <String List="2">
+      <Source>I take offense to that!  My influence goes beyond Tamriel, to all of Nirn. Why, even the Divines wait with bated breath for my next missive.  </Source>
+      <Dest>我就是气不过这个！我的影响力甚至超过了泰姆瑞尔大陆，被整个奈恩所知。你问为什么，甚至连圣灵都会屏息等待我的下一封信啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine you would have little difficulty formulating a reply.</Source>
+      <Dest>我想对你来说做出回答可能有一点儿难。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine you would have little difficulty formulating a reply.</Source>
+      <Dest>我想对你来说做出回答可能有一点儿难。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is laughable.  Roggvir couldn't even find his own bottom, let alone an escape route past the Castle Guard.</Source>
+      <Dest>这真可笑。罗吉维尔甚至都找不到他自己的屁股了，更别说从城堡守卫眼皮子底下逃走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If a Jarl's child spends more time with her toys and not her books, it doesn't take a soothsayer to predict she will make a poor heir.</Source>
+      <Dest>如果领主的孩子花更多的时间玩玩具而不是读她的书，那么占卜师预言里的她就不会是个可怜的领主。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it was rather tragic what Ulfric did to Torygg, but not nearly as tragic as the prehistoric cave garments with which he dresses his generals.</Source>
+      <Dest>然而，乌佛瑞克对至高王托依格的所作所为确实是悲剧，但远远不如用原始人衣服装扮他的将军要悲剧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe I am just an amiable young noble willing to lend an ear.  But by the Eight, if you don't want to share, don't even broach the subject.</Source>
+      <Dest>又或许我就是这么个和蔼可亲愿意洗耳恭听的年轻贵族。不过，八神在上，如果不愿意分享，那就提都别提那事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>You stranger, have a good eye.  I wonder, is that from experience?   When it comes to deviants, they do say it takes one to know one.</Source>
+      <Dest>你这陌生人，眼神儿倒是不错。我想知道，是因为你有足够经验吗？当涉及到离经叛道之事的时候，他们都说彼此彼此。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, do tell. You can always confide in me.</Source>
+      <Dest>哦，直说吧。你可以永远信任我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now there's a lie if I ever heard one.  You sound like Erikur when I asked him why he was mumbling about some woman named Bjartur.</Source>
+      <Dest>如果我曾听过一个谎言的话那它现在就在眼前。你的狡辩就和我当初问艾瑞库尔为什么嘴里一直嘀咕一个叫碧雅图的女人名字一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not at liberty to say from whom I received this information, but you can take a guess.</Source>
+      <Dest>我不能随便说出我从什么人那里收到的消息，但是你可以猜一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not half as ridiculous as Sayma's taste in attire, but that is evidently all too real.</Source>
+      <Dest>还没Sayma在穿着上的品位一半可笑呢, 可显然所有都太真实了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh you jest, but what I do isn't overstating the facts, it's investigating them. </Source>
+      <Dest>哦，你在开玩笑，但我所做的并不是夸大事实，而是在调查他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last thing a lady wants is to have that name said in jest.</Source>
+      <Dest>女士最想要的是可以开玩笑似的说出那个称号。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last thing a lady wants is to have that name said in jest.</Source>
+      <Dest>女士最想要的是可以开玩笑似的说出那个称号。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know why I didn't see it before!  Yes, the townsfolk will definitely need to hear about this.</Source>
+      <Dest>我不知道当时我为什么没觉察出来！是啊，镇民们是很需要听到这个的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The uniforms of his lower rank soldiers are bad enough, given their redundancy, but I mean really, a bear's head?  </Source>
+      <Dest>考虑到他们基本都是多余的，所以他们这种低等级士兵的着装都是糟透了的，但说真的，熊头？  </Dest>
+    </String>
+    <String List="2">
+      <Source>Alone this would mean little, but consider this:  When Ulfric shouted Torygg to death, some claim his skin burst open to reveal a pattern of scales.</Source>
+      <Dest>也许这不意味着什么，但是想想这个吧：当乌佛瑞克把托依格吼死的时候，有些人声称他的皮肤爆裂开来，隐隐露出鳞片的图案。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alone this would mean little, but consider this:  When Ulfric shouted Torygg to death, some claim his skin burst open to reveal a pattern of scales.</Source>
+      <Dest>也许这不意味着什么，但是想想这个吧：当乌佛瑞克把托依格吼死的时候，有些人声称他的皮肤爆裂开来，隐隐露出鳞片的图案。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of which is standing over his master's bed while he sleeps.  </Source>
+      <Dest>就是那个在他的主人睡觉的时候站在床边看着的人。 </Dest>
+    </String>
+    <String List="2">
+      <Source>And I do mean that literally.  From what I understand there were chunks of the High King all over the walls of the throne.</Source>
+      <Dest>就是字面上的意思。在我看来，这儿有一个坐下比城墙还宽的家伙登上了至高王的王位。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we'd begin to dwell on the awkward silence that followed, and proceed to start hating each other and ourselves for not being more interesting.</Source>
+      <Dest>然后，在冷场中我们继续思考着，继续讨厌其他人，讨厌自己为什么不能再有趣一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we'd begin to dwell on the awkward silence that followed, and proceed to start hating each other and ourselves for not being more interesting.</Source>
+      <Dest>然后，在冷场中我们继续思考着，继续讨厌其他人，讨厌自己为什么不能再有趣一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just the other day I was telling Sybille about how what that Fironet girl put her poor fiance through is despicable.</Source>
+      <Dest>一天我正在给希比利讲那个法萝娜姑娘使她未婚夫经历的一切是多么的卑鄙。</Dest>
+    </String>
+    <String List="2">
+      <Source>If every night strangers walk in and out of a large house with no windows, I don't need to enter the premises to tell you it's a brothel.</Source>
+      <Dest>如果每天晚上都有人进出一座没有窗户的大房子，就算不进去我也敢打保票说那是所妓院。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder, is that your choice, or a choice that was made for you?</Source>
+      <Dest>我很奇怪，这是你自己的选择么，还是说别人替你选的？</Dest>
+    </String>
+    <String List="2">
+      <Source>For one, I'm an excellent listener.  People are willing to divulge things to me without even taking into account whether I can provide sage advice.</Source>
+      <Dest>举个例子，我是个很不错的聆听者。考虑到我能给他们提供一些明智的建议他们会很乐意告诉我一切。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other males myself.</Source>
+      <Dest>其实，我更喜欢自己选择其他男人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other males myself.</Source>
+      <Dest>其实，我更喜欢自己选择其他男人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other males myself.</Source>
+      <Dest>其实，我更喜欢自己选择其他男人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric is a real dragon?</Source>
+      <Dest>乌弗瑞克真的是龙？</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric is a real dragon?</Source>
+      <Dest>乌弗瑞克真的是龙？</Dest>
+    </String>
+    <String List="0">
+      <Source>Not every man can be a hulking warrior. Some prefer to be submissive.</Source>
+      <Dest>并不是所有人都能够成为一个重甲战士，有些人更适合当轻步兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not every man can be a hulking warrior. Some prefer to be submissive.</Source>
+      <Dest>并不是所有人都能够成为一个重甲战士，有些人更适合当轻步兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not every man can be a hulking warrior. Some prefer to be submissive.</Source>
+      <Dest>并不是所有人都能够成为一个重甲战士，有些人更适合当轻步兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will I know him?</Source>
+      <Dest>我怎么会认识他？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm almost afraid to ask.  Any interesting rumors?</Source>
+      <Dest>我都不好意思问了——有什么趣闻么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other females myself.</Source>
+      <Dest>其实，我自己更喜欢其他的妹子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other females myself.</Source>
+      <Dest>其实，我自己更喜欢其他的妹子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I prefer other females myself.</Source>
+      <Dest>其实，我自己更喜欢其他的妹子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gossip is gossip. Your euphemisms do little to change that.</Source>
+      <Dest>谣言就是谣言。 你的解释于事无补。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gossip is gossip. Your euphemisms do little to change that.</Source>
+      <Dest>谣言就是谣言。 你的解释于事无补。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gossip is gossip. Your euphemisms do little to change that.</Source>
+      <Dest>谣言就是谣言。 你的解释于事无补。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gossip is gossip. Your euphemisms do little to change that.</Source>
+      <Dest>谣言就是谣言。 你的解释于事无补。</Dest>
+    </String>
+    <String List="0">
+      <Source>But you embellish the truth and spread lies.  That seems rather exclusive.</Source>
+      <Dest>但是你隐藏真相散布谣言。那完全是垄断。</Dest>
+    </String>
+    <String List="0">
+      <Source>But you embellish the truth and spread lies.  That seems rather exclusive.</Source>
+      <Dest>但是你隐藏真相散布谣言。那完全是垄断。</Dest>
+    </String>
+    <String List="0">
+      <Source>But you embellish the truth and spread lies.  That seems rather exclusive.</Source>
+      <Dest>但是你隐藏真相散布谣言。那完全是垄断。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>All lovers have their quirks.  Mine happen to involve goats and Daedra.</Source>
+      <Dest>所有情人都有他们自己的情话。我的只是正好与绵羊和魔族有关。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want someone to come home to.</Source>
+      <Dest>我希望家里有人来。</Dest>
+    </String>
+    <String List="0">
+      <Source>These men you speak of are not men, but sheep in men's clothing.</Source>
+      <Dest>你说的那些算什么男人！简直是穿着衣服的小绵羊。</Dest>
+    </String>
+    <String List="0">
+      <Source>These men you speak of are not men, but sheep in men's clothing.</Source>
+      <Dest>你说的那些算什么男人！简直是穿着衣服的小绵羊。</Dest>
+    </String>
+    <String List="0">
+      <Source>These men you speak of are not men, but sheep in men's clothing.</Source>
+      <Dest>你说的那些算什么男人！简直是穿着衣服的小绵羊。</Dest>
+    </String>
+    <String List="0">
+      <Source>These men you speak of are not men, but sheep in men's clothing.</Source>
+      <Dest>你说的那些算什么男人！简直是穿着衣服的小绵羊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need a description of the man, you blabbering gossip.  Not his life story.</Source>
+      <Dest>我要知道的是那个人的特征，你这个啰哩巴嗦的二货，不是他的背景故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need a description of the man, you blabbering gossip.  Not his life story.</Source>
+      <Dest>我要知道的是那个人的特征，你这个啰哩巴嗦的二货，不是他的背景故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need a description of the man, you blabbering gossip.  Not his life story.</Source>
+      <Dest>我要知道的是那个人的特征，你这个啰哩巴嗦的二货，不是他的背景故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see your twin sister anywhere.</Source>
+      <Dest>我哪儿也找不到你的双胞胎姐妹。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see your twin sister anywhere.</Source>
+      <Dest>我哪儿也找不到你的双胞胎姐妹。</Dest>
+    </String>
+    <String List="0">
+      <Source>I enjoy someone with a sense of humor.</Source>
+      <Dest>我就喜欢跟有幽默感的人相处。</Dest>
+    </String>
+    <String List="2">
+      <Source>My apologies!  I didn't mean to presume.  Oh you'll find there are many in Solitude who share your particular inclinations.</Source>
+      <Dest>我道歉!  我的意思不是假设.  噢 你会在独孤城发现很多人在分享你独特的观点.</Dest>
+    </String>
+    <String List="2">
+      <Source>My apologies!  I didn't mean to presume.  Oh you'll find there are many in Solitude who share your particular inclinations.</Source>
+      <Dest>我道歉!  我的意思不是假设.  噢 你会在独孤城发现很多人在分享你独特的观点.</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a threshold, after all, when a childhood infatuation stops being cute and starts being creepy. Sorex doesn't seem to be aware of this.</Source>
+      <Dest>那是一道槛, 毕竟,斗转星移，童真不再了. Sorex看上去还没意识到这点.</Dest>
+    </String>
+    <String List="2">
+      <Source>Only because there's a misconception that gossip is harmful.  Although granted, what I do isn't exactly for anyone's benefit but my own.</Source>
+      <Dest>只因为有种错误的观念说流言是有害的。虽然我承认我所做的并不是为了别人而只有利于自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nor should Sorex continue to fawn over a woman that denied him decades ago.</Source>
+      <Dest>那索莱克斯也不该继续去奉承那个几十年前就拒绝过他的女人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't know.  Brave males are often dead males, or so confident they don't heed anyone's advice but their own.</Source>
+      <Dest>呃，这我不清楚。勇敢的男人往往就是死去的男人，他们如此傲慢，除了他们自己，不接受任何人的建议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't know.  Brave males are often dead males, or so confident they don't heed anyone's advice but their own.</Source>
+      <Dest>呃，这我不清楚。勇敢的男人往往就是死去的男人，他们如此傲慢，除了他们自己，不接受任何人的建议。</Dest>
+    </String>
+    <String List="2">
+      <Source>But Silana is such a trusting young woman.  She doesn't see that her pity only serves to reinforce his behavior.</Source>
+      <Dest>可赛琳娜是很单纯的女人。她看不出自己的怜悯只会助长他的恶行。</Dest>
+    </String>
+    <String List="2">
+      <Source>As long as you bother to come home.  Otherwise you may find your new home costs 10 gold per night, although the noise is free.</Source>
+      <Dest>只要你还能顾得上回家。要不然以后你会发现你的新家住一晚要10块钱，还有免费的噪音提供。</Dest>
+    </String>
+    <String List="2">
+      <Source>My name, on the other hand, is Nythriel, and I am both an attendant of the court and someone worthy of your confidence.</Source>
+      <Dest>换言之，我的名字是奈瑞尔。我是个值得你信赖的宫廷侍女。</Dest>
+    </String>
+    <String List="2">
+      <Source>According to Illdi, her and the Skeever bard have a bit of a rivalry going on.  Although a rivalry typically requires two willing combatants.</Source>
+      <Dest>对于伊尔迪来说，她跟眨眼雪鼠那边的吟游诗人有点小竞争。尽管一般来说只有两个及以上的有竞争意识的家伙参与才能叫做竞争。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yesterday, it was Dibella's figure on a towel stain.  The day before that, he saw Stendarr's visage on a piece of moldy bread.</Source>
+      <Dest>昨天，（他说）他在毛巾的污渍上看到了迪贝拉的形象，而前天，他声称他在一块发霉的面包上看到了斯丹纳尔的脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I told you Roggvir sabotaged Sorex's chances with Vivienne, you might be interested.</Source>
+      <Dest>如果我告诉你罗吉维尔破坏了索莱克斯对维维尼恩的企图，你或许会有兴趣的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Endarie has put on quite a bit of weight in the past month.  It's no wonder she's so bitter, especially when Taarie looks so fabulous.</Source>
+      <Dest>Endarie 在过去几个月增重了不少。她这么沮丧并不奇怪，特别是在 Taarie起色不错的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Belrand, Octieve San, and even Sorex, to name a few.  I'd be willing to bet Fihada and his apprentice are too, but you didn't hear that from me.</Source>
+      <Dest>举几个例子：博兰德 ，Octieve San，甚至是索莱克斯。我打赌费哈达和他的学徒也是，但你没听过我这么说对吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Does the adventurer fancy a demure, submissive female?</Source>
+      <Dest>冒险者喜欢那种娴静的、柔顺的姑娘吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But what if I told you Roggvir had a taste for men?  Why, the story would have an entirely new twist, would it not?  Such a scandal!</Source>
+      <Dest>但如果我告诉你Roggvir对男人感兴趣呢？你问为什么，这个故事都已经这样神展开了，不是吗？这可是一桩丑闻啊!</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet can you imagine how droll conversation would be without speculation?  It would lose all its luster, its mystery, and imagination.</Source>
+      <Dest>你能想象没有经过大脑的愚蠢交流是什么样么？这会失去所有光泽，它的神秘，还有想象力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some people say Evette San too, but I'm not inclined to agree.  I have a sense for these things that others don't.</Source>
+      <Dest>有人也认为是爱芙缇·珊，但我并不倾向于这个观点。我对这些东西有一种别人所没有的直觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's rather simple.  He always sits at the bar, on the furthest stool to the right.  They say it offers him the best view.</Source>
+      <Dest>噢，非常简单。他总是坐在吧台旁边，右边最远那张凳子上。他们说那儿的视野最好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh I don't know, but I suppose we all have our own preferences.  I'm more curious about yours.  Does the lady fancy a strong, coarse male?</Source>
+      <Dest>哦我不知道，但我想我们每个人都有自己的喜好。我对你更为好奇。这位女士难道喜欢一个强壮却粗野的男人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You ever notice that Katla and Greta wear the exact same clothes and the exact same hat, and the exact same face?</Source>
+      <Dest>你注意到了吗，凯特拉和格瑞塔穿戴着完全相同的衣服和帽子，甚至他们的长相也一模一样？</Dest>
+    </String>
+    <String List="2">
+      <Source>And you never see them in the same room together...All I'm saying is, their husbands need to have a talk.</Source>
+      <Dest>而且你从没同时看到过她们俩…所以我想说的是，她们的丈夫需要知道这件事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you've come to file another complaint, I won't deign to hear it.  If my presence is that much of an issue, tell it to the Steward.</Source>
+      <Dest>如果你也是来投诉的话，我不会给面子听的。如果我的存在是一个大麻烦，那就和管家说去。</Dest>
+    </String>
+    <String List="2">
+      <Source>And for the last time, I am not a Thalmor agent here to destabilize the court. You're thinking of my terribly unfashionable twin sister, Mythriel.</Source>
+      <Dest>而且最后一次，我不是来这里给宫廷捣乱的梭莫间谍。你想想我那个超过时的双胞胎姐妹Mythriel。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a sense for these things.</Source>
+      <Dest>我对这种事特别敏感。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Ever notice how pale the court mage is?  I know Sybille never leaves the palace during the day, but that in itself is quite strange.</Source>
+      <Dest>从来没意识到宫廷法师这么苍白？我知道希比利从来没有在白天离开过王宫，这件事的确够奇怪的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I suppose we all have our own preferences.  I'm more curious about yours.  Does the adventurer fancy a demure, submissive female?</Source>
+      <Dest>窃以为人各有所好，当然，我更好奇的是你的爱好。有哪个冒险家们没幻想过有一个弱柳扶风，百依百顺的女人来自荐枕席？</Dest>
+    </String>
+    <String List="2">
+      <Source>And I would be quick to comfort Inge as we excoriated said person for being such a brute.</Source>
+      <Dest>我曾怒骂英格是个禽兽，那么我必须赶快去和他说说好话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you daft?  I don't have a sister, it was a joke.  The cleverness of which was apparently lost on you.</Source>
+      <Dest>要不要这么笨啊？我没有妹妹，这是个玩笑。你脑子里显然缺了根筋。</Dest>
+    </String>
+    <String List="2">
+      <Source>My, my, it seems the rumors about your temper are true.  Don't worry, I'll do my best to keep it a secret.</Source>
+      <Dest>我，我，看来有关你脾气火爆的传言是真的。别担心，我会尽力保守这个秘密的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems the people of Skyrim appreciate puns about as little as they appreciate a good man.</Source>
+      <Dest>似乎就跟天际人见不得好人一样，他们也不怎么待见俏皮话。</Dest>
+    </String>
+    <String List="2">
+      <Source>He reminds me of the sort of man whose wife disappears mysteriously and all his neighbors are just shocked, just shocked that he would be a suspect.</Source>
+      <Dest>他使我想起了那种妻子神秘地消失的鳏夫，而他所有的邻居都只是震惊 , 惊讶他是个嫌疑犯.</Dest>
+    </String>
+    <String List="2">
+      <Source>And it gets stranger.  She never eats, and some of the servants have reported odd noises emanating from her quarters in the dead of night.</Source>
+      <Dest>而且越来越诡异了。她从不吃东西，有些佣人还说，在一片死寂的夜晚能听到奇怪的声音从她住的地方传出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you're better off meeting one of the food vendors in Eastmarch.  The selection of cuisine there is completely laughable.</Source>
+      <Dest>那么你最好去东陲领的食物商人那里去见识见识。那边的烹饪风格相当的可笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rorlund refuses to dignify Octieve's claims with a response, as he believes they're part of a scheme to pay off his gambling debts. </Source>
+      <Dest>洛伦德拒绝响应Octieve的索赔，因为他认为这是他们让他还清债务的阴谋中的一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now Jorn is a different story altogether.  </Source>
+      <Dest>现在，Jorn说的是一个完全不同的故事.  </Dest>
+    </String>
+    <String List="2">
+      <Source>They say it offers him a good view of the child.  You take it, and he'll come to you.</Source>
+      <Dest>他们说他对孩子有独到的见解。你懂了对吧，他会来找你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I suppose we all have our own preferences.  I'm more curious about yours.  Does the lady fancy a strong, coarse male?</Source>
+      <Dest>但我想我们每个人都有自己的喜好。我对你更为好奇。这位女士难道喜欢一个强壮却粗野的男人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ahtar is menacing one, isn't he?  I suppose it's part of the job description.  Men like that are typically kittens behind closed doors.</Source>
+      <Dest>阿塔是最具威胁的那个不是吗？我猜这本来就是任务描述的一部分。像那样的家伙躲在门后的时候多半都只是纸老虎罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Octieve San saw the face of one of the Eight at the Skeever again.  Today it was the face of Julianos in his soup. </Source>
+      <Dest>奥克提夫·珊（声称）自己在眨眼雪鼠里看见了八圣灵中某位的脸。今天在他汤里显现的则是尤里安诺思的脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the way Vivienne Onis treats poor Sorex, constantly flirting with other men at The Skeever...tsk, tsk.</Source>
+      <Dest>而维维恩尼·奥尼斯惩治可怜的索莱克斯的方式，是不断的在眨眼雪鼠跟别的男人调情……啧啧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Offhand I know Jordis and Taarie might be interested, but there's a few others I suspect.  Gisli, for instance.  She seems like the type.</Source>
+      <Dest>我突然知道了Jordis和Taarie说不定感兴趣，但是我怀疑还有其他几个人。 比如吉斯莉，她好像喜欢这个类型。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aia never used to cover her hair.  Thank Dibella she does now.  Her locks and her makeup were telling two different stories and both of them awful.</Source>
+      <Dest>Aia从来没有打理头发的习惯，迪贝拉在上现在她总算学会了。她的头发和妆容完全是两个风格，而且哪个单看都糟糕得很。</Dest>
+    </String>
+    <String List="2">
+      <Source>As much as a Khajiit is a cat, a Dunmer is a Daedra, and a Wood Elf is a tree.   So yes, that's exactly what he is.</Source>
+      <Dest>跟虎人是猫同理，黑暗精灵是魔族，木精灵是树。是的，他就是这么个存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I told you a passing rumor that Inge Six Fingers had twelve toes, who would dare be tactless enough to broach the subject with Inge directly?</Source>
+      <Dest>如果我告诉你有个盛极一时的谣言说六指英格其实有12个拇指，谁会二愣子到直接跟英格直接开侃这个话题啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>One of these days Octieve is going to ask Silana to inspect the stain of Akatosh on his undergarments, and maybe then she'll draw a line.</Source>
+      <Dest>有一天，Octieve要Silana 检查阿卡托什内衣上的污点，也许她会为这件事划清界限。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you're no fun at all!  For a second I thought you were being serious.  Very well then, leave me in suspense.</Source>
+      <Dest>哦，你可真没劲！有那么一瞬间我还以为你是认真的呢。好吧，现在快滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyone whines and moans about how loosely I flap my tongue, as if Thane Erikur's eccentric love life were not a matter of public knowledge.</Source>
+      <Dest>每个人都说我话语轻佻, 好像艾瑞库尔男爵古怪的爱情生活他们不知道似的.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh I don't know, but I suppose we all have our own preferences.  I'm more curious about yours.</Source>
+      <Dest>哦我不知道，但我想我们每个人都有自己的喜好。我对你更为好奇。这位女士难道喜欢一个强壮却粗野的男人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Given her penchant for hunting vampires, some of the servants think we may be dealing with a werewolf.  Not that I believe anything of the sort.</Source>
+      <Dest>她有个猎杀吸血鬼的爱好, 有的仆人认为我们在跟狼人打交道。不过我一点也不相信那些。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will I know him?</Source>
+      <Dest>我怎么会认识他？</Dest>
+    </String>
+    <String List="0">
+      <Source>How would you describe what you do?</Source>
+      <Dest>你会如何形容你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How would you describe what you do?</Source>
+      <Dest>你会如何形容你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How would you describe what you do?</Source>
+      <Dest>你会如何形容你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on.  If this is about Witchmist Grove, I was drunk and...</Source>
+      <Dest>等一下。如果这是女巫迷雾树林，我喝醉了且......</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on.  If this is about Witchmist Grove, I was drunk and...</Source>
+      <Dest>等一下。如果这是女巫迷雾树林，我喝醉了且......</Dest>
+    </String>
+    <String List="0">
+      <Source>Look, I don't remember anything.  Sometimes I get drunk and...</Source>
+      <Dest>你看，我已经啥都记不起来了，有些时候我喝醉了就...</Dest>
+    </String>
+    <String List="0">
+      <Source>Look, I don't remember anything.  Sometimes I get drunk and...</Source>
+      <Dest>你看，我已经啥都记不起来了，有些时候我喝醉了就...</Dest>
+    </String>
+    <String List="0">
+      <Source>I get nervous around other races.</Source>
+      <Dest>我在其他种族附近会觉得紧张。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd tell you, but it would be like telling all of Nirn.</Source>
+      <Dest>我已经告诉你了 就像告诉了奈恩上的所有人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd tell you, but it would be like telling all of Nirn.</Source>
+      <Dest>我已经告诉你了 就像告诉了奈恩上的所有人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm wondering if you know anyone who could critique a book.</Source>
+      <Dest>我想问问你认不认识能评论书的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm wondering if you know anyone who could critique a book.</Source>
+      <Dest>我想问问你认不认识能评论书的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm wondering if you know anyone who could critique a book.</Source>
+      <Dest>我想问问你认不认识能评论书的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm wondering if you know anyone who could critique a book.</Source>
+      <Dest>我想问问你认不认识能评论书的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of garments?</Source>
+      <Dest>什么样的衣服？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of garments?</Source>
+      <Dest>什么样的衣服？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of garments?</Source>
+      <Dest>什么样的衣服？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of garments?</Source>
+      <Dest>什么样的衣服？</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've killed about 100 hagravens and never stopped to get their names.</Source>
+      <Dest>好吧，我已经杀了100个乌鸦鬼婆了并且还没打算停手。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've killed about 100 hagravens and never stopped to get their names.</Source>
+      <Dest>好吧，我已经杀了100个乌鸦鬼婆了并且还没打算停手。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've killed about 100 hagravens and never stopped to get their names.</Source>
+      <Dest>好吧，我已经杀了100个乌鸦鬼婆了并且还没打算停手。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric didn't literally shout Torygg to pieces.</Source>
+      <Dest>乌佛瑞克并没有像他吹嘘的那样把特瑞格吼成碎片。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric didn't literally shout Torygg to pieces.</Source>
+      <Dest>乌佛瑞克并没有像他吹嘘的那样把特瑞格吼成碎片。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lies.  All lies.  I have been nothing but friendly to hagravens.</Source>
+      <Dest>谎言，都是谎言。我只是对乌鸦鬼婆友好了一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lies.  All lies.  I have been nothing but friendly to hagravens.</Source>
+      <Dest>谎言，都是谎言。我只是对乌鸦鬼婆友好了一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lies.  All lies.  I have been nothing but friendly to hagravens.</Source>
+      <Dest>谎言，都是谎言。我只是对乌鸦鬼婆友好了一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a shame.</Source>
+      <Dest>太丢脸了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a shame.</Source>
+      <Dest>太丢脸了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a shame.</Source>
+      <Dest>太丢脸了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a shame.</Source>
+      <Dest>太丢脸了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Whatever this rumor is, I assure you, it's completely true.</Source>
+      <Dest>不管這傳言是什麼，我向你保證那是完全真實的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Whatever this rumor is, I assure you, it's completely true.</Source>
+      <Dest>不管這傳言是什麼，我向你保證那是完全真實的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Whatever this rumor is, I assure you, it's completely true.</Source>
+      <Dest>不管這傳言是什麼，我向你保證那是完全真實的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lovely.  Can you tell me about the book critic?</Source>
+      <Dest>真好。你能给我讲讲那个书评人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, both of those scenarios bore me to tears.</Source>
+      <Dest>坦白讲，这两个场景都让我落泪。</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, both of those scenarios bore me to tears.</Source>
+      <Dest>坦白讲，这两个场景都让我落泪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly are your responsibilities?</Source>
+      <Dest>说到底你的职责究竟是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly are your responsibilities?</Source>
+      <Dest>说到底你的职责究竟是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly are your responsibilities?</Source>
+      <Dest>说到底你的职责究竟是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But I insisted that you were a person of character, and would never resort to committing such heinous acts to feed your skooma habit.</Source>
+      <Dest>但我坚持认为你是一个有品格的人，绝不会为了满足自己的毒瘾就犯下这种滔天大罪。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bold person might accuse this critic of bearing an illegitimate child, especially given how gregarious she is compared to her so-called father.</Source>
+      <Dest>一個勇敢的人應該站出來反駁那些對她私自懷了孩子的批評，特別是有鑑於她和她的＂爸爸＂不同，是個外向的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bold person might accuse this critic of bearing an illegitimate child, especially given how gregarious she is compared to her so-called father.</Source>
+      <Dest>一個勇敢的人應該站出來反駁那些對她私自懷了孩子的批評，特別是有鑑於她和她的＂爸爸＂不同，是個外向的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Didn't he?  If my voice paralyzes you, and I use that opportunity to cut you into bites of flesh, is it not the same thing?</Source>
+      <Dest>不是吗？如果我的声音使你麻痹，我肯定得利用这个机会把你砍成一块儿一块儿的碎肉，这还不是一回事儿？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Blue Palace cannot have its residents dressed like common rubes, and by rubes I mean the lesser nobles that inhabit the other holds.</Source>
+      <Dest>蓝色宫殿不能有那些像乡巴佬一样打扮的公民，而是更应该像那些居住在他处的小贵族一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not high maintenance, just high minded. When I petition for funding for a party or festival, or new robes for the Thanes, I do so with purpose.</Source>
+      <Dest>我不是高贵，而是高尚。我每次申请资金去主办宴会和庆祝节日，还有给男爵们制作新装。都是有目的而为的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, let's just say Thane Erikur prefers to do his shopping in the dungeon rather than the marketplace.</Source>
+      <Dest>呃，这么说吧，比起集市来，艾瑞库尔男爵更愿意去地牢买东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should have seen the quality of lace I had brought in from the Summerset Isle.  Silks and linens embroidered with silver and gold.</Source>
+      <Dest>你真应该看看我从夏暮岛带回来的这些蕾丝的质量。 丝绸和亚麻布上绣着金和银做的线。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You should have seen the quality of lace I had brought in from the Summerset Isle.  Silks and linens embroidered with silver and gold.</Source>
+      <Dest>你真应该看看我从夏暮岛带回来的这些蕾丝的质量。 丝绸和亚麻布上绣着金和银做的线。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Gladly.  I won't reveal my sources, but from what I hear a certain publisher has been struggling to stay afloat.</Source>
+      <Dest>乐意之极。我不会透露我的消息来源，但是从我听到的消息来看，某个家伙正在挣扎着浮出水面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gladly.  I won't reveal my sources, but from what I hear a certain publisher has been struggling to stay afloat.</Source>
+      <Dest>乐意之极。我不会透露我的消息来源，但是从我听到的消息来看，某个家伙正在挣扎着浮出水面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, I would never levy such an accusation without proof.</Source>
+      <Dest>当然，我不会接受这种没有证据的指控。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, I would never levy such an accusation without proof.</Source>
+      <Dest>当然，我不会接受这种没有证据的指控。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's likely filled with chains, shackles, and all sorts of bedroom torture items for the aspiring deviant.</Source>
+      <Dest>因为这个欲求不满的变态，这儿很有可能塞满了锁链，手铐和各种各样卧室拷问用品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nobles cannot simply skulk about like common thieves.  We must present ourselves in a fashion befitting our rank.</Source>
+      <Dest>贵族不能像普通盗贼那样的偷偷摸摸 。我们必须多少展现出一点儿自己适合贵族阶层的样子。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing like these peasant bodices the Nords wear.  They were garments truly fit for the Divine race.</Source>
+      <Dest>【跟那些农民穿着诺德人的紧身衣完全不一样。他们的穿着真正适合圣灵那个种族。】</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing like these peasant bodices the Nords wear.  They were garments truly fit for the Divine race.</Source>
+      <Dest>【跟那些农民穿着诺德人的紧身衣完全不一样。他们的穿着真正适合圣灵那个种族。】</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, of course! No one would ever willingly bed a hagraven.  I swear on the Divines, I will make sure these rumors are set straight.</Source>
+      <Dest>哦，当然！没人会心甘情愿的去睡乌鸦鬼婆。我向圣灵发誓，我会纠正这些谣言的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, of course! No one would ever willingly bed a hagraven.  I swear on the Divines, I will make sure these rumors are set straight.</Source>
+      <Dest>哦，当然！没人会心甘情愿的去睡乌鸦鬼婆。我向圣灵发誓，我会纠正这些谣言的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well yes!  You came to the right Elf.  I know everything about everyone.  </Source>
+      <Dest>是的！你来对了，精灵。我什么事儿都知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>In a last ditch effort, they've sent their minions all over Skyrim in search of the next great writer.</Source>
+      <Dest>他们做出了最后的努力，让他们的爪牙遍布天际，以寻找下一个伟大的作家。</Dest>
+    </String>
+    <String List="2">
+      <Source>In a last ditch effort, they've sent their minions all over Skyrim in search of the next great writer.</Source>
+      <Dest>他们做出了最后的努力，让他们的爪牙遍布天际，以寻找下一个伟大的作家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I think, and you didn't hear this from me, that Erikur isn't the one doling out the punishment.</Source>
+      <Dest>尽管你可能没听我提起过，但艾瑞库尔并没有免于刑罚。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, it's your life, and your trousers.</Source>
+      <Dest>毕竟，这是你的生活，也是你【所得到的】。 </Dest>
+    </String>
+    <String List="2">
+      <Source>As a court attendant, I mostly deal with acquiring clothes, silverware, and other accessories from merchants both local and overseas. </Source>
+      <Dest>作为一名宫廷侍者，我的主要工作是从当地或国外商人那里买得衣物、银器和其他配饰。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I don't want to alarm you, but this may give credence to that other rumor that you have...difficulties controlling your rage.</Source>
+      <Dest>现在我不想吓着你， 但这也许会去相信其他谣言，你……很难控制你的愤怒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, much of the clothing I had recently shipped in by the East Empire Company was deemed too impractical given Skyrim's frigid weather.</Source>
+      <Dest>不幸的是，最近我运过来的大多数衣服都被东帝国贸易公司认为不适合天际省寒冷的天气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Especially one where it's not particularly clear who is in love with whom.</Source>
+      <Dest>尤其是这完全搞不明白到底谁爱着谁的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then there's that other nasty rumor that you were only seen with a hagraven because you agreed to join the Forsworn.</Source>
+      <Dest>还有其他恶劣的谣言说你被看见跟乌鸦鬼婆在一起是因为你同意加入了弃誓者。</Dest>
+    </String>
+    <String List="2">
+      <Source>He strikes me as someone who likes to be bent over a chair with a gag in his mouth.  His sister, on the other hand, is another story.</Source>
+      <Dest>他在我看来，是个喜欢嘴里塞着东西，靠着椅背后仰身子的家伙。而另一方面，他的姐姐，那就是另一个故事了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You take that seat, and I'm sure he'll come to you.</Source>
+      <Dest>你就坐着等吧，他肯定会来找你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, I would never spread such lies without first confronting the person in question.</Source>
+      <Dest>无论如何，我不会在当面问他本人之前就散布这样的谣言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unless your proclivities are so queer you'd rather not have them advertised. Hm...now I am intrigued.</Source>
+      <Dest>除非你有些不足为外人道也的癖好。嗯……我现在挺好奇的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, you're quite the popular topic these days.</Source>
+      <Dest>事实上，这几天你天天上头条。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, as your newest and dearest confidant, I will let everyone know how you handled this whole affair with aplomb.</Source>
+      <Dest>然而，作为你关系最好的知己，我要让所有人知道你是如何沉着冷静的处理这整件事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of these critics has limited his search to the Winking Skeever.</Source>
+      <Dest>这些评论员中的一个已经把搜索范围缩小到了眨眼雪鼠.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not a gossiper, just gregarious.  I don't embellish, it's just the facts don't convey the spirit of what really happens.</Source>
+      <Dest>我可不是没事闲聊之人，只是社交的方式罢了。我说话从不加以润色，一直都是实话实说。</Dest>
+    </String>
+    <String List="2">
+      <Source>So before I share, I need to know if the rumors regarding you and that hagraven are true.  </Source>
+      <Dest>那么在我分享之前,我需要知道你关于乌鸦鬼婆的谣言是不是真的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose I will have to make my face all the more stunning to compensate.</Source>
+      <Dest>我想我将不得不对我的脸做出令人惊讶的行为来补偿.</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose I will have to make my face all the more stunning to compensate.</Source>
+      <Dest>我想我将不得不对我的脸做出令人惊讶的行为来补偿.</Dest>
+    </String>
+    <String List="2">
+      <Source>And that business with the feathers?  All lies I'm sure.</Source>
+      <Dest>做羽毛生意？全他妈的骗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>And that business with the feathers?  All lies I'm sure.</Source>
+      <Dest>做羽毛生意？全他妈的骗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Gods, you mean all of it?  Even the part where you keep her feathers in your trousers?  Oh my!</Source>
+      <Dest>我的老天，你说的都是真的吗？连你把她的羽毛放在裤子里收藏也是真的？天哪！</Dest>
+    </String>
+    <String List="2">
+      <Source>One person even accused you of murdering an elderly women and calling her a hagraven.  A rumor I squashed immediately on your behalf.</Source>
+      <Dest>有人甚至控诉你谋杀了一个老妇人，还喊人家乌鸦鬼婆.  为你着想，这个谣言很快被我压下去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As your newest and dearest confidant, I am glad to hear it.  They are wicked creatures and deserve no mercy.</Source>
+      <Dest>作为你最亲近的心腹,我很高兴听到这些.  他们都是不值得可怜的弱小怪物.</Dest>
+    </String>
+    <String List="2">
+      <Source>What a scandalous confession!  So few are willing to admit what everyone knows to be true.  In Skyrim, all the races seem to loathe each other.</Source>
+      <Dest>多可笑的忏悔啊!  众所周知，没有多少人乐意承认。看起来，在天际省的所有种族都彼此讨厌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, don't try to deny it.  There isn't a person alive who doesn't adore a good love triangle. </Source>
+      <Dest>哦，你还是别装了吧。我还没见过谁不喜欢三角恋的呢。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Which is precisely what the rumors have been saying.  That you have been getting more than a little friendly with them.</Source>
+      <Dest>越是详细的事情越是容易出现谣言。看起来，你已经领略到了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but that's not the scandalous part.  For it's not the drinking, but the fact that our critic bears a striking resemblance to one Minette Vinius.</Source>
+      <Dest>哦，这可不是在诽谤.  这不是酒后的瞎话, 我们的评论承受着如同Minette Vinius一样强力的打击这是事实.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but that's not the scandalous part.  For it's not the drinking, but the fact that our critic bears a striking resemblance to one Minette Vinius.</Source>
+      <Dest>哦，这可不是在诽谤.  这不是酒后的瞎话, 我们的评论承受着如同Minette Vinius一样强力的打击这是事实.</Dest>
+    </String>
+    <String List="2">
+      <Source>One of these critics has limited his search to this very inn.</Source>
+      <Dest>【其中的一个批评家在这家小客栈里暂停了他的研究。】</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little gossip never hurt anyone.</Source>
+      <Dest>有人说一点议论不会伤害到谁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little gossip never hurt anyone.</Source>
+      <Dest>有人说一点议论不会伤害到谁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little gossip never hurt anyone.</Source>
+      <Dest>有人说一点议论不会伤害到谁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little gossip never hurt anyone.</Source>
+      <Dest>有人说一点议论不会伤害到谁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Before I came to Skyrim, I abandoned my own child and left it for dead.</Source>
+      <Dest>在我来天际省之前, 我把自己的孩子留在那儿等死。</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I prefer a mate who is strong and valorous.</Source>
+      <Dest>是啊，我更想要一个坚强勇敢的伴侣。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I believe it ties the community together.  The more we know about each other, the more intimate our relationships.</Source>
+      <Dest>然而，我相信这与社群紧密相关。我们互相了解得越多，我们之间的关系就越亲密。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>That still implies that gossip itself is a negative.  Akin to a paper cut or a particularly vexing housefly.</Source>
+      <Dest>这仍然意味着八卦是不好的。就像一个剪纸或者一只讨人厌的苍蝇。</Dest>
+    </String>
+    <String List="2">
+      <Source>How dreadful!  And you have no inkling as to whether it survived?  That is a shameful secret, but rest assured, I won't tell a soul.</Source>
+      <Dest>真可怕！ 你没有暗示是否幸存下来？这是一个可耻的秘密，但是放心，我不会告诉别人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if you want to get anything off your chest.</Source>
+      <Dest>【如果你要从你的箱子里拿走任何东西，通知我一声。】</Dest>
+    </String>
+    <String List="2">
+      <Source>Veralene, we're all anxious to hear how the manhunt is going.  Do tell.</Source>
+      <Dest>维若林，我们都急着想知道关于追捕的事。快说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Heard any juicy gossip lately? Tell me all about it, and don't skimp on the details.</Source>
+      <Dest>最近听到任何有趣的八卦吗?不管听到什么都告诉我吧,不要跳过细节。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gossip is inclusive.  It allows outsiders such as yourself to easily join the conversation. </Source>
+      <Dest>也包括小道消息。它可以让像你这样的局外人轻易加入谈话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>So...what's new?  We're all waiting to hear what you've been up to.</Source>
+      <Dest>那个...有什么新鲜事吗？我们都等着听你的近闻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Spend an hour with me, and you'll know everything about everyone, and truly feel like one of the locals.</Source>
+      <Dest>跟着我混一个小时，你就能知道任何人的任何事，而且能真正觉得自己就像一个本地人一样熟络。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember, I'm always here to lend an ear.</Source>
+      <Dest>记住，我会一直在这儿倾听。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well dear, I hate to break it to you, because you hail from such marvelous stock, but judging by your current state...I think he was.</Source>
+      <Dest>呃，亲爱的，很抱歉打断你，毕竟你的血统是那么的不可思议，但从你目前的状态来看……我想他会的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh. Well I do suggest you hurry.  People are beginning to talk.</Source>
+      <Dest>哦，好吧，我强烈建议你动作快点。人们已经开始窃窃私语了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Netta, you know I can't betray their confidence.  Just as I would never betray yours.</Source>
+      <Dest>哦 Netta, 你知道我不能背叛他们的自信。就如同我永不会背叛你的一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

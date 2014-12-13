@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Alchemists invented wine?</Source>
+      <Dest>酒是炼金术士们发明的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Alchemists invented wine?</Source>
+      <Dest>酒是炼金术士们发明的？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to return to my previous questions.</Source>
+      <Dest>我要返回到我之前的问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greed slays more mortals than spiders.</Source>
+      <Dest>贪婪对凡人的危害要比蜘蛛大多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow your own advice.  You prattle on like a scullery maid.</Source>
+      <Dest>按照你自己的想法来吧。你像个洗碗的女仆一样扯淡。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the Nord die?</Source>
+      <Dest>那个诺德人是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer beer myself.</Source>
+      <Dest>我比较喜欢啤酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Khajiit.</Source>
+      <Dest>给我讲讲那个虎人 。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Khajiit.</Source>
+      <Dest>给我讲讲那个虎人 。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a Dark Elf named Gilsi.  She didn't speak too kindly of you.</Source>
+      <Dest>是一个叫歌尔西黑暗精灵。她可没说你什么好话。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a Dark Elf named Gilsi.  She didn't speak too kindly of you.</Source>
+      <Dest>是一个叫歌尔西黑暗精灵。她可没说你什么好话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. I have some questions.</Source>
+      <Dest>等一下，我有几个问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. I have some questions.</Source>
+      <Dest>等一下，我有几个问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. I have some questions.</Source>
+      <Dest>等一下，我有几个问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, wine's good, now if you'll kindly shut your mouth, I have questions to ask.</Source>
+      <Dest>是的没错酒是好东西然后如果你能先把嘴闭上我有问题要问！</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not going anywhere demon.  I know where you live.</Source>
+      <Dest>你无路可逃了魔鬼。我知道你的老窝在哪儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine, fine.</Source>
+      <Dest>好的,好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh right.  Well, ask them then.  You have my completely divided attention.</Source>
+      <Dest>哦没错，好吧那去问问他们吧。你完全分散了我的注意力。</Dest>
+    </String>
+    <String List="2">
+      <Source>We stood back to back as they surrounded us, his hands shrouded in ice, mine cloaked in fire. </Source>
+      <Dest>被他们包围的时候，我们背靠背站着。他的双手隐藏在寒冰中，我的包裹在烈焰里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Why yes Hulda, I'll have 4 bottles of wine with juniper berries, 7 bottles of Alto, and a venison with bittergreen sauce.</Source>
+      <Dest>噢是的，胡尔妲，我有四瓶茱尼泊尔果酒，七瓶阿尔托酒，还有用绿苦酱腌的鹿肉。</Dest>
+    </String>
+    <String List="2">
+      <Source>That old romantic.  He was sacrificing himself so that I might escape.  I could never say no to that man.</Source>
+      <Dest>说起来有些老土。他牺牲了自己才让我得以逃脱。我永远不可能对那个人说“不”字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now "wine," that's a good word.  Short, sweet, intoxicating.  People love wine almost as much as they love whining.  I'm one of those people. </Source>
+      <Dest>哦，“酒”，这可真是个好词儿。简洁，甜美，令人陶醉。人们喜爱美酒堪比他们喜欢抱怨。我也是其中之一。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aenar was a gallant Nord if nothing else.  We were exploring a cave to the northwest, a large desolate space rumored to be inhabited by necromancers.</Source>
+      <Dest>【Aenar】这次表现的很勇敢。我们当时在探索西北方的一个洞穴，据说那里是被亡灵术士们占领的一大块独立区域。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed. It was his soul trap spell that set them upon us. At one point I couldn't distinguish the live ones from the corpses, so I burned them all.</Source>
+      <Dest>确实，他使用的灵魂陷阱耍了我们。那一刻我无法辨认出那堆尸体中有没有活着的人，就把它们都烧了。》</Dest>
+    </String>
+    <String List="2">
+      <Source>If you're looking for the court wizard, you'll find him somewhere...in that general direction.</Source>
+      <Dest>如果你在找宫廷法师，他应该...大致在那个方向某处。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could go for a good Tamika Vintage 399 right now.  It's so hard to find Third Era bottles though.  The blasted war is what did it.</Source>
+      <Dest>我现在就可以去找一份上好的399年产塔米卡葡萄酒。虽然找第三纪元的酒已经很难了。都是战争的错。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Khajiit, Ra'Zhan, was what we call a scroll mage.  Not an ounce of magical talent, but one who desperately wanted to cast spells.</Source>
+      <Dest>虎人 Ra'Zhan,是那种我们称之为”用卷轴砸人”的“法师”。就是那种一星半点的魔法才能都没有却玩了命的想施法念咒的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Dark Elf you say? Well, I know a Gisli, the one everyone in Solitude calls Erikur's sister, but the only thing dark about her is her mood.</Source>
+      <Dest>你说一个黑暗精灵？呃，我知道Gisli，在独孤城，人们都叫她艾瑞库尔的妹妹。但唯一黑暗的只有她的心情。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think this is the point where I back away slowly and nudge my elbow into the nearest guard.</Source>
+      <Dest>我觉着我就是在这里慢慢后退然后将手肘撞到了离我最近的守卫的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not that I doubt the veracity of your words.  I do tend to leave an impression, while others are so insignificant as to never be noticed.</Source>
+      <Dest>我不怀疑你说的话的真实性。我对此印象深刻，而其他那些微不足道的家伙永远不会注意到。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be back home if you need me.</Source>
+      <Dest>如果你需要我，我就在家里。</Dest>
+    </String>
+    <String List="2">
+      <Source>With pleasure, Guildmaster.</Source>
+      <Dest>我的荣幸，公会会长。</Dest>
+    </String>
+    <String List="2">
+      <Source>At this point, Aenar and I were both out of magicka, and we each had one stamina potion left. Of course, mine was technically a wine bottle.</Source>
+      <Dest>此时此刻, Aenar和我都没有魔法了，也都只剩一瓶耐力药剂了。当然，我的那瓶从技术层面上来说叫做酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, don't quote me on that.  It does seem likely though, doesn't it? </Source>
+      <Dest>呃，别在这里引用我的话啊。用在这地方可不怎么合适，不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead the way.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think I can do that.</Source>
+      <Dest>我想我不能那样做。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think I can do that.</Source>
+      <Dest>我想我不能那样做。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was in the shadow of these fangs that the spiders lived, and from there they descended.</Source>
+      <Dest>这些有着可怖獠牙的蜘蛛生活在阴影之中，也从那里蜂拥而出。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Drinks)</Source>
+      <Dest>（喝）</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Alright, if you must.  As the Nords say, "make it quick."  Brevity would be my favorite word if it didn't have three syllables.</Source>
+      <Dest>（叹气）好吧，如果你决意如此的话。就像诺德人说的，“利索点”。要不是简洁这个词不是三个音节的话，这个词将是我最喜欢的字眼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now if you'll excuse me, there's this invention called wine that requires my immediate attention.</Source>
+      <Dest>很抱歉，我现在要出门赴宴。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>遵命。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>遵命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, at that point it was just the two of us.  Ra'Zahn wasn't particularly missed, but Sarasa was our healer.</Source>
+      <Dest>好吧，那时候除了我俩就没别人。拉‘扎汗并非十分怀念，不过萨拉莎是我们的治疗师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, we all have our proclivities.  It's what makes the world such a colorful place, regardless of how dull the laws try to make it.</Source>
+      <Dest>是的，我们都有自己的喜好。就是这点使世界变的多姿多彩，抛开法律造成的死板因素之外的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wish to speak with him, you'll find him somewhere in the general direction of boredom.</Source>
+      <Dest>如果你想与他讲话，你会发现他的话在大方向上非常无聊。</Dest>
+    </String>
+    <String List="2">
+      <Source>We had managed to clear a path to the exit however, and were just about to escape when a spider the size of the moons dropped from the ceiling.</Source>
+      <Dest>我们设法打通了一条通向出口的路，但是正要逃跑时，一只月亮大小的蜘蛛从天花板滑了下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright. Take your time. I'll be nursing this bottle.</Source>
+      <Dest>好吧，别着急，我马上弄好这个瓶子。.</Dest>
+    </String>
+    <String List="2">
+      <Source>It was an old vintage from the wineries of the Isle that I was saving until death.  </Source>
+      <Dest>这瓶陈酒是岛上的酿酒厂所产的，是我毕生之收藏。 </Dest>
+    </String>
+    <String List="2">
+      <Source>About wine?  Never.  In fact, forget the venison.</Source>
+      <Dest>葡萄酒？没有啊。事实上，野味什么的你也忘了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some alchemist trying to invent a new health potion stumbles onto a recipe for liquid bliss.</Source>
+      <Dest>一些炼金术士试图发明一种新的健康药水，结果错搞出了酒这种美妙液体的配方。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's impossible.</Source>
+      <Dest>这不可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then he pulled out his dagger, and drew the ugly beasts attention while I ran for the exit.</Source>
+      <Dest>然后他拔出了他的匕首，然后引开了那怪物的注意力以让我逃到出口。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't.  It's the wine talking.  Catch me sober and you'd hardly know I had a mouth.  The problem is staying sober.  The solution is I don't care.</Source>
+      <Dest>我不行。这是醉话。等我清醒了，你就会知道我有多守口如瓶了。关键问题在于保持清醒。解决方法我不在乎。</Dest>
+    </String>
+    <String List="2">
+      <Source>He drank the wine, wiped his lips, and showed me his teeth one last time.  They were stained in red.  But I've never seen a smile so bright.</Source>
+      <Dest>他喝了酒，擦了擦嘴，并最后一次亮出了他的牙齿。它们被染成红色。但我从来没有见过如此明亮的笑容。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well, Guildmaster.  What can I do for you?</Source>
+      <Dest>很好，老大。你想让我做点儿什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>We entered the main chamber, which was hollow save for the long fangs of rock that jutted from the ceiling.</Source>
+      <Dest>我们进入了那间由天顶上突出的长且尖的岩石支撑而形成的中空的主厅。</Dest>
+    </String>
+    <String List="0">
+      <Source>You went off the trail.  I almost forgot what I wanted to ask you.</Source>
+      <Dest>你离开了这条小道。我几乎忘了我想问你什么了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You went off the trail.  I almost forgot what I wanted to ask you.</Source>
+      <Dest>你离开了这条小道。我几乎忘了我想问你什么了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why four?</Source>
+      <Dest>为什么是四？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why four?</Source>
+      <Dest>为什么是四？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why four?</Source>
+      <Dest>为什么是四？</Dest>
+    </String>
+    <String List="0">
+      <Source>May I ask your name?</Source>
+      <Dest>我可以知道你的名字么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What stigma?</Source>
+      <Dest>什么耻辱?</Dest>
+    </String>
+    <String List="0">
+      <Source>What stigma?</Source>
+      <Dest>什么耻辱?</Dest>
+    </String>
+    <String List="0">
+      <Source>What stigma?</Source>
+      <Dest>什么耻辱?</Dest>
+    </String>
+    <String List="0">
+      <Source>What stigma?</Source>
+      <Dest>什么耻辱?</Dest>
+    </String>
+    <String List="0">
+      <Source>A group that consists solely of mages sounds terribly imbalanced.</Source>
+      <Dest>一组由魔法师组成的队伍，这听起来是多么的不协调啊！</Dest>
+    </String>
+    <String List="0">
+      <Source>A group that consists solely of mages sounds terribly imbalanced.</Source>
+      <Dest>一组由魔法师组成的队伍，这听起来是多么的不协调啊！</Dest>
+    </String>
+    <String List="0">
+      <Source>A group that consists solely of mages sounds terribly imbalanced.</Source>
+      <Dest>一组由魔法师组成的队伍，这听起来是多么的不协调啊！</Dest>
+    </String>
+    <String List="0">
+      <Source>How big were these crawlers?</Source>
+      <Dest>那些爬虫有多大？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not everyday I meet a mage who can work the forge.</Source>
+      <Dest>我不是每天都能碰见一个会打铁的法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not everyday I meet a mage who can work the forge.</Source>
+      <Dest>我不是每天都能碰见一个会打铁的法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Larkspur, huh?  Nicely done.</Source>
+      <Dest>Larkspur, 哈？干的漂亮。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it was a mad woman living in the Solitude catacomb.  She said you were evil.</Source>
+      <Dest>不，是一个生活在独孤城地下墓穴的疯女人。她说你是邪恶的.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's disgusting.  Larkspur has slept with half the city.</Source>
+      <Dest>真令人厌恶。Larkspur 已经使一半的城市沉睡。</Dest>
+    </String>
+    <String List="0">
+      <Source>Worth is based on how easily someone is replaced.  Farmers are worthless.</Source>
+      <Dest>价值在于他们是否能够轻易的被替换掉，农民根本毫无价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>Worth is based on how easily someone is replaced.  Farmers are worthless.</Source>
+      <Dest>价值在于他们是否能够轻易的被替换掉，农民根本毫无价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>She said four mortals summoned some sort of demon. That demon was you.</Source>
+      <Dest>她说四个凡人把你这个恶魔给召唤来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>She said four mortals summoned some sort of demon. That demon was you.</Source>
+      <Dest>她说四个凡人把你这个恶魔给召唤来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Khajiit.</Source>
+      <Dest>给我讲讲那个虎人 。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Khajiit.</Source>
+      <Dest>给我讲讲那个虎人 。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Khajiit.</Source>
+      <Dest>给我讲讲那个虎人 。</Dest>
+    </String>
+    <String List="0">
+      <Source>You and me both.</Source>
+      <Dest>我们俩都去。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a Breton woman.  She talked of a High Elf named Eldawyn.</Source>
+      <Dest>是一个布莱顿女人。她提到了一个名叫艾德温的高精灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a Breton woman.  She talked of a High Elf named Eldawyn.</Source>
+      <Dest>是一个布莱顿女人。她提到了一个名叫艾德温的高精灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I wanted to speak to a court wizard, I'd go to Dragonsreach.</Source>
+      <Dest>如果我想要找个宫廷法师，我会去龙临堡。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I wanted to speak to a court wizard, I'd go to Dragonsreach.</Source>
+      <Dest>如果我想要找个宫廷法师，我会去龙临堡。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I wanted to speak to a court wizard, I'd go to Dragonsreach.</Source>
+      <Dest>如果我想要找个宫廷法师，我会去龙临堡。</Dest>
+    </String>
+    <String List="0">
+      <Source>That will change if and when I join the College.</Source>
+      <Dest>那会改变的，只要并且当我加入学院的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>That will change if and when I join the College.</Source>
+      <Dest>那会改变的，只要并且当我加入学院的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to the Redguard?</Source>
+      <Dest>红卫人发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to the Redguard?</Source>
+      <Dest>红卫人发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to the Redguard?</Source>
+      <Dest>红卫人发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to the Redguard?</Source>
+      <Dest>红卫人发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you gather souls for enchanting?</Source>
+      <Dest>你从哪儿收集附魔用的灵魂呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you gather souls for enchanting?</Source>
+      <Dest>你从哪儿收集附魔用的灵魂呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you gather souls for enchanting?</Source>
+      <Dest>你从哪儿收集附魔用的灵魂呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you gather souls for enchanting?</Source>
+      <Dest>你从哪儿收集附魔用的灵魂呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>That may have been true.  That is, until I joined the College.</Source>
+      <Dest>那也许是真的。直到我加入了学院。</Dest>
+    </String>
+    <String List="0">
+      <Source>That may have been true.  That is, until I joined the College.</Source>
+      <Dest>那也许是真的。直到我加入了学院。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) Something about how you bought up all the spiced wine for yourself.</Source>
+      <Dest>（撒谎）关于你是如何为你自己买下所有spiced wine的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) Something about how you bought up all the spiced wine for yourself.</Source>
+      <Dest>（撒谎）关于你是如何为你自己买下所有spiced wine的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) Something about how you bought up all the spiced wine for yourself.</Source>
+      <Dest>（撒谎）关于你是如何为你自己买下所有spiced wine的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never heard of such a cave.  Where is it?  Can't let spiders run free.</Source>
+      <Dest>我從沒聽過這洞窟，那在哪裡？不可以讓蜘蛛盤據其內。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to your companions?</Source>
+      <Dest>你的伙伴们怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to your companions?</Source>
+      <Dest>你的伙伴们怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope she had good things to say.  If not, I'd rather not know.</Source>
+      <Dest>我希望她会说点中听的.  如过不的话, 我宁愿不听.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Khajiit was first.  We all knew it'd be him.  Then our numbers were three.  Next came the Redguard, then the Nord, and soon only I remained.</Source>
+      <Dest>虎人是第一个，这是公认的。然后我们还有三个人。紧接着是红卫人，然后是诺德人，很快就只剩我留在这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Eldawyn.  I've come to Whiterun for the Skyforge and for Farengar.</Source>
+      <Dest>我叫艾德温。我来白漫城是为了天空熔炉和法仁加。</Dest>
+    </String>
+    <String List="2">
+      <Source>You forget how tedious farm labor is.  Most of us would sooner dip our heads in the Skyforge before spending the day bent over picking crops.</Source>
+      <Dest>你忘记农作是多么乏味了。我们大多数人宁愿在整整一天弯腰采摘作物之前把头伸进天空熔炉。</Dest>
+    </String>
+    <String List="2">
+      <Source>The most plentiful source of grand souls are mammoths.  The most common place to find mammoths are Giant camps.</Source>
+      <Dest>猛犸蕴含着最充沛的灵魂之力。而巨人营地是最常见到猛犸的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>In battle, having an empty mind certainly makes you more decisive, but the forge is not something that requires you to act swiftly.</Source>
+      <Dest>在战场，心无旁骛能让你更果断，可锻炉就不是那种需要你行动如飞的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Giants are quite protective of their big furry cheese factories.</Source>
+      <Dest>巨人相当保护他们毛茸茸的巨大的制造奶酪的工厂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe I'll start drinking brandy.  It's not a complete failure like say, mead or Farengar's love life.</Source>
+      <Dest>也许我该去喝点白兰地。看起来并不像说的那样完全失败，因为还有蜂蜜酒和Farengar所爱的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not as if I ever saw him at the inn, or anywhere else for that matter.</Source>
+      <Dest>我好像没在这家酒馆儿，或的别的什么地方看见过他。</Dest>
+    </String>
+    <String List="2">
+      <Source>As I said before, the things we idolize are not often virtues. If everyone were a bard, the Poetic Edda would be filled with verses about starvation.</Source>
+      <Dest>我早就说过，我们所崇拜的东西通常不是什么美德。要是人人都会作诗，艾达诗歌集估计就得充满表达饥饿情感的诗句了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>He should've been wary of his dealer.  He purchased a bad batch of flame cloaks that ended up burning him alive.</Source>
+      <Dest>他应该警惕他的经销商。他买到了一批损坏的火焰斗篷，最终被它们烧死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There used to be three other mages in my faction, a motley bunch to be sure.  A Khajiit, a Redguard, a Nord, and myself.</Source>
+      <Dest>曾经在我的小团体里还有其他的三个人。当然这群人都乱七八糟的。一个 虎人，一个红卫人，一个诺德人，还有我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be making my own trip to the bottom of a bottle.  Where I plan on staying for the conceivable future.</Source>
+      <Dest>我打算去一个瓶底儿里旅行旅行。如果有可能，我还会在那停留一段日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are far too many mages who thumb their noses at common folk as if worth was defined by the size of one's skull.</Source>
+      <Dest>仍有许多法师对普通人嗤之以鼻，好像一个人的价值是由脑袋大小决定的一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a shortsighted idea.  We ended up wasting all our profits on magicka potions, provided we even survived.  Sarasa didn't.</Source>
+      <Dest>这主意真是目光短浅，到头来我们所有的钱都浪费在了魔力药水上，如果我们这次能逃出生天，Sarasa就甭想活了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't really understand it myself.  There should be more of me.  It seems to me smithing and enchanting are two complementary skills.</Source>
+      <Dest>我自己没有真正理解，这里可能有更多的我。似乎锻造和附魔是两门相互补足的技能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four mages can be a formidable party, especially when their talents complement each other.  As a result, I can afford to make mistakes.</Source>
+      <Dest>四位法师——尤其在他们的才能互补的时候，他们的组合将十分强大。因此，我犯些错误也没啥。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four mages can be a formidable party, especially when their talents complement each other.  As a result, I can afford to make mistakes.</Source>
+      <Dest>四位法师——尤其在他们的才能互补的时候，他们的组合将十分强大。因此，我犯些错误也没啥。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sarasa was brash and bold, and my kind of woman.  Too brash for her own good though.  She wanted to trap grand souls instead of common ones.</Source>
+      <Dest>萨拉莎太傲慢和大胆了，是我喜欢的那种女人。尽管太急躁是为了她好。她想捉大灵魂而不是要抓普通生物的灵魂</Dest>
+    </String>
+    <String List="2">
+      <Source>Big as sabrecats, but those aren't the scary ones.  It's the little ones that make me cast my flame cloak, the ones that crawl up your robe.</Source>
+      <Dest>这些劳什子大的跟剑齿虎一样，却没那么吓人。就像那些总是爬上你的长袍，逼得你脱衣服放火炎斗篷的东西一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>He does bathe, doesn't he?  The goblet I drink from has been used by countless others, but it's still clean.</Source>
+      <Dest>他洗澡了，不是吗？我喝酒的杯子被无数人使用过了，但它仍然干净。</Dest>
+    </String>
+    <String List="2">
+      <Source>He is handsome for a Wood Elf, although terribly arrogant.  Part of me is glad I can't recall that night, the other part is greatly disappointed.</Source>
+      <Dest>他是个英俊的木精灵，虽然也很傲慢。对我来说值得高兴的是我记不清那个晚上了，其他部分都是会让人大失所望的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now the matter is settled.  I will indeed pay her a visit.  Well, right after I have another drink.</Source>
+      <Dest>事情就这么定了。我一定会去看看她的。嗯，不过先等我多来一杯再说。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can only assume it has to do with the stigma that comes with being a blacksmith. </Source>
+      <Dest>我唯一要面对的是因为当铁匠随之而来的污名。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Although I have heard warriors talk of such things.  They say the person who thinks too much on the battlefield lacks focus.</Source>
+      <Dest>不过我听战士们这么说过。他们说在战场上顾虑太多的人都缺乏专注。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like how you agree with the things I say.  Why aren't there more of you?</Source>
+      <Dest>实在是太感谢你对我的支持，但这儿像你这样的人怎么这么少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude, huh?  Well, that's as good excuse as any to pay my dear friend the spiced wine dealer a visit. I would very much like to meet this Gwyvane.</Source>
+      <Dest>独孤城，哼嗯？好吧，就说某位仁兄想拜访我亲爱的香料酒经销商朋友好了。这个借口不错。我也挺想见见这位桂帆的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude, huh?  Well, that's as good excuse as any to pay my dear friend the spiced wine dealer a visit. I would very much like to meet this Gwyvane.</Source>
+      <Dest>独孤城，哼嗯？好吧，就说某位仁兄想拜访我亲爱的香料酒经销商朋友好了。这个借口不错。我也挺想见见这位桂帆的。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say to wield a hammer you must be as dull as an anvil and as strong as an ox.  As if stupidity were a prerequisite for the craft.</Source>
+      <Dest>他们说要挥舞一把巨锤你必须要强壮的像头牛的同时还要蠢的如同一个铁砧。好像愚蠢是使用巨锤的先决条件似的。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a paranoid cat as well, with a nose for things didn't exist.  Always convinced there was a spy lurking around the corner.</Source>
+      <Dest>他就像偏执的猫一样，对着不存在的东西发出噪音。但可信的是，这里有个刺客潜伏在某个角落。</Dest>
+    </String>
+    <String List="2">
+      <Source>That does sound like something I would do.  I do tend to lose my head for days, even weeks at a time.  It really is a nuisance.</Source>
+      <Dest>那听起来像是我干的事。有时我会晕头转向好几天，有一次甚至好几个星期。真烦人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alchemists invented wine, farmers harvest the grapes, and smiths provide the tools. So to me, each is worth more than all the mages in Winterhold.</Source>
+      <Dest>炼金术师发明了酒，农民收获了庄稼，而铁匠提供了工具。所以对我来说，冬堡所有法师加到一块儿都抵不过他们中的一个的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a matter of fact, I could go for a good Tamika Vintage 399 right now.  It's so hard to find Third Era bottles though.</Source>
+      <Dest>其实，我现在只要有瓶 Tamika Vintage 399 就满意啦。想找 Third Era 的可相当不容易啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Victim to the squalls of battle, I'm afraid.  It matters not if you are a novice or an Arch-mage, all it takes is a single misstep.</Source>
+      <Dest>战斗的狂风的受害者，我很害怕。你是新手还是首席法师都无关紧要，所有它需要的只是一个失误。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's hope a similar fate doesn't befall this Gwyvane.  People have little patience for the mad.</Source>
+      <Dest>只希望类似的命运不要落在这位 桂帆 的头上吧。人们对这种【疯狂之举】没什么耐心。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you just want "a" wizard.  You've still come to the wrong place.  Walk outside, make a left, and tell Bjorlam you want to go to Winterhold.</Source>
+      <Dest>而你只想要一个法师。那你还是走错了地方啊。出门，左拐，然后跟布乔莱姆说你要去冬堡。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I do like the notion of intelligence being a weakness.  </Source>
+      <Dest>但我喜欢“聪明反被聪明误”这个观点。</Dest>
+    </String>
+    <String List="2">
+      <Source>We are still talking about my interpretation of worth, are we not?  So far you haven't been at all useful to me.</Source>
+      <Dest>我们还得对我价值相关的事做更深一步的解读。目前为止你可对我一点用都没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>We are still talking about my interpretation of worth, are we not?  So far you haven't been at all useful to me.</Source>
+      <Dest>我们还得对我价值相关的事做更深一步的解读。目前为止你可对我一点用都没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if they don't appreciate me in Solitude, then I will stay right here.  Even if the stocks at the Bannered Mare are low.</Source>
+      <Dest>即使母马横幅的声望不怎么高，但如果独孤城的这帮人不懂得欣赏我, 那么我会就呆在这哪也不去。</Dest>
+    </String>
+    <String List="2">
+      <Source>We really need to rectify that.  One bottle and a fresh loaf of bread ought to do it.  Better make it two to be sure.</Source>
+      <Dest>我们真的需要整顿一下。一瓶好酒或一块儿新鲜面包应该帮得上忙。当然两个都有的话那就最好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>We really need to rectify that.  One bottle and a fresh loaf of bread ought to do it.  Better make it two to be sure.</Source>
+      <Dest>我们真的需要整顿一下。一瓶好酒或一块儿新鲜面包应该帮得上忙。当然两个都有的话那就最好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am very curious as to what sort of evil this mad Breton believes me to be.  Maybe we can set her up with Heimskr.  Focus their energies elsewhere.</Source>
+      <Dest>我非常好奇这个疯布莱顿人把我想成什么了.  也许我们可以把她介绍给Heimskr.  转移一下她的注意.</Dest>
+    </String>
+    <String List="2">
+      <Source>By chance do you remember what she said about me?</Source>
+      <Dest>额，那啥，你还记得她是怎么说我的么？</Dest>
+    </String>
+    <String List="2">
+      <Source>By chance do you remember what she said about me?</Source>
+      <Dest>额，那啥，你还记得她是怎么说我的么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Although some say the spiced wine in Solitude rivals any vintage the 3rd Era ever produced.  I'd say those people have never been to the Isles.</Source>
+      <Dest>虽然有人说加香葡萄酒比任何一个独孤城的竞争对手甚至是第三纪元生产的陈年酒更好。我敢说那群人连群岛都没去过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it the mess of wine bottles in the corner is yours.</Source>
+      <Dest>我猜角落里乱七八糟的酒瓶都是你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it the mess of wine bottles in the corner is yours.</Source>
+      <Dest>我猜角落里乱七八糟的酒瓶都是你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>May I ask your name?</Source>
+      <Dest>我可以知道你的名字么?</Dest>
+    </String>
+    <String List="0">
+      <Source>May I ask your name?</Source>
+      <Dest>我可以知道你的名字么?</Dest>
+    </String>
+    <String List="0">
+      <Source>May I ask your name?</Source>
+      <Dest>我可以知道你的名字么?</Dest>
+    </String>
+    <String List="0">
+      <Source>Care to share some of that wine you're drinking?</Source>
+      <Dest>介意喝点你的酒吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Care to share some of that wine you're drinking?</Source>
+      <Dest>介意喝点你的酒吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Eldawyn.  Where have I heard that name?</Source>
+      <Dest>Eldawyn.  我是在哪听说过这个名字来着？</Dest>
+    </String>
+    <String List="0">
+      <Source>Eldawyn.  Where have I heard that name?</Source>
+      <Dest>Eldawyn.  我是在哪听说过这个名字来着？</Dest>
+    </String>
+    <String List="0">
+      <Source>Eldawyn.  Where have I heard that name?</Source>
+      <Dest>Eldawyn.  我是在哪听说过这个名字来着？</Dest>
+    </String>
+    <String List="0">
+      <Source>Eldawyn.  Where have I heard that name?</Source>
+      <Dest>Eldawyn.  我是在哪听说过这个名字来着？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the jester, as far as I'm concerned.</Source>
+      <Dest>你就是那个弄臣，据我所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the jester, as far as I'm concerned.</Source>
+      <Dest>你就是那个弄臣，据我所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the jester, as far as I'm concerned.</Source>
+      <Dest>你就是那个弄臣，据我所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the jester, as far as I'm concerned.</Source>
+      <Dest>你就是那个弄臣，据我所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ask Vinnius.  As Guildmaster, I plan on letting you do whatever you want.</Source>
+      <Dest>问问 Vinnius.  作为一个公会大师，我打算让你干你想干的任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ask Vinnius.  As Guildmaster, I plan on letting you do whatever you want.</Source>
+      <Dest>问问 Vinnius.  作为一个公会大师，我打算让你干你想干的任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ask Vinnius.  As Guildmaster, I plan on letting you do whatever you want.</Source>
+      <Dest>问问 Vinnius.  作为一个公会大师，我打算让你干你想干的任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ask Vinnius.  As Guildmaster, I plan on letting you do whatever you want.</Source>
+      <Dest>问问 Vinnius.  作为一个公会大师，我打算让你干你想干的任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ask Vinnius.  As Guildmaster, I plan on letting you do whatever you want.</Source>
+      <Dest>问问 Vinnius.  作为一个公会大师，我打算让你干你想干的任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What will the court swordsman's duties be?</Source>
+      <Dest>有趣。宮廷护卫的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What will the court swordsman's duties be?</Source>
+      <Dest>有趣。宮廷护卫的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What will the court swordsman's duties be?</Source>
+      <Dest>有趣。宮廷护卫的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What will the court swordsman's duties be?</Source>
+      <Dest>有趣。宮廷护卫的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't believe we've met.</Source>
+      <Dest>我不相信我们以前有见过面。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can still drink the wine after you've tasted it.</Source>
+      <Dest>你要大口喝个痛快之前可以先品尝一下嘛</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have an obsession with wine.</Source>
+      <Dest>看起来你的酒瘾真不小</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have an obsession with wine.</Source>
+      <Dest>看起来你的酒瘾真不小</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have an obsession with wine.</Source>
+      <Dest>看起来你的酒瘾真不小</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have an obsession with wine.</Source>
+      <Dest>看起来你的酒瘾真不小</Dest>
+    </String>
+    <String List="0">
+      <Source>Tamika Vintage?  That Cyrodiilic sewage isn't fit for consumption.</Source>
+      <Dest>古董？为这Cyrodiilic破烂花钱是不值得的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tamika Vintage?  That Cyrodiilic sewage isn't fit for consumption.</Source>
+      <Dest>古董？为这Cyrodiilic破烂花钱是不值得的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still as drunk as ever, I see.</Source>
+      <Dest>仍然跟以前一样醉熏熏的，我明白了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You brute.  A good vintage wine is wasted on your tongue.</Source>
+      <Dest> 混蛋. 一瓶精酿的葡萄酒浪费在你的舌头上了.</Dest>
+    </String>
+    <String List="0">
+      <Source>You brute.  A good vintage wine is wasted on your tongue.</Source>
+      <Dest> 混蛋. 一瓶精酿的葡萄酒浪费在你的舌头上了.</Dest>
+    </String>
+    <String List="0">
+      <Source>Clean yourself up, drunk.  You're making a spectacle.</Source>
+      <Dest>你真该收拾一下自己了，酒鬼。你可在出着洋相呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Clean yourself up, drunk.  You're making a spectacle.</Source>
+      <Dest>你真该收拾一下自己了，酒鬼。你可在出着洋相呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt you've learned much of anything, drunk, but go on.</Source>
+      <Dest>我真怀疑你能学到什么东西，醉鬼，不过继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt you've learned much of anything, drunk, but go on.</Source>
+      <Dest>我真怀疑你能学到什么东西，醉鬼，不过继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt you've learned much of anything, drunk, but go on.</Source>
+      <Dest>我真怀疑你能学到什么东西，醉鬼，不过继续吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt you've learned much of anything, drunk, but go on.</Source>
+      <Dest>我真怀疑你能学到什么东西，醉鬼，不过继续吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, I don't see a change in management affecting my lifestyle all that much.</Source>
+      <Dest>无论如何,我不认为管理方式的改变影响了我太多的生活方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, I don't see a change in management affecting my lifestyle all that much.</Source>
+      <Dest>无论如何,我不认为管理方式的改变影响了我太多的生活方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why certainly, here's a bottle.  I have more where that came from.  Just give me a second to finish drinking it.</Source>
+      <Dest>当然啦，这儿有一瓶酒。我可以尽情的喝。给我一会会儿时间让我喝完就好。</Dest>
+    </String>
+    <String List="2">
+      <Source>As his chief role is to amuse us, it's better if we hire someone who's funny, but doesn't try to be.</Source>
+      <Dest>我们最好找个幽默点的家伙，毕竟他主要的工作就是逗我们开心，至于我们自己，就没必要那样了。</Dest>
+    </String>
+    <String List="2">
+      <Source>How disappointing. A court swordsman could be a barrel of laughs.</Source>
+      <Dest>真没意思。本来可以把宫廷剑客当做开心果的。</Dest>
+    </String>
+    <String List="2">
+      <Source>When he refused, I took it upon myself to play "drink the bottle" instead.</Source>
+      <Dest>当他拒绝时，我就自己来做“瓶饮”代替。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here you are.</Source>
+      <Dest>给你这个。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Then I turn them around and sell them to Farengar.  And he always buys them.  I've never met a man so obsessed with necklaces.</Source>
+      <Dest>然后我把它们卖给Farengar。他总是会买它们。我从来没有见过一个男人如此痴迷于项链。</Dest>
+    </String>
+    <String List="2">
+      <Source>A spectacle?  And here I was thinking I'd only made a scene.  I must be getting better at whatever it is that bothers you.  Namely, everything.</Source>
+      <Dest>一个奇观?其实我想说我只做了一个场景。我必须变得更好,不管是什么困扰你。也就是说,不论如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>We could give him a spell tome each week, tell him to study it and report back with the results.</Source>
+      <Dest>我们可以每周给他一本法术书，叫他去学习并且报告成果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Supposedly, the color can tell you the wine's provenance as well as the conditions it was developed in, serving as an indicator of how it will taste.</Source>
+      <Dest>按照推测，根据酒的颜色可以判断出它的产地还有酿期，再以此为标准判断出酒的口感如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>Supposedly, the color can tell you the wine's provenance as well as the conditions it was developed in, serving as an indicator of how it will taste.</Source>
+      <Dest>按照推测，根据酒的颜色可以判断出它的产地还有酿期，再以此为标准判断出酒的口感如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those decisions aside, I don't see a change in management affecting my lifestyle all that much.</Source>
+      <Dest>抛开这些决定不谈，我还不知道管理层的变化对我生活方式的影响有这么大。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't see this as a negative.  My Nord friends often chide me for neglecting the rich history of Skyrim, as if I was ignorant of it.</Source>
+      <Dest>我不把这看成是坏事。我的诺德朋友经常指责我轻视天际的悠久历史，好像我不知道似的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, that's alright.  We can get to know each other over a couple bottles of wine.  And something to drink for you as well.</Source>
+      <Dest>噢，好极了！我们可以一起喝几壶互相了解一下。来，你也来喝点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine my embarrassment when I tasted my first vintage.  This is why natives of the Isle look down upon those born on foreign shores.</Source>
+      <Dest>想想我品尝我的第一次酿的葡萄酒时的囧态吧。这就是本地人歧视外地人的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but there's that extra step between me and what I want.  It seems almost redundant too.  Like washing your hands before taking a bath.</Source>
+      <Dest>是的，但在我和我想要的东西之间有什么额外的步骤多于了。就像你洗完澡再去洗手一样，多此一举。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I both agree with your assessment and still not care about it?  That seems to be the way my attitude is leaning.</Source>
+      <Dest>我可以表面奉承你的观点但在心里缺不以为然么?这似乎是我应该学习的一种为人处世方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go on in.  He's waiting for you.</Source>
+      <Dest>进去吧。他正等着你呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't juggle my wine bottles, and I don't swallow flaming swords.  Although I wouldn't object to juggling swords while swallowing wine.</Source>
+      <Dest>我不会用我的酒瓶子玩儿杂耍，也不会表演活吞火剑。不过我不反对边耍剑边喝酒。 </Dest>
+    </String>
+    <String List="2">
+      <Source>So you're the one, huh.  Somehow I thought you'd be taller.  </Source>
+      <Dest>所以你是一个，喔，不管怎么样，我本以为你应该更高一点才对。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I don't believe we've met.</Source>
+      <Dest>我想我们没见过面。</Dest>
+    </String>
+    <String List="2">
+      <Source>When it comes to examining wine, however, I'm still just a novice.  Although I have picked up the basics.  </Source>
+      <Dest>在品鉴红酒方面，我仍然是个新手。不过我已经开始入门了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I've learned how to tilt my goblet and properly examine the rim for color and clarity.</Source>
+      <Dest>呃，我学会了如何适当的倾斜我的高脚杯以及适当的为了查看酒的色泽而顺着杯子的边缘往里望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I've learned how to tilt my goblet and properly examine the rim for color and clarity.</Source>
+      <Dest>呃，我学会了如何适当的倾斜我的高脚杯以及适当的为了查看酒的色泽而顺着杯子的边缘往里望。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I tell them, "Yes, yes, I know all about your windmills and bards and twelve different words for cold.  I only care about the wine."</Source>
+      <Dest>然后我告诉他们，"是啊，没错，你的风车以及那些吟游诗人什么的，我全都一清二楚，我还能用十二种不同的表述来形容冷呢。但我现在只关心酒。"</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but let's not get off on the wrong foot.  You might hurt yourself doing that.  So come, find a seat...somewhere, and ask your questions.</Source>
+      <Dest>噢，但咱别出师不利。你这样做可能会伤到自己的。来吧，随便找个地方坐……然后问你的问题吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally.  Would you care for a drink?  I'm sure there's a a half-empty bottle lying around here somewhere.</Source>
+      <Dest>那是自然的。你想来杯饮料吗？我记得放了一瓶喝了一半的饮料在这附近来着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let the experts tilt their wines this way and that way.  I'll be tilting mine right into my mouth.</Source>
+      <Dest>让那些专家把他们杯中的红酒倾向各种角度吧。我只会把我的那份倾入我的嘴里。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need, Guildmaster?</Source>
+      <Dest>你需要什么，会长大人？</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  No doubt from that knave Larkspur, telling everyone that I'm a battlecat under the sheets.  The truth is I don't even remember any of it. </Source>
+      <Dest>是吗？毫无疑问那个混球拉克斯珀正在告诉所有人我是个床技甚好的婊子。事实上我压根就不记得我和他有过任何关联。</Dest>
+    </String>
+    <String List="2">
+      <Source>He says their enchantments are valuable.  I think he likes to wear them.  Maybe tomorrow I'll enchant him a dress to go along with it.</Source>
+      <Dest>他说他们的附魔是极其珍贵的。我想他会喜欢穿上的，没准明天我会给他附魔个裙子让他穿上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone.</Source>
+      <Dest>滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  Are you a wine expert, by chance?  In my youth, I once thought West Weald wine was the finest drink ever conceived.</Source>
+      <Dest>真的吗？你在一次偶然的机会里成为了葡萄酒专家? 在那时我还“青涩”的时候,我曾经一直认为西部莽原的葡萄酒是世界上最好的.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wine tasting is apparently all about discovery, yet I've discovered that I enjoy drinking wine more than I enjoy tasting it.</Source>
+      <Dest>品酒显然是关于发现的艺术，可我的发现是我更喜欢的是喝酒而不是品尝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wine tasting is apparently all about discovery, yet I've discovered that I enjoy drinking wine more than I enjoy tasting it.</Source>
+      <Dest>品酒显然是关于发现的艺术，可我的发现是我更喜欢的是喝酒而不是品尝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eorlund allows me to use his magical forge to craft jewelry.  I use the enchanting table at Dragonsreach to raise their value.</Source>
+      <Dest>Eorlund 允许我用他的魔法锻炉打造出首饰。然后我再拿到 Dragonsreach 的附魔台做个增值处理。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for the shade, it...I mean we would like to take that lifestyle on the road again, so long as you don't mind the company.</Source>
+      <Dest>而那个阴影，它……我是说我们应该找回那种冒险的生活，只要你不介意结伴同行。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for the shade, it...I mean we would like to take that lifestyle on the road again, so long as you don't mind the company.</Source>
+      <Dest>而那个阴影，它……我是说我们应该找回那种冒险的生活，只要你不介意结伴同行。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for the shade, it...I mean we would like to take that lifestyle on the road again, so long as you don't mind the company.</Source>
+      <Dest>而那个阴影，它……我是说我们应该找回那种冒险的生活，只要你不介意结伴同行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe you've confused my name with the World Eater.  It's Eldawyn, with an E.  And I don't eat worlds.</Source>
+      <Dest>或许你会困惑于我世界吞噬者(World Eater)的名声。其实我叫艾德温（Eldawyn），硬说跟世界吞噬者有什么关系的话就是名字里都有个E。不过我可不吃世界。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we could kill him if he failed. Or if he succeeded.  We can't have our court swordsman casting spells now, can we?</Source>
+      <Dest>不论他成功与否，我们都会杀了他。我们现在可不能让我们的宫廷魔剑士随便乱丢魔法，对吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I just recall waking up naked and sneezing profusely because the sentimental fool left a lavender flower on my stomach.</Source>
+      <Dest>我只记得醒来的时候赤身裸体，一直在打喷嚏，因为那个多愁善感的傻瓜把紫花留在了我的肚子里。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Away with you.</Source>
+      <Dest>和你一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say "You know Elda, there's more to Skyrim than just Alto and spiced wine."</Source>
+      <Dest>他们说 "你知道的，Elda, 这里比天际省多的可不仅仅是阿尔托酒和香料酒。"</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, ha-ha, very funny.  You spend one night running around naked with a kettle on your head and people think you're a clown.</Source>
+      <Dest>噢，哈哈，非常有趣。你头上顶着一个壶子然后裸奔了一个晚上。人们都认为你是个小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So let the nobles sniff and swirl their goblets.  I prefer to swallow my wine like a common rube.</Source>
+      <Dest>那就让那群贵族用他们的高脚杯喝酒好了。我更喜欢像个乡巴佬一样自己和自己的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So let the nobles sniff and swirl their goblets.  I prefer to swallow my wine like a common rube.</Source>
+      <Dest>那就让那群贵族用他们的高脚杯喝酒好了。我更喜欢像个乡巴佬一样自己和自己的。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I have some Spiced Wine from Solitude.</Source>
+      <Dest>非常碰巧，我有一些独孤城来的调味酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've fetched you more wine.</Source>
+      <Dest>我给了你更多的酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It bet it was all your fault, and your drinking got your friends killed.</Source>
+      <Dest>這都是你的错，你酗酒害的你朋友们被杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I have a bottle of wine right here.  Take it.</Source>
+      <Dest>正好，我这里有一瓶酒，拿去吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is what Gwyvane said true?  Are you some sort of demon?</Source>
+      <Dest>Gwyvane说的是真的吗？你该不会是某种恶魔吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is what Gwyvane said true?  Are you some sort of demon?</Source>
+      <Dest>Gwyvane说的是真的吗？你该不会是某种恶魔吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is what Gwyvane said true?  Are you some sort of demon?</Source>
+      <Dest>Gwyvane说的是真的吗？你该不会是某种恶魔吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have a bottle, but I can fetch one for you.</Source>
+      <Dest>我这一个瓶子也没有，不过可以给你找一个来。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're an abomination.  Plain and simple.</Source>
+      <Dest>你是个令人憎恶的混蛋。显而易见。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're an abomination.  Plain and simple.</Source>
+      <Dest>你是个令人憎恶的混蛋。显而易见。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're an abomination.  Plain and simple.</Source>
+      <Dest>你是个令人憎恶的混蛋。显而易见。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're an abomination.  Plain and simple.</Source>
+      <Dest>你是个令人憎恶的混蛋。显而易见。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you were.</Source>
+      <Dest>当然你是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to be affected.  What about you changed?</Source>
+      <Dest>你好像没有受到影响，你来转换如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to be affected.  What about you changed?</Source>
+      <Dest>你好像没有受到影响，你来转换如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to be affected.  What about you changed?</Source>
+      <Dest>你好像没有受到影响，你来转换如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>The other members of the guild seem to be wary of you.</Source>
+      <Dest>公会的其他成员看起来对你还是很警惕的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The other members of the guild seem to be wary of you.</Source>
+      <Dest>公会的其他成员看起来对你还是很警惕的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The other members of the guild seem to be wary of you.</Source>
+      <Dest>公会的其他成员看起来对你还是很警惕的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to sense a pattern here.</Source>
+      <Dest>我从这里面找到点规律了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a bottle of wine for you.  Here.</Source>
+      <Dest>我有瓶红酒给你，来！</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, I have a bottle of Alto Wine.  Here.</Source>
+      <Dest>其实我手头正好有一瓶奥尔托酒，给！</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, I have a bottle of Alto Wine.  Here.</Source>
+      <Dest>其实我手头正好有一瓶奥尔托酒，给！</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, find someone else to fetch your wine.</Source>
+      <Dest>抱歉，取酒什么的请找别人吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish a Shade would inhabit my body.</Source>
+      <Dest>我希望能有个住在我的身体里。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish a Shade would inhabit my body.</Source>
+      <Dest>我希望能有个住在我的身体里。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were saying something about being a dark spirit?</Source>
+      <Dest>你说的是以黑暗灵魂形态存在的事？</Dest>
+    </String>
+    <String List="0">
+      <Source>You were saying something about being a dark spirit?</Source>
+      <Dest>你说的是以黑暗灵魂形态存在的事？</Dest>
+    </String>
+    <String List="0">
+      <Source>You were saying something about being a dark spirit?</Source>
+      <Dest>你说的是以黑暗灵魂形态存在的事？</Dest>
+    </String>
+    <String List="0">
+      <Source>You were saying something about being a dark spirit?</Source>
+      <Dest>你说的是以黑暗灵魂形态存在的事？</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="0">
+      <Source>It must have been a powerful spirit to bind you inside its tomb.</Source>
+      <Dest>那肯定有一个强大的灵魂把你困在它的坟墓里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vinnius assured me such a travesty would not happen again.  Would you mind fetching a bottle for me?</Source>
+      <Dest>威恩斯向我保证不会再出现这么滑稽的事了.  您能拿个瓶子给我吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>Vinnius assured me such a travesty would not happen again.  Would you mind fetching a bottle for me?</Source>
+      <Dest>威恩斯向我保证不会再出现这么滑稽的事了.  您能拿个瓶子给我吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>But the most important thing you should know is...I seem to be all out of wine.</Source>
+      <Dest>但你要知道最重要的是...我看上去根本没醉.</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one alive being the vessel.  And here I am.  Or rather, here we are.</Source>
+      <Dest>最后活下来的那个会成为容器。我活下来了，或者说，我们活下来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one alive being the vessel.  And here I am.  Or rather, here we are.</Source>
+      <Dest>最后活下来的那个会成为容器。我活下来了，或者说，我们活下来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one alive being the vessel.  And here I am.  Or rather, here we are.</Source>
+      <Dest>最后活下来的那个会成为容器。我活下来了，或者说，我们活下来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one alive being the vessel.  And here I am.  Or rather, here we are.</Source>
+      <Dest>最后活下来的那个会成为容器。我活下来了，或者说，我们活下来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Luckily, joining this band of rogue mages was a rather inspired choice for the both of us.  Because you know, we're abominations and all.</Source>
+      <Dest>幸运的是，加入这群强盗法师对我们两个来说都是一个令人鼓舞的选择。因为——你知道——我们彻头彻尾地无可救药了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alto wine?  Excellent!  You are now by far my favorite person here.</Source>
+      <Dest>阿托酒？棒极了！你现在是目前为止我在这里最喜欢的人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alto wine?  Excellent!  You are now by far my favorite person here.</Source>
+      <Dest>阿托酒？棒极了！你现在是目前为止我在这里最喜欢的人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You keep flattering me and I might just leave Sinmir for you.  Have you met Sinmir?  I'd introduce you, but I haven't been back in Whiterun for ages.</Source>
+      <Dest>你总是在讨好我，我会为了你而离开辛米尔的。你见过辛米尔吗？我向你介绍一下他，不过或许等我再回白漫城已经是好几年以后的事情了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everybody has a calling.  Nelos has his precious Long Night, and the Shade gets mortals to kill.  I have my wine, and you have your dragons.</Source>
+      <Dest>每个人都打着小算盘。纳洛斯有他的珍宝“长夜"Shade会得到束手待毙的羔羊。我有我的酒，你有你的龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, splendid!  You're far more swift than Vinnius or even Hulda.</Source>
+      <Dest>哦，太精彩了。你比威恩斯或胡尔妲都要敏捷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, splendid!  You're far more swift than Vinnius or even Hulda.</Source>
+      <Dest>哦，太精彩了。你比威恩斯或胡尔妲都要敏捷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then why are you just standing there.  Clearly you need to fetch this amazing wine you're referring to immediately.</Source>
+      <Dest>那么为什么你只是站在这里。很明显你需要立刻取得这所被提及的令人惊奇的酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, don't be so gloomy.  You have that roaring thing you do, right?  That's much better.</Source>
+      <Dest>哦，别闷闷不乐了。你还有大事儿要去做，对吗？这是更重要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, don't be such a Sinmir.  Wait, you two aren't related, are you?   You have his grumpiness.</Source>
+      <Dest>哦，别像辛米尔一样。等等，你们两个没有关系，对吗？你跟他一样性情暴躁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Could you do that?  I'd be eternally grateful.  And seeing as I'm virtually immortal, that actually counts for something.</Source>
+      <Dest>你能这样做吗？我将永远感激。既然我获得永生，那么这一点是很重要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Spiced Wine! Now that brings back memories.  Mostly of being passed out on the floor, but the rugs at the Skeever are fairly soft.</Source>
+      <Dest>好酒！我想起了不少过去的事。大家都喝醉了躺在地上，不过这地毯还是挺软和的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I'm what you call a "dark spirit," but the important thing you should know is...I seem to be all out of wine.</Source>
+      <Dest>是的，我就是你所谓的“黑暗精神”，但你必须知道一件重要的事情……我已经不在有任何酒了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sort of like Heimskr's voice the closer he gets to that Talos statue.</Source>
+      <Dest>就像海姆斯科的声音越靠近塔罗斯雕像越大一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, right.  Long story short, I'm guess I'm sort of a Shade.  You see, a while back, I was one of a party of four mages.</Source>
+      <Dest>哦，对。让我们长话短说，我猜我现在是某种幽灵。你看，就在不久前，我曾是个四人巫师小队的一员。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll think that's who I'll kill next.  A bard.  The Shade gets very testy if I don't.</Source>
+      <Dest>我想那就是我下一个目标。一个吟游诗人。如果我没做到的话，阴影会很暴躁的</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know the exact reason, to be honest, because I was drunk at the time.</Source>
+      <Dest>具体缘由我是一概不知。老实说，那会我正沉在醉乡之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look at you!  Guildmaster.  It's a nice title, and one that should come with its own court wizard.</Source>
+      <Dest>瞧瞧你！会长。这头衔儿真不赖。你也该有个专属自己的宫廷巫师了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Joining this band of misfits was a rather inspired choice for the both of us.  He gets to blow things up, I get my wine.</Source>
+      <Dest>我们之所以选择加入这帮不安分的家伙，基本上是一时兴起。他可以大干一场，而我则可以饱尝美酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the four of us, five if you count the shade, made a pact.  When at least three of us died, we would pledge our souls to it.</Source>
+      <Dest>因此我们四个，五个...如果你把那幽灵也算上，签订了一个契约。当我们之中至少有三个人去世时，我们会把自己的灵魂抵押给它。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the four of us, five if you count the shade, made a pact.  When at least three of us died, we would pledge our souls to it.</Source>
+      <Dest>因此我们四个，五个...如果你把那幽灵也算上，签订了一个契约。当我们之中至少有三个人去世时，我们会把自己的灵魂抵押给它。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the four of us, five if you count the shade, made a pact.  When at least three of us died, we would pledge our souls to it.</Source>
+      <Dest>因此我们四个，五个...如果你把那幽灵也算上，签订了一个契约。当我们之中至少有三个人去世时，我们会把自己的灵魂抵押给它。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the four of us, five if you count the shade, made a pact.  When at least three of us died, we would pledge our souls to it.</Source>
+      <Dest>因此我们四个，五个...如果你把那幽灵也算上，签订了一个契约。当我们之中至少有三个人去世时，我们会把自己的灵魂抵押给它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh relax.  Have some wine.  There's no need to get angry.  On second thought, stay angry.  I'll have your wine.</Source>
+      <Dest>哎呦放松点儿。喝点儿酒。没必要动肝火。你想想，还这么发火。我可就把你的酒给喝了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It mostly revels in the destruction of mortals.  So long as I keep it sated in this regard, it seems rather content playing a secondary role.</Source>
+      <Dest>它在目睹凡人的破灭时最为狂喜。只要我满足它这一嗜好，它似乎会乐意地退居其次。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were trapped inside by some sort of malevolent spirit, screaming at us because we defiled his burial chamber.</Source>
+      <Dest>我们被某种正体不明的恶灵给困在了里面，就因为我们来倒了他的斗，冲着我们嚎个没完。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also remember the Velvet LeChance I was drinking had a bit too much nightshade.  And yes, feel free to keep judging me.</Source>
+      <Dest>我还记得我喝的那瓶勒常斯天鹅绒里搁的夜茄略多了。没错，尽管评判我吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Surprisingly very little.  The Shade in me has a very distinct appetite.  We're very similar in this regard.</Source>
+      <Dest>无需惊讶的是，我体内的阴影有着极其强烈的欲望。在这点上我们俩倒是很相似。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, although it tends to get amplified when you're near the source of their strength.</Source>
+      <Dest>是的，不过当你靠近它们的力量之源时，会有所增大。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I am nothing if not predictable. I'm sort of like a Nord in that sense, except I don't wear wooden shoes. Or was that the Nedes who wore those?</Source>
+      <Dest>是啊，如果不能预言的话，我就什么都不是。从这个角度看，我和诺德人十分相似，除了我不穿木鞋子外。或者是那些穿着木鞋的尼德人？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ultimately, it was Ra'Zhan who decided to try bargaining with the ghost instead.  In exchange for our freedom, we would offer our lives.</Source>
+      <Dest>最后, 还是Ra'Zhan决定还是应该向恶魔讨价还价。作为自由的对价，我们可以用寿命来交换。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ultimately, it was Ra'Zhan who decided to try bargaining with the ghost instead.  In exchange for our freedom, we would offer our lives.</Source>
+      <Dest>最后, 还是Ra'Zhan决定还是应该向恶魔讨价还价。作为自由的对价，我们可以用寿命来交换。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ultimately, it was Ra'Zhan who decided to try bargaining with the ghost instead.  In exchange for our freedom, we would offer our lives.</Source>
+      <Dest>最后, 还是Ra'Zhan决定还是应该向恶魔讨价还价。作为自由的对价，我们可以用寿命来交换。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ultimately, it was Ra'Zhan who decided to try bargaining with the ghost instead.  In exchange for our freedom, we would offer our lives.</Source>
+      <Dest>最后, 还是Ra'Zhan决定还是应该向恶魔讨价还价。作为自由的对价，我们可以用寿命来交换。。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, have you been inside of a Nord ruin?  Or any ruin for that matter?  They're so dull.  Gods protect the sort of person who can raid them sober.</Source>
+      <Dest>好吧，你到过诺德遗迹的里面么？或者到过其他类似风格的遗迹的里面么？里面实在太暗了。愿神保佑那些进去了还能保持清醒有条不紊地倒斗的家伙们。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I was about to start licking the rims of these empty bottles.  You've certainly saved me some embarrassment.</Source>
+      <Dest>我刚想着去舔这些空瓶子。你真是让我免于尴尬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'll let you in on a little secret.  I'm sort a demon.  A dark spirit.  A monster.</Source>
+      <Dest>好吧，我能跟你分享一个小秘密。我是某种恶魔，是黑暗之魂，是一头怪物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then again, we're all wizards, so perhaps we need a court swordsman. Or a jester! In my completely biased opinion, they're usually one and the same.</Source>
+      <Dest>这次又全是法师, 或许我们需要个宫廷剑士. 或者小丑也可以! 窃以为, 他们没什么不同.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there's no need for flattery.  A simple "monster" will do.</Source>
+      <Dest>哦，没有奉承的必要。一个简单不过的“怪物”听起来就很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I do remember Aenar trying to reason with it, and Sarasa trying to stab at the ghostly visage.</Source>
+      <Dest>总之，我记得 Aenar试图解释它的奥秘, 而且萨拉萨试图刺上鬼面</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I do remember Aenar trying to reason with it, and Sarasa trying to stab at the ghostly visage.</Source>
+      <Dest>总之，我记得 Aenar试图解释它的奥秘, 而且萨拉萨试图刺上鬼面</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I do remember Aenar trying to reason with it, and Sarasa trying to stab at the ghostly visage.</Source>
+      <Dest>总之，我记得 Aenar试图解释它的奥秘, 而且萨拉萨试图刺上鬼面</Dest>
+    </String>
+    <String List="2">
+      <Source>I also remember the Velvet LeChance I was drinking had a bit too much nightshade.</Source>
+      <Dest>我还记得我喝的那瓶勒常斯天鹅绒里搁的夜茄略多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also remember the Velvet LeChance I was drinking had a bit too much nightshade.</Source>
+      <Dest>我还记得我喝的那瓶勒常斯天鹅绒里搁的夜茄略多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also remember the Velvet LeChance I was drinking had a bit too much nightshade.</Source>
+      <Dest>我还记得我喝的那瓶勒常斯天鹅绒里搁的夜茄略多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now where was I?  Oh right.  The Shade.  I remember Aenar trying to reason with it, and Sarasa trying to stab at the ghostly visage.</Source>
+      <Dest>现在我在哪？噢对了，阴影中。我记得伊内尔试着和它讲理，而萨拉萨试着去看那个鬼脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nostalgia is kind of like a wine in that way.  Things get better with time.  Except you can't really drink it, no matter what the poets say.</Source>
+      <Dest>乡愁是旅途上的一瓶红酒，藏得越久越入味。但无论诗人如何吟唱，你都饮不下这瓶乡愁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not you, of course.  I asked Vinnius to fetch me a tall glass of firebrand wine, and this is decidedly shorter than what I had envisioned.</Source>
+      <Dest>当然不是你了。我让威恩斯去给我拿喝火牌葡萄酒的高脚杯，但是这杯子明显比我预期的要矮一些。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were adventurers of sorts, raiding tombs for treasure and enchantments.  Of course, one day, we raided the wrong tomb.</Source>
+      <Dest>我们经历了各种各样的冒险，为了魔力和财宝去盗掘古墓。当然，有那么一天，我们挖错墓了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your appetite, has your wine tasting ability improved?</Source>
+      <Dest>鉴于你的胃口, 你品酒能力提高了吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your appetite, has your wine tasting ability improved?</Source>
+      <Dest>鉴于你的胃口, 你品酒能力提高了吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your appetite, has your wine tasting ability improved?</Source>
+      <Dest>鉴于你的胃口, 你品酒能力提高了吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Given your appetite, has your wine tasting ability improved?</Source>
+      <Dest>鉴于你的胃口, 你品酒能力提高了吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you get all these exotic wines?</Source>
+      <Dest>你从哪儿搞来这些异国酒的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you get all these exotic wines?</Source>
+      <Dest>你从哪儿搞来这些异国酒的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you get all these exotic wines?</Source>
+      <Dest>你从哪儿搞来这些异国酒的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you get all these exotic wines?</Source>
+      <Dest>你从哪儿搞来这些异国酒的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine? That swill isn't fit for pigs.</Source>
+      <Dest>Argonian Bloodwine? That swill isn't fit for pigs.</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine? That swill isn't fit for pigs.</Source>
+      <Dest>Argonian Bloodwine? That swill isn't fit for pigs.</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine? That swill isn't fit for pigs.</Source>
+      <Dest>Argonian Bloodwine? That swill isn't fit for pigs.</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine? That swill isn't fit for pigs.</Source>
+      <Dest>Argonian Bloodwine? That swill isn't fit for pigs.</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine? That swill isn't fit for pigs.</Source>
+      <Dest>Argonian Bloodwine? That swill isn't fit for pigs.</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine.  I know it well.  It's delicious.</Source>
+      <Dest>亚龙人血酒。我当然知道。十分好喝。</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine.  I know it well.  It's delicious.</Source>
+      <Dest>亚龙人血酒。我当然知道。十分好喝。</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine.  I know it well.  It's delicious.</Source>
+      <Dest>亚龙人血酒。我当然知道。十分好喝。</Dest>
+    </String>
+    <String List="0">
+      <Source>Argonian Bloodwine.  I know it well.  It's delicious.</Source>
+      <Dest>亚龙人血酒。我当然知道。十分好喝。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it really came from Black Marsh, they'd just call it bloodwine.</Source>
+      <Dest>如果这真的是来自于黑沼泽省，那么他们就把它叫做亚龙人红酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it really came from Black Marsh, they'd just call it bloodwine.</Source>
+      <Dest>如果这真的是来自于黑沼泽省，那么他们就把它叫做亚龙人红酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it really came from Black Marsh, they'd just call it bloodwine.</Source>
+      <Dest>如果这真的是来自于黑沼泽省，那么他们就把它叫做亚龙人红酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gods forbid you ate something.</Source>
+      <Dest>神禁止你吃任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gods forbid you ate something.</Source>
+      <Dest>神禁止你吃任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which wine do you favor best?</Source>
+      <Dest>你最喜欢什么酒?</Dest>
+    </String>
+    <String List="0">
+      <Source>Which wine do you favor best?</Source>
+      <Dest>你最喜欢什么酒?</Dest>
+    </String>
+    <String List="0">
+      <Source>Which wine do you favor best?</Source>
+      <Dest>你最喜欢什么酒?</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nelos says we can have a wine cellar, so I've been doing some research and keeping a list.  </Source>
+      <Dest>纳洛斯说我们可以使用一个酒窖, 所以我做了一下试验并留下一些记录.  </Dest>
+    </String>
+    <String List="2">
+      <Source>Let's see, there's foxglove nectar..intriguing, bergamot seeds...more intriguing, and goldenrod pods, which is just disgusting.</Source>
+      <Dest>让我们来看看，这儿有foxglove nectar...有趣，bergamot seeds...更有趣了，以及goldenrod pods，哦这玩意挺恶心的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's see, there's foxglove nectar..intriguing, bergamot seeds...more intriguing, and goldenrod pods, which is just disgusting.</Source>
+      <Dest>让我们来看看，这儿有foxglove nectar...有趣，bergamot seeds...更有趣了，以及goldenrod pods，哦这玩意挺恶心的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's see, there's foxglove nectar..intriguing, bergamot seeds...more intriguing, and goldenrod pods, which is just disgusting.</Source>
+      <Dest>让我们来看看，这儿有foxglove nectar...有趣，bergamot seeds...更有趣了，以及goldenrod pods，哦这玩意挺恶心的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why yes.  While I still don't sniff wines, I've gotten better at identifying them by the smell.  After I've drank them, of course.</Source>
+      <Dest>奥好吧。虽然我依然对葡萄酒嗤之以鼻。我已经能更好地通过气味来识别他们。当我喝了他们以后，这点毋庸置疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, that empty bottle by my foot was an The bottle in the corner was a vintage Julianos Firebelly.  </Source>
+      <Dest>比如，我脚边的空瓶子是一个【此处怀疑原文漏词】。墙角那里的瓶子里装着时候正好的Julianos Firebelly。</Dest>
+    </String>
+    <String List="2">
+      <Source>And...and I'll charge you with murder.  For killing everyone's good time.</Source>
+      <Dest>而且……我还要告你谋杀。你谋杀了每个人的好心情！</Dest>
+    </String>
+    <String List="2">
+      <Source>With pleasure, Guildmaster, let me just get my things and...oh...I don't have any things. Okay, let's go.</Source>
+      <Dest>乐意效劳，会长，让我收拾下我的东西然后…噢…我没有什么东西。OK，我们上路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'm also partial to being drunk, so I guess like them all.</Source>
+      <Dest>当我依然偏爱喝酒，所以我想喜欢它们所有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although, I will say my current favorite is this lovely Argonian bloodwine Vinnius had shipped in from...we'll say Black Marsh.  </Source>
+      <Dest>然而，我会说我目前最喜欢的是，威恩斯从 …… 我们称之为黑沼泽省运来的，美味的亚龙人血酒 。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe I'm just drunk.  My speech does tend to waver after the 23rd bottle. </Source>
+      <Dest>或者也许我只是喝醉了，第23瓶之后我说的话确实往往会动摇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't really need to eat, given what I am.  In fact, I don't need to drink either.  I just want to.</Source>
+      <Dest>我其实不需要吃东西。事实上，连喝水都不需要。我只是想这么干罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Probably not.  Which is really a shame if you're a pig.</Source>
+      <Dest>可能不是。不过如果你是头猪的话，那真遗憾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and the funny thing is I hadn't really tasted it until the tenth bottle.  Too much gulping, not enough sipping.  </Source>
+      <Dest>是的,有趣的是我还没有尝过,直到第十瓶。都是鲸吞海饮，没有细细品尝。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Eight Sinmir, can't you take a joke?  Relax, have a drink.  I've already had six.</Source>
+      <Dest>辛米尔，看在八圣灵的份儿上你就不能讲个笑话么？放轻松，来喝一杯~我已经有半打了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And this...this appears to be a fork.  I'm not sure how that got there.</Source>
+      <Dest>这……这似乎又是个分叉口。我不知道该怎么到那里去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you saying this province is only for the ugly and sober?  But then you'd be its only citizen.</Source>
+      <Dest>你的意思是说这个省份的人非丑即二？要是这样你估计是这里唯一的公民了。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, the bloodwine is made of foxglove nectar..intriguing, bergamot seeds...more intriguing, and goldenrod pods, which is just disgusting.</Source>
+      <Dest>比如说，制作血酒的材料有，毛地黄花蜜……真有趣，香柠檬籽……更有趣了，还有黄花荚，呃，这可有点儿恶心了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh and look...it also lets you breathe underwater!  How fun.</Source>
+      <Dest>哦看看……它还可以让你在水下呼吸！多有趣啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh and look...it also lets you breathe underwater!  How fun.</Source>
+      <Dest>哦看看……它还可以让你在水下呼吸！多有趣啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh and look...it also lets you breathe underwater!  How fun.</Source>
+      <Dest>哦看看……它还可以让你在水下呼吸！多有趣啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh and look...it also lets you breathe underwater!  How fun.</Source>
+      <Dest>哦看看……它还可以让你在水下呼吸！多有趣啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you don't like the wine, you can still appreciate the alchemy of its ingredients.</Source>
+      <Dest>但即使你不喜欢那酒，你也不妨鉴赏一下它那精挑细选的原料搭配。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry Sinmir, but I'm drunk and I don't care what you have to say.</Source>
+      <Dest>我很抱歉辛米尔，但我醉了，我不在乎你说什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, if you're drinking me, then you won't mind if I drink your wine.</Source>
+      <Dest>恩哼，如果你喝了我的酒，那你肯定也不会介意我喝你的酒吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have to remember to slow down to savor the ingredients.  I've also decided to keep a list of the flavors I've tasted.</Source>
+      <Dest>我记住了以后要放慢节奏去品尝各种成分，我还下定决心要做一份我已经尝过的味道的名单。</Dest>
+    </String>
+    <String List="2">
+      <Source>Iria, perhaps it's the wine talking...again, but I think your robe smells of corpses.</Source>
+      <Dest>伊里亚,也许又是本月品酒会吧……不过我认为你的长袍上有一股尸体的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Apparently what it is fit for is fashionable High Elves who enjoy an exotic wine as much as a vintage.</Source>
+      <Dest>更合适的显然应该是像【a vintage】一样懂得享受外国红酒的时髦高精灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, not right now. Vinnius has secured a vintage red wine from Stros M'Kai that I've been dying to try.</Source>
+      <Dest>哦，不是现在。威恩斯搞了瓶斯图尔斯．迈凯出产的红葡萄酒。我想尝尝呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right now I'm drinking a lovely Argonian bloodwine Vinnius had shipped in from...we'll say Black Marsh.  </Source>
+      <Dest>现在我正享受的这美味的亚龙人血酒，是威恩斯从……说是从黑沼泽省运来的。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if I'm pronouncing that right.  These Nords with their extra consonants.  </Source>
+      <Dest>我也不知道自己的发音对不对。这些诺德人说话都带着他们额外的辅音。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Or you can just fetch the ingredients, and I'll find someone here who can brew it.   </Source>
+      <Dest>或者你可以直接把材料拿来，我会找人酿造。</Dest>
+    </String>
+    <String List="2">
+      <Source>I just can't get enough of this Argonian bloodwine Vinnius had shipped in from...we'll say Black Marsh.  </Source>
+      <Dest>我还是不能得到更多的这些威恩斯从……呃，黑沼泽省运来的亚龙人血酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

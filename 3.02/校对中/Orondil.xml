@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>We can do this the easy way, or the hard way.  Which is going to be?</Source>
+      <Dest>我们可以走这条容易的路，或者那条难点的路。选哪一条呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>We can do this the easy way, or the hard way.  Which is going to be?</Source>
+      <Dest>我们可以走这条容易的路，或者那条难点的路。选哪一条呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you adopt all their values? Where do you draw the line?</Source>
+      <Dest>你接受他们的全部价值观吗？你的底线在哪里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you adopt all their values? Where do you draw the line?</Source>
+      <Dest>你接受他们的全部价值观吗？你的底线在哪里？</Dest>
+    </String>
+    <String List="0">
+      <Source>I am need of the blessing of one who embodies Julianos.</Source>
+      <Dest>我需要凝聚了Julianos的人的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am need of the blessing of one who embodies Julianos.</Source>
+      <Dest>我需要凝聚了Julianos的人的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>I guess all that's left to do is find a quill.</Source>
+      <Dest>我想现在就差去找个鹅毛笔了.</Dest>
+    </String>
+    <String List="0">
+      <Source>Except Lorkhan did not survive the making of the world.</Source>
+      <Dest>除非洛克汗没有在创造世界的过程中活下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except Lorkhan did not survive the making of the world.</Source>
+      <Dest>除非洛克汗没有在创造世界的过程中活下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except Lorkhan did not survive the making of the world.</Source>
+      <Dest>除非洛克汗没有在创造世界的过程中活下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Right. Just like you didn't seek to deprive them of Talos worship.</Source>
+      <Dest>没错，就像你不会去剥夺他们对塔洛斯的信仰一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Right. Just like you didn't seek to deprive them of Talos worship.</Source>
+      <Dest>没错，就像你不会去剥夺他们对塔洛斯的信仰一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>The priests are dedicated, but I seek those who carry the Divine spirit.</Source>
+      <Dest>牧师是专用的，但是我正在寻找那些具备迪万精神的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The priests are dedicated, but I seek those who carry the Divine spirit.</Source>
+      <Dest>牧师是专用的，但是我正在寻找那些具备迪万精神的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it's a good look for you. Much better than your typical Justiciar robe.</Source>
+      <Dest>不，你现在看起来很好，这比你平时穿的仲裁者长袍好看多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it's a good look for you. Much better than your typical Justiciar robe.</Source>
+      <Dest>不，你现在看起来很好，这比你平时穿的仲裁者长袍好看多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it's a good look for you. Much better than your typical Justiciar robe.</Source>
+      <Dest>不，你现在看起来很好，这比你平时穿的仲裁者长袍好看多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Thalmor left you to die.  You should defect.</Source>
+      <Dest>梭默人不管你的死活，你真应该叛离他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. Let's go.</Source>
+      <Dest>好，我们走吧。.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's arrogant to take facts and make false implications that suit your ideals.</Source>
+      <Dest>以真实和虚假来衡量你的理想是很傲慢的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be they just don't like you.</Source>
+      <Dest>那只能说他们跟你不同。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be they just don't like you.</Source>
+      <Dest>那只能说他们跟你不同。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be they just don't like you.</Source>
+      <Dest>那只能说他们跟你不同。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be they just don't like you.</Source>
+      <Dest>那只能说他们跟你不同。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your wisdom is laudable, and Julianos recognizes you as his true priest.</Source>
+      <Dest>你知识渊博令人称赞，因此尤里安诺思也认同你作为他忠实的祭司信徒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your wisdom is laudable, and Julianos recognizes you as his true priest.</Source>
+      <Dest>你知识渊博令人称赞，因此尤里安诺思也认同你作为他忠实的祭司信徒。</Dest>
+    </String>
+    <String List="0">
+      <Source>The only fact that should concern you is the power I wield.</Source>
+      <Dest>你唯一应该担心的是我现在驾驭的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Stormcloaks are here! Run for your life!</Source>
+      <Dest>风暴斗篷在这里！逃命吧！</Dest>
+    </String>
+    <String List="0">
+      <Source>Sometimes when you talk, it says words that make no sense.</Source>
+      <Dest>有时候当你说话时，它会说点没意义的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sometimes when you talk, it says words that make no sense.</Source>
+      <Dest>有时候当你说话时，它会说点没意义的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think wearing fur is going to change anyone's opinion about the Thalmor.</Source>
+      <Dest>我不认为身着毛皮就会改变一个人对 梭默的立场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think wearing fur is going to change anyone's opinion about the Thalmor.</Source>
+      <Dest>我不认为身着毛皮就会改变一个人对 梭默的立场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, the applications of torture are quite limitless.</Source>
+      <Dest>我不知道，可能的曲解含义多得数不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, the applications of torture are quite limitless.</Source>
+      <Dest>我不知道，可能的曲解含义多得数不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, the applications of torture are quite limitless.</Source>
+      <Dest>我不知道，可能的曲解含义多得数不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right. I will find someone who actually embodies the spirit of wisdom.</Source>
+      <Dest>你说得对。我要找一个真正的智慧灵魂的化身。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right. I will find someone who actually embodies the spirit of wisdom.</Source>
+      <Dest>你说得对。我要找一个真正的智慧灵魂的化身。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it you want from me?</Source>
+      <Dest>你想从我这儿得到什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if I told you I was a Stormcloak?</Source>
+      <Dest>如果我告诉你我是个风暴斗篷呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if I told you I was a Stormcloak?</Source>
+      <Dest>如果我告诉你我是个风暴斗篷呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>So it's not that they don't like you.  You're just completely useless.</Source>
+      <Dest>所以不是怪人家不喜欢你。而是你实在是太没用了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet it is not a Mer, but a Man who was chosen as the Ninth Divine.</Source>
+      <Dest>然而被选为第九圣灵的却不是一个【精灵Mer】，而是一个凡人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet it is not a Mer, but a Man who was chosen as the Ninth Divine.</Source>
+      <Dest>然而被选为第九圣灵的却不是一个【精灵Mer】，而是一个凡人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, no deal.</Source>
+      <Dest>抱歉，没门儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nor does it disprove the potential for Daedric mischief.</Source>
+      <Dest>也不能反驳一个魔族带来的灾害潜力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not everything is as rudimentary as you make it out to be.  We all have our roles to play, mine simply has not been made evident yet.</Source>
+      <Dest>不是所有事都和你想的那么简单。每个人都扮演着一个角色，我只是还没登台亮相罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rule of the Aldmeri Dominion is not equitable to slavery.  The Thalmor do not intend to deprive them of their basic freedoms.</Source>
+      <Dest>先祖神洲的统治不等于奴役。梭默并不打算剥夺他们基本的自由。</Dest>
+    </String>
+    <String List="2">
+      <Source>To conflate a hairstyle with committing blasphemy against our creators is a slippery slope indeed.</Source>
+      <Dest>把一种发型跟亵渎我们的神明联系起来真是扯得没边儿了。</Dest>
+    </String>
+    <String List="2">
+      <Source>To conflate a hairstyle with committing blasphemy against our creators is a slippery slope indeed.</Source>
+      <Dest>把一种发型跟亵渎我们的神明联系起来真是扯得没边儿了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent.  I'm ready when you are.</Source>
+      <Dest>好极了。在你准备好时我也会完成准备的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, yes, good luck with that.</Source>
+      <Dest>是的,是的,祝你好运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that...irony? I am not sure what you mean by...application, but if it is information you seek, perhaps you are not as perceptive as I imagined.</Source>
+      <Dest>这是……讽刺？我不太确定你说的……申请，但是如果这就是你要找的信息，那么也许你不像我想象的那样有悟性。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that so? That would explain the sudden and unannounced departure of my colleagues.  Although why they would neglect to inform me is quite curious.</Source>
+      <Dest>真的是这样么？这会解释我同事这如此突然的离去。虽然我因为他们为什么无视了我而感到好奇。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is therefore an undeniable fact that of the two groups of Ehlnofey it is the Aldmer who bear the most resemblance to the Gods.</Source>
+      <Dest>因此，对众神来说，艾尔诺菲和古精灵是最为相似的两个种族，这是个不可否认的事实。</Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary, it is quite easy to manufacture a God.  It simply requires a hero, a quill, and a legion of devout ignoramuses.</Source>
+      <Dest>正相反，捏造一名神很容易，你只需要一个英雄，一根羽毛笔，还有一支虔诚无知的军队。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unless, of course, my presence itself was deduced to be a detriment, but I find that highly improbable.</Source>
+      <Dest>当然啦，除非是，我的出现本身就被认为是一种威胁，不过我觉得根本不可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may have already divined the multitude of uses a Thalmor diplomat may offer, as well as the limitations of the alternative.</Source>
+      <Dest>你可能已经理解一个梭默外交官所起到的作用的多样性，正如选项的局限性一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Thalmor indeed left someone to be captured, do you think it would be an agent who was privy to sensitive information?</Source>
+      <Dest>如果梭默确实留了一个人没有抓，那你觉得那个人会不会是他们留下来刺探情报的间谍呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Just because we are willing to value one's cultural heritage does not mean we will brook acts of heresy.</Source>
+      <Dest>只是由于我们愿意评估一个人的文化传统并不意味着我们能够容忍异教的行为。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just because we are willing to value one's cultural heritage does not mean we will brook acts of heresy.</Source>
+      <Dest>只是由于我们愿意评估一个人的文化传统并不意味着我们能够容忍异教的行为。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Thalmor do not let such petty differences interfere with the mission at hand.</Source>
+      <Dest>梭默不会让这种小差别影响到即将到来的任务的。</Dest>
+    </String>
+    <String List="2">
+      <Source>One does not look at a cat and neglect its similarity to Khajiit, nor does one gaze upon a troll and not turn his thoughts to Man.</Source>
+      <Dest>没有人看到了猫咪能忽视它和虎人的相似性，也没人能在看到巨魔之后不把它和人类的狡猾相提并论。</Dest>
+    </String>
+    <String List="2">
+      <Source>My responsibilities are tailored to my gift of speech.</Source>
+      <Dest>我的责任和我的语言才能完美相衬。</Dest>
+    </String>
+    <String List="2">
+      <Source>There will be many cultural attributes that will be retained when the Aldmeri rule Tamriel, but ignorance will not be one of them.</Source>
+      <Dest>在先祖神州统治泰姆瑞尔大陆期间，许多文化特点都保留着，但是“无知”不在其中。</Dest>
+    </String>
+    <String List="2">
+      <Source>By acknowledging their culture has some inherent worth, we imply that we do not seek to deprive them of it.</Source>
+      <Dest>承认他们的文化具有一定内在的价值，我们表示没打算剥夺他们的文化。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no need for threats.  Besides, it seems you are not in a position to injure me, if you truly seek the Divines favor.</Source>
+      <Dest>无需威胁。此外，似乎你还不够格来伤害我，如果你真的在寻求圣灵的恩宠的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all you require is my blessing, then I see no harm in doing so.  Nevertheless, I would be remiss if I did not request something in return.</Source>
+      <Dest>如果你想要的只是我的祝福，那倒也无妨。不过呢，我还是得向你要求一些“报偿”。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all you require is my blessing, then I see no harm in doing so.  Nevertheless, I would be remiss if I did not request something in return.</Source>
+      <Dest>如果你想要的只是我的祝福，那倒也无妨。不过呢，我还是得向你要求一些“报偿”。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all you require is my blessing, then I see no harm in doing so.  Nevertheless, I would be remiss if I did not request something in return.</Source>
+      <Dest>如果你想要的只是我的祝福，那倒也无妨。不过呢，我还是得向你要求一些“报偿”。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all you require is my blessing, then I see no harm in doing so.  Nevertheless, I would be remiss if I did not request something in return.</Source>
+      <Dest>如果你想要的只是我的祝福，那倒也无妨。不过呢，我还是得向你要求一些“报偿”。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am Orondil, a Thalmor Justiciar and advisor working on behalf of the Aldmeri Dominion.</Source>
+      <Dest>我叫欧润德，我代表先祖神洲的统治，从事梭默最高司法官以及顾问的工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it is a blessing you desire, then you are in the wrong building.  Such divinations are performed by priests at the altar.</Source>
+      <Dest>如果它是一个你渴望的祝福。那你就大错特错了。占卜是由祭坛的祭司执行的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I work solely in the art of negotiation and interpreting the terms of the White Gold Concordant for any Imperials that forget their station.</Source>
+      <Dest>我独自负责谈判工作，同时负责给任何忘记他们处境的帝国人解释白金条约的条款。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Man and Mer are both descendants of Ehlnofey, who descended from the Aedra, yet the Ehlnofey were far from monolithic.</Source>
+      <Dest>人类和精灵都是艾尔诺菲和爱德拉的后裔，但是艾尔诺菲远远算不上一个完整的个体</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, you are implying that to come first is not tantamount to finishing last.  This is not an argument I am unfamiliar with.</Source>
+      <Dest>啊，你是不是暗示着第一个来并不等于最后一个完成，讨论这种东西我就不熟悉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you not agree that the beast races are cousins of the animals of the wild?</Source>
+      <Dest>难道你不觉得那些类兽种族和野生动物是表亲么？</Dest>
+    </String>
+    <String List="2">
+      <Source>While Lorkahn did not survive the creation, a God is not something so easily disposed.  Even his echo is enough to perpetuate instability.</Source>
+      <Dest>然而洛克汗没有拯救这个生物，神不是那么容易取悦的。甚至他的回应也是向来模糊不定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My existence alone is a valuable commodity simply by virtue of its juxtaposition.</Source>
+      <Dest>我的存在与它的美德并称为一样宝贵的商品。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are, then it is obvious by your methodology that you are a person who values reason and diplomacy.</Source>
+      <Dest>如果你是的话，那么根据你用的方法来判断，很明显地你是一个重视理性和外交的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not this again.  Must you reduce this argument to such nonsense?  A man cannot become a God no more than a flower can become a shoe.</Source>
+      <Dest>别再来一次了。你一定要简化对这种废话的争辩么？一个男人不能成为神就像一朵花可以变成一只鞋子。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are far too many of my colleagues who opt to use a brute force solution rather than employ a more efficient diplomatic one.  </Source>
+      <Dest>我的太多太多的同事，都偏向蛮力解决问题，而不是更有效的外交手段.  </Dest>
+    </String>
+    <String List="2">
+      <Source>The burden should not be on the educated to diminish their wit, but rather on the indigent to become the educated.</Source>
+      <Dest>【所谓的责任不该是用教育让他们变蠢，而应该让他们穷得没钱受教育。】</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I choose to wear this garment and fashion my hair as such in order to send a message to denizens of this land.</Source>
+      <Dest>无论如何，我选择穿这件衣服，还把我的头发捯饬成这样，是为了给这片土地上的住民传达一个信息。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.  You have my terms, should you change your mind.</Source>
+      <Dest>很好，我已经向你摊牌了，你是不是也该改改主意？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, flattery.  A tool of both the unctuous and the earnest.  The question is, which are you? Or to put it more simply, what do you really want?</Source>
+      <Dest>啊，奉承。最虚情假意而又最真诚的工具。但问题是，你的真心又是如何呢？或者直接点说，你到底想要什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not so trivial an act.  It is a symbol, the objective of which is to show Skyrim we Thalmor are not intractable zealots.  </Source>
+      <Dest>这次的行动并不寻常。这是个标志，目的是告知整个天际省，我们梭默并不是顽固的狂热者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you so infantile that you must cling to derision?  The existence of Lorkhan predates the Aedra and the Daedra. </Source>
+      <Dest>你一定要幼稚的出言嘲笑吗？洛克汗的存在可是在神族和魔族以前就出现了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  It is without question that I possess an intellect far superior to any mere mortal of the cloth.</Source>
+      <Dest>我懂了。毫无疑问，我的智力远胜凡人的任何一块儿抹布。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  It is without question that I possess an intellect far superior to any mere mortal of the cloth.</Source>
+      <Dest>我懂了。毫无疑问，我的智力远胜凡人的任何一块儿抹布。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, so you seek to use my hubris against me.  Well played.  However, there is no need for such mental sorcery.</Source>
+      <Dest>啊，所以你要用我的傲慢来对抗我。干得漂亮。然而，不需要这样的精神魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>How childish. When your argument lacks conviction, use brute force.  It is the adult version of a tantrum.</Source>
+      <Dest>真是孩子气。当你的观点缺少说服力，单单只会使用蛮力的时候。就是个成人版的爱耍性子的小鬼头嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would like to be escorted to the Thalmor Embassy.  Surely, in your company, the ruffians outside will not make trouble.</Source>
+      <Dest>我想让你陪我去梭默的大使馆.  真的，有你陪伴那些残暴的恶棍都不是事儿.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if your desire is to simply perform acts of barbarism, then you will turn me into a martyr before you can make me a symbol of your triumph.</Source>
+      <Dest>现在, 如果你的欲望驱使你做出野蛮行径的话, 你会在把我变成你成功的符号之前先把我变成一名烈士.</Dest>
+    </String>
+    <String List="2">
+      <Source>Are the Aedra not the embodiment of perfection?  Is it not our proximity to that ideal that determines worth?</Source>
+      <Dest>圣灵并不完美？那么我们所追求的理想是否还有意义？</Dest>
+    </String>
+    <String List="0">
+      <Source>You have no idea what's going on out there, do you.</Source>
+      <Dest>你也不清楚外面发生了什么对吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have no idea what's going on out there, do you.</Source>
+      <Dest>你也不清楚外面发生了什么对吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have no idea what's going on out there, do you.</Source>
+      <Dest>你也不清楚外面发生了什么对吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your role similar to Ancano in Winterhold?</Source>
+      <Dest>你的角色跟冬堡的安卡诺差不多吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your role similar to Ancano in Winterhold?</Source>
+      <Dest>你的角色跟冬堡的安卡诺差不多吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Normally I'd say no, but somehow you Thalmor manage.</Source>
+      <Dest>通常我会说不，但不知为何你梭默说服了我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Understood. I thought for a second I would have to kill another traitor.</Source>
+      <Dest>明白了。我想了一下我还是不得不把另一个叛徒也杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Understood. I thought for a second I would have to kill another traitor.</Source>
+      <Dest>明白了。我想了一下我还是不得不把另一个叛徒也杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Understood. I thought for a second I would have to kill another traitor.</Source>
+      <Dest>明白了。我想了一下我还是不得不把另一个叛徒也杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Understood. I thought for a second I would have to kill another traitor.</Source>
+      <Dest>明白了。我想了一下我还是不得不把另一个叛徒也杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place looks abandoned.</Source>
+      <Dest>这个地方看起来是废弃的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, that was a lie. There are no Stormcloaks.</Source>
+      <Dest>事实上是个谎话。没有风暴斗篷。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, that was a lie. There are no Stormcloaks.</Source>
+      <Dest>事实上是个谎话。没有风暴斗篷。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, that was a lie. There are no Stormcloaks.</Source>
+      <Dest>事实上是个谎话。没有风暴斗篷。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, that was a lie. There are no Stormcloaks.</Source>
+      <Dest>事实上是个谎话。没有风暴斗篷。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, that was a lie. There are no Stormcloaks.</Source>
+      <Dest>事实上是个谎话。没有风暴斗篷。</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the nature of the dispute?</Source>
+      <Dest>这纠纷的本质是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Daedric tricks sound like a convoluted excuse to deny Talos' legitimacy.</Source>
+      <Dest>把魔族的把戏作为否认塔洛斯合法性的借口听上去令人费解。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or it may be a sign of weakness.</Source>
+      <Dest>或者，这是一种软弱的表现。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or it may be a sign of weakness.</Source>
+      <Dest>或者，这是一种软弱的表现。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or it may be a sign of weakness.</Source>
+      <Dest>或者，这是一种软弱的表现。</Dest>
+    </String>
+    <String List="0">
+      <Source>You wear odd clothes for a Thalmor.</Source>
+      <Dest>你这个梭默穿的衣服真奇怪。</Dest>
+    </String>
+    <String List="0">
+      <Source>You wear odd clothes for a Thalmor.</Source>
+      <Dest>你这个梭默穿的衣服真奇怪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>See. It's that. Even your attempts at diplomacy sound arrogant.</Source>
+      <Dest>看见了吧，就是那样。就连你在外交上的尝试看起来都是傲慢的表现。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's little wonder they left someone so unimposing.</Source>
+      <Dest>难怪他们会离开这么没威信的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's little wonder they left someone so unimposing.</Source>
+      <Dest>难怪他们会离开这么没威信的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh no, I don't care about the politics.  I just thought you looked silly.</Source>
+      <Dest>喔不，我才不关心政治。我只是觉得你看起来有点二.</Dest>
+    </String>
+    <String List="0">
+      <Source>You said "Altmer" wrong.  How embarrassing not to know your own race.</Source>
+      <Dest>你连“高精灵”都说错了。多丢人呐连自己的种族名都搞不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>You said "Altmer" wrong.  How embarrassing not to know your own race.</Source>
+      <Dest>你连“高精灵”都说错了。多丢人呐连自己的种族名都搞不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like the prisoner wasn't the only one soiled that day.</Source>
+      <Dest>听起来那天那犯人并不是被污染的唯一一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like the prisoner wasn't the only one soiled that day.</Source>
+      <Dest>听起来那天那犯人并不是被污染的唯一一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like the prisoner wasn't the only one soiled that day.</Source>
+      <Dest>听起来那天那犯人并不是被污染的唯一一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like the prisoner wasn't the only one soiled that day.</Source>
+      <Dest>听起来那天那犯人并不是被污染的唯一一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>We are the direct descendants of Ehlnofey and superior by birthright.</Source>
+      <Dest>我们是艾尔诺菲的直系血亲，生下来便是高人一等。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are arguing semantics.  Most historians agree that we are the direct descendants of the first children, and vary little in appearance.</Source>
+      <Dest>你在咬文嚼字。大多数历史学家都认为我们是第一个孩子的直系后代，并在外貌方面没有什么变化。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it arrogance to state facts?</Source>
+      <Dest>這種陳述事實的口氣不會太自負了嗎？</Dest>
+    </String>
+    <String List="2">
+      <Source>The wording must be so that it precludes all forms of sedition, even those that are not immediately apparent.</Source>
+      <Dest>而措辞应当严厉，以杜绝一切形式的动乱，哪怕是潜在着的动乱风险。</Dest>
+    </String>
+    <String List="2">
+      <Source>These have always been effective tools in rousing negative sentiment, because they are often misinterpreted by those in power.</Source>
+      <Dest>这些一直都是引发负面情绪的有效工具，因为它们总是被权力拥有者误解。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Jarl, the Housecarls, The Empire, and even the Bards to some extent influence how the city is ruled.</Source>
+      <Dest>领主, 侍卫, 帝国, 甚至是一名吟遊诗人都在一定程度上影响了一个城市的统治方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of them are too arrogant to understand when they are being openly mocked.  That is where I come in.</Source>
+      <Dest>他们中的很多人太过傲慢以至于只有在被公然嘲笑的时候才明白。这就是我所能起作用的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>I too found it odd that after traveling to the Embassy to settle a dispute, I returned to the headquarters to find it completely deserted.</Source>
+      <Dest>我也觉得很奇怪。当我到大使馆解决争端后，回到总部时却发现这里早就被人遗弃了。</Dest>
+    </String>
+    <String List="2">
+      <Source>How may I be of service?</Source>
+      <Dest>我能帮您什么忙吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that is certainly a relief.  Ulfric and his band of merry men do not seem like the negotiating type.</Source>
+      <Dest>很好，这的确是一种解脱。乌佛瑞克和他那群只会嬉戏作乐的人并不是那种能谈判的类型。</Dest>
+    </String>
+    <String List="2">
+      <Source>At the very minimum it would allow their poor grammar and excessive use of monosyllabic verbs to be filtered through my more dexterous tongue.</Source>
+      <Dest>至少这还允许我用更为灵巧的舌头，过滤掉他们差劲的语法和简短动词的频繁使用。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are most perceptive.  I have styled my appearance in the fashion befitting the citizens of this kingdom.</Source>
+      <Dest>你的观察力真好。我已经为了融入这个王国而特别设计好我的服装了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a shower of crimson, the majority of which seem to guide itself uncannily toward our dignitary and his venerated wife.</Source>
+      <Dest>一切都沐浴在鲜血之中，这似乎是要故意表现给我们的权贵以及他受人尊敬的妻子看的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, to call it "a spray" would do it a disservice.</Source>
+      <Dest>事实上，叫它"喷泉"可能会更合适。</Dest>
+    </String>
+    <String List="2">
+      <Source>The value of my approach is no more evident than in the outcome of the Great War.</Source>
+      <Dest>我这方法的价值不比世界大战的结果更明显。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may imply this is conjecture, but our strict reproductive traditions are proof of their veracity.</Source>
+      <Dest>你可能以为这是猜想，但我们严格的生育传统就是他们真实性的证明。</Dest>
+    </String>
+    <String List="2">
+      <Source>If my methods differ, it is because I believe that an army can topple a kingdom with the mere threat of an invasion.</Source>
+      <Dest>如果我的方法有所不同，那是因为我相信，军队仅靠战争威胁就能击溃一个王国了。</Dest>
+    </String>
+    <String List="2">
+      <Source>For one, I assist with the crafting of decrees to ensure they have the proper authority to be enforced.</Source>
+      <Dest>其中之一，是我帮助编撰了法令以保证正当的权力得以执行。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think she may have even swallowed a healthy portion of the man's blood.</Source>
+      <Dest>我觉着甚至用人血制成的治疗药剂她都会喝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Might it be your denial to see the truth presents itself as my arrogance?  Contemplate that before we speak again.</Source>
+      <Dest>你是否将自己对真相的排斥误当作我的自大？在你再度开口之前最好先想想。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of the lands we controlled were ceded per the terms of the White Gold Concordat and the Treaty of Stros M'Kai.</Source>
+      <Dest>白金条约和斯特鲁斯条约使得很多本应是我们控制的地区被割让了出去。</Dest>
+    </String>
+    <String List="2">
+      <Source>If they have truly left me to die to an impending rebel invasion, it is not only a denouncement of my ideals, but my intentions.</Source>
+      <Dest>如果他们真的打算害我死在这一场即将到来的侵略战争中，那就不仅是对我的理想的侮辱，更是侮辱了我参与这场战争的动机！</Dest>
+    </String>
+    <String List="2">
+      <Source>Moreover, it was the negotiation of an alliance with the Empire and the banishment of Talos worship that ignited this Civil War in the first place.</Source>
+      <Dest>还有，当时和帝国谈和结盟和禁止信奉塔洛斯这两点才是引燃战火的最根本原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>More like the extreme torture followed by a public beheading type.</Source>
+      <Dest>跟严刑拷打紧接着就砍头示众那个节奏差不多。</Dest>
+    </String>
+    <String List="2">
+      <Source>My arguments are not convoluted nor are they excuses.  The influence of a trickster is far more plausible than the divine ascension of Man.</Source>
+      <Dest>我的论点并不复杂也不是借口。一个骗子的影响力远远超于圣灵施与人类的影响。</Dest>
+    </String>
+    <String List="2">
+      <Source>He may be wealthy, but he is by all accounts a scoundrel.  Which is precisely why Elenwen adores him.</Source>
+      <Dest>他或许很有钱，但充其量不过是个有钱的无赖。而这恰恰是Elenwen崇拜他的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I deign to follow the custom of the lesser children, it is simply to acknowledge their worth.  Much like an older sibling encouraging a child.</Source>
+      <Dest>当我屈尊的去顺从这些小鬼的风俗习惯后，很简单就明白了他们的低下价值，就像兄长跟小弟一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am a Thalmor Justiciar. I am an expert in the art of magic, but I do not think it wise to warm my bed with a fireball when a hearth suffices.</Source>
+      <Dest>我是一位梭莫审判者。我还是一位魔法艺术的的专家，但是我不会蠢到有壁炉的时候还会用火球去暖床。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would it not be prudent for the rebels to have a liaison through which they could submit their threats?  </Source>
+      <Dest>对叛军来说让一个联络人穿过去传播他们会屈服于威胁之下的言论是否不太明智？</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems Erikur fancies himself the Jarl. He has even appointed himself his own court wizard.</Source>
+      <Dest>看起来坎里库尔把自己想象成领主了。他甚至任命了自己的宫廷巫师。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not to say I would not relish an opportunity to put my diplomatic skills to the test.</Source>
+      <Dest>这不表明我不愿意在这种小场合中拿出看门本事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I have watched Ahtar perform dozens of executions personally, and have yet to witness such a prolific spray of blood.</Source>
+      <Dest>目前为止我已经看过阿塔执行了数十次死刑，但从未看过一个人喷血喷成这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is my belief that wars can be won with diplomacy, and small acts of reverence for the opposition can increase their willingness to negotiate.</Source>
+      <Dest>因为我认为即使是战争也可以通过外交解决，对对方小小的尊重可以增加他们的谈判的意愿。</Dest>
+    </String>
+    <String List="2">
+      <Source>My role is far less defined, due to the nature of Solitude's politics.</Source>
+      <Dest>因为独孤城的政治性质，我扮演的角色远远不如其名义上那样重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>While the execution went swiftly and the dissident did soil his tunic rather splendidly, this fellow did manage to enact one last measure of revenge.</Source>
+      <Dest>当死刑执行，那名支持者的死还是弄脏了他的长袍，颇壮观的，这就是他所设计的最后一个复仇吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Despite having conquered most of Tamriel, we lacked the soldiers and resources to hold it.</Source>
+      <Dest>尽管已经征服了Tamriel大陆的大部分，我们缺乏的士兵和资源来统治它。</Dest>
+    </String>
+    <String List="2">
+      <Source>An esteemed Aldmeri dignitary had come to watch a Stormcloak sympathizer lose his head, and as he so eloquently put it, "stain his unmentionables."</Source>
+      <Dest>一个受人尊敬的梭默高官来看一个风暴斗篷的支持者被斩首，并且说："为他染上一身鲜红吧！"</Dest>
+    </String>
+    <String List="2">
+      <Source>You are either referring to the rather conspicuous lack of Thalmor, or the copious amount of spiders that now call this place home.</Source>
+      <Dest>你的意思是指这里没什么梭默人，还是说这个地方已经被大量的蜘蛛当成家了。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, blame was directed solely at the executioner.  The dignitary demanded the heads of Ahtar, Captain Aldis, and even General Tullius.</Source>
+      <Dest>在任何事件里，最后背黑锅的都是执行者一人。 The dignitary demanded the 阿塔的脑袋，还有阿尔迪队长，甚至是图留斯将军。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just more nonsense from the Embassy.  I do wish Elenwen would cease inviting that Razelan fellow.</Source>
+      <Dest>只是整个大使馆都废话连篇。我真希望爱琳温不会邀请醉鬼瑞斯兰那家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not let my appearance confuse you, my allegiance to the Thalmor is absolute.</Source>
+      <Dest>D不要让我的外表迷惑你，我对梭默的忠诚毋庸置疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is how diplomacy can be wielded as a weapon.  That is how wars are won without a single casualty.</Source>
+      <Dest>这就是外交是如何充当武器的。这就是兵不血刃的赢取胜利的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end it took nearly three days to quell his rage, and three more to assuage his distraught wife.</Source>
+      <Dest>最后他花了差不多三天的时间来平息自己的愤怒，然后花了三天多的时间来让自己悲痛欲绝的妻子平息下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you have a request?</Source>
+      <Dest>您有什么要求吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>At least I presume that is what he meant by "the clumsy oaf and his idiot superiors."</Source>
+      <Dest>最后我相信他的意思是“呆子和他的笨蛋长官。”</Dest>
+    </String>
+    <String List="2">
+      <Source>A most unfortunate turn of events, I agree.  If you are indeed agreeing with me and not mocking our dignitary.  That would be most uncouth.</Source>
+      <Dest>形式急转直下，我知道。但如果你同意我的想法，就不要再嘲弄我们的地位了。那会显得你很粗野没教养。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you suggesting it is an act of subservience? Surely you jest. We are the original people, the Aldmer of time immemorial.</Source>
+      <Dest>你事说这是一种懦弱的行为吗？你一定是在开玩笑吧。我们从远古时代开始便存在的人们啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Conversely, by taking an auxiliary role in Skyrim, both the Empire and the rebels will be weakened significantly.</Source>
+      <Dest>另一方面，如果任何一方在天际省选择了辅助的地位，不论是帝国或是叛军的实力都会被严重削弱。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Aedra are not the only Gods of the realm.  There are many deities who seek to deceive, from the Daedric Princes to the trickster Lorkhan.</Source>
+      <Dest>神族不是单指这个领域的神。有很多神明试图欺骗人类，从魔族王子到洛克汗这个骗子都是这样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You argument is logical. Altmer are Aedra. Too bad I don't care for religion.</Source>
+      <Dest>你的论点是合乎逻辑的。高精灵就是神族。这坏在我不关心宗教上。</Dest>
+    </String>
+    <String List="0">
+      <Source>You argument is logical. Altmer are Aedra. Too bad I don't care for religion.</Source>
+      <Dest>你的论点是合乎逻辑的。高精灵就是神族。这坏在我不关心宗教上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought they already have an Embassy for that.</Source>
+      <Dest>我以为他们已经为此有了一个大使馆。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I thought they already have an Embassy for that.</Source>
+      <Dest>我以为他们已经为此有了一个大使馆。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I thought they already have an Embassy for that.</Source>
+      <Dest>我以为他们已经为此有了一个大使馆。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I thought they already have an Embassy for that.</Source>
+      <Dest>我以为他们已经为此有了一个大使馆。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news?</Source>
+      <Dest>有什么有趣的消息吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is something the matter?</Source>
+      <Dest>有什么关系么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>How may I be of service?</Source>
+      <Dest>我能帮您什么忙吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>As for myself, I have an urgent meeting with Elenwen I must attend to.</Source>
+      <Dest>至于我自己，我有一个和Elenwen必须参加的紧急会议。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not like the selection at Radiant Raiments.  It is far too expansive a catalog, and allows thieves and rebels to easily disguise their person.</Source>
+      <Dest>我不喜欢锦衣的商品种类。 它的服装清单涵盖太广，让贼和叛军可以轻松地变装。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you doubt their veracity, pray to any shrine when you are sick, and tell me the Divines cannot heal.</Source>
+      <Dest>如果你怀疑他们的真实性，那就在你生病的时候向随便一个祭坛祈祷吧，然后再告诉我圣灵们不能让你恢复健康。</Dest>
+    </String>
+    <String List="2">
+      <Source>His appetite for power is only exceeded by his lust for serving girls.  Of course, only one of those constitutes a character flaw.</Source>
+      <Dest>他对权力的欲望完全超过了他对那些女孩的性欲。当然了，二者都是性格上的缺陷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is the temerity of Man to think he can defy the Gods and make a temple of himself.</Source>
+      <Dest>这个鲁莽的人认为他可以违抗众神，为自己修一座神殿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Elenwen, in her infinite wisdom, chooses not to partake in disputes that are remotely contentious.</Source>
+      <Dest>爱琳温，以她过人的智慧，决定不插手那些毫无意义的争执。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, to fulfill my part of the bargain, I give you the blessing of Julianos.  May his wisdom guide you on your quest.</Source>
+      <Dest>现在，我要完成交易的一部分，我会赐予你尤里安诺思的祝福。愿他的智慧指引你的追求。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not to imply that I do not partake in civilian matters, but only that which involves a dispute.</Source>
+      <Dest>这不是在暗示我将介入平民事务，但那样只意味着加入一场纷争。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello?  Anyone?</Source>
+      <Dest>哈喽？有人在吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Was there something?</Source>
+      <Dest>有没有什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>That depends on your definition of interesting.  I found a riveting tome on the use of magic in the culinary arts, but you look bored already.</Source>
+      <Dest>那取决于你对有趣的定义。我找到一本有趣的书，是关于烹饪艺术中魔法应用的，半死你似乎已经相当累了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is something the matter?</Source>
+      <Dest>出了什么事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Embassy's role is to entertain the Jarls and collect information.  Mostly Elenwen uses its status as a guise to throw fancy parties.</Source>
+      <Dest>大使馆的作用是款待领主们还有收集情报.  大多数Elenwen使用他们的天赋伪装进入梦幻的舞会.</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you have a request?</Source>
+      <Dest>您有什么要求吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>We have arrived.  A pleasant surprise, all things considered.</Source>
+      <Dest>我们已经到了。真是个好惊喜，所有的都考虑到了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,3355 @@
+这个工具碉堡了有木有
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It looks like we can sneak in between the bone chimes. Luckily we adventurers are in good shape! My aunt Natilda could never fit through that.</Source>
+      <Dest>看起来我们可以从骨钟的中间潜进去。非常幸运，我们这些冒险者的体型刚好能做到。我那个Natilda阿姨太肥，估计永远也过不去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord ruins. How long do you think they've stood here?</Source>
+      <Dest>诺德遗迹。你认为它矗立于此多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Spiders. They're a part of nature too, but not the good kind. Especially if they use magic. That's just wrong.</Source>
+      <Dest>蜘蛛。他们是自然中的一部分，但不是好的那种。特别是如果他们使用魔法。这不对的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Suddenly, I don't want to shout anymore.</Source>
+      <Dest>突然我就不再想大喊大叫了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course! Get out the fine dinnerware! Ready your tongue! Prepare to dine on the best meal you've ever tasted!</Source>
+      <Dest>当然！拿出精美的餐具！准备胃口大开吧！这保准是你吃过的最好的一餐！</Dest>
+    </String>
+    <String List="2">
+      <Source>Christer and wife, together again! Well, not yet, but soon. We just have to convince these kidnappers to stop being themselves.</Source>
+      <Dest>Christer和他老婆又在一起了！呃，现在还没，但很快就会了。我们只要说服那些绑架者改邪归正就行。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave!  I love caves!</Source>
+      <Dest>一个山洞！我爱洞穴！</Dest>
+    </String>
+    <String List="2">
+      <Source>Will you look at that! A great view of the sky and all of Whiterun. Try not to run out of air, because this view's breathtaking!</Source>
+      <Dest>看看那个！无垠的天空和整个雪漫城。小心别喘不过气儿，因为这景色就是让人激动到透不过气儿啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Here you go! This is fresh. When our stomachs get grumpy, nature spares no expense!</Source>
+      <Dest>拿着！这是新鲜的。当我们的胃口越来越刁，自然不惜工本！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, I feel much better! Do that again!</Source>
+      <Dest>嘿，我感觉好多了！再来一次！</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger ahead! Lots of slippery ice! Also, vampires!</Source>
+      <Dest>前面很危险！很容易滑倒！而且还有吸血鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>A Dwarven ruin.  I've never seen a Dwarf.  Do you think we'll find one?</Source>
+      <Dest>一个矮人遗迹。我从来没见过一个矮人呢。你感觉我们能找到一个吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a lot of moss. I thought it only grows on the north side of things.</Source>
+      <Dest>这儿的苔藓真多啊。我还以为它是只生长在南方的东西呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such magnificence!  Grab your quills!  Write your steward!  Truly Dibella has blessed this place for all the world to see!  </Source>
+      <Dest>这是何等的荣耀！拿起你的笔！写下你侍奉她的经历！让全世界都看到这片土地确实受到了迪贝拉的祝福！</Dest>
+    </String>
+    <String List="2">
+      <Source>A Nord ruin. Thousands of years old.</Source>
+      <Dest>一座诺德遗迹。可能有上千年的历史了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Old ruins. Nordic, by the looks of it.</Source>
+      <Dest>从外观上能看出来，这是座古代的诺德遗迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave! Onward into the great unknown!</Source>
+      <Dest>一个山洞！大步向前方的未知迈进吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Old stonework. Gold, traps, and bones.</Source>
+      <Dest>古老石雕制品，金子、陷阱和骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Dwarven city.  They're dusty.</Source>
+      <Dest>一个矮人城市。到处是灰啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger ahead.  Dibella give us glory.</Source>
+      <Dest>前面危险。愿迪贝拉之圣光护佑我们。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Golldir's family is anything like mine, there's probably dozens, no, hundreds of Draugr in there. I hope you're ready.</Source>
+      <Dest>如果Golldir的家族和我的族群一样的话，的家族和我的族群一样的话恐怕有几十个，不对是几百个尸鬼在里面。希望你准备好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Legend says Dwarven ruins are haunted. I'd rather not find out.</Source>
+      <Dest>传说矮人废墟闹鬼。我情愿没找到这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I've been here before! There were creepy crawlies everywhere. Normally I like looking at spider webs, but not when there's people in them.</Source>
+      <Dest>哦，我以前来过这里！这里到处都是爬虫类。一般来说我挺喜欢看蜘蛛网的，不过不是有人粘在里面那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven ruins. Old cities, old ghosts.</Source>
+      <Dest>矮人废墟。老城市，老鬼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stop, stop, stop! I think I see danger! No, wait, never mind. Go on ahead.</Source>
+      <Dest>停下停下停下！我好像看见危险了！不，等一下，没事。继续前进。</Dest>
+    </String>
+    <String List="2">
+      <Source>What a spectacular view! There's trees, and animals, and...is that someone swimming naked in the river? I think I'll just enjoy the sky.</Source>
+      <Dest>这风景真是惊艳啊！那些树，动物，还有……是有人在河里裸泳吗？我还是欣赏天空好啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>This mine has a lot of iron. I don't see why these bandits need to kill mammoths too. That's just being greedy.</Source>
+      <Dest>这个洞有那么多的铁矿。真搞不懂这些强盗干嘛还杀猛犸象赚钱。太贪心了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Darkness up ahead. Let's show them the whites of our teeth! Let's smile our way to victory!</Source>
+      <Dest>黑暗横在前方。让我们亮出雪白的牙齿！微笑着走上胜利之路！</Dest>
+    </String>
+    <String List="2">
+      <Source>Crawlies! There must be a lot if they made this web! Bite into your grass pods, adventurers! There's no poison we can't resist!</Source>
+      <Dest>小爬虫！这肯定要有很多这玩意才能织成这样的网！【含着你们的草药】冒险者们！没有什么我们扛不住的毒！</Dest>
+    </String>
+    <String List="2">
+      <Source>This place is wonderful.  I dare not blink!</Source>
+      <Dest>这地方真赞。我都不敢眨眼了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven ruins are big and dangerous.  And there's not much nature. But if we search high and low, far and wide, Dibella will reward us.</Source>
+      <Dest>矮人遗迹都是宏伟而危险的。也没什么自然的成分。但只要我们上下求索，放眼搜寻，迪贝拉 会给我们奖赏的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a lot of scaffolding. It's really impressive. And really brown.</Source>
+      <Dest>那是一堆绞刑架。挺让人印象深刻的。但也真够压抑的。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Nord ruin!  Put on your adventure helms, it's time to go exploring!</Source>
+      <Dest>一个诺德遗迹！带上你的冒险专用头盔吧，是时候去探索了！</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave. What will we find, trouble or treasure?  Hopefully nature.</Source>
+      <Dest>有个山洞。在里面能发现什么？是包袱还是宝贝？希望不会太糟糕。</Dest>
+    </String>
+    <String List="2">
+      <Source>What beauty!  What a sight!  Another gift from the Gods!</Source>
+      <Dest>何等的美丽！何等的胜景！真是鬼斧神工！</Dest>
+    </String>
+    <String List="2">
+      <Source>I feel empowered! Like I don't even need makeup!</Source>
+      <Dest>我倍受鼓舞！就像我甚至不需要化妆一样！</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger lies ahead, but fear not.  The Gods protect us.</Source>
+      <Dest>前方有危险，但别怕。众神会保佑我们的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look. A cave. Plenty of beauty inside, I hope.</Source>
+      <Dest>看啊。一个洞穴。我希望里面有很多美景。</Dest>
+    </String>
+    <String List="2">
+      <Source>I sense trouble.  Let us draw our weapons and smite the unbelievers!</Source>
+      <Dest>我感觉有麻烦了。让我们拔出武器，干掉那些缺乏信仰的人！</Dest>
+    </String>
+    <String List="2">
+      <Source>By Dibella, are you seeing this?  Am I seeing this?  I'd hate for this to be another dream.</Source>
+      <Dest>迪贝拉在上，你看见了这个了吗？我看见这个了吗？难道我又在做梦吗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Cave up ahead. Tread carefully.</Source>
+      <Dest>你先进洞. 小心脚下.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.</Source>
+      <Dest>谢谢。</Dest>
+    </String>
+    <String List="2">
+      <Source>That tickles!</Source>
+      <Dest>那很痒！</Dest>
+    </String>
+    <String List="2">
+      <Source>Something scary's behind those fences. But so is a jump off Bard's Leap, and there's nowhere else to run.</Source>
+      <Dest>那些栅栏后面有些很可怕的东西。但这样一来就得跳下诗人之跃，而且这也没有别的路可以逃跑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your old place would suit us just fine.</Source>
+      <Dest>你的老地方会很适合我们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Forget it. I was just testing the waters.</Source>
+      <Dest>忘了吧，我只是在測試你。.</Dest>
+    </String>
+    <String List="0">
+      <Source>How about my house in Windhelm?</Source>
+      <Dest>我在风盔城的房子怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has the store made any money?</Source>
+      <Dest>商店有赚钱吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't even out. Not even close. Lycanthropy is a disease to be cured.</Source>
+      <Dest>这不正常，一点也不。Lycanthropy是种必须治疗的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't even out. Not even close. Lycanthropy is a disease to be cured.</Source>
+      <Dest>这不正常，一点也不。Lycanthropy是种必须治疗的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside, my house in Riften.</Source>
+      <Dest>甜蜜湾，我在裂谷城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>My house in Markarth would be perfect.</Source>
+      <Dest>我在马卡斯城的房子将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's live in my house in Solitude.</Source>
+      <Dest>让我们住在我在独孤城的房子里吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you got married, would it be at the Temple of Dibella?</Source>
+      <Dest>如果你要举行婚礼，会在迪贝拉神殿吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you got married, would it be at the Temple of Dibella?</Source>
+      <Dest>如果你要举行婚礼，会在迪贝拉神殿吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome, my house in Whiterun.</Source>
+      <Dest>风宅，我在雪漫城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you be interested in getting married?</Source>
+      <Dest>你有兴趣结婚吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Living with you would be perfect.</Source>
+      <Dest>和你一起生活将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor, my house in Solitude.</Source>
+      <Dest>傲矛别墅，我在独孤城的家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim, my house in Windhelm.</Source>
+      <Dest>霜宅，我在风盔城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a house in Riften.</Source>
+      <Dest>我在裂谷城有栋房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could live in my house in Whiterun.</Source>
+      <Dest>我们可以住在我在雪漫城的房子里。</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall, my house in Markarth.</Source>
+      <Dest>林德尔会堂，我在马卡斯城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can start by saying yes.</Source>
+      <Dest>你可以从说“是”开始。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can start by saying yes.</Source>
+      <Dest>你可以从说“是”开始。</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得移动到别的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>That sounds wonderful! We can go fishing by the lake, or set up camp in the forest and cheer on the leaves as they fall around us!</Source>
+      <Dest>这听起来太棒了!我们可以在湖边钓鱼,或在森林里安营扎寨,当叶子飘落到我们身旁时还可以尽情欢呼!</Dest>
+    </String>
+    <String List="2">
+      <Source>That sounds wonderful! We can go fishing by the lake, or set up camp in the forest and cheer on the leaves as they fall around us!</Source>
+      <Dest>这听起来太棒了!我们可以在湖边钓鱼,或在森林里安营扎寨,当叶子飘落到我们身旁时还可以尽情欢呼!</Dest>
+    </String>
+    <String List="2">
+      <Source>One septim on my Companion! The rest to the donation bowl!</Source>
+      <Dest>一个金币交到我同伴的手中！剩下的放到捐赠碗里！</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude is perfect! It's only a stone's throw away from the college. Not that we'll be throwing stones at any bards, no matter how bad they play.</Source>
+      <Dest>独孤城太完美了！人们仅仅是把石头砸向吟游诗人学院，而不会向任何一个吟游诗人扔石头，不管他们演奏的多烂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude is perfect! It's only a stone's throw away from the college. Not that we'll be throwing stones at any bards, no matter how bad they play.</Source>
+      <Dest>独孤城太完美了！人们仅仅是把石头砸向吟游诗人学院，而不会向任何一个吟游诗人扔石头，不管他们演奏的多烂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes! Grab the scissors! No, the shears! Let no hair stand in the way of beauty!</Source>
+      <Dest>是！操起剪刀！不，剪刀们【剪刀手们？此处待修改。】！让通往美的道路上寸草不生！</Dest>
+    </String>
+    <String List="2">
+      <Source>Marriage? To me? But I'm so young! What do I do? What do I say?</Source>
+      <Dest>结婚？跟我？可我才这么小呢！我能干嘛？我要说什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...but the waters are warm! Don't be afraid to dive in!</Source>
+      <Dest>哦……但这水是温的！大胆的跳下来吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Windhelm. That place is depressing. Which is why it's perfect for us! We'll turn every frown upside down and make it the happiest place in Skyrim!</Source>
+      <Dest>风舵城。那是个令人忧伤的地方，但也正是因为如此，那个地方对于我们来说真是完美极了！让我们把那里的压抑情绪一扫而光将它变成天际省的乐土吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Windhelm. That place is depressing. Which is why it's perfect for us! We'll turn every frown upside down and make it the happiest place in Skyrim!</Source>
+      <Dest>风舵城。那是个令人忧伤的地方，但也正是因为如此，那个地方对于我们来说真是完美极了！让我们把那里的压抑情绪一扫而光将它变成天际省的乐土吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Then let's cure them! Every last member of the Circle will be purified by our light! And if we can't cure them, we'll shave them!</Source>
+      <Dest>那么让我们治愈他们吧！每一个圆环的成员都将被我们的光所净化！如果不能治好他们，那我们就剃光他们的毛儿！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell, my dear.</Source>
+      <Dest>再见了，亲爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It would, if the temple actually stood for Dibella's teachings. Or if they actually stood at all.</Source>
+      <Dest>会的，倘若神殿实际上就是代表着迪贝拉的教义。或者他们事实上完全代表着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Punch! Don't get punched! Keep doing that and you'll win!</Source>
+      <Dest>往死里打！躲开对方的攻击！做到这点你就赢了！</Dest>
+    </String>
+    <String List="2">
+      <Source>On second thought, don't send the invitations! Why? Because I don't know if my family will approve! But marry we shall!</Source>
+      <Dest>考虑一下，或许我们可以不发邀请函！为什么呢？因为我不确定我的家人会答应我结婚。但我们还是要结。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorry love, but Dibella and I think you've been eating too much. I'll have another one tomorrow.</Source>
+      <Dest>抱歉我的爱， 但是迪贝拉与我都认为你今天吃的已经够多了。我会明天再给你做一个的。</Dest>
+    </String>
+    <String List="2">
+      <Source>We're married! It's time to shout our love from the rooftops! But first we need a roof to shout it from. What I'm saying is, where should we live?</Source>
+      <Dest>我们结婚了！我们该到屋顶上去大声宣誓我的爱了！但首先我们需要一个屋顶喊。我想说的是，我们应该去哪住？</Dest>
+    </String>
+    <String List="2">
+      <Source>Living with me? You mean, outside with nature? Great idea, my love, I can't think of a better place to live! </Source>
+      <Dest>跟我一起生活？你是说，回归自然？好主意，亲爱的，我想不出一个更好的地方了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Living with me? You mean, outside with nature? Great idea, my love, I can't think of a better place to live! </Source>
+      <Dest>跟我一起生活？你是说，回归自然？好主意，亲爱的，我想不出一个更好的地方了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that a new steading? By Dibella, that's a great idea! We'll practically be living outside!</Source>
+      <Dest>那是一座新农庄吗？ 迪贝拉在上，那真是个好主意！我们将在外面生活了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that a new steading? By Dibella, that's a great idea! We'll practically be living outside!</Source>
+      <Dest>那是一座新农庄吗？ 迪贝拉在上，那真是个好主意！我们将在外面生活了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that a new steading? By Dibella, that's a great idea! We'll practically be living outside!</Source>
+      <Dest>那是一座新农庄吗？ 迪贝拉在上，那真是个好主意！我们将在外面生活了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Living with me? You mean, outside with nature? Great idea, my love, I can't think of a better place to live!</Source>
+      <Dest>和我住在一起？你是说，住在野外吗？好主意，亲爱的，我想不出一个更好的住所了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Living with me? You mean, outside with nature? Great idea, my love, I can't think of a better place to live!</Source>
+      <Dest>和我住在一起？你是说，住在野外吗？好主意，亲爱的，我想不出一个更好的住所了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Markarth! My childhood home! We can take walks by the waterfall or down by the river. And if the miners get grumpy, we'll shout them down!</Source>
+      <Dest>马卡斯城！我儿时的家！我们可以在瀑布旁散步或者坐在河旁。如果矿工们生气了，我们就把他们吼趴下！</Dest>
+    </String>
+    <String List="2">
+      <Source>Markarth! My childhood home! We can take walks by the waterfall or down by the river. And if the miners get grumpy, we'll shout them down!</Source>
+      <Dest>马卡斯城！我儿时的家！我们可以在瀑布旁散步或者坐在河旁。如果矿工们生气了，我们就把他们吼趴下！</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell, my love.</Source>
+      <Dest>再见了，亲爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard those priestesses spend most of their time on their backs. I don't even know what that means, but it sounds suspicious.</Source>
+      <Dest>我听说那些女祭司花费大量的时间在她们的后背上，我甚至不知道那是什么意思，但是听起来很可疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye, my love.</Source>
+      <Dest>再见，我的宝贝。</Dest>
+    </String>
+    <String List="2">
+      <Source>So this is home! I guess I should do something to keep myself busy. Maybe start a store that only sells beautiful things!</Source>
+      <Dest>这就是我们家了！我想我得做些什么让我自己忙碌些。 或许可以开一间卖漂亮小东西的店。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fight! Fight!</Source>
+      <Dest>打啊！打！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes! Lots of gold! More than we could possibly ever need! But don't worry, I gave most of it away! This is the rest of it.</Source>
+      <Dest>是的！一大堆金子！我们比任何时候都更需要它！但是别担心，我几乎全都拿走了！这剩下的金子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whiterun is great! You can get a good view of the stars at night. Although I wish they'd tear down Dragonsreach. That just gets in the way.</Source>
+      <Dest>白漫城真是好极了！在晚上你能好好看看那美丽的星空。不过我希望他们能把龙临厅给拆了。那东西太挡视野。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whiterun is great! You can get a good view of the stars at night. Although I wish they'd tear down Dragonsreach. That just gets in the way.</Source>
+      <Dest>白漫城真是好极了！在晚上你能好好看看那美丽的星空。不过我希望他们能把龙临厅给拆了。那东西太挡视野。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I can. I mean, Yes, I'll marry you! Yes to everything! Gather the priests! Send the invitations!</Source>
+      <Dest>是的，我愿意。我指的是..对，我会嫁给你！一切都太棒了！去找祭司！发邀请函吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that an Amulet of Dibella you're wearing? Oh no, it's the other kind. Wait, are you looking for marriage?</Source>
+      <Dest>你戴的是狄贝拉的护符吗？喔不，那是另一种。等等，你是在找另一半吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you spoken to the priest? Make sure he hears you. Don't be afraid to shout.</Source>
+      <Dest>你已经跟祭司讲了吗？确定他会照你说的，不怕大喊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright! Put on your moving gloves! Apply the elbow grease! Our new home awaits!</Source>
+      <Dest>好了，穿上你的运动手套！涂点油！我们的新家正等着呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright! Put on your moving gloves! Apply the elbow grease! Our new home awaits!</Source>
+      <Dest>好了，穿上你的运动手套！涂点油！我们的新家正等着呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright! Put on your moving gloves! Apply the elbow grease! Our new home awaits!</Source>
+      <Dest>好了，穿上你的运动手套！涂点油！我们的新家正等着呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hands up! Hands forward! Right into their nose!</Source>
+      <Dest>手举起来！朝前挥拳！往他们鼻子上揍！</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome home love!</Source>
+      <Dest>欢迎回家，亲爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Back from another adventure? Next time be sure to take your wife!</Source>
+      <Dest>冒险回来了？下次你应该带者你的老婆去！</Dest>
+    </String>
+    <String List="0">
+      <Source>I have my own system.  For every 10 gold, 10 goes to beer.</Source>
+      <Dest>我有我自己的原则，我的每10个金币都会花去喝酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have my own system.  For every 10 gold, 10 goes to beer.</Source>
+      <Dest>我有我自己的原则，我的每10个金币都会花去喝酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever explore caves for treasure?</Source>
+      <Dest>你有过为了宝藏而探索洞穴的经历吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever explore caves for treasure?</Source>
+      <Dest>你有过为了宝藏而探索洞穴的经历吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever explore caves for treasure?</Source>
+      <Dest>你有过为了宝藏而探索洞穴的经历吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>That system will leave you starving and cold.</Source>
+      <Dest>那个系统会让你觉得又冷又饿。</Dest>
+    </String>
+    <String List="0">
+      <Source>That system will leave you starving and cold.</Source>
+      <Dest>那个系统会让你觉得又冷又饿。</Dest>
+    </String>
+    <String List="0">
+      <Source>That only adds up to 9 gold pieces.</Source>
+      <Dest>这不仅增加了9个金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>That only adds up to 9 gold pieces.</Source>
+      <Dest>这不仅增加了9个金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>That only adds up to 9 gold pieces.</Source>
+      <Dest>这不仅增加了9个金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think about joining the Thieves Guild?</Source>
+      <Dest>你觉得加入盗贼工会怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not saying nature isn't nice. It's just not as important as you think.</Source>
+      <Dest>我不是说天性不好，而是没有你想的那么重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not saying nature isn't nice. It's just not as important as you think.</Source>
+      <Dest>我不是说天性不好，而是没有你想的那么重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not saying nature isn't nice. It's just not as important as you think.</Source>
+      <Dest>我不是说天性不好，而是没有你想的那么重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not saying nature isn't nice. It's just not as important as you think.</Source>
+      <Dest>我不是说天性不好，而是没有你想的那么重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just from the people I despise. So namely, everyone.</Source>
+      <Dest>只是从我瞧不起的人那儿来的，也就是说，你们每个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just from the people I despise. So namely, everyone.</Source>
+      <Dest>只是从我瞧不起的人那儿来的，也就是说，你们每个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just from the people I despise. So namely, everyone.</Source>
+      <Dest>只是从我瞧不起的人那儿来的，也就是说，你们每个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>If things are operating correctly, then yes.</Source>
+      <Dest>如果一切进展顺利，那就Yes！.</Dest>
+    </String>
+    <String List="0">
+      <Source>If things are operating correctly, then yes.</Source>
+      <Dest>如果一切进展顺利，那就Yes！.</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem like someone who appreciates nature.</Source>
+      <Dest>你看起来是那种会感谢大自然的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem like someone who appreciates nature.</Source>
+      <Dest>你看起来是那种会感谢大自然的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Either way, I plan on bringing prosperity to the Guild.</Source>
+      <Dest>无论如何，我都会为工会带来辉煌。</Dest>
+    </String>
+    <String List="0">
+      <Source>Either way, I plan on bringing prosperity to the Guild.</Source>
+      <Dest>无论如何，我都会为工会带来辉煌。</Dest>
+    </String>
+    <String List="0">
+      <Source>Either way, I plan on bringing prosperity to the Guild.</Source>
+      <Dest>无论如何，我都会为工会带来辉煌。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Blood's Honor) What do you think of the Companions being Werewolves?</Source>
+      <Dest>（血之荣耀） 你对战友团成员变成狼人有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Blood's Honor) What do you think of the Companions being Werewolves?</Source>
+      <Dest>（血之荣耀） 你对战友团成员变成狼人有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>No, they are a guild of skilled alchemists.</Source>
+      <Dest>不，他们的工会是由训练有素的炼金术士组成的。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, they are a guild of skilled alchemists.</Source>
+      <Dest>不，他们的工会是由训练有素的炼金术士组成的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter. I won't stay with them for long.</Source>
+      <Dest>没关系。我不会跟他们呆太久的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter. I won't stay with them for long.</Source>
+      <Dest>没关系。我不会跟他们呆太久的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...what do you mean by bags of them?</Source>
+      <Dest>等等......用袋子裝他們是什麼意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...what do you mean by bags of them?</Source>
+      <Dest>等等......用袋子裝他們是什麼意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...what do you mean by bags of them?</Source>
+      <Dest>等等......用袋子裝他們是什麼意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, but only from people who deserve it.</Source>
+      <Dest>是的，但只能来自值得获取它的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, but only from people who deserve it.</Source>
+      <Dest>是的，但只能来自值得获取它的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>True, but Dibella beckons me to explore the mortal form.</Source>
+      <Dest>确实是，可迪贝拉指引我去探索人类形态。</Dest>
+    </String>
+    <String List="0">
+      <Source>True, but Dibella beckons me to explore the mortal form.</Source>
+      <Dest>确实是，可迪贝拉指引我去探索人类形态。</Dest>
+    </String>
+    <String List="0">
+      <Source>True, but Dibella beckons me to explore the mortal form.</Source>
+      <Dest>确实是，可迪贝拉指引我去探索人类形态。</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I too am an admirer of beauty. Namely, yours.</Source>
+      <Dest>我也特别爱戴美丽，也就是，你的美丽！</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought all you Dibella worshippers were just harlots.</Source>
+      <Dest>我以为你们这些迪贝拉信徒都是妓女。</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought all you Dibella worshippers were just harlots.</Source>
+      <Dest>我以为你们这些迪贝拉信徒都是妓女。</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought all you Dibella worshippers were just harlots.</Source>
+      <Dest>我以为你们这些迪贝拉信徒都是妓女。</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought all you Dibella worshippers were just harlots.</Source>
+      <Dest>我以为你们这些迪贝拉信徒都是妓女。</Dest>
+    </String>
+    <String List="0">
+      <Source>They're also filthy beasts. I guess that's why I like them and you don't.</Source>
+      <Dest>他们也是肮脏的野兽。也许那就是为什么我喜欢他们而你不。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Companions do more than good work. They're heroes.</Source>
+      <Dest>战友团的功劳可不止是很大而已。他们都是英雄的存在。.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, horrible abominations?</Source>
+      <Dest>你是指什么？恶心得要命的东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, horrible abominations?</Source>
+      <Dest>你是指什么？恶心得要命的东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>Pretty much. Sorry.</Source>
+      <Dest>差不多吧。真对不起。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and like the explorer, we must map and spread word of our findings.</Source>
+      <Dest>没错。并且我们必须像个探险家一样，把我们发现的东西绘制成地图，写成书并出版。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and like the explorer, we must map and spread word of our findings.</Source>
+      <Dest>没错。并且我们必须像个探险家一样，把我们发现的东西绘制成地图，写成书并出版。</Dest>
+    </String>
+    <String List="2">
+      <Source>To that I say, "Shoo ghost!  Leave my companion alone!"</Source>
+      <Dest>那我就说, "什么鬼东西!  离开我的勇士!"</Dest>
+    </String>
+    <String List="2">
+      <Source>But tell your mother, tell your friends! I would never leave Dibella.</Source>
+      <Dest>但去跟你母亲和你朋友说！我是绝不会背离迪贝拉的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't really know much about werewolves, other than the fact that they're horrible abominations.</Source>
+      <Dest>我并不是特别了解狼人，除了他们狰狞卑劣的事实以外，我对他们一无所知。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes...I noticed the smell. But mother says if you can't say anything nice, then hold your nose and smile.</Source>
+      <Dest>是…我闻到了。可妈妈说如果你想不出什么漂亮话说，那就捏住鼻子笑笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those priestesses at the Temple in Markarth just tend to be the loudest among us, to the point they drown out all other voices.</Source>
+      <Dest>马卡斯城神殿的那些女祭司们是我们当中嗓门最大的，一到关键点她们的声音就覆盖了所有其他的响动。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyone?  You mean...even me?  Oh no, do you know what this means?</Source>
+      <Dest>每个人？你是说……连我也成？哦不，你知道这话意味着什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmm....since nobody deserves it, that can only mean the Thieves Guild doesn't steal.</Source>
+      <Dest>唔……既然没人活该倒霉，那盗贼公会也没法偷东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...so why are they called thieves? Are they turning people's coins into juniper berries?  That still doesn't seem very nice.</Source>
+      <Dest>哦……所以为什么他们被称之为盗贼？ 他们把人们的钱变成雪浆果了？ 那看起来依然不是很美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>And at the heart of every explorer is an admirer of that beauty.</Source>
+      <Dest>并且每个探险家的内心深处都是美好之物的崇拜者。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You should be apologizing, but not to me.  Repent to the people!  Ask the Gods for mercy!  Look in the mirror and say, "I am a good person!"</Source>
+      <Dest>你应该道歉，但不是对我。向人民忏悔吧！祈求众神的宽容吧！看着镜子说，“我是个好人！”</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh yes, the water, the animals, the trees...all clay which Dibella molds into indelible art.</Source>
+      <Dest>是啊，流水，动物，树木……所有的一切都是迪贝拉塑造的永恒艺术品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can you imagine, two Gods fighting over my services?  Oh, it's almost scandalous!</Source>
+      <Dest>两个神居然因我的侍奉而发生争执，你能想象吗？哦，这也太可耻了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm shouting all the time! Are you?</Source>
+      <Dest>我一直在大喊！是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>M-mine?  But we barely met. Oh Gods, are you going to show me your Amulet of Mara? Do I say yes? Things are all moving so fast!</Source>
+      <Dest>我……我？但我们都没见过几次面。哦众神啊，你是把玛拉护身符给我看的吗？我说对了？这……这太快了！</Dest>
+    </String>
+    <String List="2">
+      <Source>We have to let them know these places exist.</Source>
+      <Dest>我们要让他们知道这些地方的存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>That...that is not who you are! Clearly you must be going through some personal issues!  Maybe...you're even possessed!</Source>
+      <Dest>这...这不是你自己！很显然你碰到问题了！或许，你的躯体已经被占据了....</Dest>
+    </String>
+    <String List="2">
+      <Source>The tree! Yes!  You were talking about the tree!  Of course you were! You think I own it! But alas, I do not!  Nobody does!</Source>
+      <Dest>树！是的！你是说树！你当然是在说了！你认为我拥有它！但是，唉，我不！没有人拥有！</Dest>
+    </String>
+    <String List="2">
+      <Source>The tree! Yes!  You were talking about the tree!  Of course you were! You think I own it! But alas, I do not!  Nobody does!</Source>
+      <Dest>树！是的！你是说树！你当然是在说了！你认为我拥有它！但是，唉，我不！没有人拥有！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that's a relief.  Here I thought I was going to have to slay you.</Source>
+      <Dest>呃，现在我放心了。我还以为会不得不杀了你呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>No fires though.  I once tried to start one, and it almost burned down an entire grove!  Dibella would have never forgiven me.</Source>
+      <Dest>不过不能生火。我以前尝试过一次，几乎把整个树林都给烧的一干二净。要是真烧光了，迪贝拉永远都不会原谅我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>We must be couriers, gossipers, town criers, screaming from the bell towers while we shower the people with our missives.</Source>
+      <Dest>当我们向民众散播教义时我们要把自己当作信使、爱闲聊的人、街头公告员般在钟楼上大声叫喊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I find them everywhere.  In streams, under rocks, even in food barrels.  I think Zenithar is trying to tell me something.</Source>
+      <Dest>噢，我在哪都能找到这东西。小河里头，石头底下，甚至食物桶里头都有。我想泽尼萨尔正试图告诉我些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>What could be more important than tribute to the Gods? Why worship them in dusty halls when we can come to these cathedrals of nature?</Source>
+      <Dest>什么能比祭献神灵更为重要？ 为什么不去那些野外的祭台而在这破败的大厅里参拜?</Dest>
+    </String>
+    <String List="2">
+      <Source>Everything you're saying right now is completely backwards!  Well, I'm going to stick my fingers in my ears until you start making sense!</Source>
+      <Dest>现在你说的净是胡言乱语！我呢，堵住耳朵直到你说人话为止。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't get it. If you spent it that way, you would have nothing but beer.  You're strange.</Source>
+      <Dest>我可没法理解这种原则。如果你那样花钱的话，你除了啤酒以外就啥都没有了不是么。你可真够奇怪的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have that disease where everything you say is the opposite of what you're thinking!</Source>
+      <Dest>一直说反话有意思吗，啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now if I find a gold coin, and I do find them often...bags of them, in fact, I deliver them straight to the donation bowl.</Source>
+      <Dest>如果我现在能捡到一枚金币，以后也能经常捡到一袋袋的金币，老实说，我会直接把它们捐掉的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I see an ear, I lend it my voice, so that it'll ring inside it for all eternity.</Source>
+      <Dest>如果我瞧见一只耳朵，就会把自己的声音借给它，这样它就会在耳朵里永远的发出响声。</Dest>
+    </String>
+    <String List="2">
+      <Source>M-mine?  But we barely met. Oh Gods, are you going to show me your Amulet of Mara?</Source>
+      <Dest>我……我吗？但我们没见过几次面啊。哦天哪，你真的是在给我看你的玛拉护身符吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I even have a system.  For every 10 gold pieces, 7 goes to the temple, 1 goes toward food and shelter, and 1 goes to alms for the poor.</Source>
+      <Dest>我曾经拥有一套系统。每次10金币，7个去神庙，1个去旅馆，还有1个去施舍穷人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did I really call them that? Oh, it sounds much meaner coming out of your mouth. I should probably apologize!</Source>
+      <Dest>我真的应该通知他们么？我很抱歉，但是这话从你嘴里说出来真是带点讽刺e!</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course!  What do you think all this is?  It's more valuable than any gold coin!</Source>
+      <Dest>当然!你觉得这一切都是？它比金币更有价值!</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the beauty of nature. It belongs to no Jarl, no Emperor, no king!</Source>
+      <Dest>那就是自然之美。不属于任何领主，任何皇帝，任何国王！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the beauty of nature. It belongs to no Jarl, no Emperor, no king!</Source>
+      <Dest>那就是自然之美。不属于任何领主，任何皇帝，任何国王！</Dest>
+    </String>
+    <String List="2">
+      <Source>Nature is where Dibella truly sparkles! Do you see it, friend? Do you see her light?</Source>
+      <Dest>自然就是迪贝拉真正的火花！你看到它了吗，朋友？你看到她的光芒了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know...are heroes supposed to be mean and scary? Are they supposed to have so much...hair? It doesn't seem right to me.</Source>
+      <Dest>我不知道……是不是英雄就意味着脾气暴躁？他们会有这么多的……体毛吗？看来这些在我身上并不适用。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Thieves Guild?  But don't they...steal things?</Source>
+      <Dest>盗贼公会？可他们不是偷东西的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The guards were none too pleased.  But really?  Bloated Man?  Why not call it Handsome Man's Grotto?</Source>
+      <Dest>这守卫们都有点不开心啊。是不是真的？傲慢者？为什么不管它叫大帅哥石窟呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>I want to bring Dibella's full portfolio to the world. And to do that, we need to be more than adventurers.</Source>
+      <Dest>我想把迪贝拉所有的作品都展示给全世界。要完成这个，我们就不能仅仅只扮演探险者这一角色了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, does that mean you will?  It's just like with my cousin!  I'm so confused.  Better I just watch you and figure it out.</Source>
+      <Dest>等一下，你的意思是你会咯？简直就像和我的表弟表妹说话！太难懂了。我最好看着你，解决这个问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I forgot, 1 gold piece goes to spreading Dibella's word.  Can you believe the cost of ink and paper these days?</Source>
+      <Dest>哦，我忘了。算上传播迪贝拉的福音，还有一金币。你相信最近墨水和纸有多贵吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>They used to say I was the same.  Strange girl, they said.  Then I became one of Dibella's soldiers.  Now they just call me devoted.</Source>
+      <Dest>他们以前也那样说我，说我是个奇怪的女孩。后来我成了迪贝拉的卫士。于是现在他们都说我是奉献者。</Dest>
+    </String>
+    <String List="2">
+      <Source>One time, I didn't have any gold, so I carved my petition to change the name of Bloated Man's Grotto on the wall of the Jarl's Longhouse.</Source>
+      <Dest>【我曾经一度很缺钱，于是我在领主长屋的墙上改变了傲慢者石窟的所有者】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although the Companions do a lot of good deeds, so I guess it evens out.</Source>
+      <Dest>尽管战友团有一堆光辉事迹，但我猜那才刚好扯平。</Dest>
+    </String>
+    <String List="2">
+      <Source>As to why I said it, well...it's really just all the hair. Hair is good when it's on your head, but anywhere else and it's Dibella's bane.</Source>
+      <Dest>正如我为什么这样说, 嗯...我是说所有的毛发. 毛发当长在你头上时是对的, 但是如果长在任何其他地方那就是迪贝拉的错.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, does that mean you want to bring them down?  It's just like with my cousin!  I'm so confused.  Better I just watch you and figure it out.</Source>
+      <Dest>等等，就是说你想把它们拿下来吗？跟我表弟做的一样！我搞不清楚了。最好还是看着你搞定它吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know because my cousin Advar has the very same thing.  Some of the thing he says...there's really no other explanation!</Source>
+      <Dest>我知道是因为我的表弟Advar也有着类似的事情。他说有些事……真的没有其他解释！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, thank Dibella. It would have just made things awkward, like with my cousin Fjorn. When the family says his name, they whisper. I hate whispering.</Source>
+      <Dest>哦，感谢迪贝拉。事情可能只会变得更糟糕，就像我的表亲菲欧恩那样。当我的家人提到菲欧恩的时候，他们总是窃窃私语。我讨厌窃窃私语。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the spirit! But don't just spread the word, shout it! Scream it from the pit of your stomach!</Source>
+      <Dest>那才是好样的！但别只是简单说说，喊出来！从你的内心深处大喊出来！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, good luck trying to drown out mine! I'm going to shout, cry, and clamor to all who will listen, and all who refuse to!</Source>
+      <Dest>我会跟所有人大声宣扬的，就算她们不想听我也会硬灌进她们的耳朵里去！想让我闭嘴？呵呵，祝她们好运！</Dest>
+    </String>
+    <String List="2">
+      <Source>We have to shout it from the tabletops. Then the rooftops! Then the mountaintops! Every top, bottom, and middle!</Source>
+      <Dest>我们会从桌面上开始喊它。然后是屋顶！再然后是山顶！每一个顶上，半山腰，还有山脚下！</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a grown woman. You should tell your parents the truth.</Source>
+      <Dest>妹子，你已然长大成人了，还是把真相告诉你爹妈吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a grown woman. You should tell your parents the truth.</Source>
+      <Dest>妹子，你已然长大成人了，还是把真相告诉你爹妈吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a grown woman. You should tell your parents the truth.</Source>
+      <Dest>妹子，你已然长大成人了，还是把真相告诉你爹妈吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you have in mind?</Source>
+      <Dest>你在想什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you have in mind?</Source>
+      <Dest>你在想什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>We don't have time to be buying gifts for your uncle's cousin's pet frog.</Source>
+      <Dest>我们没有时间去给你的叔叔的表哥的宠物青蛙买礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>We don't have time to be buying gifts for your uncle's cousin's pet frog.</Source>
+      <Dest>我们没有时间去给你的叔叔的表哥的宠物青蛙买礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a great help as always, Amalee.</Source>
+      <Dest>你总能给我莫大的帮助，Amalee.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a rather large extended family.</Source>
+      <Dest>那真是个庞大的家庭.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a rather large extended family.</Source>
+      <Dest>那真是个庞大的家庭.</Dest>
+    </String>
+    <String List="0">
+      <Source>Play "Tears of the Hist."</Source>
+      <Dest>演奏"Hist 之淚"。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright, let's head on over to the College to get some ideas.</Source>
+      <Dest>好吧，让我们前往学院找些点子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. What did you tell your parents you were doing?</Source>
+      <Dest>等下，你到底是怎么跟你父母说你正在做的事的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. What did you tell your parents you were doing?</Source>
+      <Dest>等下，你到底是怎么跟你父母说你正在做的事的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. What did you tell your parents you were doing?</Source>
+      <Dest>等下，你到底是怎么跟你父母说你正在做的事的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait. What did you tell your parents you were doing?</Source>
+      <Dest>等下，你到底是怎么跟你父母说你正在做的事的？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's hard to buy a gift if you don't know who it's for.</Source>
+      <Dest>要买一件连你都不知道送给谁的礼物是很困难的。.</Dest>
+    </String>
+    <String List="0">
+      <Source>So what do we need to do, borrow something from another student?</Source>
+      <Dest>那么现在我们需要做什么，从另一个学生那借点东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what do we need to do, borrow something from another student?</Source>
+      <Dest>那么现在我们需要做什么，从另一个学生那借点东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>I just hope this thing will give us the knowledge to vanquish our foes.</Source>
+      <Dest>我只希望这件东西能为我们如何该打倒敌人提供点信息。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you close to most of your relatives?</Source>
+      <Dest>你跟你的家人亲近吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you close to most of your relatives?</Source>
+      <Dest>你跟你的家人亲近吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any other talents besides exploring?</Source>
+      <Dest>除了探险你还有其他天赋么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear "Wolves of Jorrvaskr."</Source>
+      <Dest>我喜欢听《Wolves of Jorrvaskr》</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear "Wolves of Jorrvaskr."</Source>
+      <Dest>我喜欢听《Wolves of Jorrvaskr》</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. I was worried this scroll wouldn't have pictures.</Source>
+      <Dest>太好了，我还担心万一卷轴里没有图画怎么办呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear "Dusk on Anvil Harbor."</Source>
+      <Dest>我想听那首《铁砧港上的暮色》。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear "Dusk on Anvil Harbor."</Source>
+      <Dest>我想听那首《铁砧港上的暮色》。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn Comes.</Source>
+      <Dest>龙裔降临。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn Comes.</Source>
+      <Dest>龙裔降临。</Dest>
+    </String>
+    <String List="0">
+      <Source>Never mind.</Source>
+      <Dest>不用介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suggest a mudcrab chitin and some raw meat.</Source>
+      <Dest>我建议蟹腿和一些生肉。</Dest>
+    </String>
+    <String List="0">
+      <Source>A jovial song. "Mogo's Mead."</Source>
+      <Dest>一首快乐的歌。 "莫戈的蜂蜜酒."</Dest>
+    </String>
+    <String List="0">
+      <Source>A jovial song. "Mogo's Mead."</Source>
+      <Dest>一首快乐的歌。 "莫戈的蜂蜜酒."</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure this scroll will have any of the three.</Source>
+      <Dest>我不确定这里有三个卷轴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine it must have been difficult getting attention growing up.</Source>
+      <Dest>我可以想象要在成长过程中获得充分的关注是有多么困难。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine it must have been difficult getting attention growing up.</Source>
+      <Dest>我可以想象要在成长过程中获得充分的关注是有多么困难。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean directions? Like to the market?</Source>
+      <Dest>你说的方向是什么意思？比如市场？</Dest>
+    </String>
+    <String List="0">
+      <Source>Lunar Lake Serenada.</Source>
+      <Dest>Lunar Lake Serenada.</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold. It's a gift that can be anything you want.</Source>
+      <Dest>金子。就是你想要什么就能变成什么的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold. It's a gift that can be anything you want.</Source>
+      <Dest>金子。就是你想要什么就能变成什么的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is something the matter?</Source>
+      <Dest>有什么关系么?</Dest>
+    </String>
+    <String List="0">
+      <Source>Is something the matter?</Source>
+      <Dest>有什么关系么?</Dest>
+    </String>
+    <String List="0">
+      <Source>Dibella's Art.</Source>
+      <Dest>迪贝拉的艺术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dibella's Art.</Source>
+      <Dest>迪贝拉的艺术。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Temple of Dibella) Did you ever even consider becoming a priestess?</Source>
+      <Dest>( 迪贝拉神庙) 你考虑过当女祭司吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Temple of Dibella) Did you ever even consider becoming a priestess?</Source>
+      <Dest>( 迪贝拉神庙) 你考虑过当女祭司吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Temple of Dibella) Did you ever even consider becoming a priestess?</Source>
+      <Dest>( 迪贝拉神庙) 你考虑过当女祭司吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Elder Knowledge) What do you think is written on this Elder Scroll?</Source>
+      <Dest>(Elder Knowledge) 你觉得上古卷轴里写了些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>When are you going to introduce me to some of them?</Source>
+      <Dest>你什么时候才肯把我介绍给他们呐？</Dest>
+    </String>
+    <String List="0">
+      <Source>When are you going to introduce me to some of them?</Source>
+      <Dest>你什么时候才肯把我介绍给他们呐？</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to be a student to make art.</Source>
+      <Dest>你无需去当一个学生也能进行艺术创作。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to be a student to make art.</Source>
+      <Dest>你无需去当一个学生也能进行艺术创作。</Dest>
+    </String>
+    <String List="2">
+      <Source>That song is a bit violent. But I guess so is "Ragnar the Red."</Source>
+      <Dest>这首歌有点不和谐。 但我掂量着该叫它 "红衣拉格纳."</Dest>
+    </String>
+    <String List="2">
+      <Source>It would be larger, but some of them are in Sovngarde. I think that's south of Helgen. I'm not sure.</Source>
+      <Dest>它将会更大 , 但他们中的一些人在松加德。我认为这地方是南方的圣地镇。但我不确定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speaking of family, I just remembered something!</Source>
+      <Dest>说到家人，我刚刚想起一件事！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Speaking of family, I just remembered something!</Source>
+      <Dest>说到家人，我刚刚想起一件事！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Speaking of family, I just remembered something!</Source>
+      <Dest>说到家人，我刚刚想起一件事！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Speaking of family, I just remembered something!</Source>
+      <Dest>说到家人，我刚刚想起一件事！ </Dest>
+    </String>
+    <String List="2">
+      <Source>That usually means staying inside.  No place for a soldier of Dibella. </Source>
+      <Dest>一般来说，意思是“在里面待好”。没有迪贝拉的战士的份儿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I think tomorrow is my cousin's sister's fiance's birthday! Or was it my sister's fiance's cousin?</Source>
+      <Dest>是啊 ，我想明天好像是我侄子的妹妹的未婚夫的生日！噢或者是我妹妹的未婚夫的侄子？</Dest>
+    </String>
+    <String List="2">
+      <Source>I tried that once, but those Bards College students don't like to share. It's very impolite of them. I'm more than willing to share my discoveries.</Source>
+      <Dest>我以前试过，可那些诗人学院的学生不喜欢分享。他们很不礼貌。我可是很乐于跟别人分享自己的发现的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But now it's too late! I've been knighted by beauty! There's no turning back! Turn me around, and I'll run backwards!</Source>
+      <Dest>可是太迟了啦！我已经因美丽而加冠进爵！那里没有回头路！就算把我转个身，我也会倒退着跑向前方！</Dest>
+    </String>
+    <String List="2">
+      <Source>But that song is so depressing! Alright...if that's what you want.</Source>
+      <Dest>可那首歌多哀伤啊！好吧，要是你确实要听的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although granted, back then I was just a kid with a pair of adventure boots and Pa's old war sword. </Source>
+      <Dest>虽然获得准许，可那时我只是个穿着双冒险者靴子拿着老爸旧剑的小孩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thanks! You too!</Source>
+      <Dest>谢谢！你也一样！</Dest>
+    </String>
+    <String List="2">
+      <Source>Last time I picked some obscure poem about Giants, and they already knew the words. They scolded me for trying to pass it off as my own.</Source>
+      <Dest>上次我摘取了一些关于巨人的朦胧诗，并且他们已经知道了这些句子。他们骂我想把这些诗当作我自己的。</Dest>
+    </String>
+    <String List="2">
+      <Source>As the niece to 12 aunts and uncles, and the proud relative of 24 cousins, I say, shame on them!</Source>
+      <Dest>作为12个叔叔阿姨的侄女，还有24个骄傲的堂表亲戚，我得说，真是各种丢脸！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, whenever I felt neglected, I just raised my voice.  Ma said if I kept shouting, one day it would get stuck.  And she was right!</Source>
+      <Dest>啊，每当我被忽视的时候，我就提高我的声音。妈妈说如果我一直大喊大叫，总有一天会卡住的。事实证明她是正确的！</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean? What else could it be? Are you saying...are you saying it talks? That's amazing! Let's go find it and have a conversation!</Source>
+      <Dest>你是什么意思？它还能是什么？你是在说...你是在说它讲话了？这太不可思议了！让我们找到它然后和它谈谈！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, as the youngest of 8 children, the only way Ma and Pa would let me out of the house is if I stayed clear of danger. </Source>
+      <Dest>呃，作为八个孩子里最小的那个，只有在我呆在房子里有切实危险的时候，爸妈才会让我离开。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Given I'm supposed to be a student at the Bards College, my parents expect nothing short of an original poem or composition.</Source>
+      <Dest>考虑到我本该是吟遊诗人学院的学生，我的父母期望我华文藻词出口成章。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't really like sad songs. Well, I'll just have to do my best to make them more uplifting!</Source>
+      <Dest>我真的不喜欢伤感的歌曲。呃，我会尽力把它们弹得更欢快的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Directions, probably. Words, definitely. Pictures, maybe. All three? One can only hope!</Source>
+      <Dest>指引？很可能。对话？当然会。图画？也许。所有这三个？你只能期望会这样！</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean, make something original? Wow, that's a great idea! I wonder why I never thought of that!</Source>
+      <Dest>你的意思是，做一些独创的东西？哇，那真是个好主意！为什么我就没有想到呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...that's a good question.  I guess whenever we happen to run into one of them. It would be rude if I didn't introduce you then.</Source>
+      <Dest>恩吗...好问题哈。我觉得不论何时我们遇到他们，如果我不向他们介绍你都会显得很粗鲁.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it's absolutely perfect, if you're lazy and impolite. Is that what people think of me? Gods, I hope not.</Source>
+      <Dest>好吧，如果你就这么又懒又粗鲁的话，那就太完美了。人们是这么看我的吗？众神啊，我希望不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I don't see any of them here.  So I'd say they're pretty far from the both of us.  That's a strange question.</Source>
+      <Dest>好吧，我没在这儿见到他们之中的任何人。我想说他们离我俩相当远。这真是个奇怪的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Where do we start! How do we start? I'm ready to make something worthy of Dibella, just point the way!</Source>
+      <Dest>我们怎么开始！我们从哪里开始?我已经准备好为迪贝拉做一些好事了,只要告诉我该怎么做!</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, don't worry, it will. And if it doesn't, then there will be something else. Keep a positive attitude and good things will happen!</Source>
+      <Dest>哦，别着急，一切都会好的。如果没有的话那就会出现一些别的什么东西来补救。保持一个积极乐观的态度，然后就会有好事发生的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Why yes! I learned how to play the lute when I was little. Although I'd much rather play the harp. I'm sure that's what Dibella would want.</Source>
+      <Dest>啊对啊！我从小就学习演奏鲁特琴了。虽然我更喜欢弹竖琴。我想那才是 迪贝拉 喜欢的乐器吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's always the same gift. What else does a student of the Bards College get besides a song or a poem?</Source>
+      <Dest>噢，总是一样的【礼物】啊。吟遊诗人学院 的学生除了诗词歌赋之外还能得到什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I love that song! It always gets the place moving.</Source>
+      <Dest>我爱这首歌！它总是能让气氛活跃起来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is something the matter?</Source>
+      <Dest>出了什么事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Is something the matter?</Source>
+      <Dest>出了什么事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And besides, we don't have to make a detour. If we happen to go by Solitude, then maybe we can cast our reading nets and trawl for ideas!</Source>
+      <Dest>此外，我们不必非得走弯路。 如果我们碰巧要去独孤城，那也许我们能拓展一下自己的阅读面，多网罗一些想法!</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if it's possible to compose something of my own? I mean, how hard could be? Dibella will be writing most of it anyway!</Source>
+      <Dest>我不知道能不能写点儿自己的东西？我是说，怎么可能？无论如何迪贝拉都会去写大部分的内容！</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if it's possible to compose something of my own? I mean, how hard could be? Dibella will be writing most of it anyway!</Source>
+      <Dest>我不知道能不能写点儿自己的东西？我是说，怎么可能？无论如何迪贝拉都会去写大部分的内容！</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it's somebody's birthday, and I need to get them a gift!</Source>
+      <Dest>嗯，这是某个人的生日，而我需要给他们买一份礼物！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's not something I have to think too hard about.</Source>
+      <Dest>哦，没什么事儿值得我这么努力的想。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm still trying to work out the melody. Sorry.</Source>
+      <Dest>我还在试着搞出个旋律来，抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm still trying to work out the melody. Sorry.</Source>
+      <Dest>我还在试着搞出个旋律来，抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm still trying to work out the melody. Sorry.</Source>
+      <Dest>我还在试着搞出个旋律来，抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>What would you like me to play?</Source>
+      <Dest>那我要扮演个什么角色？</Dest>
+    </String>
+    <String List="2">
+      <Source>What would you like me to play?</Source>
+      <Dest>那我要扮演个什么角色？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you want beauty, you should see me naked. The mountain view is spectacular.</Source>
+      <Dest>如果你想见识下何谓美丽，那你只要看看我的裸体就知道了，我的双峰可是非常壮观的。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you want beauty, you should see me naked. The mountain view is spectacular.</Source>
+      <Dest>如果你想见识下何谓美丽，那你只要看看我的裸体就知道了，我的双峰可是非常壮观的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why didn't you join the guard or military?</Source>
+      <Dest>你为什么不成为守卫或者为军队效力呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why didn't you join the guard or military?</Source>
+      <Dest>你为什么不成为守卫或者为军队效力呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Were you in Markarth during the Forsworn Rebellion?</Source>
+      <Dest>Forsworn叛乱时，你人在Markarth吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Were you in Markarth during the Forsworn Rebellion?</Source>
+      <Dest>Forsworn叛乱时，你人在Markarth吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What skills do you possess as an adventurer?</Source>
+      <Dest>作为一个冒险家你有什么技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>What skills do you possess as an adventurer?</Source>
+      <Dest>作为一个冒险家你有什么技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>What skills do you possess as an adventurer?</Source>
+      <Dest>作为一个冒险家你有什么技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of weapon do you prefer?</Source>
+      <Dest>你喜欢哪种武器？r?</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of weapon do you prefer?</Source>
+      <Dest>你喜欢哪种武器？r?</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of weapon do you prefer?</Source>
+      <Dest>你喜欢哪种武器？r?</Dest>
+    </String>
+    <String List="0">
+      <Source>This tree is indeed magnificent. We must inform everyone of its splendor.</Source>
+      <Dest>这棵树实在是宏伟，我们必须告诉所有人它的壮丽之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you want to see a more majestic tree, then you ought to see me naked.</Source>
+      <Dest>如果你想看到一个更加雄伟的树，那么你应该先看看我的裸体。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you want to see a more majestic tree, then you ought to see me naked.</Source>
+      <Dest>如果你想看到一个更加雄伟的树，那么你应该先看看我的裸体。</Dest>
+    </String>
+    <String List="0">
+      <Source>This eyesore pains me deeply. Perhaps I will wash out its memory in the stream.</Source>
+      <Dest>那个丑八怪，瞎了我的狗眼。或许我得到小溪里洗洗才行。</Dest>
+    </String>
+    <String List="0">
+      <Source>This eyesore pains me deeply. Perhaps I will wash out its memory in the stream.</Source>
+      <Dest>那个丑八怪，瞎了我的狗眼。或许我得到小溪里洗洗才行。</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth would explain the fascination with Dibella.</Source>
+      <Dest>马卡斯城可以解释迪贝拉的迷人之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth would explain the fascination with Dibella.</Source>
+      <Dest>马卡斯城可以解释迪贝拉的迷人之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth would explain the fascination with Dibella.</Source>
+      <Dest>马卡斯城可以解释迪贝拉的迷人之处。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you play your lute.</Source>
+      <Dest>我想听你弹琴。</Dest>
+    </String>
+    <String List="0">
+      <Source>My duty as an adventurer is to go on adventures. It's fairly self-explanatory.</Source>
+      <Dest>作为冒险者我到处冒险就行了，很容易自圆其说。</Dest>
+    </String>
+    <String List="0">
+      <Source>My duty as an adventurer is to go on adventures. It's fairly self-explanatory.</Source>
+      <Dest>作为冒险者我到处冒险就行了，很容易自圆其说。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think my eyes closed for another week.  I couldn't breathe, I couldn't sleep.  The beauty I witnessed was ten times more important.</Source>
+      <Dest>我不认为我看走眼了。我不能呼吸，也难以成眠。我所见证的美丽至关重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>I found clubbing things with a mace is pretty effective...and also pretty ugly.  Not pretty at all, actually.</Source>
+      <Dest>我发现棒槌一样的权杖是相当有效的……也很丑。特别的丑！真的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's our duty as adventurers to bring the people to the tree and the tree to the people!</Source>
+      <Dest>这是我们冒险家的职责，带给人们树还有树还有树还有树！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, that didn't come until after I became an adventurer.  I was deep in some nameless cave, winding my way down toward the bottom of the earth.</Source>
+      <Dest>噢，那是直到我成为一个冒险者之后的事。有一次我在一个不知道名字的洞穴里，慢慢走向大地的深处……</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma and Pa fought for the Empire during the Great War. Although I don't see what's so great about it.  I'm sure it's over my head.</Source>
+      <Dest>我跟帕在世界大战中与帝国对抗。虽然我并不觉得这是什么好事。这件事不是我能理解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Will you look at this tree!  They say beauty is in the eye of the beholder, but it's remarkable how often those eyes are mine.</Source>
+      <Dest>你看这棵树!他们说美丽之物是存在于旁观者眼里的, 但值得注意的是 ，那双善于发现美的眼睛经常是我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes!  Dispatch the couriers!  Have the Jarls make a decree!  To each and every citizen of this land, I say, open your eyes, and behold its beauty!</Source>
+      <Dest>对！派遣信使！向这片土地的每一位公民传达领主的命令！我说，睁大你的双眼，欣赏它的美好！</Dest>
+    </String>
+    <String List="2">
+      <Source>Although growing up in the Reach helped.  First thing you learn is how to deal with heights.  After that, Dwarven ruins are a cinch.</Source>
+      <Dest>尽管生长在瑞驰有所帮助，但你学会的第一件事情应该是如何解决高度问题。在那之后，矮人遗迹就是小菜一碟。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a Voice wielding power of the ancient Nord art;  Believe, believe the Dragornborn comes;</Source>
+      <Dest>【歌词待校对】诺德技艺，龙吼回归。没错，没错，他是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the darkness has passed and the legend yet grows; You'll know, you'll know the Dragonborn comes.</Source>
+      <Dest>【歌词待校对】黑暗消逝，传奇之曲正在编织。你会发现，你会发现，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm five months past a woman grown.  I've killed a bear, drank my first mead, and can pitch a tent if you need it.</Source>
+      <Dest>我已经成年五个月啦。我杀过一头熊，喝了第一瓶酒，而且有必要的话还能搭帐篷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let nature now surround you, let it fill up your heart! We're the clay that She shapes, we are all Dibella's art.</Source>
+      <Dest>让大自然包围你，让它充斥着你的心！我们的肉体是迪贝拉创造的，我们是她的艺术品。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Suddenly, the passage opened up, and I found myself in this in a hidden grotto, with a pond and trees and holes in the roof. </Source>
+      <Dest>通道突然之间打了开来，我发现我自己身处一个隐藏的岩穴中，周围有池塘和树木，岩穴顶上还有几个洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>That happened before I was born. But I'm not a greenthumb, honest.</Source>
+      <Dest>那些都发生在我出生之前。但老实说，我不是什么种植好手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ohhhh...but, um, such beauty would be far too much for my eyes to behold.</Source>
+      <Dest>这样的美景让我目不胜收。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ohhhh...but, um, such beauty would be far too much for my eyes to behold.</Source>
+      <Dest>这样的美景让我目不胜收。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why aren't there more people here?  Tours must be organized!  Paintings commissioned!</Source>
+      <Dest>怎么这里就这么点儿人？观光必须得好好组织啊！还得委托别人把这美景画下来！</Dest>
+    </String>
+    <String List="2">
+      <Source>The barracks have...charm, but I want fresh air and blue skies and forests that are woollier than a mammoth.</Source>
+      <Dest>军营有……它自己的魅力,但我想要新鲜的空气和蓝色的天空和森林,还有比猛犸更狂野的动物。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Intro}</Source>
+      <Dest>{介绍}</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil, of all Skyrim's foes; Beware, beware the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】终结邪恶，敌人的末日。当心，当心，龙裔出世。</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll know, you'll know the Dragonborn comes.</Source>
+      <Dest>终将明白，终会深知，龙裔已至。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a soldier of Dibella, I have a reputation to uphold.  Dibella's reputation.</Source>
+      <Dest>作为一名迪贝拉的士兵，我誓死拥护迪贝拉的声誉。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're the ones who taught me everything I know. About battle, that is.  It's not like they had to teach me about exploring. That I taught myself.</Source>
+      <Dest>是他们教给了我所知的一切。当然仅限于战斗上，至于探索不是他们教的，是我自己学会的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I guess the barracks is kind of like a forest. There's a lot of wood and bugs and things. We used to call it Termites' Reach.  </Source>
+      <Dest>虽然我猜想军营跟森林什么的差不多。有很多木头和虫子什么的，我们都管它叫 Termites' Reach.  </Dest>
+    </String>
+    <String List="2">
+      <Source>Skyrim's home to many beautiful things! A butterfly in sunbeams, with jewels on its wings.</Source>
+      <Dest>天际是很多美丽事物的故乡！她是日光下飞舞的蝴蝶，翅膀上还有璀璨的宝石加以点缀。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>Beauty even in battle is very, very important, and I'll die with a sword in my hands before I live with a mace.</Source>
+      <Dest>即使是在战斗中，美丽也是非常，非常重要的。比起使用狼牙棒苟延残喘，我宁愿手里攥着剑的死去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, the Gods made such wonders as gifts to the mortals.</Source>
+      <Dest>噢不，上帝创造了这些奇迹，作为送给凡人的礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>The rivers rush over Whiterun, as the sun rides in the sky, elks graze on the grassland, as a hawk passes by.</Source>
+      <Dest>河水流过雪满城，太阳高照，麋鹿悠闲的吃草，老鹰从空中飞过.</Dest>
+    </String>
+    <String List="2">
+      <Source>The cresting of the waves 'neath the ships at sea, and in the Eldergleam there grows a twining Tree.</Source>
+      <Dest>波浪在船下涌起, 在Eldergleam 长着一颗环抱树.</Dest>
+    </String>
+    <String List="2">
+      <Source>Our hero, our hero, claims a warrior's heart!  I tell you, I tell you, the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】英雄，英雄，勇者无惧。我告诉你，我告诉你，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something must have obstructed your view.  Bats?  Torchbugs?  They can sometimes be distracting.  We need to make sure the lighting here is optimal.</Source>
+      <Dest>肯定是蝙蝠或者Torchbugs挡住了你的视线。它们有时就是那么的让人分心。我们得保证这里的光照是最佳的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Surely you are not referring to the Eldergleam!  Its majesty is as plain as the nose on my face.</Source>
+      <Dest>当然了你根本就没提起古藤圣所！他的威严就像是我脸上的鼻子一样清晰可见。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, you better look your best.  There will throngs of spectators.</Source>
+      <Dest>哦，你最好全力以赴，外面有成群的观众。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're always welcome to follow, but right now what I need is your blessing.</Source>
+      <Dest>永远欢迎你的陪伴，但现在，我需要的是你的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're always welcome to follow, but right now what I need is your blessing.</Source>
+      <Dest>永远欢迎你的陪伴，但现在，我需要的是你的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're free to continue following me, but right now I need your blessing.</Source>
+      <Dest>你可以继续随意跟着我，但现在我需要你的祝福。 </Dest>
+    </String>
+    <String List="0">
+      <Source>The others are hideous. Just like you.</Source>
+      <Dest>其他人很丑陋，就跟你一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some items with you.</Source>
+      <Dest>我要和你交易些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your beauty is as natural as the Eldergleam, my lady.</Source>
+      <Dest>我的女士，你那自然的美貌堪比Eldergleam。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to trade some things with you.</Source>
+      <Dest>我想和你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to trade some things with you.</Source>
+      <Dest>我想和你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not a contest of beauty.</Source>
+      <Dest>这不是关于美的较量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you speak for Dibella in a trial of the Nine Divines?</Source>
+      <Dest>在九圣灵面前，你还会为迪贝拉辩护吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you speak for Dibella in a trial of the Nine Divines?</Source>
+      <Dest>在九圣灵面前，你还会为迪贝拉辩护吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you speak for Dibella in a trial of the Nine Divines?</Source>
+      <Dest>在九圣灵面前，你还会为迪贝拉辩护吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm a soldier of Dibella!  Everything is about beauty!  What will they say if I'm uglier than Mara?</Source>
+      <Dest>我是迪贝拉的战士！万物之美！如果我比玛拉还难看，人们会怎么想？</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.  What do you need?  It doesn't matter!  You can have it all!</Source>
+      <Dest>好吧。你需要什么?没关系!你可以拥有一切!</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, I bet all the world's orichalcum is in this mine. There's more of it than there is rock!</Source>
+      <Dest>哇哦，我敢说世界上所有的黑铜都在这座矿里。它们比这儿的石头还多！</Dest>
+    </String>
+    <String List="2">
+      <Source>I hear when ships pass through this channel, everyone runs to the top deck to check out the view.</Source>
+      <Dest>我听说当船通过这条海峡时，人人都跑上甲板看风景。</Dest>
+    </String>
+    <String List="2">
+      <Source>These two towers are impressive, but the valley carved between them is awe-inspiring.</Source>
+      <Dest>这两座塔令人印象如此深刻，但更令人敬畏的则是那雕刻在山谷之间（之物）。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a Voice wielding power of the ancient Nord art;  Believe, believe the Dragornborn comes;</Source>
+      <Dest>【歌词待校对】诺德技艺，龙吼回归。没错，没错，他是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh look at the little islands! They all have candles on them. It really goes well with the water. Nothing bad could come out of this.</Source>
+      <Dest>喔～瞧那些小岛！上面还有蜡烛呢。它们在水面呆得真稳当。这里总不会出什么坏事。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the darkness has passed and the legend yet grows; You'll know, you'll know the Dragonborn comes.</Source>
+      <Dest>【歌词待校对】黑暗消逝，传奇之曲正在编织。你会发现，你会发现，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let nature now surround you, let it fill up your heart! We're the clay that She shapes, we are all Dibella's art.</Source>
+      <Dest>让大自然包围你，让它充斥着你的心！我们的肉体是迪贝拉创造的，我们是她的艺术品。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Look at that light! Even in the darkest, dirtiest caves, the light of Dibella burns away the evil.</Source>
+      <Dest>快看那道光！ 即使在最黑暗，最肮脏的洞穴里，迪贝拉（掌管爱和美的女神）的光芒会驱散恶魔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, is this some kind of tournament?  Why haven't I heard about it?  Why hasn't anyone told me!</Source>
+      <Dest>等等，这是某种比赛吗？完全没听说过啊，为什么没人告诉我！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Shor's Bones, did he say magic spiders? I wonder if they studied at the College?</Source>
+      <Dest>舒尔之骨，他说了魔法蜘蛛了么？他们有没有在学院里学过啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay!  I accept on both counts!  Just say the word and I'm right behind you!</Source>
+      <Dest>好吧！我接受这两点！只要你一句话，我就跟在你身后！</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay!  I accept on both counts!  Just say the word and I'm right behind you!</Source>
+      <Dest>好吧！我接受这两点！只要你一句话，我就跟在你身后！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma always said you can tell a lot about a man by the tidiness of his room. And that bed is all kinds of crooked.</Source>
+      <Dest>妈妈经常说你可以从一个男人的床看出他的为人，而那张床乱的一塌糊涂。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Intro}</Source>
+      <Dest>{介绍}</Dest>
+    </String>
+    <String List="2">
+      <Source>Look at how fast the water rushes east! The salmon back near Whiterun must be as strong as Giants to swim upstream!</Source>
+      <Dest>看看奔流向东的水多快啊！从下游返回雪漫的大马哈鱼一定要像巨人一样强壮才能逆流而上！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll need to get my hair done, and my armor polished.  I need to look my best.</Source>
+      <Dest>我需要修剪一下我的头发，打磨一下我的铠甲。我要把我最好的一面展现出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?  That can't be.  My mother told me I was beautiful!  Are you calling her a liar?  How rude.</Source>
+      <Dest>什么？怎么可能。我母亲口中的我可是很漂亮的啊！你是想说她在撒谎吗？真没礼貌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Put on your jester pants, heroes! Let's hop, skip, and tumble our way forward!</Source>
+      <Dest>穿上你的小丑的裤子，英雄！让我们跳跃着，蹦跶着，翻滚前进吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>By Dibella's grace, that light doesn't look natural. But neither does anything else in this ruin.</Source>
+      <Dest>迪贝拉的恩泽啊，那光看起来不太自然。但在这种遗迹里，这也不叫事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil, of all Skyrim's foes; Beware, beware the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】终结邪恶，敌人的末日。当心，当心，龙裔出世。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need to take?</Source>
+      <Dest>你需要多长时间?</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll know, you'll know the Dragonborn comes.</Source>
+      <Dest>终将明白，终会深知，龙裔已至。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, that magic...it's beautiful! Of course, it's also a horrifying, unnatural abomination that must be purged from this cave. But it is pretty.</Source>
+      <Dest>噢，那魔法...实在太赏心悦目了！当然，那也同样让人感到恐惧。令人厌恶的非自然存在必须得从这个山洞里清除掉。但那东西看起来挺漂亮的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bleh. Dirty dishes and no place to wash them. No wonder they're all piled up. Wizards never take into account the little things.</Source>
+      <Dest>啧。那么多脏碟子却没有地方洗它们。难怪难怪它们能堆这么高。看起来巫师们从不关心小事。</Dest>
+    </String>
+    <String List="2">
+      <Source>These barrels are mostly empty. Which means these bandits haven't done a raid in months.</Source>
+      <Dest>这些桶大都空着。说明这些强盗已经好几个月没有干上一票了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've seen traps like these. Flames come shooting out from all directions. Well, I say we charge ahead and dance our way through!</Source>
+      <Dest>我见过这样的陷阱。火焰会从四面八方喷射而来。呃，我说我们得往前冲然后蹦跶着通过它！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes! Let's go!  Beauty waits for no one!</Source>
+      <Dest>好耶！咱们上！白富美可不等矮丑挫啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Look how high this wall is! Look at all the steps! But don't worry, just imagine there's a Greybeard waiting at the top, and we'll be just fine!</Source>
+      <Dest>看这面墙多高啊！看那些数不清的台阶！不过别担心，想想灰胡子们在上面等着，心里就有底啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>That sounds...vital. And Dibella has chosen me to be her champion?  What an honor!</Source>
+      <Dest>那听起来…很重要。迪贝拉选择我做她的守护者？这是何等的荣耀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes! Another puzzle solved! Thinking helms off, slaying gear on!</Source>
+      <Dest>很好! 又一个问题解决了!干掉头盔，摧毁齿轮！</Dest>
+    </String>
+    <String List="2">
+      <Source>This room looks important. Which means it's time to grit our teeth, and teach this mage to respect the dead!</Source>
+      <Dest>这屋子看起来挺重要的。这也意味着我们该咬紧牙关，到了教会那帮法师尊重死者的道理的时候了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, what if my best isn't good enough?  What if there's someone else prettier?  What do the others look like?</Source>
+      <Dest>哦天哪，如果我最好的样子还不够好呢？如果某些人更漂亮呢？其他人都长什么样儿？</Dest>
+    </String>
+    <String List="2">
+      <Source>Skyrim's home to many beautiful things! A butterfly in sunbeams, with jewels on its wings.</Source>
+      <Dest>天际是很多美丽事物的故乡！她是日光下飞舞的蝴蝶，翅膀上还有璀璨的宝石加以点缀。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Divines...that smell...and this mist. I hope this temple is small. I don't think I can hold my breath for that long.</Source>
+      <Dest>圣灵在上……这味道……还有这雾。我希望这神殿能小点儿。我不认为自己可以长时间屏住呼吸。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>It is?  I mean, I've always suspected as much but to hear you say it...are you...are we...oh my, what will I tell everyone back home!</Source>
+      <Dest>真的？我是说，我总是抱有怀疑，但如果这是你说的……你……我们是不是……哦天呐，我该怎么让大家乖乖回家去呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>The rivers rush over Whiterun, as the sun rides in the sky, elks graze on the grassland, as a hawk passes by.</Source>
+      <Dest>河水流过雪满城，太阳高照，麋鹿悠闲的吃草，老鹰从空中飞过.</Dest>
+    </String>
+    <String List="2">
+      <Source>The cresting of the waves 'neath the ships at sea, and in the Eldergleam there grows a twining Tree.</Source>
+      <Dest>波浪在船下涌起, 在Eldergleam 长着一颗环抱树.</Dest>
+    </String>
+    <String List="2">
+      <Source>Our hero, our hero, claims a warrior's heart!  I tell you, I tell you, the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】英雄，英雄，勇者无惧。我告诉你，我告诉你，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say when walking narrow bridges like this not to look down. I reject that claim! Look down, look up, look everywhere! Don't miss any of it!</Source>
+      <Dest>他们说当你通过一架窄桥时不要往下看。我认为这种说法不对！向下看，向上看，到处看！不要错过任何事情！</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to trade some things with you.</Source>
+      <Dest>我想和你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to trade some things.</Source>
+      <Dest>我想卖点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anything else?</Source>
+      <Dest>还有其他事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Serpent's Bluff used to be an old Nord fort, didn't it? I really don't get why the Jarls abandon these. They should turn them into observatories.</Source>
+      <Dest>蛇石断崖曾经是作为一个诺德古要塞而存在着不是吗？我实在无法理解为什么它会被领主们废弃，他们应该用它来做瞭望塔。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm glad you rescued Fjotra. A new Sybil is going to do good things for the Temple of Dibella. Those priestesses have lost their way.</Source>
+      <Dest>我很高兴你救出了Fjotra。一个新的预言者会给迪贝拉神殿带来转机。那些女祭司已经迷失了方向。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood!</Source>
+      <Dest>明白!</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, onward!  Only in separate directions!  I guess what I'm saying is, safe travels friend!</Source>
+      <Dest>对，向前！坚定的朝前走！我是说，一路平安，朋友！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that Nettlebane? The blade looks like its been stained green. It must have killed a lot trees. Amalee does not approve!</Source>
+      <Dest>那就是草木灾星？它看起来都被绿色浸透了。不知杀死过多少树木了啊，艾玛莉不答应！！</Dest>
+    </String>
+    <String List="2">
+      <Source>Who was that Khajiit talking to? All I see is a dead person.</Source>
+      <Dest>那个虎人在跟谁说话呢？那里只有一个死人啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two beds, a warm fire, and a view of Solitude. This place is almost perfect, except for all the bandits.</Source>
+      <Dest>这里有两张床，一个温暖的火炉，还有孤独城美景。这地方简直完美，除了这一大堆盗贼之外。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright. But if you see something remarkable, don't be afraid to shout.</Source>
+      <Dest>好吧。但是如果你看到一些不寻常的， 可别害怕得大喊大叫啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>What a beautiful cave. I don't blame this Gathrik for burying himself here, even if doing so defiles it.</Source>
+      <Dest>好一个美丽的洞穴啊。真不怪Gathrik要把自己埋在这儿，就算那会玷污这儿的美景。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dibella protect us! What kind of person would do this? I guess it wouldn't be a person at all! More like a Daedra. Let's look for clues.</Source>
+      <Dest>迪贝拉保佑我们！什么样的人会干这种事儿？我觉得这根本不是人！更像是个魔人。找找线索。</Dest>
+    </String>
+    <String List="2">
+      <Source>Trading things is always fun.</Source>
+      <Dest>好吧。交换东西是挺有趣儿的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That Rueful Axe looks evil. Probably because it belongs to a Daedric Lord. But also because axes are almost as ugly as maces.</Source>
+      <Dest>这把哀伤之斧看起来挺邪恶。也许因为它属于一个魔族领主。但也是因为这把斧子几乎和把锤子那么丑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink a resist cuteness potion! Hold hands with your loved one! Behold the Gildergreen sapling! Nature's newest baby!</Source>
+      <Dest>来试试看这瓶伶俐抵抗药水啦！喝了它你就能与你的恋人牵手啦！看看那翠苒树的小树苗！那可是神奇的自然的最新产物啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>These Falmer should know better.  I know what's it like to have a unruly roommate, but enslaving them is uncalled for.</Source>
+      <Dest>这些雪精灵应该更清楚。我知道和一个凶横的人同住的感觉，但是奴役他们完全没道理。</Dest>
+    </String>
+    <String List="2">
+      <Source>This view seems to be obstructed by Giants. I don't suppose asking them to leave will help either. Giants are pretty rude.</Source>
+      <Dest>本来风景挺美的，可惜被巨人乱入了。我想也不可能求他们帮个忙或干脆命令他们离开什么的。巨人可是非常粗鲁的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why are these people serving the Falmer? We need to cure them of their afflictions! Gather the apothecaries! Pull the nirnroot! It's time to heal!</Source>
+      <Dest>为什么这些人要为领主服务？我们要解除他们的烦恼！聚集药剂师们！加入奈恩之根！是时候治愈他们了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Meridia's beacon is a very beautiful gem. It almost makes you forget that it's just another kind of rock.</Source>
+      <Dest>美瑞蒂亚的灯塔是个绝美至极的宝石。它几乎会让你忘了它其实只是另一种石头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I really like these glowing mushrooms. I wonder if they come in smaller sizes. I want to take one home and use it as a torch.</Source>
+      <Dest>我真的很喜欢这些发光的蘑菇。我想如果它们能更小一号的话，我就想摘一个回家把它当火把用了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right away!</Source>
+      <Dest>马上！</Dest>
+    </String>
+    <String List="2">
+      <Source>This Septimus reminds me of my Uncle Dengar. Ma says he chewed on one too many blisterworts.</Source>
+      <Dest>这个赛普汀默示让我想起了我的丹戈尔叔叔。妈妈总说他气泡草吃多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I were ran this town, I'd sell the mines first chance I got. At least the Silver-Bloods are offering money. The Forsworn offer blood.</Source>
+      <Dest>如果当初是我在经营这个小镇，那我肯定在第一时间就把矿井给卖了。至少银血家族的人在提供赏金。而弃誓者们则要放点血了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Gildergreen is beautiful but sad. Maybe I'm still mad at you for hurting the Eldergleam, but I feel like I'm looking at a caged animal.</Source>
+      <Dest>翠苒树很美，但令人伤感。也许因为你伤害了古藤，我仍然有些生气，但我觉得自己就好像在看着一头笼中困兽一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was pretty rude of the bandit to attack us after we saved him. Rude and stupid.</Source>
+      <Dest>这强盗在我们救了他之后还袭击我们真是太粗鲁了。又粗鲁有愚蠢。</Dest>
+    </String>
+    <String List="2">
+      <Source>That Draugr was tough. He kept getting back up. I don't like it when dead things do that.</Source>
+      <Dest>那尸鬼真耐操。他不停地站起来。已死之物仍执意徘徊人世，真是令人头痛。</Dest>
+    </String>
+    <String List="2">
+      <Source>This poor man reminds me of my cousin Or. His wife was also kidnapped by bandits. But he was married to his gold, so it's not as tragic as it sounds.</Source>
+      <Dest>这可怜的家伙让我想起了我的堂兄 Or. 他的老婆也被强盗绑架了。不过他是跟他的金子结婚的，所以也许没有听上去的那么严重。</Dest>
+    </String>
+    <String List="2">
+      <Source>So is that mask supposed to be a reward? It's hideous.</Source>
+      <Dest>就拿这么个面具当奖赏？丑爆了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Awaiting your instruction!</Source>
+      <Dest>你指哪，我打哪！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a shame Fjola had to die. Christer too. Well, I guess one was a bandit and the other was crazy, so mostly the shame's on them.</Source>
+      <Dest>这简直是一个耻辱，菲欧拉必须死。克里斯特也得死。好吧，我猜其中一个是土匪另外一个是疯子，他们有多大的耻辱啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shipwrecks like the Orphan's Tear are really said. But they are appropriately named.</Source>
+      <Dest>沉船像孤儿之泪一说倒是真的。但它们的称呼的确挺形象的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These adventurers may have died, but chin up! They're not here, they're up there! Yes, that's a roof. But it looks just like the heavens!</Source>
+      <Dest>这些冒险者可能已经死了, 但是加油，不要泄气! 他们并不在这里, 他们在那里! 对，那只是一个屋顶. 但它看起来就像天堂!</Dest>
+    </String>
+    <String List="2">
+      <Source>So the map says this place is called Widow's Watch? It's a shame the tower fell over. Now nobody can watch anything.</Source>
+      <Dest>地图上说这地方叫 Widow's Watch? 可惜啊这塔已经倒了。谁也没法在这儿瞭望谁了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, a fishing boat! These bandits must've really liked salmon.</Source>
+      <Dest>哦，一艘渔船！那些强盗看起来是真心喜欢鲑鱼。</Dest>
+    </String>
+    <String List="2">
+      <Source>This shrine smells foul. I'll just be standing over here, holding my nose.</Source>
+      <Dest>这圣坛的气味太差。我还是站在这边，捂住鼻子等着算了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Awaiting your orders!</Source>
+      <Dest>就等你的命令！</Dest>
+    </String>
+    <String List="2">
+      <Source>So this Saadia is the one the Alik'r are looking for? What will you do? Who do you trust? Don't look at me, I trust everyone.</Source>
+      <Dest>所以说那帮阿利克尔战士所找的那个人并不是萨蒂娅？你打算怎么做呢？要相信哪一边呢？哦别看着我，我从不怀疑任何人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would if I could!</Source>
+      <Dest>如果我能的话一定！</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course! But perhaps someone as kind as yourself will keep my load light?</Source>
+      <Dest>没问题！但是，有没有一个像你这样的大好人能让我少背点东西呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Poor Melka! I can't believe someone would do this to her! Of course, she's a hideous deformity born from evil, so she deserves everything she gets.</Source>
+      <Dest>可怜的梅尔卡！我简直无法相信居然有人会那样对待她！当然，既然她就是个恶魔所生的丑陋的畸形儿，那她所受的一切也是活该。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anything else?</Source>
+      <Dest>还有其他事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a nice little laboratory. It's really clean too, well, except for the cobwebs. I wonder if tiny Dwemer spiders made them.</Source>
+      <Dest>这是个如此精巧的实验室。真的很干净，呃，除了那些蜘蛛网。我不知道蛛网是不是那些超小型的锻莫蜘蛛结的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother told me stories of the Wolf Queen. She was a bad person. And these necromancers were trying to summon her? Shame on them!</Source>
+      <Dest>我母亲给我讲过狼女王的故事。她坏透了。这帮亡灵法师在尝试召唤她？真不知廉耻！</Dest>
+    </String>
+    <String List="2">
+      <Source>This Wood Elf should have left nature well alone. Bears don't like it when you move your stuff into their home. Heck, people don't like it either.</Source>
+      <Dest>这个木精灵不应该去干涉自然的事情。熊不喜欢你把杂七杂八的玩意儿放进它的地盘，见鬼！人也是一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh wow, a pirate ship! I heard they all have eyepatches and parrots and sideburns that go on forever! At least, that's what my uncle Vald told me.</Source>
+      <Dest>哇哦，是海盗船！我听说过他们的所有故事！眼罩，鹦鹉和胡子，还有永远不放弃的信念！至少，我叔叔瓦尔德是这么告诉我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fjola shouldn't give up on the marriage. Maybe Christer can become a bandit too! They could even kidnap a priest of Mara and renew their vows!</Source>
+      <Dest>费尤拉不应该放弃她的婚姻。也许克里斯特也能够成为一个强盗。他们甚至可以绑架玛拉的祭司更改他们的誓言！</Dest>
+    </String>
+    <String List="2">
+      <Source>This trouble at Wolfskull Cave sounds like a job for a seasoned adventurer. Which is exactly what we are! Onward! Let no wolf or skull go unexamined!</Source>
+      <Dest>这个在恶狼头骨洞穴的麻烦听起来像是需要一个经验丰富的冒险者去解决. 这正是我们来这里的原因! 前进! 无论恶狼还是头骨，一个也不要留!</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't be done!</Source>
+      <Dest>恕难从命!</Dest>
+    </String>
+    <String List="2">
+      <Source>The Silver-Blood inn.  If our blood was really silver, after a battle we could make pendants out of our wounds.  Wouldn't that be great?</Source>
+      <Dest>银血旅店。如果我们的血真的是银子做的，那每当我们干完架，就能用伤口流出的血做成银饰了，挺不错的不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>An inn.  Rest for the weary adventurer, and tired eyes.  Come morning, they will be wide open once more.</Source>
+      <Dest>客栈，让疲惫的冒险家休息，得以合上他们困顿的眼睛。清晨到来时，冒险家们将再次睁开双眼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's Wall just looks like a bunch of shadows and swirls. We must color the flames red!  The swords silver! Re-sculpt the hero to match your face!</Source>
+      <Dest>奥杜因之墙看起来只是一大堆阴影和漩涡什么的。我们应该把火焰涂成红色！把刀剑漆上银漆！把英雄的脸修改成你的模样！</Dest>
+    </String>
+    <String List="2">
+      <Source>Are those two fighting?  This place is scary.</Source>
+      <Dest>那两个人是在打架吗？这地方太可怕了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I could've told you Arngeir wasn't the leader. The wisest monk always climbs to the top of the mountain. It's the best way to enjoy the view!</Source>
+      <Dest>我可以告诉你艾恩盖尔不是领导者。最聪明的修道士总是爬到山顶。这是欣赏风景的绝佳方式！</Dest>
+    </String>
+    <String List="2">
+      <Source>Whiterun is a good example of classic Nord architecture.  We still have a long way to go though before measuring up to nature.</Source>
+      <Dest>白漫城的建筑是很典型的诺德风格。在测出它的本质之前，我们还有许多困难要克服。</Dest>
+    </String>
+    <String List="2">
+      <Source>A lot of hunters live in this hold. It's like exploring caves, only outdoors.  You really have to get high up though to enjoy the view.</Source>
+      <Dest>一些猎人住在这个洞里。就像是勘探山洞，野外那种。你真的该爬高点看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think I'm done shouting for today.  I could use a drink.  Does this place serve milk?  Oh, I mean, um, order me your biggest mead cup.</Source>
+      <Dest>我想我做了，一天到晚大喊大叫，我应该喝点什么。这里提供牛奶吗？  哦，我的意思是，呃，给我端上你这儿最大号的蜂蜜酒酒杯来。</Dest>
+    </String>
+    <String List="2">
+      <Source>This city is too gray. Ask the women for their makeup, have the artists donate their palettes! We will wash the stones with colors of happiness!</Source>
+      <Dest>这座城市太灰暗了。跟女士索要她们的化妆品，让艺术家捐出他们的调色板！我们会给每一块儿石头都涂上幸福的颜色！</Dest>
+    </String>
+    <String List="2">
+      <Source>If I owned a house like this, it would be hard for me to leave. But leave I must, for adventure's sake.</Source>
+      <Dest>要是我有这样的房子，恐怕就很难想要离开了。可我必须离开，因为我是个冒险者。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would never disparage sleeping outside.  Every night, Dibella blesses us with a necklace of stars.  But warm fires and warm beds are nice too.</Source>
+      <Dest>我从不反对露宿。每天晚上迪贝拉的星型项链都在保佑着我们。但是温暖的炉火和被窝也很棒啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I once had a nightmare.  I think.  I woke up, looked in the mirror, and my nose was crooked.  Does that count?</Source>
+      <Dest>我想我曾经有过一场噩梦：“我醒来，看着镜中的自己，发现我的鼻子歪了。”这算吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Stores are a good place to find all sorts of artful trinkets.  It's almost like indoor adventuring.</Source>
+      <Dest>商店是发现各种巧妙的小玩意儿的好地方。就跟室内冒险一个样。</Dest>
+    </String>
+    <String List="2">
+      <Source>The people in this city are very beautiful. It must be very hard for newcomers to get attention. N-not that I'm afraid of a little competition.</Source>
+      <Dest>这个城市的人们都太漂亮了，外来者在这儿很难引起人们的注意。我可不是害怕来一场小竞赛喔。</Dest>
+    </String>
+    <String List="2">
+      <Source>My parents fought for the Empire.  Although so did the Stormcloaks.  Wars are confusing.</Source>
+      <Dest>我的父母为了帝国而战，而风暴斗篷们也一样。战争这东西真是令人费解。</Dest>
+    </String>
+    <String List="2">
+      <Source>We must save these Orc Strongholds.  Grab the chief by the shoulders!  Shake him mightily! Tell him beauty is out there, waiting to be seen!</Source>
+      <Dest>我们必须拯救这些兽人要塞。抓住酋长的肩膀！把他摇来晃去！告诉他美人儿就在那边，等着被看呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>The buildings in Solitude are, erm, nice, but they seem a bit unnatural.  They don't blend into the mountain as well as Markarth. </Source>
+      <Dest>孤独城里的建筑都，呃，很棒，但是看起来有一点不自然。它们不像马卡斯城的建筑物一样会融入周围的山里。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I think when I retire from adventuring, I'll come live in the Rift.  The Fall Forest is like raining art.</Source>
+      <Dest>我想当我不再冒险的时候，我会住在裂痕领。秋林的落叶似雨一般的让人着迷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits everywhere, awaken from your slumber! Be not a vandal of nature, but a witness! A crier! Show the people nature's beauty and yours!</Source>
+      <Dest>强盗随处可见，从你的迷梦中醒来吧！不要做自然地破坏者，只做它的目击者！它的宣扬者！让人们欣赏你和自然之美吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a crime the way these mines are decorated.  As in, they aren't decorated at all!  Call the foreman!  File a complaint!  Something must be done!</Source>
+      <Dest>这样的方法是犯罪！这些矿井都被【装饰】了。却跟他们完全没被装饰一个样！叫工头来！我要投诉！必须做点儿什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know about the temple, but this is a beautiful ravine.  The Forsworn should be ashamed of themselves for not sharing it.</Source>
+      <Dest>我不知道关于神殿的事情，不过这峡谷可真美啊。居然不愿把这么好的地方与大家共享，那帮弃誓者们不会问心有愧么。</Dest>
+    </String>
+    <String List="2">
+      <Source>We must show these warlocks the error of their ways.  We must make them peacelocks, agents of good.  I'm just not sure how.</Source>
+      <Dest>我们必须给这些巫师们指出他们的错误所在。我们得让他们更加“爱好和平“一点儿，让他们乐善好施。我只是不清楚该怎么做。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Spriggan grove.  Sometimes nature isn't all that friendly.</Source>
+      <Dest>一个树精的森林。有时候大自然也表现得不那么友好。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's good to be home.  Markarth may look dangerous, and well...that's because it is.  Always trust your eyes, and not your gut.</Source>
+      <Dest>还是回家好哇。马卡斯城看起来危险，呃好吧……它本来就很危险。总是相信自己的眼睛，而不是你的直觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I believe that in the heart of every brigand lies a soldier of Dibella.  All it takes is 1 sight, 1 landmark, and they will turn.</Source>
+      <Dest>我相信每个强盗都有着一颗成为迪贝拉的士兵的心。只要一个眼神，一个地标，他们就会完成转变。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if they have harps at the Bards College.  Harps are the best.</Source>
+      <Dest>我在想吟游诗人学院他们是不是有竖琴呢。竖琴是最棒的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your house is perfect.  No, better than perfect.  It's almost divine.</Source>
+      <Dest>你这房子可真完美。不，比完美还要美。简直是神圣！</Dest>
+    </String>
+    <String List="2">
+      <Source>I forgot Riften has an orphanage!  Also, beggars.  I may have to rethink my system.  Or does the temple money go to them anyway?  Hmm...</Source>
+      <Dest>我忘了裂谷城有个孤儿院！额，还有乞丐。我可能要好好重新设想我的计划。是不是神庙的钱无论如何都会到他们手里呢？呃。。。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've never actually seen a "winking skeever." Well, I'm sure when I do, it'll be magnificent!</Source>
+      <Dest>我从没有真正见过一只“眨眼雪鼠”。当然喽，我敢说如果真能见到一只那一定棒极了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A temple!  What perfect timing!  Time to free myself of this pesky gold.</Source>
+      <Dest>一座神殿！多完美的时机啊！是时候把我从这惹人烦的金子手中解放出来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits must be reformed.  How can we bring nature to the people if they keep defiling it?  We must let them know of their folly!</Source>
+      <Dest>土匪必须被再造。如果他们继续亵渎它，我们如何才能把自然带到人们身边呢？我们必须让他们知道他们有多么愚蠢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Windhelm needs more cheer. Grab an Argonian by the horns! An Elf by the ears! Point to the heavens and tell them, chin up! It gets better with time!</Source>
+      <Dest>风盔城需要更多的欢呼。看着亚龙人的角！精灵的耳朵！指向天堂然后告诉他们，亮出来！以后会越来越好的！</Dest>
+    </String>
+    <String List="2">
+      <Source>These poor priestesses.  Don't they realize Dibella does not heed the call of those who only seek lust?  Her beauty is not so shallow.</Source>
+      <Dest>这些可怜的女祭司。难道她们没意识到迪贝拉没有回应那些只为寻求肉欲的呼唤吗？她的美可没这么肤浅。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is why it's never good to own things.  You can't lose what you don't have.</Source>
+      <Dest>这便是我终究难以守成的缘由了，非己所有,终未有失.</Dest>
+    </String>
+    <String List="2">
+      <Source>Some think Dwarves were like their buildings, hard and chiseled. I like to imagine they were squishy, with breath that smelled like juniper berries.</Source>
+      <Dest>一些人认为矮人就像他们的建筑物一样，坚硬而棱角分明。我却觉得他们粘糊糊的，闻起来就像是杜松子。</Dest>
+    </String>
+    <String List="2">
+      <Source>We should go north.  I bet there's all sorts of colorful things to see in the marsh.  Like bugs and weird plants and green water!</Source>
+      <Dest>我们应该往北走。我敢打赌，这里有一堆跟沼泽一个颜色的东西。像是虫子啊</Dest>
+    </String>
+    <String List="2">
+      <Source>Orcs of Skyrim! Do not limit yourself!  Mine for natural wonders!  Forge indelible art!  Show the people you are not who they say!</Source>
+      <Dest>天际省的兽人们！不要限制自己！为自然奇观而开矿！为不可磨灭的艺术而锻造！向人们展示你不是他们所说的那种人！</Dest>
+    </String>
+    <String List="2">
+      <Source>This stonework is massive. But you know what's even more massive? The sky! When will mortals learn, all these towers and things just gets in the way!</Source>
+      <Dest>这个石雕非常巨大。但你知道什么是更巨大的吗？天空！什么时候凡人们才会明白，所有这些塔和高大的东西就只是挡道而已！</Dest>
+    </String>
+    <String List="2">
+      <Source>A shipwreck.  The ocean is kind of like walking on a rickety bridge.  Only when you look in the water, you can't really see how far the fall is.</Source>
+      <Dest>一艘破船。航海就像走在不结实的木桥上。Only when you look in the water, you can't really see how far the fall is.</Dest>
+    </String>
+    <String List="2">
+      <Source>Riften is beautiful, but sometimes it seems, I don't know, unstable?  The wood, I mean.  I'm used to Dwarven stone.</Source>
+      <Dest>裂谷城很美，但有些时候觉着吧，我也不知道该怎么说，大概有点不够坚固？我是说，那些木质建筑。我已经习惯了矮人的那些石质建筑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if the current owners will let me into my old house. Would that be intruding? People say I do that a lot, but mostly with personal space.</Source>
+      <Dest>我不知道现在的主人让不让我进自己的老房子里。那会有什么困扰吗？人们说我做了很多，但大多数人都需要些私密的空间。</Dest>
+    </String>
+    <String List="2">
+      <Source>I plan on donating my gold to the temple.  That's why it's a good rule to always go there first.  Stores like this are far too tempting.</Source>
+      <Dest>我打算向神殿捐款。这就是好规则总是先从那里实行的原因。像这样的商店太诱人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I sometimes craft maps, and give them to the stores.  That way people know where to find all of Dibella's wonders.</Source>
+      <Dest>我有些时候也制作地图，然后赋予它们以一个个故事。这样人们就能知道该上哪去找每一处迪贝拉神迹了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dawnstar.  The sunrise here must be amazing.  Wait, is the shore facing north?  I don't get it.</Source>
+      <Dest>晨星城。那里的日出一定很美。等等，是在临北的海岸吗？我不明白。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think Haelga has a very good understanding of what Dibella is about.  Clearly she hasn't read any of the letters I've been passing around.</Source>
+      <Dest>我不认为哈尔嘉能很好的理解迪贝拉是什么。显然她还没有读过我寄过去的信件。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if the steward here has gotten my letters.  I must have sent out hundreds.</Source>
+      <Dest>我不知道这里的管家是否收到了我的来信。我必须再寄他个几百封。</Dest>
+    </String>
+    <String List="2">
+      <Source>High Hrothgar.  Ivarstead.  They call it the Throat of the World, but it's really the easel for a canvas of sky.</Source>
+      <Dest>高吼峰。紫衫镇。人们都把它叫作世界之喉，但它其实是天空这张巨大画板的支架。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you hungry?  I'm hungry.  What should we eat?  Where should we eat?  I guess I'll let you figure out the tough decisions.</Source>
+      <Dest>你饿了吗？我饿了。我们要吃什么？我们要在哪里吃？我猜我会让你解决这个困难的决议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you make a donation? Did you pray at the shrine?  Form a line at the altar, and let us do it once more!  </Source>
+      <Dest>你给香油钱了吗? 你在神殿那祷告了吗?  在祭坛前排成一行, 然后让我们再来一遍!  </Dest>
+    </String>
+    <String List="2">
+      <Source>Some people swear by the beauty of vampires.  They're...pale, and kind of mysterious.  I guess I can see it...sort of.</Source>
+      <Dest>有些人向那些吸血鬼美人发誓效忠。她们……苍白，而神秘。我想，也许我能……偷偷看一眼。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Hag's Cure.  Same old cures, same old hag.  But its beauty never fades.</Source>
+      <Dest>鬼婆药水。和鬼婆一样治愈，和鬼婆一样古老。但是却从未褪去美色。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard Morthal was run by a fortune teller, but that was a while back.  I guess it could be the same person.</Source>
+      <Dest>我听说墨索尔城是由一个算命先生管理的，不过那是一段时间之前的事了。我估计现在还是同一个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're nothing!</Source>
+      <Dest>你这无名小卒！</Dest>
+    </String>
+    <String List="2">
+      <Source>Gyaaargh!</Source>
+      <Dest>呀啊啊啊啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>That didn't hurt!  Maybe!</Source>
+      <Dest>没有受伤！大概吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Repent, I say!</Source>
+      <Dest>我说了，忏悔！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...now I get it. At first I thought you were helping those cannibals. But you're really just infiltrating their cult to destroy them! Right?</Source>
+      <Dest>哦……现在我明白啦。起初我真还以为你是帮助那些食人族的。但是你其实只是假装崇拜，以此渗透他们，然后再杀死他们！对吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>How did that feel?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Filthy Forsworn!</Source>
+      <Dest>肮脏的弃誓者！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not quite good enough!</Source>
+      <Dest>还不够好！</Dest>
+    </String>
+    <String List="2">
+      <Source>You need a shave, werewolf!</Source>
+      <Dest>你该剃毛了，狼人！</Dest>
+    </String>
+    <String List="2">
+      <Source>Pinch your nose and furrow your brow!  What's the smell?  Who knows!  We're in a sewer!</Source>
+      <Dest>捏起你的鼻子，皱起你的眉头吧！那是什么味道？谁知道啊！我们可是在下水道！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh! Enough! This ends now!</Source>
+      <Dest>嘿！够了！已经结束了！</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a Thalmor Embassy in Skyrim?  And they hold parties with important people?  Why wasn't I told?  Now I know where to send my letters.</Source>
+      <Dest>这是在天际省的梭默大使馆？他们邀请贵客举行宴会？为什么没人告诉我？现在我知道去哪里送我的信了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, didn't think I could block that, did you?</Source>
+      <Dest>哈，没想到我能阻止，是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Errrrrrryyargh!</Source>
+      <Dest>咿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>As much as I love nature, something about the Sleeping Tree seems...off.</Source>
+      <Dest>以我对自然界的了解来看， 沉睡之树的某些机能……停止运作了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyargh!</Source>
+      <Dest>嘿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Follow Skjor inside, brave adventurer, undergo their trial. Keep your chin up high, and I'm sure nothing will go wrong!</Source>
+      <Dest>在里面跟着斯科月， 勇敢的冒险者，接受他们的试炼。 抬头挺胸，我保证一切会顺利的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dibella smite you!</Source>
+      <Dest>迪贝拉诅咒你!</Dest>
+    </String>
+    <String List="2">
+      <Source>Take that, you fiend!</Source>
+      <Dest>接招吧，你个魔鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, damn you!</Source>
+      <Dest>去死吧，混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll need to do better than that!</Source>
+      <Dest>不给力啊！！</Dest>
+    </String>
+    <String List="2">
+      <Source>Go back to where you came from, dragon!</Source>
+      <Dest>巨龙，滚回你来的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that all you got?</Source>
+      <Dest>你就这点本事？</Dest>
+    </String>
+    <String List="2">
+      <Source>You've joined the Companions! Congratulations! This is me applauding, with my voice!</Source>
+      <Dest>你加入了战友团！恭喜！我为你鼓掌欢呼！</Dest>
+    </String>
+    <String List="2">
+      <Source>For the love of Dibella, will you just stand still!</Source>
+      <Dest>迪贝拉的伟爱在上，你就不能站着别动么！！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this what you want?</Source>
+      <Dest>这就是你想要的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Eyaargh!</Source>
+      <Dest>哎呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've had enough of you!</Source>
+      <Dest>我受够你了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dibella have mercy on you!</Source>
+      <Dest>迪贝拉 爱你！</Dest>
+    </String>
+    <String List="2">
+      <Source>A hunter's rest? What a great idea! We should build an Adventurer's Rest! A sanctuary for all those who crave adventure and have bad knees!</Source>
+      <Dest>一个猎人的休息处吗？真是个好主意！我们应该建立一个冒险者的休息处！一个为所有那些渴望冒险但膝盖不好的人们所建立的圣所！</Dest>
+    </String>
+    <String List="2">
+      <Source>7,000 steps sounds like a lot, but if we take long strides and skip every other step, it's only half that much!</Source>
+      <Dest>7000步听起来好像很多，但如果我们大步前行，跳过其中的一些台阶，它只有一半那么多！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, you fiend!</Source>
+      <Dest>去死吧，少年。</Dest>
+    </String>
+    <String List="2">
+      <Source>That the best you can do?</Source>
+      <Dest>这就是你的极限了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some legend you are!</Source>
+      <Dest>【你只不过是个传说】！</Dest>
+    </String>
+    <String List="2">
+      <Source>Why is it called the Potion of the Stallion? I don't get it. Is the steward a horse?</Source>
+      <Dest>为什么这药被称为"种马药剂"呢？我不明白啊。难道是给马用的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh! That was uncalled for!</Source>
+      <Dest>啊! 我们没有叫你这样做!</Dest>
+    </String>
+    <String List="2">
+      <Source>This place is dangerous! Sure, there were only two of them, but one crazy person is worth ten sane ones.</Source>
+      <Dest>这个地方是很危险的！当然，他们只有两个人，但一个疯子的战斗力顶十个正常人的啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Where is this light coming from? Where is it going? Questions to be answered, adventurers, and we're the ones to answer them!</Source>
+      <Dest>这光是从哪里来的？又要去哪里呢？这些问题需要答案，冒险者，我们就是那些给出回答的人！</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not the face!</Source>
+      <Dest>不！别打脸！</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have your head!</Source>
+      <Dest>我要剁你的脑袋！</Dest>
+    </String>
+    <String List="2">
+      <Source>You picked the wrong dinner, animal!</Source>
+      <Dest>你选错晚餐了，畜生！</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's Wall was so impressive, why did people forget it?  Because it's forgettable!</Source>
+      <Dest>如果奥杜因之墙真的能让人这么印象深刻的话，人们为什么会遗忘它？因为那玩意太容易让人忘掉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>My advice is to never quit adventuring.</Source>
+      <Dest>我的建议是永远不要放弃探险.</Dest>
+    </String>
+    <String List="0">
+      <Source>My advice is to never quit adventuring.</Source>
+      <Dest>我的建议是永远不要放弃探险.</Dest>
+    </String>
+    <String List="0">
+      <Source>My advice is to never quit adventuring.</Source>
+      <Dest>我的建议是永远不要放弃探险.</Dest>
+    </String>
+    <String List="0">
+      <Source>My advice is to never quit adventuring.</Source>
+      <Dest>我的建议是永远不要放弃探险.</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, you'll be my first as well.</Source>
+      <Dest>说实话，你也是我的第一个</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, you'll be my first as well.</Source>
+      <Dest>说实话，你也是我的第一个</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, you'll be my first as well.</Source>
+      <Dest>说实话，你也是我的第一个</Dest>
+    </String>
+    <String List="0">
+      <Source>(Bard) A Warrior's Life. I'll play the drums.</Source>
+      <Dest>(吟游诗人)一个战士宿命。我会打鼓。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you think married life will change us?</Source>
+      <Dest>你为什么认为婚姻生活会改变我们？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you think married life will change us?</Source>
+      <Dest>你为什么认为婚姻生活会改变我们？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you think married life will change us?</Source>
+      <Dest>你为什么认为婚姻生活会改变我们？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's actually more like a chaurus and a mudcrab. When it's done right.</Source>
+      <Dest>当它做对了的时候，确实更像是查鲁斯和泥沼蟹。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's actually more like a chaurus and a mudcrab. When it's done right.</Source>
+      <Dest>当它做对了的时候，确实更像是查鲁斯和泥沼蟹。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's actually more like a chaurus and a mudcrab. When it's done right.</Source>
+      <Dest>当它做对了的时候，确实更像是查鲁斯和泥沼蟹。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds to me like you don't have any experience making love.</Source>
+      <Dest>听这意思你还是个cn呢！</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds to me like you don't have any experience making love.</Source>
+      <Dest>听这意思你还是个cn呢！</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds to me like you don't have any experience making love.</Source>
+      <Dest>听这意思你还是个cn呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll cut right through your scales, monster!</Source>
+      <Dest>我会连你的鳞片一刀切的，怪物！</Dest>
+    </String>
+    <String List="2">
+      <Source>I get that he's a necromancer, but what do you mean you never saw eye to eye?</Source>
+      <Dest>我知道他是个亡灵法师啊，不过你说你们的观点从来没有一样过是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>To Aetherius with you!</Source>
+      <Dest>艾瑟瑞斯与你同在！</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course not! I wouldn't dream of it! This doesn't mean I can't sing about our exploits!</Source>
+      <Dest>当然没有！我做梦也想不到 ！这并不意味着我不能歌颂我们的功绩！</Dest>
+    </String>
+    <String List="2">
+      <Source>Give up while you still can!</Source>
+      <Dest>趁你还有反悔的机会，投降吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess there's only way to find out.</Source>
+      <Dest>我猜这是唯一能查明的方式了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma says Uncle Rognar is just bad at it, but I don't know.  I guess there's only way to find out.</Source>
+      <Dest>妈妈说Rognar叔叔只是不擅长那个，但我不懂。我猜发现真相的方法只有一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I guess that part will change a lot. But don't worry, I'm experienced. I know how it all works down there.</Source>
+      <Dest>尽管我想床上那部分应该会有挺大变化的，不过别担心，我可是经验丰富。我会让一切都顺顺利利的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh good! Then I don't have to pretend I know what I'm doing! That's a load off my mind! Do you also hate mead? Why are all the adult things horrible?</Source>
+      <Dest>哦太好了！那我就不用装作知道自己在做什么了！真叫我松了口气儿！你也讨厌蜜酒吗？为什么大人的东西都这么可怕啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're going to look good mounted on my wall!</Source>
+      <Dest>你会变成我墙上挂的战利品！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're going to look good mounted on my wall!</Source>
+      <Dest>你会变成我墙上挂的战利品！</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll be my pleasure.</Source>
+      <Dest>这是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although with nature, I like to keep my eyes open. But Aunt Felsi said it's best to close your eyes and think of Elsweyr. It's all so confusing.</Source>
+      <Dest>虽然在自然中，我喜欢睁开双眼。不过菲尔希阿姨说最好闭上你的眼睛，然后想想艾斯维尔。这一切都太混乱了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But maybe she was just teasing me. I guess there's only way to find out.</Source>
+      <Dest>但也许她是在戏弄我。我想只有唯一的办法去弄清楚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn rebels!</Source>
+      <Dest>该死的叛军。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yield or die!</Source>
+      <Dest>屈服或死！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think it will change us at all. We'll still adventure together, we'll just come home to the same bed.</Source>
+      <Dest>我不认为这会改变我们之间的关系。我们依然会携手冒险，依然会共枕而眠。</Dest>
+    </String>
+    <String List="2">
+      <Source>We won't even bother speaking anymore, because we'll have enough songs to sing to each other instead!</Source>
+      <Dest>我们甚至不用说话了，因为我们有足够多的歌可以唱给对方听！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma told me all about birds and the bees. Or was it the butterfly and the redwort? Well, whatever weird bugs and plants it involves, I'll be ready.</Source>
+      <Dest>妈妈告诉过我关于鸟儿和蜜蜂的一切。或者那是蝴蝶和红山花？所以说，不管出现什么奇怪的虫子和植物，我都会准备好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>This sounds like it might hurt. But cousin Renna says that's good thing. I don't understand. Getting hurt isn't fun. It's horrible.</Source>
+      <Dest>这听起来可能会受伤。但我表兄雷纳说这是好事。我不知道。受伤不好玩。真是糟糕透了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I haven't actually done it. But like I said, I'm prepared to learn! It's just another part of nature to explore!</Source>
+      <Dest>事实上我还没做完呢。但是就像是我说的，我已经准备好去学习了！这只是探索自然的一部分！</Dest>
+    </String>
+    <String List="2">
+      <Source>A mudcrab? What in Dibella do you...oh...you mean like the legs are the pincers and...nope, still don't get it.</Source>
+      <Dest>泥蟹？迪贝拉在上你……哦……你指喜像腿就是钳子还有……不，我还是不懂。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will yield or you will die!</Source>
+      <Dest>投降！或者死！</Dest>
+    </String>
+    <String List="0">
+      <Source>If the Nord turns out to be the better bard, will you squire for him instead?</Source>
+      <Dest>如果诺德人才是最好的吟游诗人，那你会不会转而向他献殷勤？</Dest>
+    </String>
+    <String List="0">
+      <Source>If the Nord turns out to be the better bard, will you squire for him instead?</Source>
+      <Dest>如果诺德人才是最好的吟游诗人，那你会不会转而向他献殷勤？</Dest>
+    </String>
+    <String List="0">
+      <Source>If the Nord turns out to be the better bard, will you squire for him instead?</Source>
+      <Dest>如果诺德人才是最好的吟游诗人，那你会不会转而向他献殷勤？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it will be good for you to see 2 masters in their prime dueling it out.</Source>
+      <Dest>是的，看到两位大师在最佳状态下一决高下，对你来说是件好事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it will be good for you to see 2 masters in their prime dueling it out.</Source>
+      <Dest>是的，看到两位大师在最佳状态下一决高下，对你来说是件好事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it will be good for you to see 2 masters in their prime dueling it out.</Source>
+      <Dest>是的，看到两位大师在最佳状态下一决高下，对你来说是件好事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it will be good for you to see 2 masters in their prime dueling it out.</Source>
+      <Dest>是的，看到两位大师在最佳状态下一决高下，对你来说是件好事。</Dest>
+    </String>
+    <String List="0">
+      <Source>An excellent piece for a novice. You have potential.</Source>
+      <Dest>对菜鸟来说已经很不错了，你有潜力。</Dest>
+    </String>
+    <String List="0">
+      <Source>An excellent piece for a novice. You have potential.</Source>
+      <Dest>对菜鸟来说已经很不错了，你有潜力。</Dest>
+    </String>
+    <String List="0">
+      <Source>An excellent piece for a novice. You have potential.</Source>
+      <Dest>对菜鸟来说已经很不错了，你有潜力。</Dest>
+    </String>
+    <String List="0">
+      <Source>If all of this doesn't inspire you, then you're clearly hopeless.</Source>
+      <Dest>如果这些都无法让你重新振作，你就真的毁了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm ready Amalee. Just tell me where and I'll take you.</Source>
+      <Dest>我准备好了，艾玛莉。告诉我去哪儿就成，我会带给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm ready Amalee. Just tell me where and I'll take you.</Source>
+      <Dest>我准备好了，艾玛莉。告诉我去哪儿就成，我会带给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm ready Amalee. Just tell me where and I'll take you.</Source>
+      <Dest>我准备好了，艾玛莉。告诉我去哪儿就成，我会带给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see how any of this will help you be a better bard.</Source>
+      <Dest>我看不出这些会怎么帮助你成为一个更好的吟游诗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see how any of this will help you be a better bard.</Source>
+      <Dest>我看不出这些会怎么帮助你成为一个更好的吟游诗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was beautiful. It will make for a fine gift.</Source>
+      <Dest>真漂亮啊，肯定能当成很棒的礼物！</Dest>
+    </String>
+    <String List="0">
+      <Source>It was beautiful. It will make for a fine gift.</Source>
+      <Dest>真漂亮啊，肯定能当成很棒的礼物！</Dest>
+    </String>
+    <String List="0">
+      <Source>It was beautiful. It will make for a fine gift.</Source>
+      <Dest>真漂亮啊，肯定能当成很棒的礼物！</Dest>
+    </String>
+    <String List="0">
+      <Source>It was beautiful. It will make for a fine gift.</Source>
+      <Dest>真漂亮啊，肯定能当成很棒的礼物！</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, you'll think of something eventually.</Source>
+      <Dest>别担心，你肯定能想起什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what was the point of this duel? Do you realize they're still fighting?</Source>
+      <Dest>那么到底这场决斗的意义在哪里？你难道没意识到他们仍然还在打吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what was the point of this duel? Do you realize they're still fighting?</Source>
+      <Dest>那么到底这场决斗的意义在哪里？你难道没意识到他们仍然还在打吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what was the point of this duel? Do you realize they're still fighting?</Source>
+      <Dest>那么到底这场决斗的意义在哪里？你难道没意识到他们仍然还在打吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what was the point of this duel? Do you realize they're still fighting?</Source>
+      <Dest>那么到底这场决斗的意义在哪里？你难道没意识到他们仍然还在打吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods I hope you're speaking metaphorically.</Source>
+      <Dest>我的天，我希望你只是比喻一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods I hope you're speaking metaphorically.</Source>
+      <Dest>我的天，我希望你只是比喻一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods I hope you're speaking metaphorically.</Source>
+      <Dest>我的天，我希望你只是比喻一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods I hope you're speaking metaphorically.</Source>
+      <Dest>我的天，我希望你只是比喻一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's better this way. Most people want a gift they can trade in for gold.</Source>
+      <Dest>这样更好。大多数人喜欢可以用黄金买到的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's better this way. Most people want a gift they can trade in for gold.</Source>
+      <Dest>这样更好。大多数人喜欢可以用黄金买到的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Someone once told me if you can't say anything nice, don't say anything at all.</Source>
+      <Dest>有人曾告诉我，如果你讲不出合适的话，那就什么都别说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Someone once told me if you can't say anything nice, don't say anything at all.</Source>
+      <Dest>有人曾告诉我，如果你讲不出合适的话，那就什么都别说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Someone once told me if you can't say anything nice, don't say anything at all.</Source>
+      <Dest>有人曾告诉我，如果你讲不出合适的话，那就什么都别说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Someone once told me if you can't say anything nice, don't say anything at all.</Source>
+      <Dest>有人曾告诉我，如果你讲不出合适的话，那就什么都别说。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if it doesn't? This place is nice, but we can't stay here forever.</Source>
+      <Dest>要是它不能呢？这地方好是好，但我们不能老呆在这儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or you could just drop the charade and admit you aren't a bard.</Source>
+      <Dest>要么你还是放下伪装承认自己不是诗人吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could split up. You take A to M. I'll take N to Z.</Source>
+      <Dest>我们可以平分一下。你从A杀到M，我来杀N到Z。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could split up. You take A to M. I'll take N to Z.</Source>
+      <Dest>我们可以平分一下。你从A杀到M，我来杀N到Z。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could split up. You take A to M. I'll take N to Z.</Source>
+      <Dest>我们可以平分一下。你从A杀到M，我来杀N到Z。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe it'd be faster if I wrote a song for you.</Source>
+      <Dest>如果是为了你写歌的话，我想我会很快完成的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe it'd be faster if I wrote a song for you.</Source>
+      <Dest>如果是为了你写歌的话，我想我会很快完成的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>是啊，我多麼希望不要被那些不解風情的野獸打擾，那時我們正享受著風景呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>是啊，我多麼希望不要被那些不解風情的野獸打擾，那時我們正享受著風景呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>是啊，我多麼希望不要被那些不解風情的野獸打擾，那時我們正享受著風景呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>是啊，我多麼希望不要被那些不解風情的野獸打擾，那時我們正享受著風景呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>是啊，我多麼希望不要被那些不解風情的野獸打擾，那時我們正享受著風景呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you'll be inspired by something you appreciate.</Source>
+      <Dest>至少你能从中受到一些启迪。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you'll be inspired by something you appreciate.</Source>
+      <Dest>至少你能从中受到一些启迪。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you'll be inspired by something you appreciate.</Source>
+      <Dest>至少你能从中受到一些启迪。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no harm in doing a little sightseeing on the way.</Source>
+      <Dest>在路上稍微欣赏一下风景也无妨。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no harm in doing a little sightseeing on the way.</Source>
+      <Dest>在路上稍微欣赏一下风景也无妨。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no harm in doing a little sightseeing on the way.</Source>
+      <Dest>在路上稍微欣赏一下风景也无妨。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not all that clear to me either, but I'm not a master bard like my lord is. But I think watching an artistic duel would be rather inspiring!</Source>
+      <Dest>尽管我还不觉明了，我不像师父那样是个游吟诗人大师。但我仍对看到一场巅峰对决振奋不已。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I can't. Not after Vikran left home. He was the eldest, and an adventurer like us.</Source>
+      <Dest>我……我不能。不能在Vikran的后边离开家。他最年长, 跟我们一样是个冒险者.</Dest>
+    </String>
+    <String List="2">
+      <Source>What I mean is, Skyrim is a big place. Inspiration is like an undiscovered wonder, just waiting for our eyes to discover it!</Source>
+      <Dest>我的意思是, 天际省地方很大. 灵感就像埋藏着的奇迹, 等着你的眼睛去发现!</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, my lord does seem a tad...demanding. But all I really need is to find someone who can help me write my own music and poetry.</Source>
+      <Dest>额, 我家主人看上去有点...严格. 但我真的是要找人来帮我完成我的音乐和诗歌.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we'll just have to find another way. I can't tell my folks the truth. Not after Vikran left home. He was the eldest, and an adventurer like us.</Source>
+      <Dest>接下来我们只好找另外一条路了。我没法对我的人实话实说。尤其是在Vikran离开家之后。他是最老的一个，而且和我们一样，是个冒险家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I wasn't worried about that. I was more concerned the view would be marred by the animals.</Source>
+      <Dest>哦，我担心的不是那个。我更在乎的是这景观会被野生动物给毁坏了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The question is, where will we find inspiration? And I have the answer! Handsome Man's Grotto, formerly of the Bloated variety!</Source>
+      <Dest>问题是，我们将在哪里寻找灵感呢？有了！傲慢者石窟, 过去的骄傲者石窟！</Dest>
+    </String>
+    <String List="2">
+      <Source>We shan't forget the first rule of adventuring. Clear the cave of mean animals and evildoers before we commence with the sightseeing!</Source>
+      <Dest>我们不该忘记冒险的第一准则。在开始看风景之前把乱七八糟的野兽啊王八蛋啊之类的东西先清理掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>How can you appreciate a beautiful view if half of it is obstructed by an angry bear?</Source>
+      <Dest>如果这儿一半的地方都被一只愤怒的熊霸占了，你又能如何欣赏美景呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Luckily half the bards were commissioned for a party in Whiterun. Otherwise I'd be in Cidhna Mine for sure.</Source>
+      <Dest>幸好那些吟游诗人有半数都是白漫城一个行会的。不然我肯定要被送进希讷矿坑 了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that was a fun little tour wasn't it? I don't feel all that inspired yet, but I'm sure it will come when I least expect it. Maybe.</Source>
+      <Dest>哇，这趟旅行挺有趣不是吗？我还没感受到全部的灵感，但我肯定静下心来的话会有的。也许吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, I wouldn't actually jump. I might chip a nail, or worse!</Source>
+      <Dest>当然，实际上我并不会去跳，因为我也会把趾甲削片，或者更糟糕！</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, they say every long journey begins with a single step. Now that we've got that out of the way, I'm ready to start running!</Source>
+      <Dest>总之，人们说千里之行始于足下。我们现在已经确实地理解这一点了，我准备好开始跑了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a lot of cousins, and it would help if I could figure this stuff out on my own.</Source>
+      <Dest>我的有很多的侄子，要是我能亲自弄清楚这东西就太好了。我的有很多的侄子，要是我能亲自弄清楚这东西就太好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>For now, let's just bring these two friends together and hope for the best!</Source>
+      <Dest>现在嘛，带上他俩，但行好事，莫问前程。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe you can afford to stop and admire things, so long as the other person is on their guard.</Source>
+      <Dest> 如果其他人对你保持警惕的话，也许你得停下来并称赞某物。</Dest>
+    </String>
+    <String List="2">
+      <Source>And now that I'm a songwriter of sorts, if we come across any other songs in our travels, I'll do my best to learn them!</Source>
+      <Dest>现在我也算一个作曲家什么的了，要是我们路上听到什么好歌，我就尽量把它学来！</Dest>
+    </String>
+    <String List="2">
+      <Source>And now that I'm a songwriter of sorts, if we come across any other songs in our travels, I'll do my best to learn them!</Source>
+      <Dest>现在我也算一个作曲家什么的了，要是我们路上听到什么好歌，我就尽量把它学来！</Dest>
+    </String>
+    <String List="2">
+      <Source>And now that I'm a songwriter of sorts, if we come across any other songs in our travels, I'll do my best to learn them!</Source>
+      <Dest>现在我也算一个作曲家什么的了，要是我们路上听到什么好歌，我就尽量把它学来！</Dest>
+    </String>
+    <String List="2">
+      <Source>The last thing I need is to make poems and songs about it. That's not positive at all!</Source>
+      <Dest>临睡前的我需要做的最后一件事是写关于它的诗歌。这不算什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I gave it a new one! To Handsome Man's Grotto, friend! There can be no other place!</Source>
+      <Dest>这就是为什么我单单给了傲慢者石窟一个新名字，朋友！我可没再给其他地方起名了！</Dest>
+    </String>
+    <String List="2">
+      <Source>My uncle Asran once challenged my aunt to a drinking contest, and that's how I learned how to behave like an adult!  So this could work too!</Source>
+      <Dest>我叔叔爱斯兰曾经在喝酒比赛上挑战我的婶婶，这让我学会了怎么表现的像个大人，也学会了这个活儿！</Dest>
+    </String>
+    <String List="2">
+      <Source>But this one will always be special.  Thanks for helping me write it.</Source>
+      <Dest>但是这一次将永远是特别的。谢谢你帮我写这个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, I was thinking it would be a nice wedding anniversary gift for Ma and Pa. I mean, I can compose hundreds more songs, maybe even thousands!</Source>
+      <Dest>事实上，我在想，这个很适合送给爸爸妈妈作结婚周年纪念礼。我是说，我可以再创作几百首歌，甚至也许几千首！</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you? Could you? Oh, but that would probably be a slap in Dibella's face, when she's provided so much material for me to use!</Source>
+      <Dest>你会吗你？你行吗你？哦，也许你会给迪贝拉脸上来一耳光，她真是给我提供了N多原料啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>They are? Well, I'm glad I didn't learn anything from those two. When you have a big extended family, you get enough in-fighting as it is.</Source>
+      <Dest>是吗？他们？好吧，我真庆幸没从他俩那里学习什么。当你有个大家族时，你就会对内斗感到厌倦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here's an idea, maybe you can squire for the Nord! Two companions, forced to take sides on opposite ends of a war! I feel inspired already!</Source>
+      <Dest>我有个主意，也许我们能够成为诺德地主！两个同伙，在战争的结果中各执一词！想想有些小激动呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, I would never stop being an adventurer. I also think Ignar was in love with that Orc.</Source>
+      <Dest>当然，我在成为冒险者的道路上永远不会止步。我甚至认为伊格奈喜欢兽人。</Dest>
+    </String>
+    <String List="2">
+      <Source>But all in all, I think being an apprentice really is helpful.</Source>
+      <Dest>不过总得说来，我觉得做一个学徒真的特别有帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I know just where to look! At first, I didn't consider it because I don't like the old name.</Source>
+      <Dest>事实上，我知道去哪里找！开头我没考虑它是因为我不喜欢原来的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the spirit! The place I'm thinking of is a cave west of Riverwood, the very same one I petitioned to the Jarl to have its named changed.</Source>
+      <Dest>就是这个感觉！这个地方我觉得是河木镇西边的一个洞穴，就和我向领主请求改名的那个很像。</Dest>
+    </String>
+    <String List="2">
+      <Source>I say we just keep our eyes to the sky and our ears to the ground, and this Nord will show his face eventually!</Source>
+      <Dest>要我说咱就眼睛盯着天耳朵听着地，迟早那些诺德人会露面的！</Dest>
+    </String>
+    <String List="2">
+      <Source>No, we must soldier on! Keep our eyes open and have our quills at the ready! </Source>
+      <Dest>不,我们必须坚持住!我睁大眼睛，随时准备奋笔疾书！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Alright then, let the tour commence!</Source>
+      <Dest>好啦，旅程现在正式开始！</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? In that case, maybe it's too good for my cousin's sister's fiance. What if they broke up? He's not even family yet!</Source>
+      <Dest>真的啊？这么说，恐怕这对我表哥的姐姐的未婚夫太好了。要是他们分手了怎么办？他现在连亲戚都算不上呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>What a great idea! Wait, do you mean first names or last names? What if they have middle ones? Maybe we really do need a clairvoyance tome.</Source>
+      <Dest>这主意太棒了！等等，你是指名字还是姓来着？万一他们在名与姓中间还有自取名那怎么办？看来我们真的需要一本洞察术法术书啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>My cousin Ignar once took a job under an Orc blacksmith because he needed the money, and he liked it so much he became one!</Source>
+      <Dest>我的表弟Ignar曾经在兽人铁匠手底下工作，因为他需要钱，而且他也想成为一名铁匠！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmm...as much as I want to start exploring right away, it does seem like this place is a tad dangerous.</Source>
+      <Dest>唔……尽管我想立刻去周围看看，不过这里看起来有那么点危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even if you were right, that would make my parents more suspicious! They already came by the college once when I wasn't there.</Source>
+      <Dest>就算你是对的，那也只会加重我父母的疑心！我还没有三岁大的时候他们已经去过一次学院了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That sounds like something I would say. I think I would really get along with this friend of yours.</Source>
+      <Dest>听上去像是我会说的话。我觉得我会和你的这个朋友相处得相当融洽。That sounds like something I would say. I think I would really get along with this friend of yours.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it's a lot to take in. Maybe that's it! Tomorrow's tour of the grotto will be twice as long with hour long viewing sessions of the plant life!</Source>
+      <Dest>是的, 还有很多需要搬进来. 搞不好就是这样! 明天的洞穴导览将会比一个观察植物一生的观察课题还要长两倍!</Dest>
+    </String>
+    <String List="2">
+      <Source>Which does go hand in hand with the second rule of adventuring. Always study your surroundings.</Source>
+      <Dest>这与冒险守则第二条相一致。永远注意周遭环境。</Dest>
+    </String>
+    <String List="2">
+      <Source>To Handsome Man's Grotto! Leave no stone unturned! No landscape un-admired! To nature's beauty, I say, prepare to be stared at!</Source>
+      <Dest>去傲慢者石窟吧！我们得竭尽全力！那里的风景都美得让人窒息！为了自然之美，我得说，睁大眼睛好好看看吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, I've convinced myself. Let the tour commence!</Source>
+      <Dest>好吧, 我对自己有信心。让我们开始吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm..I was thinking of playing the song for Ma and Pa, but if it's as bad as you say, maybe I should give it to my sister's cousin's fiance after all.</Source>
+      <Dest>嗯……我本来想给爸爸妈妈唱一首歌。但是如果像你说的那样的，也许我还是把这个工作交给姐姐的未婚夫吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>No longer will people call it bloated, because we'll have drowned those people out with our shouting! So onward, friend, we march to Dibella's drum!</Source>
+      <Dest>不会再有人说它傲慢, 因为我们将会用吼声把他们淹没！ 向前！我的朋友，向着迪贝拉's drum冲!</Dest>
+    </String>
+    <String List="2">
+      <Source>It's tempting, but it probably wouldn't be entirely safe. Although on the other hand, I've never adventured with a partner before.</Source>
+      <Dest>真是诱人，它可能不会完全安全。但另一方面，我以前从来没有与合作伙伴冒过险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then again, it'll be hard not to notice some of the wonders Dibella has laid out for us.</Source>
+      <Dest>再说，让迪贝拉不注意到我们奠定的奇迹是很难的一件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Will I? I'm beginning to worry. I'm not sure why it's taking this long. Maybe I drank too much milk this morning. I feel kind of woozy.</Source>
+      <Dest>我吗? 我开始有点担心了. 我不确定为什么要谈这么久. 可能我早上喝太多牛奶了. 我感到有点头晕.</Dest>
+    </String>
+    <String List="2">
+      <Source>I bet that's where we'll find my inspiration! Handsome Man's Grotto! Hire the carriage! Let go of the reins! To Falkreath citizens, beauty awaits!</Source>
+      <Dest>我打赌我们能在那找到灵感！傲慢者石窟！雇辆马车！放开缰绳！去福克瑞斯吧公民，美好的一切正等着我们呢！</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask you some more personal questions.</Source>
+      <Dest>我要问你一些更加私人的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's go! Shouting is always better in pairs!</Source>
+      <Dest>一起走吧! 一个巴掌拍不响!</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you, I think. Are you a student here at the college?</Source>
+      <Dest>我得说，谢谢你。你是这个学院里的学生吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But thanks for the talk. We better get some sleep. We have a long day ahead of us, and we'll need all our energy.</Source>
+      <Dest>谢谢你的谈话。我们最好去睡会儿觉。还有一整天摆在我们面前呢，而我们都需要补充精力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course!  Where do we go first?  North?  South?  Left?  Down?  It doesn't matter!  Wherever we go, beauty and adventure awaits!</Source>
+      <Dest>当然！我们从哪里开始？北边？南边？左边？下边？无所谓！不管去到哪里，都有美女和冒险等着我们！</Dest>
+    </String>
+    <String List="2">
+      <Source>But if I can make music that's inspired by my travels, by scenes like this...then maybe that'll be enough.</Source>
+      <Dest>如果我能通过我的旅行，通过这样的场景寻觅到创作音乐的灵感...那么这就够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But we already know each other. And we have plenty of time to talk on the road. What else could you possibly...ohhhhhhhh.</Source>
+      <Dest>不过我们已经互相了解了，以及我们还有大把的时间能在路上聊一聊。你还能...哦哦哦哦哦哦哦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this the library? There aren't many books. Is that a health potion on the bookcase? I'm confused.</Source>
+      <Dest>这是图书馆吗？也没多少书啊。那是一个书架上是放着生命药水吗？我糊涂了 。</Dest>
+    </String>
+    <String List="2">
+      <Source>So with that in mind, I spent all night composing this song.</Source>
+      <Dest>因此，考虑到这一点， 我花了一整夜的时间创作了这首歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let nature now surround you, let it fill up your heart! We're the clay that She shapes, we are all Dibella's art.</Source>
+      <Dest>让大自然包围你，让它充斥着你的心！我们的肉体是迪贝拉创造的，我们是她的艺术品。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Elise said he wasn't afraid of anything. He was positive, cheerful, and full of life. He was born to be an explorer.</Source>
+      <Dest>Elise说他不害怕任何东西。他总是那么积极，那么快乐的过着充实的生活。他是个天生的探险家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever since then, Pa would wake up in the middle of the night and stoke the fire, just in case he came home.</Source>
+      <Dest>从那时起，爹就每天半夜爬起来给炉子添柴，只为了等他回来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, what do you think?</Source>
+      <Dest>呃，你怎么看？</Dest>
+    </String>
+    <String List="2">
+      <Source>The ocean, the sky, it's beautiful.  By Dibella, this is true art! This is what really inspires!</Source>
+      <Dest>那海，那天，真漂亮，美丽之神迪贝拉的作品，这才是真正的艺术！这才是真正让人精神振奋的东西！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey guys! Have you noticed the view from here! It's spectacular!</Source>
+      <Dest>嘿，伙计们！注意这里的风景了吗！太壮观了！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what dens and dining tables are for. They should know better.</Source>
+      <Dest>那就是兽穴和饭桌的作用，他们应该知道得更清楚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, I'm thinking a poem would be the best gift, because if you just make it confusing enough people will be too scared to judge it.</Source>
+      <Dest>好吧，我想一首诗是最好的礼物，因为如果你用它糊弄过足够多的人就会难以辨别它的水准。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why is everyone lying down? They should be admiring this place!</Source>
+      <Dest>为什么每个人都躺尸了？他们应该好好欣赏这个地方的！</Dest>
+    </String>
+    <String List="2">
+      <Source>But, um, I'm sure you already know countless beauties. There's no need for, um...further knowledge.</Source>
+      <Dest>但是，恩，我想你已经阅女无数。不需要，呃，进一步的知识了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But Ma and Pa wanted him to stay home and help take care of the family. So one day he just up and left.</Source>
+      <Dest>但是爸爸妈妈想要他留在家里，给家里帮忙。因此有一天他就这么走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Onward, love! </Source>
+      <Dest>前进吧，亲爱的！ </Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think you're a monster, although you are a tad arrogant. But farewell!</Source>
+      <Dest>我不认为你是个怪物，虽然你有点儿傲慢。祝你一路平安！</Dest>
+    </String>
+    <String List="2">
+      <Source>As an adventurer, I always understood why my brother left, and as a daughter, why my parents would be angry.</Source>
+      <Dest>作为一名冒险者，我一直都懂我哥哥为什么会离开，而作为一名女儿，我也知道我的父母因何而生气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Probably a lot. But don't lose heart, adventurer, we'll just have to talk to them all!</Source>
+      <Dest>大概有很多吧。但是冒险者，不要失去本心了，我们将要和他们所有人交谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was too young too remember. Ma and Pa never really talk about it, but my sister Elise told me it was because I remind them of him.</Source>
+      <Dest>那时候我太小没记住.爸爸妈妈也没再提这个,但我姐姐埃莉斯告诉我这是因为我让他们想起了他</Dest>
+    </String>
+    <String List="2">
+      <Source>And if tomorrow morning you see someone plucking their eyebrows near the river, then go back to sleep, it's probably someone else!</Source>
+      <Dest>还有如果明天早晨你看到有人在河边拔眉毛，那就回去睡觉吧，那可能是别的什么人！</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? What do you mean by effortless?</Source>
+      <Dest>真的么？你所谓的“不费力”是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What was I thinking! The inspiration for bards is the same as for adventurers! It's about nature, beauty, and the spirit of exploration!</Source>
+      <Dest>想什么呢我！对吟遊诗人有效的启示对冒险者也一样！就是关于自然、美丽，和探索的精神啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Skjarn, I'm so happy you agreed to this duel! It will really help me see what being a bard is all about! Dibella shine on you both!</Source>
+      <Dest>夏尔，很高兴你能够接受这次决斗邀请！快让我亲眼见见一个真正的吟遊诗人究竟是怎样的！愿迪贝拉庇佑你们！</Dest>
+    </String>
+    <String List="2">
+      <Source>And if I told them the truth...well, it just wouldn't be very nice to make them worry any more than they already do.</Source>
+      <Dest>如果我告诉他们真相的话……呃，他们会对自己已然做过的事更加糟心，这可不好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay! We have some direction! Now to find this Nord he keeps talking about. Shouldn't be too hard. How many Nords could there be in Skyrim?</Source>
+      <Dest>好啊！我们终于有方向了！现在找到他一直提到的诺德人就好。这不会太难。在天际省有多少诺德人来着？</Dest>
+    </String>
+    <String List="2">
+      <Source>Skyrim's home to many beautiful things! A butterfly in sunbeams, with jewels on its wings.</Source>
+      <Dest>天际是很多美丽事物的故乡！她是日光下飞舞的蝴蝶，翅膀上还有璀璨的宝石加以点缀。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyways, I'm a little exhausted. Let's head back to camp and start fresh and early tomorrow!</Source>
+      <Dest>不管怎么说，我有点累。让我们回到营地，等待开始新的一天吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyways, I'm a little exhausted. Let's head back to camp and start fresh and early tomorrow!</Source>
+      <Dest>不管怎么说，我有点累。让我们回到营地，等待开始新的一天吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>You know I'm fond of nature, and it's really important to me. But my first love will always be crack cocaine.</Source>
+      <Dest>你知道我喜欢大自然，而且它真的对我很重要。但是我最爱的永远是可卡因。</Dest>
+    </String>
+    <String List="2">
+      <Source>Um...okay! My name's Amalee! Just tell me where to grab on!</Source>
+      <Dest>嗯……好吧！我叫艾玛里!你就告诉我哪儿能抓吧!</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly! But how will shining my lord's boots help me make art? Are you sure you don't want to introduce me to your friend?</Source>
+      <Dest>当然！但是帮我的主人擦亮靴子如何对我的艺术有所裨益？你确定你不会把我介绍给你的朋友吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was thinking about our talk last night, and I realized something.</Source>
+      <Dest>我在想我们昨晚的谈话，然后我意识到了某些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look at this place! So much to see! So much to take in!</Source>
+      <Dest>看看这地方！这么多可看的！这么多可拿的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Vikran loved to climb. He was always trying to get to the top of the mountain so he could get the best view.</Source>
+      <Dest>Vikran喜欢爬山。他总是尽可能的爬到山顶，这样他就能看到最美的风景了。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>Because in the end, it's not just about appreciating beauty. It's about having someone to share it with.</Source>
+      <Dest>因为到最后，问题将不只是欣赏美人，而是关于和大家一起分享。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rivers rush over Whiterun, as the sun rides in the sky, elks graze on the grassland, as a hawk passes by.</Source>
+      <Dest>河水流过雪满城，太阳高照，麋鹿悠闲的吃草，老鹰从空中飞过.</Dest>
+    </String>
+    <String List="2">
+      <Source>The cresting of the waves 'neath the ships at sea, and in the Eldergleam there grows a twining Tree.</Source>
+      <Dest>波浪在船下涌起, 在Eldergleam 长着一颗环抱树.</Dest>
+    </String>
+    <String List="2">
+      <Source>Right away my lord! Get out the clairvoyance tomes! Put on your courier boots! We have a person to find!</Source>
+      <Dest>马上我的王!拿出千里眼法术! 穿上疾风靴! 我们要找一个人!</Dest>
+    </String>
+    <String List="2">
+      <Source>That's...nice, but I don't think I'm the right audience for that. Can you introduce me to your Nord friend? He sounds like he'd be a lot of help.</Source>
+      <Dest>那。。很不错, 但我认为自己欣赏不来那个. 你能把我引荐给你的诺德朋友么？ 他听起来像有大用处的样子.</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess that's why I've tried my best to share Dibella's beauty with everyone.  It's just with Ma and Pa, I didn't know how.</Source>
+      <Dest>我猜那就是为什么我尽我所能将迪贝拉的美分享给所有人。我不懂为什么她的美只有为人父母者知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Divines bless us with their beauty.</Source>
+      <Dest>圣灵用他们的美好保佑我们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dibella guide us.</Source>
+      <Dest>迪贝拉指引我们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something you need, Companion?</Source>
+      <Dest>有什么需要的吗，伙伴？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.  Have you spread word of Dibella's beauty?</Source>
+      <Dest>你好啊。你有传播迪贝拉之美了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's our next move, dear? Is it toward each other? That's fine with me!</Source>
+      <Dest>下一步怎么走，亲爱的？朝向对方？我没意见！</Dest>
+    </String>
+    <String List="2">
+      <Source>Stop it!</Source>
+      <Dest>别这样！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm ready when you are, love.</Source>
+      <Dest>亲爱的，我时刻愿意为你效劳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Adventure is waiting just around the corner. Which corner?  All of them!</Source>
+      <Dest>冒险就是去某个角落干等着。哪个角落？任何角落！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hail, Dragonborn!</Source>
+      <Dest>向你致敬，龙裔!</Dest>
+    </String>
+    <String List="2">
+      <Source>Where are we headed next?  I always say, when in doubt, follow the nirnroot.  Because the loudest root is the best route.</Source>
+      <Dest>接下来我们去哪儿？我总是说，如果拿不准，那就跟着奈恩根走吧。因为最吵闹的根是最好的路线。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Onward we march, for Dibella's glory!</Source>
+      <Dest>我们坚定不移的向前进，为了迪贝拉的荣光！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, be careful!</Source>
+      <Dest>嘿，小心点！</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm on your side!</Source>
+      <Dest>我是帮你的啊！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

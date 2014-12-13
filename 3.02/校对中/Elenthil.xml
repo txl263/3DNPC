@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You look more like an assassin than a devotee.</Source>
+      <Dest>你看起来更像一个刺客而不是信徒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I haven't thought that far to be honest.</Source>
+      <Dest>好吧，老实说，我从没想那么远。</Dest>
+    </String>
+    <String List="0">
+      <Source>Death sounds like a harsh punishment for avoiding religion.</Source>
+      <Dest>死亡显得像是对逃离宗教支配的残酷惩罚.</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you doing in Riften?</Source>
+      <Dest>你在 Riften 做什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you doing in Riften?</Source>
+      <Dest>你在 Riften 做什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, you're serious.  I was just making a jest.</Source>
+      <Dest>诶,你当真了,我刚才只是开个玩笑.</Dest>
+    </String>
+    <String List="0">
+      <Source>A ghost wants to reprise some old vendetta.  I want you to help me kill him.</Source>
+      <Dest>一个幽灵妄图搞仇杀。我希望你能帮我杀了他。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stealing my heart.</Source>
+      <Dest>偷走我的心。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Empire is cavorting with Thalmor.</Source>
+      <Dest>帝国与梭莫同流合污。</Dest>
+    </String>
+    <String List="0">
+      <Source>The perversion of Mara's teachings.</Source>
+      <Dest>玛拉的教义的曲解。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't need a proxy to kill on my behalf.</Source>
+      <Dest>我不需要代理人代表我来杀戮。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need your help in slaying a master swordsman.</Source>
+      <Dest>我需要你帮我干掉那个剑术大师.</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil sounds like an Elven name.</Source>
+      <Dest>Elenthil听起来像个精灵的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil sounds like an Elven name.</Source>
+      <Dest>Elenthil听起来像个精灵的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil sounds like an Elven name.</Source>
+      <Dest>Elenthil听起来像个精灵的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil sounds like an Elven name.</Source>
+      <Dest>Elenthil听起来像个精灵的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil sounds like an Elven name.</Source>
+      <Dest>Elenthil听起来像个精灵的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>So I speak a name and you kill the person?</Source>
+      <Dest>所以我给你任何一个名字，你就会去杀了那个人吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I am in need of Mara's Embrace to learn a master sword technique.</Source>
+      <Dest>我需要Mara's Embrace来学会一种大师级剑技。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have a reason.  I just hate the man.</Source>
+      <Dest>才不用什么理由，我就是恨那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>From where do yo hail?</Source>
+      <Dest>你从哪儿来？</Dest>
+    </String>
+    <String List="0">
+      <Source>All I need is your blessing.  Nothing more.</Source>
+      <Dest>我唯一需要的是你的祝福，其他什么都不需要了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Elenthil.  The name I speak is Elenthil.</Source>
+      <Dest>艾伦蒂尔，我所说的那个名字是艾伦蒂尔。</Dest>
+    </String>
+    <String List="0">
+      <Source>What vow do you speak of?</Source>
+      <Dest>你提到了什么誓言？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, I was joking. Please don't kill yourself.</Source>
+      <Dest>噢，一个玩笑罢了。千万别自杀啊你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jarl Ulfric Stormcloak.</Source>
+      <Dest>乌弗瑞克?暴风斗篷领主。</Dest>
+    </String>
+    <String List="0">
+      <Source>One need not apologize for killing.  All death is as natural as life.</Source>
+      <Dest>不需要为杀戮感到愧疚。人总是要死的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Murderers belong in a dungeon.  There is no forgiveness for your crime.</Source>
+      <Dest>谋杀犯就该被关进地牢。你的罪恶不会被宽恕。</Dest>
+    </String>
+    <String List="0">
+      <Source>General Tullius.</Source>
+      <Dest>图留斯將軍.</Dest>
+    </String>
+    <String List="0">
+      <Source>The blood from the Civil War is on his hands.</Source>
+      <Dest>内战的鲜血还沾在他的手上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you paid for these services?</Source>
+      <Dest>你这些服务已经有人结过帐了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you lend your service to Mara in another capacity?</Source>
+      <Dest>不考虑职责的话你还会为玛拉服务吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of crimes justify a kill?</Source>
+      <Dest>这罪犯为什么杀人？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of crimes justify a kill?</Source>
+      <Dest>这罪犯为什么杀人？</Dest>
+    </String>
+    <String List="0">
+      <Source>I am on a pilgrimage to gather blessings from those who serve the Divines.</Source>
+      <Dest>我正在一条朝圣之旅上，收集着圣职者们的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I didn't know better, I'd say you were an assassin.</Source>
+      <Dest>当时要不是了解你的为人，我肯定会觉得你是刺客。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I didn't know better, I'd say you were an assassin.</Source>
+      <Dest>当时要不是了解你的为人，我肯定会觉得你是刺客。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara will not answer.  The Gods do nothing but cure diseases.</Source>
+      <Dest>玛拉不会回答的。神灵们除了祛病之外啥也不会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you do this?  What made you into an assassin?</Source>
+      <Dest>你为什么要这么做？你怎么会变成一个刺客的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps. The temple cannot function without donations.  Nor can I.</Source>
+      <Dest>也许吧。要是没有捐赠就没有神殿，也不会有我在这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>They promised to love her. They brought her to the temple and vowed to Mara they would protect her from harm.</Source>
+      <Dest>他们承诺爱她。他们带她去神殿 ,并且向玛拉发誓他们会保护她不受伤害。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have killed in Mara's name. Slain those who have broken the sacred vow.  If I have erred in doing so, I ask Mara for her mercy.</Source>
+      <Dest>我要以玛拉之名杀了那些违背了神圣誓言的人。如果我有什么地方做错了，请玛拉宽恕我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Possibly. But I think you jest. It's not wise to do so in this holy place.</Source>
+      <Dest>有可能。但我认为你在开玩笑。在这个神圣之所，这么干是不理智的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe.  But not all is shown.</Source>
+      <Dest>【或许吧，但这没有完全显露出来。】</Dest>
+    </String>
+    <String List="2">
+      <Source>If I told you the story of an Elven orphan adopted by a Nord family, would you believe me?</Source>
+      <Dest>如果我告诉你这是关于一个精灵孤儿被诺德家庭收养的故事，你会相信我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe. But the two aren't mutually exclusive.</Source>
+      <Dest>也许吧。不过二者之间并不矛盾</Dest>
+    </String>
+    <String List="2">
+      <Source>I have.  As should all.</Source>
+      <Dest>当然，每个人都应该祈祷过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you seek my services?  First, one must speak a name.</Source>
+      <Dest>你需要我的服务吗？首先，报上名来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>A shocking tale to be sure. One my ears shall not forget.  But I wear her name, so that all who break Mara's vow will remember.</Source>
+      <Dest>诚然，这是个令人震惊的传言。一旦听了就不会忘记。但我假借了她的名字。因此所有那些打破了玛拉誓言的人都将终生难忘。</Dest>
+    </String>
+    <String List="2">
+      <Source>One must speak a name, and then a crime.  But that's not what you want, is it.  This kill is your own.  Interesting.  What is it you would ask of me?</Source>
+      <Dest>一个人首先得找出作为受害者的对象，然后才能犯罪。但这不是你想要的，对吗。那样做，被杀的就会是你自己。真有趣。你还有什么想问的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>One must speak a name, and then a crime.  But that's not what you want, is it.  This kill is your own.  Interesting.  What is it you would ask of me?</Source>
+      <Dest>一个人首先得找出作为受害者的对象，然后才能犯罪。但这不是你想要的，对吗。那样做，被杀的就会是你自己。真有趣。你还有什么想问的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps she is guilty. But she has already sought Mara's forgiveness.  Her soul has been cleansed.</Source>
+      <Dest>她可能曾经是有罪的，但她已经寻求到了玛拉的宽恕，因而她的灵魂现在是被净化了的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps.  But such is the way.</Source>
+      <Dest>可能吧，但那也是唯一的方法了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps. But that is not a crime of love.</Source>
+      <Dest>或许吧，但这份爱是无罪的。</Dest>
+    </String>
+    <String List="2">
+      <Source>A name has been spoken. What is the crime?</Source>
+      <Dest>这名字老被提起。他犯了什么罪？</Dest>
+    </String>
+    <String List="2">
+      <Source>They come to the temple and seek my ear. They pray to Mara, but they speak to me.</Source>
+      <Dest>他们来到神殿寻求我的聆听。他们向玛拉祈祷，却是跟我说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>The vow all make before Mara.  To love thy spouse, thy neighbor, and thyself.</Source>
+      <Dest>在玛拉面前宣誓。要去爱你的配偶，你的邻居，和你自己。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I'll consider it. But if it's passing out Dinya's letters, then rest assured, I already do.</Source>
+      <Dest>我会考虑的。但如果是丁雅的信上写的事儿，那就放心吧，我已经在做了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have come to pray.  And ask for forgiveness.</Source>
+      <Dest>我来是要祷告。并且祈求宽恕。</Dest>
+    </String>
+    <String List="2">
+      <Source>And would you believe this couple raped her, tortured her, and then tossed her in the very ratways that run under our feet?</Source>
+      <Dest>然而，你能相信吗，这对夫妻居然强奸了她，折磨了她，然后把她扔进了就在我们脚下的那鼠道里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a code, like most.  Many whisper the name of an abusive spouse, or a cheating one.</Source>
+      <Dest>像大多刺客一样，我也有我的信条。很多人向我耳语他们那些或是施暴的，或是不忠的配偶的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps.  But I will let Mara be the judge.</Source>
+      <Dest>也许吧，不过我会让玛拉来当判定人。</Dest>
+    </String>
+    <String List="2">
+      <Source>A name has been spoken.  What is the crime?</Source>
+      <Dest>这名字已经说了。那人犯了什么罪？</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps. Not everyone wears the name they were given. Some are adopted. Others are taken.</Source>
+      <Dest>或许吧。不是每个人都会用他们被取的名字称呼自己的。一些人接受了名字。而另一些人难以接受。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed. But I am not here to wed.</Source>
+      <Dest>确实。但我来这儿不是为了结婚的。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood.  Mara protect us both.</Source>
+      <Dest>明白了。玛拉保佑我们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe I enjoy it.  Duty and love are at times one and the same.</Source>
+      <Dest>我可能喜欢上了。责任和爱有时候是一体的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some will say Mara would not condone such a quest. However, our meeting is proof that our mother isn't afraid to discipline her children.</Source>
+      <Dest>有人说玛拉不会宽恕这种事情，但我们的会面就证明了，我们的母亲在考研自己的孩子一事上毫无畏惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. The orphanage in Riften. Although rarely do I ever get a chance to come home.</Source>
+      <Dest>这儿。裂谷城的孤儿院。虽然我极少有机会回家一次。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  But that is not a crime of love.</Source>
+      <Dest>我懂了。不过那并不是爱的罪过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  But that is not a crime of love.</Source>
+      <Dest>我懂了。不过那并不是爱的罪过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe.  But I am no killer.  It takes more than a name.  An offense must be committed against Mara.</Source>
+      <Dest>也许吧。不过我不是个杀手。可不仅仅是名誉问题。【任何攻击行为都是对玛拉的不敬】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Possibly. Not every whisper comes from the Brotherhood's lips. Not all the void's children pray to Sithis.</Source>
+      <Dest>很可能。不是每声低语都出自兄弟会的口中。不是每个虚空的孩子都向 Sithis 祈祷。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am always serious. You would be wise to do the same, lest no one take you seriously.</Source>
+      <Dest>我永远是认真的。你如果明智的话就该跟我一样，免得没人对你认真。</Dest>
+    </String>
+    <String List="2">
+      <Source>An act of passion.  But not a crime of love.</Source>
+      <Dest>一次激情的涌动。但并不是爱的罪过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not.  A person must be named, but so must a crime.</Source>
+      <Dest>我是不会的。一个人必须有名字，但是定罪也必须有罪名。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. A name is spoken. Then a crime is named. If I deem your cause worthy, then I act.</Source>
+      <Dest>不。名字既出，罪名既成。如果我认为你的动机有所值，我就会行动。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Possibly. But that's not why I ask for clemency.  I ask because I claim it to be Mara's will, when she does not speak to my ear.</Source>
+      <Dest>可能吧。 但我那不是祈求仁慈。  我祈求是因为那是玛拉旨意,当她没有和我说话时我就会祈求。</Dest>
+    </String>
+    <String List="2">
+      <Source>A poor decision. You must think ahead, or be left behind.</Source>
+      <Dest>一个糟糕的决定。你必须先人一步，否则就会被甩下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then perhaps you are the forgiveness I seek.  Very well.  I will help you on your pilgrimage.</Source>
+      <Dest>那么你可能就是我一直寻找的救赎.  很好.  我会在你的朝圣之路帮助你.</Dest>
+    </String>
+    <String List="2">
+      <Source>Interesting.  And what is her crime?</Source>
+      <Dest>有趣，她犯了什么罪</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>All praise be to Mara.  Death to those who turn away from her embrace.</Source>
+      <Dest>赞美玛拉。愿死神降临在这些远离她怀抱的人身上。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

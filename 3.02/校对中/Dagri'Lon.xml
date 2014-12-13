@@ -1,0 +1,2622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>A cave.  Burn everything inside.</Source>
+      <Dest>一个洞穴。进去把里面烧个精光！</Dest>
+    </String>
+    <String List="2">
+      <Source>...</Source>
+      <Dest>……</Dest>
+    </String>
+    <String List="2">
+      <Source>Look. A single sentry stands watch, while the others drink themselves blind. Spill their blood, and let the floor have the final taste.</Source>
+      <Dest>看，只有一个警卫还在执勤，其他警卫都醉得晕晕乎乎的。杀了他们，让他们的鲜血渗入地板之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look. A single sentry stands watch, while the others drink themselves blind. Spill their blood, and let the floor have the final taste.</Source>
+      <Dest>看，只有一个警卫还在执勤，其他警卫都醉得晕晕乎乎的。杀了他们，让他们的鲜血渗入地板之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tire of killing vampires. It would be far more enjoyable to watch them feed on the dog.</Source>
+      <Dest>我已经厌倦杀吸血鬼了。看他们喝狗血的话感觉还蛮愉快的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not cast your jester spells on me.  It is a waste of magicka.</Source>
+      <Dest>不要对我放你那些可笑的法术，你这是在浪费法力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Caves.  Where slimy maggots crawl to hide, driven toward the festering wounds of the earth.</Source>
+      <Dest>洞穴。那是黏滑的蛆虫爬行潜藏之处，它们缓慢的蠕动，拱向那地表上那溃烂的创伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph.  Here lies perfection, and yet I can already sense the specter of decay lying in the shadows, waiting to wrap it in its foul womb.</Source>
+      <Dest>哼。真是完美，可我已经察觉到那躺在阴影之中，逐渐衰弱的幽灵了。它在等待回到它肮脏的起源。</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger approaches.  I will purify their sins and their bodies of time.</Source>
+      <Dest>危险的方法。我将在净化他们的罪恶的同时也净化他们的躯体。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are hunting the wrong prey.  You should kill the traitorous Harbinger and feed on his fattened corpse.  But leave his head.</Source>
+      <Dest>你的猎物选错了。你应该杀了那个背信弃义的的预言者然后把他的尸体当肥料。不过要留下他的脑袋。</Dest>
+    </String>
+    <String List="2">
+      <Source>By all means, worm, stop and enjoy the view. Gaze at the fertile trees and lively rivers, and beg the Gods it will stay that way.</Source>
+      <Dest>务必， 渣渣，停下来享受眼前的风景。凝视着茂密的树木和流动的河流，并向圣灵乞求一直会保持如此。</Dest>
+    </String>
+    <String List="2">
+      <Source>This grotto is too small of a cave to hold anything but feral beasts.  Whatever killed this deer will not be far from where we stand.</Source>
+      <Dest>这个洞太小了，除了野兽也装不下其他什么东西。无论如何，要被杀的这条鹿肯定不会离我们太远。</Dest>
+    </String>
+    <String List="2">
+      <Source>Valdr has not earned the right to continue his feeble existence.  Kill him.  His corpse will make for a better tool against our foes.</Source>
+      <Dest>Valdr那种脆弱的家伙没有活下去的资格。杀了他。然后将他的尸体变为我们对付敌人的更好的工具。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see a cave up ahead. No doubt you wish to enter.</Source>
+      <Dest>我看见前面有个山洞。你肯定想进去。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a cave here. What lurks inside will soon cease to do so.</Source>
+      <Dest>这有个洞穴。潜伏在里面的东西很快就会停止它所做的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dwemer thought engineering alone could keep cities like this pristine, yet one only need look at the corners to see how they are defiled.</Source>
+      <Dest>那些锻莫们以为只需要工程技术就能让城市永葆光辉，然而只需看看那角落就知道它们是如何变破败的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should let the weakling claim his vengeance on his own. If he cannot, then he deserves to die a puppet.</Source>
+      <Dest>你应该让弱者自己为自己报仇，如果他不能做到，那他也就仅剩作为傀儡死去的价值了.</Dest>
+    </String>
+    <String List="2">
+      <Source>The room ahead smells of meat, oil and blood. Cast a flame upon it, and burn everything inside.</Source>
+      <Dest>鲜肉、油与鲜血的味道从前面的屋子里飘过来。放个火焰魔法把里面的玩意儿烧个里焦外嫩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strange that caves like this exist when all that surrounds it is frozen in death. One can only surmise it is an illusion, held up by a fading magic.</Source>
+      <Dest>奇怪的是，当周围的一切都被冻死之时，山洞却像这样存在了下来。人们只能猜测这是一种幻术，通过一种枯萎魔法而停止了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look to the left there. It seems the bandits employed a caravan of Khajiit slaves. Their deaths only mean one thing. The digging part is done.</Source>
+      <Dest>看左边那儿。那群强盗似乎雇佣过一大篷车多的虎人奴隶。他们的死只能说明一件事情，那就是挖掘工作已经完成了。</Dest>
+    </String>
+    <String List="2">
+      <Source>These ruins and barrows fashioned by Nede monkeys remain the pinnacle of their civilization.  How pathetic.</Source>
+      <Dest>这些由尼德猴子修建的遗址和古墓就是他们的文明的顶峰了。多么可悲啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nords will praise Kynareth for providing this natural wonder, but will they curse her if she chooses to flood their fields? That much I doubt.</Source>
+      <Dest>诺德人会为了吉娜莱丝给他们带来的这大自然的奇迹而赞美她，但如果她选择让洪水吞噬他们的土地，他们会不会诅咒她呢？我很怀疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>The corpse hanging from the wooden beams should tell you this passage is perilous.</Source>
+      <Dest>木梁上吊着的尸体应该明显已经告诉你这条路很危险了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pathetic.  This vampire thrall does not even watch the entrance, relying on the strength of a couple of measly spiders.  Purge the fool.</Source>
+      <Dest>可悲至极。这些吸血鬼奴仆根本没有把入口看守好，只靠区区几只蜘蛛来看家。送那脑残货上路。</Dest>
+    </String>
+    <String List="2">
+      <Source>This magical tomfoolery accomplishes little, other than to prove that you are a child.</Source>
+      <Dest>这件无聊的事除了证明你丫蠢得像个小孩之外毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>These pitiful traps and Dragon slaves will not prevent us from moving forward.  Make haste through these rusty blades. Only weaklings fear their cut.</Source>
+      <Dest>这些可怜的陷阱和龙的走狗根本不能阻止我们前进. 快通过这些生锈的刀片把。给它们切几刀也没什么好怕的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not even dignify your pathetic spells with a response.</Source>
+      <Dest>我都不屑于回应你那可悲的咒语。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wish to heal me, then reverse time itself.  In other words, you cannot.</Source>
+      <Dest>如果你想治愈我，那还不如去让时间倒流吧。换句话说，你做不到的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is becoming a Nightingale considered a promotion?  You have moved from a cold, filthy sewer to a cold, filthy cave.</Source>
+      <Dest>你真觉得当上夜莺是一种擢升么？无非是从阴冷潮湿的下水道里挪了个窝到一座阴冷潮湿更甚的山洞里罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whoever awaits us in this cave, their choice in sentries was laughable.  It will not surprise me if our foes are a band of jesters.</Source>
+      <Dest>不管是谁在这个洞穴里等待着我们，他们在岗哨上的选择实在可笑。即使我们的敌人是个一群小丑组成的乐队也不会让我感到惊讶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here is a museum that boasts a lifetime of work, and yet all I see here are the same scraps one finds in every Dwarven gutter.</Source>
+      <Dest>这里是一个自夸耗费了终生时间建成的博物馆，但我在这里看到的是跟所有矮人下水道里一样的下脚料。</Dest>
+    </String>
+    <String List="2">
+      <Source>This must be where they keep their prisoners. Kill them all. It would be the merciful thing.</Source>
+      <Dest>他们一定是把囚犯藏在什么地方了。把他们全给杀了吧。对他们来说死亡才是最仁慈的事情呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>So they have transformed this undercroft into a graveyard.  How fitting.</Source>
+      <Dest>所以他们把这口地窖改建成了坟地。多么合适。</Dest>
+    </String>
+    <String List="2">
+      <Source>Trouble lurks. Whatever awaits us will die like the sorcery that created it. Pitifully.</Source>
+      <Dest>暗流汹涌。但是很可惜，不论前面有什么在等着我们，它们都和创造它们的巫术一样完蛋了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So we come to the end.  According to the notes, this boy lasted less than 3 days against Archmage Geirmund.  And Geirmund was as frail as a lily.</Source>
+      <Dest>到最后了。笔记上说，这个小伙子面对大法师格尔蒙德连三天都没用，格尔蒙德虚弱得像朵花一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something hungers in this lair, and judging by the bones outside, not even a mammoth can sate its appetite.</Source>
+      <Dest>在这个洞穴里的东西非常饥渴，从外面的骨头来看，他可能食量比猛犸象还大。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bandits seem intent on guarding this passage to nowhere. They must have made a home out of the other side.</Source>
+      <Dest>强盗们好像都拼命守着这条死胡同，他们的老巢肯定在那边。</Dest>
+    </String>
+    <String List="2">
+      <Source>The skybound watch provides a stunning view of a province slowly crumbling.</Source>
+      <Dest>飞天哨塔上的景色很棒，你能在上面看着天际省慢慢地变得支离破碎。</Dest>
+    </String>
+    <String List="2">
+      <Source>So we reach the end of this Bleak Falls Barrow.  And here awaits its worthless boon, as bleak and barren as its namesake.</Source>
+      <Dest>所以我们到了荒瀑神殿的尽头。在这里等待着它无足轻重的恩惠，就如同它的名字一般荒凉而贫瘠。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a skeever challenging a dragon, your attempt at a calm spell is so laughable it has disarmed me from sheer incredulity.</Source>
+      <Dest>就像一条雪鼠想挑战巨龙，你妄图使用宁静术简直太可笑了，可笑到我现在都不想动武。</Dest>
+    </String>
+    <String List="2">
+      <Source>A machine that harnesses the very essence of the stars.  The Dwarves were one of the few races, it seems, who were undaunted in challenging the Gods.</Source>
+      <Dest>一台利用众星的本源驱动的机器。看来矮人是为数不多的敢于挑战诸神的种族。</Dest>
+    </String>
+    <String List="2">
+      <Source>These hags hope to use the bones of the dead to betray their fellow adventurers. But now, the only music they will play are the moans of the void.</Source>
+      <Dest>这些女巫希望能利用死者的骨头，让它们背叛冒险者的同伴。但现在，他们能演奏的唯一乐曲只有徒劳的呻吟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Finally.  Let us fetch this wretched horn and return to High Hrothgar.  Wait.  Why are those coffins open?   Ugh.  Someone has already been here.</Source>
+      <Dest>既然如此.  让我们带着这个不幸的号角返回高吼峰. 等等.  为什么那些棺材都打开了?   可恶.  有人来过这了.</Dest>
+    </String>
+    <String List="2">
+      <Source>So these are the enchanted spiders. It is too bad their strength will prove as meager as the fool who enchanted them.</Source>
+      <Dest>这些都是魔化蜘蛛。实在是太糟糕了，醉心于这种粗劣力量的家伙都是傻瓜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits. As if any fool would cross this road, when their camp can be seen for miles. Raze it to the ground, and show them the price of their folly.</Source>
+      <Dest>强盗们。当他们的营帐在几英里外就历历可见之时，只有傻子才会走那条路。将之夷为平地后，再让他们见识见识愚蠢下场。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who taught you how to fight!  Pummel this worm to the ground!</Source>
+      <Dest>是谁教你战斗的！将这懦夫打倒在地吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine, mortal.  Let us trade.</Source>
+      <Dest>很好，凡人。我们来交易吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Meridia's light is narrow, but at the very least it is concentrated. Just strong enough to rid the temple of its desecrated corpses.</Source>
+      <Dest>梅芮狄娅的光芒是有限的，但至少它是集中的。这就足以消灭圣殿中那些被亵渎的尸体了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak, mortal.</Source>
+      <Dest>说吧，凡人。</Dest>
+    </String>
+    <String List="2">
+      <Source>How many years did this bandit chief sit idly on his perch, thinking himself invincible from all who passed through his domain? Death finds a way.</Source>
+      <Dest>那个强盗头子花了多少年就那样懒散地坐在自己的位子上，做着自己永远不会败于那些越过他的地盘的人们之手的千秋大梦？死亡会找到答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drive that snowback to the ground!</Source>
+      <Dest>揍翻那个北方佬！</Dest>
+    </String>
+    <String List="2">
+      <Source>The fall here is indeed steep, but while fools look down, they are slaughtered by trolls who have no concept of fear. </Source>
+      <Dest>这里的瀑布的确陡峭，但是当傻瓜们往下看的时候，他们就被不知恐惧为何物的巨魔给宰了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Burned corpses lie across the floor here. Only a fool would walk blindly down the same path.</Source>
+      <Dest>烧焦的尸体还躺在地板上呢。只有傻子才会不假思索的着了同样的道儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a coward that adventurer fled at the first sign of danger. We ought to kill him and save him the ignominy of starving to death.</Source>
+      <Dest>就像一个懦夫一样，这个冒险家在稍有危险迹象的第一时间就逃跑了。我们应该杀了他，使他免受饿死的耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take what you must.  I have no need for earthly possessions.</Source>
+      <Dest>把东西带好。我可不需要什么尘世中的财产。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave is here. Animals, bandits, all will be laid to waste.</Source>
+      <Dest>这里有个洞穴，野兽，强盗，都躺在这里腐朽。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems the peasant stumbled upon more than he bargained for. Notice the magic's color. This is a summoning ritual, and by no means an ordinary one.</Source>
+      <Dest>看起来那个农民发现了比他契约中所要求的更多的东西。看看那魔力的颜色。这是个召唤仪式，而且绝不是普通的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many untapped mines in Skyrim like this, filled with Orichalcum. The Nords are too stupid to master the metal, and too proud to admit it.</Source>
+      <Dest>在天际有很多未开采的像这样装满了黑铜矿的矿洞。那帮诺德人，明明蠢得无法开采那金属，但却完全不觉得这点很丢人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>A Dwarven city. Utterly unremarkable.</Source>
+      <Dest>又是矮人城市。真没劲。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems some of these bandits take pleasure in idle torture. In fact, they appear to have made a show out of it.</Source>
+      <Dest>似乎是其中几个强盗想在无所事事的拷打折磨中找点乐子。事实上， 他们在其中表现的像是作秀.</Dest>
+    </String>
+    <String List="2">
+      <Source>Name your task.</Source>
+      <Dest>报告你的任务。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look. A cave. What we find inside will likely be of little use.</Source>
+      <Dest>看，一个山洞。我估计里面又是一堆破烂儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Old stonework. Gold, traps, and bones.</Source>
+      <Dest>古老石雕制品，金子、陷阱和骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>You did well to kill this woman. Her mind was conflicted. Only the void can bring her peace. Let us do the same with her husband.</Source>
+      <Dest>你杀了那个女人。做的很好。她的心里很矛盾。只有虚空才能带给她安宁。让我们也对她丈夫做同样的事儿吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Nord ruin.  Thousands of years old. But an infant.</Source>
+      <Dest>一个诺德的废墟。已经几千年之久了。但还没人探索过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Their supplies seem to be running low. Perhaps they were forced to place sentries to guard them.</Source>
+      <Dest>看起来他们的补给不多了。也许他们被迫安排哨兵来看守补给。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems this point served as a border even in the days of Nord kings. Given the road is narrow and easily defensed, it is obvious why.</Source>
+      <Dest>看这条易守难攻的羊肠小径也就不难明白，这里为何自伊斯格拉默王朝起就扮演着边塞要冲的角色。</Dest>
+    </String>
+    <String List="2">
+      <Source>The darkness dances in the air like venomous snakes. But those are just the shadows of our true enemy. We will find them soon enough.</Source>
+      <Dest>黑暗在空中像毒蛇一样舞蹈。但这些只是我们的真正的敌人的影子。我们很快就会发现他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Summoning circles. But not necessarily to conjure. This hall reeks of the same magic Fain was so fond of. Illusion.</Source>
+      <Dest>召唤之环。但不一定要施法。这个大厅充满了与费恩喜好相同的魔法。 幻术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.  If we must.</Source>
+      <Dest>很好，看来我们别无选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Malkoran awaits, no doubt cowering behind a small army of shades. They will not save him.</Source>
+      <Dest>莫克然在等着呢，那货肯定蜷缩在一群阴影军士后面。但那些家伙救不了他的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Legend says Dwarven ruins are haunted. Such fears are foolish.</Source>
+      <Dest>传说矮人遗迹闹鬼。这些都是杞人忧天。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another Dwemer ruin. The Jarls would do well to tear these down.</Source>
+      <Dest>又一个锻莫遗迹。领主们应该好好地把这些拆掉的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was only a matter of time before they turned on each other.</Source>
+      <Dest>他们苟合在一起只是时间问题</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  But consider your actions, fool, you may not have this chance again.</Source>
+      <Dest>好极了。但想清楚了再行动，傻瓜，这机会可是千载难逢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until the decay claims me.</Source>
+      <Dest>直到虚无抽空了我.</Dest>
+    </String>
+    <String List="2">
+      <Source>Old ruins. Nordic, it appears.</Source>
+      <Dest>遗迹，古诺德风格建构，很明显。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord ruins. They have stood, but not the test of time. That they have failed. </Source>
+      <Dest>一些诺德遗迹。它们曾经巍立，但在时间考验面前，终究败下阵来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven ruins. Old cities, old ghosts.</Source>
+      <Dest>矮人废墟。老城市，老鬼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  Take this and use it smite your enemies.  </Source>
+      <Dest>这里。拿着这个并用它砸扁你的敌人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then lead.  Do not waste your breath talking.</Source>
+      <Dest>那就带路。少废话啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears the tomb lies underground. At least some precautions were taken to prevent grave robbers from entering, albeit they are pointless.</Source>
+      <Dest>看来那个墓穴藏在地下。多少能对盗墓者有点防范吧，虽然他们没什么本事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Briar-hearts and witchcraft. Some consider it blasphemy. I agree. But only because it is weak. It is magic for rubes.</Source>
+      <Dest>荆棘之心和巫术。有些人觉得这很亵渎。我同意。但理由是它太弱小。这是土包子才用的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>非常好。</Dest>
+    </String>
+    <String List="2">
+      <Source>What else do you require, mortal?</Source>
+      <Dest>你还需要什么，凡人？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it, mortal?</Source>
+      <Dest>汝意欲为何，凡人?</Dest>
+    </String>
+    <String List="2">
+      <Source>Impossible.</Source>
+      <Dest>不可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Burn your belongings.  Handing them to me will bring them the same fate.</Source>
+      <Dest>自己把你的东西都烧掉。把它们交给我下场是一样的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These ruins are a prophecy. It augurs the fate of the College.</Source>
+      <Dest>这些符文是一个预言。它预示着学院的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>If this imbecile Klimmek speaks true, no one knows if these monks even live. Kill them. Throw their bodies off the mountain and claim their fortress.</Source>
+      <Dest>如果这个笨蛋科林麦说的是真的, 没人知道这些僧侣还活着. 杀掉他们. 把他们尸体丢下山拿下他们的寨子.</Dest>
+    </String>
+    <String List="2">
+      <Source>This cavern stretches across the breadth of Skyrim, and is rivaled only by the void itself. Yet time continues to flow, and life continues to rot.</Source>
+      <Dest>这个洞穴横跨天际省，堪比虚空本身。即便时光流逝，万物凋零。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Alik'r wish to enter Whiterun, then all they need do is remove their garments or unsheathe their blades. They are too weak to do either.</Source>
+      <Dest>如果阿利克尔人希望进入白漫城，他们所能做的只能是要么脱掉自己的衣服，要么就是拔出他们的剑。他们太过无力以至于只能选择这两者之一。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Akavir were truly fools, to have spent eons building this monument to absurdity. What good is information when hidden in cryptic art.</Source>
+      <Dest>阿卡维是个真正的傻瓜，荒谬的花了亿万年的时间来建造这座纪念碑。把信息隐藏在这神秘艺术品中能有什么好处呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>A prophecy written in stone is meant to combat the decay of time.  Alduin's Wall shows the Blades' lack of trust in mere words.</Source>
+      <Dest>把预言刻在石壁上意在抵御时间的侵蚀。奥杜因之墙代表着刀锋会对纯文字的记载没有信心。</Dest>
+    </String>
+    <String List="2">
+      <Source>So while you were at the Embassy, your friend Delphine scurried back to Riverwood like a rat.  Typical.</Source>
+      <Dest>所以当你在梭默大使馆拼命的时候，你的朋友戴尔菲娜却像只耗子一样急匆匆的溜回河木镇。真他妈经典。</Dest>
+    </String>
+    <String List="2">
+      <Source>The coast is no stranger to bandits and salvagers. What the sea does not swallow, they devour like hordes of suckerfish.</Source>
+      <Dest>海滩对于强盗和救援者都不陌生。凡是没有被海水吞没的东西，都被他们像一群食人鱼似的带走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The arena is a home for beasts. This spectacle only proves the minds of these bandits have long since decayed.</Source>
+      <Dest>这个竞技场装满了野兽。出现这种场面只能说那帮强盗的脑子早就已经坏掉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some corsairs manage to dock their ships at Solitude. These fools lack the connections, or the funds. So they hide like rats.</Source>
+      <Dest>一些海盗计划在孤独城停靠他们的船只。这些傻瓜缺乏联系，没有资金，所以他们像老鼠一样躲藏起来。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Draugr Lord controlled these dragon totems as if they were his own hands. And yet its power served as an anchor from which he could not flee.</Source>
+      <Dest>这些尸鬼领主像控制双手般的使用这些龙之图腾。但这力量却也像锚般的紧紧束缚着它，使他不能逃脱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Power is a tool of domination. If the thieves are not willing to kill and make slaves of a man, then the power they exert is as empty as the wind.</Source>
+      <Dest>权利是一种统治工具。如果窃贼们不愿被抓，也不想做奴隶，那么他们所掌有的权利就是个空架子。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Nord is a fool. Even if his wife is alive, she has likely lost all that made her his. Her body and mind have likely been corrupted.</Source>
+      <Dest>这诺德人是傻瓜。就算他的妻子【还活着】，恐怕也已经失去了所有人格。她的身体和意识都已经被污染了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If this Embassy plan is to succeed, it will hinge on the intoxication of the guests.  Let their minds decay, and they will forget their own names.</Source>
+      <Dest>大使馆的计划成功的关键之处在于让客人们中毒。让他们的头脑腐烂，他们会忘记自己的名字。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Danica Pure-Spring's meddling will only delay the inevitable. This sapling will decay as quickly as it blooms, for that is the fate of all things.</Source>
+      <Dest>丹尼卡·洁春的努力只能为不可避免的结局带来一点延缓。这棵小树凋零的速度会和它的开花一样快，因为那就是命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Interesting that the priestess of Kynareth refuses to touch Nettlebane. But she cares not if its poison corrupts you.</Source>
+      <Dest>有意思的是，凯娜瑞斯的女祭司自己不愿意去触碰草木灾星，却从不担心那玩意会腐蚀你。</Dest>
+    </String>
+    <String List="2">
+      <Source>The further we descend into this vacuous ruin, the more I feel the need to return to the Greybeards and rip out their tongues.</Source>
+      <Dest>我们在这一文不值的遗迹里探索的越深，我越觉得需要回到灰胡子那里扯下他们的舌头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Widow's Watch. When ruins like this are left to decay, they give shelter to worms.</Source>
+      <Dest>【遗孀之望。Widow's Watch】这样的遗迹好像就是留下来等着腐朽的，倒是给了那些蠕虫们一个栖身之所。</Dest>
+    </String>
+    <String List="2">
+      <Source>This imbecile Mallus thinks Maven will give him the meadery when Sabjorn is disposed of.  But he already knows too much.</Source>
+      <Dest>这个白痴马卢斯还以为在撒布乔恩被设计了之后，玛雯会把酒庄给他。但他已经知道的太多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The peasant who spoke to the Jarl was right to fear the unknown, but foolish to appeal to those who see only a madman.</Source>
+      <Dest>那个去找领主的农夫在恐惧未知这一点上是明智的，但是想借此引起一群只把他当疯子的人的重视却很愚蠢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Danica Pure-Spring's meddling will only delay the inevitable. The Gildergreen will decay once more, as is the fate of all things.</Source>
+      <Dest>丹妮卡·纯洁之春的干预只是将不可避免的结果往后推迟了一会儿。翠苒树会再次衰败，这正是万物的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Marius hypothesized that indoctrination was not a product of torture, but the ability to make yourself appear benevolent for its removal.</Source>
+      <Dest>马吕斯不认为教化是为了折磨人，而是为了当其停止时让你心怀感激。</Dest>
+    </String>
+    <String List="2">
+      <Source>These bandits were fools. Their own stink and revelry prevented them from hearing their demise clawing through the walls.</Source>
+      <Dest>那些强盗都是蠢货。他们狂欢时那臭气熏天的情境让他们无法听到隔着墙传来的死亡的气息。</Dest>
+    </String>
+    <String List="2">
+      <Source>The further we descend down these sewers, the closer we come to madness.  Or so many would have you believe.</Source>
+      <Dest>我们沿着这下水道走得越深，我们离疯狂就越近。真希望你能相信。</Dest>
+    </String>
+    <String List="2">
+      <Source>If this innkeeper doubts the veracity of your claim, then shout her to death, and let the truth come with its killing breath, and her dying one.</Source>
+      <Dest>如果老板怀疑你的言语是否可信，叫他们去死，让致命的真相来说话吧，她只是一个冥顽不化的人。  .</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears not all Giants wish to graze the tundra like livestock. These seem to be living in a cave like lowlife bandits.</Source>
+      <Dest>似乎不是所有的巨人都希望像个家畜一样在苔原上放牧。这些家伙就像一群粗野的强盗一样住在洞穴里。</Dest>
+    </String>
+    <String List="2">
+      <Source>This mysterious stranger has earned my ire.  He could have left this note at the entrance of Ustengrav, but chose to force us inside its bowels.</Source>
+      <Dest>这个神秘陌生人让我很恼火。他本可以把这张边条放在乌斯腾格拉的入口，但却选择让我们闯进这层层地穴。</Dest>
+    </String>
+    <String List="2">
+      <Source>This old man cannot be trusted to know what is and isn't important.  Put his home to the fire, and when he has finished talking, do the same to him.</Source>
+      <Dest>这老东西知道什么重要，什么不重要，老滑头一个。给他的房子放把火。当他讲完了，也再给他放把火。</Dest>
+    </String>
+    <String List="2">
+      <Source>If time is truly torn, the Elder Scroll will allow us to see the wound. One wonders whether it is a keyhole, or large enough to grant us passage.</Source>
+      <Dest>若时间真的被撕裂，那上古卷轴将会允许我们一窥那伤痕。人们所好奇的是，那究竟是不是连接过去与现在的关键所在，又是否足以让我们穿越时空。</Dest>
+    </String>
+    <String List="2">
+      <Source>This appears to be a workshop of some kind. Yet there is only one table and innumerable places to sit. The Dwemer were a lazy race.</Source>
+      <Dest>这应该是某种工作间。现在只剩一张桌子和数不清的椅子了。锻莫真是个懒惰的种族。</Dest>
+    </String>
+    <String List="2">
+      <Source>This hag wishes to bargain with you, but she conceals its true breadth. For the bargain is for her life, and there are consequences for sparing it.</Source>
+      <Dest>这女巫想跟你讨价还价，只因为她隐瞒了【它的真实宽度】。因为她想用来交易的，是自己的性命。而活命才是首位的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Brynjolf is a fool.  Without fear, a thief will only serve the highest bidder.  Gulum-Ei does not fear the consequences of his betrayal.</Source>
+      <Dest>布林乔夫就是一傻蛋。当一个盗贼不畏后果时，谁给钱最多他就帮谁干活。古鲁姆·埃并不害怕自己的背叛所带来的后果。</Dest>
+    </String>
+    <String List="2">
+      <Source>We have reached Ivarstead.  All that stands in the way is the climb. 7,000 steps to prevent the weak and the unworthy from doing the same.</Source>
+      <Dest>我们已经到了紫杉镇。面前矗立的就是那台阶。一共七千级，那些懦弱无能者只能望洋兴叹。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems this bandit's time in captivity did little to dull his greed. Simple, mindless fools die simple, mindless deaths.</Source>
+      <Dest>看来这个强盗蹲完监狱出来仍旧是本性难改。头脑简单的蠢货就该像个脑残一样死。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Ratway is a grave.  Those who live in it are meant to decay.</Source>
+      <Dest>鼠道就是个坟墓。那些生活在里面的人都注定会腐朽堕落。</Dest>
+    </String>
+    <String List="2">
+      <Source>The silver here would be but a portion of the Silver-Blood's haul. But to control the prices, one must own a monopoly of the resources.</Source>
+      <Dest>这里的白银只会是银血货物的一部分而已。但如果要操纵白银的价格，你必须垄断这种资源。</Dest>
+    </String>
+    <String List="2">
+      <Source>The arrows on the ground mark this as a Falmer attack. Strange that their victims managed to escape with their lives no longer intact.</Source>
+      <Dest>地上的这些箭矢足矣得知是雪精灵袭击的。这些陌生的受害者拼了老命地逃跑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Potema. A foolish, petulant queen. But it is a name that brings some nostalgia, for the days when I still had flesh.</Source>
+      <Dest>波特玛。一个愚蠢的，任性的女王。但这名字却让我追忆起自己肉身仍存的时光。</Dest>
+    </String>
+    <String List="2">
+      <Source>The journal you found speaks volumes. Like a coward this bandit chief hid his treasure, because he lacked the power to claim it.</Source>
+      <Dest>你找到的这本日记意义非同寻常。因为没有勇气宣告它，所以这个土匪头子像个懦夫一样藏着他的财宝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Peryite. Prince of pestilence. Summoner of plagues. One who proves that entire civilizations can be brought to ruin by single bite.</Source>
+      <Dest>哇哦，是魄伊特. 瘟疫之神。据说一击就可以将整个文明摧毁的家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Marius once theorized that the potency of blood magic would vary by the blood. Thus the Falmer will always be weak, because their victims are weaker.</Source>
+      <Dest>Marius曾创建了关于血魔法的效力会随血统变化的学说，因为那些受害者往往都比施法者更弱。 </Dest>
+    </String>
+    <String List="2">
+      <Source>So this alchemist buried himself in his research, and in the end, his research buried him. It is a fate I am not unfamiliar with.</Source>
+      <Dest>于是那位炼金术师在实验的过程中把自己给烧死了，最终，他的实验葬送了他。这种命运对我来说真是再熟悉不过了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would almost prefer it if this Daedric Prince and his flea-ridden mongrel were allowed to decay. </Source>
+      <Dest>我希望这个魔神和他那些骑跳蚤的狗杂种早日烂掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>And Maven Black-Briar outs herself as a spineless worm.  Unable to best her foes and unable to conquer them, she attempts sabotage.</Source>
+      <Dest>而玛雯黑荆棘暴露出了她懦弱如蠕虫的嘴脸。无法超越对手，更无法征服对手，她唯有在暗中作祟。</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears this cave is not entirely a waste of space, but only if you are an alchemist. The aperture in the roof draws insects with its light.</Source>
+      <Dest>这个洞说不定还不是那么一无是处，前提是你是个炼金师。洞顶上漏光的缝隙吸引了不少虫子。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is something unnatural about this battery of gusts. This entire mountain seems to be an utter distortion.</Source>
+      <Dest>关于这场突如其来的暴风有些不对劲的地方。整片山体似乎都完全扭曲了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am already tired of these Greybeards and their petty tricks. Take your weapon and shove it up their skulls with unrelenting force.</Source>
+      <Dest>我已经受够了灰胡子了，受够他们那无聊的把戏了。拿起你的武器用不卸之力把它插进那帮老头的脑袋里吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Elder Scrolls seem to work like a candle, lighting the words on the scrolls of time while your mind melts like a wax.</Source>
+      <Dest>上古卷轴好像和蜡烛差不多,在你的精神像蜡一样融化的时候点亮卷轴上的文字.</Dest>
+    </String>
+    <String List="2">
+      <Source>There is only one way to deal with Goldenglow Estate.  Burn it to the ground.  Send a message to both Maven and Aringoth that you are in control.</Source>
+      <Dest>只有一种方法能解决金光庄园的问题。那就是把它烧成平地。然后送信给玛雯和阿格林斯说你掌控了局面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only in a religion do you have leaders gifted their status as opposed to earning it. This Sybil is just another example.</Source>
+      <Dest>只不过你之所以能在宗教中领导他们，是种天赐的恩惠，而非你亲手赚来的。这Sybil是个例外。</Dest>
+    </String>
+    <String List="2">
+      <Source>So without her beacon Meridia's light cannot even cut through the fog. It is curious how much the Daedra rely on their trinkets.</Source>
+      <Dest>所以没有她灯塔所散发的梅瑞迪亚之光的话，就不能穿过迷雾。真奇怪，有多少魔族非得依靠着他们的小装饰品啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The tomb of Gathrik. I have heard of a warlock by that name, and a warlord as well. A name is the one thing you can never claim for yourself.</Source>
+      <Dest>Gathrik之墓。我听说过一个叫这名字的术士，还有个军阀貌似也是这名儿。你永远不能仅凭名字就证明自己到底是谁。</Dest>
+    </String>
+    <String List="2">
+      <Source>These savages spread across Skyrim like a plague, stretching further and further east. But eventually, their ambition will stretch themselves thin.</Source>
+      <Dest>这些野蛮人在天际像瘟疫一样散播开来，延伸到东部越来越远的地方。但是幸运的是，他们的野心回事他们自己的路越走越窄。</Dest>
+    </String>
+    <String List="2">
+      <Source>A forge that harnesses the energy of the moons.  As if these trinkets the bandits wield could contain Lorkhan's true power.</Source>
+      <Dest>這些在強盜手上並且由月之力鍛造出來的裝飾品就好像擁有洛克汗真正的力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Traps upon traps.  Vokun's craven attempts to slow us only delay his demise.</Source>
+      <Dest>一个接一个的陷阱。瑞文懦弱的试图托住我们，而这也只能延缓他的死期。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fort Snowhawk. Another perfectly usable structure that was left to decay. It's as if the Jarls of this land prefer their enemies warm and well armed.</Source>
+      <Dest>雪鹰堡垒，又是一座被废弃的完美的防御工事。领主们好像总是给他们的敌人送温暖啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So the fool dies not as a wolf, but as a dog.  I hope Hircine enjoys his new pet.</Source>
+      <Dest>(笑声)所以这个蠢货不是作为一匹狼死的，而是一条狗。我猜海尔辛会很喜欢他的新宠物。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is evident this Caller knows not the value of these books, or else she would have fought to keep them.  Instead she keeps only her worthless life.</Source>
+      <Dest>很明显这位召唤者小姐并不知道这些书的价值，否则她会玩命保住它们。而现在她只保住了自己可怜的小命。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Orthorn does not deserve to live, nor does he deserve to die.  Leave him in a cage to rot.</Source>
+      <Dest>这个Orthorn既不配活下去，也不值得弄脏我们的手。就留在笼子里让他自己烂掉吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Mercer were smart, he would bide his time before ever showing his face.  But greed and patience are mortal enemies.</Source>
+      <Dest>如果默瑟真的聪明，他就应该在自己暴露之前等待时机。但是贪婪和耐心是不共戴天的敌人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have ended this town's nightmares, and like Darius Shano before them, now they will be tortured by the silence.</Source>
+      <Dest>你已经结束了这个小镇的噩梦，就像他们面前的Darius Shano一样，而现在他们将被沉默所折磨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>These small ponds are teeming with magical energy.  From the flowers to the grass, all give the Spriggan strength.</Source>
+      <Dest>这些小池塘都充满了魔法的能量。从花朵到杂草，都为树精带来力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something stirs in this ruin.  Something large.</Source>
+      <Dest>这个遗迹里有个东西在走动，一个大东西.....</Dest>
+    </String>
+    <String List="2">
+      <Source>Iralen was motivated by an insatiable greed. Never was she confused by something as fleeting and grotesque as love.  This Dark Elf though...</Source>
+      <Dest>Iralen被一个贪得无厌的欲念激活了。她从来不会为像短暂而诡异的爱情一样的东西所困扰。这个黑暗精灵...</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not run errands for these High Elf peasants.  Trade their fine clothes with a tunic from the nearest beggar, and tell Elisif where you bought it. </Source>
+      <Dest>别为这些高精灵农民跑腿儿！用离你最近的乞丐的袍子交换他们最好的衣服，然后告诉艾利西弗你从哪儿买到它的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These contrivances Karliah speaks of are an insult. If any priest of Nocturnal wishes to question your skill, drop Mercer's corpse at their feet.</Source>
+      <Dest>卡莱雅胡扯的这些都是骂人呢。要是有哪个诺克图娜尔的祭司质疑你的能力，直接把莫瑟的尸体丢给他们看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fain called the Aedra's protection one of Tamriel's greatest illusions.  According to him, temples like this are monuments to indifference.</Source>
+      <Dest>费恩把神族之佑称为泰姆瑞尔大陆最顶尖的 幻术之一。据他所说，【像这样的神殿都是无足轻重的古迹。】  temples like this are monuments to indifference.</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) It brings me no shortage of delight to see these Thieves lose their spoils in the very manner with which it was obtained.</Source>
+      <Dest>(笑声) 看着那些小偷们以这独特的方式失去了他们已经获得的战利品，真是没有什么比这个更让我感到愉快的啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Halfhand is half a man.  A barnacle in a steel shell.  Yet weaklings who serve are at least smart enough to latch on to their betters.</Source>
+      <Dest>【半掌只算半个男人。一个钢壳做的藤壶。但这个软弱的服务者至少足够聪明的知道要理解他们的长辈。】</Dest>
+    </String>
+    <String List="2">
+      <Source>The townsfolk here fear what they do not understand.   Unfortunately, there are some things to complex to grasp.</Source>
+      <Dest>市民们害怕那些他们所不理解的东西。但不幸的是，总有些事情复杂得让人难以捕捉其真面目。</Dest>
+    </String>
+    <String List="2">
+      <Source>If this Birna had any resolve, she would kill her brother, stuff his head, and mount it between the bear and the horker.</Source>
+      <Dest>如果比尔娜哪怕有一点决心，她会杀死他的兄弟，填充他的头颅，然后把它镶嵌在熊和三牙海豹之间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nepotism disgusts me.  What this Anska desires is to suckle on the teat of a dead Nord monkey rather than earn her place.  Do not help her.</Source>
+      <Dest>裙带关系令我恶心。比起努力博得自己的地位，Anska更乐意去舔死去的诺德猴子的乳头。她不值得帮。</Dest>
+    </String>
+    <String List="2">
+      <Source>This fort is one of the largest in all of Skyrim.  It is a castle, and deserves a castle's ransom.  If Stalleo does not pay, he should die.</Source>
+      <Dest>这座要塞是整个天际省里最大的那个。这是个堡垒，应得与堡垒相匹配的赎金。如果斯塔莱奥不付钱，他就死定了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Marius was similar to these vampires.  He could not sleep in silence.  He placed his victims around his bed chamber to hear their screaming lullaby.</Source>
+      <Dest>马吕斯与这些吸血鬼相似,他无法在谧静中入睡，他将他的受害者囚禁在床边，尖叫声是他最享受的安眠曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>We are getting closer.  The voice that calls to us cannot conceal its fear.</Source>
+      <Dest>我们越来越近了。呼唤我们的声音掩饰不了它的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nearly all mortals are slobbering dogs.  At least this hound knows its place.</Source>
+      <Dest>几乎所有的凡人都像狗一样贪婪。至少猎犬会知道它的位置。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wards can only deflect frontal assaults. Iralen was developing a cloak version to safeguard a body exiting slowed time, but alas, she was too late.</Source>
+      <Dest>诸般结界都只能偏转来自前方的攻击。伊拉莲一直在研发一种全覆式的法术结界以求能安全改出被减速的时间流，不过，八圣灵在上，做的太迟了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you have gained the title of Harbinger.  It is empty.  The Companions are free to do as they wish, and you are master to no one.</Source>
+      <Dest>所以你现在顶着先驱的头衔了。这可啥用都没有啊。战友团可以自由地做他们想做的事，你不是任何人的主人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not unusual for bandits to seek pleasure through torture.  Fain called their mortal appearance an illusion.  They are animals at heart.</Source>
+      <Dest>强盗经常依靠折磨人取乐。费恩说他们人类的外表只是一个障眼法而已。事实上，这群家伙，人面兽心。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vaermina is a torturer, and torture is a fine tool for unlocking the mind's inner secrets.  Leave this town be, and watch it from afar.</Source>
+      <Dest>维尔米亚是一个拷问者，而拷问则是打开深锁于心中之秘密的钥匙。咱们就这样离开这座小镇，静观其变吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Augur is a fool.  It was not knowledge that consumed him, but ignorance.</Source>
+      <Dest>这个预言者就一正蠢材。毁掉他的不是知识，而是愚昧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ancano thinks himself a deity.  Go.  Use the Staff of Magnus.  Show this farce of a God that his power can be contained.</Source>
+      <Dest>安卡诺安卡诺以为自己是神。去吧。用玛格努斯之杖，让这个滑稽之神知道他的力量并不是万能的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If what Karliah says is true, you too have managed to escape death through the slowing of time.  Fortunately for you, Mercer left your head.</Source>
+      <Dest>如果卡莱雅说的是真的，你已经通过减缓时间逃过了一死。算你走运，墨瑟没有砍下你的头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps the Caller knew the value of these books, and how worthless her life was in comparison.  Thus she risked it to keep them.</Source>
+      <Dest>也许那位召唤者知道这些书的价值，相比之下她的性命很不值钱。所以还是拼命守住书要紧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now you are acting as a courier for this Pactur.  Have you learned nothing?  Let his incompetence speak for itself.</Source>
+      <Dest>你现在的角色就是这个 Pactur 的护送者。没明白吗？让他自己暴露自己的【不称职之处】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nords will go to any length to reach their precious Sovngarde.  Yet if Kodlak truly espouses honor, then he should honor his contract with Hircine.</Source>
+      <Dest>诺德人个个都是伸长了脖子踮起脚尖想要够到他们那宝贝的松加德。如果克拉科真的把他那一辈子都捆死在了荣誉这个词上，那他应该为他与海尔辛的关联而骄傲才对。</Dest>
+    </String>
+    <String List="2">
+      <Source>These ghosts aim to test your worth.  Yet they themselves are proctors of incompetence.  You should defile their graves as punishment.</Source>
+      <Dest>这些幽灵的目的是测试你的价值。但他们自己却是不称职的监考者。作为惩罚，你应该玷污他们的坟墓。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go on, swear your fealty to Nocturnal, worm.  Your life was destined for service.</Source>
+      <Dest>继续，向诺克图娜尔宣誓你的忠诚，蠕虫。你注定是为了侍奉而生的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The ignorance of these fools astounds me.  If you truly wish to rid the hold of mages, then learn their craft so you may learn their weaknesses. </Source>
+      <Dest>我震惊于这些蠢材的无知。要是你真想清理一处满是法师的据点，那就去学他们的技艺，这样就能知道他们的弱点。</Dest>
+    </String>
+    <String List="2">
+      <Source>How curious.  This stonework differs from the other ruins.  Nor does it bear the hideous faces the Nedic builders were so fond of.</Source>
+      <Dest>真有趣。这里的石雕工艺和其他遗迹不同，也没有那些尼德人钟爱的怪脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>These beasts cannot spend a single minute without punching a face or stuffing one.  No amount of dressing will change who they are.  Sellswords.</Source>
+      <Dest>这些野蛮人不是在大打出手就是在大嚼大咽。不管怎么改头换面，佣兵永远都是佣兵。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have joined the Companions.  And for what?  These wolves cling to a power that enslaves them.</Source>
+      <Dest>你加入了战友团，那又怎样？那帮狼人死守着所谓力量不放，却没发现正是那力量在奴役他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The resonance from that staff is similar to the Eye, but in other ways it bears no resemblance.  It is like no other in this world.</Source>
+      <Dest>权杖的共振和眼睛相似，但在其他方面，它没有任何相似之处。这就像是世界上独一无二的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It must have taken the priests years to collect this assortment of Draugr.  And all will die in one fell swoop.</Source>
+      <Dest>就算一个祭司想要收集这么多品种的尸鬼也得花上好几年。而只需一下猛击它们全都得死。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cadre of minions is a weapon against time.  What nobles do with it, however, makes their life as worthless as these miners.</Source>
+      <Dest>一群仆人是对抗时间的利器。不论贵族用他来做什么，他们的生命都跟矿工那样毫无价值了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ancano is dead and yet the Psijics take your boon.  In the end, you were their pawn.</Source>
+      <Dest>ancano死了，但psijics却拿走了属于你的恩惠。归根结底，你只不过是他们的棋子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am unfamiliar with the Synod.  Yet if this Gavros is any indication of their strength, then there is little chance the staff is in their hands.</Source>
+      <Dest>我跟希诺不是很熟。但如果这个Gavros能表露任何他们力量相关的迹象，那这法杖就不怎么可能在他们手里了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you managed to survive.  How fortunate for you.</Source>
+      <Dest>所以你设法幸存了下来。你是多么幸运啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>These anomalies are concentrated magic.  It would be wise to sift through their remains.</Source>
+      <Dest>这异常现象聚集魔力。通过它们留下的痕迹进行细查是最明智的做法。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the Psijic Monks have contacted you.  In fact, the echo of their visit screams through this chamber.  But why you, mortal?  Interesting.</Source>
+      <Dest>那么就是说，赛伊克修道会联络了你。事实上，他们来访的声音贯穿了整个房间。但是为什么是你？凡人？真有意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strange magical energy is resonating from that ball.  When the time comes, will you wield it, or defy its power?</Source>
+      <Dest>诡异的魔法能量从球体种缓缓再生。当时机到来时，你是会使用它的力量，还是拒绝它？</Dest>
+    </String>
+    <String List="2">
+      <Source>How pathetic.   All it took was a fraction of effort, and this dragon stirs no more.</Source>
+      <Dest>多么可悲，切所需的只有一点点付出，而这就能让这只巨龙没命。</Dest>
+    </String>
+    <String List="2">
+      <Source>This boy.  I wish to burn him.</Source>
+      <Dest>这小子。我都想捡点柴火点了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fain likened thievery to illusion. A sleight of hand to fool your quarry. Yet what you did only confirms it is a magic best suited for halfwits.</Source>
+      <Dest>费恩把偷窃比喻成是幻术。运用熟练的手法戏弄你那愚蠢的目标。而你需要做的仅仅是把这个过程着着实实变成一个适合蠢货的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>This decrepit witch offered to sell me a love potion.  If she were not already a wight, I would have burned her for such an insult.</Source>
+      <Dest>这个老巫婆居然想卖给我一瓶春药。如果不是看她一把年纪，我就该为她对我的侮辱把她烧死。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thane of Whiterun.  You save an entire city from a dragon and your reward is a title that is emptier than this Jarl's skull.</Source>
+      <Dest>白漫城的领主.  你从巨龙那里拯救了整个城市却得到一个比Jarl脑袋还要空洞的头衔.</Dest>
+    </String>
+    <String List="2">
+      <Source>So this miner Omluag sought your help.  How dare this craven weakling ask you to do what he cannot?  If he desires leniency, he should demand it.</Source>
+      <Dest>看来这个矿工奥穆鲁阿找你帮忙。这个没用的懦夫怎么敢找你做这种自己都做不到的事？如果他要宽大处理，那我就给他个宽大处理。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fain called marital bickering a form of illusion.  If these worms truly despised each other, the walls of this inn would be decorated in blood.</Source>
+      <Dest>费恩将夫妻争吵成为一种假象。如果这些懦夫真的互相看不起，那么这家酒馆的墙就该被鲜血所溅满。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems many holds depend on the Whiterun farms for sustenance.  To gain control of it gives the victor the means to starve their opponent.</Source>
+      <Dest>似乎很多城池的生计都依赖于白漫城的农场。获得此地的控制权意味着胜利者可以让他们的对手挨饿。</Dest>
+    </String>
+    <String List="2">
+      <Source>3 cups of liquor and 3 corpses. The stupidity of men never ceases to amaze. The only mystery is how they managed not to fall before they were killed.</Source>
+      <Dest>这三具尸体的手中都握着杯酒。男人的愚蠢每每都让我惊奇万分。唯一的谜题是，他们是如何做到在被杀死前不让酒杯掉到地上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>This orphanage is as useless as a bat without wings.  Rape the woman, enslave the children and convert the building into fishery.</Source>
+      <Dest>这家孤儿院像只没有翅膀的蝙蝠一样无用。强奸妇女，奴役儿童，还把这建筑变成了养鱼场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Leave this wretched tableau of corpses.  Their pitiful belongings are of no use to us.</Source>
+      <Dest>离开这悲惨的满是尸体的场景吧。他们可怜的财产对咱们没有用的。</Dest>
+    </String>
+    <String List="2">
+      <Source>This corpse reminds me of Marius.  How he enjoyed seeing the minds of his victims disintegrate as their cages contracted in size.</Source>
+      <Dest>这具尸体让我想起了马卢斯。他是那么喜欢收缩他的牺牲者的笼子的尺寸，然后看着他们的理智渐渐崩溃。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever fool hired this band of mercenaries wastes them.  Their souls and their flesh are best used as both weapon and shield.</Source>
+      <Dest>那个雇佣了这帮佣兵的蠢货真是大材小用。他们的灵魂和肉体是最厉害的武器和盾牌。</Dest>
+    </String>
+    <String List="2">
+      <Source>We should kill this Logrof and show Boethiah and Molag Bal that we will not be their pawns.  But I am loathe to leave that mace covered in rust.</Source>
+      <Dest>我们应该杀了这个Logrof 并向波耶西亚和莫拉格．巴尔展示我们不会成为他们的抵押物。但我得离开那令人厌恶的生锈的狼牙棒 。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish mortals, building an entire town around a mine only to watch it collapse into rubble.</Source>
+      <Dest>愚蠢的凡人，把整个小镇都修建在矿井里，只能眼睁睁的看着它倒塌成一片废墟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pathetic.  This is the spider the city guards have named their better?  It died meekly, its bite no more venomous than a flea.</Source>
+      <Dest>真可怜。这就是那些卫兵口中无法战胜的大蜘蛛？它死的时候一点都没反抗，咬人还没跳蚤疼呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is this about you running an errand for this worm Olda?  Steal her precious mead, burn down the house and teach her not to rely on others.</Source>
+      <Dest>你想对Olda这个懦夫使什么坏？偷走她珍贵的蜂蜜酒，把她的房子烧掉，然后教她不要依赖别人。</Dest>
+    </String>
+    <String List="2">
+      <Source>These savages live to hunt, feast, sleep.  They say repetition is the most pernicious form of madness.</Source>
+      <Dest>这些野蛮人的生活就是打猎，宴会，睡觉。他们说重复是疯狂最【恶性】的形式。</Dest>
+    </String>
+    <String List="2">
+      <Source>This boy insists his mother left him for the Stormcloaks.  Tell him he suckled the teat of a vampire who never loved him.  It will make him a man.</Source>
+      <Dest>这个男孩坚持说妈妈离开他是为了加入风暴斗篷。跟他讲，他的吸血鬼妈妈从未爱过他，让他成为一个男子汉吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Jarl should use every available citizen to bait the dragon and serve as shields for the guards. For if they guards die, they are dead regardless.</Source>
+      <Dest>领主应该利用每一个可利用的公民充当龙的诱饵和守卫的挡箭牌。因为如果守卫死光了的话，他们所有人不管怎样都得死。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Elf's greed was prodigious as Iralen's. If he had her power, he may have been of some use. But alas, he is more useful as meat for the skeevers.</Source>
+      <Dest>作为一名 Iralen's，这个精灵实在是太贪婪了。如果他有她的力量，或许还能顶些用。但是，唉，他还是去当雪鼠的吃食更有用。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you escaped Cidhna Mine.  These pitiful mortals may be astonished, but nothing is inescapable.  Not even death.</Source>
+      <Dest>所以你逃到希讷矿坑了。这些可怜的凡人可能会很惊讶，但没有什么是不可避免的。即使是死亡。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You've assisted these miners, and for what?  The very least these worms can do is harvest and smelt your ore.</Source>
+      <Dest>你在帮这些矿工，为的是什么呢？至少这些蛆虫能帮你开挖和冶炼你的矿石。</Dest>
+    </String>
+    <String List="2">
+      <Source>A road of carnage.  It will lead us to its maker.</Source>
+      <Dest>杀戮之道。它会领着我们到那始作俑者面前。</Dest>
+    </String>
+    <String List="2">
+      <Source>A tree.  Withered, old, and yet defiant of its immortal surroundings.  Burn it.  </Source>
+      <Dest>一棵树。又枯又老，却还妄想忤逆那永恒的环境。烧了它。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You say there are simpletons in this town who have asked you to play matchmaker. Kill the woman and show the men the consequences of hesitation.</Source>
+      <Dest>你说这座城里那些要你去扮演媒人的家伙都是傻子。那就把这个女的杀掉，让男人知道他犹豫了的后果吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Movarth Piquine.  He lived for centuries, yet compared to my existence, he was but a child.  And as expected, he fought and died like one.</Source>
+      <Dest>Movarth Piquine，他活了几个世纪，但和我的存在相比，他不过是个孩子。就像预料的那样，他像一个普通人一样战斗并牺牲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ogmund should be tried and executed.  Not for worshipping Talos, but for the crime of cowardice.  Worship out in the open, or not at all.</Source>
+      <Dest>奥格蒙德应该被绑起来处死，并不是因为崇拜塔洛斯，而是因为懦弱，公开崇拜，或者干脆什么罪也没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those who live to serve another die when they have outlived their usefulness.  Thus ends the life of Nepos the Naive.</Source>
+      <Dest>那些为他人而战的家伙都死了，因为所作所为远超出了他们的能力所及。这要了天真的 Nepos的命。</Dest>
+    </String>
+    <String List="2">
+      <Source>This harbinger deserves neither vengeance nor pity.  He should spend the rest of eternity as Hircine's dog, as do all who seek a shortcut to power.</Source>
+      <Dest>这个预言者既不值得替他复仇，也不应该去可怜。他在余下的永生中应该一直去当海尔辛的狗，这就是那些寻求获取力量的捷径的人应得的下场。</Dest>
+    </String>
+    <String List="2">
+      <Source>A two-handed weapon is a battering ram, a word for word translation of rage and power.  Let those who rely on defense learn the depth of their folly.</Source>
+      <Dest>双手武器等同于攻城槌，逐字翻译的话就是愤怒和力量。让那些还依赖防守的家伙认识到他们到底有多愚蠢吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>This site once held a circle of standing stones.  What time could not erode, the water swallowed whole.</Source>
+      <Dest>这个地方曾经有一圈立石。时间都无法让磨损它们分毫，然而大水却吞噬了一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Hroggar should have his right to any wench he pleases.  It is the archaic custom of marriage that forced him to kill his wife and child.</Source>
+      <Dest>这个Hroggar有权利追求任何他喜欢的姑娘。是古老的习俗迫使他不得不杀死自己的妻子和孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that helmet is any indication, these bath stools have not been used since the Empire occupied this fort. For once I am pleased not to have a nose.</Source>
+      <Dest>如果说那个头盔说明了什么问题的话，这些浴室自帝国占领了这个要塞以后就再也没有用过。有那么一会儿我很庆幸我没有鼻子。</Dest>
+    </String>
+    <String List="2">
+      <Source>The role of an archer suits you.  Poison your arrows and take aim from a distance while your knees buckle in terror of real combat.</Source>
+      <Dest> 那么弓箭手的角色一定适合你。在真实战斗的可怖场面中，扣膝而跪，把你的箭涂上毒药，然后从远距离干掉目标。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have walked us right into this Daedra's trap.  Very well.  I have always wanted to kill a God.</Source>
+      <Dest>你把我们带到了魔族的圈套。很好，我一直梦想着能够杀掉一个神灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>These fools spill oil on the ground and hang pots of flame, unwittingly giving archers the skill of destruction.</Source>
+      <Dest>那些白痴在地上泼了油然后把上面吊个火罐子，平白给弓箭手带来了毁灭系法术的效果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mortals will betray each other for the most frivolous of reasons.  And like this Hajvarr, there are those who will stay loyal for foolish ones.</Source>
+      <Dest>凡人会为了极小的理由相互背叛。可是也有的像这位 Hajvarr ，也会为了愚蠢的理由忠诚到死。</Dest>
+    </String>
+    <String List="2">
+      <Source>So this is the limit of Movarth's ambition.  To enslave a city whose inhabitants are less than the pods on a swamp fungus.</Source>
+      <Dest>这就是 Movarth 野心的极限：奴役一座居民数量不如沼泽里一个蘑菇上的孢子多的城市。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Orc bard pleases me.  When mortals let savages in their homes, they cannot complain when the beasts cover their walls in feces.</Source>
+      <Dest>这些兽人吟游诗人挺让我开心的。当人们让未教化的蛮子们登堂入室的时候，哪怕那帮野兽在你墙上撒上屎尿你也得保持宽容吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>This Orc bard pleases me.  When mortals let savages in their homes, they cannot complain when your kind covers their walls in feces.</Source>
+      <Dest>这吟游兽人让我发笑。让原始人住在家里，就不能怪墙上总沾满公粪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Marius would once devise puzzles like this and have his subjects attempt to solve them. Doing so would fill the other subject's room with poison gas.</Source>
+      <Dest>马吕斯曾打造了些这类机关让奴隶们去解。这么做会给其他奴隶的房间里施放毒气。</Dest>
+    </String>
+    <String List="2">
+      <Source>A corpse.  It seems Markarth executes their criminals by drowning them.  Like all things in this city, they attempt to hide the truth from view.</Source>
+      <Dest>一具尸体。看来马卡斯城通过浸溺处决犯人。正如这座城市的其他事情一样，他们试图在人们眼前掩盖真相。</Dest>
+    </String>
+    <String List="2">
+      <Source>The guards testify that you are Dragonborn, and there is no reason to doubt their claim. Congratulations mortal, the gods have made you their puppet.</Source>
+      <Dest>卫兵们证明你是龙裔，我没有理由怀疑。恭喜你凡人，神已经选择了你做祂们的代行者。</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears this tower serves as the spine of Fort Sunguard.  From here we can walk to and from its assortment of bones.</Source>
+      <Dest>看来这座塔是作为森加德的脊柱存在的。我们可以从这儿走，也能从它各种各样的骨头那儿走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bannermist camouflages itself in the mountain that stands behind it.  Its builders failed to realize that subterfuge is a poor substitute for power.</Source>
+      <Dest>旗霭塔借它身后的山来掩蔽自己。它的建造者完全没意识到隐匿并不能取代力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bilegulch mine. Its name is apt.  Orcs flock to this mine's bile colored ore like flies to a corpse.  You are no exception.</Source>
+      <Dest>笔丽格去矿洞. 这名字很恰当.  胆汁色的兽人涌入这个矿洞像苍蝇见到尸体.  你难以想象.</Dest>
+    </String>
+    <String List="2">
+      <Source>Bilegulch mine. Its name is apt.  Orcs flock to this mine's bile colored ore like flies to a corpse.</Source>
+      <Dest>笔丽格去矿洞. 这名字很恰当.  胆汁色的兽人涌入这个矿洞像苍蝇见到尸体.  你难以想象.</Dest>
+    </String>
+    <String List="2">
+      <Source>Death haunts this place.  From under the floorboards he rises like a thin mist.  From the ceiling he salivates, blood dripping from his fangs.</Source>
+      <Dest>死神缠扰着这个地方。他从地板缝隙中慢慢升起，如一团薄雾。他在天花板上垂涎，獠牙尖上的血缓缓滴下。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Ritual Stone.  It can be a powerful tool for laying waste to a densely packed city, where your murdered enemies will rise to your defense.</Source>
+      <Dest>仪式之石。那对于糟蹋一座被围的水泄不通的城市来说可是个强有力的工具，你杀敌的同时你的防御力会越来越高。</Dest>
+    </String>
+    <String List="2">
+      <Source>This store will not last the year. It would be a mistake to purchase their goods now. When the owner starves, the valuables will be sold for crumbs.</Source>
+      <Dest>这个店撑不过今年了。现在就把他们的货卖了是个很大的错误。当老板穷困潦倒饿的眼睛发蓝的时候，他就会把那些贵重物品当成垃圾卖掉来换一些面包渣来充饥。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Akatosh gifted you immortality? Would you take it?</Source>
+      <Dest>如果阿卡托什能赐予你永恒的生命？你会接受吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Akatosh gifted you immortality? Would you take it?</Source>
+      <Dest>如果阿卡托什能赐予你永恒的生命？你会接受吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Akatosh gifted you immortality? Would you take it?</Source>
+      <Dest>如果阿卡托什能赐予你永恒的生命？你会接受吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps the dragons hold the key to true immortality.</Source>
+      <Dest>可能龙族保留这把钥匙是为了真正的不朽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Paarthunax also enjoyed friendly conversation. You should work on that.</Source>
+      <Dest>Paarthunax 也很喜欢这个友好的谈话。你应该继续下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>My presence here is a homecoming.  I was trained in the Summerset Isle, amongst the Psijics.  I was born in Skyrim.</Source>
+      <Dest>我在这算是个海归.  我去过夏暮岛, 走过整个 Psijics.  我出生在天际省.</Dest>
+    </String>
+    <String List="2">
+      <Source>Mortal, a word of advice.  If you know not the difference between alteration and illusion, you will never craft a new spell of either school.</Source>
+      <Dest>凡人，给你句忠告。如果你分不清变形系与幻术系的区别，就不可能为任何一系设计出新的法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>When Cephorus became Emperor, it was a time of peace for most.  Perhaps we mortals were simply tired of war.  But Solitude was left to the Mad King.</Source>
+      <Dest>在Cephorus当国王的时候，差不多是最安宁的时代。也许我们只是单纯地厌倦了战争。但是独孤城却被疯狂的国王所统治。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Shrine of Azura.  As the wind beats her brow and the snow erodes her body, she will grow thin.  Her followers already have.</Source>
+      <Dest>阿祖拉的圣坛。有风拍打着她的眉头，有雪侵蚀着她的身体，她就会慢慢变瘦。她的信徒已经瘦了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a chamber boy driven by lust, the vampire's every thought is influenced by his need to feed.  He is no mortal, but a creature.  A beast.</Source>
+      <Dest>就像是被欲望驱使的客房服务生一样，吸血鬼的每一个想法都被他的食欲所左右。他不再是人类，而是个傀儡，一只野兽。</Dest>
+    </String>
+    <String List="2">
+      <Source>For in that moment I would become that which I desire and that which I despise most.</Source>
+      <Dest>在那一刻我将成为我最向往和最鄙弃的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Where Artaeum has gone is a mystery, lost in time and space.  Yet the Psijics fear the void.  They fear the end.</Source>
+      <Dest>Artaeum的去向是个传说，消失在时空长河之中。但是Psijics恐惧虚空，他们害怕消亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>The smell of this rotting corpse attracts attention.  As you lack the creativity to find an excuse, I will devise an alteration spell to mask it.</Source>
+      <Dest>腐烂尸体的味道会引人注意。当你缺少寻求借口的创造力时，我会设计一种变化系法术用来掩盖它。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Orcs here have taken what the Nords have discarded and turned it into a home.  What vermin lack in ability they make up with resourcefulness.</Source>
+      <Dest>兽人带来了诺德人该丢入家中的坏习惯，这些寄生虫缺乏足智多谋的能力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish poets like to rave about the beauty of the fall forest .  There is nothing beautiful about decay.</Source>
+      <Dest>愚蠢的诗人喜欢热情地谈论这堕落森林之美。但这里只有腐朽。</Dest>
+    </String>
+    <String List="2">
+      <Source>This light's magic echoes through this chamber.  If such a pathetic summoning can be called magic.</Source>
+      <Dest>这些光之魔法的回响穿过房间。如果这乏味的召唤可以被称作魔法的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are not a simpleton, you will tread carefully in this hold.  Darkness meanders through Morthal, and the marsh to its north.</Source>
+      <Dest>如果你不是个呆子，就该知道涉足这一领地的时候应该多加小心。黑暗蜿蜒流过墨索尔城, 然后是这条沼泽的北方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Life does not flow through this shell.  It is as empty as your philosophy.</Source>
+      <Dest>你的哲学就像没有承载过生命的躯壳一样空无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Falmer.  These pathetic creatures deserve only death.  Let us clothe their pallid corpses in a cloak of flies.</Source>
+      <Dest>雪精灵。这些讨厌的怪物只配去死。咱们快把这些惨白的尸体丢进苍蝇群里去吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>We have nothing to gain by visiting these Orc savages.  Leave this camp of sword-tooths to their ignorance.</Source>
+      <Dest>参观这些兽人的暴行我们什么也得不到。趁他们不注意，离开这群野兽的营地吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Any fool knows that resistance to magic is not the same as warding it. You can feel the flame licking against your skin, pinch it like a feather.</Source>
+      <Dest>就连傻瓜都知道，魔法抗性跟防守住魔法压根是两码事儿。你能感受到火焰舔舐着你的皮肤，却能如同羽毛般的将它捏起。</Dest>
+    </String>
+    <String List="2">
+      <Source>All things wither and rot, but none is as devious as the decay of the mind.  And mages were Pelagius' favorite toy.</Source>
+      <Dest>就算万物枯萎腐朽，也没有一个会像腐烂的内心那样阴险。而法师们是佩拉吉奥斯最爱的玩具。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Psijics emphasize the totality of an object.  A mead bottle is both the honey that makes it and the fool it will someday intoxicate.</Source>
+      <Dest>Psijics着重强调了事物的整体性。蜜酒的吸引力是通过蜂蜜和喝高了的白痴们共同体现出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mortal, heed my words.  Perfection that cannot be preserved must be removed.</Source>
+      <Dest>凡人，仔细聆听我的话语。无法被保存的完美是应当被消去的。</Dest>
+    </String>
+    <String List="2">
+      <Source>An interesting proposition, mortal. Or rather, a paradoxical one.</Source>
+      <Dest>一个有趣的命题，凡人。或者说是个矛盾的命题。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember how quickly Uriel's reign ended.  Like the tale of the dragon who sought to quiet his voice, Potema's ambition was destined to fail.</Source>
+      <Dest>我还记得Uriel的政权结束的有多快。就像故事里那个想让自己的声音变得克制的龙的一样，波特玛的野心注定要以失败告终。</Dest>
+    </String>
+    <String List="2">
+      <Source>Halldir's chamber.  It is time to show this farce of a mage that his immortality is just as feeble as his magic.</Source>
+      <Dest>霍迪尔密室。这个法师的不朽正如他的魔法一般软弱不堪。是结束这场闹剧的时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farms are the last bastion of purity. The ripe are plucked, the rotting are consumed by the earth. They will never be replaced, as mortals must feed.</Source>
+      <Dest>农场是最后的纯洁之地。成熟的作物被采摘，而腐烂的则又重回大地。它们永远不会被取代，因为凡人们必须被养活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Winterhold.  An entire city left to rot, its people no more than mindless wraiths.</Source>
+      <Dest>冬堡。一个被遗弃而日益腐朽的城市，那里的人不比愚蠢的幽魂好哪里去。</Dest>
+    </String>
+    <String List="2">
+      <Source>The immortality achieved by vampires is nothing more than power granted at the cost of eternal slavery.</Source>
+      <Dest>吸血鬼所获得的永生，仅仅是以永久的奴役为代价获取的力量而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Riften is a city of failures. When an imbecile cannot create on his own, he turns to theft.</Source>
+      <Dest>裂谷城是一座失败者之城。当一个脑残自己挣不了钱的时候，他就会去偷人家的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nords squat in these Dwemer billets like common vermin.  Proof enough the Dwarves have left this rock for dead.</Source>
+      <Dest>蹲在矮人军营里的诺德人就和那些害虫一样多。这足以证明矮人们已经离开这地方去作死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>All around us this world fades and is born anew. That is fine, for most of this land is replaceable. That which is not, is where the tragedy lies.</Source>
+      <Dest>我们身处的这个世界消散然后重生。这是极好的，因为大部分的这片土地都是可替换的。这不正是悲剧所在吗。</Dest>
+    </String>
+    <String List="2">
+      <Source>The beams here are rotting.  These bandits aim to build a city.  They are building a grave.</Source>
+      <Dest>大梁都腐烂了。强盗们想建一座城，自掘坟墓而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>These lairs were havens for so-called master sorcerers who practiced the dark arts.  To me, they were a place to find acolytes to fetch my water.</Source>
+      <Dest>对于那些苦心钻研黑暗魔法的，所谓魔法大师们而言，这些巢穴简直是天堂。对我而言，不过一侍僧家政所。</Dest>
+    </String>
+    <String List="2">
+      <Source>The reign of Pelagius came as swift as his madness.  I had seen enough in Solitude to know what lay ahead. So I escaped to the Summerset Isle.</Source>
+      <Dest>佩拉吉奥斯的统治跟他的疯狂来地一样快。我在独孤城已经见地够多了我知道会接下来发生什么，所以我逃去了夏暮岛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dawnstar. The sea is calm here, waving gently like the proscato, the lighthouse standing tall as the statue of Syrabane. Yet it is far more bleak.</Source>
+      <Dest>晨星城。这里的海面平静安宁，仿佛泊斯卡托花丛一般微微起伏着。灯塔如席拉班恩的塑像一般高高耸立，但却更为昏暗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish mortal, when you seek my aid you seek the destruction of your enemies, not a partner to engage in idle banter.</Source>
+      <Dest>愚蠢的凡人，寻求我的帮助那一刻起就是寻求你敌人的毁灭，可不只是找个伙伴那么随便的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The secrets of life and death were not meant for mortal kind.  I care not for meaning.</Source>
+      <Dest>生与死的秘密不是凡人所能奢求的。我不关心它的意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Snow Elves, whose failures deserve only extinction, have chosen the cowardly route.</Source>
+      <Dest>雪精灵，这个失败的种群就该灭绝，它们选择了一条窝囊至极的路子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hagravens.  Wretched harridans who made a fool's bargain to live out a fool's existence.  It is little surprise they are diseased with brain rot.</Source>
+      <Dest>乌鸦鬼婆。那帮卑鄙的老太婆就只会跟白痴们订下契约延续那帮白痴的白痴生命。她们居然在为脑萎缩而困扰，这真让我惊讶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet in the end it would be foolish to take such a bargain. It is akin to a novice blacksmith buying a sword the day before he learns to forge one.</Source>
+      <Dest>然而最终它会愚蠢的进行这样的交易。这就像是个新手铁匠在他学会锻造的前一天买了一把剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Falkreath is an excellent source of nightshade.  It blossoms where death pollinates.</Source>
+      <Dest>佛克瑞斯是夜茄完美的产地。这种花会在死亡弥漫之地恣意开放。</Dest>
+    </String>
+    <String List="2">
+      <Source>On a larger scale, the College is an institution for lesser talents, a cadre of future priests and  battle mages.</Source>
+      <Dest>从宏观角度来说，学院是为那些稍缺天赋的人而准备的，目的是培养出未来的精英牧师和战斗法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rebellions like the Forsworn are like the fungus that eats at a fetid corpse, the result of an Empire's gross imperfection.</Source>
+      <Dest>弃誓者那样的叛乱就像是吞吃腐臭尸体的真菌，这是帝国的弊端所招致的结果。</Dest>
+    </String>
+    <String List="2">
+      <Source>The witches of this aviary have built a resistance to lesser magics. You would be wise to aim away from their claws, for that is where the ward lies.</Source>
+      <Dest>这些乌鸦鬼婆已经建立了一些魔法抗性。你要是够聪明的话就离他们的爪子远点儿，因为那里就是藏有结界的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not waste my power skulking about the cities, mortal.</Source>
+      <Dest>不要把我的能力浪费于在城市里东躲西藏，凡人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morthal...death looms here.</Source>
+      <Dest>墨索尔城……死亡在那里摇曳。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember it as if it were yesterday.  The guard sounded the horn, and I climbed up the tower to get a better view of Cephorus' army.</Source>
+      <Dest>我还记得这件事，仿佛就发生在昨天。警卫吹响了号角，我爬上塔去，以便更好勘察塞弗勒斯的军队。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even now death mocks me, as I mock the void.  I will never again taste the fruit from an oassum tree, or smell its pallid fragrance.</Source>
+      <Dest>即使现在死亡如过去我嘲弄虚空般在身边嘲笑着我。我也没能再次品尝 an oassum tree 上的果实,或是闻到它那淡淡的香甜气息。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no greater waste of intelligence and energy than an inn.  The wise master time, they do not let it slip away in an inebriated stupor.</Source>
+      <Dest>没有比在酒馆更浪费身心的地方了。明智的人会把握时间，而不是让它随着酒醉流走。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>No worm, that is the opposite of what I implied. It is because they gained their immortality without labor that they have no answers for its cause.</Source>
+      <Dest>没有蠕虫，这和我暗示不一样。那是因为他们无法解释为何能不劳而获却得到了永生。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strange that the Lady of Decay does not let her bodies rot.  Perhaps she abhors it as I do.  Good.  Feast, mortal, and cleanse this altar.</Source>
+      <Dest>很奇怪，腐败女士却没让她自己的尸体腐烂掉。也许他像我一样讨厌腐烂。很好。筵席，凡人，净化这个祭坛吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do I care what happens to Morthal?  Killing Movarth brought me boon.</Source>
+      <Dest>我怎么关心什么发生在Morthal身上？杀了Movarth，带给我他的骨头。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do I care what happens to Morthal?  Killing Movarth brought me boon.</Source>
+      <Dest>我怎么关心什么发生在Morthal身上？杀了Movarth，带给我他的骨头。</Dest>
+    </String>
+    <String List="0">
+      <Source>If the world ended, there'd be no more decay.  Problem solved.</Source>
+      <Dest>如果世界终结，就再不会有腐朽。问题就此解决。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Mage Guild Quest) How can the Psijic monks manipulate time like that?</Source>
+      <Dest>(法师公会任务)  Psijic僧侣像那样操纵时间是怎样做到的？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Mage Guild Quest) How can the Psijic monks manipulate time like that?</Source>
+      <Dest>(法师公会任务)  Psijic僧侣像那样操纵时间是怎样做到的？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Mage Guild Quest) How can the Psijic monks manipulate time like that?</Source>
+      <Dest>(法师公会任务)  Psijic僧侣像那样操纵时间是怎样做到的？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Mage Guild Quest) How can the Psijic monks manipulate time like that?</Source>
+      <Dest>(法师公会任务)  Psijic僧侣像那样操纵时间是怎样做到的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth has been vanquished.  Morthal is safe.</Source>
+      <Dest>Movarth被击败了。Morthal安全了</Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth has been vanquished.  Morthal is safe.</Source>
+      <Dest>Movarth被击败了。Morthal安全了</Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth has been vanquished.  Morthal is safe.</Source>
+      <Dest>Movarth被击败了。Morthal安全了</Dest>
+    </String>
+    <String List="0">
+      <Source>Paarthunax. It seems there's one thing in this province even older than you.</Source>
+      <Dest>Paarthunax.看起来在这个province 里有一个比你还古老的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Paarthunax. It seems there's one thing in this province even older than you.</Source>
+      <Dest>Paarthunax.看起来在这个province 里有一个比你还古老的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good.  That makes two of us.</Source>
+      <Dest>很好。你好我也好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am the Dragonborn.  My very breath spins the wheel of fate.</Source>
+      <Dest>我是龙裔，我的呼吸推动着命运之轮。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am the Dragonborn.  My very breath spins the wheel of fate.</Source>
+      <Dest>我是龙裔，我的呼吸推动着命运之轮。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am the Dragonborn.  My very breath spins the wheel of fate.</Source>
+      <Dest>我是龙裔，我的呼吸推动着命运之轮。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know.  Start a farm, raise a family maybe.</Source>
+      <Dest>不知道。可能经营个农场，养活个家。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know.  Start a farm, raise a family maybe.</Source>
+      <Dest>不知道。可能经营个农场，养活个家。</Dest>
+    </String>
+    <String List="0">
+      <Source>The World Eater is not a foe to be taken lightly.</Source>
+      <Dest>The World Eater是个不能轻视的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The World Eater is not a foe to be taken lightly.</Source>
+      <Dest>The World Eater是个不能轻视的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The World Eater is not a foe to be taken lightly.</Source>
+      <Dest>The World Eater是个不能轻视的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The World Eater is not a foe to be taken lightly.</Source>
+      <Dest>The World Eater是个不能轻视的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing.  What went wrong?</Source>
+      <Dest>有意思，出了什么问题？</Dest>
+    </String>
+    <String List="0">
+      <Source>Somehow I doubt even the Psijics possess such knowledge. Care to elaborate?</Source>
+      <Dest>我甚至多少有点怀疑Psijics具备这样的知识。愿意解释一下吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Somehow I doubt even the Psijics possess such knowledge. Care to elaborate?</Source>
+      <Dest>我甚至多少有点怀疑Psijics具备这样的知识。愿意解释一下吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Somehow I doubt even the Psijics possess such knowledge. Care to elaborate?</Source>
+      <Dest>我甚至多少有点怀疑Psijics具备这样的知识。愿意解释一下吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>(Dragonsreach) I'm off to Sovngarde to vanquish Alduin.</Source>
+      <Dest>(龙临堡 ) 我要去松加德打败奥杜因。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Dragonsreach) I'm off to Sovngarde to vanquish Alduin.</Source>
+      <Dest>(龙临堡 ) 我要去松加德打败奥杜因。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Dragonsreach) I'm off to Sovngarde to vanquish Alduin.</Source>
+      <Dest>(龙临堡 ) 我要去松加德打败奥杜因。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Dragonsreach) I'm off to Sovngarde to vanquish Alduin.</Source>
+      <Dest>(龙临堡 ) 我要去松加德打败奥杜因。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or maybe I'm just that strong.</Source>
+      <Dest>也没准我就是这样强壮。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or maybe I'm just that strong.</Source>
+      <Dest>也没准我就是这样强壮。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or maybe I'm just that strong.</Source>
+      <Dest>也没准我就是这样强壮。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps the dragons hold the key to true immortality.</Source>
+      <Dest>可能龙族保留这把钥匙是为了真正的不朽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these techniques.</Source>
+      <Dest>告诉我关于这些的技术的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these techniques.</Source>
+      <Dest>告诉我关于这些的技术的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about these techniques.</Source>
+      <Dest>告诉我关于这些的技术的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Decay is a natural part of life. The impermanence of beauty is why it's special.</Source>
+      <Dest>腐朽是生命的自然组成。之所以特殊，是因为它短暂的美丽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet the fact that they don't decay must please you.</Source>
+      <Dest>但他们不会腐朽的事实肯定让你很高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet the fact that they don't decay must please you.</Source>
+      <Dest>但他们不会腐朽的事实肯定让你很高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet the fact that they don't decay must please you.</Source>
+      <Dest>但他们不会腐朽的事实肯定让你很高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned you were a mage.</Source>
+      <Dest>这么说你做过法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned you were a mage.</Source>
+      <Dest>这么说你做过法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all rules can be broken.  No mortal can or should attempt to become a God.</Source>
+      <Dest>不是所有的规则都可以打破。作为人类不可能也不应该试图成为圣灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all rules can be broken.  No mortal can or should attempt to become a God.</Source>
+      <Dest>不是所有的规则都可以打破。作为人类不可能也不应该试图成为圣灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only a Lich could survive for such a long period of time.</Source>
+      <Dest>只有巫妖才能活那么长的时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only a Lich could survive for such a long period of time.</Source>
+      <Dest>只有巫妖才能活那么长的时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only a Lich could survive for such a long period of time.</Source>
+      <Dest>只有巫妖才能活那么长的时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only a Lich could survive for such a long period of time.</Source>
+      <Dest>只有巫妖才能活那么长的时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you admit that even you aren't perfect.</Source>
+      <Dest>所以你也承认自己也不算完美的啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, when you put it that way, I suppose I should be reprimanded.</Source>
+      <Dest>那你要这么说，意思是该挨骂的人是我咯</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, when you put it that way, I suppose I should be reprimanded.</Source>
+      <Dest>那你要这么说，意思是该挨骂的人是我咯</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, when you put it that way, I suppose I should be reprimanded.</Source>
+      <Dest>那你要这么说，意思是该挨骂的人是我咯</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, when you put it that way, I suppose I should be reprimanded.</Source>
+      <Dest>那你要这么说，意思是该挨骂的人是我咯</Dest>
+    </String>
+    <String List="0">
+      <Source>(Thieves Guild Questline) I've returned the Skeleton Key.</Source>
+      <Dest>(Thieves Guild Questline) I've returned the Skeleton 钥匙.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why?  I thought you detest thieves, and power that isn't earned.</Source>
+      <Dest>为什么？我还以为你讨厌小偷，还有那些歪门邪道呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>At the very least you can preserve your legacy while you pick potatoes that mirror your mottled flesh.</Source>
+      <Dest>至少當你做著那些襯托你悲慘容貌的工作時，你能保住你的遺產。</Dest>
+    </String>
+    <String List="2">
+      <Source>The vampires were better off burning the whole town.  Now it will die slowly, starving to death like a homeless beggar.</Source>
+      <Dest>那些吸血鬼曾经足以灭掉整个村子。而现在就要慢慢死掉了，像一个流浪的乞丐一样饿死。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you have.  I am disappointed in you, worm.</Source>
+      <Dest>所以说你这么做了.我对你很失望, 虫子.</Dest>
+    </String>
+    <String List="2">
+      <Source>How indeed.  How does a mage light the hollows of darkness?  How does his fire withstand the rain?</Source>
+      <Dest>是啊怎么做到的？一个法师如何点亮黑暗的虚空？如何让他的火焰在雨水中燃烧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The inn remains vacant.  The mill workers can barely feed their families.  And the leadership fluctuates between madness and incompetence.</Source>
+      <Dest>旅馆依然空着。磨坊的工人们只能勉强维持他们家庭的温饱。领导权总是在疯子和无能者之间来回调换。</Dest>
+    </String>
+    <String List="2">
+      <Source>It does not dominate the sky, it hides there, too afraid to challenge even the most sickly mudcrab for the earthly domain.</Source>
+      <Dest>它并没有支配天空，只是隐藏在那里而已。恐惧使它甚至不敢挑战这个位面上一只最脆弱的泥沼蟹。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will concede, however, that the strings of fate wrap around your wrists, although it remains to be seem whether you pull them, or they pull you.</Source>
+      <Dest>我承认，然而那命运之线似乎仍缠绕在你的手腕之上，或是你主导着命运，或是命运牵动着你。</Dest>
+    </String>
+    <String List="2">
+      <Source>I succeeded in achieving the opposite. To have my body held in stasis as time flowed around me.  </Source>
+      <Dest>我成功地做到了完全相反的效果。让我的身体完全静止而时间从旁边流走……</Dest>
+    </String>
+    <String List="2">
+      <Source>I succeeded in achieving the opposite. To have my body held in stasis as time flowed around me.  </Source>
+      <Dest>我成功地做到了完全相反的效果。让我的身体完全静止而时间从旁边流走……</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, although as Fain would point out, the most important boon you have earned is the trust and adoration of these peasants.</Source>
+      <Dest>是的，尽管费恩会指出，你已经赚得了最大的好处——这些农民的信任与崇拜。 </Dest>
+    </String>
+    <String List="2">
+      <Source>With a sleight of hand they control their corpse like an avatar, as their souls are bound to phylacteries.  </Source>
+      <Dest>他们用诡秘的手法像木偶一样控制尸体，就好像他们的灵魂绑在了符咒上。</Dest>
+    </String>
+    <String List="2">
+      <Source>What you call strength I call a temporary advantage.  For in the face of time you are but a corpse waiting to rot.</Source>
+      <Dest>你称之为力量的东西在我看来只是一个暂时的优势。在时间面前，你不过是具等待着腐烂的尸体而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Time is but another rule meant to be broken.</Source>
+      <Dest>时间只不过是用来被破坏的另一条规则。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a wise option.  When your skills in battle erode and you are nothing more than a feckless peasant, it is best not to say your are Dragonborn.</Source>
+      <Dest>那是一个明智的选择。当你的战斗技能削弱，你比一个软弱的农夫强不了多少，这个时候你最好别说自己是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet if that were so, then what has come to Skyrim is a deteriorated husk of a once glorious race.</Source>
+      <Dest>而如果那是真的，那么来到天际的其实只是一个高贵种族的腐朽空壳而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fain, the Illusionist, would say that adulation can can control just as adeptly as fear.  Use these peasants to help fill your coffers.</Source>
+      <Dest>Fain，那个魔术师，说讨好跟威吓一样可以指使别人。把这些农民安排到你的库房里去。</Dest>
+    </String>
+    <String List="2">
+      <Source>He will escape to the void itself if it will grant him a reprieve from his enemies.  </Source>
+      <Dest>要是能暂时避开敌人的话他会逃到【虚空里面】去。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, not all decay occurs in the body. The dragons were believed to be unmatched in battle.</Source>
+      <Dest>不过，不只是肉体腐朽。龙在战役中龙在战争中的作用被认为是无与伦比的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish thoughts hissed from a tongue that knows only youth.  In time mortal, you will look upon your reflection and see nothing more unnatural.</Source>
+      <Dest>愚蠢的想法往往未经过深思熟虑。凡人，信马由缰，顺其自然。【求斧正】</Dest>
+    </String>
+    <String List="2">
+      <Source>As such, they are nothing more than a curiosity to me. I have not the urge to eradicate them, but nor will I bow meekly as if they were my betters.</Source>
+      <Dest>因此，他们只不过是对我感到好奇而已。我不想消灭他们，但也甭想让我卑躬屈膝的仿佛他们是我的长辈一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>No worm, I did not.  To call me a mage is to call the Direnni Tower a fortress, and the Red Year a fire.</Source>
+      <Dest>我不是蠕虫，不是。把我那么叫的法师还把笛仁尼塔当成个要塞，管Red Year叫作小火苗儿呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a blind moth priest, you stumble about in the dark making false assumptions from the wisdom I convey.</Source>
+      <Dest>[就像一个失明的圣蛾祭司，你在黑暗中被绊倒，以至于误解了我所传达的智慧]。</Dest>
+    </String>
+    <String List="2">
+      <Source>I said you should not be rewarded for saving Morthal.  You should be rewarded for becoming its new master.</Source>
+      <Dest>我说过你不应该因保卫墨索尔城而受到奖赏。你应该因成为这的新主人而受到奖赏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lichdom is a fool's bargain, for necromancers content spending eternity as skinless wraiths.</Source>
+      <Dest>转换巫妖是种愚蠢的交易，亡灵术士在获得永恒时间的同时，也变成了不朽的没有躯壳的幽魂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pitiful.  Your narrow mind can only see an object for its surface.  The artifact is something to be researched, not used.</Source>
+      <Dest>真可怜。你这局限的思维看问题只能看到表面。这东西是用来被研究的，不是拿来用的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a fish scuttling on land you flap your gills, your feeble mind attempting to grasp what is beyond your comprehension.</Source>
+      <Dest>你就像一条岸上的鱼一样开合着你的唇瓣，你那软弱的心试图了解超出你理解的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>So long as you are their savior, you should never have to pay for another bed, another drink, or another meal.</Source>
+      <Dest>鉴于你是他们的救世主，睡个小觉啊吃顿小饭啊喝口小酒啊应该就不用付钱了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You forget that I lived for thousands of years, seen countless mages and warriors, and watched their skills decay over time.</Source>
+      <Dest>你忘记了我已经活了数千年，见过了无数的法师和战士，看着他们的本领一天天衰退下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well, ask and I will accompany you, if only to see you fall.</Source>
+      <Dest>很好，只要能看到你死，你开口我就跟你走。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did not prescribe to such cheap necromancer tricks.  I sought the path to true immortality, through the techniques developed by the Psijic Monks.</Source>
+      <Dest>我不需要这么低劣的死灵法师的小把式，我追寻真正的永生，那些赛伊克法师们的绝技。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet the Nords of this land prostrate themselves to Talos as if he alone ruled the realm of the Gods.</Source>
+      <Dest>然而这片土地的诺德人仍旧狂热的崇拜塔洛斯如同他掌管着整个神界一般。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take their belongings.  Make them cook your meals, and wash your clothes.  Your time is valuable.  Theirs is not.</Source>
+      <Dest>拿走他们的财产。让他们给你做饭，洗衣服吧。你的时间很宝贵，他们可不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>For if Gods set the mortal boundary, when you wield the power of Aetherius, the boundaries are yours to set.</Source>
+      <Dest>因为假如上帝划分了凡人的界限，当你动用了空间雅瑟留的力量，界限就是由你决定。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a testament to my prowess that I exist on the mortal plane, even as my body decays in death's hollow embrace.</Source>
+      <Dest>那是对我在人世间非凡勇气的证明，即使我的身体已经在死亡的拥抱下凋零。</Dest>
+    </String>
+    <String List="2">
+      <Source>This was my ultimate goal and my lifelong pursuit. The corpse you see before you is evidence of my failure.</Source>
+      <Dest>这就是我的终极目标和我终生的追求。你眼前这具尸体便是我失败的证明。</Dest>
+    </String>
+    <String List="2">
+      <Source>Marius believed in the slow torture of his foes.  But every second you delay is another opportunity for your prey to escape.  Remember that.</Source>
+      <Dest>Marius喜欢慢慢折磨他的敌人。但是你拖延的每一秒对于你的猎物来说都是一个逃脱的机会。记住这一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>And for this you seek praise?  A pat on the back?  A roar of applause?  Look upon what you have saved.</Source>
+      <Dest>你这是要别人因为这个而表扬你？想要大家拍你的肩呢还是想要一阵喝彩呢？【还是抬头看看现实吧】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet the similarities end there. I sought to achieve the impossible. The children of Akatosh are simply immortal by default.</Source>
+      <Dest>然而相似之处到此就结束了。我试图实现“不可能”。阿卡托什之子的不朽仅仅是因为疏忽罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin is a coward, but he is no fool.  He flees so that time will vanquish you.  That is why you must make haste, before it claims you.</Source>
+      <Dest>奥杜因是个胆小鬼，但他绝不是傻瓜。他逃走了，时间会打败你。所以你必须尽快干翻奥杜因。</Dest>
+    </String>
+    <String List="2">
+      <Source>And no doubt you will succeed.  For I was wrong.  Wrong to believe the dragons would make for a worthy adversary.</Source>
+      <Dest>毫无疑问，你会成功的。因为我错了。我错以为巨龙会成为不错的对手。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet when this world ends another will take its place, so that its fields can wither and blacken, and its seas can bubble with pus.</Source>
+      <Dest>并且当这个世界迎来终结，另一个世界将取其代之，而这里的大地将衰败凋零，海水将化脓沸腾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet through your trials you have proven how the dragon is nothing more than a craven lizard.</Source>
+      <Dest>你通过你的表现再一次证明龙只不过是一只胆小的蜥蜴而已.</Dest>
+    </String>
+    <String List="2">
+      <Source>It is only a fool's attempt until it is achieved.  Then it is something more.</Source>
+      <Dest>在完成之前，这只是个傻瓜尝试。然后这是更多的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only advantage he has, the one thing that can save him is time.  </Source>
+      <Dest>他唯一的优势，唯一能拯救他的是时间。 </Dest>
+    </String>
+    <String List="2">
+      <Source>No, he is not.  But only because the extent of his cowardice knows no bounds.  He will attempt to flee at every opportunity.</Source>
+      <Dest>不，他没有。但只是因为他软弱的程度太没下限了。只要一有机会他就想逃。</Dest>
+    </String>
+    <String List="2">
+      <Source>Once more you resort to jests to conceal your ignorance.  Do you fail to see the value of the skeleton key as an artifact of research?</Source>
+      <Dest>你又用俏皮话隐瞒你无知。你没看过骷髅钥匙的重要性研究?</Dest>
+    </String>
+    <String List="2">
+      <Source>The question is not what, feeble mortal, but who.  One of my servants acted outside of my will.</Source>
+      <Dest>不是什么东西，脆弱的烦人啊，而应该是谁。我的一个侍者亵渎了我的意志。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look how their leader, their king, flees to the world of the dead.  And he will continue to flee, for that is what it truly means to be Dovah.</Source>
+      <Dest>看看他们的领袖，他们的国王，是如何逃离冥界的。他会继续逃下去，这样才能成为真正的Dovah。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Psijics could send their voices across great distances, their voices manifesting as living ghosts in the ether of conjured space.</Source>
+      <Dest>赛伊克人发出的声音可以传播很远的距离，就像活生生的鬼魂穿越以太空间。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The Psijics could send their voices across great distances, their voices manifesting as living ghosts in the ether of conjured space.</Source>
+      <Dest>赛伊克人发出的声音可以传播很远的距离，就像活生生的鬼魂穿越以太空间。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I succeeded in achieving the opposite. To have my body held in stasis as time flowed around me.</Source>
+      <Dest>我成功地做到了完全相反的效果。让我的身体完全静止而时间从旁边流走……</Dest>
+    </String>
+    <String List="2">
+      <Source>I succeeded in achieving the opposite. To have my body held in stasis as time flowed around me.</Source>
+      <Dest>我成功地做到了完全相反的效果。让我的身体完全静止而时间从旁边流走……</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Iralen. It's always the one you least suspect.</Source>
+      <Dest>就是Iralen.就是你最怀疑的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Iralen. It's always the one you least suspect.</Source>
+      <Dest>就是Iralen.就是你最怀疑的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Iralen. It's always the one you least suspect.</Source>
+      <Dest>就是Iralen.就是你最怀疑的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Iralen. It's always the one you least suspect.</Source>
+      <Dest>就是Iralen.就是你最怀疑的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll continue my adventures. You never know when some new conflict will arise.</Source>
+      <Dest>我将继续我的冒险旅程.人是无法预料到麻烦何时到来的.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll continue my adventures. You never know when some new conflict will arise.</Source>
+      <Dest>我将继续我的冒险旅程.人是无法预料到麻烦何时到来的.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you train at the College of Winterhold?</Source>
+      <Dest>你在冬堡学院学习？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you train at the College of Winterhold?</Source>
+      <Dest>你在冬堡学院学习？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't get it. Is it another school of magic? Do they teach it at the College?</Source>
+      <Dest>我不明白。這是另一系魔法?學院裡會教這些嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>To bring death to my enemies.</Source>
+      <Dest>为了将死亡散布给 我的敌人们。</Dest>
+    </String>
+    <String List="0">
+      <Source>All we're asking is for guidance.  Rumarin will learn on his own.</Source>
+      <Dest>我们所需的只是向导而已。  Rumarin 会自己慢慢学会的。</Dest>
+    </String>
+    <String List="0">
+      <Source>All we're asking is for guidance.  Rumarin will learn on his own.</Source>
+      <Dest>我们所需的只是向导而已。  Rumarin 会自己慢慢学会的。</Dest>
+    </String>
+    <String List="0">
+      <Source>All we're asking is for guidance.  Rumarin will learn on his own.</Source>
+      <Dest>我们所需的只是向导而已。  Rumarin 会自己慢慢学会的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call me worm, but it's your body that's infested with them.</Source>
+      <Dest>你把我称作蠕虫，但事实上你才是身上爬满蠕虫的那个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Throw some Dwarven oil on a lake, and it will burn when lit.</Source>
+      <Dest>扔些矮人油在湖上，然后一点它们就会燃烧起来。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Throw some Dwarven oil on a lake, and it will burn when lit.</Source>
+      <Dest>扔些矮人油在湖上，然后一点它们就会燃烧起来。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to preserve to stop decay.  You can always destroy.</Source>
+      <Dest>你不用让它留在那儿腐烂。你总是可以摧毁它。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to preserve to stop decay.  You can always destroy.</Source>
+      <Dest>你不用让它留在那儿腐烂。你总是可以摧毁它。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to preserve to stop decay.  You can always destroy.</Source>
+      <Dest>你不用让它留在那儿腐烂。你总是可以摧毁它。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to preserve to stop decay.  You can always destroy.</Source>
+      <Dest>你不用让它留在那儿腐烂。你总是可以摧毁它。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you teach him, he promised to serve you for the rest of his life.</Source>
+      <Dest>如果你肯教他的话，他会用一辈子来为你效劳。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you teach him, he promised to serve you for the rest of his life.</Source>
+      <Dest>如果你肯教他的话，他会用一辈子来为你效劳。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can never trust a warlock.</Source>
+      <Dest>你永远也不能相信一个术士。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You can never trust a warlock.</Source>
+      <Dest>你永远也不能相信一个术士。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You can never trust a warlock.</Source>
+      <Dest>你永远也不能相信一个术士。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still alive, I see.</Source>
+      <Dest>还活着，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't seem to be working out to well for you.</Source>
+      <Dest>看起来这对于你来说并未起效。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your servants.</Source>
+      <Dest>给我讲讲你仆人的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your servants.</Source>
+      <Dest>给我讲讲你仆人的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your servants.</Source>
+      <Dest>给我讲讲你仆人的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your servants.</Source>
+      <Dest>给我讲讲你仆人的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal will survive.  Its people are more resilient than you think.</Source>
+      <Dest>墨索尔城屹立不倒。在这的人们比你想象中要坚强得多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal will survive.  Its people are more resilient than you think.</Source>
+      <Dest>墨索尔城屹立不倒。在这的人们比你想象中要坚强得多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal will survive.  Its people are more resilient than you think.</Source>
+      <Dest>墨索尔城屹立不倒。在这的人们比你想象中要坚强得多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal will survive.  Its people are more resilient than you think.</Source>
+      <Dest>墨索尔城屹立不倒。在这的人们比你想象中要坚强得多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, there's one loose end I haven't taken care of.  Killing you.</Source>
+      <Dest>事实上，我还有一件小事没有了结——杀你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you can find it in your sizable ego to give your teachings a chance.</Source>
+      <Dest>无疑你能从你那庞大的自负中找到它，从而给你的学说一个机会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you can find it in your sizable ego to give your teachings a chance.</Source>
+      <Dest>无疑你能从你那庞大的自负中找到它，从而给你的学说一个机会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you can find it in your sizable ego to give your teachings a chance.</Source>
+      <Dest>无疑你能从你那庞大的自负中找到它，从而给你的学说一个机会。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was wondering if you could teach Rumarin a spell.</Source>
+      <Dest>我在想你是不是可以教罗美勒 一个法术/</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason for your fixation with death.</Source>
+      <Dest>你对死亡的依恋情结总该有个原因吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason for your fixation with death.</Source>
+      <Dest>你对死亡的依恋情结总该有个原因吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason for your fixation with death.</Source>
+      <Dest>你对死亡的依恋情结总该有个原因吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason for your fixation with death.</Source>
+      <Dest>你对死亡的依恋情结总该有个原因吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason for your fixation with death.</Source>
+      <Dest>你对死亡的依恋情结总该有个原因吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you may find redemption in your final moments.</Source>
+      <Dest>由此你将找到最后时刻的终极救赎。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you may find redemption in your final moments.</Source>
+      <Dest>由此你将找到最后时刻的终极救赎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your pitiful mind clings to beginnings and ends, when the point of the matter lies between.</Source>
+      <Dest>你这可怜的智商也只够关注开始和结尾了，可惜问题的关键却是过程。</Dest>
+    </String>
+    <String List="2">
+      <Source>He service was bound not by his desire for immortality, but his unquenchable thirst to burn and maim the living.</Source>
+      <Dest>他的存在不是因为对不朽生命的追求，而是他那种想要焚烧和毁灭生命的无法克制的欲望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you are a fool.  You think to continue a journey that has already ended.  </Source>
+      <Dest>那你就是一个呆子。你想继续的旅程已经结束了。   </Dest>
+    </String>
+    <String List="2">
+      <Source>Such blind rectitude is the first step in becoming a tool of the wicked.  It would have been easy for Fain to have lured you with a tale of morality.</Source>
+      <Dest>这种盲目的正直是成为邪恶的工具的第一步。对费恩来说用一个道德的故事引诱你是很容易的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Iralen served me because she sought the boon of immortality.  It is avarice that bent her to my will.</Source>
+      <Dest>Iralen服侍我，因为她追求不朽的恩赐。这是她的贪婪再向我的意志屈服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you shall have it, weakling.  Slake your thirst, transform this land into a pit of fire and blood.</Source>
+      <Dest>如你所愿，弱者。释放你的欲望，把这片土地化作火与血交织的地狱吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The water trickles from the ceiling, cutting away the stone at your feet.  The mold grows in the shadows, poisoning the air with its toxic spores.</Source>
+      <Dest>水滴从天花板上落下，削磨着你脚下的那些石头。真菌在暗处生长着，它那有毒的孢子逐渐让空气也有了毒性。</Dest>
+    </String>
+    <String List="2">
+      <Source>The decay will come to you in an instant. A sore back.  A stiff neck.  A fold of skin.  Yet the process has been happening since the moment of birth.</Source>
+      <Dest>衰老会在须臾之间降临，疼痛的背部。僵硬的脖子。褶皱的皮肤。从出生的那刻起，一切过程都已经注定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah mortal, your pitiful mind stumbles upon a stone of truth.  I did indeed fashion myself an executor of purity, by destroying that which defiled it.</Source>
+      <Dest>啊，凡人，你慈悲的心肠偶然发现一个隐藏在石头的真相。我的确需要塑造一名纯洁的执行者，为了破坏那些玷污了它的东西。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Even if such a thing could be achieved, it serves no purpose.</Source>
+      <Dest>即使这样的事情是可以实现的，却也没有意义啊。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It is decay that I find abhorrent.  Metal rusting.  Wood withering.  Skin rotting.  This disease of time is what I aimed to rectify.</Source>
+      <Dest>腐坏真令人厌恶。金属生锈，木材枯朽，皮肤溃落。我要修整这时间之殇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your pathetic taunts mean nothing to me, mortal.  Time did not vanquish me.  It was betrayal.</Source>
+      <Dest>你可怜的嘲弄对我而言毫无意义，凡人。时间没有打败我。它只是背叛了我。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I still had a face, I would laugh wholeheartedly at your foolish insinuations.</Source>
+      <Dest>我绝对会为你愚蠢的冷嘲热讽而笑僵了脸——如果我还有张脸的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha!  You amuse me foolish worm.  You know I will not prostrate myself before your pitiful Gods, but your arrogance is as delusional as your faith.</Source>
+      <Dest>哈！你是在逗我吗，愚蠢的虫子。你知道我是不会拜倒在你可怜的神面前的，而你的傲慢就如同你的忠诚一样痴心妄想。</Dest>
+    </String>
+    <String List="2">
+      <Source>The simplest answer, for Marius had the faculty, but he lacked the desire.  The warlock was a torturer.  </Source>
+      <Dest>最简单的回答是，图留斯很有才华，但他缺乏野心。而军阀则是个拷问官。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Out with it, fool.</Source>
+      <Dest>有话快说，蠢蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well, I would like to see this path of redemption your foolish morality has tasked you with.  For once, I will take pleasure in its decay.</Source>
+      <Dest>很好，我很想看到你这愚蠢道德的救赎之路会让你做到什么地步。这一次，我乐意看到它的腐朽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of my servants there were three whom I trusted with guarding my body during the transfer.</Source>
+      <Dest>有三个我十分信任的仆人在转移的过程中保卫着我的躯体。</Dest>
+    </String>
+    <String List="2">
+      <Source>I murdered those who lived long past the winter of their youth, and destroyed monuments left to the squalor of decay.</Source>
+      <Dest>我谋杀了那些早已过去青春的冬天，并摧毁任其腐烂的肮脏的古迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>I provided a haven for him to conduct his experiments.   To deprive me of my life is to deprive himself.</Source>
+      <Dest>我给他提供了一个避难所，来继续他的实验。杀了我就等于他在自杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Death is a poor substitute for life, mortal, but the void is a fate worse than both.</Source>
+      <Dest>死亡对生命和凡人而言，都是糟糕的替代品。但对那两者而言，堕入虚空是更为悲惨的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not if the subject is a great man, a majestic palace, or a shrine to the Gods.  Decay will claim them all.</Source>
+      <Dest>这并不重要。如果主题是一位伟大的人，一座宏伟的宫殿，亦或是一座献给众神的祭坛，Decay便会索取他们全部。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even now as you stand here before me mortal, the sweat pours from your body.  </Source>
+      <Dest>即使现在你站在我的面前，凡人，你都汗如雨下。 </Dest>
+    </String>
+    <String List="2">
+      <Source>There are some who say immortality is found in one's legacy.   </Source>
+      <Dest>有些人说他们在某人的遗书里找到了有关长生的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those who served me in the past were mages of incomparable power, and even then their uses to me were limited.</Source>
+      <Dest>那些在过去为我服务的法师都有着无与伦比的力量，即使如此，他们能为我所用的部分也是有限的。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are no victims in this world.  Only weaklings, and those pretending to be weak.</Source>
+      <Dest>这世上根本没有所谓的“受害者”。只有“羊”，以及“披着羊皮的狼”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why do you disturb me, mortal? I've nothing to discuss with you. </Source>
+      <Dest>为什么打断我，愚民？我与你无话可说。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I ask you mortal, does one devote their entire life to a singular purpose, only to abandon it for chivalry at the moment it is within her grasp?</Source>
+      <Dest>那么我问你，凡人。当一个人倾尽一生追求一个目标，而这个目标终于近在咫尺时，他会单单为了骑士精神而抛弃唾手可得的一切吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a lie.  Nothing more than the decay of the mind, making one last attempt to circumvent its inevitable demise.  </Source>
+      <Dest>这是一个谎言。没有东西比失去意识更加可怕了，做最后的挣扎来规避其不可避免的消亡。 </Dest>
+    </String>
+    <String List="2">
+      <Source>For her service was not bound out of some maudlin sense of loyalty.  </Source>
+      <Dest>至于她的服务比起那些真正蛋疼的还是中规中矩的。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Then do not waste my time with words.</Source>
+      <Dest>别再说些浪费我时间的话了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wherever I traveled I left bones and rubble, like the scurf flaked off the skin of the world.</Source>
+      <Dest>无论我走到那里，都会留下一地骸骨和满目废墟，就像是从世界的皮肤上剥落的皮屑那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, left unchecked the disease would fester and spoil.  The only way to truly eliminate decay is not to hasten the end, but prevent its coming.</Source>
+      <Dest>然而，任其发展的话，疾病最终会恶化并带来毁灭。真正消除腐化的唯一办法不是快速将它消灭，而是防患于未然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your companion hopes to improve his prowess in combat.  What he does not realize is that he has reached the pinnacle of his pathetic existence.</Source>
+      <Dest>你的伙伴希望自己在战斗中变得更加英勇。他并没有意识到的是，他已经达到了他这种可怜存在的巅峰水平。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fain, the Illusionist.  Marius, the Warlock.  And the cleric, Iralen, who herself left the Psijic Order to serve my will.</Source>
+      <Dest>费恩, 幻术师. 马吕斯, 战斗法师.  而艾琳，就是那个背弃赛伊克教团前来投靠我的，是个牧师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your quest is dead, Dragonborn.  It rots in a shallow ditch.  The bards are already standing over your coffin, composing your dirge.</Source>
+      <Dest>你所寻求的是死亡，龙裔。那会腐烂在浅沟里。诗人已经站在你的棺材前，谱写你的挽歌了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The writer's soul lives in the pages of a book, his words echoing to the unborn across eons of time.  </Source>
+      <Dest>作家是住在书页里的灵魂，他的言语能在后世回响亿万年之久。  </Dest>
+    </String>
+    <String List="2">
+      <Source>You ask that I devote what little time I have left to teaching a simpleton a few tricks.</Source>
+      <Dest>你要求我把本就不多的业余时间用来教一个傻瓜耍点小技俩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet much like Mannimarco before me, I left the order and their miserable traditions behind to pursue a higher magic.</Source>
+      <Dest>就像在我之前离开的曼尼马克所做的一样，我逃离了教团，逃离了他们那苛刻的教条，去追寻更高阶的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he cannot grasp a simple spell tome, then he does not deserve the power that lies within.  Your quest is a pointless one.</Source>
+      <Dest>如果他连一本简单的魔法书都读不懂，那他就不配获得书本里蕴含的力量。你的任务还真是无意义啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your insinuation is foolish, mortal.  I suspected her most of all.  But not until the spell could rid itself of its limitations.</Source>
+      <Dest>在我面前含沙射影是很愚蠢的，凡人。我依然把她当做最受怀疑的对象。 除非那个法术能自己破除自身的局限性。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet only one managed to betray my will, and kill the others in the process.</Source>
+      <Dest>然而只有一个人设法背叛了我的意志，并且在这个过程中他还杀了其他人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The blacksmith lives in every soldier who kills with his tools, every sword that twists in the belly of a man wrenching in pain.</Source>
+      <Dest>铁匠被每一名使用他武器的士兵，和砍进敌人的身体制造痛苦的剑心中。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will give him the illusion he seeks.  Let him play the mage, until his pockets are empty, his staff is drained, and his demise is imminent.</Source>
+      <Dest>它会给他一种他病了的错觉。让他去折腾他的魔法吧，直到他掏空自己的口袋，直到他的法杖没了能源，直到他的死亡降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>No mortal, such magic is beyond the knowledge of these imbeciles.  It is not as simple as turning water into breath.</Source>
+      <Dest>不凡人，这样的魔法远超这些低能儿所了解的知识范围。这可不像把水变成一口气这么简单。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did no such thing.  The college's understanding of magic is as narrow as your vision. I trained under the Order of the Psijic Monks.</Source>
+      <Dest>我可不干这事。学院对于魔法的看法和你差不多狭隘。我可是被赛一个教团的僧侣训练过的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think yourself clever, but your analogy is apt.  The fool is better off using scrolls and enchanted staffs.</Source>
+      <Dest>你认为你聪明，但是你的比喻不恰当。蠢货用卷轴和法杖也许会更好。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound plenty alive to me.</Source>
+      <Dest>现在你听着更像活着了.</Dest>
+    </String>
+    <String List="0">
+      <Source>I've defeated Alduin.  The world once more belongs to mortals.</Source>
+      <Dest>我已经打败了奥杜因。这个世界再一次的属于凡人了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Last time I checked, I didn't care what you think.</Source>
+      <Dest>上次我查的时候，我根本不在乎你是怎么想的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't get it. Is it another school of magic? Do they teach it at the College?</Source>
+      <Dest>我不明白。這是另一系魔法?學院裡會教這些嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't get it. Is it another school of magic? Do they teach it at the College?</Source>
+      <Dest>我不明白。這是另一系魔法?學院裡會教這些嗎?</Dest>
+    </String>
+    <String List="0">
+      <Source>You certainly smell dead.</Source>
+      <Dest>你肯定闻到死亡的味道了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You certainly smell dead.</Source>
+      <Dest>你肯定闻到死亡的味道了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you research the Skeleton Key?</Source>
+      <Dest>你为什么研究骨头钥匙？?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you research the Skeleton Key?</Source>
+      <Dest>你为什么研究骨头钥匙？?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you research the Skeleton Key?</Source>
+      <Dest>你为什么研究骨头钥匙？?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you research the Skeleton Key?</Source>
+      <Dest>你为什么研究骨头钥匙？?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you research the Skeleton Key?</Source>
+      <Dest>你为什么研究骨头钥匙？?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>How were you betrayed?</Source>
+      <Dest>你怎么背叛了?</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, dragons are weak.  The world has no idea that I'm the real menace.</Source>
+      <Dest>是啊，龙简直弱爆了。世人根本不知道我处在真正的威胁中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, dragons are weak.  The world has no idea that I'm the real menace.</Source>
+      <Dest>是啊，龙简直弱爆了。世人根本不知道我处在真正的威胁中。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by careless?</Source>
+      <Dest>你说不小心指的是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by careless?</Source>
+      <Dest>你说不小心指的是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by careless?</Source>
+      <Dest>你说不小心指的是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by careless?</Source>
+      <Dest>你说不小心指的是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about your failures.  I want you to teach me to manipulate time.</Source>
+      <Dest>我不关心你的失败。我只要你教會我操作时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about your failures.  I want you to teach me to manipulate time.</Source>
+      <Dest>我不关心你的失败。我只要你教會我操作时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a Lich to me, only your body is frozen in time.</Source>
+      <Dest>听起来像是巫妖，只是你的躯体被冻结在了时光中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a Lich to me, only your body is frozen in time.</Source>
+      <Dest>听起来像是巫妖，只是你的躯体被冻结在了时光中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a Lich to me, only your body is frozen in time.</Source>
+      <Dest>听起来像是巫妖，只是你的躯体被冻结在了时光中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a Lich to me, only your body is frozen in time.</Source>
+      <Dest>听起来像是巫妖，只是你的躯体被冻结在了时光中。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Fain. The illusion was his loyalty to you.</Source>
+      <Dest>是Fain。这幻术是他对你的忠诚啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Fain. The illusion was his loyalty to you.</Source>
+      <Dest>是Fain。这幻术是他对你的忠诚啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn died with Alduin.  I live for me now.</Source>
+      <Dest>龙裔已经和奥杜因一起死了。我现在为自己而活。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn died with Alduin.  I live for me now.</Source>
+      <Dest>龙裔已经和奥杜因一起死了。我现在为自己而活。</Dest>
+    </String>
+    <String List="0">
+      <Source>That will still take years. For now, the city and its people are useful tools.</Source>
+      <Dest>这会花费很多年。在目前，这座城市和它的居民们是很有用的工具。</Dest>
+    </String>
+    <String List="0">
+      <Source>That will still take years. For now, the city and its people are useful tools.</Source>
+      <Dest>这会花费很多年。在目前，这座城市和它的居民们是很有用的工具。</Dest>
+    </String>
+    <String List="0">
+      <Source>That will still take years. For now, the city and its people are useful tools.</Source>
+      <Dest>这会花费很多年。在目前，这座城市和它的居民们是很有用的工具。</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly how old are you?</Source>
+      <Dest>你究竟多大年龄？</Dest>
+    </String>
+    <String List="0">
+      <Source>Alduin is such a coward.</Source>
+      <Dest>奥杜因</Dest>
+    </String>
+    <String List="0">
+      <Source>Alduin is such a coward.</Source>
+      <Dest>奥杜因</Dest>
+    </String>
+    <String List="0">
+      <Source>Alduin is such a coward.</Source>
+      <Dest>奥杜因</Dest>
+    </String>
+    <String List="0">
+      <Source>Arrogance killed you. You couldn't fathom a servant defying your will.</Source>
+      <Dest>杀死你的是傲慢。你没能察觉那个违背你意志的仆从。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know the name of the one who haunts these Warrens.</Source>
+      <Dest>我想知道这些Warrens里闹的鬼叫什么名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's true value was in the mechanism with which it opened doors, whether it altered its own composition or the locks to fit around it.</Source>
+      <Dest>它真正的价值在于开门的原理，这个系统的组成部分是它本身还是“锁上"这个状态已经无所谓了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aaaaayyargh!</Source>
+      <Dest>啊～～咿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as I used Marius, Fain, and Iralen to further my goals, so do the shopkeepers and blacksmiths further yours.</Source>
+      <Dest>正如我利用马里厄斯 ，费恩，和Iralen来接近我的目标一样，你也可以对店主和铁匠这么做，以此进一步地达成你的目标。</Dest>
+    </String>
+    <String List="2">
+      <Source>The blow was struck as most of my soul remained in the void, and my body had yet to return to time.  </Source>
+      <Dest>这致命一击让我的大半灵魂归于虚无，而我的身体也没有恢复到从前的状态。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Speak, mortal.</Source>
+      <Dest>说吧，凡人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, mortal, now you strike at the heart of it. For I am the one who put faith in the power of avarice, and my death is no one's fault but my own.</Source>
+      <Dest>啊，凡人，现在去打它的心。鉴于我信仰贪婪的力量，所以我的死也是咎由自取。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet it matters not.  Alduin is dead.  Go forward and live your feckless life.  Succumb to age and die mourning the Dragonborn you once were.</Source>
+      <Dest>可是都无所谓了。奥杜因已死。你还要继续无聊地活着。屈服于时间的流逝里，死在曾为龙裔的遗憾中。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fool did not come alone. He and his brother sought to serve me.  Yet only one was willing to kill the other, and pay the price of immortality.</Source>
+      <Dest>这个傻子不是一个人来的。他和他兄弟都想为我服务。但只有那个愿意杀死对方，并支付得起不死的代价的人才可以。</Dest>
+    </String>
+    <String List="2">
+      <Source>To stop time is to alter the machinery of our world, to cease the motion of its gears, so that all energy, all resonance, is null.</Source>
+      <Dest>停止时间是改变我们世界的机构，齿轮停止周转，所有的经历，所有的共鸣，都化为虚无。</Dest>
+    </String>
+    <String List="2">
+      <Source>Having a stable of slaves is the only weapon one can wield against that most unyielding of arbiters.   Time.</Source>
+      <Dest>唯一可以对抗大多数的独裁者的武器就是拥有一大批奴隶。以及时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am Dagri'Lon the greatest and most powerful mage who ever lived.  But that was then.  I live no more.</Source>
+      <Dest>我是伟大的帝揆仁，迄今为止最强力的法师。但也就这样了，好汉不提当年勇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I often forget how pitiful you are and how heavily you rely on others.  But yes, this is not the same as relying on another's strength.</Source>
+      <Dest>我经常忘记你有多可怜多依赖别人。不过当然啦，这跟依赖别人的力量并不一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kill this Odahviing, and let his master rot in Sovngarde while you lay waste to all of Nirn.  That is my advice to you.</Source>
+      <Dest>我给你的忠告就是，杀了傲达维英，当你在大闹（lay waste to）整个奈恩时让他的主子烂在松加德。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do your worst!</Source>
+      <Dest>你还是做好最坏的打算吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Illusion can sway emotion, but it cannot bend reality.  I tested Fain's loyalty before accepting him in my service.</Source>
+      <Dest>幻术系法术可以撼动情绪，但无法扭曲现实。我是测试了费恩的忠诚度之后才让他为我服务的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take that, worm!</Source>
+      <Dest>接招，蛆虫！</Dest>
+    </String>
+    <String List="2">
+      <Source>As of this moment my body would still be pristine, if not for the dissidence of my servants.</Source>
+      <Dest>若不是我的仆人表示反对，我的身体在此时此刻大概还处于纯净的原始状态。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come now is this your best?</Source>
+      <Dest>得了，这就是你的极限了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now is the end of your miserable life!</Source>
+      <Dest>你悲惨的生命该结束了！</Dest>
+    </String>
+    <String List="2">
+      <Source>So it is done.  And what now, mortal?  What will motivate you now that your nemesis is dead?</Source>
+      <Dest>这样就完成了。而现在呢，凡人？是什么一步步的把你引向死亡的惩罚的？</Dest>
+    </String>
+    <String List="2">
+      <Source>You have traveled with me this far, worm, and yet you still beg for power that rightful wielders earn.</Source>
+      <Dest>[你和我一起旅行这么久了，懦夫，到现在了你还想乞求拥有力量，好去干个合法的行使者的营生来赚钱吗。]</Dest>
+    </String>
+    <String List="2">
+      <Source>You are right to trust your nose, for it reveals the truth where the others lie. </Source>
+      <Dest>你在相信你的鼻子这一点上做的不错，因为它能帮你探寻到藏在谎言之后的真相。 </Dest>
+    </String>
+    <String List="2">
+      <Source>However, unlike the eternal prison of a soul gem, I could return to the mortal coil.</Source>
+      <Dest>无论如何，不像灵魂石里那个永恒的监狱，我能重归尘世。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why I am disappointed in you, worm, and in myself for not killing you sooner.</Source>
+      <Dest>这就是为什么我对你很失望，懦夫，没能早些结果你真对不起我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then make it so.  Destroy this world and end the cycle of decay.  Do not let this false prophet Alduin steal the boon that is rightfully yours.</Source>
+      <Dest>那么就这么办吧。毁掉这个世界，终结宿命的轮回。不要让这个假先知奥杜因窃取你理所应得的利益。</Dest>
+    </String>
+    <String List="2">
+      <Source>Enough! This ends now!</Source>
+      <Dest>够了！结束了！</Dest>
+    </String>
+    <String List="2">
+      <Source>If one spent merely an hour of each day on the mortal plane, a lifespan could be extended to 2400 years.</Source>
+      <Dest>如果一个人每天仅在凡间待一小时的话，他的寿命可以延长到2400年之久。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why you are weak.  The Elder Way is not open to those who need their hands held.</Source>
+      <Dest>因此你才是个弱鸡。上古之道和不会为那些【只知索取】的人开启。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like the bite of a flea!</Source>
+      <Dest>就被跳蚤咬了一口！</Dest>
+    </String>
+    <String List="2">
+      <Source>That is your true competition.  That is why you must chase the World Eater down, before another learns of his cowardice and takes your boon.</Source>
+      <Dest>那才是你真正的竞争。这就是为什么你必须追杀世界吞噬者，在另一个了解到自己的懦弱并取走你的恩惠之前。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone.</Source>
+      <Dest>滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is all too futile, worm.</Source>
+      <Dest>这是徒劳的，蠕虫。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you should have from the beginning.  One with power should not deign to listen to the peasants who tug on his robe.</Source>
+      <Dest>正如你从一开始就应该做的。一个有权势的人不应该屈尊去听一个拽着他的长袍的农民的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>The spell suspended my body in a cocoon of lost time, at which point I would be invulnerable from all outside influence, as time passed around me.</Source>
+      <Dest>这种法术把我的身体贮存在一个失落的时间之茧内，使我免于受到外面的一切影响，即使时间在流逝。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not that an imbecile like Mercer could only see its utility as a key.</Source>
+      <Dest>像墨瑟那样的弱智把它的用处理解为一把钥匙是根本无所谓的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet two centuries later my body still continues to wait.  For a spell that will never finish, and a time that will never resume its normal pace.</Source>
+      <Dest>然而都两个世纪过去了，我的躯体仍然在等待。只因那永不失效的法术，以及那永远找不回原本步调的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>Any object that defies logic and transcends the conventions of our world is an object that must be studied.</Source>
+      <Dest>所有颠覆逻辑的，超越我们这个世界的常理的事物都是值得研究的对象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed.  He hopes that his immortal status will protect him.  He thinks to have time vanquish you, to erode your power as you succumb to old age.</Source>
+      <Dest>没错。他希望他那不朽的生命能够护卫着他。他以为有足够的时间来征服你，让你最终屈服于流逝的岁月而逐渐虚弱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have wandered throughout Tamriel since the day of the Broken Diamond, when Queen Potema reigned in Solitude.</Source>
+      <Dest>自从碎钻之日以来，我就一直漫步于整个泰姆瑞尔大陆，时值波特玛女王统治独孤城。</Dest>
+    </String>
+    <String List="2">
+      <Source>Evidently, you don't care to think at all.  The artifact is imbued with Nocturnal's magic.  It should have been studied and researched.</Source>
+      <Dest>显然，你根本就不在乎是怎么想的。这神器充满了诺克图娜尔的魔法。它应该被拿来学习和研究。</Dest>
+    </String>
+    <String List="2">
+      <Source>The assailant knew this, but the fool was careless.</Source>
+      <Dest>袭击者知道这个，但这二货太粗心大意了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears your meager mind cannot think more than a step ahead.  The body in stasis, the soul is free to contemplate.</Source>
+      <Dest>看起来你贫乏的思想已经无法想到更多了。尸体里的血液已经停止了流动，但灵魂却自由了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He fails to see that mortals breed like rats, and without the strength to exterminate them, another will take your place.</Source>
+      <Dest>他不得不看着这些生物像老鼠一样繁殖，却没办法消除，另一只种族要取代你的位置。</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that the best you can do?</Source>
+      <Dest>这就是你的极限了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh, you fiend!</Source>
+      <Dest>呃，你这魔鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your ears betray you, worm, just as your eyes are deceived by shadow.  Death claims my body, and it hungers for my mind.</Source>
+      <Dest>你的耳目背叛了你，蛆虫，就像你的眼睛被阴影欺骗一样。死亡渴望我的肉身，渴望我的心灵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there anything you despise more than decay?</Source>
+      <Dest>有没有什么东西是你轻视而不是腐蚀的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So the fool dies not as a wolf, but as a dog.  I hope Hircine enjoys his new pet.</Source>
+      <Dest>(笑声)所以这个蠢货不是作为一匹狼死的，而是一条狗。我猜海尔辛会很喜欢他的新宠物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your rebellion is at an end, Breton!</Source>
+      <Dest>你的反抗到头儿了，布莱顿人！</Dest>
+    </String>
+    <String List="2">
+      <Source>Eyraargh!</Source>
+      <Dest>伊呀阿阿！</Dest>
+    </String>
+    <String List="2">
+      <Source>You are nothing!</Source>
+      <Dest>你什麽都不是！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, weakling!</Source>
+      <Dest>死吧，懦夫！</Dest>
+    </String>
+    <String List="2">
+      <Source>Filthy Forsworn!</Source>
+      <Dest>肮脏的弃誓者！</Dest>
+    </String>
+    <String List="2">
+      <Source>Too easy!</Source>
+      <Dest>太容易了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your shouts are no match for my magic, dragon!</Source>
+      <Dest>你的吼声敌不过我的魔法，死蜥蜴！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyargh!</Source>
+      <Dest>嘿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>You need to do better than that!</Source>
+      <Dest>你需要做得更好！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've had enough of your existence!</Source>
+      <Dest>你的存在让我受够了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I am right behind you.</Source>
+      <Dest>把你的身后交给我吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will not escape!</Source>
+      <Dest>你逃不了！</Dest>
+    </String>
+    <String List="2">
+      <Source>You will not escape!</Source>
+      <Dest>你逃不了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone.</Source>
+      <Dest>滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yield or die!</Source>
+      <Dest>屈服或死！</Dest>
+    </String>
+    <String List="2">
+      <Source>You have no chance!</Source>
+      <Dest>你没有任何机会！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it time?  What decay shall we rid the world of today?</Source>
+      <Dest>是时候了吗？今天我们要解决哪里的和平问题啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then lead.  Do not waste your breath talking.</Source>
+      <Dest>那就带路。少废话啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>How dare you challenge me!</Source>
+      <Dest>你居然敢冒犯我！</Dest>
+    </String>
+    <String List="2">
+      <Source>Death claim your fur, beastman!</Source>
+      <Dest>我要活剥了你的皮，兽人！</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that it? Is that your best?</Source>
+      <Dest>它就是？这是你最好的了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Stand still, worm!</Source>
+      <Dest>站住，蛆虫！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, worm!</Source>
+      <Dest>去死，蛆虫！</Dest>
+    </String>
+    <String List="2">
+      <Source>So, what is the plan?</Source>
+      <Dest>那计划是什麽？</Dest>
+    </String>
+    <String List="2">
+      <Source>You lead and I shall follow.</Source>
+      <Dest>你带路，我跟着你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lay waste to your foes, and let nothing go to waste.</Source>
+      <Dest>对付你的敌人，保存你的实力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Watch your aim!</Source>
+      <Dest>注意你的目标！</Dest>
+    </String>
+    <String List="2">
+      <Source>This is your last warning</Source>
+      <Dest>我最后一次警告你！</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you ready to move?</Source>
+      <Dest>你准备好搬了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you blind, fool?</Source>
+      <Dest>你是瞎了吗，傻瓜？</Dest>
+    </String>
+    <String List="2">
+      <Source>Shall we get moving?</Source>
+      <Dest>我们动身吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it, mortal?</Source>
+      <Dest>汝意欲为何，凡人?</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

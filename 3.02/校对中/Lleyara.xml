@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You're right.  People fear what they don't understand.</Source>
+      <Dest>你说的没错，人们总因无知而恐惧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm more interested in learning about you.</Source>
+      <Dest>我对你这个人更感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm more interested in learning about you.</Source>
+      <Dest>我对你这个人更感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm more interested in learning about you.</Source>
+      <Dest>我对你这个人更感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>On the contrary, this abomination cannot continue to live.</Source>
+      <Dest>相反，这种憎恶无法继续生活。</Dest>
+    </String>
+    <String List="0">
+      <Source>The hunters were in their right.  Dragon bones are quite valuable.</Source>
+      <Dest>猎人们有他们的的权利。龙的骨头是相当有价值的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he tell you?</Source>
+      <Dest>他告诉你了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he tell you?</Source>
+      <Dest>他告诉你了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>That was a foolish risk.</Source>
+      <Dest>冒这个险纯属犯二。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, the presence of dragons puts everyone collectively on edge.</Source>
+      <Dest>换句话说，龙的出现让所有人都无路可退了。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, the presence of dragons puts everyone collectively on edge.</Source>
+      <Dest>换句话说，龙的出现让所有人都无路可退了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many in this land despise dragons.</Source>
+      <Dest>这片土地上有不少人蔑视龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many in this land despise dragons.</Source>
+      <Dest>这片土地上有不少人蔑视龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many in this land despise dragons.</Source>
+      <Dest>这片土地上有不少人蔑视龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many in this land despise dragons.</Source>
+      <Dest>这片土地上有不少人蔑视龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many in this land despise dragons.</Source>
+      <Dest>这片土地上有不少人蔑视龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>So there's a bounty on your head.  Good to know.</Source>
+      <Dest>原来你正被悬赏啊，真高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only if that man could cook you alive with his breath.</Source>
+      <Dest>只有那人能用他的呼吸使你活了下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Run for your life, fool!  A dragon!</Source>
+      <Dest>快逃命吧，蠢货！龙来了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Only weaklings engage a wounded opponent.</Source>
+      <Dest>只有弱者才會故意找受傷的對手下手。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you remove the arrow?</Source>
+      <Dest>你是怎么把箭头取出来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you remove the arrow?</Source>
+      <Dest>你是怎么把箭头取出来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you remove the arrow?</Source>
+      <Dest>你是怎么把箭头取出来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you remove the arrow?</Source>
+      <Dest>你是怎么把箭头取出来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after the hunters arrived?</Source>
+      <Dest>猎人们到达后发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after the hunters arrived?</Source>
+      <Dest>猎人们到达后发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after the hunters arrived?</Source>
+      <Dest>猎人们到达后发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after the hunters arrived?</Source>
+      <Dest>猎人们到达后发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you rescued a dragon. How did you end up here?</Source>
+      <Dest>所以你救了一条龙。你要如何收场呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you rescued a dragon. How did you end up here?</Source>
+      <Dest>所以你救了一条龙。你要如何收场呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you rescued a dragon. How did you end up here?</Source>
+      <Dest>所以你救了一条龙。你要如何收场呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Vahlokmir?  Is that its name?</Source>
+      <Dest>瓦拉卡摩? 那是它的名字？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was brave of you. I hope I would've done the same.</Source>
+      <Dest>你很勇敢。我希望如果是我的话，也能做相同的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was brave of you. I hope I would've done the same.</Source>
+      <Dest>你很勇敢。我希望如果是我的话，也能做相同的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did they hear you sneeze?</Source>
+      <Dest>他们听到你打喷嚏了么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did they hear you sneeze?</Source>
+      <Dest>他们听到你打喷嚏了么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did they hear you sneeze?</Source>
+      <Dest>他们听到你打喷嚏了么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did they hear you sneeze?</Source>
+      <Dest>他们听到你打喷嚏了么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Bears are a plague.  I was attacked by four while you were telling that story.</Source>
+      <Dest>熊就像瘟疫一样。你在讲这个故事的时候，我就被攻击了四次。</Dest>
+    </String>
+    <String List="0">
+      <Source>In times of war, yes. Men are just as dangerous.</Source>
+      <Dest>在战争时期，是的。任何人都可能是危险的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ah, Vahlokmir must be its name.  I am somewhat familiar with the dragon tongue.</Source>
+      <Dest>啊，它的名字肯定是瓦拉卡摩。我对龙舌兰多少有点熟悉的。</Dest>
+    </String>
+    <String List="0">
+      <Source>And you gained compassion for animals.</Source>
+      <Dest>而且你都很同情动物。</Dest>
+    </String>
+    <String List="0">
+      <Source>And you gained compassion for animals.</Source>
+      <Dest>而且你都很同情动物。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm going to hug the next dragon I meet.  What could possibly go wrong?</Source>
+      <Dest>下次遇到龙，我就上去拥抱它，会有什么问题吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Docile or not, one sudden movement could've killed you.</Source>
+      <Dest>温驯吗？一个动作就秒杀你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Docile or not, one sudden movement could've killed you.</Source>
+      <Dest>温驯吗？一个动作就秒杀你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is that a pet dragon?  I am so jealous.</Source>
+      <Dest>那是……一只宠物龙吗？羡慕死我了啦！</Dest>
+    </String>
+    <String List="0">
+      <Source>Stand aside woman, I must slay this dragon.</Source>
+      <Dest>闪到一边，女人！我必须杀了这条龙！</Dest>
+    </String>
+    <String List="2">
+      <Source>I rose to a crouch, and raised my arms to his throat, when my nose betrayed me.  I sneezed.</Source>
+      <Dest>我缓缓屈膝站起，将手伸向他的喉咙。结果我被我的鼻子背叛了。我打了个喷嚏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now all of a sudden they have something to lose. So entire towns live in fear, leaping to panic every time a cloud drifts over the sun.  </Source>
+      <Dest>现在，突然之间，他们要失去些什么。整个城镇的人都因此生活在恐惧之中，每次云朵遮蔽阳光都会使人们的恐慌骤增。  </Dest>
+    </String>
+    <String List="2">
+      <Source>When I heard their voices laughing through the trees, I dove into the thickets of grass and lay in wait, my dagger clenched between my teeth.</Source>
+      <Dest>当我听到他们的笑声从森林中传来，我缩进了草丛中，把匕首衔在齿间，静静等待。</Dest>
+    </String>
+    <String List="2">
+      <Source>Same goes for blacksmiths, lumberjacks, milk and tavern maids. Every bored, middle-aged, drunken soul who thought they had nothing to live for.</Source>
+      <Dest>同样的情形发生在铁匠、伐木工、挤奶工、以及酒馆女仆身上。每一个无聊的、临近中年又醉醺醺的活得没有目标的灵魂身上。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why it's very important that we learn their language.  We can't understand them if we can't communicate.</Source>
+      <Dest>这就是为什么学会他们的语言是如此的重要。如果无法沟通，那么我们如何能理解他们？</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait!  Vahlokmir isn't like the other dragons.  He's gentle.</Source>
+      <Dest>等等！瓦拉卡摩不是一般的龙。他是善良的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My body was on fire, but I was scared. Perhaps Vahlokmir sensed this, because as the other hunter charged, he unfurled his wings and let out a roar.</Source>
+      <Dest>我身上着火，害怕极了。也许是Vahlokmir感觉到了，因为当猎人们冲过去的时候，他展开翅膀大吼了一声。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  Well, if you're that curious, I'll gladly tell you my story.</Source>
+      <Dest>当真？如果你真的这么好奇，我很乐意告诉你我的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Manfolk can do far worse with just a pair of thumbs, but that doesn't mean they will.</Source>
+      <Dest>他轻轻动一下手指就能做出远为可怕的事，但这并不代表他们就会这么去做。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most would've fled at the sight of Vahlokmir, but when the dragon cowered at the sight of them, it only gave them courage. </Source>
+      <Dest>大多数人都已经在瓦拉卡摩的视线中逃离，但是当龙在他们的视线中退缩，这给他们带来了鼓励。</Dest>
+    </String>
+    <String List="2">
+      <Source>I clutched the arrow by the fletchings, yanking it out with all my strength. Too much strength. The force of it made me lose my balance.  </Source>
+      <Dest>我抓住那支箭的羽毛部分，使出全力把它拔了出来。我太过于用力以至于在拔出的那一刹那我失去了平衡。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pulled the dagger from my teeth and watched as the shorter one circled toward me. I could practically smell the stink hopping off his furs.</Source>
+      <Dest>我将匕首从牙齿间抽出，看着较矮的那个转到我身边。我甚至都闻到了他身上的动物皮毛散发出的臭味。</Dest>
+    </String>
+    <String List="2">
+      <Source>He tousled my hair, and gave me a smile more black then white. But it brightened my day all the same.</Source>
+      <Dest>他揉乱了我的头发，然后给了我一个可以颠黑覆白的微笑。可那一样会让我开心一整天的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  I realized that every beast has a family.  Mothers, fathers, daughters and sons.  </Source>
+      <Dest>是的。我认识到了每一只野兽都拥有一个家庭。母亲、父亲、女儿以及儿子。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the hunters came, Vahlokmir curled up his head and tail, hiding under a canopy of wings.  He was so tiny.</Source>
+      <Dest>当猎人们到来的时候，瓦拉卡摩俯下他的头和尾巴，蜷缩到了翅膀底下。他看起来是那么的小。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think you'll make a new friend.  Although Vahlokmir prefers it when you scratch his belly.</Source>
+      <Dest>我觉得你会交到一个新朋友。尽管法拉卡莫更喜欢你挠他的肚皮。</Dest>
+    </String>
+    <String List="2">
+      <Source>The city guardsman trains in the barracks, worried all his boasts of heroism will melt away under the heat of a dragon's flame.</Source>
+      <Dest>城市守卫在兵营里加进训练，深怕他的英雄光辉会在龙焰的高温下化为灰烬。</Dest>
+    </String>
+    <String List="2">
+      <Source>The hunters laughed as they split up to flank him. Slaying a dragon was great prestige. Nobody would ever believe it wasn't.</Source>
+      <Dest>猎人们一边大笑一边分别从侧面包抄。屠龙是一种巨大的荣誉，不论谁都深信如此。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would've fell to the ground and cracked my skull if Vahlokmir didn't swivel his head around to catch me.</Source>
+      <Dest>如果瓦拉卡摩没有回过头来抓住我的话，我肯定得跌到地上摔碎我的头盖骨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bear was a mother, driven by her need to protect her cubs.  He said not even the fangs of a dragon could've held her.  </Source>
+      <Dest>那只熊也是个母亲，它也有保护幼兽的母性本能。他说哪怕是巨龙的利牙大概都无法撼动她。 </Dest>
+    </String>
+    <String List="2">
+      <Source>There were two of them, dressed in scale armor, with bright silver coins of light shining off their chest plates.  </Source>
+      <Dest>他们两个穿着镶钉皮甲，胸口的金属板闪着银币一般的亮光。</Dest>
+    </String>
+    <String List="2">
+      <Source>Leave me.  I must my mourn my friend.</Source>
+      <Dest>给我点空间。我要哀悼挚友。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Vahlokmir is not a pet.  If anything, I'm his.</Source>
+      <Dest>(笑) 瓦拉卡摩可不是一个宠物，如果真要说的话，我才是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe I shouldn't have told you what a coward Vahlokmir is.  Or maybe I was lying to throw you off.</Source>
+      <Dest>或许我不应该告诉你法拉卡莫是如何的懦弱。或许我只是想把你劝走。</Dest>
+    </String>
+    <String List="2">
+      <Source>The farmer picks his crops before they are ripe, and the hunter starves the forest of rabbits and deer.</Source>
+      <Dest>农民加紧收获作物，尽管这些作物尚未成熟；猎人忍饥挨饿，尽管森林中遍地跑着兔子与鹿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish it weren't so, but folk are scared.  In Skyrim, when it comes to fear, everyone's a merchant, and everyone's buying.</Source>
+      <Dest>尽管我希望并非如此，但是人们都被吓坏了。在天际省，恐惧总是特别容易传播，每个人都被恐惧震慑，同时又在散播恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of them spit at my father as he passed him, then threw my mangled trap to the ground.  One of the bears had managed to break free from its jaws.</Source>
+      <Dest>他们之一在经过我父亲时啐了他一口，然后把我那破碎的陷阱扔在地上。那些熊挣脱了这捕兽夹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, traveler.  It's not often we get visitors this far up the mountainside, but I'm sure Vahlokmir is pleased to have the company.</Source>
+      <Dest>你好，旅行者。很少有访问者会到山上这么偏远的地方来，但我敢说法拉卡莫肯定很高兴能有个伴儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a dangerous way to think.  Should manfolk kill his cousin because he wears a jeweled necklace?  </Source>
+      <Dest>这是一种危险的思考方式。难道拥有一条宝石项链就可以成为被其表亲杀害的理由吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And I told Vahlokmir you were here to talk.  But if you truly mean to fight, then you fight the both of us.</Source>
+      <Dest>我告诉法拉卡莫你在这里讲的话。 如果你要大打出手，就我们两人吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two of the hunters blamed my father, and I blamed myself.  But one of them, a Nord man with a low brow and sad eyes, told me the truth of it.</Source>
+      <Dest>其中两个猎人指责我父亲，我指责我自己.  但他们中的一个，一个带有幽怨，不高兴的眼神的诺德男人，告诉了我关于这件事的真相.</Dest>
+    </String>
+    <String List="2">
+      <Source>We had to hide. Although the hardest part was convincing Vahlokmir he could still fly.</Source>
+      <Dest>我们得藏起来了。尽管最艰难的部分就是我们得寄希望于瓦拉卡摩他还能展翅翱翔。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was so proud when I fashioned my first bear trap.  He showed it to a neighboring hunter, who offered to make good use of it.</Source>
+      <Dest>当我做好自己的第一个捕熊夹时，我的父亲是那么的骄傲。他将其展示给了隔壁的猎户看，而那个猎户甚至当即将其买下了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  I think it means "Fond of the spring sky" or something.  He only said it once, and he tends to mumble.  He's very shy.</Source>
+      <Dest>是的，我想这名字的意思是“喜爱春日的晴空”或者类似的意思.  他就只说过一次，而且嘟嘟囔囔的。真是太害羞了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And our right to hunt is not any more valid than their right to live.</Source>
+      <Dest>而我们捕猎的权利并不高于他们生存的权利。</Dest>
+    </String>
+    <String List="2">
+      <Source>Both hunters turned toward me, but I managed to gut the short one.  All I felt was the rush, and the hot spray of blood trickling down my leg.</Source>
+      <Dest>两个猎人都冲我而来，我撕碎了矮些的那个。我的脑海里只剩狂躁，我能感觉到鲜血顺着我的腿流下。</Dest>
+    </String>
+    <String List="2">
+      <Source>The housewife frets and paces, afraid a dragon will swoop down and eat her children, or set fire to her home.</Source>
+      <Dest>主妇焦虑地来回踱步，生怕一头龙会突然冲下来吃掉她的孩子们，或者把她的房子烧成灰烬。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it wasn't long before some of the other hunter folk came stumbling through in search of prey.</Source>
+      <Dest>没多久就有两个正在搜寻猎物的猎人撞见了我们。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) If Vahlokmir were hostile, I'm sure we wouldn't be having this conversation.  I'd say the same logic applies to your fear of dragons.</Source>
+      <Dest>(笑声)如果法拉卡莫是敌人，我们今晚根本就不会谈这个。我想说，同样的逻辑也适用于你对龙的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember how his scales felt like big dinner plates in my hands.  Smooth as glass, hard as ebony, and knitted together in such a beautiful pattern.</Source>
+      <Dest>我记得他的鳞片在我手中就好像一个大号的晚餐盘。玻璃一般平滑，又如同玄曜石一般坚硬，组合在一起构成了一个非常美丽的图案。</Dest>
+    </String>
+    <String List="2">
+      <Source>It kindles my heart to know that there are those who judge not by fear and rumor, but by truth and honor.</Source>
+      <Dest>知道有人会基于事实与荣耀而非恐惧与流言来进行推断深深地温暖了我的心。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, they're quite ferocious.  And folk are scared of dragons!  It's probably because dragons don't look as cuddly.</Source>
+      <Dest>是的，他们非常残忍。而人类都很怕龙！大概是因为龙看起来不是很可爱的缘故。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, do you speak dragon?  How wonderful!  Maybe that will get Vahlokmir talking.  He's very loyal, but very shy.</Source>
+      <Dest>噢，你是在说龙吗？多好啊！也许你能跟法拉卡莫聊聊。他很忠诚，但很害羞。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's very sad. If only they'd lay down their fear and open their hearts, they'd see that a dragon is capable of mercy, and a creature of kindness.</Source>
+      <Dest>真是可悲啊。只要他们愿意放下恐惧，打开心扉，他们就会看到，龙也懂得怜悯，是种软心肠的生物。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sky shook and the earth cracked, and the man fled like no man I've ever seen.  But I reckoned he'd be back, maybe with the city guard.</Source>
+      <Dest>天崩地裂的时候，那个男人逃走了，他以为没人看到他。但我想他会回来的，被守卫抓回来。</Dest>
+    </String>
+    <String List="2">
+      <Source>A hunter seeks every advantage, which is why he traps animals he aims to kill. Yet these folk sought to murder, not hunt.</Source>
+      <Dest>一个猎人会利用所有能利用的优势，这也就是为什么他会将他想捕杀的猎物引到陷阱里去。但是这些人的目的是谋杀，而不是捕猎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vahlokmir did no more than grunt when I dug my hands into his scales and climbed up his great back.</Source>
+      <Dest>当我用手抓住他的鳞片并爬上他宽广的背部时，法拉卡莫仅仅不满地嘟囔了一声。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I like to think in times of war, charity is what's most needed.</Source>
+      <Dest>但我认为在战时，最为被需要的是慈善。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I was careful, and he even more so. Although he did give a healthy snort when I climbed on his back.  </Source>
+      <Dest>不，我很小心，而他也更加小心。尽管当我爬上他背部的时候他确实打了一个响亮的响鼻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Having already removed the arrowhead, all that was left was to pull out the shaft.  I wiped the sweat off my palms, and stood up on its back.</Source>
+      <Dest>箭头已经除去了，剩下就是把箭杆拔出来了。我擦了擦手上的汗，站在了它的背上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, even after I applied the poultice and a healing spell, Vahlokmir was in no condition to fly.  Mentally anyway.  </Source>
+      <Dest>即便在我为他上好了药膏并且释放完一个治疗法术之后，法拉卡莫仍旧处于无法飞行的境地。至少他也没那个精神。</Dest>
+    </String>
+    <String List="2">
+      <Source>A group of hunters had found a bear alcove near the outcroppings by Evergreen Grove. That day four of them left, but sadly...only three returned.</Source>
+      <Dest>一组猎人在Evergreen Grove入口附近发现了一个bear alcove  . 那天四人进去，只有三人生还。</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was raised in a community of hunters.  My mother taught me to track, hunt, and skin, and my father taught me how to craft cages and traps.</Source>
+      <Dest>我从小被一个猎人协会抚养。我的母亲教会我追踪，猎杀，剥皮。我的父亲教会我制作陷阱以及木屋。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think so?  I wonder if you'd say the same if it were manfolk hurt in the forest, and not a dragon?</Source>
+      <Dest>于是我将放在包里的一个老猎手的药膏拿了出来，并下定决心要治好他。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bears and dragons are much the same.  We hunt them because we must.</Source>
+      <Dest>熊和龙都是这种情况。我们猎杀他们是因为我们必须这样做。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is going to be so hilarious when that dragon bites off your arm.</Source>
+      <Dest>龙咬下你的胳膊该有多么热闹啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am in need of Vahlokmir's aid.</Source>
+      <Dest>我需要瓦洛克崇拜者们的帮助.</Dest>
+    </String>
+    <String List="0">
+      <Source>I only wish to use his spirit, to channel the power of Akatosh.</Source>
+      <Dest>我只希望借助他的灵魂引导Akatosh之力。</Dest>
+    </String>
+    <String List="0">
+      <Source>My request is one of peace.</Source>
+      <Dest>我只想一个人静静。</Dest>
+    </String>
+    <String List="0">
+      <Source>He's a dragon. War is in his nature.</Source>
+      <Dest>他是一条龙，战斗是他的天性。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except their fears are real.  Dragons attack villages without compunction.</Source>
+      <Dest>只有他们的恐惧是真实的。巨龙毫不留情地袭击村庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except their fears are real.  Dragons attack villages without compunction.</Source>
+      <Dest>只有他们的恐惧是真实的。巨龙毫不留情地袭击村庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you and Vahlokmir meet?</Source>
+      <Dest>你和瓦拉卡摩在哪见面？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you and Vahlokmir meet?</Source>
+      <Dest>你和瓦拉卡摩在哪见面？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you and Vahlokmir meet?</Source>
+      <Dest>你和瓦拉卡摩在哪见面？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you and Vahlokmir meet?</Source>
+      <Dest>你和瓦拉卡摩在哪见面？</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, all I need is for him to bless me on my quest.</Source>
+      <Dest>实际上，我唯一需要的只是在我任务途中能够得到他的祝福。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, there's goes my plan to ride him to Elsweyr.</Source>
+      <Dest>好吧，我计划骑着他前往Elsweyr.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>A daring escape.  And a noble endeavor.</Source>
+      <Dest>虽然在逃命，但是你的行为很高尚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was brave of you. I hope I would've done the same.</Source>
+      <Dest>你很勇敢。我希望如果是我的话，也能做相同的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your dragon can snap at any moment.  He must learn "The Way of the Voice."</Source>
+      <Dest>你的那只龙现在非常有精力。他应该学习"龙吼之道"。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're lying. Dragons are godless killers.</Source>
+      <Dest>你在说谎。龙根本就是可怕的杀手。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's the best strategy.  Kill the sick and injured, then make up a good story.</Source>
+      <Dest>这是最好的策略！把病人和伤员都杀掉，然后另编个好故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>So it turns out the real killer is you.</Source>
+      <Dest>到头来真正的杀手居然是你。</Dest>
+    </String>
+    <String List="2">
+      <Source>As I ran my fingers across the edges, a long shadow crept over my body, and it wasn't until then that I took my eyes off the ground.  </Source>
+      <Dest>当我的手指穿过边缘时，一道长长的影子突然向我袭来，直到那时我才把我的目光从地面上移开。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I reached for an old hunter's salve I had in my satchel, and I decided to heal him.</Source>
+      <Dest>所以我在我的背包里找到了一个老猎人的药膏，然后我决定医治他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even now I can't look at him without marveling at the Divines' work. Each scale was as large as a shield, and just as sturdy.</Source>
+      <Dest>即便现在，每每看向他我都不禁感叹造物的鬼斧神工，每一片鳞片都有盾牌大小，而且也同样坚固。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many folk would shy away from a dragon, but it is Vahlokmir who shies from all.  I am sorry, but he is not a weapon of war.</Source>
+      <Dest>很多人都会避开龙，而法拉卡莫会避开所有东西。我很抱歉，但他不是个战争武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>But hunter folk don't eat dragons, and dragons don't have fur.  And I've never met a talking bear.  </Source>
+      <Dest>但猎人们不会吃龙肉，而龙也没有皮毛可供猎人们使用。我也从来没有遇上过一头会说话的熊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I trust you got what you came for. Goodbye.</Source>
+      <Dest>好吧，我相信你已经得到了你所追寻的东西，再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vahlokmir, what say you!  Do you bless this traveler?</Source>
+      <Dest>法拉卡莫,你在说什么！你保佑了那个旅行者了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If Vahlokmir was one to speak, I am sure he would.  But perhaps a gentle nod is good enough.</Source>
+      <Dest>如果瓦拉卡摩能说话，我很肯定他会这么做的。或许一个轻轻的点头已经足够。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the folk say. So the guards and the hunters say. That will be for him to judge.</Source>
+      <Dest>流言说，警卫和猎人们说，这件事归他判断.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vahlokmir, we seem to be running thin on supplies, but it's still too dangerous for you to hunt.  Don't worry, I'll manage on my own.</Source>
+      <Dest>法拉卡莫，我们的供给貌似不够了，但对你来说，要去打猎还是太危险了。别担心，我会自己处理好这件事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not quite.  Vahlokmir would fly right into the sun to save another, but not himself.  Although I confess, I do not know if he prays to any God.</Source>
+      <Dest>并不完全正确。法拉卡莫会冲着太阳飞过去并救出别人，而不是拯救他自己。尽管我承认，我不知道他会不会冲着什么神明祷告。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's far more likely he'll burn me, or tear me open like a fresh grape.  Or any of the other three dozen ways he hasn't killed me.</Source>
+      <Dest>哦，他更有可能会烧死我，或者像撕开一粒新鲜的葡萄一样撕裂我。或者其他的几十种他可以用来杀死我，但他却没有动手。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're very kind, adventurer.  Perhaps you would like to stay for dinner?  Vahlokmir's getting quite good at hunting deer.</Source>
+      <Dest>你非常友善，冒险者。也许你愿意留下来一起吃晚餐？法拉卡莫越来越擅长捕杀小鹿了</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I don't usually kill manfolk.  But I will, to save a friend.</Source>
+      <Dest>一般情况下我不会杀人。但是如果是为了拯救一个朋友，我会的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the size of a human torso, with three talons as sharp as daggers smithed in the Skyforge.  Amazed, I dropped to a knee to study the footprint.</Source>
+      <Dest>那大小相当于一个人的上身，带着的三根利爪像天空熔炉锻造的匕首般锋利。惊得我单膝跪地仔细观察那脚印。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder, was it the dragon who attacked first?  Or the guard folk, in a state of panic, who fired an arrow into the air?</Source>
+      <Dest>我不知道到底是龙先发动的攻击？还是那些守卫？在这种恐慌的氛围中，到底是谁先打破沉默动了手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Once I was all out of screams and all out of breath, I realized I was still alive. That's when I noticed the arrow lodged in his wing.</Source>
+      <Dest>有一次，我竭尽全力,用尽所有的力气大吼了一声，我意识到我仍然活着. 那时我注意到他的翅膀上有支箭.</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then he is unnatural. As is your request, if mortal folk truly want peace.</Source>
+      <Dest>那就是他不自然咯。在按你的意思行事，如果说人类的意愿是和平的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>I meandered through the forest, my eyes fixated on the dirt, when I found the tracks stamped over by a much larger print.</Source>
+      <Dest>我散步穿越树林，眼光定在地面上，因为看见地上的痕迹被更大的脚印踩过了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is true Vahlokmir is descended from dragon folk.  But this does not make him a God.</Source>
+      <Dest>法拉卡莫的确起源于民间的龙。但是这事实并不能把他推上神座。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vahlokmir will not go near a village, for fear of this very thing.</Source>
+      <Dest>法拉卡莫不会靠近任何一个村庄，正式因为担心会有这种情况出现。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>He doesn't like it when I say so, but Vahlokmir is very sensitive. The wound was minor, but I knew he needed my help.</Source>
+      <Dest>瓦拉卡摩还挺敏感的，当我那样说的时候他不怎么高兴。伤口很小，但我知道他需要我的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems to have worked. And...I think he likes you. Not many folk does he approve.</Source>
+      <Dest>这看起来起作用了. 还有...我认为他喜欢你.他喜欢的人不多.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Vahlokmir is not comfortable with riders. I would not ask this of him.</Source>
+      <Dest>法拉卡莫不适合骑马. 我不会要求他的.</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mm?</Source>
+      <Dest>嗯?</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I don't see this skeever you're talking about.</Source>
+      <Dest>我不了解你说的这个雪鼠</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see this skeever you're talking about.</Source>
+      <Dest>我不了解你说的这个雪鼠</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see this skeever you're talking about.</Source>
+      <Dest>我不了解你说的这个雪鼠</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Orc settlement.  Congratulations.</Source>
+      <Dest>除了我的出席，这符合所有兽人的决议，祝贺你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Orc settlement.  Congratulations.</Source>
+      <Dest>除了我的出席，这符合所有兽人的决议，祝贺你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Orc settlement.  Congratulations.</Source>
+      <Dest>除了我的出席，这符合所有兽人的决议，祝贺你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tomorrow night it will rain apples.  The day after, sweet rolls.</Source>
+      <Dest>明晚天上会下苹果雨 后天则是甜卷饼.</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't alone?</Source>
+      <Dest>当时你不是一个人？</Dest>
+    </String>
+    <String List="0">
+      <Source>I liked my version better.</Source>
+      <Dest>我还是更喜欢鹿肉。</Dest>
+    </String>
+    <String List="0">
+      <Source>A dual-wielding troll will ride to Winterhold tomorrow on horseback.</Source>
+      <Dest>明天一头双持巨魔会骑马去冬堡 。</Dest>
+    </String>
+    <String List="0">
+      <Source>No thanks. You may quote a verse if you wish.</Source>
+      <Dest>不用谢。如果愿意，你可以吟诵一段经文。</Dest>
+    </String>
+    <String List="0">
+      <Source>No thanks. You may quote a verse if you wish.</Source>
+      <Dest>不用谢。如果愿意，你可以吟诵一段经文。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Breton settlement.  Rejoice.</Source>
+      <Dest>除了我的存在，这完全是个布尔顿集落。真好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Breton settlement.  Rejoice.</Source>
+      <Dest>除了我的存在，这完全是个布尔顿集落。真好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except with my presence, it's strictly an all Breton settlement.  Rejoice.</Source>
+      <Dest>除了我的存在，这完全是个布尔顿集落。真好。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these refreshments you keep referring too?</Source>
+      <Dest>你也提到的这些茶点是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask some questions first.</Source>
+      <Dest>我想先问一些问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that relate to drinks?</Source>
+      <Dest>这跟酒有什么关系？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that relate to drinks?</Source>
+      <Dest>这跟酒有什么关系？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that relate to drinks?</Source>
+      <Dest>这跟酒有什么关系？</Dest>
+    </String>
+    <String List="0">
+      <Source>Smoked?  Inhaled?  Are we talking about Skooma?</Source>
+      <Dest>熏制的？吸入的？我们在讨论斯库玛吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Smoked?  Inhaled?  Are we talking about Skooma?</Source>
+      <Dest>熏制的？吸入的？我们在讨论斯库玛吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Smoked?  Inhaled?  Are we talking about Skooma?</Source>
+      <Dest>熏制的？吸入的？我们在讨论斯库玛吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Smoked?  Inhaled?  Are we talking about Skooma?</Source>
+      <Dest>熏制的？吸入的？我们在讨论斯库玛吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>There's something odd about your diction. Not to mention you.</Source>
+      <Dest>你的措辞有些奇怪。这不是表扬。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's something odd about your diction. Not to mention you.</Source>
+      <Dest>你的措辞有些奇怪。这不是表扬。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will Skooma make me more creative?</Source>
+      <Dest>斯库玛怎么会让我更有创造力？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will Skooma make me more creative?</Source>
+      <Dest>斯库玛怎么会让我更有创造力？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will Skooma make me more creative?</Source>
+      <Dest>斯库玛怎么会让我更有创造力？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will Skooma make me more creative?</Source>
+      <Dest>斯库玛怎么会让我更有创造力？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will Skooma make me more creative?</Source>
+      <Dest>斯库玛怎么会让我更有创造力？</Dest>
+    </String>
+    <String List="0">
+      <Source>Quite a pitch. I almost believed you until I smelled the skooma on your breath.</Source>
+      <Dest>天衣无缝啊。我要是没闻到你呼出的斯库玛味差点就相信你了</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Poetic Edda.</Source>
+      <Dest>给我说说《诗体埃达》的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except my presence here changes that.</Source>
+      <Dest>希望我的出现能对此有所改变。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except my presence here changes that.</Source>
+      <Dest>希望我的出现能对此有所改变。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except my presence here changes that.</Source>
+      <Dest>希望我的出现能对此有所改变。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except my presence here changes that.</Source>
+      <Dest>希望我的出现能对此有所改变。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bards of Solitude will find a way to turn poetry into a weapon.</Source>
+      <Dest>独孤城的诗人们将找到一种方法，把诗歌变成武器。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bards of Solitude will find a way to turn poetry into a weapon.</Source>
+      <Dest>独孤城的诗人们将找到一种方法，把诗歌变成武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am sure his reaction will be mixed when I inform him of the news.</Source>
+      <Dest>我敢保证当我通知他这消息时，他的反应一定很错乱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I ask you, traveler, when is the last time the impossible stumbled across your mind?</Source>
+      <Dest>我问你，旅行者，你上一次脑袋里闪过“这不可能”的念头是什么时候了？</Dest>
+    </String>
+    <String List="2">
+      <Source>While others hope for the improbable and dream the impossible, when your mind is cleansed of preconception, the impossible will dream of you.</Source>
+      <Dest>当别人在盼望着可能性、梦想着奇迹的时候，而你的头脑已经清除了偏见，那奇迹就会向你走来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our most welcome guest has an acute sense of smell. Although my associate and I prefer the term refreshment, as it more accurately defines the drink.</Source>
+      <Dest>我们最受欢迎的客人有着敏锐的嗅觉。虽然我和我的小伙伴们喜欢叫它茶点，但是更准确地说，它应该被称为饮料。</Dest>
+    </String>
+    <String List="2">
+      <Source>Has the guest already imbibed a refreshment?  If not, the host is most impressed with the creativity you already possess.</Source>
+      <Dest>客人用过点心了么？如果没有的话，主人将会对你早已拥有的创造力印象深刻。</Dest>
+    </String>
+    <String List="2">
+      <Source>The word clean can be defined in a variety of ways. There is clean like the Karth River, and clean like the smell of a brisk summer breeze.</Source>
+      <Dest>干净这个词能被多样化的方式去诠释。就如同Karth河一般纯净，就像夏日的微风一样清新舒爽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Correct.  With two Orcs and one Breton, by rule I am technically an Orc.  And Urzub is now a female.  </Source>
+      <Dest>没错。和两个兽人与一个布莱顿人，就规定来说我是一个如假包换的兽人。而乌祖 现在是女的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bauble, you see, was not a bauble. It was an amulet of articulation.</Source>
+      <Dest>小玩意儿，你看到的可不是个小玩意儿。它的读音是“护~身~符~”。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder how Urzub will take the news.  His figure is not well suited for a dress.</Source>
+      <Dest>我惊讶乌祖将怎么得到这消息，他可不适合做这种细心活。</Dest>
+    </String>
+    <String List="2">
+      <Source>The refreshments we have gathered, on the other hand, seek to clean the surface of the mind.</Source>
+      <Dest>我们把点心聚集在一起，换句话说， 设法清理出位置来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am but an erstwhile savage, who only but recently gained her powers of articulation.</Source>
+      <Dest>我以前根本就是个野人，连说话发音都是最近才学会的。</Dest>
+    </String>
+    <String List="2">
+      <Source>He seemed to have died from a fracture of the skull, and his lifeless body was nestled comfortably beside the very rock that pinned my leg.</Source>
+      <Dest>他似乎已经因颅骨破裂而死了。他那毫无生气的身子软瘫在石头上，压着我的腿。</Dest>
+    </String>
+    <String List="2">
+      <Source>As our most welcome guest, it is not my place to disagree.  I hope my next rendition will be more to your liking.</Source>
+      <Dest>既然您是我们最为尊贵的嘉宾，那我就不跟您争论了。但愿我的下一首曲子会对您的胃口。</Dest>
+    </String>
+    <String List="2">
+      <Source>When did you last think of things that could not be thought, because the mind thought beyond what should be thought?</Source>
+      <Dest>你最后一次想到那些无法想象的事情是什么时候？而在这思想超越了你能想象的极限之后，你要怎么去想？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, by cleansing our guest of all banality. Imagine every boring thought left stranded in your mind, washed away in a tide of concentrated joy.</Source>
+      <Dest>为什么，当然是因为我们清洗干净了客人所有的乏味感。想象一下你的脑海里本来全都是些无聊的念头，然后突然被一波喜悦的浪潮冲走时的感受吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our guest does realize that words are already a weapon of war, and that this scenario is not only probable, but likely.</Source>
+      <Dest>我们的客人都了解了，口令已成为了战争的武器，这种情况不仅仅是有可能，而且是很有可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although indubitably, you were directed to this camp not by its countenance, but by its aroma, which is quite exquisite.</Source>
+      <Dest>但毋庸置疑，你会直直走向这个营地，不是因为它的外表，而且因为它强烈的香味儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I noticed his right hand seemed to glimmer like a bauble. Which makes sense, as he was clutching one.  </Source>
+      <Dest>然后我注意到他的右手似乎如同珠宝一般发出微微光芒。这是有道理的，因为他手里正攥着一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly, I hope that my recital does this piece justice.  Ahem.  </Source>
+      <Dest>当然，我希望能在音乐会上演奏好这首曲子。嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>True.  With two Bretons and one Orc, our status as an Orc Stronghold has now been revoked.  We are now a fiefdom.  And evidently, an all male one.</Source>
+      <Dest>正是这样，我们作为兽人据点的地方现在已被两个布莱顿人和一个兽人摧毁了。我们现在是在一块封地上，而且很明显这儿的人都是男的！</Dest>
+    </String>
+    <String List="2">
+      <Source>An excellent rendition!  You are truly a bard worthy of passing on the tradition of the Poetic Edda. </Source>
+      <Dest>表演的真棒！你是个真正的吟游诗人，值得将艾达诗歌集的传统传承下去。 </Dest>
+    </String>
+    <String List="2">
+      <Source>As host to our most honored guest, I humbly apologize for my oratory failings. </Source>
+      <Dest>作为主人，我为自己的口误，向我们尊敬的来宾表示最诚挚的歉意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Verily. It seems this settlement is now completely without race, but instead one based on gender. With your presence, we are now an all female tribe.</Source>
+      <Dest>事实上，这个据点看起来已经没有什么种族概念了，但是取而代之的是一个由女性当家的新族群。只要有你在，现在我们这就是一个全是女性的部落</Dest>
+    </String>
+    <String List="2">
+      <Source>One might say clean refreshment and clean taste come when a drink washes smoothly over the surface of your tongue.</Source>
+      <Dest>有人说当一杯酒滑过你的舌头时你会感到身心轻松，余味悠远。</Dest>
+    </String>
+    <String List="2">
+      <Source>Urzub and I prefer not to use that term, as it is most derogatory.  We prefer the term refreshment.</Source>
+      <Dest>乌祖伯和我不怎么喜欢用这个词，因为它太尖刻了。我们更喜欢称其为“茶点”。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, for laying in the rock beside me was a skeletal fellow, more bones than skin, and more clothes than bone.</Source>
+      <Dest>不，是给我身边这位躺在石头上的骷髅兄弟，身上的骨头比肉皮多，衣服又比骨头还多。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so ends the story of Crantius the liar; a deviant and a scoundrel whom we commit to the fire.</Source>
+      <Dest>那么结束骗子克兰蒂乌斯的故事吧；一个叛经离道，一个我们想把他投进火里的人的故事吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps you will critique my own reciting of a similar creation verse.  Ahem.</Source>
+      <Dest>搞不好你会讽刺我用如此相像的诗句来描述。呃哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>It can be imbibed or inhaled, smoked or suckled, but the result is the same. Crystal clarity.</Source>
+      <Dest>它可以吸入或吸出,熏肉或者喂奶,但结果是一样的。像水晶一样清晰明了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now when I say clean, I hope that I am not misrepresenting the potency of our drink, as I am referring to a very specific type of clean.</Source>
+      <Dest>现在当我说清除的时候，我希望不会被错误理解为多喝几杯，我指的是一种特指的清除。</Dest>
+    </String>
+    <String List="2">
+      <Source>There, one can inquire about everything from the meaning of life to the time of day. </Source>
+      <Dest>从那里，你可以探寻到一切事情。上至生命的意义，下到一天的时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, it will do us no good without the proper refreshments to balance it.</Source>
+      <Dest>【不过呢，要是没有点合适的提神物平衡一下的话，那对我们一点好处都没有了】。</Dest>
+    </String>
+    <String List="2">
+      <Source>For it's death and emptiness who in the end is the true father of all; and when we leave this mortal coil it's to Sithis that we return.</Source>
+      <Dest>为此最终的死亡和虚无才是一切起源；并且当我们舍弃一切尘世的牵挂时，我们才能回归西帝斯的怀抱。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the inquisitive mind, this can lead to entirely new avenues of creativity to explore.</Source>
+      <Dest>对于有好奇心的人，这将带领他们探索到全新的创意之路上来。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is clean like the white of a freshly washed tunic, or clean like the inside of a recently scrubbed cauldron.</Source>
+      <Dest>这干净得像刚刚洗过的束腰外衣的那种白色，或者说像刚擦洗过的大锅的里面。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is delightful news.  Perhaps I too can now evacuate myself in the river as opposed to the shrubs.</Source>
+      <Dest>真是个好消息。也许我也该马上躲进河里而不是钻进灌木丛去。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the time between this sentence and the last, I have witnessed two such fantastical events.</Source>
+      <Dest>就在这前后两句话的短短一瞬间，我就亲眼见证了两个奇迹的发生。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not sure Urzub will be entirely thrilled to hear this.  He is wont to scratch himself in locations that do not befit a lady.</Source>
+      <Dest>我不清楚乌祖听到这个会不会很高兴。【他习惯当着淑女的面挠自个儿】。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, there is nothing negative about drinking a potion that allows you to stare into the face of the Divines.</Source>
+      <Dest>归根结底，喝这药水总不会有把你送去见圣灵那样的危险的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive my rudeness, but if you will allow me to recite a similar verse, I would be most pleased.  As our guest, you may judge its worthiness.</Source>
+      <Dest>原谅我的失礼，但如果你能容许我咏诵类似的一小节，我会非常满足。作为我们的贵客，你可以裁量它的价值。。</Dest>
+    </String>
+    <String List="2">
+      <Source>An admirable try, but this host recommends you imbibe some refreshments before proceeding any further.</Source>
+      <Dest>值得赞赏的猜想，但这位主人建议你在深入讨论之前先喝点茶点。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf's fur was stripped, down to the last strand; and until the moons returned, he walked the earth as a mortal man.</Source>
+      <Dest>狼的毛皮剥除了，只剩小小一条；直到月光重新照亮夜空，他就像普通人一样游荡着。</Dest>
+    </String>
+    <String List="2">
+      <Source>This host politely suggests you ingest three bottles of refreshment before attempting again.</Source>
+      <Dest>主人家会有礼有节地劝你三瓶饮料，然后可能还来。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Poetic Edda is part of the living history of Skyrim, first passed on orally and then through the written word.</Source>
+      <Dest>《艾达诗歌集》是天际一部分的活历史，最初是口耳相传，后来才出现抄本。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh that was rather brilliant!  Although traditionally in The Reach we prefer a slightly less grandiloquent reading of the Poetic Edda.</Source>
+      <Dest>哦太棒了！尽管在边陲领的传统中我们更习惯不这么夸张地朗诵艾达诗歌集。</Dest>
+    </String>
+    <String List="2">
+      <Source>You jest, honored visitor.  Its visage is clearly within your range of eyesight.  </Source>
+      <Dest>你在逗我吧，尊敬的客人。它的脸就在你的目光所及处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh forgive my manners. I am erstwhile savage, who only recently gained her powers of articulation.</Source>
+      <Dest>哦，请原谅我的方式。我以前是个野蛮人，最近才获得了她的表达力。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I first spoke to Urzub, I did not recognize the words, for they were none I had ever acquainted myself with before.</Source>
+      <Dest>我第一次跟乌祖说话时，并不是很能认得出那些词，因为我之前从没有了解过它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Verily. It seems this settlement is now completely without race, but instead one based on gender. With your presence, we are now an all male tribe.</Source>
+      <Dest>Verily。这个定居点的住民似乎完全无关种族，单单与性别有关。欢迎你，我们的部落成员现在全是男性。</Dest>
+    </String>
+    <String List="2">
+      <Source>For our honored guest we have the cleanest refreshment this world has to offer, although I cannot speak for the next.</Source>
+      <Dest>我最后再说一遍，我们有这世上最干净的点心可以提供给我们尊贵的客人</Dest>
+    </String>
+    <String List="2">
+      <Source>Whether it is a clean river, a clean towel, or a clean shave, the difference is in the surface.</Source>
+      <Dest>它可能是一条干净的河流，一条干净的毛巾，或是把胡子刮得干干净净的下巴，不同之处只在表面。</Dest>
+    </String>
+    <String List="2">
+      <Source>I reached for the bauble just as Urzub reached for me.  He forced me out of the river like a bear swatting a salmon.</Source>
+      <Dest>我去拿了乌祖给我拿来的那个小玩意儿。他强迫我像一只拍打大马哈鱼的熊一样滚出了河。</Dest>
+    </String>
+    <String List="2">
+      <Source>Meanwhile, Urzub, having witnessed my folly, rushed to the river to rescue me, but I could only stare pensively at the spindly corpse in the river.</Source>
+      <Dest>同时, 乌祖, 看到我做的蠢事, 跑去河里救我, 但我只能眼睁睁地盯着河里那具瘦长的尸体.</Dest>
+    </String>
+    <String List="2">
+      <Source>True.  With two Bretons and one Orc, our status as an Orc Stronghold has now been revoked.  We are now a fiefdom.  And evidently, an all female one.</Source>
+      <Dest>真的。和两个布莱顿人还有一个兽人，我们的地盘是一个被遗弃的兽人要塞。而且很显然，一个曾经全是女兽人的要塞。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's become apparent to me that all poetry is garbage.</Source>
+      <Dest>很显然对我来说所有的诗篇都是垃圾。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's become apparent to me that all poetry is garbage.</Source>
+      <Dest>很显然对我来说所有的诗篇都是垃圾。</Dest>
+    </String>
+    <String List="0">
+      <Source>By what rule is this place an Orc Stronghold?</Source>
+      <Dest>这地方是个兽人要塞？这犯规了！</Dest>
+    </String>
+    <String List="0">
+      <Source>By what rule is this place an Orc Stronghold?</Source>
+      <Dest>这地方是个兽人要塞？这犯规了！</Dest>
+    </String>
+    <String List="0">
+      <Source>By what rule is this place an Orc Stronghold?</Source>
+      <Dest>这地方是个兽人要塞？这犯规了！</Dest>
+    </String>
+    <String List="0">
+      <Source>By what rule is this place an Orc Stronghold?</Source>
+      <Dest>这地方是个兽人要塞？这犯规了！</Dest>
+    </String>
+    <String List="0">
+      <Source>By what rule is this place an Orc Stronghold?</Source>
+      <Dest>这地方是个兽人要塞？这犯规了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave the Forsworn?</Source>
+      <Dest>你为什么离开弃誓者？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave the Forsworn?</Source>
+      <Dest>你为什么离开弃誓者？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave the Forsworn?</Source>
+      <Dest>你为什么离开弃誓者？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave the Forsworn?</Source>
+      <Dest>你为什么离开弃誓者？</Dest>
+    </String>
+    <String List="0">
+      <Source>It was an abysmal failure.  Mogo's Mead will not go into production.</Source>
+      <Dest>Mogo's Mead不会投入生产，那是个彻底的失败品。</Dest>
+    </String>
+    <String List="0">
+      <Source>What? I don't even know how to read.</Source>
+      <Dest>啥？我根本不知道怎么阅读。</Dest>
+    </String>
+    <String List="0">
+      <Source>What? I don't even know how to read.</Source>
+      <Dest>啥？我根本不知道怎么阅读。</Dest>
+    </String>
+    <String List="0">
+      <Source>Guards can be as corrupt as any thief.</Source>
+      <Dest>卫兵就像那些罪犯一样堕落</Dest>
+    </String>
+    <String List="0">
+      <Source>Guards can be as corrupt as any thief.</Source>
+      <Dest>卫兵就像那些罪犯一样堕落</Dest>
+    </String>
+    <String List="0">
+      <Source>You're eating rodents?  I think I'll pass.</Source>
+      <Dest>你在吃老鼠？我想我还是免了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're eating rodents?  I think I'll pass.</Source>
+      <Dest>你在吃老鼠？我想我还是免了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're eating rodents?  I think I'll pass.</Source>
+      <Dest>你在吃老鼠？我想我还是免了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you do for a living?</Source>
+      <Dest>你是做什么工作的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you do for a living?</Source>
+      <Dest>你是做什么工作的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why set up a camp here?</Source>
+      <Dest>我想先请教一些问题。为什么在这里建立了一个营地？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why set up a camp here?</Source>
+      <Dest>我想先请教一些问题。为什么在这里建立了一个营地？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why set up a camp here?</Source>
+      <Dest>我想先请教一些问题。为什么在这里建立了一个营地？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why set up a camp here?</Source>
+      <Dest>我想先请教一些问题。为什么在这里建立了一个营地？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the future for Mogo's Mead?</Source>
+      <Dest>莫格蜜酒的前景怎样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the future for Mogo's Mead?</Source>
+      <Dest>莫格蜜酒的前景怎样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the future for Mogo's Mead?</Source>
+      <Dest>莫格蜜酒的前景怎样？</Dest>
+    </String>
+    <String List="0">
+      <Source>That took a toll on my nerves. I could use a bottle to relax.</Source>
+      <Dest>那让我神经紧张。我得来一杯放松下。</Dest>
+    </String>
+    <String List="0">
+      <Source>The party was fun. Vulwulf drank a lot of skooma.</Source>
+      <Dest>这场聚会很有意思。Vulwulf 喝了很多skooma。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean? What events?</Source>
+      <Dest>你什么意思？发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean? What events?</Source>
+      <Dest>你什么意思？发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean? What events?</Source>
+      <Dest>你什么意思？发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Certainly. I'd love to.</Source>
+      <Dest>当然，我很乐意。</Dest>
+    </String>
+    <String List="0">
+      <Source>Certainly. I'd love to.</Source>
+      <Dest>当然，我很乐意。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma use can debilitate the mind and lead to crippling depression.</Source>
+      <Dest> 嗑斯库玛会使人意志薄弱，导致严重的抑郁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma use can debilitate the mind and lead to crippling depression.</Source>
+      <Dest> 嗑斯库玛会使人意志薄弱，导致严重的抑郁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma use can debilitate the mind and lead to crippling depression.</Source>
+      <Dest> 嗑斯库玛会使人意志薄弱，导致严重的抑郁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma use can debilitate the mind and lead to crippling depression.</Source>
+      <Dest> 嗑斯库玛会使人意志薄弱，导致严重的抑郁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Poetic Edda.</Source>
+      <Dest>给我说说《诗体埃达》的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Poetic Edda.</Source>
+      <Dest>给我说说《诗体埃达》的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Poetic Edda.</Source>
+      <Dest>给我说说《诗体埃达》的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what happens then?</Source>
+      <Dest>那然后怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what happens then?</Source>
+      <Dest>那然后怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what happens then?</Source>
+      <Dest>那然后怎么样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a borderline criminal activity and I won't do it again.</Source>
+      <Dest>那可是擦边犯罪的事儿，我可再也不干了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You were there.  You tell me how it went.</Source>
+      <Dest>你当时也在那，你告诉我后来怎样了。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is the most pathetic Orc Stronghold I have ever seen.</Source>
+      <Dest>这简直是我见过最寒酸的兽人要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>This is the most pathetic Orc Stronghold I have ever seen.</Source>
+      <Dest>这简直是我见过最寒酸的兽人要塞</Dest>
+    </String>
+    <String List="2">
+      <Source>A resounding success on all fronts then! For with Maven halting production, it will leave our business as the one true flavor of Mogo's Mead.</Source>
+      <Dest>伟大的成就就在眼前! 如果玛雯停止生产的话, 我们就能出售醇正的莫戈蜂蜜酒了.</Dest>
+    </String>
+    <String List="2">
+      <Source>Our guest is kind and well intentioned, and this humble host thanks her for her concern. </Source>
+      <Dest>我们的客人非常友善，鄙人感谢她的关心。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is my recommendation that our guest first take an account of the barrel by the tent, and our means of refreshment before rushing to judgment.</Source>
+      <Dest>我给客人的建议是，在匆忙下结论之前，先清点一下帐篷旁的木桶，和我们恢复精力的手段。</Dest>
+    </String>
+    <String List="2">
+      <Source>The citizens of Less Khazgur will begin production immediately on bottles of Mogo's Mead, and distribute them throughout the Reach.</Source>
+      <Dest>一些卡兹古的居民将要开始生产一瓶又一瓶的莫戈蜂蜜酒，然后在整个要塞四处分发。</Dest>
+    </String>
+    <String List="2">
+      <Source>You speak in haste, brave hero. For if the great whale chooses not to sell, then it is a victory nonetheless, as it leaves room for a new heir.</Source>
+      <Dest>你的口氣聽起來很急促呢，勇敢的英雄。　如果巨鯨決定不賣，這仍然是個勝利，因為它為後人留下了空間。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say not a throat was dry that night.  From the tavern to the Jarl's longhouse, palates were washed and minds were cleansed.</Source>
+      <Dest>那晚人們久旱逢甘霖。從酒館到領主的長屋，每個人的喉嚨都得到滋潤並且心靈獲得洗滌。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say not a throat was dry that night.  From the tavern to the Jarl's longhouse, palates were washed and minds were cleansed.</Source>
+      <Dest>那晚人們久旱逢甘霖。從酒館到領主的長屋，每個人的喉嚨都得到滋潤並且心靈獲得洗滌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps our guest would like to give it a try?  Simply clear your mind and envision one impossible thing.</Source>
+      <Dest>也许我们的客人想试试？只要你头脑清醒，然后设想一件不可能的事。 </Dest>
+    </String>
+    <String List="2">
+      <Source>From the campfires of memorable days to the tavern halls of forgotten nights, the Poetic Edda is passed on and added to by each generation.</Source>
+      <Dest>篝火唤起那些难以忘怀的在蜜酒大厅的夜晚的记忆，世代交替，总有一些新的篇章被添加入这世代相传的诗歌集中。</Dest>
+    </String>
+    <String List="2">
+      <Source>We are troubadours. Celebrators of life. We drink and feast from twilight to cock's crow, in tribute to tradition and song.</Source>
+      <Dest>我们是游吟诗人，生活的歌颂者。我们在宴会上畅饮，从黄昏到黎明，表达对传说和诗歌的崇高敬意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, have as many as you wish. Refreshment will be had by all, now that Mogo's Mead will have a true heir.</Source>
+      <Dest>当然了，请随意享用。好吃好喝的大家一起来。现在莫戈的蜂蜜酒可是后继有人啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh forgive my manners, this host did not mean to presume.  Perhaps then I will sanctify this meeting with my own reading from the Edda.  Ahem.</Source>
+      <Dest>哦，原谅我的方式吧。这个主人不是故意如此放肆的。【也许接下来我应该用从艾达那里理解的东西认可这场聚会。】嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>As our guest, I cannot refute the legitimacy of your claim. I only ask that you have a refreshment and open your mind to hearing another verse.</Source>
+      <Dest>作为我们的客人，我不能否认你的要求十分合理。我只希望你能恢复精神，打开心扉，聆听另一首诗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tidings, honored guest. My name is Beatrice. The raffish companion you see beside me goes by the name of Urzub.</Source>
+      <Dest>你好，尊敬的客人。我叫比阿特丽斯，我旁边的这群无赖是乌祖的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>In this instance, the rules state we choose the next highest round number when making an estimate.</Source>
+      <Dest>在这个情况下，按规矩我们得选择下一个整数来做评估。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take my associate here, who when standing, is roughly two and a quarter sword lengths in height.  </Source>
+      <Dest>把我那个站起来身高大约两又四分之一剑长的同事带过来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Skeever steak is known to be the Waughin Jarth of cooked meats, and their tails are a highly regarded delicacy in certain culinary circles.</Source>
+      <Dest>雪鼠肉排就如同肉食里的瓦辛·贾斯那样被众人所知，而他们尾巴的美味更是备受美食界的推崇。</Dest>
+    </String>
+    <String List="2">
+      <Source>A disagreement over refreshments led to my departure. Verily, I was not alone in my thirst, for as I ventured north, another came south.</Source>
+      <Dest>茶点上的分歧导致了我的离开。真的，渴望茶点的不是我一个人。因此我来到了北方冒险，而另一个人去了南面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, the rule of estimation!  If that is cause for confusion, allow this host to offer her guest an example.  </Source>
+      <Dest>为什么？估计准则啊！如果这造成了困惑，请允许我举个例子解释一下。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Our guest is kind and well intentioned, and this humble host thanks him for his concern. </Source>
+      <Dest>我们的客人善意而且和爱，谦卑的主人表达了对客人关照的谢意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our guest seems disappointed in the menu.  My deepest apologies, for I had not anticipated such an outcome.</Source>
+      <Dest>我们的客人似乎对菜单很失望。我很抱歉，我没料到会是这样的结果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, suppose he were exactly two and a half sword lengths in height, why, his distance from the numbers two and three would be equal.</Source>
+      <Dest>【现在，假设他有两个半把剑那么高，那为什么他和两把剑或三把剑的距离都相同呢。】</Dest>
+    </String>
+    <String List="2">
+      <Source>For your part in this ordeal, I offer this reward.  A large sum of gold and a fortune in wisdom. Take it, and be cleansed.</Source>
+      <Dest>在经历了如此残酷的考验后，这是你应得的。一大笔黄金和智慧的财富。拿着吧，然后赶紧去清洗一番。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that is what the Gods will, then fear not, for you have already done more than is required. For now, the day of true refreshment is at hand!</Source>
+      <Dest>如果这就是神期望的，不要惧怕，你已经作了你能做的。现在，革命的日子要到来了</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a most peculiar accusation. Urzub can vouch that I was here the entire time, as I can vouch for him.</Source>
+      <Dest>那还真是个特殊的指控。乌祖能担保我整段时间都在这里，同样我也可以为他担保。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the curve of its eyes I saw the future, where the Septim had been replaced by pieces of cork as Tamriel's most commonly traded currency.</Source>
+      <Dest>从它微眯的双眼中，我看到了未来。软木取代了赛普汀，成为泰姆瑞尔大陆最常见的交易货币的未来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not at all, friend, I would suggest your system of measurement is inherently flawed.</Source>
+      <Dest>完全不，朋友，我猜你的测量系统有“先天残疾”。</Dest>
+    </String>
+    <String List="2">
+      <Source>The future is sparkling bright, for the great whale is no longer a detriment to our vision.</Source>
+      <Dest>未来在闪闪发光，因为眼下所有障碍都已被扫净。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps our guest would prefer a beverage instead.  Parched of throat or parched of mind, our drink will offer the remedy.</Source>
+      <Dest>也许我们的客人需要的是饮料。干燥的喉咙或干枯的心灵，我们的饮品均可有效缓解。</Dest>
+    </String>
+    <String List="2">
+      <Source>And from the womb of that infinite revelry came a flash of inspiration, a paroxysm of melody and song.</Source>
+      <Dest>与生俱来的无限狂欢灵感一现，一阵旋律和歌曲骤然爆发。</Dest>
+    </String>
+    <String List="2">
+      <Source>And from the womb of that infinite revelry came a flash of inspiration, a paroxysm of melody and song.</Source>
+      <Dest>与生俱来的无限狂欢灵感一现，一阵旋律和歌曲骤然爆发。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stupendous! Have you brought your own refreshments?  Regardless, this host recommends you procure a bottle from the barrel adjacent to the tent.</Source>
+      <Dest>真了不起！你给自己带了点心？不论如何，这家主人劝你从旁边帐篷的木桶里拿瓶酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>The choice falls onto you, humble traveler. If the Gods bless and the mood strikes, then by all means feel free to recite.</Source>
+      <Dest>选择权在你，谦卑的旅人。如果情怀在你胸中激荡，请无论如何尽情地朗诵吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The host is quite aware of the stigma regarding our most treasured refreshment.  And as of yet, it has not affected her lucidity.</Source>
+      <Dest>这里的主人十分清楚，于我们而言最大的耻辱，就是我们都是甜点控。迄今为止，那并没有影响到她的清醒头脑。</Dest>
+    </String>
+    <String List="2">
+      <Source>The host is quite aware of the stigma regarding our most treasured refreshment.  And as of yet, it has not affected her lucidity.</Source>
+      <Dest>这里的主人十分清楚，于我们而言最大的耻辱，就是我们都是甜点控。迄今为止，那并没有影响到她的清醒头脑。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, as half the population is still Orc, by rule it still classifies as a Stronghold, more or less.</Source>
+      <Dest>毕竟，这里一半的人口还是兽人族，就法规来说它仍然是个兽人要塞，不多不少刚刚好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Given that there are half as many Orcs and half as many Bretons, one might estimate that this settlement consists of all Orcs and all Bretons.</Source>
+      <Dest>鉴于这地方有一半儿兽人和一半儿布莱顿人，我可以推测，这地界儿的人口全是由兽人和布莱顿人组成的。</Dest>
+    </String>
+    <String List="2">
+      <Source>For you see, I was once a member of the despicable clan of rogues and derelicts known as the Forsworn.</Source>
+      <Dest>你看，我曾经是一个卑劣的犯罪团伙的一员并且作为一个弃誓者被遗忘。</Dest>
+    </String>
+    <String List="2">
+      <Source>The timing of your visit is rather impeccable.  Urzub has just secured a fresh skeever which we hope to prepare at the top of the hour.  </Source>
+      <Dest>你来的真是时候，乌祖在我们正想着准备午饭的时候抓到一只雪鼠。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, there could be no other place!  It has been chosen by serendipity itself.</Source>
+      <Dest>为什么，不可能再有其他地方了！它已经偶然地被选择了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, our champion returns. What news do you have of the party? I take it all went splendid?</Source>
+      <Dest>哎呀，我们的大英雄回来啦。  关于派对有啥新消息嘛？我猜该办的都办得妥妥的了？</Dest>
+    </String>
+    <String List="2">
+      <Source>We welcome you to join us in consumption of this delectable feast.</Source>
+      <Dest>欢迎你和我们一起来享用这美味而丰盛的饭菜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our most treasured guest cannot intake a freshly prepared skeever without the plenary imbibing of a cold beverage.</Source>
+      <Dest>我们的最尊贵的客人在享用新鲜烹制的雪鼠时还应该满饮一杯冰饮料才行。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for myself, I ventured here from across the river, from a cave known as Druadach Redoubt.</Source>
+      <Dest>说到我自己，我是从河对面流浪到这儿的，从一个名叫 Druadach Redoubt 的洞里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Behind you I saw a bear dressed in Thalmor robes, trained to sniff out Talos worshippers.  It followed the river back east.</Source>
+      <Dest>我从你身上看到了一头穿着梭默长袍的熊，训练有素地四处嗅着塔洛斯信徒的踪迹。然后沿着河向东追踪而去。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bottles we store at this camp represent a harking back to that day, to the true spirit of the bard's tune.</Source>
+      <Dest>我们保存在这个营地里的瓶子象征着那一天的回响，那里保存着吟游诗人曲子里的真正精神所在。</Dest>
+    </String>
+    <String List="2">
+      <Source>The same rule applies to the composition of this settlement.</Source>
+      <Dest>同样的规律也适用于估计居民人口构成。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of this through the pageantry of song.  And while as our guest, the honor of first verse is yours, I can fulfill this role in your stead.</Source>
+      <Dest>所有这些都贯穿于壮丽的歌篇，然而你，我们的客人，关于荣耀的第一个诗篇属于你，只要你高兴，我就能从这角色中得到满足。</Dest>
+    </String>
+    <String List="2">
+      <Source>My associate Urzub was slaving in the mines of Mor Khazgur when a similar thirst afflicted him and sent him south to this location.</Source>
+      <Dest>我的伙伴Urzub曾经在Mor Khazgur的矿井里被奴役 直到一种相似的渴望折磨着他，带着他南行到这里.</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Your presence makes our total attendance three, each of us drawn by our curiosity to this Dwarven obelisk.</Source>
+      <Dest>你的到来让我们凑齐了三个人。我们都是被矮人方尖碑所吸引而来到此地的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet if he were to insist that he was three sword lengths in height, you would find the estimation absurd.  The nearest round number being two.</Source>
+      <Dest>但是如果他坚持说自己是three sword lengths in height，你就会发现尊重是一件多可笑的事。最近一圈的数字是二。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's with the Orc?</Source>
+      <Dest>那个兽人是怎么回事?</Dest>
+    </String>
+    <String List="0">
+      <Source>What's with the Orc?</Source>
+      <Dest>那个兽人是怎么回事?</Dest>
+    </String>
+    <String List="0">
+      <Source>What's with the Orc?</Source>
+      <Dest>那个兽人是怎么回事?</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Mogo's Mead would taste much better if it were skooma.</Source>
+      <Dest>深表同意。 Mogo's Mead 要是斯库玛，味道会好很多。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Mogo's Mead would taste much better if it were skooma.</Source>
+      <Dest>深表同意。 Mogo's Mead 要是斯库玛，味道会好很多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do the bards who sing Mogo's Mead know about this story?</Source>
+      <Dest>那些唱 Mogo's Mead 的诗人知道这个故事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do the bards who sing Mogo's Mead know about this story?</Source>
+      <Dest>那些唱 Mogo's Mead 的诗人知道这个故事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do the bards who sing Mogo's Mead know about this story?</Source>
+      <Dest>那些唱 Mogo's Mead 的诗人知道这个故事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed.  Something must be done to restore the dignity of Mogo's Mead.</Source>
+      <Dest>同意。必须做些什么来恢复Mogo's Mead的尊严。</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed.  Something must be done to restore the dignity of Mogo's Mead.</Source>
+      <Dest>同意。必须做些什么来恢复Mogo's Mead的尊严。</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed.  Something must be done to restore the dignity of Mogo's Mead.</Source>
+      <Dest>同意。必须做些什么来恢复Mogo's Mead的尊严。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, do they still brew Mogo's Mead in Skyrim?</Source>
+      <Dest>等等，你还在天际做Mogo's Mead 吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>This is not the kind of behavior I approve of. I will pass.</Source>
+      <Dest>我并不认可这种行为，我放弃。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that a bottle of Mogo's Mead I saw on your barrel?</Source>
+      <Dest>我没看走眼的话，好像有一瓶的Mogo的蜂蜜酒在你的桶里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that a bottle of Mogo's Mead I saw on your barrel?</Source>
+      <Dest>我没看走眼的话，好像有一瓶的Mogo的蜂蜜酒在你的桶里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that a bottle of Mogo's Mead I saw on your barrel?</Source>
+      <Dest>我没看走眼的话，好像有一瓶的Mogo的蜂蜜酒在你的桶里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that a bottle of Mogo's Mead I saw on your barrel?</Source>
+      <Dest>我没看走眼的话，好像有一瓶的Mogo的蜂蜜酒在你的桶里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that a bottle of Mogo's Mead I saw on your barrel?</Source>
+      <Dest>我没看走眼的话，好像有一瓶的Mogo的蜂蜜酒在你的桶里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Or you could just say "Two and a half." Using whole numbers isn't necessary.</Source>
+      <Dest>或者你可以说"2.5"。没必要用整数。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or you could just say "Two and a half." Using whole numbers isn't necessary.</Source>
+      <Dest>或者你可以说"2.5"。没必要用整数。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was brilliant. The Poetic Edda lives on.</Source>
+      <Dest>真是机智。The Poetic Edda 可以活下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Guards can be as corrupt as any thief.</Source>
+      <Dest>卫兵就像那些罪犯一样堕落</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma is illegal to consume. I should have you arrested for glorifying it so.</Source>
+      <Dest>使用斯库玛是犯法的，你再宣传的话我就逮捕你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma is illegal to consume. I should have you arrested for glorifying it so.</Source>
+      <Dest>使用斯库玛是犯法的，你再宣传的话我就逮捕你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skooma is illegal to consume. I should have you arrested for glorifying it so.</Source>
+      <Dest>使用斯库玛是犯法的，你再宣传的话我就逮捕你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You clearly just made that story up.</Source>
+      <Dest>你很明显在编故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You clearly just made that story up.</Source>
+      <Dest>你很明显在编故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>So the song Mogo's Mead is really about skooma?</Source>
+      <Dest>这么说《莫戈的蜂蜜酒》这首歌唱的其实是斯库玛？</Dest>
+    </String>
+    <String List="0">
+      <Source>So the song Mogo's Mead is really about skooma?</Source>
+      <Dest>这么说《莫戈的蜂蜜酒》这首歌唱的其实是斯库玛？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you want to turn the Black-Briar home into a skooma den?  Sounds fun.</Source>
+      <Dest>你是打算把黑荆棘家房子变成斯库玛毒窝？有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you want to turn the Black-Briar home into a skooma den?  Sounds fun.</Source>
+      <Dest>你是打算把黑荆棘家房子变成斯库玛毒窝？有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you want to turn the Black-Briar home into a skooma den?  Sounds fun.</Source>
+      <Dest>你是打算把黑荆棘家房子变成斯库玛毒窝？有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you want to turn the Black-Briar home into a skooma den?  Sounds fun.</Source>
+      <Dest>你是打算把黑荆棘家房子变成斯库玛毒窝？有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to articulate so well?</Source>
+      <Dest>你在哪儿学得发音如此清晰？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was...an interesting interpretation. Backwards, but interesting.</Source>
+      <Dest>那是一个……有趣的解释。落后，却很有趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thus your task is simple, for you need only replace the bottles.  The refreshment will handle the rest.</Source>
+      <Dest>因此你的任务很简单，你只需要更换那个瓶子。那些点心会处理接下来的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The great whale Maven Black-Briar has swallowed barrel after brewery, and still her appetite is nothing short of rapacious.</Source>
+      <Dest>Maven Black-Briar已经鲸吞了酿酒厂后面的酒桶，但她贪婪的欲望尚未满足。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not just the past, but the future that hangs in the balance. We honor not only history, but we inspire the poets and bards of the age to come.</Source>
+      <Dest>这不仅是过去，未来难料。我们的荣耀不仅是曾经，创造历史，让游吟诗人千古传诵的时代到来了！</Dest>
+    </String>
+    <String List="2">
+      <Source>To do this, you must embark on a great quest, an epic that the bards will sing for all eternity!</Source>
+      <Dest>要做到这一点，我们必须踏上伟大的旅程，伟大的事迹将被永恒传诵！</Dest>
+    </String>
+    <String List="2">
+      <Source>For one with humble origins such as I, one needs round numbers to count on her round fingers.</Source>
+      <Dest>对于我这种天资愚钝的人来讲，算数只能用手指，数的只能是整数。</Dest>
+    </String>
+    <String List="2">
+      <Source>No polishing of spears or lifting of tails, no kneading of loaves did this courtship endure;</Source>
+      <Dest>没有被抛光的矛也没有翘起的尾巴，[没有揉搓的面包让这爱情持久]；</Dest>
+    </String>
+    <String List="2">
+      <Source>Now go, henceforth to the Black-Briar Meadery! Go and champion the cause of enlightenment!</Source>
+      <Dest>从今以后就去黑荊棘蜜酒庄吧！来支持一下我们“因为专注所以专业”的事业吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>However, it seems you are one with an unquenchable thirst for knowledge. That is why only you can restore Mogo's Mead to its true glory.</Source>
+      <Dest>然而，似乎你难以抑制对只是的渴望。所以只有你能把莫格蜜酒的地位恢复到它的全盛时期。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, he is far less loquacious than I, especially in the presence of new guests.</Source>
+      <Dest>不幸的是，他远没我那么唠叨，特别是有新客人在场时。 </Dest>
+    </String>
+    <String List="2">
+      <Source>This is why you, defender of the law, would make for the perfect champion for a great quest to restore Mogo's Mead to its true glory.</Source>
+      <Dest>这就是你作为一个拥护法律的人，会因为其名誉而极力支持修复莫戈的蜂蜜酒厂的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why you must dive toward the depths of the Black-Briar Meadery, and remove the barnacles that dull the mind!</Source>
+      <Dest>这就是你必须自己迈入黑色荆棘庄园的深渊，【还得除去心理上的负担】的原因！</Dest>
+    </String>
+    <String List="2">
+      <Source>I foresee a great quest! A reckoning! With you at the center.</Source>
+      <Dest>我预见到一个重大的问题！一个计划！以你为中心。</Dest>
+    </String>
+    <String List="2">
+      <Source>The northern wolf ruled the earth and roamed the dense forest; Tracking game and spilling blood all for Hircine's glory.</Source>
+      <Dest>北方之狼统治了这片土地，漫步于茂密的森林；追踪猎物以及杀戮全部是为了海尔辛的荣光。</Dest>
+    </String>
+    <String List="2">
+      <Source>Crantius satisfied himself without dignity or remorse, from across the farm, the animals bayed in protest.</Source>
+      <Dest>[克拉西奥斯毫无廉耻可言，他穿过农场，就连动物都会大声抗议 。</Dest>
+    </String>
+    <String List="2">
+      <Source>Urzub is a fine host, and it is by virtue of his hunting skill that we are blessed with this current feast. </Source>
+      <Dest>乌祖是个好主人，正是凭借他出色的狩猎技能，我们才能享受现在这顿大餐。</Dest>
+    </String>
+    <String List="2">
+      <Source>That may be true of someone with your education and intellectual vigor, but we common folk must really on estimates.</Source>
+      <Dest>也许对你们这些受过教育的聪明人来说是没错，可我们这些平头百姓只能靠蒙的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the champion denies his destiny, and dooms the world to darkness.  I do hope you reconsider.</Source>
+      <Dest>于是勇士否定了他的命运，把世界陷入黑暗之中。我强烈要求你重新考虑下。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, the popularity of the bard's song has persisted, and now even the whale has conceded there is profit in another's brand name.</Source>
+      <Dest>然而，吟游诗人的诗歌所带来的热潮未曾消退过，而现在，甚至连业界大鳄都开始关注起这另一个品牌所带来的利益了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It hunted foxes, rabbits, chickens and all that it knew how; until the day it met the hawk perched up on a bough.</Source>
+      <Dest>它猎杀狐狸，兔子，鸡以及所有它知道如何猎杀的动物，直到某一天它看见了枝头上栖息着的鹰。</Dest>
+    </String>
+    <String List="2">
+      <Source>The maid was not one of mortal form, for on sunlit days she grazed on the pasture.</Source>
+      <Dest>女仆不是凡人形象之一，在一个阳光明媚的日子里她在草原上放牧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet no sooner did I turn around that a great big dragon swept overhead, the force of which catapulted me into the water.</Source>
+      <Dest>还没等我转过身来那只巨大无比的龙就直接在我头顶上方挥了一下翅膀，那力道强得直接把我刮进了水里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had recently absconded from Druadach Redoubt with two bottles of refreshment on my person when I arrived at the bank of the river.  </Source>
+      <Dest>我最近随身带着两瓶饮料从逐达奇据点逃了出来，我那时正好到了河边儿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>They plan to replicate the original recipe, but alas not the recipe that inspired the song.</Source>
+      <Dest>他们打算复制原有的配方，但可惜的不是那个给曲子带来灵感的配方。</Dest>
+    </String>
+    <String List="2">
+      <Source>The hawk mocked the wolf who lay exhausted from the chase; then swooped and stole the wolf's kill, leaving it in shame.</Source>
+      <Dest>老鹰嘲笑那追逐猎物疲惫不堪的狼；然后一个猛扑偷走了狼的猎物，留给它的只是耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf clenched its teeth and filled its heart with fearsome wrath; until it saw wisdom in the hawk's ventured path;</Source>
+      <Dest>狼紧咬牙齿内心充满了愤怒，直到它智慧的看到了雄鹰的冒险之路;</Dest>
+    </String>
+    <String List="2">
+      <Source>However, the choice proved to be his downfall, for the guards, prone to acts of inebriation, quickly confiscated his wagon.</Source>
+      <Dest>然而，这个选择造成了他的垮台，因为那些嗜酒的卫兵迅速的没收了他的马车。</Dest>
+    </String>
+    <String List="2">
+      <Source>This travesty of justice must be rectified immediately, and that is the quest I would have you endure.</Source>
+      <Dest>这歪曲的公正必须得到纠正，这是你必须服从的命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, our guest may find that after a bottle of refreshment and some time by the campfire, the words flow faster than the Karth itself.</Source>
+      <Dest>尽管如此，我们的客人还是会在一些接触之后就了解的。言谈交流可比Karth河水流的还快。</Dest>
+    </String>
+    <String List="2">
+      <Source>The truth shocks you, as it should. However, your reactionary denial will soon transform to acceptance.</Source>
+      <Dest>想必真相会让你震惊的。不过，你出于守旧心理的反对情绪很快就会转变为欣然接受的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What we are doing is curing the masses of their ignorance. You will lift the fog that covers their minds through the imbibing of clean refreshment.</Source>
+      <Dest>我们所做的事就是矫正民众的愚昧。你喝掉一些干净的茶点更能教他们觉得云里雾里。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is with much regret I say "Doubtful," for the mead wars have claimed many in our time and times passed.</Source>
+      <Dest>我很遗憾我说了“有待商榷”，蜜酒在上战争于我们的年代被无数次发起现在过去了这么多年依然没什么太大变化。</Dest>
+    </String>
+    <String List="2">
+      <Source>For I speak of a grand quest, a romantic epic to return Mogo's Mead to its former glory.</Source>
+      <Dest>为了我提到的那个伟大的任务，让莫戈的蜂蜜酒地回复往日的荣耀的浪漫史诗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ahem. O, Crantius, my spouse, my licentious betrayer, your legend is lies, lurid and false; your conquest of the maid, a con for the ages;</Source>
+      <Dest>Ahem. O, Crantius, 我的另一半，我淫乱的背叛者，你的传说苍白无力且充满谎言；你只能忽悠下女佣，不合时宜。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have a meticulous eye, traveler. Yet to answer your query, I must first tell you a story.</Source>
+      <Dest>你眼睛还真尖，旅行者。但要回答你的问题，我先得讲一个故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>As our most timely and honored guest, it is not my place to disagree.  Nor will I deny any other flatteries you wish to send my way.</Source>
+      <Dest>你是我们最尊贵的客人，我不该反对的。同样的我也不会拒绝你的任何奉承.</Dest>
+    </String>
+    <String List="2">
+      <Source>There was once a peddler from Elsweyr, who sought to bring a barrel of the finest refreshments to his cousin in Skyrim.</Source>
+      <Dest>在艾斯维尔曾经有一个小贩，想给他那在天际的表亲带一桶最棒的新货。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undaunted, he sought to smuggle them inside bottles of a popular brand of mead, brewed by a local man named Mogo.</Source>
+      <Dest>他大胆地设法把它们藏在一种著名的蜂蜜酒瓶里，那种酒是一个叫莫戈的当地人酿的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Viewing the campfire in proximity of the Dwarven ruin, I attempted to cross the river, warily dipping my toes into the rushing current.</Source>
+      <Dest>近距离观察者矮人遗迹里的篝火，我试图趟过那条河，小心翼翼地把自己的脚尖探进湍急的水流中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Word has traveled to our ears of a party to test the idea of reintroducing Mogo's Mead to Skyrim, but under the whale's banner.</Source>
+      <Dest>一个再引入莫戈的蜂蜜酒到天际省的想法的宴会的段子在我们耳边飘过，不过在whale's banner水平之下。</Dest>
+    </String>
+    <String List="2">
+      <Source>If they are true students of history, they would. Alas, these days people confuse the erudite with the recondite, and the artful with the arcane.</Source>
+      <Dest>如果他们真的是历史系的学生，那么他们会的。哎呀，最近人们总是以为博学多才就是油嘴滑舌，有点伤神啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was rather embarrassing, although I took some consolation in the fact that I was not the first to drown in such an inglorious manner.  </Source>
+      <Dest>真是尴尬啊，不过还好听说我不是第一个被这种没品的事烦死的人</Dest>
+    </String>
+    <String List="2">
+      <Source>The bottles we store at this camp represent a harking back to that day, to the true spirit of the bard's tune.</Source>
+      <Dest>我们保存在这个营地里的瓶子象征着那一天的回响，那里保存着吟游诗人曲子里的真正精神所在。</Dest>
+    </String>
+    <String List="2">
+      <Source>Surely you know the difference between the laws of man and the laws of the Divines? If a Jarl were to outlaw breath, would you adhere to it?</Source>
+      <Dest>你知道人的法律的圣灵的法律之间的区别吗？如果一个领主宣布呼吸是违法的，你能遵循吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, those who governed the Empire frowned upon the imbibing of clean, savory drinks.</Source>
+      <Dest>不幸的是，那些统治帝国的人在喝到干净、香甜的饮料时却会皱起眉头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take this case, replace the one in their cellar. Transform their dour drudgery into the Drink of the Divines!</Source>
+      <Dest>带上这个盒子，用它替换掉储藏间里那个。把那些无趣的劣酒变成诸神的饮品吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>It is then that you will cease to denigrate our cause. No, you will champion it as the vanguard in a great quest to restore the glory of Mogo's Mead!</Source>
+      <Dest>到那时候你就不会再反对我们的理由。是的，不会，而且还要像个光荣的先锋官一样支持我们，恢复莫戈的蜂蜜酒的荣耀！</Dest>
+    </String>
+    <String List="2">
+      <Source>It once was, and it will again, if you will lend this troubadour you ear.</Source>
+      <Dest>曾经是，未来也是，【除非你要把你的耳朵借给这个游吟诗人】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course not. You would inhale it lustily, and defy all those who sought to purloin it!</Source>
+      <Dest>当然不会。你会贪婪的吸它，然后赶走所有胆敢抢走它的人！</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf changed its tactics from a hunter of the day; to one that chases tired beasts from their rightful prey;</Source>
+      <Dest>当时狼改变了对猎人的战术；猎人则是为了他们正直的牺牲者而追逐着那只疲倦的野兽；</Dest>
+    </String>
+    <String List="2">
+      <Source>I fought the current, kicking and gulping, and in my tantrum I managed to wedge my leg between two rocks.</Source>
+      <Dest>我现在打架的时候，总是到处乱踢还吐口水。尤其是我非常生气的时候，还把自己的腿踢进了两块石头中间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, dear guest, it was not more than 20 paces from where you stand.  If this answer perplexes you, allow me to recount the events that transpired.</Source>
+      <Dest>为什么，亲爱的客人，它就在距离你20步的地方。如果这个答案让你困惑，就让我重新给你说说事情的原委。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fret not, traveler, for it still can! We must contravene against the tyranny of honey so that all may know the glory of moon sugar!</Source>
+      <Dest>烦恼,旅行者,因为它还可以! 我们必须反对蜂蜜的暴政，那样所有人会知道月亮糖的美妙！</Dest>
+    </String>
+    <String List="2">
+      <Source>This drew Hircine's ire, his rage and his might; for upon the wolf he cast a curse that came on moonless nights;</Source>
+      <Dest>这招致了海尔辛的不满，愤怒和力量；在没有月光的夜晚他在狼群中释放了诅咒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. A case of the finest Mogo's Mead, specially brewed for added clarity.</Source>
+      <Dest>这个，一瓶最好的莫戈的蜂蜜酒，尤其是被酿造的格外清澈的这种。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>O, Olaf, our subjugator, the one-eyed betrayer; death-dealing demon...</Source>
+      <Dest>喔，奥拉夫，我们的征服者，一只眼的叛逆者；跟死亡作对的怪物……</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hearing I ask, from the holy races, Ysgramor's sons, both high and low...</Source>
+      <Dest>听我说，不论贵贱……这都是源自神圣种族的伊思格拉谟之子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mortals were born and spread over Mundus, swearing fealty to the mudcrabs who presided as kings;</Source>
+      <Dest>凡人们出生并遍及于凡间, 宣誓效忠于像国王那样管理着他们的泥沼蟹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of old was the age when Anu lived, earth, mountains, nor wind was there; Stars had not been, nor sky above, nor forests nor rivers nor ocean waves;</Source>
+      <Dest>在阿努还活着的古老的过去, 这个地方没有土地，没有山脉，没有微风，也没有星辰，没有天空，没有森林，没有河流也没有海浪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of old was the age when Anu lived, earth, mountains, nor wind was there; Stars had not been, nor sky above, nor forests nor rivers nor ocean waves;</Source>
+      <Dest>在阿努还活着的古老的过去, 这个地方没有土地，没有山脉，没有微风，也没有星辰，没有天空，没有森林，没有河流也没有海浪。</Dest>
+    </String>
+    <String List="2">
+      <Source>For both man and beast were pitiful creatures, too parched to speak, throats dry with no voice;</Source>
+      <Dest>人类和野兽都是可怜的生物。口干舌燥以至于张口结舌。</Dest>
+    </String>
+    <String List="2">
+      <Source>An interesting proposition, gallant Urzub, but without the amulet, how would you comprehend my verse?</Source>
+      <Dest>英勇的乌祖，这真是个有趣的提议，不过没有护身符的话，你又要如何去理解我的诗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alas, I cannot Urzub.  Did we not agree that a cool beverage is a far better remedy?</Source>
+      <Dest>唉，我不行乌祖。不认为我们现在比起治疗来一杯冰饮更好么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alone in the dark she shouted to silence and silence answered her call; When Sithis spoke the cold was warm and in the void the Gods were birthed;</Source>
+      <Dest>在孤独的幽暗中她向寂静呐喊，而寂静回应了她；当 Sithis 在寒冷中注入温暖，神灵们就从虚无中诞生。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alone in the dark she shouted to silence and silence answered her call; When Sithis spoke the cold was warm and in the void the Gods were birthed;</Source>
+      <Dest>在孤独的幽暗中她向寂静呐喊，而寂静回应了她；当 Sithis 在寒冷中注入温暖，神灵们就从虚无中诞生。</Dest>
+    </String>
+    <String List="2">
+      <Source>Padomay sought to give birth to life from the nothing of nowhere; yet all Anu did was yawn, scratch and belch through each passing phase;</Source>
+      <Dest>Padomay被迫从绝境中求生；而这段时间 Anu 只会打哈欠，挠痒，打嗝；</Dest>
+    </String>
+    <String List="2">
+      <Source>Padomay sought to give birth to life from the nothing of nowhere; yet all Anu did was yawn, scratch and belch through each passing phase;</Source>
+      <Dest>Padomay被迫从绝境中求生；而这段时间 Anu 只会打哈欠，挠痒，打嗝；</Dest>
+    </String>
+    <String List="2">
+      <Source>No polishing of spears or lifting of tails, no kneading of loaves did this courtship endure;</Source>
+      <Dest>没有被抛光的矛也没有翘起的尾巴，[没有揉搓的面包让这爱情持久]；</Dest>
+    </String>
+    <String List="2">
+      <Source>No polishing of spears or lifting of tails, no kneading of loaves did this courtship endure;</Source>
+      <Dest>没有被抛光的矛也没有翘起的尾巴，[没有揉搓的面包让这爱情持久]；</Dest>
+    </String>
+    <String List="2">
+      <Source>Mogo's mead, Mogo's mead, The only drink we'd e'er need; Take a flask and take a seat, And drink thyself a sweety-treat!</Source>
+      <Dest>莫戈的蜜酒最是好，尝过你就忘不了。拿起一瓶随便坐，喝了温暖你心窝！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before the birth of dragons, the mudcrabs ruled Mundus, their word was the Claw, and they spoke only by pinching.</Source>
+      <Dest>在龙出现以前，泥沼蟹统治着梦达思，它们什么都不会，只知道用钳子夹东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The northern wolf ruled the earth and roamed the dense forest; Tracking game and spilling blood all for Hircine's glory.</Source>
+      <Dest>北方之狼统治了这片土地，漫步于茂密的森林；追踪猎物以及杀戮全部是为了海尔辛的荣光。</Dest>
+    </String>
+    <String List="2">
+      <Source>Crantius satisfied himself without dignity or remorse, from across the farm, the animals bayed in protest.</Source>
+      <Dest>[克拉西奥斯毫无廉耻可言，他穿过农场，就连动物都会大声抗议 。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink ye merry, drink ye thirsty, Bring thy crew n'revel freely; For on one thing we're all agreed, That Mogo made the finest mead!</Source>
+      <Dest>渴了要喝酒高兴了也要喝，让你的船员都狂欢唱歌；有一件事我们都知晓啊，莫格的蜜酒最好喝！</Dest>
+    </String>
+    <String List="2">
+      <Source>But the mistress stood strong.  House Colto's truest protector; Her vengeance was instant, inconsolable death;</Source>
+      <Dest>可那女主人坚定不移。Colto 家族的真正守护者。她的复仇是坚决果断，斩草除根的【杀戮】；</Dest>
+    </String>
+    <String List="2">
+      <Source>But the mistress stood strong.  House Colto's truest protector; Her vengeance was instant, inconsolable death;</Source>
+      <Dest>可那女主人坚定不移。Colto 家族的真正守护者。她的复仇是坚决果断，斩草除根的【杀戮】；</Dest>
+    </String>
+    <String List="2">
+      <Source>It hunted foxes, rabbits, chickens and all that it knew how; until the day it met the hawk perched up on a bough.</Source>
+      <Dest>它猎杀狐狸，兔子，鸡以及所有它知道如何猎杀的动物，直到某一天它看见了枝头上栖息着的鹰。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kyne took pity and brought mortals nightshade and moon sugar, to ferment and bottle and smoke through burnt leaf;</Source>
+      <Dest>凯恩怀着同情带来了凡人龙葵和月亮糖，通过点燃叶子来发酵、装瓶、吸食；</Dest>
+    </String>
+    <String List="2">
+      <Source>The maid was not one of mortal form, for on sunlit days she grazed on the pasture.</Source>
+      <Dest>女仆不是凡人形象之一，在一个阳光明媚的日子里她在草原上放牧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The hawk mocked the wolf who lay exhausted from the chase; then swooped and stole the wolf's kill, leaving it in shame.</Source>
+      <Dest>老鹰嘲笑那追逐猎物疲惫不堪的狼；然后一个猛扑偷走了狼的猎物，留给它的只是耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf clenched its teeth and filled its heart with fearsome wrath; until it saw wisdom in the hawk's ventured path;</Source>
+      <Dest>狼紧咬牙齿内心充满了愤怒，直到它智慧的看到了雄鹰的冒险之路;</Dest>
+    </String>
+    <String List="2">
+      <Source>O, Crantius, my spouse, my licentious betrayer, your legend is lies, lurid and false; your conquest of the maid, a con for the ages;</Source>
+      <Dest>哦，克兰蒂乌斯，我的爱人，我放荡的的背叛者，你的传奇是谎言，苍白而虚伪；你征服了那个女仆，是一个时代性的欺骗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why hello stranger whom I have never met before!  I hope you are enjoying the party!</Source>
+      <Dest>你好啊陌生人！我之前从没见过你，希望你享受这个派对！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your fears are unwarranted Urzub.  As long as I am here, our throats will never go dry.</Source>
+      <Dest>你的担心是毫无必要的，乌祖。只要我还在这里，我们就永远不会挨渴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Urzub, perhaps it's best we make a strategic exit.</Source>
+      <Dest>乌祖，或许我们做战略性撤退是最好的办法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly, I hope that my recital does this piece justice.  Ahem.  </Source>
+      <Dest>当然，我希望能在音乐会上演奏好这首曲子。嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>An excellent rendition!  You are truly a bard worthy of passing on the tradition of the Poetic Edda. </Source>
+      <Dest>表演的真棒！你是个真正的吟游诗人，值得将艾达诗歌集的传统传承下去。 </Dest>
+    </String>
+    <String List="2">
+      <Source>However, a discerning palate knows there is one ingredient far sweeter than honey. To the locals, it is known as Moon Sugar.</Source>
+      <Dest>然而呢，味觉敏锐的人能够辨别出里面有一种材料比蜂蜜要甜的多。当地人叫它月亮糖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ahem. O, Crantius, my spouse, my licentious betrayer, your legend is lies, lurid and false; your conquest of the maid, a con for the ages;</Source>
+      <Dest>Ahem. O, Crantius, 我的另一半，我淫乱的背叛者，你的传说苍白无力且充满谎言；你只能忽悠下女佣，不合时宜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't fret, my associate.  The barrel is stocked and the beverages are cold. </Source>
+      <Dest>不要焦躁，我的同伴。那些酒桶被很好地储藏着，里面的酒也都是冷的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mogo's mead, Mogo's mead, the only drink we'd e'er need! Take a flask and take a seat, and drink thyself a sweety-treat!</Source>
+      <Dest>【歌词待校对】莫戈莫戈的蜂蜜酒，莫戈莫戈的蜂蜜酒，人只要这酒就够！找个座来拿一瓶，醍醐灌顶百病走！</Dest>
+    </String>
+    <String List="2">
+      <Source>Urzub, does this skeever look overcooked to you?  It would not be prudent to burn the steak of our honored guest.</Source>
+      <Dest>乌祖,这玩意儿是不是烤得过了? 要用烧焦的肉排来招待我们尊贵的客人不太好吧.</Dest>
+    </String>
+    <String List="2">
+      <Source>And so ends the story of Crantius the liar; a deviant and a scoundrel whom we commit to the fire.</Source>
+      <Dest>那么结束骗子克兰蒂乌斯的故事吧；一个叛经离道，一个我们想把他投进火里的人的故事吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps you will critique my own reciting of a similar creation verse.  Ahem.</Source>
+      <Dest>搞不好你会讽刺我用如此相像的诗句来描述。呃哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew meself a maiden fair, With em'rald eyes and fire-red hair; She owned a tavern by the sea, And served warm drinks of mellow honey!</Source>
+      <Dest>处子当垆貌无双，赤发碧眼秋波长。小村酒旗当海潮，温醅蜜酿随风香。</Dest>
+    </String>
+    <String List="2">
+      <Source>For it's death and emptiness who in the end is the true father of all; and when we leave this mortal coil it's to Sithis that we return.</Source>
+      <Dest>为此最终的死亡和虚无才是一切起源；并且当我们舍弃一切尘世的牵挂时，我们才能回归西帝斯的怀抱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink ye merry, drink ye thirsty, bring thy crew 'n revel freely!  For on one thing we're all agreed, that Mogo made the finest mead!</Source>
+      <Dest>【歌词待校对】喝个痛快，喝个大饱，让你的船员们自由狂欢吧！我们一致认为，莫戈的蜂蜜酒天下无双！</Dest>
+    </String>
+    <String List="2">
+      <Source>For the pincer could clamp the flower and turn it crooked, or leave nasty welts on hides and scales;</Source>
+      <Dest>因为钳子可以夹花，让它屈身，或者留下难看的伤痕在皮和鳞上。</Dest>
+    </String>
+    <String List="2">
+      <Source>The mortals were brave and unafraid of the Claw, but the mudcrabs clamped them and pinched them until they fell to their knees;</Source>
+      <Dest>英勇无畏的凡人并不惧怕巨螯，但是那些沼泽蟹挥舞着双螯，钳住、收紧，直到他们奄奄一息地跪在地上，再也无力动弹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive my rudeness, but if you will allow me to recite a similar verse, I would be most pleased.  As our guest, you may judge its worthiness.</Source>
+      <Dest>原谅我的失礼，但如果你能容许我咏诵类似的一小节，我会非常满足。作为我们的贵客，你可以裁量它的价值。。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf's fur was stripped, down to the last strand; and until the moons returned, he walked the earth as a mortal man.</Source>
+      <Dest>狼的毛皮剥除了，只剩小小一条；直到月光重新照亮夜空，他就像普通人一样游荡着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh that was rather brilliant!  Although traditionally in The Reach we prefer a slightly less grandiloquent reading of the Poetic Edda.</Source>
+      <Dest>哦太棒了！尽管在边陲领的传统中我们更习惯不这么夸张地朗诵艾达诗歌集。</Dest>
+    </String>
+    <String List="2">
+      <Source>Run!</Source>
+      <Dest>撤！</Dest>
+    </String>
+    <String List="2">
+      <Source>Urzub, I dare say, it is an opportune time for a song.</Source>
+      <Dest>乌祖，我敢说，现在正适合纵情高歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good tidings.</Source>
+      <Dest>好消息。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew meself a maiden fair, with em'rald eyes and fire-red hair!  She owned a tavern by the sea, and served warm drinks of mellow honey!</Source>
+      <Dest>【歌词待校对】少女如花正美貌，赤发碧眼秋波长！海边开家小酒馆儿，蜜酒下肚口芬香！</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the best mead is made from the sweetest honey. </Source>
+      <Dest>他们说最好的蜜酒是用最甜的蜂蜜酿制的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf changed its tactics from a hunter of the day; to one that chases tired beasts from their rightful prey;</Source>
+      <Dest>当时狼改变了对猎人的战术；猎人则是为了他们正直的牺牲者而追逐着那只疲倦的野兽；</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a tribute to the most delectable refreshment in all of Skyrim. Mogo's Mead.</Source>
+      <Dest>这一向是天际省最佳美味. 莫戈的蜂蜜酒.</Dest>
+    </String>
+    <String List="2">
+      <Source>This drew Hircine's ire, his rage and his might; for upon the wolf he cast a curse that came on moonless nights;</Source>
+      <Dest>这招致了海尔辛的不满，愤怒和力量；在没有月光的夜晚他在狼群中释放了诅咒。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Crantius satisfied himself without dignity or remorse, from across the farm, the animals bayed in protest.</Source>
+      <Dest>[克拉西奥斯毫无廉耻可言，他穿过农场，就连动物都会大声抗议 。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the mistress stood strong.  House Colto's truest protector; Her vengeance was instant, inconsolable death;</Source>
+      <Dest>可那女主人坚定不移。Colto 家族的真正守护者。她的复仇是坚决果断，斩草除根的【杀戮】；</Dest>
+    </String>
+    <String List="2">
+      <Source>The maid was not one of mortal form, for on sunlit days she grazed on the pasture.</Source>
+      <Dest>女仆不是凡人形象之一，在一个阳光明媚的日子里她在草原上放牧。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so ends the story of Crantius the liar, a deviant and a scoundrel whom we commit to the fire.</Source>
+      <Dest>这样，大骗子的故事就结束了,这卑鄙无耻的阴险小人，人民将他投到火里。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
