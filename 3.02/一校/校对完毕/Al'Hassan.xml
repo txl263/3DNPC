@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,588 +7,604 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>The bees aren't that big of deal. I've only been stung 8 times so far.</Source>
-      <Dest>那些蜜蜂不是什么大不了的事。我目前为止也只被叮了八口。</Dest>
-    </String>
-    <String List="0">
-      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
-      <Dest>要是我想锻造一把弯刀的话该怎么办，你能教我吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
-      <Dest>要是我想锻造一把弯刀的话该怎么办，你能教我吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
-      <Dest>要是我想锻造一把弯刀的话该怎么办，你能教我吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you have for sale?</Source>
-      <Dest>你有什么要卖的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you have for sale?</Source>
-      <Dest>你有什么要卖的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you have for sale?</Source>
-      <Dest>你有什么要卖的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you have for sale?</Source>
-      <Dest>你有什么要卖的？</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think you're a smith. This is all some ruse to move cheap scimitars.</Source>
-      <Dest>我不认为你是个铁匠。这些不过是为了让弯刀变得廉价而耍的伎俩。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do the rumors about Falion say?</Source>
-      <Dest>他们是怎么说法利昂的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do the rumors about Falion say?</Source>
-      <Dest>他们是怎么说法利昂的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting. I'd like to buy one.</Source>
-      <Dest>听起来很不错。我想买一把。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting. I'd like to buy one.</Source>
-      <Dest>听起来很不错。我想买一把。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting. I'd like to buy one.</Source>
-      <Dest>听起来很不错。我想买一把。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was under the impression a good craftsman never blames his tools.</Source>
-      <Dest>在我的印象中，一个优秀的工匠从来不会抱怨他的工具不称手。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was under the impression a good craftsman never blames his tools.</Source>
-      <Dest>在我的印象中，一个优秀的工匠从来不会抱怨他的工具不称手。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what happened to the blacksmiths?</Source>
-      <Dest>那么那个铁匠出了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>So what happened to the blacksmiths?</Source>
-      <Dest>那么那个铁匠出了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>So what happened to the blacksmiths?</Source>
-      <Dest>那么那个铁匠出了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the one on your table?</Source>
-      <Dest>那你桌上的那一把呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the one on your table?</Source>
-      <Dest>那你桌上的那一把呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the one on your table?</Source>
-      <Dest>那你桌上的那一把呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>For all I know you looted it off one of your dead brothers.</Source>
-      <Dest>我看这东西是你从你死掉的兄弟们身上洗劫来的吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
-      <Dest>你的锻造技能在落锤省没什么用场？要是梭默入侵呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
-      <Dest>你的锻造技能在落锤省没什么用场？要是梭默入侵呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
-      <Dest>你的锻造技能在落锤省没什么用场？要是梭默入侵呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
-      <Dest>你的锻造技能在落锤省没什么用场？要是梭默入侵呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Your shop seems to be infested with bees.</Source>
-      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your shop seems to be infested with bees.</Source>
-      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your shop seems to be infested with bees.</Source>
-      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your shop seems to be infested with bees.</Source>
-      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can take care of the bees.</Source>
-      <Dest>我会去处理那些蜜蜂的。</Dest>
-    </String>
-    <String List="0">
       <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
-      <Dest>也许我该问问我的阿利克尔朋友们对你的解释有什么看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Curved swords?  What's next, square shields?</Source>
-      <Dest>弯刀？接下来是什么，方盾吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you the local blacksmith?</Source>
-      <Dest>你是本地的铁匠吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>My mistake.  I suppose I'm just naturally suspicious.</Source>
-      <Dest>我错了。我想我只是太多疑了。</Dest>
-    </String>
-    <String List="0">
-      <Source>My mistake.  I suppose I'm just naturally suspicious.</Source>
-      <Dest>我错了。我想我只是太多疑了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, I've met an Orc bard, so I guess anything's possible.</Source>
-      <Dest>呃，我遇见了一个兽人吟遊诗人，这让我觉得天底下没有不可能的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, I've met an Orc bard, so I guess anything's possible.</Source>
-      <Dest>呃，我遇见了一个兽人吟遊诗人，这让我觉得天底下没有不可能的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Falion let you set up near his home?</Source>
-      <Dest>法利昂让你在他家旁边开店？</Dest>
-    </String>
-    <String List="0">
-      <Source>Falion let you set up near his home?</Source>
-      <Dest>法利昂让你在他家旁边开店？</Dest>
-    </String>
-    <String List="0">
-      <Source>Falion let you set up near his home?</Source>
-      <Dest>法利昂让你在他家旁边开店？</Dest>
-    </String>
-    <String List="0">
-      <Source>Falion let you set up near his home?</Source>
-      <Dest>法利昂让你在他家旁边开店？</Dest>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
       <Source>No, wait!  You're right.  I haven't been completely honest with you.  As you say, I am not what I seem.</Source>
       <Dest>不，等一等！你说得对，我的确没有跟你说实话。就如你所说，我不是看上去那样。</Dest>
     </String>
-    <String List="2">
-      <Source>Business is fine, but home is a bit tense.  With all the talk about Falion, you'd think Jonna would step up to defend him.</Source>
-      <Dest>生意还算不错，但家里的气氛还有些紧张。大家都对法利昂指指点点，你还认为乔娜会为他站出来吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>So like I said, all in all not an ideal situation, but not entirely a bad one.  That, and he's the only one who had the space.</Source>
-      <Dest>所以就像我说的，虽然一切都不是很理想，但也并不完全糟糕。而且他是唯一一个有地方借我的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Tools matter every bit as the man.</Source>
-      <Dest>工具的重要性跟使用它的人不相上下。</Dest>
-    </String>
-    <String List="2">
-      <Source>And yet you wish for me to pass this knowledge as if it were the time of day.  I am no sorcerer, sirrah.</Source>
-      <Dest>你难道以为这是稍加练习就能学会的本事吗？我可不是巫师啊，老兄。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, the townsfolk say he raises the dead and molests children or something absurd like that.</Source>
-      <Dest>哦，那些村民都说他会做些召唤死尸、猥亵儿童之类的荒谬事。</Dest>
-    </String>
-    <String List="2">
-      <Source>Blades, helmets, pretty much anything that suits your needs.</Source>
-      <Dest>武器啊，盔甲啊，差不多你需要的应有尽有。</Dest>
-    </String>
-    <String List="2">
-      <Source>The blacksmiths in Hammerfell dedicate nearly half their lives to learning their craft.</Source>
-      <Dest>落锤省的铁匠利用出他们近半生的时间去增进他们的手艺。</Dest>
-    </String>
-    <String List="2">
-      <Source>During the height of the war, blacksmiths were said to be in high demand as the Dominion spread its tendrils over the southern coast.</Source>
-      <Dest>在战事最纷乱的时候，铁匠是个高度需求的职业，因为梭默已经延伸到南部海岸一带。</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps sirrah, you would be so kind as to recommend my wares to him.</Source>
-      <Dest>老兄，也许你能好心的向他推荐我的作品。</Dest>
-    </String>
-    <String List="2">
-      <Source>You jest, but you only mock yourself.  After all, it's the nature of men to jape at what they don't understand.</Source>
-      <Dest>继续嘲笑吧，但这只会显得你更愚蠢。毕竟，人就只会嘲笑一些他们不了解的事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>Actually, the Thalmor are precisely why I'm here in Skyrim. </Source>
-      <Dest>其实，梭默正是我来天际省的原因。</Dest>
-    </String>
-    <String List="2">
-      <Source>It seems, however, that many in this land are cautious to trust, but hasty to judge.  Make sure you don't make the same mistake.</Source>
-      <Dest>可是看起来，这儿的人会很谨慎的决定相信什么，但却会做出草率的判断。你一定不要犯同样的错误。</Dest>
-    </String>
-    <String List="2">
-      <Source>Which is what happens when you're a master conjurer and choose to adopt a small child.  As if mages can't be fathers too.</Source>
-      <Dest>你想想看，如果你在掌握着巫术的同时决定收养一个小孩儿，能有什么事发生。说的就好像法师不能身为人父似的。</Dest>
-    </String>
-    <String List="2">
-      <Source>When Ulfric started his rebellion, I stowed on the first ship to Solitude like a fly chasing manure.</Source>
-      <Dest>当乌弗瑞克开始他的叛乱时，我踏上头一艘开往孤独城的船，行疾如飞的追赶着这帮渣渣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Looking to protect yourself, or deal some damage?</Source>
-      <Dest>你想自卫保命还是进攻至上？</Dest>
-    </String>
-    <String List="2">
-      <Source>It also serves as an example of my previous work with which I can compare craftsmanship.</Source>
-      <Dest>它可以与我过去做的弯刀做比较，让我的技术更精进。</Dest>
-    </String>
-    <String List="2">
-      <Source>Benor came by the other day asking if I made "those curved Akaviri weapons."  The ignorance of these brutes continues to astound me.</Source>
-      <Dest>有一天本诺来问我能不能造些"七扭八歪的阿卡维尔武器"。这班畜生的无知还是让我很震惊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm not sure she understands the distinction.</Source>
-      <Dest>我不知道她到底明不明白这有什么区别。</Dest>
+    <String List="0">
+      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
       <Source>I have a contact at the East Empire Company.  He supplies me with the scimitars, but I assure you, they're legitimately made. </Source>
       <Dest>我和东帝国贸易公司有些联系。他为我供应弯刀，但我向你保证，它们都锻造得十分正宗。</Dest>
     </String>
-    <String List="2">
-      <Source>Ah, you've met Lurbuk.  Someone should really take the rocks out of his throat.</Source>
-      <Dest>啊，你见过卢布克了。某人唱歌前真该先把他喉咙里的石头拿走。</Dest>
+    <String List="0">
+      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
-      <Source>I was going to take it down, but Agni begged me to let the infernal things live.  With most children, I tend to ignore such petulance.</Source>
-      <Dest>我本来正打算把它捅下来，但阿格尼求我让那些该死的家伙活着。如果是其他孩子说的话，我可能就会无视这般任性的请求了。</Dest>
+      <Source>The blacksmith happens to be very skilled, but wishes to remain anonymous.  My contact all but implied he was a Nord.</Source>
+      <Dest>The blacksmith happens to be very skilled, but wishes to remain anonymous.  My contact all but implied he was a Nord.</Dest>
     </String>
-    <String List="2">
-      <Source>I've picked up the blacksmith trade to maintain appearances, but as you can imagine, my scimitars lack the proper balance.</Source>
-      <Dest>我扛下了铁匠商的招牌，但就如你想像的，我的弯刀还缺乏适当平衡。</Dest>
-    </String>
-    <String List="2">
-      <Source>After all, children may be noisy as nirnroot, but their memories are as fickle as a brothel wench.</Source>
-      <Dest>毕竟，小孩都会像奈恩根一样吵闹，但他们的记忆就像家妓院里的妓女一样变幻无常。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's an absurd accusation sera, and I suggest you find some proof before you make them again, lest I call the guards.  Good day.</Source>
-      <Dest>这是个荒谬的指控！我建议你在说话前拿点证据出来，免得我去叫守卫来。再见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, the other smiths thought I was crazy. They said burly Nord men would not go for such an elegant weapon. I aim to prove them wrong.</Source>
-      <Dest>当然，我们家的其他人都认为我疯了。他们说高大魁梧的诺德人不会想要那么一件秀气的武器。我打算证明他们是错的。</Dest>
-    </String>
-    <String List="2">
-      <Source>With Agni having lost both her parents and that child in the fire, well, Falion thought it best not to add to her loneliness.</Source>
-      <Dest>阿格尼已经从火灾失去了她的父母，所以，法利昂觉得最好不要再让他感到孤独寂寞。</Dest>
-    </String>
-    <String List="2">
-      <Source>This blacksmith, this Nord, he is a master.</Source>
-      <Dest>那个诺德铁匠，他是个大师。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes sera, I own The Curved Sword.  I know it doesn't look like much, but in time it will be the finest specialty shop in all of Skyrim.</Source>
-      <Dest>是的，我是弯刀的店主。我知道它看起来没什么大不了，但假以时日，它将会是天际里最畅销的专卖店。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, you've met Lurbuk.  A shame what happened to him.  A terrible bard, but he did manage to steer business in my direction.</Source>
-      <Dest>啊，你见过卢布克了。发生在他身上的事真是各种羞耻。一个糟糕透顶的吟遊诗人，却成功让我的生意一落千丈。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, but can you handle the sobbing of a young girl?</Source>
-      <Dest>是的，但你忍心看一个小女孩的哭泣吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Without it, I cannot be certain whether the quality has been degraded by the tools I have at my disposal.</Source>
-      <Dest>没有它，我可说不准会不会因为这些破烂的工具而给我的手艺拖后腿。</Dest>
-    </String>
-    <String List="2">
-      <Source>My brothers in Hammerfell would scorn the smith who dare forego the delicate process created by our forefathers.</Source>
-      <Dest>我在落锤省的兄弟们都对那些偷工减料的锻造师表示不屑。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alas, sera, that's not for sale. I like to keep a sample for any skeptical customers who might doubt the sword's utility.</Source>
-      <Dest>啊，塞拉，这把是非卖品的。我想保留一把被顾客质疑的剑作为样本。</Dest>
+    <String List="0">
+      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
       <Source>If the Alik'r were to come and see the quality of this craftsmanship, they would demand that I construct more for the coterie.</Source>
       <Dest>如果阿利克尔的人来了见到我这身技艺，他们一定会问我要不要招揽更多人手来帮助。</Dest>
     </String>
-    <String List="2">
-      <Source>That's right. It's not an ideal location, with the inn on the other side of town, and rumors about Falion don't exactly attract my sort of customer.</Source>
-      <Dest>对。这里不是理想的地方，这的旅店都在镇子的另一边，还有些关于法利昂的谣言对我的顾客造成不利的影响。</Dest>
+    <String List="0">
+      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
-      <Source>Slow.  Agni suggested I put on a public demonstration in Solitude, but I told her I'm a blacksmith, not a warrior.</Source>
-      <Dest>不怎么样。阿格尼建议我拿上弯刀在孤独城里搞一次公开示范，但我告诉她我只是一名铁匠，而不是一个战士。</Dest>
+      <Source>I've picked up the blacksmith trade to maintain appearances, but as you can imagine, my scimitars lack the proper balance.</Source>
+      <Dest>我扛下了铁匠商的招牌，但就如你想像的，我的弯刀还缺乏适当平衡。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps I should ask my Alik'r friends what they think of your excuses.</Source>
+      <Dest>也许我该问问我的阿利克尔朋友对你的解释有什么意见。</Dest>
     </String>
     <String List="2">
-      <Source>Oh, that.  You may not have noticed, but there's a large beehive stuck to the roof over the firewood.  </Source>
-      <Dest>哦，那个。您可能没有注意到，但在那个柴火上方的屋顶有个大蜂窝黏着。</Dest>
+      <Source>This blacksmith, this Nord, he is a master.</Source>
+      <Dest>那个诺德铁匠，他是个大师。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was under the impression a good craftsman never blames his tools.</Source>
+      <Dest>我的印象是，一个优秀的工匠从来不会抱怨他的工具不称手。</Dest>
     </String>
     <String List="2">
-      <Source>Not to mention spellswords can use his enchanting table to embolden the weapons they purchase at my shop.</Source>
-      <Dest>更不用说佣兵可以用他那张附魔台来强化那些在我店里买的武器了。</Dest>
+      <Source>If that were the case, I could trade my hammer for a club and smelt iron with a stove.  On no, I'm afraid you are mistaken, sera.</Source>
+      <Dest>按你说的话，如果把槌子卖掉换成根棍子，然后用火炉炼铁也没问题咯？不，恐怕你搞错了，兄弟。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was under the impression a good craftsman never blames his tools.</Source>
+      <Dest>我的印象是，一个优秀的工匠从来不会抱怨他的工具不称手。</Dest>
     </String>
     <String List="2">
-      <Source>That being said, the very same rumors make Falion more welcoming to outsiders.  Being a fellow Redguard doesn't hurt either.</Source>
-      <Dest>话虽这么说，但同样的谣言却使得法利昂外更受外来人的欢迎。成为一个红卫人的同伴没什么坏处。</Dest>
+      <Source>Tools matter every bit as the man.</Source>
+      <Dest>工具的重要性跟使用它的人不相上下。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think you're a smith. This is all some ruse to move cheap scimitars.</Source>
+      <Dest>我知道你不是铁匠。这不是为了转移 cheap scimitars而耍的伎俩。</Dest>
     </String>
     <String List="2">
-      <Source>Take a look.</Source>
-      <Dest>随便看看。</Dest>
+      <Source>That's an absurd accusation sera, and I suggest you find some proof before you make them again, lest I call the guards.  Good day.</Source>
+      <Dest>这是个荒谬的指控！我建议你在说话前拿点证据出来，免得我去叫守卫来。再见。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've met an Orc bard, so I guess anything's possible.</Source>
+      <Dest>呃，我遇见了一个兽人吟游诗人，这让我觉得天底下没有不可能的事。</Dest>
     </String>
     <String List="2">
-      <Source>Cheap Nord weapons can be forged with just an anvil, but a scimitar is not just any sword.</Source>
-      <Dest>那些劣质的诺德武器虽然也是在铁砧上锻造出来，但弯刀可不仅仅是一把武器这么简单。</Dest>
+      <Source>Ah, you've met Lurbuk.  Someone should really take the rocks out of his throat.</Source>
+      <Dest>啊，你见过卢布克了。某人唱歌前真该先把他喉咙里的石头拿走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've met an Orc bard, so I guess anything's possible.</Source>
+      <Dest>呃，我遇见了一个兽人吟游诗人，这让我觉得天底下没有不可能的事。</Dest>
     </String>
     <String List="2">
-      <Source>I don't have to subject myself to your slander, even if you are a customer.  Either buy something or get out.</Source>
-      <Dest>就算你是一个客人，我也没理由接受你的诋毁。不买就滚蛋！</Dest>
+      <Source>Ah, you've met Lurbuk.  A shame what happened to him.  A terrible bard, but he did manage to steer business in my direction.</Source>
+      <Dest>啊，你见过卢布克了。发生在他身上的事真是各种羞耻。一个糟糕透顶的吟游诗人，却成功让我的生意一落千丈。</Dest>
     </String>
-    <String List="2">
-      <Source>Not well.  I am in need of more customers.  Although I have heard of an Argonian knight who braves the marsh south of the Folgunthur ruins.</Source>
-      <Dest>不太好。我需要更多的顾客。不过我听说一个勇敢的亚龙人骑士就在佛古恩瑟遗迹南边的沼泽。</Dest>
-    </String>
-    <String List="2">
-      <Source>These are suspicious times, sera, and caution isn't necessarily a weakness.</Source>
-      <Dest>现在是个多疑的年代啊，塞拉，小心点也不一定是错的。</Dest>
-    </String>
-    <String List="2">
-      <Source>However, after the Second Treaty of Stros M'kai was signed, there became a surplus of weapons and a sudden shortage of Thalmor.</Source>
-      <Dest>不管怎样，在斯图尔斯·麦凯岛第二条约签署过后，这里就产生了武器过生，梭默短缺的尴尬局面。</Dest>
-    </String>
-    <String List="2">
-      <Source>Unfortunately, I have yet to furnish this place with a proper forge, and haven't yet begun the process of crafting them.</Source>
-      <Dest>不幸的是，我还没找到一个合适的熔炉去锻造它们。</Dest>
-    </String>
-    <String List="2">
-      <Source>As Summerset Isle and Hammerfell are divided only by a narrow sea, many say that our kingdom is the vanguard in the defense against the Aldmeri.</Source>
-      <Dest>由于夏暮岛和落锤省只是被一道狭窄的海峡分隔开，很多人说我们的省份是抵挡梭默入侵的先锋部队。</Dest>
+    <String List="0">
+      <Source>The bees aren't that big of deal. I've only been stung 8 times so far.</Source>
+      <Dest>那些密封不是什么大问题。我目前为止也就被叮了八口。</Dest>
     </String>
     <String List="2">
       <Source>That many?  I wonder if it's possible to charge you for them.</Source>
       <Dest>有许多吗？我想知道帮你干掉它们的话有没有酬劳。</Dest>
     </String>
+    <String List="0">
+      <Source>I can take care of the bees.</Source>
+      <Dest>我会处理那些蜜蜂的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but can you handle the sobbing of a young girl?</Source>
+      <Dest>是的，但你忍心看一个小女孩的哭泣吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your shop seems to be infested with bees.</Source>
+      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, that.  You may not have noticed, but there's a large beehive stuck to the roof over the firewood.  </Source>
+      <Dest>哦，那个。您可能没有注意到，但在那个柴火上方的屋顶有个大蜂窝黏着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your shop seems to be infested with bees.</Source>
+      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was going to take it down, but Agni begged me to let the infernal things live.  With most children, I tend to ignore such petulance.</Source>
+      <Dest>我本来正打算把它捅下来，但阿格尼求我让那些该死的家伙活着。如果是其他孩子说的话，我可能就会无视这般任性的请求了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your shop seems to be infested with bees.</Source>
+      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, children may be noisy as nirnroot, but their memories are as fickle as a brothel wench.</Source>
+      <Dest>毕竟，小孩都会像奈恩根一样吵闹，但他们的记忆就像家妓院里的妓女一样变幻无常。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your shop seems to be infested with bees.</Source>
+      <Dest>你这家店是不是被蜜蜂占领了。</Dest>
+    </String>
+    <String List="2">
+      <Source>With Agni having lost both her parents and that child in the fire, well, Falion thought it best not to add to her loneliness.</Source>
+      <Dest>阿格尼已经从火灾失去了她的父母，所以，法利昂觉得最好不要再让他感到孤独寂寞。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Slow.  Agni suggested I put on a public demonstration in Solitude, but I told her I'm a blacksmith, not a warrior.</Source>
+      <Dest>不怎么样。阿格尼建议我拿上弯刀在孤独城里搞一次公开示范，但我告诉她我只是一名铁匠，而不是一个战士。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure she understands the distinction.</Source>
+      <Dest>我不知道她到底明不明白这有什么区别。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Benor came by the other day asking if I made "those curved Akaviri weapons."  The ignorance of these brutes continues to astound me.</Source>
+      <Dest>有一天本诺来问我能不能造些"七扭八歪的阿卡维尔武器"。这班畜生的无知还是让我很震惊。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>He probably saw my desert garb and assumed I was a Khajiit.</Source>
+      <Dest>He probably saw my desert garb and assumed I was a Khajiit.</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Business is fine, but home is a bit tense.  With all the talk about Falion, you'd think Jonna would step up to defend him.</Source>
+      <Dest>生意还算不错，但家里的气氛还有些紧张。大家都对法利昂指指点点，你还认为乔娜会为他站出来吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
     <String List="2">
       <Source>Although I sympathize.  Cruel as it sounds, Falion can take care of himself, and sometimes business has to come before family.</Source>
       <Dest>虽然我很同情，但是现实是残忍的，法利昂他可以照顾好自己，有时候工作比家人来得更重要。</Dest>
     </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
     <String List="2">
-      <Source>If that were the case, I could trade my hammer for a club and smelt iron with a stove.  On no, I'm afraid you are mistaken, sera.</Source>
-      <Dest>按你说的话，如果把槌子卖掉换成根棍子，然后用火炉炼铁也没问题咯？不，恐怕你搞错了，塞拉。</Dest>
+      <Source>Not well.  I am in need of more customers.  Although I have heard of an Argonian knight who braves the marsh south of the Folgunthur ruins.</Source>
+      <Dest>不太好。我需要更多的顾客。不过我听说一个勇敢的亚龙人骑士就在佛古恩瑟遗迹南边的沼泽。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's business?</Source>
+      <Dest>生意如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps sirrah, you would be so kind as to recommend my wares to him.</Source>
+      <Dest>老兄，也许你能好心的向他推荐我的作品。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the rumors about Falion say?</Source>
+      <Dest>关于法利昂的谣言是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, the townsfolk say he raises the dead and molests children or something absurd like that.</Source>
+      <Dest>哦，那些村民都说他会做些召唤死尸、猥亵儿童之类的荒谬事。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the rumors about Falion say?</Source>
+      <Dest>关于法利昂的谣言是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is what happens when you're a master conjurer and choose to adopt a small child.  As if mages can't be fathers too.</Source>
+      <Dest>你想想看，如果你在掌握着巫术的同时决定收养一个小孩儿，能有什么事发生。说的就好像法师不能身为人父似的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have for sale?</Source>
+      <Dest>你有卖什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Authentic goods, crafted by a blacksmith of Hammerfell.</Source>
+      <Dest>Authentic goods, crafted by a blacksmith of Hammerfell.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have for sale?</Source>
+      <Dest>你有卖什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Blades, helmets, pretty much anything that suits your needs.</Source>
+      <Dest>武器啊，盔甲啊，差不多你需要的应有尽有。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have for sale?</Source>
+      <Dest>你有卖什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Looking to protect yourself, or deal some damage?</Source>
+      <Dest>在找保护自己的东西，还是砍人的东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have for sale?</Source>
+      <Dest>你有卖什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Take a look.</Source>
+      <Dest>随意看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
+      <Dest>如果我想锻造一把弯刀，你能教我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You might as well ask me to turn wind into rain, and the moons into stars. </Source>
+      <Dest>You might as well ask me to turn wind into rain, and the moons into stars. </Dest>
+    </String>
+    <String List="0">
+      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
+      <Dest>如果我想锻造一把弯刀，你能教我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The blacksmiths in Hammerfell dedicate nearly half their lives to learning their craft.</Source>
+      <Dest>落锤省的铁匠利用出他们近半生的时间去增进他们的手艺。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if I wanted to craft a scimitar.  Can you train me?</Source>
+      <Dest>如果我想锻造一把弯刀，你能教我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet you wish for me to pass this knowledge as if it were the time of day.  I am no sorcerer, sirrah.</Source>
+      <Dest>你难道以为这是稍加练习就能学会的本事吗？我可不是巫师啊，老兄。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the one on your table?</Source>
+      <Dest>那你桌上的那一把呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alas, sera, that's not for sale. I like to keep a sample for any skeptical customers who might doubt the sword's utility.</Source>
+      <Dest>啊，先生，这把是非卖品的。我想保留一把被顾客质疑的剑作为样本。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the one on your table?</Source>
+      <Dest>那你桌上的那一把呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It also serves as an example of my previous work with which I can compare craftsmanship.</Source>
+      <Dest>它可以与我过去做的弯刀做比较，让我的技术更精进。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the one on your table?</Source>
+      <Dest>那你桌上的那一把呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Without it, I cannot be certain whether the quality has been degraded by the tools I have at my disposal.</Source>
+      <Dest>没有它，我可说不准会不会因为这些破烂的工具而给我的手艺拖后腿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the local blacksmith?</Source>
+      <Dest>你是本地的铁匠吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes sera, I own The Curved Sword.  I know it doesn't look like much, but in time it will be the finest specialty shop in all of Skyrim.</Source>
+      <Dest>是的，我是弯刀的店主。我知道它看起来没什么大不了，但假以时日，它将会是天际里最畅销的专卖店。</Dest>
+    </String>
+    <String List="0">
+      <Source>My mistake.  I suppose I'm just naturally suspicious.</Source>
+      <Dest>我错了。我想我只是太多疑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>These are suspicious times, sera, and caution isn't necessarily a weakness.</Source>
+      <Dest>现在是个多疑的年代啊，先生，小心点也不一定是错的。</Dest>
+    </String>
+    <String List="0">
+      <Source>My mistake.  I suppose I'm just naturally suspicious.</Source>
+      <Dest>我错了。我想我只是太多疑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems, however, that many in this land are cautious to trust, but hasty to judge.  Make sure you don't make the same mistake.</Source>
+      <Dest>可是看起来，这儿的人会很谨慎的决定相信什么，但却会做出草率的判断。你一定不要犯同样的错误。</Dest>
+    </String>
+    <String List="0">
+      <Source>For all I know you looted it off one of your dead brothers.</Source>
+      <Dest>我看这东西事你从你死掉的兄弟们身上捡来的吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to subject myself to your slander, even if you are a customer.  Either buy something or get out.</Source>
+      <Dest>就算你是一个客人，我也没理由接受你的诋毁。不买就滚蛋！</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved swords?  What's next, square shields?</Source>
+      <Dest>弯刀？接下来，方盾吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You jest, but you only mock yourself.  After all, it's the nature of men to jape at what they don't understand.</Source>
+      <Dest>继续嘲笑吧，但这只会显得你更愚蠢。毕竟，人就只会嘲笑一些他们不了解的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. I'd like to buy one.</Source>
+      <Dest>听起来很不错。我想买一把。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, I have yet to furnish this place with a proper forge, and haven't yet begun the process of crafting them.</Source>
+      <Dest>不幸的是，我还没找到一个合适的熔炉去锻造它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. I'd like to buy one.</Source>
+      <Dest>听起来很不错。我想买一把。</Dest>
+    </String>
+    <String List="2">
+      <Source>Cheap Nord weapons can be forged with just an anvil, but a scimitar is not just any sword.</Source>
+      <Dest>那些劣质的诺德武器虽然也是在铁砧上锻造出来，但弯刀可不仅仅是一把武器这么简单。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. I'd like to buy one.</Source>
+      <Dest>听起来很不错。我想买一把。</Dest>
+    </String>
+    <String List="2">
+      <Source>My brothers in Hammerfell would scorn the smith who dare forego the delicate process created by our forefathers.</Source>
+      <Dest>我在落锤省的兄弟们都对那些偷工减料的锻造师表示不屑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Falion let you set up near his home?</Source>
+      <Dest>法利昂让你在她家旁边开店？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right. It's not an ideal location, with the inn on the other side of town, and rumors about Falion don't exactly attract my sort of customer.</Source>
+      <Dest>对。这里不是理想的地方，这的旅店都在镇子的另一边，还有些关于法利昂的谣言对我的顾客造成不利的影响。</Dest>
+    </String>
+    <String List="0">
+      <Source>Falion let you set up near his home?</Source>
+      <Dest>法利昂让你在她家旁边开店？</Dest>
+    </String>
+    <String List="2">
+      <Source>That being said, the very same rumors make Falion more welcoming to outsiders.  Being a fellow Redguard doesn't hurt either.</Source>
+      <Dest>话虽这么说，但同样的谣言却使得法利昂外更受外来人的欢迎。成为一个红卫人的同伴没什么坏处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Falion let you set up near his home?</Source>
+      <Dest>法利昂让你在她家旁边开店？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not to mention spellswords can use his enchanting table to embolden the weapons they purchase at my shop.</Source>
+      <Dest>更不用说佣兵可以用他那张附魔台来强化那些在我店里买的武器了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Falion let you set up near his home?</Source>
+      <Dest>法利昂让你在她家旁边开店？</Dest>
+    </String>
+    <String List="2">
+      <Source>So like I said, all in all not an ideal situation, but not entirely a bad one.  That, and he's the only one who had the space.</Source>
+      <Dest>所以就像我说的，虽然一切都不是很理想，但也并不完全糟糕。而且他是唯一一个有地方借我的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what happened to the blacksmiths?</Source>
+      <Dest>那么那个铁匠出了什么事？</Dest>
     </String>
     <String List="2">
       <Source>Many of us were forced to become farmers...or worse. At least the men were saved the indignity of becoming a tavern wench.  </Source>
       <Dest>我们中的许多人被迫成为了农民……或者更糟。但至少那个人使我们免受成为酒馆应侍这种侮辱。</Dest>
     </String>
     <String List="0">
-      <Source>You rattled off that story like it was prepared in advance.</Source>
-      <Dest>你一口气说完了那个故事，就像是事先准备好的。</Dest>
+      <Source>So what happened to the blacksmiths?</Source>
+      <Dest>那么那个铁匠出了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>When Ulfric started his rebellion, I stowed on the first ship to Solitude like a fly chasing manure.</Source>
+      <Dest>当乌弗瑞克开始他的叛乱时，我踏上头一艘开往孤独城的船，行疾如飞的追赶着这帮渣渣。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>So what happened to the blacksmiths?</Source>
+      <Dest>那么那个铁匠出了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, the other smiths thought I was crazy. They said burly Nord men would not go for such an elegant weapon. I aim to prove them wrong.</Source>
+      <Dest>当然，我们家的其他人都认为我疯了。他们说高大魁梧的诺德人不会想要那么一件秀气的武器。我打算证明他们是错的。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
+      <Dest>你的锻造技能在落锤省没什么用场？如果梭默入侵呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, the Thalmor are precisely why I'm here in Skyrim. </Source>
+      <Dest>其实，梭默正是我来天际省的原因。</Dest>
     </String>
     <String List="0">
-      <Source>Curved swords.  They use those in Hammerfell.</Source>
-      <Dest>落锤省的人都使用弯刀。</Dest>
+      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
+      <Dest>你的锻造技能在落锤省没什么用场？如果梭默入侵呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>As Summerset Isle and Hammerfell are divided only by a narrow sea, many say that our kingdom is the vanguard in the defense against the Aldmeri.</Source>
+      <Dest>由于夏暮岛和落锤省只是被一道狭窄的海峡分隔开，很多人说我们的省份是抵挡梭默入侵的先锋部队。</Dest>
     </String>
     <String List="0">
-      <Source>Curved swords.  They use those in Hammerfell.</Source>
-      <Dest>落锤省的人都使用弯刀。</Dest>
+      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
+      <Dest>你的锻造技能在落锤省没什么用场？如果梭默入侵呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>During the height of the war, blacksmiths were said to be in high demand as the Dominion spread its tendrils over the southern coast.</Source>
+      <Dest>在战事最纷乱的时候，铁匠是个高度需求的职业，因为梭默已经延伸到南部海岸一带。</Dest>
     </String>
     <String List="0">
-      <Source>Curved swords.  They use those in Hammerfell.</Source>
-      <Dest>落锤省的人都使用弯刀。</Dest>
+      <Source>Aren't your skills needed in Hammerfell?  What if the Thalmor invade?</Source>
+      <Dest>你的锻造技能在落锤省没什么用场？如果梭默入侵呢？</Dest>
     </String>
-    <String List="0">
-      <Source>Curved swords.  They use those in Hammerfell.</Source>
-      <Dest>落锤省的人都使用弯刀。</Dest>
-    </String>
-    <String List="0">
-      <Source>An interesting story.  If that's truly the case, then I'll let you be.</Source>
-      <Dest>真是个有趣的故事。如果真是这样，那就随便你吧。</Dest>
+    <String List="2">
+      <Source>However, after the Second Treaty of Stros M'kai was signed, there became a surplus of weapons and a sudden shortage of Thalmor.</Source>
+      <Dest>不管怎样，在斯图尔斯·麦凯岛第二条约签署过后，这里就产生了武器过生，梭默短缺的尴尬局面。</Dest>
     </String>
     <String List="0">
       <Source>Nobody in Skyrim fights on horseback.</Source>
       <Dest>在天际省里没人骑马战斗的。</Dest>
     </String>
+    <String List="2">
+      <Source>Not today sera, but tomorrow, tomorrow they may.</Source>
+      <Dest>今天是没人这么做，先生，但不代表以后也不会有。</Dest>
+    </String>
     <String List="0">
-      <Source>Specialty shop?</Source>
-      <Dest>专卖店？</Dest>
+      <Source>Curved swords.  They use those in Hammerfell.</Source>
+      <Dest>落锤省的人都使用弯刀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right you are, sera.  They're the pride of Hammerfell, but I assure you, we don't make them as an affectation.</Source>
+      <Dest>你说得对，先生。它们是落锤省的骄傲，但我向你保证，我们不会把它们造得虚有其表。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved swords.  They use those in Hammerfell.</Source>
+      <Dest>落锤省的人都使用弯刀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Curving the blade is ideal for slashing, while at the same time concentrating the pressure of the edge on a specific area.</Source>
+      <Dest>一个弯曲的刀身是最理想的，因为它会把两旁的压力全部集中在一点上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved swords.  They use those in Hammerfell.</Source>
+      <Dest>落锤省的人都使用弯刀。</Dest>
+    </String>
+    <String List="2">
+      <Source>The edge cuts clean and with less resistance, and won't get stuck in your opponent like an axe or straight edge blade.</Source>
+      <Dest>一个平滑的切割面伴随着更少的阻力，使它不会像斧头或直刃剑一样卡在你的敌手身上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved swords.  They use those in Hammerfell.</Source>
+      <Dest>落锤省的人都使用弯刀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Trust me, that is not a pretty sight if you're fighting on horseback.</Source>
+      <Dest>相信我，如果骑在马上战斗发生这样的事可就完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>An interesting story.  If that's truly the case, then I'll let you be.</Source>
+      <Dest>这实情还挺有趣的。如果我遇到了会告诉你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for your discretion, sera.</Source>
+      <Dest>感谢你的这么说，先生。</Dest>
     </String>
     <String List="0">
       <Source>Specialty shop?</Source>
-      <Dest>专卖店？</Dest>
+      <Dest>专卖店？特产店？</Dest>
+    </String>
+    <String List="2">
+      <Source>You heard right sera.  The idea is to make this the only place in Skyrim that specializes in quality swords and armor native to Hammerfell.</Source>
+      <Dest>你没听错，先生。我的想法事让这里变成天际唯一一个专卖落锤省上等名剑和铠甲的地方。</Dest>
     </String>
     <String List="0">
       <Source>Specialty shop?</Source>
-      <Dest>专卖店？</Dest>
+      <Dest>专卖店？特产店？</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, it's been hard to get equipment shipped here to Morthal, even with the East Empire Company a stone's throw away.</Source>
+      <Dest>不幸的是，要把设备运来墨索尔城这里是十分困难的，即使东帝国公司是离这里不远。</Dest>
+    </String>
+    <String List="0">
+      <Source>Specialty shop?</Source>
+      <Dest>专卖店？特产店？</Dest>
+    </String>
+    <String List="2">
+      <Source>So as of now I can only sell what I can craft with the limited equipment I have here.</Source>
+      <Dest>所以我现在我只能用这些有限的设备锻造东西。</Dest>
     </String>
     <String List="0">
       <Source>I get it. You couldn't cut in Hammerfell so you go where there's no competition.</Source>
       <Dest>我懂了。你无法销入落锤省所以跑去找些没人竞争的地方。</Dest>
     </String>
     <String List="2">
-      <Source>You heard right sera.  The idea is to make this the only place in Skyrim that specializes in quality swords and armor native to Hammerfell.</Source>
-      <Dest>你没听错，塞拉。我的想法事让这里变成天际唯一一个专卖落锤省上等名剑和铠甲的地方。</Dest>
+      <Source>You wound me sera.  The blade you see before you is proof of my skill.  Any Redguard from here to Hegathe will vouch for its craftsmanship.</Source>
+      <Dest>你的话伤害了我，先生。在你面前的这把剑就是我技术精湛的证据。我想赫伽斯的红卫人都会肯担保它的工艺。</Dest>
+    </String>
+    <String List="0">
+      <Source>You rattled off that story like it was prepared in advance.</Source>
+      <Dest>你慌乱地结束那个故事，像是事先准备好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unless you have some sort of proof, I suggest you leave, sera.</Source>
+      <Dest>除非你已经有一些证据，要不然我建议你马上离开，先生。</Dest>
     </String>
     <String List="2">
       <Source>Until next time.</Source>
       <Dest>下回见。</Dest>
     </String>
     <String List="2">
-      <Source>Right you are, sera.  They're the pride of Hammerfell, but I assure you, we don't make them as an affectation.</Source>
-      <Dest>你说得对，塞拉。它们是落锤省的骄傲，但我向你保证，我们不会把它们造得虚有其表。</Dest>
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
     </String>
     <String List="2">
       <Source>Farewell.</Source>
       <Dest>再会。</Dest>
     </String>
     <String List="2">
-      <Source>You wound me sera.  The blade you see before you is proof of my skill.  Any Redguard from here to Hegathe will vouch for its craftsmanship.</Source>
-      <Dest>你的话伤害了我，塞拉。在你面前的这把剑就是我技术精湛的证据。我想赫伽斯的红卫人都会肯担保它的工艺。</Dest>
-    </String>
-    <String List="2">
-      <Source>My apologies, my lady, perhaps you could use the dagger to threaten timid men who are too polite to smack your bottom.  </Source>
-      <Dest>我的错，女士，或许你可以用把匕首来威胁那些太过于礼貌以至于没胆子来拍你屁股的害羞男人们。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>Trust me, that is not a pretty sight if you're fighting on horseback.</Source>
-      <Dest>相信我，如果骑在马上战斗发生这样的事可就完了。</Dest>
-    </String>
-    <String List="2">
-      <Source>The edge cuts clean and with less resistance, and won't get stuck in your opponent like an axe or straight edge blade.</Source>
-      <Dest>一个平滑的切割面伴随着更少的阻力，使它不会像斧头或直刃剑一样卡在你的敌手身上。</Dest>
-    </String>
-    <String List="2">
-      <Source>Pardon me sera, but are you by chance familiar with the person frequents the marsh?</Source>
-      <Dest>我很抱歉，塞拉，但你是否正好熟知正好认识一个沼泽住民？</Dest>
-    </String>
-    <String List="2">
-      <Source>Unless you have some sort of proof, I suggest you leave, sera.</Source>
-      <Dest>除非你已经有一些证据，要不然我建议你马上离开，塞拉。</Dest>
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
     </String>
     <String List="2">
       <Source>Hm?</Source>
       <Dest>嗯？</Dest>
     </String>
     <String List="2">
-      <Source>Not today sera, but tomorrow, tomorrow they may.</Source>
-      <Dest>今天是没人这么做，塞拉，但不代表以后也不会有。</Dest>
-    </String>
-    <String List="2">
-      <Source>Greetings.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>So as of now I can only sell what I can craft with the limited equipment I have here.</Source>
-      <Dest>所以我现在我只能用这些有限的设备锻造东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>I could craft you a near weightless dagger which you could slip into your waistband.</Source>
-      <Dest>我可以帮你打造一把轻便的匕首，你可以把它藏你的腰带里。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alright.</Source>
-      <Dest>好吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Unfortunately, it's been hard to get equipment shipped here to Morthal, even with the East Empire Company a stone's throw away.</Source>
-      <Dest>不幸的是，要把设备运来墨索尔城这里是十分困难的，即使东帝国公司是离这里不远。</Dest>
-    </String>
-    <String List="2">
       <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Pardon me sera, but are you by chance familiar with the person frequents the marsh?</Source>
+      <Dest>我很抱歉，先生，但你是否正好熟知正好认识一个沼泽住民？</Dest>
     </String>
     <String List="2">
       <Source>I believe he is an Argonian like yourself, but a legendary knight from a great company of fighters.</Source>
       <Dest>我相信他是个像你一样的亚龙人，但传说中的骑士来自一个杰出的战士组织。</Dest>
     </String>
-    <String List="2">
-      <Source>Curving the blade is ideal for slashing, while at the same time concentrating the pressure of the edge on a specific area.</Source>
-      <Dest>一个弯曲的刀身是最理想的，因为它会把两旁的压力全部集中在一点上。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>I thank you for your discretion, sera.</Source>
-      <Dest>感谢你的这么说，塞拉。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="2">
+      <Source>My apologies, my lady, perhaps you could use the dagger to threaten timid men who are too polite to smack your bottom.  </Source>
+      <Dest>我的错，女士，或许你可以用把匕首来威胁那些太过于礼貌以至于没胆子来拍你屁股的害羞男人们。</Dest>
+    </String>
+    <String List="2">
       <Source>Ingarte, a woman of your...sizable assets should not be without protection from the local ruffians.  </Source>
       <Dest>印卡塔，一个像你一样……富有的女人，可不该没有地痞的保护。  </Dest>
     </String>
     <String List="2">
-      <Source>Goodbye.</Source>
-      <Dest>再见。</Dest>
+      <Source>I could craft you a near weightless dagger which you could slip into your waistband.</Source>
+      <Dest>我可以帮你打造一把轻便的匕首，你可以把它藏你的腰带里。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

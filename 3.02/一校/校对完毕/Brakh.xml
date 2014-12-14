@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>The hunt begins.  Won't be but a few arrows until it ends.</Source>
+      <Dest>狩猎开始了。在射光你们的箭之前别停下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Got eyes trained on my quarry.  But hard not to see this.</Source>
+      <Dest>咱的眼睛可是练过的，所以难以无视这货。</Dest>
+    </String>
+    <String List="2">
+      <Source>Cave.  Always good hunting inside.</Source>
+      <Dest>山洞。在里面总能好好狩猎一番。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven ruin.  Foreign ground.  Bad place to hunt.</Source>
+      <Dest>矮人遗迹。异域。不适合打猎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord dead sleep here.  Bad thing to wake them.</Source>
+      <Dest>诺德人沉睡在这儿，坏事将唤醒他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>You chose Sevaris.  Now, you die!</Source>
+      <Dest>You chose Sevaris.  Now, you die!</Dest>
+    </String>
+    <String List="2">
+      <Source>Doesn't matter!  Wrong, right, hunter has but one quarry.</Source>
+      <Dest>是对是错都无关紧要！猎人也不过是个猎物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lies!</Source>
+      <Dest>说谎!</Dest>
+    </String>
+    <String List="2">
+      <Source>Now it ends, Lagdu! Sevaris' debt, paid!</Source>
+      <Dest>一切结束了，拉格度！赛伯斯的账，你该付清了！</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brakh, I need you to do a task for me.</Source>
+      <Dest>布拉卡，我需要你帮我做件事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Waiting.</Source>
+      <Dest>还在等。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  Be out hunting if you need me.</Source>
+      <Dest>好吧，如果你需要我的话就出去打猎。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead then. Quarry awaits.</Source>
+      <Dest>带路。到采石场等着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>This is the place.  Where Sevaris died.  Where my quarry killed him.  Want to ask me about it, now's the time.</Source>
+      <Dest>就是这儿.  赛伯斯死的地方.  我的猎物在这儿杀了他.  想找我算账, 就现在吧.</Dest>
+    </String>
+    <String List="2">
+      <Source>A shrine to traitors.  Lagdu ought to fit in here.  Mind stopping?  Need to talk.</Source>
+      <Dest>一个叛徒的祭坛。拉度应该适合这里。需要谈谈，介意吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dungeon's too good for Lagdu.  Death too, but it'll do.</Source>
+      <Dest>地牢太便宜拉度了。死亡也是，但确实可行。</Dest>
+    </String>
+    <String List="2">
+      <Source>An inn, huh.  Sleeping indoors isn't natural.</Source>
+      <Dest>一家客栈,嗯。睡在屋里不怎么正常啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Falmer.  Like ice wolves, walking on hind legs.</Source>
+      <Dest>雪精灵就像是冰狼一样，用它们的后腿行走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vampires.  Blood hunters.  But hunters.</Source>
+      <Dest>血族，只狩猎鲜血的猎人。但是终究是猎人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farms.  Doesn't seem right.  Everything stays in place.</Source>
+      <Dest>广褒的农田。看起来挺不错的不是么。一切如常。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fletcher.  Good.  Quiver's hungry.</Source>
+      <Dest>弗莱彻。很好。我的箭矢早已饥渴难耐了。gry.</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't like big cities.  Feel out of sorts.</Source>
+      <Dest>不喜欢大城市，觉着不舒服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Love Spriggan groves.  Plenty of game.  All come at once.</Source>
+      <Dest>就喜欢树精的窝。一下就能得到一堆猎物。</Dest>
+    </String>
+    <String List="2">
+      <Source>City food isn't the same.  Too much dressing.  Sauces.  Spices.  Doesn't taste like meat anymore.</Source>
+      <Dest>而城里的食物是不一样的。它被搁了太多的调料、酱汁儿、香料。尝起来都吃不出肉味儿了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mud's for mortals, ocean's for fish.   Water's there for a reason.  Not our place.</Source>
+      <Dest>陆地为凡人而生，海洋为鱼虾而设。那里之所以是水是有原因的。那不是我们该呆的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits here.   Don't smell my quarry.</Source>
+      <Dest>这儿的是强盗。没有我的菜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorcerers have thin skin.  Wards aren't shields.</Source>
+      <Dest>法师也是有弱点的。结界又不是真的盾牌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hjaalmarch.  Bugs like the marsh.  Hard shells, bad meat, not a good place to hunt.</Source>
+      <Dest>亚尔边境……臭虫、沼泽、烂肉、又臭又硬的壳，总之不是个狩猎的好地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Reach.  Goats scamper on the rock like it's a meadow.  Can't chase them.  You'll fall.</Source>
+      <Dest>瑞驰。山羊们把岩石当做草地一样在上面蹦蹦跳跳。别去追他们。你会扑街的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hagravens. Old birds.  Like hunting magic pheasant.</Source>
+      <Dest>乌鸦鬼婆。一群老鸟人。就像追猎一群会魔法的野鸡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rain's good.  Plants get a drink. Rivers too. Sun comes out, the game will want a taste.</Source>
+      <Dest>Rain's good.  Plants get a drink. Rivers too. Sun comes out, the game will want a taste.</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't hunt a vegetable.  Farming is for rabbits, and rabbit food.</Source>
+      <Dest>不能挖蔬菜。这些都是给兔子种的，是兔子的食物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mines are like farms.  Quarry doesn't move.  No real sport.</Source>
+      <Dest>矿场和农场差不多。矿石不会跑，没什么要追的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those who can't hunt, mine.  Those who can't mine, farm.  Those who can't farm, they become merchants.</Source>
+      <Dest>那些不能打猎的人，他们会去挖矿。那些不能不能挖矿的人，他们会去种庄稼。而连庄稼也种不了的人，他们会去当商人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eastmarch.  Not ideal terrain to hunt.  Even the springs, water's too hot to drink.  Should head south to the Rift.</Source>
+      <Dest>东陲领可不是个狩猎的好地方。即使是在春天，那里的水也烫的喝不了。我们应该往南去裂痕领。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rift has plenty of game.  Hunters prefer Falkreath.  Less colors, less camouflage.  Me, blood boils for a challenge.</Source>
+      <Dest>Rift has plenty of game.  Hunters prefer Falkreath.  Less colors, less camouflage.  Me, blood boils for a challenge.</Dest>
+    </String>
+    <String List="2">
+      <Source>Inns are too hot.  No windows.  Beds are soft though.</Source>
+      <Dest>酒馆也很热。因为那儿没有窗户。床倒是够舒服的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stronghold Orcs.  Good hunters.  Good smiths.  Good people.</Source>
+      <Dest>兽人要塞。好猎手。好铁匠。好人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lots of game.  Smell it?  Fresh meat for dinner.</Source>
+      <Dest>很多猎物。闻闻么？这可是为晚餐准备的新鲜肉糜呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Out in the open.  Fresh air.  Best time to be alive.</Source>
+      <Dest>宽敞的野外。清新的空气。感受生命的最佳时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hunters like the taste of rabbit.  Not enough challenge.  Harder to kill, sweeter on the tongue.</Source>
+      <Dest>猎人们喜欢兔肉的味道。但兔子不够有挑战性。越是难猎杀的猎物，越能受人褒扬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wind and snow.  Not ideal to hunt.  Love the challenge.</Source>
+      <Dest>风和雪。不确定的狩猎。喜欢挑战。</Dest>
+    </String>
+    <String List="2">
+      <Source>Snow fences animals in.  No food, no warmth, so they hibernate.  Good hunting in caves, but nowhere else.</Source>
+      <Dest>雪会为动物提供庇护。找不到食物又无法取暖，所以它们会冬眠。在洞里能有不错的猎获，但其他地方什么收获也不会有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hunter's got to have a creed.  A heritage.  Lagdu broke that.</Source>
+      <Dest>猎人们有个规矩，古老的规矩。而拉度打破了这规矩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Doesn't matter if the arrow got lost or stolen.  Gods would bring it back.</Source>
+      <Dest>箭矢是丢了还是被偷了都不打紧。众神会把它带回来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't get these homes.  The forest is a house.  No sense making a smaller one.</Source>
+      <Dest>《Don't get these homes.  这森林就是一个房子。在这里建立一个比森林更小的房子没有任何意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Animals are good.  Dead animals are better.</Source>
+      <Dest>动物挺可爱的。死了的动物就更可爱了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eyes forward.  Never know when the hunt will call.</Source>
+      <Dest>往前看。猎物随时会出现。</Dest>
+    </String>
+    <String List="2">
+      <Source>Life of a hunter is pure.  Simple.  Don't need to rely on others.  Mortals or Gods.</Source>
+      <Dest>猎人的生活纯粹而简单。凡人抑或神灵都无法插足。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ocean's for fish.  Try to swim, this happens.</Source>
+      <Dest>海阔凭鱼跃，去游一下试试呗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven machines.  Metal skin.  Like chaurus.  Aim for the joints.</Source>
+      <Dest>矮人机械。金属皮肤。就像查鲁斯一样。瞄准关节攻击。</Dest>
+    </String>
+    <String List="2">
+      <Source>Breathing in sawdust, bad as any gas.</Source>
+      <Dest>在锯木屑里呼吸什么的最讨厌了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strange to hunt in caves.  No wind.  Sounds bounce.  Can't see.</Source>
+      <Dest>在山洞里狩猎很奇怪。没有风，回声很大，也看不见。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Jarl could put a bounty on hunters.</Source>
+      <Dest>领主可以在猎手头上加赏金。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.  Bounty ends up more than the taxes.  Adventurers don't come cheap.</Source>
+      <Dest>不，赏金最终会超过赋税，冒险者可不便宜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brevity may be the essence of wit, but obviously not in your case.</Source>
+      <Dest>Brevity 或许颇有智慧，但显然这与你无关。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ah, a love triangle.</Source>
+      <Dest>噢，三角恋啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you tracked her down to Knifepoint Ridge?</Source>
+      <Dest>所以你跟踪她到刀尖山脊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't track her.  Does more than double back.  Covers her prints like it were snowing dirt.</Source>
+      <Dest>追踪不到她。【已经来回找了两三次】。她的足迹好像用灰尘覆盖了。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you tracked her down to Knifepoint Ridge?</Source>
+      <Dest>所以你跟踪她到刀尖山脊？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I go from camp to camp.  Maybe follow an adventurer.  Maybe get lucky.</Source>
+      <Dest>所以我从一个营地逛到另外一个营地，有时候会有冒险，有时候会有幸运的发现。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you tracked her down to Knifepoint Ridge?</Source>
+      <Dest>所以你跟踪她到刀尖山脊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Keep a hundred arrows in my quiver.  99 are Orc.  Last one is iron, and blood.</Source>
+      <Dest>我的箭筒里总是有100支箭。99支兽人箭，最后一支是染血的铁箭。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the arrow that'll kill Lagdu.</Source>
+      <Dest>那就是那支将要杀死拉度的箭。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you tracked her down to Knifepoint Ridge?</Source>
+      <Dest>所以你跟踪她到刀尖山脊？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's it?  No explanation?</Source>
+      <Dest>就完了？没有更多解释吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not a good one.  Maybe wolves know the forest.  Know who to respect.  Maybe I leave some meat from a kill.  Or maybe these two are sheep.</Source>
+      <Dest>不是什么善茬。也许狼群了解这个森林，知道要尊敬谁。也许我会死在这场杀戮中，或者这俩人死在我手里。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened when you got back?</Source>
+      <Dest>你回来时发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Saw Sevaris sitting at the dining table over there, sharpening his knife.  Greeted him at the door.  He lifted his eyes.</Source>
+      <Dest>看到sevaris坐在餐桌的那边磨刀。在门口向他致意。他抬起了自己的眼睛。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened when you got back?</Source>
+      <Dest>你回来时发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I heard it.  A gasp.  Sucking the air out behind me.  Looked back to Sevaris.  Already dead.</Source>
+      <Dest>然后我听到了，我身后传来的阵阵喘息之声。我回头看Sevaris，她已经死了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened when you got back?</Source>
+      <Dest>你回来时发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Came from the south.  Went right through the heart.  Perfect shot.</Source>
+      <Dest>从南边射过来的。正中心脏。完美的一击。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened when you got back?</Source>
+      <Dest>你回来时发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Knew by the arrow.  Knew by the shot.  Lagdu's work.</Source>
+      <Dest>一计精妙的射击，毫无疑问，这是拉格度的手笔。</Dest>
+    </String>
+    <String List="0">
+      <Source>We should approach the tower carefully.  They'll be plenty of bandits as well.</Source>
+      <Dest>我们去那座塔要格外小心。那里的强盗也很多的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.  Will make it harder to get a clean shot.  Lagdu will shoot anyway.  But maybe she hits them.  Then I hit her.</Source>
+      <Dest>很好。看来想干净利索的射一发会很难了。无论如何拉度也会射击。但也许她是要打的是他们。然后我来个黄雀在后。</Dest>
+    </String>
+    <String List="0">
+      <Source>The wind must have made it difficult to hunt that day.</Source>
+      <Dest>肯定是风使得那天的狩猎变得困难。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, but wasn't going to let Lagdu best me.  She was the better shot, but I had grit.</Source>
+      <Dest>没有，但不是打算让拉度打败我。虽然她更加厉害，可我有像砂子一样的决心。</Dest>
+    </String>
+    <String List="0">
+      <Source>The wind must have made it difficult to hunt that day.</Source>
+      <Dest>肯定是风使得那天的狩猎变得困难。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hunted all afternoon, all night.  Time I returned, had a fox on my shoulder, and two elks in tow.</Source>
+      <Dest>打猎打了一个下午，又一个通宵。回来的时候，肩上扛了条狐狸，还有两只麋。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you lived in the forests?</Source>
+      <Dest>你在这个森林里生活了多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>All my life.  What's it to you?</Source>
+      <Dest>那些都是我的生活。这和你有什么关系？</Dest>
+    </String>
+    <String List="0">
+      <Source>Great.  Maybe now you'll stop whining about your revenge.</Source>
+      <Dest>很好。也许你现在可以停止你那些关于复仇的唠叨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pot, calling kettle black.  Don't want to come, fine by me.  But Lagdu dies tonight!</Source>
+      <Dest>五十步笑百步。我也不想这样，这不是我的问题。但拉格度今晚就要死了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry.  We'll find her, and get your vengeance.</Source>
+      <Dest>别担心。我们会找到她的，并且给你报仇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.  Gods owe a blood debt.  Must be paid.</Source>
+      <Dest>我知道的。诸神欠下的血债。必须偿还。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't know.  Go back to hunting old quarry.  Maybe go with you, find a new one.</Source>
+      <Dest>不知道。也许是回去狩猎那个旧的猎物。也许是跟你一起，再去找个新的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Free to hunt, free to die.  But can face Sevaris when time comes.</Source>
+      <Dest>追捕还是死掉都无关紧要，可是有时候能遇到赛伯斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you hunting?</Source>
+      <Dest>你在追杀谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>My quarry is Lagdu.  You find her, you tell me, she dies.</Source>
+      <Dest>我要杀的是拉格度.  找到她，然后告诉我她死了</Dest>
+    </String>
+    <String List="0">
+      <Source>That's what I do.  Ask the important questions.</Source>
+      <Dest>这就是我该做的。问些重要的问题。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Sound like a torturer.  Fine, ask.  But hands off.</Source>
+      <Dest>听起来就像个拷问者。好吧，你问。但咱可不兴动手啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let it go.  Vengeance is poison.</Source>
+      <Dest>过去的事就让它过去吧。复仇是毒药。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lagdu is poison.  Killing her's the cure.</Source>
+      <Dest>拉度是味毒药。杀掉她才是治疗的方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>How were Sevaris' arrows?</Source>
+      <Dest>Sevaris'的箭怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Cut through the air like a gasp.  Perfect balance. Like nocking a lute string.  Knew which ones were his, by the feel.  And the sound.</Source>
+      <Dest>像喘息一样穿过空气。完美的平衡。就像搭起鲁特琴弦。知道哪些是他的，随着感觉。还有这音乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>That day we were out hunting. Wind was lashing every which way. Chased a fox down a hill.</Source>
+      <Dest>我们出去打猎的那一天。风很大。我们爬过了一道山岗去抓一只狐狸。</Dest>
+    </String>
+    <String List="0">
+      <Source>How were Sevaris' arrows?</Source>
+      <Dest>Sevaris'的箭怎样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How were Sevaris' arrows?</Source>
+      <Dest>Sevaris'的箭怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Wind blowing like it was, couldn't get a good read.  Couldn't get a good shot. Took three arrows to kill it.</Source>
+      <Dest>风就这么一直吹，没办法好好读书。没办法好好射箭。至少要射三箭才能干掉它。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Hunters Rest) This place bring back memories?</Source>
+      <Dest>(猎人休息处) 这地方令人想起从前？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah.  Lagdu, Sevaris, me.  Grew up close.  Hunters by trade.  Killed our first elk together.  Used to fight over whose arrow it was, put it down.</Source>
+      <Dest>是啊。拉度， 赛伯斯，还有我。我们三个一起长大。干些打猎的买卖。我们一起杀了第一头麋鹿。以前还老为了是谁把它射死那事儿而打架呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Hunters Rest) This place bring back memories?</Source>
+      <Dest>(猎人休息处) 这地方令人想起从前？</Dest>
+    </String>
+    <String List="2">
+      <Source>Probably her.  Aim was true.  My pride would never admit it.</Source>
+      <Dest>或许她。 Aim是对的。我的自尊是绝不会承认的。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Hunters Rest) This place bring back memories?</Source>
+      <Dest>(猎人休息处) 这地方令人想起从前？</Dest>
+    </String>
+    <String List="2">
+      <Source>But when we got into it, Sevaris always made peace.  Lagdu was sweet on him, and he was good with words.</Source>
+      <Dest>但是当我们进去的时候，赛伯斯总是很平静。拉格度对他很好，他活的很滋润。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Hunters Rest) This place bring back memories?</Source>
+      <Dest>(猎人休息处) 这地方令人想起从前？</Dest>
+    </String>
+    <String List="2">
+      <Source>Smart hunter.  Taught us how to skin, keep the hair and dirt off the meat.  Fletched arrows too.</Source>
+      <Dest>猎人师傅.  教下我们怎么剥皮，把毛和泥土从肉上面弄干净.  还有怎么给弓箭装上羽毛.</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>Boethiah.  Say she ate Malacath, made him what he is.  Made us what we are.  Prince of Betrayal.  </Source>
+      <Dest>波耶西亚。传说她吃了玛拉凯斯，把他变成了现在的样子。也把我们变成了现在的样子。司掌背叛的魔神。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>Would give her the iron arrow, if it weren't meant for another.</Source>
+      <Dest>想把那支铁箭给她，如果不是为别人准备的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't get why she did it.  I needed Sevaris.  Never much for words.  Left it to him. Always said what I was thinking.</Source>
+      <Dest>不用知道她为什么要这么做，我需要赛伯斯。不用说太多话，把这个带给他。他就会明白我在想什么了。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>A good friend.  My best one.  Don't feel like me without him.  Was my voice.  But he was Lagdu's heart.</Source>
+      <Dest>他是一个好友，我最好的朋友，和我的声音一样不可或缺。但是对拉度而言，却是像心脏般重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe that's why.  Maybe she thought she was getting soft.  But you shoot an arrow through your own heart, you're going to die.</Source>
+      <Dest>或许这就是原因。也许她觉得她变得柔韧有弹性了。但你往你自己的心脏上射了一箭，你马上就要死了。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Shrine of Boethiah) You look pensive.  What's on your mind?</Source>
+      <Dest>(波耶西亚神殿) 你看起来神不在焉的。在想什么呢?</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what the arrow is for.  To put the dead to rest.</Source>
+      <Dest>这就是射箭的目的——让那些死者得到安息。</Dest>
+    </String>
+    <String List="0">
+      <Source>It appears we have a lead on your quarry.</Source>
+      <Dest>看来要我们来管理你的采石场了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Faldar's Tooth.  Know it well.  High tower.  Slow climb.  Mountains in the south, block the wind.  Perfect for Lagdu.</Source>
+      <Dest>法尔达之牙。我很清楚，就是南面群山的高塔，可以挡风的那个。很适合拉度。</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought the locals hunted for food and clothing.  Not profit.</Source>
+      <Dest>我认为是当地人打猎用于食物和衣物。并非利益。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hunters who work in groups, maybe.  I kill a deer, it has a week's worth of venison.  Don't know alchemy, so the meat spoils.  Better to sell.</Source>
+      <Dest>组队打猎的猎人们，也许是。杀一头鹿就有足够一星期的肉。可不懂炼金术肉就坏掉了。不如卖了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lagdu's yours.  I'll just be happy to kill the rest.</Source>
+      <Dest>拉格度交给你们。我很乐意清理剩下的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not mine.  Sevaris will have the final say.</Source>
+      <Dest>不，不是我。赛伯斯才说了算。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe it wasn't betrayal. You can't know for sure unless you talk to her first.</Source>
+      <Dest>可能她没有辜负你，你只有先找她说明白了才能确定这件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, no talk.  Not with her.  She's a quick draw, and her aim is true.  Open your mouth, and you'll taste iron.</Source>
+      <Dest>不，别提了。不是她。她是一个“快枪手”，她的目标是真实的。张开你的嘴，你尝到铁的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>You got guts, stranger.  Two feral wolves.  But you didn't flinch.</Source>
+      <Dest>陌生人，你很有勇气。就算面对两只野狼你也没有退缩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Train my arrows on most. Say "That's close enough."  They look raw, as if I didn't just save their life.</Source>
+      <Dest>尽力训练我的弓箭技巧。他们看着伤口，好像我没有救他们命，说 "还不够。"</Dest>
+    </String>
+    <String List="2">
+      <Source>You though, the wolves like.  Or fear.  Got curious.  Wanted to see how far you'd make it.</Source>
+      <Dest>你想下，狼是什么样子的。或恐惧。或好奇。想看看你到底能够到什么地步。</Dest>
+    </String>
+    <String List="2">
+      <Source>Looks like I slighted you. Or misread them.</Source>
+      <Dest>看来是我轻视了你。或者是我高估了他们.</Dest>
+    </String>
+    <String List="2">
+      <Source>My quarry!</Source>
+      <Dest>我的猎物！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's it.  Death's ledger, balanced.</Source>
+      <Dest>就是这样。死者的分类账，井井有条。</Dest>
+    </String>
+    <String List="0">
+      <Source>Every minute you sit here your quarry escapes further from your grasp.</Source>
+      <Dest>在这儿呆坐着越久，你的目标就离你越远。</Dest>
+    </String>
+    <String List="2">
+      <Source>Won't escape.  Blood debt.  Death's ledger off by a count.  I make sure it gets paid.</Source>
+      <Dest>你逃不掉了。挨千刀的，血债必须得到血偿。我发誓。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want some advice on skinning meat.</Source>
+      <Dest>在处理肉上我需要些建议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Easy.  Lay it on the ground.  Skin one side, roll it over.  But keep the meat off the dirt.  Stretch out the skin, use it as a cloth.</Source>
+      <Dest>放轻松，把它放在地上。剥下它一面的皮，把它翻个身。但不要让肉接触到泥土。拉开它的皮，就像一块布一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want some advice on skinning meat.</Source>
+      <Dest>在处理肉上我需要些建议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Try not to make too many cuts.  Don't want to butcher the pelt.  Try to keep the hairs off the meat.  Sucks up the moisture.</Source>
+      <Dest>下刀的次数要尽可能少。不要破坏了毛皮。把毛发跟肉要隔离开。吸干水分。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if she were already dead?</Source>
+      <Dest>如果她已经死了的话怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>Impossible.  Gods owe a blood debt.  Must be paid.  Until then, both must live.</Source>
+      <Dest>不可能。诸神欠下的血债。必须偿还。而在那之前，我俩得活下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe.  No good one though.  Sevaris was plain.  Didn't keep secrets.  Let you know where you stood.  Never told you how to stand.</Source>
+      <Dest>Maybe.  No good one though.  Sevaris was plain.  Didn't keep secrets.  Let you know where you stood.  Never told you how to stand.</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason why Lagdu killed your friend.</Source>
+      <Dest>这总有个原因解释拉度为什麽要杀你的朋友。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason why Lagdu killed your friend.</Source>
+      <Dest>这总有个原因解释拉度为什麽要杀你的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why'd she do it?  Not a riddle I care to solve.  Arrow holds the only answer I need.</Source>
+      <Dest>她为什么要那么做？我可不擅长解这些乱七八糟的谜。总之给她一箭就对了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good riddance to that murdering bitch.</Source>
+      <Dest>Good riddance to that murdering bitch.</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed.  </Source>
+      <Dest>同意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed.  </Source>
+      <Dest>同意。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't mind that I killed your wolves?</Source>
+      <Dest>你不介意你的狼被我杀了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Aren't my wolves.  Can't own a wild beast.   Free to roam, free to hunt, free to be hunted.</Source>
+      <Dest>不是我的狼。不能拥有一只野兽。自由的漫步，自由的打猎，自由的被打猎。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't mind that I killed your wolves?</Source>
+      <Dest>你不介意你的狼被我杀了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, no vengeance to spare.  All for one Orc, and one Orc alone.   </Source>
+      <Dest>此外，复仇的对象只有一个。就是那个兽人。而且那个兽人孤身一人。 </Dest>
+    </String>
+    <String List="0">
+      <Source>You don't mind that killed one of your wolves?</Source>
+      <Dest>你不介意杀了你一匹狼吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Aren't my wolves.  Can't own a wild beast.   Free to roam, free to hunt, free to be hunted.</Source>
+      <Dest>不是我的狼。不能拥有一只野兽。自由的漫步，自由的打猎，自由的被打猎。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't mind that killed one of your wolves?</Source>
+      <Dest>你不介意杀了你一匹狼吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, no vengeance to spare.  All for one Orc, and one Orc alone.   </Source>
+      <Dest>此外，复仇的对象只有一个。就是那个兽人。而且那个兽人孤身一人。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Are these wolves your pets?  </Source>
+      <Dest>这些狼是你的宠物？</Dest>
+    </String>
+    <String List="2">
+      <Source>Aren't my wolves.  Can't own a wild beast.  Free to roam, free to hunt, and free to be hunted.</Source>
+      <Dest>不是我的狼。不能拥有一只野兽。自由的漫步，自由的猎杀，自由的被猎杀。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are these wolves your pets?  </Source>
+      <Dest>这些狼是你的宠物？</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, no vengeance to spare. All for one Orc, and one Orc alone. </Source>
+      <Dest>此外，复仇永远都不嫌多。一兽人做事一兽人当。</Dest>
+    </String>
+    <String List="0">
+      <Source>If those wolves were wild, why didn't they attack you?</Source>
+      <Dest>如果这些狼是野生的,他们为什么不攻击你?</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't know.</Source>
+      <Dest>不知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.  Lagdu speaks for no one, spoke for all.  Hunters never got a say.  Sevaris never got a say.</Source>
+      <Dest>No.  Lagdu speaks for no one, spoke for all.  Hunters never got a say.  Sevaris never got a say.</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems Lagdu was trying to protect the hunters.</Source>
+      <Dest>看起来拉度好像在帮助那些猎人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fools often do.  Underestimate me.</Source>
+      <Dest>蠢货们经常那样。低估我。</Dest>
+    </String>
+    <String List="2">
+      <Source>They also talk tough, and die slow.  Stick an arrow in your throat, but you aren't my quarry.</Source>
+      <Dest>他们言辞强硬，英勇赴死。箭戳到喉咙里都不愿束手待毙的那种。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fools often do.  Underestimate me.</Source>
+      <Dest>蠢货们经常那样。低估我。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, Lagdu lives in a camp. Like a bandit.  All my hate, all my anger, is reserved for her.</Source>
+      <Dest>不对，拉度 生活在野营里。跟强盗那样的。我所有的憎恨，一切的愤怒，都给她预备着。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you find this person.</Source>
+      <Dest>我可以帮你找这人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might.  Maybe I'll follow.  Lefthanded Elf is right half the time.  You may be too.</Source>
+      <Dest>你很强.我跟你了.  一起合作的话事半功倍（瞎翻）.  你估计也是.</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you find this person.</Source>
+      <Dest>我可以帮你找这人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Keep a hundred arrows in my quiver.  99 are Orc.  Last one is iron, and blood.</Source>
+      <Dest>我的箭筒里总是有100支箭。99支兽人箭，最后一支是染血的铁箭。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the arrow that'll kill Lagdu.</Source>
+      <Dest>那就是那支将要杀死拉度的箭。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could help you find this person.</Source>
+      <Dest>我可以帮你找这人。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is a suicide mission.  You better take me along.</Source>
+      <Dest>这是个九死一生的任务，你最好带上我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  We go together.  But my quarry, my kill.</Source>
+      <Dest>那好我们一起，但是，我发现的猎物必须死在我手上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Three shots, but all three hit. You might take it down with one, but empty your quiver.</Source>
+      <Dest>三发三中。也许你也能打下来一个，不过我估计你可能会把箭袋里的箭射光。</Dest>
+    </String>
+    <String List="0">
+      <Source>Three shots to take down a fox?  Pathetic.</Source>
+      <Dest>射死只狐狸用了三箭？废柴啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Three shots to take down a fox?  Pathetic.</Source>
+      <Dest>射死只狐狸用了三箭？废柴啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, wasn't good enough.  Knew Lagdu would do better than a measly fox.</Source>
+      <Dest>但还不够好。我知道拉度会做的比一只小小的狐狸更好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Three shots to take down a fox?  Pathetic.</Source>
+      <Dest>射死只狐狸用了三箭？废柴啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hunted all afternoon, all night.  Time I returned, had a fox on my shoulder, and two elks in tow.</Source>
+      <Dest>打猎打了一个下午，又一个通宵。回来的时候，肩上扛了条狐狸，还有两只麋。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're quite terse. Speak up my friend, for it takes 2 to have a conversation.</Source>
+      <Dest>你说话相当简练啊。说大声点伙计，两个人说话才能算对话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sevaris didn't think so.  Said I didn't talk, but listened.  Said that was rare.</Source>
+      <Dest>赛伯斯可不这么认为。说我没有说话，而是在听。说那可真罕见。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sevaris sounds amazing.  It should've been you who died.</Source>
+      <Dest>这个赛伯斯听起来很神奇，死去的应该是你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wrong.  Should've been her.  But it will be.</Source>
+      <Dest>Wrong.  Should've been her.  But it will be.</Dest>
+    </String>
+    <String List="0">
+      <Source>Does the Jarl complain about hunters poaching on his land?</Source>
+      <Dest>领主有抱怨过猎人们来他的领地偷猎吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe before the war.  Not after.  Not enough guards.  Fur traders will buy a good pelt at a good price. </Source>
+      <Dest>或许在战争之前有吧，战争之后就没有了。因为没有足够的守卫。毛皮商人们都愿意为毛皮花上大价钱。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does the Jarl complain about hunters poaching on his land?</Source>
+      <Dest>领主有抱怨过猎人们来他的领地偷猎吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Good for leather, good for warmth. Good for the purse, too.  Furs are cheap when the Jarl doesn't get his cut.</Source>
+      <Dest>有益于皮革，有助于保温，也有益于钱包。当领主没有拿到他那一份的时候毛片会变得更便宜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you hunting this Lagdu?</Source>
+      <Dest>你为什么要狩猎这个拉度？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some hunters work in packs. But only two I consider kin.  She was one of them.  She killed the other.</Source>
+      <Dest>一些猎人会组队工作。但我只把两个人当做同类。她是其中一个。她杀掉了其他人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I appreciate your honesty.</Source>
+      <Dest>嗯，我很感谢你的诚恳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Likewise.</Source>
+      <Dest>差不多吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Jarl can't eat every deer, can he?</Source>
+      <Dest>领主不会吃掉所有鹿，不是吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't know.  Maybe he's a fat one.  Jarls tend to be.</Source>
+      <Dest>不知道。大概是个胖子吧。做领主的一般都胖。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about what Lagdu said?</Source>
+      <Dest>那拉格度说的话怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>Lies. Poison. Sevaris could talk, but not a wizard.  Most would say no to losing their freedom. If not, so be it.</Source>
+      <Dest>谎话. 犯人. Sevaris 会说话, 但不是个巫师.  大多数人不想失去自由. 如果你不想, 就快点.</Dest>
+    </String>
+    <String List="0">
+      <Source>Animals love me.  Especially ones that crawl on all fours.</Source>
+      <Dest>动物，特别是四条腿都有爪子的，特别喜欢我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shows what you know.  Beasts are wild.  Even a dog's love is fickle.  </Source>
+      <Dest>你懂什么。野兽野性难除，甚至连狗这么忠心耿耿的动物都不能完全放心。</Dest>
+    </String>
+    <String List="0">
+      <Source>Animals love me.  Especially ones that crawl on all fours.</Source>
+      <Dest>动物，特别是四条腿都有爪子的，特别喜欢我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Same goes for mortals.  Can only trust Malacath. Sometimes not even him. </Source>
+      <Dest>同样适用于人类，他们只相信玛拉凯斯。有时甚至连他都不相信。</Dest>
+    </String>
+    <String List="0">
+      <Source>Animals love me.  Especially ones that crawl on all fours.</Source>
+      <Dest>动物，特别是四条腿都有爪子的，特别喜欢我。</Dest>
+    </String>
+    <String List="2">
+      <Source>But man, mer, or beast, if you bite my hand, you'll swallow my arrows.</Source>
+      <Dest>不管你是人类、精灵还是野兽，要是你敢咬我的手，你就准备吞箭头吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Animals love me.  Especially ones that crawl on all fours.</Source>
+      <Dest>动物，特别是四条腿都有爪子的，特别喜欢我。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you aren't my quarry.  No vengeance to spare. All for one Orc, and one Orc alone. </Source>
+      <Dest>但你并非我的猎物。我们之间没有仇恨。这只是为了兽人，一个孤独的兽人。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I thought you could give me some tips on hunting the game.</Source>
+      <Dest>我想你可以教我一些狩猎猎物的技巧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Could explain it.  But not good.  Best advice I can give?  Don't miss.</Source>
+      <Dest>这可以解释但是毫无意义，我能给的最好的建议就是，不要错失良机。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I thought you could give me some tips on hunting the game.</Source>
+      <Dest>我想你可以教我一些狩猎猎物的技巧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You get one shot.  You miss, it flees.  Game is fast.  Harder to kill a dragon than get a second chance.</Source>
+      <Dest>你只有一次机会，你如果错过，它就跑了。只有一瞬间。你很难找到第二次机会杀死龙。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're avenging one friend by killing the other?</Source>
+      <Dest>所以你通过杀掉一个朋友来报复你的另一个朋友？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah.</Source>
+      <Dest>是啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Care to explain?</Source>
+      <Dest>能解释一下么？</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, you die.</Source>
+      <Dest>你已经死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Doesn't matter!  Wrong, right, hunter only has one quarry.  Instead, you chose Sevaris.</Source>
+      <Dest>是对是错都不要紧！一个猎人只有一个猎物。相反的，你选择了赛伯斯。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lies!</Source>
+      <Dest>说谎!</Dest>
+    </String>
+    <String List="2">
+      <Source>Now it ends Lagdu!  Sevaris's debt, paid!</Source>
+      <Dest>一切都结束了，拉度！塞瓦利斯的账，你该付清了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mm-hm.</Source>
+      <Dest>哼嗯。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead then. Quarry awaits.</Source>
+      <Dest>带路。到采石场等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="2">
+      <Source>Mm-hm.</Source>
+      <Dest>哼嗯。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

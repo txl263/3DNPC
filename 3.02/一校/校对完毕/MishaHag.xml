@@ -7,112 +7,76 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>I don't know, you traded your life for what amounts to marginally better magic.</Source>
-      <Dest>我不懂，你出卖你的生命就为了学这一点点更好的魔法。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't know, you traded your life for what amounts to marginally better magic.</Source>
-      <Dest>我不懂，你出卖你的生命就为了学这一点点更好的魔法。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
-      <Dest>Misha，你如此伟大。超凡脱俗又令人敬畏。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
-      <Dest>Misha，你如此伟大。超凡脱俗又令人敬畏。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
-      <Dest>Misha，你如此伟大。超凡脱俗又令人敬畏。</Dest>
-    </String>
-    <String List="0">
-      <Source>To each their own.</Source>
-      <Dest>对他们自己每一个人。</Dest>
-    </String>
-    <String List="0">
-      <Source>To each their own.</Source>
-      <Dest>对他们自己每一个人。</Dest>
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
     </String>
     <String List="0">
       <Source>I liked you better when you were just hideous.</Source>
       <Dest>我还是觉得你原来很丑的时候更可爱。</Dest>
-    </String>
-    <String List="0">
-      <Source>I liked you better when you were just hideous.</Source>
-      <Dest>我还是觉得你原来很丑的时候更可爱。</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你接下来打算做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你接下来打算做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Can you teach me conjuration magic?</Source>
-      <Dest>你能帮我提高召唤系法术吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Can you teach me conjuration magic?</Source>
-      <Dest>你能帮我提高召唤系法术吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Now I'm the spider! No, better than that! A bird! One who soars over mortals like a God!</Source>
-      <Dest>现在我是蜘蛛！不，比那更好！一只鸟！像凌驾于凡人之上的神！</Dest>
-    </String>
-    <String List="2">
-      <Source>How is that Dremora working out for you?</Source>
-      <Dest>那个魔人是怎么帮你的？</Dest>
-    </String>
-    <String List="2">
-      <Source>Leave.</Source>
-      <Dest>离开。</Dest>
-    </String>
-    <String List="2">
-      <Source>But not yet. First I must learn how to keep this body strong. So take your boon and take your leave. I have goats to sacrifice.</Source>
-      <Dest>但还不是时候。首先我必须得学会如何强壮这副身躯。所以带着你的报酬离开吧。我还有山羊要献祭呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Take your worthless Dremora and leave this place! I have Spriggans to torture.</Source>
-      <Dest>带上你那一无是处的魔人滚出去！还有些树精等着我折磨折磨呢。</Dest>
     </String>
     <String List="2">
       <Source>I'm not scared of you anymore, adventurer! I'm a matriarch! A scion of the Gods!</Source>
       <Dest>我不再畏惧你了，冒险者！我现在是位伟人，是众神之子！</Dest>
     </String>
-    <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
+    <String List="0">
+      <Source>I liked you better when you were just hideous.</Source>
+      <Dest>我还是觉得你原来很丑的时候更可爱。</Dest>
     </String>
     <String List="2">
-      <Source>Fine. Listen, and learn.</Source>
-      <Dest>很好。听着，然后学习。</Dest>
+      <Source>Take your worthless Dremora and leave this place! I have Spriggans to torture.</Source>
+      <Dest>带上你那一无是处的魔人滚出去！还有些树精等着我折磨折磨呢。</Dest>
     </String>
-    <String List="2">
-      <Source>You jest! I was a worm, a bottom feeder, and now I am an eagle! I feast on those who are chained to the ground!</Source>
-      <Dest>你敢嘲笑我！我曾是只虫子，位于食物链的底端，现在我是雄鹰！我以所有被栓在地面上的可怜虫为食！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hm?</Source>
-      <Dest>嗯？</Dest>
+    <String List="0">
+      <Source>To each their own.</Source>
+      <Dest>对他们自己每一个人。</Dest>
     </String>
     <String List="2">
       <Source>Indeed, mortal. There are some who would call me a fool, but they are the ones who will boil in my cauldron!</Source>
       <Dest>确实，凡人。有些人叫我蠢货，但是他们都会为此付出代价！</Dest>
     </String>
-    <String List="2">
-      <Source>I told you. I'm going to sacrifice goats. And children. Maybe you if you keep bothering me.</Source>
-      <Dest>我说过了，我要去献祭山羊。孩子，如果你一直烦我的话，我不介意换个祭品。</Dest>
+    <String List="0">
+      <Source>To each their own.</Source>
+      <Dest>对他们自己每一个人。</Dest>
     </String>
     <String List="2">
-      <Source>What do you want?</Source>
-      <Dest>你要干嘛？</Dest>
+      <Source>But not yet. First I must learn how to keep this body strong. So take your boon and take your leave. I have goats to sacrifice.</Source>
+      <Dest>但还不是时候。首先我必须得学会如何强壮这副身躯。所以带着你的报酬离开吧。我还有山羊要献祭呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, you traded your life for what amounts to marginally better magic.</Source>
+      <Dest>我不懂，你出卖你的生命就为了学这一点点更好的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>You jest! I was a worm, a bottom feeder, and now I am an eagle! I feast on those who are chained to the ground!</Source>
+      <Dest>你敢嘲笑我！我曾是只虫子，位于食物链的底端，现在我是雄鹰！我以所有被栓在地面上的可怜虫为食！</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, you traded your life for what amounts to marginally better magic.</Source>
+      <Dest>我不懂，你出卖你的生命就为了学这一点点更好的魔法。</Dest>
     </String>
     <String List="2">
       <Source>But I don't need to explain myself to you. Take your worthless Dremora and leave this place! I have Spriggans to torture.</Source>
       <Dest>但我用不着对你解释我的事。带上你那个无用的魔族赶紧滚！我还要去折磨树精呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
+      <Dest>米莎，你如此伟大。超凡脱俗又令人敬畏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and it's all thanks to you. No more cowering in a corner with the cobwebs.</Source>
+      <Dest>是的，我再也不会在布满蛛网的角落里瑟瑟发抖了，这都归功于你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
+      <Dest>米莎，你如此伟大。超凡脱俗又令人敬畏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I'm the spider! No, better than that! A bird! One who soars over mortals like a God!</Source>
+      <Dest>现在我是蜘蛛！不，比那更好！一只鸟！像凌驾于凡人之上的神！</Dest>
+    </String>
+    <String List="0">
+      <Source>You're nothing short of majestic, Misha. A sight to behold, and to fear.</Source>
+      <Dest>米莎，你如此伟大。超凡脱俗又令人敬畏。</Dest>
     </String>
     <String List="2">
       <Source>But not yet. First I must learn how to keep this body strong. So grab your boon and take your leave. I have goats to sacrifice.</Source>
@@ -122,17 +86,53 @@
       <Source>It worked! Look at me, I'm hideous! Hideous, old and incredibly powerful!</Source>
       <Dest>它起作用了！看看我，我如此令人生畏！可怖，古老，无比强大！</Dest>
     </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>I told you. I'm going to sacrifice goats. And children. Maybe you if you keep bothering me.</Source>
+      <Dest>我说过了，我要去献祭山羊。孩子，如果你一直烦我的话，我不介意换个祭品。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you teach me conjuration magic?</Source>
+      <Dest>你能帮我提高召唤系法术吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. Listen, and learn.</Source>
+      <Dest>很好。听着，然后学习。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you teach me conjuration magic?</Source>
+      <Dest>你能帮我提高召唤系法术吗？</Dest>
+    </String>
     <String List="2">
       <Source>You already know everything. Be gone.</Source>
       <Dest>你已经什么都知道了，离开吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Leave.</Source>
+      <Dest>离开。</Dest>
     </String>
     <String List="2">
       <Source>Why are you still here?</Source>
       <Dest>你怎么还在这？</Dest>
     </String>
     <String List="2">
-      <Source>Yes, and it's all thanks to you. No more cowering in a corner with the cobwebs.</Source>
-      <Dest>是的，我再也不会在布满蛛网的角落里瑟瑟发抖了，这都归功于你。</Dest>
+      <Source>What do you want?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>How is that Dremora working out for you?</Source>
+      <Dest>那个魔人是怎么帮你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

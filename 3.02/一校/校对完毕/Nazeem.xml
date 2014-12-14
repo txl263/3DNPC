@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>I hope they'll serve the roast venison with bittergreen sauce that we had at the last party.</Source>
+      <Dest>我希望他们能提供烤鹿肉和苦菜酱，就像我们上次宴会吃的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was delicious.</Source>
+      <Dest>那可真美味。</Dest>
+    </String>
+    <String List="2">
+      <Source>This war has taken a toll on the merchants of Skyrim. Let's hope that it ends soon, for their sake.</Source>
+      <Dest>这场战争给天际的商人带来了相当大的损失，让我们为他们祈祷，希望这场战争赶紧结束吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>With the soldiers all fighting in the war, there's nobody to hunt down the bandits. Travel has become dangerous of late.</Source>
+      <Dest>士兵都去参战了，没人去打土匪，这使得出行变得更危险了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's been a brutal winter. I can't remember the last time it was this cold, and for this long.</Source>
+      <Dest>这个冬天真要命，我不记得还有哪个冬天有这么冷，还持续了这么久。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I agree with you. Have you heard any news from the other parts of Skyrim?</Source>
+      <Dest>对，我同意。你有什么天际那边的消息吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You speak truly. Have you heard any interesting rumors of late?</Source>
+      <Dest>如你所说，你最近听过什么有趣的传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll not argue that. Heard any interesting gossip lately?</Source>
+      <Dest>我不否认。最近有什么八卦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't agree more. By the way, have you heard any interesting rumors lately?</Source>
+      <Dest>不能同意你更多了。顺便一提，你最近听过什么有趣的传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't have said it better myself. It's been some time since I've had news from elsewhere in Skyrim. What have you heard?</Source>
+      <Dest>我想不出比它再好的了。我上次听到天际其他地方的消息已经是很久以前了。你听说什么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I know just what you mean. Heard anything interesting lately? Any news or gossip?</Source>
+      <Dest>我懂了。最近有什么有意思的吗？新闻或者八卦都行？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I did hear that the Argonians have been banned from living inside the walls of Windhelm.</Source>
+      <Dest>我听说他们禁止亚龙人住在风盔城里。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're only allowed on the city docks now. Most of them sleep together in one building, and they're as poor as wretches.</Source>
+      <Dest>他们现在只能住在城市的港口，大部分人都挤在一栋建筑里，像乞丐一样贫穷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you visited Rorikstead lately? No matter how harsh the winter, the crops that grow there never falter.</Source>
+      <Dest>你最近去过洛里斯泰德吗？不管那里的冬天有多严苛，庄稼都会长得很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even when every other farm in the hold is barely scraping by, the harvest at Rorikstead is always bountiful.</Source>
+      <Dest>即使是冬堡的农民都没有半点收成时，洛里斯泰德的收成依然可观。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it good fortune? The blessings of the Divines? Who knows?</Source>
+      <Dest>这算宝藏？圣灵的赐福吗？谁知道呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now that I think on it, I did hear something rather interesting the other day.</Source>
+      <Dest>让我想想，我的确听到过更加有趣的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Apparently, the Red Wave has been docked in Solitude for well over a month, and with no sign of shipping out any time soon.</Source>
+      <Dest>很显然，赤红波浪已经在独孤城停泊一个多月了，依然没有离港的迹象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say the ship suffered damage to her hull when she struck an iceberg, and Captain Safia can't afford the repairs. </Source>
+      <Dest>有人说船撞上了冰山，船体受损，而萨非亚船长付不起维修费。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, she would never admit such a thing. Captain Safia is far too proud a woman for that.</Source>
+      <Dest>当然，她永远不会承认的。萨非亚船长的骄傲不允许她承认。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there might be nothing to it, but I've heard that the feud between the Gray-Manes and the Battle-Borns in Whiterun has grown ugly.</Source>
+      <Dest>嗯……也许没什么消息吧，但我听说雪漫城里灰鬃和战狂两家的梁子是越结越深了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fralia Gray-Mane is convinced that the Battle-Borns have abducted one of her sons.</Source>
+      <Dest>法利亚·灰鬃认为战狂氏族的人绑架了她的儿子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure that it's news, but lately it seems like every blacksmith in Skyrim is out to prove that he's the equal of Eorlund Gray-Mane.</Source>
+      <Dest>我不知道这还算不算新闻，最近好像天际所有的铁匠都想证明自己跟厄伦德·灰鬃不相上下。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not really a fair comparison, if you ask me.</Source>
+      <Dest>要我说，这根本没有可比性。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, Eorlund works the Skyforge. How is any smith going to compete with that?</Source>
+      <Dest>厄伦德为天空熔炉工作。这点有哪个铁匠能比得上呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I did see something interesting not long ago.</Source>
+      <Dest>我不久前就见过些有意思的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>There were several Khajiit camped outside the walls of Whiterun. Seems they've been traveling around the whole of Skyrim peddling their wares.</Source>
+      <Dest>有几个虎人在雪漫城外面扎营了。他们贩卖货物的足迹遍布整个天际。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got to admire their courage, doing something like that with dragons on the loose and a war going on.</Source>
+      <Dest>你不得不佩服他们的勇气，能在有龙出没，战争横行的时候在外面闯荡。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard those mages up in Winterhold have been trying to figure out how many dragons there are in Skyrim.</Source>
+      <Dest>我听说冬堡的法师们想要统计天际究竟有多少头龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>They seem to think it's at least a dozen, but I'm sure they're exaggerating.</Source>
+      <Dest>他们似乎觉得至少有一打，不过那太夸张了点。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're probably trying to scare us into giving them more money and influence, so they can save us from the dragons threat.</Source>
+      <Dest>他们大概想吓唬我们，好让我们因为恐惧而交出更多的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everything is splendid, thank you.</Source>
+      <Dest>做的都很好，谢谢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very much so, and thank you for asking.</Source>
+      <Dest>正是如此，谢谢你的邀请。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very much so, and thank you for asking.</Source>
+      <Dest>正是如此，谢谢你的邀请。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if there's anything else you need.</Source>
+      <Dest>如果你还有什么需要的话，告诉我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you forgetting something?</Source>
+      <Dest>你没忘了什么吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you forgetting something?</Source>
+      <Dest>你没忘了什么吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a shame.</Source>
+      <Dest>那真是个耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on in. Just stoked the fire. Take a seat and get the cold out.</Source>
+      <Dest>快请进。到火炉边坐吧，驱散身上的寒气。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have time for that.</Source>
+      <Dest>我没那个闲时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if you see anything you like.</Source>
+      <Dest>如果你看上了什么就请告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. You've done us a great service. Here is your reward. </Source>
+      <Dest>干得好。你帮了我们一个大忙。这是你的奖励。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have time for that.</Source>
+      <Dest>我没那个闲时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.</Source>
+      <Dest>谢谢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you see?</Source>
+      <Dest>你看到了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you see?</Source>
+      <Dest>你看到了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
+      <Dest>太棒了。我想你会庆幸你做了这个决定。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you change your mind, you know where to find me.</Source>
+      <Dest>如果你改变主意了，你知道在哪里可以找到我。</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得移动到别的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has the store made any money?</Source>
+      <Dest>商店有赚钱吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>It will be done.</Source>
+      <Dest>包在我身上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Disappointing.</Source>
+      <Dest>真令人失望。</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to this party?</Source>
+      <Dest>什么风把你吹来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What brings you to this party?</Source>
+      <Dest>什么风把你吹来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Never mind.</Source>
+      <Dest>算了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good luck with that.</Source>
+      <Dest>祝你好运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to take this from the likes of you.</Source>
+      <Dest>我不是非得从你这种人手里拿到这个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not so tough now, are you?</Source>
+      <Dest>知道厉害了吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Get him!</Source>
+      <Dest>抓住他！</Dest>
+    </String>
+    <String List="2">
+      <Source>Fight! Fight!</Source>
+      <Dest>打啊！打！</Dest>
+    </String>
+    <String List="2">
+      <Source>Get him!</Source>
+      <Dest>抓住他！</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>你想谈什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you in for?</Source>
+      <Dest>你是怎么进来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you in for?</Source>
+      <Dest>你是怎么进来的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, Arch-Mage.</Source>
+      <Dest>幸会，首席法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed.</Source>
+      <Dest>没错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, be careful!</Source>
+      <Dest>嘿，小心点！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm on your side!</Source>
+      <Dest>我就在你身旁！</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you doing?</Source>
+      <Dest>你在做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm here to rescue you.</Source>
+      <Dest>我来这里营救你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds good.</Source>
+      <Dest>听起来不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain silent)</Source>
+      <Dest>（保持沉默）</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you have in mind?</Source>
+      <Dest>你在想什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink for the thirsty, food for the hungry.</Source>
+      <Dest>渴了畅饮美酒，饿了大啖美食。</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Take a look.</Source>
+      <Dest>随意看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gah!</Source>
+      <Dest>嘎！</Dest>
+    </String>
+    <String List="2">
+      <Source>Easily blocked!</Source>
+      <Dest>很容易堵住！</Dest>
+    </String>
+    <String List="2">
+      <Source>Gah!</Source>
+      <Dest>嘎！</Dest>
+    </String>
+    <String List="2">
+      <Source>Mercy!</Source>
+      <Dest>饶命啊！我祈求你的怜悯</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh...</Source>
+      <Dest>呃……</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyargh!</Source>
+      <Dest>嘿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Give up while you still can!</Source>
+      <Dest>趁你还有命的时候，投降吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, vampire!</Source>
+      <Dest>去死吧，吸血鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, beast!</Source>
+      <Dest>去死吧，畜生！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, dragon!</Source>
+      <Dest>去死吧，巨龙！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have your head!</Source>
+      <Dest>我要取你的首级！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, damn you!</Source>
+      <Dest>去死吧，混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've had enough of you!</Source>
+      <Dest>我受够你了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not impressed!</Source>
+      <Dest>雕虫小技！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're nothing!</Source>
+      <Dest>你这无名的蝼蚁之辈！</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't win this!</Source>
+      <Dest>就你这两下子还想获胜?！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Argh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>That the best you can do?</Source>
+      <Dest>这就是你的极限了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn you!</Source>
+      <Dest>去你妈的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Do your worst!</Source>
+      <Dest>你这样还不够看！</Dest>
+    </String>
+    <String List="2">
+      <Source>No!</Source>
+      <Dest>不！</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on!</Source>
+      <Dest>上啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Be careful!</Source>
+      <Dest>小心！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, watch it!</Source>
+      <Dest>喂，注意点！</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand.</Source>
+      <Dest>我明白了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.</Source>
+      <Dest>当然了。</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I argue with that?</Source>
+      <Dest>我怎能不同意呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Nah. I don't think so.</Source>
+      <Dest>不要，我没兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll teach you to talk to me that way!</Source>
+      <Dest>你居然敢这样跟我说话！</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>有事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's anyone's guess.  I'm sure my wife would know.</Source>
+      <Dest>大家都这么猜。我估计我的妻子也知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Lundvar.  Something you need, kinsman?</Source>
+      <Dest>啊， 兰发。你需要什么，兄弟？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are there any messages for me?</Source>
+      <Dest>有什么给我的消息吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah yes. Here. Take a look at this.</Source>
+      <Dest>是啊。在这里。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know where I can find some work?</Source>
+      <Dest>你知道在哪能找到工作吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah yes. Here. Take a look at this.</Source>
+      <Dest>是啊。在这里。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any news or rumors floating about?</Source>
+      <Dest>有什么流言蜚语说来听听？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah yes. Here. Take a look at this.</Source>
+      <Dest>是啊。在这里。看看这个。</Dest>
+    </String>
+    <String List="2">
+      <Source>How about a drink? None of that local piss. Real Black-Briar mead, fresh from Riften.</Source>
+      <Dest>How about a drink? None of that local piss. Real Black-Briar mead, fresh from Riften.</Dest>
+    </String>
+    <String List="2">
+      <Source>Disappointing.</Source>
+      <Dest>真令人失望。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

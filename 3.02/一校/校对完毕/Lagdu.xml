@@ -6,42 +6,6 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Bastard!  How much is he paying you?</Source>
-      <Dest>混蛋！他付了你多少钱？</Dest>
-    </String>
-    <String List="2">
-      <Source>You still don't get it, do you, boulder brain?  Sevaris sold us out.</Source>
-      <Dest>你还是不明白，对吗，石头脑袋？赛伯斯把我们全都出卖了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You still don't get it, do you?  Sevaris sold us out.</Source>
-      <Dest>你还是不明白，对吗？赛伯斯把我们全都出卖了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Brakh. You're the same old lap dog.</Source>
-      <Dest>布拉可。你同样是一只老哈巴狗。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.</Source>
-      <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
-    </String>
-    <String List="2">
-      <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.</Source>
-      <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
-    </String>
     <String List="2">
       <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.  </Source>
       <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
@@ -49,10 +13,6 @@
     <String List="2">
       <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.  </Source>
       <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
-    </String>
-    <String List="2">
-      <Source>What reason do I have to lie, idiot?  He sold our right to hunt on our own land. </Source>
-      <Dest>我有什么理由撒谎，白痴？我们在自己的土地上狩猎，他却把这项权利给卖了。 </Dest>
     </String>
     <String List="2">
       <Source>What reason do I have to lie?  He sold our right to hunt on our own land. </Source>
@@ -63,8 +23,48 @@
       <Dest>赛伯斯为东帝国贸易公司服务，也为南面的某个名叫卡贝尼亚的贵族服务。</Dest>
     </String>
     <String List="2">
+      <Source>You still don't get it, do you?  Sevaris sold us out.</Source>
+      <Dest>你还是不明白，对吗？赛伯斯把我们全都出卖了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bastard!  How much is he paying you?</Source>
+      <Dest>混蛋！他付了你多少钱？</Dest>
+    </String>
+    <String List="2">
+      <Source>Brakh. You're the same old lap dog.</Source>
+      <Dest>布拉可。你同样是一只老哈巴狗。</Dest>
+    </String>
+    <String List="2">
+      <Source>What reason do I have to lie, idiot?  He sold our right to hunt on our own land. </Source>
+      <Dest>我有什么理由撒谎，白痴？我们在自己的土地上狩猎，他却把这项权利给卖了。 </Dest>
+    </String>
+    <String List="2">
       <Source>Sevaris was working for the East Empire Company, and some southern Baron named Gabania. </Source>
       <Dest>赛伯斯为东帝国贸易公司服务，也为南面的某个名叫卡贝尼亚的贵族服务。</Dest>
+    </String>
+    <String List="2">
+      <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.</Source>
+      <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
+    </String>
+    <String List="2">
+      <Source>They had a deal with the Jarl.  If I didn't kill Sevaris, you, me, we'd all be hunting for them.</Source>
+      <Dest>他们和领主有一笔交易。如果我没有杀赛伯斯的话，你，还有我，如今就会在寻找他们了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You still don't get it, do you, boulder brain?  Sevaris sold us out.</Source>
+      <Dest>你还是不明白，对吗，石头脑袋？赛伯斯把我们全都出卖了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
