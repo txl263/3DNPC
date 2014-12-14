@@ -8,339 +8,371 @@
   <Content>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
-      <Source>Gorr is twice of the size of that brawler he just pummeled.</Source>
-      <Dest>Gorr的体型是刚刚被他打过的那个格斗者的两倍。</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you know anything regarding J'Sharr's whereabouts?</Source>
-      <Dest>你知道任何关于J'Sharr's的下落吗?</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you know anything regarding J'Sharr's whereabouts?</Source>
-      <Dest>你知道任何关于J'Sharr's的下落吗?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why bet on someone you think will lose?</Source>
-      <Dest>为什么赌那些你认为会输的人呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why bet on someone you think will lose?</Source>
-      <Dest>为什么赌那些你认为会输的人呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why bet on someone you think will lose?</Source>
-      <Dest>为什么赌那些你认为会输的人呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why bet on someone you think will lose?</Source>
-      <Dest>为什么赌那些你认为会输的人呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why bet on someone you think will lose?</Source>
-      <Dest>为什么赌那些你认为会输的人呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>I agree. Pit fans are idiots.</Source>
-      <Dest>我同意他的说法。竞技狂热者都是白痴。</Dest>
-    </String>
-    <String List="0">
-      <Source>I agree. Pit fans are idiots.</Source>
-      <Dest>我同意他的说法。竞技狂热者都是白痴。</Dest>
-    </String>
-    <String List="0">
-      <Source>I agree. Pit fans are idiots.</Source>
-      <Dest>我同意他的说法。竞技狂热者都是白痴。</Dest>
-    </String>
-    <String List="0">
-      <Source>I concur. A warhammer would be useless in the corners by the cage door.</Source>
-      <Dest>我也这么想。一个战锤在笼门的角落搁着不用是毫无用处的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I concur. A warhammer would be useless in the corners by the cage door.</Source>
-      <Dest>我也这么想。一个战锤在笼门的角落搁着不用是毫无用处的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
-      <Dest>你说勾尔的胜利出乎意料，这是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have fell prey to J'Sharr's lies.</Source>
-      <Dest>你一定是杰夏尔的谎言牺牲品。</Dest>
-    </String>
-    <String List="0">
-      <Source>Pit fans come in all types. Take yourself for example.</Source>
-      <Dest>竞技狂热者里也是啥人都有啊。就以你为例.</Dest>
-    </String>
-    <String List="0">
-      <Source>Pit fans come in all types. Take yourself for example.</Source>
-      <Dest>竞技狂热者里也是啥人都有啊。就以你为例.</Dest>
-    </String>
-    <String List="0">
-      <Source>Pit fans come in all types. Take yourself for example.</Source>
-      <Dest>竞技狂热者里也是啥人都有啊。就以你为例.</Dest>
-    </String>
-    <String List="0">
-      <Source>It was foolish to bet against Gorr.</Source>
-      <Dest>和戈尔打赌太傻了。</Dest>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="0">
       <Source>Do you think your blindness is what drove your gambling philosophy?</Source>
-      <Dest>你觉得你的失明驱使了你的赌博理念？</Dest>
+      <Dest>你觉得是你的失明驱使你的赌博理念？</Dest>
+    </String>
+    <String List="2">
+      <Source>A fair question. Perhaps a part of me takes pleasure in seeing the angles that others do not.</Source>
+      <Dest>好问题。这可能是因为我的内心会因为从与众不同的角度看待问题而感到愉悦。</Dest>
     </String>
     <String List="0">
       <Source>Do you think your blindness is what drove your gambling philosophy?</Source>
-      <Dest>你觉得你的失明驱使了你的赌博理念？</Dest>
+      <Dest>你觉得是你的失明驱使你的赌博理念？</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I don't think my motivations influence my decisions. Otherwise I would wager against the public at a higher rate than I do.</Source>
+      <Dest>然而，我不认为我的情绪影响了我的决策能力。不然我敢打赌公众就会给我投更多的反对票。</Dest>
     </String>
     <String List="0">
       <Source>I agree. Intangibles are not something we can rely on to pick winners.</Source>
       <Dest>我同意。不能依赖无形去选择谁是赢家。</Dest>
     </String>
+    <String List="2">
+      <Source>Then we are of like mind. Of course, I don't mean to suggest these factors should be ignored.</Source>
+      <Dest>我们就像一种精神。当然，我一点也没有暗示这些因素应该被无视。</Dest>
+    </String>
     <String List="0">
       <Source>I agree. Intangibles are not something we can rely on to pick winners.</Source>
       <Dest>我同意。不能依赖无形去选择谁是赢家。</Dest>
-    </String>
-    <String List="0">
-      <Source>The only thing that matters is the skill of the fighter.</Source>
-      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>The only thing that matters is the skill of the fighter.</Source>
-      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>The only thing that matters is the skill of the fighter.</Source>
-      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>In terms of strategy, using overhead strikes would avoid the walls completely.</Source>
-      <Dest>在战略上，从头顶攻击的话能够避免一边倒的局势</Dest>
-    </String>
-    <String List="0">
-      <Source>In terms of strategy, using overhead strikes would avoid the walls completely.</Source>
-      <Dest>在战略上，从头顶攻击的话可能会避免一边倒的局势</Dest>
-    </String>
-    <String List="0">
-      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
-      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
-    </String>
-    <String List="0">
-      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
-      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
-    </String>
-    <String List="0">
-      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
-      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
-    </String>
-    <String List="0">
-      <Source>I imagine it's difficult to wager on fighters you don't know.</Source>
-      <Dest>我觉得在你不认识的选手身上下注恐怕不容易吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>The roar of the crowd inspires many fighters to overachieve.</Source>
-      <Dest>观众的叫喊声会刺激选手们超常发挥。</Dest>
-    </String>
-    <String List="0">
-      <Source>The roar of the crowd inspires many fighters to overachieve.</Source>
-      <Dest>观众的叫喊声会刺激选手们超常发挥。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, having no other information on the combatants, the choice was clear. </Source>
-      <Dest>现在, 斗士们没有其他的消息, 选择很明显了. </Dest>
-    </String>
-    <String List="2">
-      <Source>True, but your opponent would recognize this as well.  Not to mention the opposite is true given the cage dangling over the center of the ring.</Source>
-      <Dest>对。但是你的对手也能想到啊。更别说挂在环中央的笼子暗示着事实恰恰相反。</Dest>
-    </String>
-    <String List="2">
-      <Source>For instance, by my calculation, a man that size has a 2 to 1 chance of being beaten by a smaller opponent.</Source>
-      <Dest>比如，根据我的计算，那个小一点的伙计赢的几率也就三成多一点吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>This is not to say that intangible qualities don't exist. Things like pressure and the influence of the crowd are very real.</Source>
-      <Dest>这不是说无形的特质就不存在。类似于压力或者群体影响这种事是很真实的。</Dest>
-    </String>
-    <String List="2">
-      <Source>The cramped space forces the action and prevents the beasts from fleeing.</Source>
-      <Dest>狭小的空间有利于限制行动并防止野兽逃掉。</Dest>
     </String>
     <String List="2">
       <Source>We simply need to develop better ways of understanding their effects.</Source>
       <Dest>我们需要的只是找到更好的方式去理解它们的效果。</Dest>
     </String>
+    <String List="0">
+      <Source>The roar of the crowd inspires many fighters to overachieve.</Source>
+      <Dest>观众的叫喊声会刺激选手们超常发挥。</Dest>
+    </String>
     <String List="2">
-      <Source>Then we are of like mind. Of course, I don't mean to suggest these factors should be ignored.</Source>
-      <Dest>我们就像一种精神。当然，我一点也没有暗示这些因素应该被无视。</Dest>
+      <Source>Perhaps, but the point is it cannot be measured. If it were an absolute, the betting public would never lose a wager.</Source>
+      <Dest>或许吧，但关键是比赛结果必须是不能预料的。如果比赛不受任何干扰的话，那下注的赌棍们就永远不会赌输了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The roar of the crowd inspires many fighters to overachieve.</Source>
+      <Dest>观众的叫喊声会刺激选手们超常发挥。</Dest>
+    </String>
+    <String List="2">
+      <Source>They would simply choose a fighter and collectively will them to victory.</Source>
+      <Dest>他们会随意地选取一个斗士，然后凝聚力将会将他们引向胜利。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
+      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it's a common belief that those who are rattled by nerves convulse into spasms.</Source>
+      <Dest>是的，这是个那些因为惊吓到不能自理的人的共同信念。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
+      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I doubt when you go off to battle, you'll find many warriors literally shaking in their boots.</Source>
+      <Dest>不过，我猜无论你何时奔赴前线，你都会发现很多战士吓得两腿发软站都站不起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those who fear the moment quiver like reeds in the wind.</Source>
+      <Dest>那些闻风而惧的惊弓之鸟。</Dest>
+    </String>
+    <String List="2">
+      <Source>The social pressure to hide our fears is just too great.</Source>
+      <Dest>社会要求我们隐藏恐惧的压力实在是太大了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Being blind, I imagine someone relays this information to you.</Source>
+      <Dest>Being blind, I imagine someone relays this information to you.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Fair Lady is kind enough to describe the fighters, and I am well acquainted with the ring, having traversed its grounds on numerous occasions.</Source>
+      <Dest>淑女们都会非常友善地详细介绍那些斗士们，而且我对赛场已经非常熟悉了，几乎能嗅到胜利会花落谁家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Being blind, I imagine someone relays this information to you.</Source>
+      <Dest>Being blind, I imagine someone relays this information to you.</Dest>
+    </String>
+    <String List="2">
+      <Source>I do think my lack of vision is an asset. It allows me to judge the fighters purely on factual information.</Source>
+      <Dest>我确实认为我那注重细节的习惯是个优点。这让我能够获取真实的信息客观地评判战士们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Being blind, I imagine someone relays this information to you.</Source>
+      <Dest>Being blind, I imagine someone relays this information to you.</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not to say that intangible qualities don't exist. Things like pressure and the influence of the crowd are very real.</Source>
+      <Dest>这不是说无形的特质就不存在。类似于压力或者群体影响这种事是很真实的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Being blind, I imagine someone relays this information to you.</Source>
+      <Dest>Being blind, I imagine someone relays this information to you.</Dest>
+    </String>
+    <String List="2">
+      <Source>We simply lack the means to measure them. As such, any data related to such factors is unreliable.</Source>
+      <Dest>我们只是缺乏估测它们的方法。因此，任何相关因素的数据都不怎么可靠。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine it's difficult to wager on fighters you don't know.</Source>
+      <Dest>我觉得在你不认识的选手身上下注恐怕不容易吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It depends on what you mean by "know." Previous history can sometimes be the worst kind of bias, as it does not guarantee future results.</Source>
+      <Dest>这取决于你所谓的“知道”指的是什么。先前的历史有时是种最糟糕的偏向，因为它并不能保证未来的结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gorr is twice of the size of that brawler he just pummeled.</Source>
+      <Dest>戈尔的体型是他刚刚打过的那个争吵者的两倍。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is precisely why his victory was unlikely.  The plates of muscle that cover your friend mean little when they cannot be flexed.</Source>
+      <Dest>这就是他不可能赢的原因。你的朋友在身体的每一个肌肉上都覆盖了金属板，却也意味着不能弯曲了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have fell prey to J'Sharr's lies.</Source>
+      <Dest>你必须听信杰夏尔的谎言</Dest>
+    </String>
+    <String List="2">
+      <Source>I confess, I don't know who that is, nor would I listen to any outside influence.  Only the numbers tell the truth.</Source>
+      <Dest>我承认，我不知道那是谁，也不会去听任外界的谣言。只有数字才会显露真相。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was foolish to bet against Gorr.</Source>
+      <Dest>和戈尔打赌太傻了。</Dest>
     </String>
     <String List="2">
       <Source>On the contrary, I wagered on him. It was the logical choice.</Source>
       <Dest>正好相反，我为他担保。这是个合理的选择。</Dest>
     </String>
     <String List="2">
-      <Source>That is precisely why his victory was unlikely.  The plates of muscle that cover your friend mean little when they cannot be flexed.</Source>
-      <Dest>这就是他不可能赢的原因。你的朋友在身体的每一个肌肉上都覆盖了金属板，却也意味着不能弯曲了。</Dest>
-    </String>
-    <String List="2">
-      <Source>What the space does is give an advantage to those who use daggers and press attacks.</Source>
-      <Dest>距离的作用就是在应对使用匕首近身攻击的人时，占有一定的优势。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>A fair question. Perhaps a part of me takes pleasure in seeing the angles that others do not.</Source>
-      <Dest>好问题。这可能是因为我的内心会因为从与众不同的角度看待问题而感到愉悦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, the average pit fan pays no heed to the size of the ring, but rather the size of the muscles on our combatants.</Source>
-      <Dest>当然，热衷于看斗兽的人们不会在乎指环的大小，他们只在乎我们的斗士身上的肌肉的结实程度。</Dest>
-    </String>
-    <String List="2">
-      <Source>The environment, however, suffers through dramatic shifts, whether it's fighting indoors versus outdoors or the size of the Arena.</Source>
-      <Dest>然而不论是在室内还是室外，斗技场是大是小，角斗的环境总会带来巨大的差异。</Dest>
-    </String>
-    <String List="2">
-      <Source>They would simply choose a fighter and collectively will them to victory.</Source>
-      <Dest>他们会随意地选取一个斗士，然后凝聚力将会将他们引向胜利。</Dest>
-    </String>
-    <String List="2">
-      <Source>Most gamblers hoard information in hopes of maintaining an edge.</Source>
-      <Dest>大多数赌徒为了维持自己的优势而守口如瓶。.</Dest>
-    </String>
-    <String List="2">
-      <Source>I do my best to tune out the outside world. At times, I wish I were deaf instead of blind.</Source>
-      <Dest>我尽自己所能避世而居。此时此刻，比起失明我更希望自己失聪.</Dest>
-    </String>
-    <String List="2">
-      <Source>It depends on what you mean by "know." Previous history can sometimes be the worst kind of bias, as it does not guarantee future results.</Source>
-      <Dest>这取决于你所谓的“知道”指的是什么。先前的历史有时是种最糟糕的偏向，因为它并不能保证未来的结果。</Dest>
-    </String>
-    <String List="2">
-      <Source>We simply lack the means to measure them. As such, any data related to such factors is unreliable.</Source>
-      <Dest>我们只是缺乏估测它们的方法。因此，任何相关因素的数据都不怎么可靠。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, it's a common belief that those who are rattled by nerves convulse into spasms.</Source>
-      <Dest>是的，这是个那些因为惊吓到不能自理的人的共同信念。</Dest>
-    </String>
-    <String List="2">
-      <Source>However, I don't think my motivations influence my decisions. Otherwise I would wager against the public at a higher rate than I do.</Source>
-      <Dest>然而，我不认为我的情绪影响了我的决策能力。不然我敢打赌公众就会给我投更多的反对票。</Dest>
-    </String>
-    <String List="2">
-      <Source>Easy. The odds dictate who I wager on. </Source>
-      <Dest>很简单。赔率决定我下注的对象。</Dest>
-    </String>
-    <String List="2">
-      <Source>The social pressure to hide our fears is just too great.</Source>
-      <Dest>社会要求我们隐藏恐惧的压力实在是太大了。</Dest>
-    </String>
-    <String List="2">
-      <Source>After all, misinformation can take many forms, and sometimes it's worse than having no information at all.</Source>
-      <Dest>毕竟，错误的情报多种多样，而且有时候这比没有情报危害更大。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have actually seen a fighter successfully move another into that corner only to find he had no room to swing his weapon.</Source>
-      <Dest>我有次看见一个战士成功地把对手逼到那个角落，结果却发现自己在那儿是挥不开兵器的。</Dest>
+      <Source>So the Redguard won. It was unexpected, but not entirely unprecedented.</Source>
+      <Dest>那么红卫人赢了。出人意料，但也并未史无前例。</Dest>
     </String>
     <String List="2">
       <Source>If you're curious, I refrained from wagering on your match. I need more data on the effectiveness of scimitars in the ring.</Source>
       <Dest>你要是想知道，我强忍着没给你下注。我需要更多的了解圆场里面弯刀的使用效率。.</Dest>
     </String>
-    <String List="2">
-      <Source>Well, I wouldn't go that far. But the intellectual gap is unlikely to change, when there's so little incentive to share the knowledge.</Source>
-      <Dest>好吧，我不应该扯那么远。但既然缺乏分享知识与经验的动机，那样精明的人几乎就那么几个，不会有变化。</Dest>
+    <String List="0">
+      <Source>I concur. A warhammer would be useless in the corners by the cage door.</Source>
+      <Dest>我也这么想。一个战锤在笼门的角落搁着是毫无用处的。</Dest>
     </String>
     <String List="2">
-      <Source>This would present a significant tactical advantage for any fighter.</Source>
-      <Dest>对任何战士而言，这都会提供一个重要的战术优势。</Dest>
+      <Source>I have actually seen a fighter successfully move another into that corner only to find he had no room to swing his weapon.</Source>
+      <Dest>我有次看见一个战士成功地把对手逼到那个角落，结果却发现自己在那儿是挥不开兵器的。</Dest>
     </String>
-    <String List="2">
-      <Source>While the situation favors the smaller opponent, the larger one provided the more substantial reward based on the level of risk.</Source>
-      <Dest>这种情况有利于规模较小的敌人。而敌人数量越多，我们冒的风险越大，收益也就越多。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Fair Lady is kind enough to describe the fighters, and I am well acquainted with the ring, having traversed its grounds on numerous occasions.</Source>
-      <Dest>淑女们都会非常友善地详细介绍那些斗士们，而且我对赛场已经非常熟悉了，几乎能嗅到胜利会花落谁家。</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps, but the point is it cannot be measured. If it were an absolute, the betting public would never lose a wager.</Source>
-      <Dest>或许吧，但关键是比赛结果必须是不能预料的。如果比赛不受任何干扰的话，那下注的赌棍们就永远不会赌输了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I do think my lack of vision is an asset. It allows me to judge the fighters purely on factual information.</Source>
-      <Dest>我确实认为我那注重细节的习惯是个优点。这让我能够获取真实的信息客观地评判战士们。</Dest>
+    <String List="0">
+      <Source>I concur. A warhammer would be useless in the corners by the cage door.</Source>
+      <Dest>我也这么想。一个战锤在笼门的角落搁着是毫无用处的。</Dest>
     </String>
     <String List="2">
       <Source>It was rather amusing given the combatant had assumed he was outsmarting his opponent, only to find he had outsmarted himself.</Source>
       <Dest>这战士还以为他比对手更聪明，真是太好笑了，他最后才发现自己的自以为是。</Dest>
     </String>
-    <String List="2">
-      <Source>It's natural for mortals to fall into predictable narratives because it helps them feel like they understand what's happening.</Source>
-      <Dest>对凡人来说，落入意料之中的情况是种天性。因为这有助于他们想要了解发生了什么。</Dest>
+    <String List="0">
+      <Source>The only thing that matters is the skill of the fighter.</Source>
+      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
     </String>
     <String List="2">
       <Source>This is a romantic view of the Arena, that all is fair and based on merit.</Source>
       <Dest>这是竞技场上一个不切实际的观点，一切都是公平的，也以价值为依据。</Dest>
     </String>
-    <String List="2">
-      <Source>So the Redguard won. It was unexpected, but not entirely unprecedented.</Source>
-      <Dest>那么红卫人赢了。出人意料，但也并未史无前例。</Dest>
-    </String>
-    <String List="2">
-      <Source>The bigger fighter then becomes the better fighter, even when reality refuses to confirm that opinion.</Source>
-      <Dest>块头大的打手总是好的，即使实际情况不想承认这点。</Dest>
-    </String>
-    <String List="2">
-      <Source>Simple. You'll notice the size of the ring. It's clearly been designed for wolves.</Source>
-      <Dest>蠢货。你看那圆场的大小。明显就是为狼人设计的。</Dest>
+    <String List="0">
+      <Source>The only thing that matters is the skill of the fighter.</Source>
+      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
     </String>
     <String List="2">
       <Source>The reality is that while having skill is important, there isn't much variation between warriors of high caliber.</Source>
       <Dest>事实上有技术是很重要的, 这点对任何卓越的勇士都一样。</Dest>
     </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他因为迫不得已在独孤城过了一夜。</Dest>
+    <String List="0">
+      <Source>The only thing that matters is the skill of the fighter.</Source>
+      <Dest>唯一要紧的事就是战士的本事如何。</Dest>
     </String>
     <String List="2">
-      <Source>I confess, I don't know who that is, nor would I listen to any outside influence.  Only the numbers tell the truth.</Source>
-      <Dest>我承认，我不知道那是谁，也不会去听任外界的谣言。只有数字才会显露真相。</Dest>
+      <Source>The environment, however, suffers through dramatic shifts, whether it's fighting indoors versus outdoors or the size of the Arena.</Source>
+      <Dest>然而不论是在室内还是室外，斗技场是大是小，角斗的环境总会带来巨大的差异。</Dest>
+    </String>
+    <String List="0">
+      <Source>In terms of strategy, using overhead strikes would avoid the walls completely.</Source>
+      <Dest>In terms of strategy, using overhead strikes would avoid the walls completely.</Dest>
+    </String>
+    <String List="2">
+      <Source>True, but your opponent would recognize this as well.  Not to mention the opposite is true given the cage dangling over the center of the ring.</Source>
+      <Dest>对。但是你的对手也能想到啊。更别说挂在环中央的笼子暗示着事实恰恰相反。</Dest>
+    </String>
+    <String List="0">
+      <Source>In terms of strategy, using overhead strikes would avoid the walls completely.</Source>
+      <Dest>In terms of strategy, using overhead strikes would avoid the walls completely.</Dest>
+    </String>
+    <String List="2">
+      <Source>This would present a significant tactical advantage for any fighter.</Source>
+      <Dest>对任何战士而言，这都会提供一个重要的战术优势。</Dest>
+    </String>
+    <String List="0">
+      <Source>Pit fans come in all types. Take yourself for example.</Source>
+      <Dest>Pit fans 也是啥人都有啊。就以你为例.</Dest>
+    </String>
+    <String List="2">
+      <Source>While I don't disagree that there are some who prefer a more scholastic approach to wagering, I assure you that is far from the norm.</Source>
+      <Dest>While I don't disagree that there are some who prefer a more scholastic approach to wagering, I assure you that is far from the norm.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pit fans come in all types. Take yourself for example.</Source>
+      <Dest>Pit fans 也是啥人都有啊。就以你为例.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's natural for mortals to fall into predictable narratives because it helps them feel like they understand what's happening.</Source>
+      <Dest>对凡人来说，落入意料之中的情况是种天性。因为这有助于他们想要了解发生了什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Pit fans come in all types. Take yourself for example.</Source>
+      <Dest>Pit fans 也是啥人都有啊。就以你为例.</Dest>
+    </String>
+    <String List="2">
+      <Source>The bigger fighter then becomes the better fighter, even when reality refuses to confirm that opinion.</Source>
+      <Dest>块头大的打手总是好的，即使实际情况不想承认这点。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Pit fans are idiots.</Source>
+      <Dest>我同意他的说法。矿坑的人都是白痴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I wouldn't go that far. But the intellectual gap is unlikely to change, when there's so little incentive to share the knowledge.</Source>
+      <Dest>好吧，我不应该扯那么远。但既然缺乏分享知识与经验的动机，那样精明的人几乎就那么几个，不会有变化。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Pit fans are idiots.</Source>
+      <Dest>我同意他的说法。矿坑的人都是白痴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most gamblers hoard information in hopes of maintaining an edge.</Source>
+      <Dest>大多数赌徒为了维持自己的优势而守口如瓶。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Pit fans are idiots.</Source>
+      <Dest>我同意他的说法。矿坑的人都是白痴。</Dest>
+    </String>
+    <String List="2">
+      <Source>I, however, am fortunate enough to be in a position where the financial rewards mean little. It's the process that intrigues me.</Source>
+      <Dest>I, however, am fortunate enough to be in a position where the financial rewards mean little. It's the process that intrigues me.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Simple. You'll notice the size of the ring. It's clearly been designed for wolves.</Source>
+      <Dest>蠢货。你看那圆场的大小。明显就是为狼人设计的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>The cramped space forces the action and prevents the beasts from fleeing.</Source>
+      <Dest>狭小的空间有利于限制行动并防止野兽逃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
     </String>
     <String List="2">
       <Source>Such measures are not needed for mortals. The social pressure is enough to induce fighting.</Source>
       <Dest>这种方法对凡人来说并无必要。社会压力足以引发争斗了。</Dest>
     </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What the space does is give an advantage to those who use daggers and press attacks.</Source>
+      <Dest>距离的作用就是在应对使用匕首近身攻击的人时，占有一定的优势。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
+    </String>
     <String List="2">
       <Source>A large weapon will clip against the walls, and presents a major disadvantage for fighters.</Source>
       <Dest>一把巨大的武器在墙角中间根本施展不开，而这对一个战士是巨大的不利。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean when you say Gorr's win was unexpected?</Source>
+      <Dest>你说戈尔的胜利是意想不到的，这是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, the average pit fan pays no heed to the size of the ring, but rather the size of the muscles on our combatants.</Source>
+      <Dest>当然，热衷于看斗兽的人们不会在乎指环的大小，他们只在乎我们的斗士身上的肌肉的结实程度。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why bet on someone you think will lose?</Source>
+      <Dest>为什么赌那些你认为会输的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Easy. The odds dictate who I wager on. </Source>
+      <Dest>很简单。赔率决定我下注的对象。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why bet on someone you think will lose?</Source>
+      <Dest>为什么赌那些你认为会输的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, by my calculation, a man that size has a 2 to 1 chance of being beaten by a smaller opponent.</Source>
+      <Dest>比如，根据我的计算，那个小一点的伙计赢的几率也就三成多一点吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why bet on someone you think will lose?</Source>
+      <Dest>为什么赌那些你认为会输的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>However, the odds the Fair Lady set for the match were 4 to 1. </Source>
+      <Dest>However, the odds the Fair Lady set for the match were 4 to 1. </Dest>
+    </String>
+    <String List="0">
+      <Source>Why bet on someone you think will lose?</Source>
+      <Dest>为什么赌那些你认为会输的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, having no other information on the combatants, the choice was clear. </Source>
+      <Dest>现在, 斗士们没有其他的消息, 选择很明显了. </Dest>
+    </String>
+    <String List="0">
+      <Source>Why bet on someone you think will lose?</Source>
+      <Dest>为什么赌那些你认为会输的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>While the situation favors the smaller opponent, the larger one provided the more substantial reward based on the level of risk.</Source>
+      <Dest>这种情况有利于规模较小的敌人。而敌人数量越多，我们冒的风险越大，收益也就越多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know anything regarding J'Sharr's whereabouts?</Source>
+      <Dest>你知道任何关于杰夏尔的下落吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>I do my best to tune out the outside world. At times, I wish I were deaf instead of blind.</Source>
+      <Dest>我尽自己所能避世而居。此时此刻，比起失明我更希望自己失聪.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know anything regarding J'Sharr's whereabouts?</Source>
+      <Dest>你知道任何关于杰夏尔的下落吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, misinformation can take many forms, and sometimes it's worse than having no information at all.</Source>
+      <Dest>毕竟，错误的情报多种多样，而且有时候这比没有情报危害更大。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

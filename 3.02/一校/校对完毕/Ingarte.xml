@@ -6,737 +6,769 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>How long have you worked the inn?</Source>
-      <Dest>你在这家酒馆干了多久了？</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you worked the inn?</Source>
-      <Dest>你在这家酒馆干了多久了？</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you worked the inn?</Source>
-      <Dest>你在这家酒馆干了多久了？</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you worked the inn?</Source>
-      <Dest>你在这家酒馆干了多久了？</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>Do the Nords treat you like a local?</Source>
-      <Dest>诺德人把你看作是当地人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do the Nords treat you like a local?</Source>
-      <Dest>诺德人把你看作是当地人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do the Nords treat you like a local?</Source>
-      <Dest>诺德人把你看作是当地人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do the Nords treat you like a local?</Source>
-      <Dest>诺德人把你看作是当地人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do the Nords treat you like a local?</Source>
-      <Dest>诺德人把你看作是当地人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd like to feel your bottom.</Source>
-      <Dest>我想摸摸你的屁股。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd like to feel your bottom.</Source>
-      <Dest>我想摸摸你的屁股。</Dest>
-    </String>
-    <String List="0">
-      <Source>A fork and a dinner plate could create the same effect.</Source>
-      <Dest>叉子和饭碗可以产生相同的效果。</Dest>
-    </String>
-    <String List="0">
-      <Source>A fork and a dinner plate could create the same effect.</Source>
-      <Dest>叉子和饭碗可以产生相同的效果。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're not like the other inn maids.</Source>
-      <Dest>你跟一般的女仆有点不同啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're not like the other inn maids.</Source>
-      <Dest>你跟一般的女仆有点不同啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're not like the other inn maids.</Source>
-      <Dest>你跟一般的女仆有点不同啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>An Orc bard is an acquired taste.</Source>
-      <Dest>兽人做吟游诗人是需要后天努力的。</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You look like you could use a drink.  Something the matter?</Source>
-      <Dest>看起來你沒办法喝一杯，是有什么问题吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a salty wench.</Source>
-      <Dest>你这个咸湿女仆。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a salty wench.</Source>
-      <Dest>你这个咸湿女仆。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a salty wench.</Source>
-      <Dest>你这个咸湿女仆。</Dest>
-    </String>
-    <String List="0">
-      <Source>Ragnar the Red is an anecdote about the perils of alliteration.</Source>
-      <Dest>红衣拉格纳象征着不祥的兆头。</Dest>
-    </String>
-    <String List="0">
-      <Source>Ragnar the Red is an anecdote about the perils of alliteration.</Source>
-      <Dest>红衣拉格纳象征着不祥的兆头。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a fan of Ragnar?</Source>
-      <Dest>你是拉格纳的粉丝？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a fan of Ragnar?</Source>
-      <Dest>你是拉格纳的粉丝？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a fan of Ragnar?</Source>
-      <Dest>你是拉格纳的粉丝？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a fan of Ragnar?</Source>
-      <Dest>你是拉格纳的粉丝？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's pretty much the craziest sodding thing I've ever heard.</Source>
-      <Dest>那简直是我听说过最疯狂的倒霉事儿了</Dest>
-    </String>
-    <String List="0">
-      <Source>A true gentleman withholds his desire for when it's appropriate.</Source>
-      <Dest>真正的绅士会把欲望留到合理的时候去发泄。</Dest>
-    </String>
     <String List="2">
-      <Source>You want something to drink?</Source>
-      <Dest>你想喝点什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes I'll complain about the cold, or boast about how ginseng can cure anything. </Source>
-      <Dest>有时我会抱怨寒冷，或到处夸大人参的药效。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Sorry handsome, but it ain't Jonas. This poor arse-drinker couldn't slay a flea. You want that Argonian, the one that lives up north in the swamp.</Source>
-      <Dest>抱歉帅小伙儿，但这不是乔纳斯。这个可怜的酒囊饭袋连只跳蚤也杀不死。你想找的蜥蜴人住在北方的沼泽里。</Dest>
-    </String>
-    <String List="2">
-      <Source>You know what it's really about? Coin. That Ragnar fellow must've been plenty rich after all that adventuring, and Matilda knew it.</Source>
-      <Dest>你知道这到底是为了什么吗？钱。拉格纳那家伙在道上混了那么久，绝对有的是钱！玛蒂尔达是知道的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until next time.</Source>
-      <Dest>下回见。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's enough Jonas, stop confusing the other patrons with your lies.</Source>
-      <Dest>够了乔纳斯，别再用你的谎言把其他客人给搞糊涂了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then they look at me sideways, like I just got off the boat from Morrowind.</Source>
-      <Dest>然后他们看着我，就像我刚从晨风下了船。</Dest>
-    </String>
-    <String List="2">
-      <Source>And what kind of woman wants a gentle man?  Seems to me men are better when they aren't gentle, and more exciting when they're inappropriate.</Source>
-      <Dest>什么样的女人会想要温文尔雅的男人呢？要我看男人在不那么文雅的时候才好，在他们失礼的时候更刺激！</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>Talk to me rough, slap me ass, and I might give you a smile.  But don't say nothing bad about Lurbuk.</Source>
-      <Dest>冲我说粗话，打我的屁股，我还是能给你个笑脸。但是别跟我提起卢布克。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've always said I got half of my mother, half of my father, and half of the Coast in me.  </Source>
-      <Dest>我一直说我一半像妈妈，一半像爸爸，还有一半像我自己心中的海滩。 </Dest>
-    </String>
-    <String List="2">
-      <Source>You want another one of those?</Source>
-      <Dest>你要另外一个？</Dest>
-    </String>
-    <String List="2">
-      <Source>Would you now, lass?  Now that I wasn't expecting! But aye, a strong woman's got a grip as good as any man, so long as she's committed.</Source>
-      <Dest>现在吗，小姑娘？这可超出我的预期了。但是的确,一个坚强的女人也可以像任何男人一样控制自己 。只要她坚定不移。</Dest>
+      <Source>Hurry up and order, I ain't got all day.</Source>
+      <Dest>快，点，单，我可忙着呐。</Dest>
     </String>
     <String List="2">
       <Source>You want a drink?</Source>
-      <Dest>想喝点什么吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>If a man don't want a taste of your pie enough to steal a slice, then either he ain't a man, or you ain't a woman.</Source>
-      <Dest>要是男人连偷偷尝一尝你的"派"的欲望都没有，那么要么他不是男人，要么你不是女人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Have you met the bard that plays here?  He's got a voice like broken glass and fingers like the knob of a carrot.</Source>
-      <Dest>你知道那个曾一直在这表演的吟遊诗人吗? 他有一幅破瓦似的嗓子和长瘤胡萝卜般的手指。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>At least, we used to.</Source>
-      <Dest>至少，我们是习惯了的。</Dest>
-    </String>
-    <String List="2">
-      <Source>At least, we used to.</Source>
-      <Dest>至少，我们是习惯了的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, name's Ingarte, and I got salt in my bones and fire in my breath, for ain't no comely lass fit to handle the sort that come through an inn.</Source>
-      <Dest>是啊，我的名字叫印卡塔，以盐为骨，以火为息。为了让那些寂寞漂亮的姑娘们都能有个心仪的对象而来到这家酒店。</Dest>
-    </String>
-    <String List="2">
-      <Source>In time, everyone will learn to appreciate him like I do.</Source>
-      <Dest>假以时日，所有人都会像我一样学会欣赏他。</Dest>
-    </String>
-    <String List="2">
-      <Source>What's that supposed to mean?  Speak straight!  Unless the potato you call a brain has already turned to mash.</Source>
-      <Dest>你这么说是什么意思？直说啊！除非你称作脑子的那个西红柿已经变成了一滩烂泥了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, so could my knuckles and your throat, if you don't watch your tongue.</Source>
-      <Dest>赞成，我的手和你的喉咙也可以产生同样的效果，如果你管不住自己的嘴的话。</Dest>
-    </String>
-    <String List="2">
-      <Source>Make it quick.</Source>
-      <Dest>有话快说。</Dest>
-    </String>
-    <String List="2">
-      <Source>And I've seen enough of this is country to know which is the better half.</Source>
-      <Dest>并且我在这里的所见所闻已经足够让我明白那一半更好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh is it now? Well, far be it for me to try and play the scholar. </Source>
-      <Dest>哦，是吗？呃，对我来说去扮一名学者还是太难了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Did you know the bard who used to play here?  Had a voice like broken glass and fingertips like the knob of a carrot.</Source>
-      <Dest>你知道那个曾一直在这表演的吟遊诗人吗? 他有一幅破瓦似的嗓子和长瘤胡萝卜般的手指。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right, then.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll slip some poison in his mead, and then I'll be the one those lute-squatters are always yipping about.</Source>
-      <Dest>我会在他的蜜酒里下点毒，然后我就会成为那些路边弹琴狗们嘴里吠出的传说了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Maybe now they do.  Still ain't exactly one of 'em though.  Sometimes I'll call a Falmer a goblin.  Or a skeever a cave rat.  </Source>
-      <Dest>或许现在是吧，但是可能只是个别人吧。有时候我也会喊雪精灵叫哥布林，管雪鼠叫穴鼠。  </Dest>
-    </String>
-    <String List="2">
-      <Source>I suspect you do, but a real man don't ask. He takes what he wants and apologizes after.  Even then he don't mean it.</Source>
-      <Dest>我想你也一样，但真正的男人才不会费神去问呢，他们往往先动手然后再道歉，以为那样他就不算是故意的了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes the old goat would venture outside, and when he played, the animals in the marsh would start screaming.</Source>
-      <Dest>有时这头老山羊会在外面冒险，而当他演奏的时候，沼泽里的动物都会发出哀嚎。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hurry up and order, I ain't got all day.</Source>
-      <Dest>快，点，单，我可忙着吶。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hurry up and order, I ain't got all day.</Source>
-      <Dest>快，点，单，我可忙着吶。</Dest>
+      <Dest>想喝点什么？</Dest>
     </String>
     <String List="2">
       <Source>Yeah, yeah, keep your dress on.</Source>
       <Dest>对，对，继续，别动。</Dest>
     </String>
     <String List="2">
-      <Source>(Laughs) I might take that as a compliment, coming from a cotton mouth, cheese-muncher like you.</Source>
-      <Dest>(笑声) 我或许应该把这当做是来自于你这样口齿伶俐的家伙的某种恭维吧。</Dest>
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
     </String>
     <String List="2">
-      <Source>And ain't a chair or stool that hasn't felt me bottom.  I'd say the same goes for the men.</Source>
-      <Dest>这儿所有的桌子椅子我都已经坐过无数次，这儿所有的男人我也都已经做过无数次。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes he ventures outside, and when he plays, the animals in the marsh will start screaming.</Source>
-      <Dest>有时他会到野外探险，而当他演奏的时候，沼泽里的动物都会发出哀嚎。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, some tavern girls don't like it when they get rough. I tell 'em be careful what you wish for. </Source>
-      <Dest>现在，有些吧女在客人们变得粗暴之后会很反感。我告诉她们无须那样。</Dest>
-    </String>
-    <String List="2">
-      <Source>I miss the green skin.  His name was Lurbuk, and he was the greatest sodding bard in all of Skyrim.  </Source>
-      <Dest>我想念那个绿皮客。他叫卢布克，是天际省最他妈恶心的吟游诗人。</Dest>
-    </String>
-    <String List="2">
-      <Source>His name's Lurbuk, and he's by far the worst bard in all of Skyrim.  But the old horker sort of grows on you. </Source>
-      <Dest>他的名字是卢布克, 是目前为止全天际省最差的吟遊诗人。但是那头老三牙海象貌似想培养你. </Dest>
-    </String>
-    <String List="2">
-      <Source>One of these days, some rich adventurer type is gonna come in, sit his tired rump down, and treat everyone like something he stepped in.</Source>
-      <Dest>总有一天，那种有钱的冒险家会来这里，让他疲惫的屁股坐下来，就像他踩着什么东西一般的对待所有人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just 'cause you were born with that stupid name don't make it so. Sometimes I wonder if you didn't make up that too.</Source>
-      <Dest>就算你出生时就被冠名笨蛋，你也不必真的变成那样。有时候我想，你是否也不用假装是笨蛋。</Dest>
-    </String>
-    <String List="2">
-      <Source>How can I help you?</Source>
-      <Dest>有什么我能效劳的？</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
     </String>
     <String List="2">
       <Source>Goodbye.</Source>
       <Dest>再见。</Dest>
     </String>
     <String List="2">
-      <Source>Aye, because Ingarte ain't no maid.  I'm a wench, and a damn fine one at that.  Ain't no maid got the stones to serve the likes that come in here.</Source>
-      <Dest>对，因为印卡塔也不是生来就是个女佣。我是个乡下姑娘，而且该死的我很擅长干这些。不是每个女仆都能把滚进来的石头当做顾客服侍得稳稳妥妥的。</Dest>
-    </String>
-    <String List="2">
-      <Source>A long time.  Ain't a pot or pan in this inn I haven't washed a thousand times over.</Source>
-      <Dest>那是相当长的时间啊。不论是这个旅店里的盆还是平底锅我都已经刷过无数次了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>No wealthy person would be caught dead in this swampy dive.</Source>
-      <Dest>这片沼泽底下，没有一个横死的是富人。</Dest>
-    </String>
-    <String List="0">
-      <Source>No wealthy person would be caught dead in this swampy dive.</Source>
-      <Dest>这片沼泽底下，没有一个横死的是富人。</Dest>
-    </String>
-    <String List="0">
-      <Source>A bard ahead of his time.</Source>
-      <Dest>一个超越了时代的诗人。</Dest>
-    </String>
-    <String List="0">
-      <Source>A bard ahead of his time.</Source>
-      <Dest>一个超越了时代的诗人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your father sounds like a great man.</Source>
-      <Dest>你父亲听起来是个伟大的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you have for sale?</Source>
-      <Dest>你有啥卖的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you get much business out here?</Source>
-      <Dest>你在这儿生意好吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you get much business out here?</Source>
-      <Dest>你在这儿生意好吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you get much business out here?</Source>
-      <Dest>你在这儿生意好吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you get much business out here?</Source>
-      <Dest>你在这儿生意好吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you get much business out here?</Source>
-      <Dest>你在这儿生意好吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have quite the reputation.</Source>
-      <Dest>你必须有相当的声誉.</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have quite the reputation.</Source>
-      <Dest>你八成是很有名吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have quite the reputation.</Source>
-      <Dest>你八成是很声名远播吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have quite the reputation.</Source>
-      <Dest>你八成是很声名远播吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think the townsfolk would agree.</Source>
-      <Dest>我觉得那些村民不会赞同你的看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think the townsfolk would agree.</Source>
-      <Dest>我觉得那些村民不会赞同你的看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think the townsfolk would agree.</Source>
-      <Dest>我觉得那些村民不会赞同你的看法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Have you heard many bards besides Lurbuk?</Source>
-      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Have you heard many bards besides Lurbuk?</Source>
-      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Have you heard many bards besides Lurbuk?</Source>
-      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Have you heard many bards besides Lurbuk?</Source>
-      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>The Gold Coast area does have its share of Nords.</Source>
-      <Dest>金色海岸地区确实有诺德人的一份。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Gold Coast area does have its share of Nords.</Source>
-      <Dest>金色海岸地区确实有诺德人的一份。</Dest>
-    </String>
-    <String List="0">
-      <Source>It always comes down to the father.</Source>
-      <Dest>都是受父亲的影响吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Let's change the subject.</Source>
-      <Dest>我们换一个话题吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't know if I want a drink from this place.</Source>
-      <Dest>我不知道要不要喝这里的酒。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's all the questions I have.</Source>
-      <Dest>我的问题问完了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is that?</Source>
-      <Dest>那是怎么一回事？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is that?</Source>
-      <Dest>那是怎么一回事？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is that?</Source>
-      <Dest>那是怎么一回事？</Dest>
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
     </String>
     <String List="2">
       <Source>You want something to drink?</Source>
       <Dest>你想喝点什么？</Dest>
     </String>
     <String List="2">
-      <Source>No, the old goat just thinks he's some kind of honorary Stormcloak, the way he goes on about the Nords being the master race.</Source>
-      <Dest>不，那个老不死的还觉得他是一名光荣的风暴斗篷，正在完成诺德人的伟大复兴呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>'Course, he didn't fight in The Great War, but you wouldn't know it by listening to him talk about it. </Source>
-      <Dest>当然，他没在世界大战中参战过，不过你不会从他嘴里听到这些事情的。</Dest>
-    </String>
-    <String List="2">
-      <Source>One of the guards came in the other day, took off his helmet.  Should've kept it on.  Had lice in his hair as big as mudcrabs.</Source>
-      <Dest>前几天，一个守卫走了进来，摘下了他的头盔。他真应该继续戴着它。他的头发上有虱子，跟泥沼蟹那么大。</Dest>
-    </String>
-    <String List="2">
-      <Source>I like being on top.  (Laughs)</Source>
-      <Dest>我喜欢站在高处。 (笑声)</Dest>
-    </String>
-    <String List="2">
-      <Source>I have.  I may be a tavern wench, but I haven't always been *this* tavern's wench.</Source>
-      <Dest>是啊。我也许是个酒馆的吧女，但我可没说一直是“这家”酒馆的吧女啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now all we got is a handful of freaks like me who came scuttling across the border when all the Nords were busy stepping on their own pricks.</Source>
-      <Dest>现在，在所有诺德人都忙着自相残杀的时候，只有像我一样的怪胎才会匆忙穿过边境吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>So people tell me. But it's easy to stand up for Talos when the enemy don't care what you stand for.</Source>
-      <Dest>所以人们告诉我。若是你的敌人不在乎你究竟信仰什么，那转而去信仰塔洛斯也是件挺容易的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>Pun intended?  I don't like clever people, you know.  You can never tell if they're poking fun at you, instead of with you.</Source>
-      <Dest>双关语？我不喜欢耍小聪明的人，你知道的。你永远不会知道他们是在取笑你还是单纯的跟你在一起高兴。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine, but I ain't got all day.</Source>
-      <Dest>很好，但我可忙着呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, now you're talking.</Source>
-      <Dest>啊，这可是你说的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Dirt, that's what.  Nasty rumors, saying I don't do enough cleaning for Jonna.  Ain't nothing further from the truth. </Source>
-      <Dest>那是污蔑，肮脏的谣言，说我没把乔娜清洁干净什么的，这也太脱离事实了吧。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Folk that ain't got all their teeth, and smell as sour as a hagraven's britches.  'Course, Jonna don't like them sort.  Chased even them away.</Source>
-      <Dest>流民有的牙都不全，还散发着像乌鸦鬼婆的裤衩一般的酸臭味。当然，乔娜不喜欢他们这类。甚至把他们都撵走了。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>He's no Lurbuk, but he did manage to sing "Ragnar the Red" without sounding like some maid had a cave rat crawling down her neck.</Source>
-      <Dest>他不是卢布克, 不过他确实唱出了“红衣拉格纳”而且听起来不像脖子里钻进了耗子的娘们儿一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>You mean the "glory?"  Cause there's lots of that to be had, for those who are good at it.  What do you think Sovngarde is for?  Wood choppers?</Source>
-      <Dest>对于那些爱慕虚荣的家伙来说，这是理所应当的结局啊。不然你觉得松加德是啥？碎木机吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Truth is, I ain't even from Skyrim.  I'm from the docks of Anvil, the Gold Coast.  </Source>
-      <Dest>事实上，我甚至都不是天际省的人，我来自铁砧城码头，黄金海岸。</Dest>
-    </String>
-    <String List="2">
-      <Source>So you know that song about the war?  Well, these two old snow elks got in an argument, about which one's the real version.</Source>
-      <Dest>那么你知道那首关于战争的歌？好吧，两只老雪鹿在争吵，关于谁是正版的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Relax.  You ain't rich, are you?</Source>
-      <Dest>放轻松，你又没多少钱，不是吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I remember when that old barnacle breath sung a song about a storm.  His voice was hard and cruel, just like the Sea of Ghosts.</Source>
-      <Dest>我记得那时一个老藤壶一口气唱了一首关于暴风的歌。他的声音残酷无情，就像亡灵之海一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, and we do a lot of Nord things.  We look like Nords, we eat like Nords, we drink like Nords and we piss like Nords.  But we ain't exactly Nords.</Source>
-      <Dest>是的，我们做了很多诺德人会做的事儿。我们看起来像诺德人，我们的吃相像诺德人，我们喝酒的时候像诺德人，我们撒尿的时候也像诺德人。但我们不是真正的诺德人。</Dest>
+      <Source>Hurry up and order, I ain't got all day.</Source>
+      <Dest>快，点，单，我可忙着呐。</Dest>
     </String>
     <String List="2">
       <Source>Make it quick.</Source>
-      <Dest>有话快说。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, but you can't believe every little worm that crawls in your ear.</Source>
-      <Dest>啊没错，但那些钻进你耳朵里的流言蜚语你是一条都不能信的。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Nord who wrote that tune had to write one or the other, right?  Unless that milk-drinking bard was playing both sides.  Like a bloody Thalmor.</Source>
-      <Dest>诺德人谱曲定然是歌颂其中一方，不是吗？除非那吃奶货吟遊诗人是个骑墙派。跟梭默一路货色。</Dest>
-    </String>
-    <String List="2">
-      <Source>If there's two things I love, it's gruff men and a clean inn. </Source>
-      <Dest>我就喜欢两样东西，粗鲁的纯爷们儿和干净的旅馆。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Some big Redguard oaf came by here the other day asking for a bowl of horker stew.  I told him we don't serve no cannibals here.</Source>
-      <Dest>前几天有个红卫人傻大个儿来这儿，想要一碗海象炖肉。我告诉他们我们这儿不欢迎食人族。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ain't nothing good about that. When a man touches you like that, it's bad, and vile, and disgusting.  And that's the part that's good.</Source>
-      <Dest>也不是完全不好。当一个男人像那样触弄你，这很糟糕，很恶劣，也很恶心。但这就是乐趣所在。</Dest>
-    </String>
-    <String List="2">
-      <Source>My Da thinks I'm here to find me roots. Be a proper Nord and trade my broom for a sword.  When all I really wanted was to get away from him.</Source>
-      <Dest>我老爸以为我是过来挖植物根的。靠卖花花草草给自己攒把剑什么的，做个体面的诺德人。其实我打心底里只是想离他远点而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right, then.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>To the gallows with all of you, I say.</Source>
-      <Dest>要我说的话，你们都该被绞死。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, I know most folks like their bards to have melodic voices, but none of those sausage-drinkers are fit to wear Lurburk's tunic</Source>
-      <Dest>噢，我知道大部分老百姓喜欢那些有着美妙嗓音的诗人，可惜那些饭桶连给卢布尔克提鞋都不配。</Dest>
-    </String>
-    <String List="2">
-      <Source>Aye, I reckon it did.  I'm everything he ain't, and if that's the work of the Divines, then I got some animals to sacrifice and prayers to make.</Source>
-      <Dest>嗯，我认为就是那样。我就是跟他作对，要是对圣灵有用的话，我就要弄点动物来祭祀还少不得一番祈祷了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ain't right the way Jonna don't talk to her brother. </Source>
-      <Dest>乔娜用不跟她哥哥讲话来解决这个问题，这可不是什么好方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Them fancy singers ain't what a real bard sounds like.  A bard lilke Lurbuk sweats poetry, and makes you shed rocks for tears.</Source>
-      <Dest>他们看中的歌手听起来并不像一个真正的吟游诗人。像卢布克那样的诗人倾尽心血来写诗，写出来的诗甚至能让你的泪水流得滴穿岩石。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you got a bosom and can pour a flagon, you can find work just about anywhere.</Source>
-      <Dest>如果你有足够的“胸怀”，又会倒酒的话，那么你可以在任何地方找到工作。</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh?  You lost me there at "What's." I'm paid to serve you drinks, not listen to you patrons babble on about the length of your wart hairs.</Source>
-      <Dest>咦？从“什么是”开始我就有点被你弄糊涂了。你是付钱来让我给你添酒的不是吗，而不是付钱来让我听你唠唠叨叨说你的疣毛有多长的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Lot of the lasses like to say "Jonna spends all day breaking her back, while Ingarte spends all night lying on it."  Which ain't true.</Source>
-      <Dest>很多姑娘会说 "乔娜几乎天天勤勤恳恳，而印卡塔则天天不劳而获。" 这可不是真的。</Dest>
-    </String>
-    <String List="2">
-      <Source>A traveling bard was in here the other day. Real manly one, smelled like mustaches.</Source>
-      <Dest>有天一个旅行的吟遊诗人曾路过这里。一个真正的男子汉，虬髯大汉。</Dest>
-    </String>
-    <String List="2">
-      <Source>If I ever met a bandit who liked to sweep and do dishes, I'd probably choke myself trying to get that bloody Amulet of Mara around my neck.</Source>
-      <Dest>如果我有碰到过一个喜欢扫地和做饭的强盗，那我肯定已经被脖子上的玛拉之链勒死了。</Dest>
-    </String>
-    <String List="2">
-      <Source>If I ever find the bloody bonewalker that killed my Lurbuk, I'll get them Dark Brotherhood types on him.  They don't mess around.</Source>
-      <Dest>哪天被我找到这个杀死我家卢布克的混蛋，必须要找个黑暗兄弟会的伺候他。他们可绝不手软的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well then off with you!  I got cups to shine.</Source>
-      <Dest>行啦快走吧你！还有一堆杯子等着我擦呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let me get this straight. You want me to pay you money for something I'll never use, to keep men from doing what I want?</Source>
-      <Dest>让我把事情搞清楚。你想忽悠我花钱去买一个我永远用不着的东西，以让男人们不为我所勾引？</Dest>
-    </String>
-    <String List="2">
-      <Source>When the war started, even this place got noisy. That attracts different kind of folk.   My kind of folk.  </Source>
-      <Dest>当战争打响，就连这里都变得喧闹起来。这引来了另一种人。我这样的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some folk think I got on top of Lurbuk, way I defend the old badger.  But it ain't like that.  Even I got standards.</Source>
-      <Dest>一些人认为我的水准在卢布克之上，此般声浪远盖过我对这喋喋不休的老东西的袒护之词。但即使是以我的标准来说，也并非如此。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not anymore, no.  Ain't no carriages come by either.  Used to be people wash in from the city, come for the quiet.  </Source>
-      <Dest>不好了，不再好了。没有马车会途经与此。过去的人们是从城市来这里洗涤心灵，寻求安宁的。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's right.  You and me, we're the only ones who got a set of ears that work.  </Source>
-      <Dest>是啊。你和我。我们是仅有的耳朵还没失灵的人啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Although she says it was Lurbuk who did all the chasing.  I'd call her a sodding harpy for saying so, if I didn't need the job.</Source>
-      <Dest>尽管她说是卢布克干的这事儿。但要不是我需要这工作，我就会告诉她，乌鸦鬼婆也是这么说的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's a great hall full of bloodthirsty murderers, and that's the way it should be.</Source>
-      <Dest>这是个充满嗜血杀手的地方，它本就该是这样。</Dest>
-    </String>
-    <String List="2">
-      <Source>All of these other fools got cabbage for brains and leeks in their ears.</Source>
-      <Dest>这些白菜大脑和韭菜耳朵的傻瓜！</Dest>
+      <Dest>快点好吗？</Dest>
     </String>
     <String List="2">
       <Source>How can I help you?</Source>
       <Dest>有什么我能效劳的？</Dest>
     </String>
     <String List="2">
+      <Source>You want another one of those?</Source>
+      <Dest>你还想要再一轮吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorry handsome, but it ain't Jonas. This poor arse-drinker couldn't slay a flea. You want that Argonian, the one that lives up north in the swamp.</Source>
+      <Dest>抱歉帅小伙儿，但这不是乔纳斯。这个可怜的酒囊饭袋连只跳蚤也杀不死。你想找的蜥蜴人住在北方的沼泽里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just 'cause you were born with that stupid name don't make it so. Sometimes I wonder if you didn't make up that too.</Source>
+      <Dest>就算你出生时就被冠名笨蛋，你也不必真的变成那样。有时候我想，你是否也不用假装是笨蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's enough Jonas, stop confusing the other patrons with your lies.</Source>
+      <Dest>够了乔纳斯，别再用你的谎言把其他客人给搞糊涂了。</Dest>
+    </String>
+    <String List="0">
+      <Source>An Orc bard is an acquired taste.</Source>
+      <Dest>兽人做吟游诗人是需要后天努力的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's that supposed to mean?  Speak straight!  Unless the potato you call a brain has already turned to mash.</Source>
+      <Dest>你这么说是什么意思？直说啊！除非你称作脑子的那个西红柿已经变成了一滩烂泥了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A true gentleman withholds his desire for when it's appropriate.</Source>
+      <Dest>真正的绅士会把欲望留到合理的时候去发泄。</Dest>
+    </String>
+    <String List="2">
+      <Source>And what kind of woman wants a gentle man?  Seems to me men are better when they aren't gentle, and more exciting when they're inappropriate.</Source>
+      <Dest>什么样的女人会想要温文尔雅的男人呢？要我看男人在不那么文雅的时候才好，在他们失礼的时候更刺激！</Dest>
+    </String>
+    <String List="0">
+      <Source>Do the Nords treat you like a local?</Source>
+      <Dest>诺德人把你作当地人看吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe now they do.  Still ain't exactly one of 'em though.  Sometimes I'll call a Falmer a goblin.  Or a skeever a cave rat.  </Source>
+      <Dest>或许现在是吧，但是可能只是个别人吧。有时候我也会喊雪精灵叫哥布林，管雪鼠叫穴鼠。  </Dest>
+    </String>
+    <String List="0">
+      <Source>Do the Nords treat you like a local?</Source>
+      <Dest>诺德人把你作当地人看吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes I'll complain about the cold, or boast about how ginseng can cure anything. </Source>
+      <Dest>有时我会抱怨寒冷，或到处夸大人参的药效。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Do the Nords treat you like a local?</Source>
+      <Dest>诺德人把你作当地人看吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then they look at me sideways, like I just got off the boat from Morrowind.</Source>
+      <Dest>然后他们看着我，就像我刚从晨风下了船。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do the Nords treat you like a local?</Source>
+      <Dest>诺德人把你作当地人看吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I've always said I got half of my mother, half of my father, and half of the Coast in me.  </Source>
+      <Dest>我一直说我一半像妈妈，一半像爸爸，还有一半像我自己心中的海滩。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Do the Nords treat you like a local?</Source>
+      <Dest>诺德人把你作当地人看吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And I've seen enough of this is country to know which is the better half.</Source>
+      <Dest>并且我在这里的所见所闻已经足够让我明白那一半更好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnar the Red is an anecdote about the perils of alliteration.</Source>
+      <Dest>红衣拉格纳象征着不祥的兆头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh is it now? Well, far be it for me to try and play the scholar. </Source>
+      <Dest>哦，是吗？呃，对我来说去扮一名学者还是太难了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnar the Red is an anecdote about the perils of alliteration.</Source>
+      <Dest>红衣拉格纳象征着不祥的兆头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be sure to tell everyone what you said, as soon as I figure out what in Oblivion it means.</Source>
+      <Dest>I'll be sure to tell everyone what you said, as soon as I figure out what in Oblivion it means.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not like the other inn maids.</Source>
+      <Dest>你跟一般的女仆有点不同啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, because Ingarte ain't no maid.  I'm a wench, and a damn fine one at that.  Ain't no maid got the stones to serve the likes that come in here.</Source>
+      <Dest>对，因为印卡塔也不是生来就是个女佣。我是个乡下姑娘，而且该死的我很擅长干这些。不是每个女仆都能把滚进来的石头当做顾客服侍得稳稳妥妥的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not like the other inn maids.</Source>
+      <Dest>你跟一般的女仆有点不同啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>In here we get bandits, pirates, adventurers, and soldiers.  Lads and lasses with true grit.  Not the college and town folk you get up west.</Source>
+      <Dest>In here we get bandits, pirates, adventurers, and soldiers.  Lads and lasses with true grit.  Not the college and town folk you get up west.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not like the other inn maids.</Source>
+      <Dest>你跟一般的女仆有点不同啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>At least, we used to.</Source>
+      <Dest>至少，我们是习惯了的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to feel your bottom.</Source>
+      <Dest>我想摸摸你的屁股。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you now, lass?  Now that I wasn't expecting! But aye, a strong woman's got a grip as good as any man, so long as she's committed.</Source>
+      <Dest>现在吗，小姑娘？这可超出我的预期了。但是的确,一个坚强的女人也可以像任何男人一样控制自己 。只要她坚定不移。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to feel your bottom.</Source>
+      <Dest>我想摸摸你的屁股。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suspect you do, but a real man don't ask. He takes what he wants and apologizes after.  Even then he don't mean it.</Source>
+      <Dest>我想你也一样，但真正的男人才不会费神去问呢，他们往往先动手然后再道歉，以为那样他就不算是故意的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you know the bard who used to play here?  Had a voice like broken glass and fingertips like the knob of a carrot.</Source>
+      <Dest>你知道那个曾一直在这表演的吟游诗人吗? 他有一幅破瓦似的嗓子和长瘤胡萝卜般的手指。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes the old goat would venture outside, and when he played, the animals in the marsh would start screaming.</Source>
+      <Dest>有时这头老山羊会在外面冒险，而当他演奏的时候，沼泽里的动物都会发出哀嚎。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I miss the green skin.  His name was Lurbuk, and he was the greatest sodding bard in all of Skyrim.  </Source>
+      <Dest>我想念那个绿皮客。他叫卢布克，是天际省最他妈恶心的吟游诗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you met the bard that plays here?  He's got a voice like broken glass and fingers like the knob of a carrot.</Source>
+      <Dest>你知道那个曾一直在这表演的吟游诗人吗? 他有一幅破瓦似的嗓子和长瘤胡萝卜般的手指。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes he ventures outside, and when he plays, the animals in the marsh will start screaming.</Source>
+      <Dest>有时他会到野外探险，而当他演奏的时候，沼泽里的动物都会发出哀嚎。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>His name's Lurbuk, and he's by far the worst bard in all of Skyrim.  But the old horker sort of grows on you. </Source>
+      <Dest>他的名字是卢布克, 是目前为止全天际省最差的吟游诗人。但是那头老三牙海象貌似想培养你. </Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you could use a drink.  Something the matter?</Source>
+      <Dest>看起来你没办法喝一杯，是有什麽问题吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>In time, everyone will learn to appreciate him like I do.</Source>
+      <Dest>假以时日，所有人都会像我一样学会欣赏他。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a salty wench.</Source>
+      <Dest>你这个咸湿女仆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, name's Ingarte, and I got salt in my bones and fire in my breath, for ain't no comely lass fit to handle the sort that come through an inn.</Source>
+      <Dest>是啊，我的名字叫印卡塔，以盐为骨，以火为息。为了让那些寂寞漂亮的姑娘们都能有个心仪的对象而来到这家酒店。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a salty wench.</Source>
+      <Dest>你这个咸湿女仆。</Dest>
+    </String>
+    <String List="2">
+      <Source>In here we get bandits, pirates, adventurers, and soldiers.  Lads and lasses with true grit.  Not the college and town folk you get up west.</Source>
+      <Dest>In here we get bandits, pirates, adventurers, and soldiers.  Lads and lasses with true grit.  Not the college and town folk you get up west.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a salty wench.</Source>
+      <Dest>你这个咸湿女仆。</Dest>
+    </String>
+    <String List="2">
+      <Source>At least, we used to.</Source>
+      <Dest>至少，我们是习惯了的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A fork and a dinner plate could create the same effect.</Source>
+      <Dest>刀子和饭碗可以产生相同的效果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, so could my knuckles and your throat, if you don't watch your tongue.</Source>
+      <Dest>赞成，我的手和你的喉咙也可以产生同样的效果，如果你管不住自己的嘴的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>A fork and a dinner plate could create the same effect.</Source>
+      <Dest>刀子和饭碗可以产生相同的效果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Talk to me rough, slap me ass, and I might give you a smile.  But don't say nothing bad about Lurbuk.</Source>
+      <Dest>冲我说粗话，打我的屁股，我还是能给你个笑脸。但是别跟我提起卢布克。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you worked the inn?</Source>
+      <Dest>你在这家酒馆干了多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>A long time.  Ain't a pot or pan in this inn I haven't washed a thousand times over.</Source>
+      <Dest>那是相当长的时间啊。不论是这个旅店里的盆还是平底锅我都已经刷过无数次了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you worked the inn?</Source>
+      <Dest>你在这家酒馆干了多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>And ain't a chair or stool that hasn't felt me bottom.  I'd say the same goes for the men.</Source>
+      <Dest>这儿所有的桌子椅子我都已经坐过无数次，这儿所有的男人我也都已经做过无数次。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you worked the inn?</Source>
+      <Dest>你在这家酒馆干了多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, some tavern girls don't like it when they get rough. I tell 'em be careful what you wish for. </Source>
+      <Dest>现在，有些吧女在客人们变得粗暴之后会很反感。我告诉她们无须那样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you worked the inn?</Source>
+      <Dest>你在这家酒馆干了多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>If a man don't want a taste of your pie enough to steal a slice, then either he ain't a man, or you ain't a woman.</Source>
+      <Dest>要是男人连偷偷尝一尝你的"派"的欲望都没有，那么要么他不是男人，要么你不是女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's pretty much the craziest sodding thing I've ever heard.</Source>
+      <Dest>那简直是我听说过最疯狂的倒霉事儿了</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I might take that as a compliment, coming from a cotton mouth, cheese-muncher like you.</Source>
+      <Dest>(笑声) 我或许应该把这当做是来自于你这样口齿伶俐的家伙的某种恭维吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fan of Ragnar?</Source>
+      <Dest>你是拉格纳的粉丝？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's my favorite ballad.  Some people think it's about being honest.  Others will say it's about the strength of Nord women.</Source>
+      <Dest>That's my favorite ballad.  Some people think it's about being honest.  Others will say it's about the strength of Nord women.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fan of Ragnar?</Source>
+      <Dest>你是拉格纳的粉丝？</Dest>
+    </String>
+    <String List="2">
+      <Source>You know what it's really about? Coin. That Ragnar fellow must've been plenty rich after all that adventuring, and Matilda knew it.</Source>
+      <Dest>你知道这到底是为了什么吗？钱。拉格纳那家伙在道上混了那么久，绝对有的是钱！玛蒂尔达是知道的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fan of Ragnar?</Source>
+      <Dest>你是拉格纳的粉丝？</Dest>
+    </String>
+    <String List="2">
+      <Source>One of these days, some rich adventurer type is gonna come in, sit his tired rump down, and treat everyone like something he stepped in.</Source>
+      <Dest>总有一天，那种有钱的冒险家会来这里，让他疲惫的屁股坐下来，就像他踩着什么东西一般的对待所有人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fan of Ragnar?</Source>
+      <Dest>你是拉格纳的粉丝？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll slip some poison in his mead, and then I'll be the one those lute-squatters are always yipping about.</Source>
+      <Dest>我会在他的蜜酒里下点毒，然后我就会成为那些路边弹琴狗们嘴里吠出的传说了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>A traveling bard was in here the other day. Real manly one, smelled like mustaches.</Source>
+      <Dest>有天一个旅行的吟游诗人曾路过这里。一个真正的男子汉，虬髯大汉。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He's no Lurbuk, but he did manage to sing "Ragnar the Red" without sounding like some maid had a cave rat crawling down her neck.</Source>
+      <Dest>他不是卢布克, 不过他确实唱出了“红衣拉格纳”而且听起来不像脖子里钻进了耗子的娘们儿一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If I ever find the bloody bonewalker that killed my Lurbuk, I'll get them Dark Brotherhood types on him.  They don't mess around.</Source>
+      <Dest>哪天被我找到这个杀死我家卢布克的混蛋，必须要找个黑暗兄弟会的伺候他。他们可绝不手软的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?  You lost me there at "What's." I'm paid to serve you drinks, not listen to you patrons babble on about the length of your wart hairs.</Source>
+      <Dest>咦？从“什么是”开始我就有点被你弄糊涂了。你是付钱来让我给你添酒的不是吗，而不是付钱来让我听你唠唠叨叨说你的疣毛有多长的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dirt, that's what.  Nasty rumors, saying I don't do enough cleaning for Jonna.  Ain't nothing further from the truth. </Source>
+      <Dest>那是污蔑，肮脏的谣言，说我没把乔娜清洁干净什么的，这也太脱离事实了吧。 </Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If there's two things I love, it's gruff men and a clean inn. </Source>
+      <Dest>我就喜欢两样东西，粗鲁的纯爷们儿和干净的旅馆。 </Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If I ever met a bandit who liked to sweep and do dishes, I'd probably choke myself trying to get that bloody Amulet of Mara around my neck.</Source>
+      <Dest>如果我有碰到过一个喜欢扫地和做饭的强盗，那我肯定已经被脖子上的玛拉之链勒死了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ain't right the way Jonna don't talk to her brother. </Source>
+      <Dest>乔娜用不跟她哥哥讲话来解决这个问题，这可不是什么好方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He may be some bloodsucking ghoul with a face like a shaved goat and the personality of a spoon, but he's still kin.</Source>
+      <Dest>He may be some bloodsucking ghoul with a face like a shaved goat and the personality of a spoon, but he's still kin.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>So you know that song about the war?  Well, these two old snow elks got in an argument, about which one's the real version.</Source>
+      <Dest>那么你知道那首关于战争的歌？好吧，两只老雪鹿在争吵，关于谁是正版的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nord who wrote that tune had to write one or the other, right?  Unless that milk-drinking bard was playing both sides.  Like a bloody Thalmor.</Source>
+      <Dest>诺德人谱曲定然是歌颂其中一方，不是吗？除非那吃奶货吟游诗人是个骑墙派。跟梭默一路货色。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the guards came in the other day, took off his helmet.  Should've kept it on.  Had lice in his hair as big as mudcrabs.</Source>
+      <Dest>前几天，一个守卫走了进来，摘下了他的头盔。他真应该继续戴着它。他的头发上有虱子，跟泥沼蟹那么大。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
       <Source>One of them urchins asked me if I really got an Oblivion Gate between me legs.  I told her no, but your mother does, spitting out daedra like you.</Source>
       <Dest>之前他们有个野孩子问我的裤裆里是不是真的有湮灭之门。我告诉她说我没有，但是你老娘有，就吐出你这么一个魔族。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some big Redguard oaf came by here the other day asking for a bowl of horker stew.  I told him we don't serve no cannibals here.</Source>
+      <Dest>前几天有个红卫人傻大个儿来这儿，想要一碗海象炖肉。我告诉他们我们这儿不欢迎食人族。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some lasses were in here talking about how they'd love to bed a man like Ulfric.  Sure, sounds great, but what if he talks in his sleep?</Source>
+      <Dest>Some lasses were in here talking about how they'd love to bed a man like Ulfric.  Sure, sounds great, but what if he talks in his sleep?</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know if I want a drink from this place.</Source>
+      <Dest>我不知道要不要喝这里的酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Relax.  You ain't rich, are you?</Source>
+      <Dest>放轻松，你又没多少钱，不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean the "glory?"  Cause there's lots of that to be had, for those who are good at it.  What do you think Sovngarde is for?  Wood choppers?</Source>
+      <Dest>对于那些爱慕虚荣的家伙来说，这是理所应当的结局啊。不然你觉得松加德是啥？碎木机吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a great hall full of bloodthirsty murderers, and that's the way it should be.</Source>
+      <Dest>这是个充满嗜血杀手的地方，它本就该是这样。</Dest>
+    </String>
+    <String List="0">
+      <Source>It always comes down to the father.</Source>
+      <Dest>它总是归结为父亲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, I reckon it did.  I'm everything he ain't, and if that's the work of the Divines, then I got some animals to sacrifice and prayers to make.</Source>
+      <Dest>嗯，我认为就是那样。我就是跟他作对，要是对圣灵有用的话，我就要弄点动物来祭祀还少不得一番祈祷了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have for sale?</Source>
+      <Dest>你有卖什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Right, because getting felt up by filthy knaves is a good thing.</Source>
+      <Dest>Right, because getting felt up by filthy knaves is a good thing.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ain't nothing good about that. When a man touches you like that, it's bad, and vile, and disgusting.  And that's the part that's good.</Source>
+      <Dest>也不是完全不好。当一个男人像那样触弄你，这很糟糕，很恶劣，也很恶心。但这就是乐趣所在。</Dest>
+    </String>
+    <String List="0">
+      <Source>No wealthy person would be caught dead in this swampy dive.</Source>
+      <Dest>这片沼泽底下，没有一个横死的是富人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pun intended?  I don't like clever people, you know.  You can never tell if they're poking fun at you, instead of with you.</Source>
+      <Dest>双关语？我不喜欢耍小聪明的人，你知道的。你永远不会知道他们是在取笑你还是单纯的跟你在一起高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>No wealthy person would be caught dead in this swampy dive.</Source>
+      <Dest>这片沼泽底下，没有一个横死的是富人。</Dest>
+    </String>
+    <String List="2">
+      <Source>To the gallows with all of you, I say.</Source>
+      <Dest>要我说的话，你们都该被绞死。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think the townsfolk would agree.</Source>
+      <Dest>我看那些村民不会同意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I know most folks like their bards to have melodic voices, but none of those sausage-drinkers are fit to wear Lurburk's tunic</Source>
+      <Dest>噢，我知道大部分老百姓喜欢那些有着美妙嗓音的诗人，可惜那些饭桶连给卢布尔克提鞋都不配。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think the townsfolk would agree.</Source>
+      <Dest>我看那些村民不会同意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Them fancy singers ain't what a real bard sounds like.  A bard lilke Lurbuk sweats poetry, and makes you shed rocks for tears.</Source>
+      <Dest>他们看中的歌手听起来并不像一个真正的吟游诗人。像卢布克那样的诗人倾尽心血来写诗，写出来的诗甚至能让你的泪水流得滴穿岩石。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think the townsfolk would agree.</Source>
+      <Dest>我看那些村民不会同意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember when that old barnacle breath sung a song about a storm.  His voice was hard and cruel, just like the Sea of Ghosts.</Source>
+      <Dest>我记得那时一个老藤壶一口气唱了一首关于暴风的歌。他的声音残酷无情，就像亡灵之海一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have quite the reputation.</Source>
+      <Dest>你必须有相当的声誉.</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, but you can't believe every little worm that crawls in your ear.</Source>
+      <Dest>啊没错，但那些钻进你耳朵里的流言蜚语你是一条都不能信的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have quite the reputation.</Source>
+      <Dest>你必须有相当的声誉.</Dest>
+    </String>
+    <String List="2">
+      <Source>Lot of the lasses like to say "Jonna spends all day breaking her back, while Ingarte spends all night lying on it."  Which ain't true.</Source>
+      <Dest>很多姑娘会说 "乔娜几乎天天勤勤恳恳，而印卡塔则天天不劳而获。" 这可不是真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have quite the reputation.</Source>
+      <Dest>你必须有相当的声誉.</Dest>
+    </String>
+    <String List="2">
+      <Source>I like being on top.  (Laughs)</Source>
+      <Dest>我喜欢站在高处。 (笑声)</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have quite the reputation.</Source>
+      <Dest>你必须有相当的声誉.</Dest>
+    </String>
+    <String List="2">
+      <Source>Some folk think I got on top of Lurbuk, way I defend the old badger.  But it ain't like that.  Even I got standards.</Source>
+      <Dest>一些人认为我的水准在卢布克之上，此般声浪远盖过我对这喋喋不休的老东西的袒护之词。但即使是以我的标准来说，也并非如此。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>He didn't beat me or nothing like that.  I almost rather wish he did.  Would've made hating him all the more easier.</Source>
+      <Dest>He didn't beat me or nothing like that.  I almost rather wish he did.  Would've made hating him all the more easier.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, the old goat just thinks he's some kind of honorary Stormcloak, the way he goes on about the Nords being the master race.</Source>
+      <Dest>不，那个老不死的还觉得他是一名光荣的风暴斗篷，正在完成诺德人的伟大复兴呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>'Course, he didn't fight in The Great War, but you wouldn't know it by listening to him talk about it. </Source>
+      <Dest>当然，他没在世界大战中参战过，不过你不会从他嘴里听到这些事情的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you heard many bards besides Lurbuk?</Source>
+      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I have.  I may be a tavern wench, but I haven't always been *this* tavern's wench.</Source>
+      <Dest>是啊。我也许是个酒馆的吧女，但我可没说一直是“这家”酒馆的吧女啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you heard many bards besides Lurbuk?</Source>
+      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you got a bosom and can pour a flagon, you can find work just about anywhere.</Source>
+      <Dest>如果你有足够的“胸怀”，又会倒酒的话，那么你可以在任何地方找到工作。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you heard many bards besides Lurbuk?</Source>
+      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Truth is, I ain't even from Skyrim.  I'm from the docks of Anvil, the Gold Coast.  </Source>
+      <Dest>事实上，我甚至都不是天际省的人，我来自铁砧城码头，黄金海岸。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you heard many bards besides Lurbuk?</Source>
+      <Dest>你听过除卢布克外的其他诗人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>My Da thinks I'm here to find me roots. Be a proper Nord and trade my broom for a sword.  When all I really wanted was to get away from him.</Source>
+      <Dest>我老爸以为我是过来挖植物根的。靠卖花花草草给自己攒把剑什么的，做个体面的诺德人。其实我打心底里只是想离他远点而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's change the subject.</Source>
+      <Dest>我们换一个话题吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine, but I ain't got all day.</Source>
+      <Dest>很好，但我可忙着呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gold Coast area does have its share of Nords.</Source>
+      <Dest>金色海岸地区确实有诺德人的一份。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, and we do a lot of Nord things.  We look like Nords, we eat like Nords, we drink like Nords and we piss like Nords.  But we ain't exactly Nords.</Source>
+      <Dest>是的，我们做了很多诺德人会做的事儿。我们看起来像诺德人，我们的吃相像诺德人，我们喝酒的时候像诺德人，我们撒尿的时候也像诺德人。但我们不是真正的诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gold Coast area does have its share of Nords.</Source>
+      <Dest>金色海岸地区确实有诺德人的一份。</Dest>
     </String>
     <String List="2">
       <Source>Maybe I like the beach more than I like the snow.  Maybe I prefer a Surilie Brothers wine to some cheap Nord swill.</Source>
       <Dest>也许比起雪来说我还是更喜欢海滩。也许比起那些诺德人的漱口水来说我更喜欢苏瑞利兄弟牌葡萄酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well then off with you!  I got cups to shine.</Source>
+      <Dest>行啦快走吧你！还有一堆杯子等着我擦呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your father sounds like a great man.</Source>
+      <Dest>你父亲听起来是个伟大的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>So people tell me. But it's easy to stand up for Talos when the enemy don't care what you stand for.</Source>
+      <Dest>所以人们告诉我。若是你的敌人不在乎你究竟信仰什么，那转而去信仰塔洛斯也是件挺容易的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you get much business out here?</Source>
+      <Dest>你在这儿生意好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not anymore, no.  Ain't no carriages come by either.  Used to be people wash in from the city, come for the quiet.  </Source>
+      <Dest>不好了，不再好了。没有马车会途经与此。过去的人们是从城市来这里洗涤心灵，寻求安宁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you get much business out here?</Source>
+      <Dest>你在这儿生意好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>When the war started, even this place got noisy. That attracts different kind of folk.   My kind of folk.  </Source>
+      <Dest>当战争打响，就连这里都变得喧闹起来。这引来了另一种人。我这样的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you get much business out here?</Source>
+      <Dest>你在这儿生意好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Folk that ain't got all their teeth, and smell as sour as a hagraven's britches.  'Course, Jonna don't like them sort.  Chased even them away.</Source>
+      <Dest>流民有的牙都不全，还散发着像乌鸦鬼婆的裤衩一般的酸臭味。当然，乔娜不喜欢他们这类。甚至把他们都撵走了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you get much business out here?</Source>
+      <Dest>你在这儿生意好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Although she says it was Lurbuk who did all the chasing.  I'd call her a sodding harpy for saying so, if I didn't need the job.</Source>
+      <Dest>尽管她说是卢布克干的这事儿。但要不是我需要这工作，我就会告诉她，乌鸦鬼婆也是这么说的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you get much business out here?</Source>
+      <Dest>你在这儿生意好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now all we got is a handful of freaks like me who came scuttling across the border when all the Nords were busy stepping on their own pricks.</Source>
+      <Dest>现在，在所有诺德人都忙着自相残杀的时候，只有像我一样的怪胎才会匆忙穿过边境吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>A bard ahead of his time.</Source>
+      <Dest>一个超越了时代的诗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right.  You and me, we're the only ones who got a set of ears that work.  </Source>
+      <Dest>是啊。你和我。我们是仅有的耳朵还没失灵的人啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>A bard ahead of his time.</Source>
+      <Dest>一个超越了时代的诗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of these other fools got cabbage for brains and leeks in their ears.</Source>
+      <Dest>这些白菜大脑和韭菜耳朵的傻瓜！</Dest>
+    </String>
+    <String List="2">
+      <Source>You want something to drink?</Source>
+      <Dest>你想喝点什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, now you're talking.</Source>
+      <Dest>啊，这可是你说的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me get this straight. You want me to pay you money for something I'll never use, to keep men from doing what I want?</Source>
+      <Dest>让我把事情搞清楚。你想忽悠我花钱去买一个我永远用不着的东西，以让男人们不为我所勾引？</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

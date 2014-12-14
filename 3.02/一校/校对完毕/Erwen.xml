@@ -6,261 +6,273 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>I have always been free. Our interests just happen to align.</Source>
-      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+    <String List="2">
+      <Source>This is an impressive shrine. Elandir never did it justice.</Source>
+      <Dest>这圣坛真是教人印象深刻。兰迪尔可真是偏心.</Dest>
+    </String>
+    <String List="2">
+      <Source>In his writings he called it a monument to all that is evil. Yet how can something so beautiful be the product of wickedness?</Source>
+      <Dest>在他的着作里把它称为一切恶势力的杰作。可为什么邪恶造就的果实却如此美丽呢？</Dest>
     </String>
     <String List="0">
-      <Source>I have always been free. Our interests just happen to align.</Source>
-      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+      <Source>Do you have Elandir's writings with you?</Source>
+      <Dest>你手上有兰迪尔写的东西么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alas, I gave most of them to a scholar named Lorne. All save one. I thought if I held onto it, it would protect my ancestor.</Source>
+      <Dest>哎呀，我把大部分资料都给了一个叫洛恩的学者了。只留了一点。我想着留下它可以保护我的祖先。</Dest>
     </String>
     <String List="0">
-      <Source>I have always been free. Our interests just happen to align.</Source>
-      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+      <Source>Do you have Elandir's writings with you?</Source>
+      <Dest>你手上有兰迪尔写的东西么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I realize Elandir was a mortal unworthy of such a sacrifice.</Source>
+      <Dest>我现在意识到兰迪尔只是一介凡人，不值得如此的牺牲。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Did his writings mention a Deneris?</Source>
+      <Dest>他的文章有提到丹尼勒斯吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, the name of the father. A once proud nightblade, who was an old and feeble Elf by the time Elandir found him.</Source>
+      <Dest>啊，我的天父啊。曾经如此强大的暗夜之剑，在兰迪尔发现他时，却像一个虚弱的老精灵。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Did his writings mention a Deneris?</Source>
+      <Dest>他的文章有提到丹尼勒斯吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But I believe Deneris is immortal. And he will rise again and again until the trinity claim his soul.</Source>
+      <Dest>但我相信丹尼勒斯是不朽的。他会一次又一次的复活，直至他的灵魂被这柄三刃剑所平息。</Dest>
     </String>
     <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着？</Dest>
+      <Source>Why would he betray them?</Source>
+      <Dest>他为什么会背叛他们？</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a High Elf and one of the first children, chosen by the Divines. The nightblades worshiped Daedra. Some say that was enough.</Source>
+      <Dest>他是个高精灵，是圣灵们所最青睐的神之长子一族的成员。而夜莺们信仰的却是一个魔族，他们说这已经足够。</Dest>
     </String>
     <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着？</Dest>
+      <Source>Why would he betray them?</Source>
+      <Dest>他为什么会背叛他们？</Dest>
     </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着？</Dest>
+    <String List="2">
+      <Source>Yet the real reason lies in his writings. He was betrayed by his own heart. </Source>
+      <Dest>真相隐藏在他的文字中。他被他的内心给背叛了。</Dest>
     </String>
     <String List="0">
       <Source>Who are you?</Source>
       <Dest>你是谁？</Dest>
     </String>
-    <String List="0">
-      <Source>Did his writings mention a Deneris?</Source>
-      <Dest>他的文章里有提到过丹尼勒斯这个名字吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Did his writings mention a Deneris?</Source>
-      <Dest>他的文章里有提到过丹尼勒斯这个名字吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Where can I find this sword?</Source>
-      <Dest>我可以在哪里找到这把剑？</Dest>
-    </String>
-    <String List="0">
-      <Source>Where can I find this sword?</Source>
-      <Dest>我可以在哪里找到这把剑？</Dest>
-    </String>
-    <String List="0">
-      <Source>Lorne's book on Elandir mentioned a sword.</Source>
-      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
-    </String>
-    <String List="0">
-      <Source>Lorne's book on Elandir mentioned a sword.</Source>
-      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
-    </String>
-    <String List="0">
-      <Source>Lorne's book on Elandir mentioned a sword.</Source>
-      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
-    </String>
-    <String List="0">
-      <Source>Lorne's book on Elandir mentioned a sword.</Source>
-      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your opinion on the Daedra?</Source>
-      <Dest>对于魔神你是怎么看的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your opinion on the Daedra?</Source>
-      <Dest>对于魔神你是怎么看的？</Dest>
+    <String List="2">
+      <Source>Just a traveler, like you. But someone whose life has been influenced by the Dunmer Gods in ways she can't begin to comprehend.</Source>
+      <Dest>就是个旅行者，跟你一样。只不过她的人生受到了暗精灵的神灵潜移默化的影响。</Dest>
     </String>
     <String List="0">
       <Source>You spoke of an Elandir.</Source>
-      <Dest>你提到了兰迪尔这个名字。</Dest>
+      <Dest>你提到了一个兰迪尔。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you've heard of him. He was a member of an ancient order of nightblades. Up until the moment he decided to betray them.</Source>
+      <Dest>So you've heard of him. He was a member of an ancient order of nightblades. Up until the moment he decided to betray them.</Dest>
     </String>
     <String List="0">
-      <Source>Why would he betray them?</Source>
-      <Dest>他为什么会背叛他们？</Dest>
+      <Source>What is your opinion on the Daedra?</Source>
+      <Dest>对于魔族你是怎么看的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I once thought as Elandir did, but then I met a Khajiit monk, and he convinced me I may have erred.</Source>
+      <Dest>我曾和兰迪尔想的一样，但之后我遇到了一个虎人僧人，他让我认识到了自己的错误。</Dest>
     </String>
     <String List="0">
-      <Source>Why would he betray them?</Source>
-      <Dest>他为什么会背叛他们？</Dest>
+      <Source>What is your opinion on the Daedra?</Source>
+      <Dest>对于魔族你是怎么看的？</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many like him who believe the Daedra are not necessarily evil, and the evidence seems to support that.</Source>
+      <Dest>这里有很多像他一样相信魔族不一定是邪恶的人存在，而证据似乎也支持这一点。</Dest>
     </String>
     <String List="0">
-      <Source>Do you have Elandir's writings with you?</Source>
-      <Dest>你手上有兰迪尔写的东西么？</Dest>
+      <Source>Lorne's book on Elandir mentioned a sword.</Source>
+      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Trinity Blade. A Daedric weapon that embodies the will of the old Ashlander trinity.</Source>
+      <Dest>三刃剑。一件能体现古老的灰地牧民三位一体之意志的魔神器。</Dest>
     </String>
     <String List="0">
-      <Source>Do you have Elandir's writings with you?</Source>
-      <Dest>你手上有兰迪尔写的东西么？</Dest>
+      <Source>Lorne's book on Elandir mentioned a sword.</Source>
+      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Moreover, it's said to have an edge that can banish a wayward soul from this plane.</Source>
+      <Dest>还有，据说这个位面有一个边缘可以把这些任性的灵魂释放出去.</Dest>
     </String>
     <String List="0">
-      <Source>Thank you. I am honored to wield this weapon.</Source>
-      <Dest>多谢！拿起这把武器是我的荣耀！</Dest>
+      <Source>Lorne's book on Elandir mentioned a sword.</Source>
+      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
     </String>
     <String List="0">
-      <Source>Thank you. I am honored to wield this weapon.</Source>
-      <Dest>多谢！拿起这把武器是我的荣耀！</Dest>
+      <Source>Where can I find this sword?</Source>
+      <Dest>我可以在哪里找到这把剑</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not know, but I have a feeling it will find its way to the champion who will slay Deneris.</Source>
+      <Dest>我不知道，但我有一种感觉，它终究会找到杀死丹尼勒斯的那位勇士。</Dest>
     </String>
     <String List="0">
-      <Source>The sword will be an excellent addition to my trophy case.</Source>
-      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
+      <Source>Lorne's book on Elandir mentioned a sword.</Source>
+      <Dest>洛恩的一本研究兰迪尔的书提到了一把剑。</Dest>
     </String>
     <String List="0">
-      <Source>The sword will be an excellent addition to my trophy case.</Source>
-      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
-    </String>
-    <String List="0">
-      <Source>The sword will be an excellent addition to my trophy case.</Source>
-      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
+      <Source>Where can I find this sword?</Source>
+      <Dest>我可以在哪里找到这把剑</Dest>
     </String>
     <String List="2">
       <Source>Perhaps that is you, and this journal will lead you to the end.</Source>
       <Dest>或许吧，这本日志将引你走向尽头。</Dest>
     </String>
     <String List="2">
-      <Source>The Trinity Blade. A Daedric weapon that embodies the will of the old Ashlander trinity.</Source>
-      <Dest>三刃剑。一件能体现古老的灰地牧民三位一体之意志的魔神器。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alas, I gave most of them to a scholar named Lorne. All save one. I thought if I held onto it, it would protect my ancestor.</Source>
-      <Dest>哎呀，我把大部分资料都给了一个叫洛恩的学者了。只留了一点。我想着留下它可以保护我的祖先。</Dest>
-    </String>
-    <String List="2">
-      <Source>He may have been right. Perhaps if he continued on this path, he may have killed a Dunmer named Gildi, and perhaps I would've never been born.</Source>
-      <Dest>他可能是对的。或许如果他继续这条道路，他会杀了一个名叫基迪的黑暗精灵，然后我可能将不再出生。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet like Varyan before you, remember that your life ceases the moment those interests fail to align.</Source>
-      <Dest>看看你之前的那位瓦里安吧，给我记着，利益冲突之时，就是你人头落地之日。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet the real reason lies in his writings. He was betrayed by his own heart. </Source>
-      <Dest>真相隐藏在他的文字中。他被他的内心给背叛了。</Dest>
-    </String>
-    <String List="2">
-      <Source>In his writings he called it a monument to all that is evil. Yet how can something so beautiful be the product of wickedness?</Source>
-      <Dest>在他的著作里把它称为一切恶势力的杰作。可为什么邪恶造就的果实却如此美丽呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Deneris Darksteel is no more. As was destined, as was designed, and as was done.</Source>
-      <Dest>丹尼勒斯之暗刃已经不存在了。这就是命，命中注定的终究会来的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>He was a High Elf and one of the first children, chosen by the Divines. The nightblades worshiped Daedra. Some say that was enough.</Source>
-      <Dest>他是个高精灵，是圣灵们所最青睐的神之长子一族的成员。而夜莺们信仰的却是一个魔族，他们说这已经足够。</Dest>
-    </String>
-    <String List="2">
-      <Source>For even the cycle of murder and betrayal must eventually succumb to the twilight. That is the role of Azura. To bring dusk and dawn.</Source>
-      <Dest>就算是谋杀与背叛的循环最终也无法阻止暮色的降临。这就是阿祖拉的职责，带来黄昏和黎明。</Dest>
-    </String>
-    <String List="2">
-      <Source>Safe journeys, mortal. Walk always in the twilight.</Source>
-      <Dest>行走于暮色中，凡人，它会保佑你旅途平安。</Dest>
-    </String>
-    <String List="2">
-      <Source>You have met us out there, in the world of mortals, just as the betrayers will find us in Oblivion.</Source>
-      <Dest>你已在这尘世见到了我们，如同那些背弃者在那湮灭的虚空中所做的一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>I do not know, but I have a feeling it will find its way to the champion who will slay Deneris.</Source>
-      <Dest>我不知道，但我有一种感觉，它终究会找到杀死丹尼勒斯的那位勇士。</Dest>
-    </String>
-    <String List="2">
-      <Source>And while only the trinity themselves can name you their champion, we can offer you a measure of their strength.</Source>
-      <Dest>只有当他们三位能够认可你为他们的守护者时，我们才能告诉你他们的力量达到了什么阶段。</Dest>
-    </String>
-    <String List="2">
-      <Source>But I should warn you. Elandir believed this quest to be ill-fated. That when you deal with Daedra, all roads are paved in bones.</Source>
-      <Dest>但我得警告你。兰迪尔认为这个任务十分凶险。当你跟魔族打交道时，你就会发现，前方的道路笼罩在一片血光之中。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your words honor yourself, as do your actions. </Source>
-      <Dest>你的言辞就像你所做的那样获得了我们的尊敬。</Dest>
-    </String>
-    <String List="2">
-      <Source>The sword you have was meant for Deneris, but now you are free to choose its enemies, as you are free to choose your own.</Source>
-      <Dest>你拿的剑本来是属于丹尼勒斯的，但现在，你可以用它杀敌了，你有权自己选择该与谁为敌。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now I realize Elandir was a mortal unworthy of such a sacrifice.</Source>
-      <Dest>我现在意识到兰迪尔只是一介凡人，不值得如此的牺牲。</Dest>
-    </String>
-    <String List="2">
-      <Source>Moreover, it's said to have an edge that can banish a wayward soul from this plane.</Source>
-      <Dest>还有，据说这个位面有一个边缘可以把这些任性的灵魂释放出去.</Dest>
-    </String>
-    <String List="2">
-      <Source>This is why you have been chosen to end the cycle. One who serves cannot betray, for that crime rests upon the shoulders of those who command them.</Source>
-      <Dest>这就是为什么你被选中去终结这个循环。为它服务的人无法背叛，他们所犯下的罪行让他们在这个循环中越陷越深。</Dest>
-    </String>
-    <String List="2">
-      <Source>But I believe Deneris is immortal. And he will rise again and again until the trinity claim his soul.</Source>
-      <Dest>但我相信丹尼勒斯是不朽的。他会一次又一次的复活，直至他的灵魂被这柄三刃剑所平息。</Dest>
-    </String>
-    <String List="2">
-      <Source>We are couriers, delivering the voice of the trinity to your ears. We are seamstresses, guiding the needle through the fabric of time.</Source>
-      <Dest>我们是信使，将三人组的声音传达进你的耳朵。我们是裁缝，一针一线的编织着时间。</Dest>
-    </String>
-    <String List="2">
-      <Source>The corpse of Deneris is proof of that, as is the mortal who brought him to Wanderer's Rest.</Source>
-      <Dest>丹尼勒斯的尸体就是证据，因为就是这个人带他去的流浪者歇脚点。</Dest>
-    </String>
-    <String List="2">
-      <Source>This is an impressive shrine. Elandir never did it justice.</Source>
-      <Dest>这圣坛真是教人印象深刻。兰迪尔可真是偏心.</Dest>
-    </String>
-    <String List="2">
-      <Source>Just a traveler, like you. But someone whose life has been influenced by the Dunmer Gods in ways she can't begin to comprehend.</Source>
-      <Dest>就是个旅行者，跟你一样。只不过她的人生受到了暗精灵的神灵潜移默化的影响。</Dest>
-    </String>
-    <String List="2">
-      <Source>There is a measure of truth in your words. What comes first, the moon or the sun?</Source>
-      <Dest>某种程度上，你说对了。谁先出现呢，月亮还是太阳？</Dest>
+      <Source>You see, Gildi never loved Elandir. But she loved his child.</Source>
+      <Dest>你看，吉尔迪从来没有爱过兰迪尔。但她爱他的孩子。</Dest>
     </String>
     <String List="2">
       <Source>Deneris is evil. But there are many evils in this world. Some may even be as beautiful as this shrine.</Source>
       <Dest>丹尼勒斯很邪恶。但世间并不缺少邪恶。其中一些甚至比这圣祠还华美。</Dest>
     </String>
     <String List="2">
-      <Source>And like Varyan before you, a word of caution. Live your life freely, but honorably, or you too will find yourself the object of their wrath.</Source>
-      <Dest>就像对你前面的瓦里安说的一样，我得给你一个警告。自由自在地活，但别扔了荣誉感，否则你会被他们的愤怒给吞没的。</Dest>
+      <Source>But I should warn you. Elandir believed this quest to be ill-fated. That when you deal with Daedra, all roads are paved in bones.</Source>
+      <Dest>但我得警告你。兰迪尔认为这个任务十分凶险。当你跟魔族打交道时，你就会发现，前方的道路笼罩在一片血光之中。</Dest>
     </String>
     <String List="2">
-      <Source>Ah, the name of the father. A once proud nightblade, who was an old and feeble Elf by the time Elandir found him.</Source>
-      <Dest>啊，我的天父啊。曾经如此强大的暗夜之剑，在兰迪尔发现他时，却像一个虚弱的老精灵。</Dest>
+      <Source>He may have been right. Perhaps if he continued on this path, he may have killed a Dunmer named Gildi, and perhaps I would've never been born.</Source>
+      <Dest>他可能是对的。或许如果他继续这条道路，他会杀了一个名叫基迪的黑暗精灵，然后我可能将不再出生。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>There are many like him who believe the Daedra are not necessarily evil, and the evidence seems to support that.</Source>
-      <Dest>这里有很多像他一样相信魔族不一定是邪恶的人存在，而证据似乎也支持这一点。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>If that is its destiny, then so be it. But remember, not all things put to rest are left untouched.</Source>
-      <Dest>如果这便是它的命运，那就这样吧。但请记住，并不是所有的东西都一成不变的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I once thought as Elandir did, but then I met a Khajiit monk, and he convinced me I may have erred.</Source>
-      <Dest>我曾和兰迪尔想的一样，但之后我遇到了一个虎人僧人，他让我认识到了自己的错误。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
+    <String List="0">
+      <Source>I have always been free. Our interests just happen to align.</Source>
+      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+    </String>
     <String List="2">
-      <Source>You see, Gildi never loved Elandir. But she loved his child.</Source>
-      <Dest>你看，吉尔迪从来没有爱过兰迪尔。但她爱他的孩子。</Dest>
+      <Source>There is a measure of truth in your words. What comes first, the moon or the sun?</Source>
+      <Dest>某种程度上，你说对了。谁先出现呢，月亮还是太阳？</Dest>
+    </String>
+    <String List="0">
+      <Source>I have always been free. Our interests just happen to align.</Source>
+      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+    </String>
+    <String List="2">
+      <Source>Were you conceived to serve our wishes, or did your own desires conceive our choice?</Source>
+      <Dest>Were you conceived to serve our wishes, or did your own desires conceive our choice?</Dest>
+    </String>
+    <String List="0">
+      <Source>I have always been free. Our interests just happen to align.</Source>
+      <Dest>我一直都是自由的。我们只是凑巧兴趣一样罢了.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet like Varyan before you, remember that your life ceases the moment those interests fail to align.</Source>
+      <Dest>看看你之前的那位瓦里安吧，给我记着，利益冲突之时，就是你人头落地之日。</Dest>
+    </String>
+    <String List="0">
+      <Source>The sword will be an excellent addition to my trophy case.</Source>
+      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
+    </String>
+    <String List="2">
+      <Source>If that is its destiny, then so be it. But remember, not all things put to rest are left untouched.</Source>
+      <Dest>如果这便是它的命运，那就这样吧。但请记住，并不是所有的东西都一成不变的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The sword will be an excellent addition to my trophy case.</Source>
+      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
+    </String>
+    <String List="2">
+      <Source>The corpse of Deneris is proof of that, as is the mortal who brought him to Wanderer's Rest.</Source>
+      <Dest>丹尼勒斯的尸体就是证据，因为就是这个人带他去的流浪者歇脚点。</Dest>
+    </String>
+    <String List="0">
+      <Source>The sword will be an excellent addition to my trophy case.</Source>
+      <Dest>那把剑要是摆上我家的展示架就帅爆了！</Dest>
+    </String>
+    <String List="2">
+      <Source>But your days as his courier are over. You have delivered him to his final place. Rest, he will never have.</Source>
+      <Dest>But your days as his courier are over. You have delivered him to his final place. Rest, he will never have.</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you. I am honored to wield this weapon.</Source>
+      <Dest>多谢！拿起这把武器是我的荣耀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your words honor yourself, as do your actions. </Source>
+      <Dest>你的言辞就像你所做的那样获得了我们的尊敬。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you. I am honored to wield this weapon.</Source>
+      <Dest>多谢！拿起这把武器是我的荣耀！</Dest>
+    </String>
+    <String List="2">
+      <Source>This is why you have been chosen to end the cycle. One who serves cannot betray, for that crime rests upon the shoulders of those who command them.</Source>
+      <Dest>这就是为什么你被选中去终结这个循环。为它服务的人无法背叛，他们所犯下的罪行让他们在这个循环中越陷越深。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着?</Dest>
+    </String>
+    <String List="2">
+      <Source>We are couriers, delivering the voice of the trinity to your ears. We are seamstresses, guiding the needle through the fabric of time.</Source>
+      <Dest>我们是信使，将三人组的声音传达进你的耳朵。我们是裁缝，一针一线的编织着时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着?</Dest>
+    </String>
+    <String List="2">
+      <Source>You have met us out there, in the world of mortals, just as the betrayers will find us in Oblivion.</Source>
+      <Dest>你已在这尘世见到了我们，如同那些背弃者在那湮灭的虚空中所做的一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着?</Dest>
+    </String>
+    <String List="2">
+      <Source>And like Varyan before you, a word of caution. Live your life freely, but honorably, or you too will find yourself the object of their wrath.</Source>
+      <Dest>就像对你前面的瓦里安说的一样，我得给你一个警告。自由自在地活，但别扔了荣誉感，否则你会被他们的愤怒给吞没的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sword you have was meant for Deneris, but now you are free to choose its enemies, as you are free to choose your own.</Source>
+      <Dest>你拿的剑本来是属于丹尼勒斯的，但现在，你可以用它杀敌了，你有权自己选择该与谁为敌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Safe journeys, mortal. Walk always in the twilight.</Source>
+      <Dest>行走于暮色中，凡人，它会保佑你旅途平安。</Dest>
+    </String>
+    <String List="2">
+      <Source>For even the cycle of murder and betrayal must eventually succumb to the twilight. That is the role of Azura. To bring dusk and dawn.</Source>
+      <Dest>就算是谋杀与背叛的循环最终也无法阻止暮色的降临。这就是阿祖拉的职责，带来黄昏和黎明。</Dest>
+    </String>
+    <String List="2">
+      <Source>And while only the trinity themselves can name you their champion, we can offer you a measure of their strength.</Source>
+      <Dest>只有当他们三位能够认可你为他们的守护者时，我们才能告诉你他们的力量达到了什么阶段。</Dest>
+    </String>
+    <String List="2">
+      <Source>Deneris Darksteel is no more. As was destined, as was designed, and as was done.</Source>
+      <Dest>丹尼勒斯之暗刃已经不存在了。这就是命，命中注定的终究会来的。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

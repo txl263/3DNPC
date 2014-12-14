@@ -10,97 +10,189 @@
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why marry your savior?</Source>
+      <Dest>为什么嫁给了你的救命恩人？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why not? It is just as mother did, loving the one who saved the wood. The mortals with axes came to chop it down, but one refused.</Source>
+      <Dest>为什么不呢？它就像母亲一样，爱着救下了树木的那个人。凡人们拎着斧头前来想要把它伐倒，但那个人拒绝了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why marry your savior?</Source>
+      <Dest>为什么嫁给了你的救命恩人？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was from her feelings for the one that a seed was born, and when it was planted, it grew into me.</Source>
+      <Dest>一颗种子自她对那一位的情感中出生了, 当那种子生根发芽之后，就有了我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why marry your savior?</Source>
+      <Dest>为什么嫁给了你的救命恩人？</Dest>
+    </String>
+    <String List="2">
+      <Source>One does not choose their love. It is delivered to them, like spores in the wind.</Source>
+      <Dest>不应接受送到手上的爱, 因为那就像在风中的孢子一样.</Dest>
+    </String>
     <String List="0">
       <Source>I have always wanted to mate with a Spriggan. You'll have to do.</Source>
-      <Dest>我一直希望能和一个树精永远相伴。你必须得那样。</Dest>
+      <Dest>你一直希望能和一个树精搭档。你必须去。</Dest>
     </String>
-    <String List="0">
-      <Source>Why marry your savior?</Source>
-      <Dest>为什么嫁给了你的救命恩人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why marry your savior?</Source>
-      <Dest>为什么嫁给了你的救命恩人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why marry your savior?</Source>
-      <Dest>为什么嫁给了你的救命恩人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you saying you're half Spriggan? How is that even possible?</Source>
-      <Dest>你是说你是个半树精？这怎么可能。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think a cave is a healthy environment to start a family.</Source>
-      <Dest>我不认为洞穴拥有适宜家庭居住的良好环境。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think a cave is a healthy environment to start a family.</Source>
-      <Dest>我不认为洞穴拥有适宜家庭居住的良好环境。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you end up at the bottom of that lake?</Source>
-      <Dest>你怎么会在湖底？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you end up at the bottom of that lake?</Source>
-      <Dest>你怎么会在湖底？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you end up at the bottom of that lake?</Source>
-      <Dest>你怎么会在湖底？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you end up at the bottom of that lake?</Source>
-      <Dest>你怎么会在湖底？</Dest>
+    <String List="2">
+      <Source>My love, do not deign to be with me as if I were unworthy. I am your destiny. In the eyes of the Matron, we are meant to share the same soil.</Source>
+      <Dest>My love, do not deign to be with me as if I were unworthy. I am your destiny. In the eyes of the Matron, we are meant to share the same soil.</Dest>
     </String>
     <String List="0">
       <Source>Is that why you can't leave this cave?</Source>
       <Dest>这就是为什么你不能离开这个山洞？</Dest>
     </String>
+    <String List="2">
+      <Source>I cannot, and neither can you. We are both rooted in this soil, as I require its water, and you require me.</Source>
+      <Dest>我不行，你也不行，我们都已经在这片土地扎根了，因为我需要它的水，而你需要我一样。</Dest>
+    </String>
     <String List="0">
-      <Source>Your place would suit us just fine.</Source>
-      <Dest>你的地盘刚好适合我们。.</Dest>
+      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
+      <Dest>树精 和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>My love should not accuse me of being a witch. He should refer to me as the Lady of the Wood, and her birth a gift from the Gods.</Source>
+      <Dest>我的爱恋不该因为我是个女巫而备受指责。他应该称我为森林女士，她的出世就是那圣灵所给予的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
+      <Dest>树精 和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Further insults will not be tolerated. Remember, my love, I know where you sleep.</Source>
+      <Dest>再这样责骂我可要忍无可忍了。别忘了亲爱的，我可是知道你晚上睡哪儿的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
+      <Dest>树精 和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>My love should not accuse me of being a witch. She should refer to me as the Lady of the Wood, and her spells a gift from the Gods.</Source>
+      <Dest>我的爱恋不该因为我是个女巫而备受指责。他应该称我为森林女士，她的出世就是那圣灵所给予的礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
+      <Dest>树精 和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Further insults will not be tolerated. Remember, my love, I know where you sleep.</Source>
+      <Dest>再这样责骂我可要忍无可忍了。别忘了亲爱的，我可是知道你晚上睡哪儿的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you're half Spriggan? How is that even possible?</Source>
+      <Dest>你是说你是个半树精？这怎么可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not, and yet every night I slept at the bottom of that lake, dreaming it was so. But only when I wasn't dreaming of you.</Source>
+      <Dest>并不是，每个晚上，当我沉眠于那湖底时我都会梦想着我是个半树精。但这仅限于我没有梦到你的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you end up at the bottom of that lake?</Source>
+      <Dest>你怎么会在湖底？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was rather simple, my love. My mother was a matron, born in the trees before you.</Source>
+      <Dest>这很简单，吾爱。我妈妈是个树精婆。她出生于你前面的这颗树下。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you end up at the bottom of that lake?</Source>
+      <Dest>你怎么会在湖底？</Dest>
+    </String>
+    <String List="2">
+      <Source>One night, she accepted the seed of a mortal, and from that joining she became pregnant with a child.</Source>
+      <Dest>One night, she accepted the seed of a mortal, and from that joining she became pregnant with a child.</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you end up at the bottom of that lake?</Source>
+      <Dest>你怎么会在湖底？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet she knew not what to do with it. So just as water gave her life, she gave life to water. I was that gift.</Source>
+      <Dest>但她不知道该用它做什么。正如水给了她生命，她也把生命作为礼物献给了水。我就是那个礼物。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you end up at the bottom of that lake?</Source>
+      <Dest>你怎么会在湖底？</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, like all creatures of the wood, the child yearned to see the light. Thanks to you, my beloved, I can.</Source>
+      <Dest>尽管如此，就像这些有生命的树木一样，这孩子渴望着光亮。谢谢，亲爱的，我可以的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You leave home far too often, my love. There is nothing for you out there. I am all you need.</Source>
+      <Dest>你出远门太频繁了，我的爱人。对你而言外面什么都没，我就是你一切所需。</Dest>
+    </String>
+    <String List="2">
+      <Source>I slumbered for many seasons, but it was worth the wait.</Source>
+      <Dest>我沉睡了很多年，但等待是值得的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome home, my love.</Source>
+      <Dest>欢迎回家，亲爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You look parched. Have a drink by the water.</Source>
+      <Dest>你看起来口干舌燥。来喝点水吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Time will not separate us. Nor will your wayward eyes.</Source>
+      <Dest>就连时间都无法把我们分开。你那飘忽不定的眼神也不会从我身上离开喔。</Dest>
+    </String>
+    <String List="2">
+      <Source>In this soil, our love will take root.</Source>
+      <Dest>在这片土地上，我们的爱会生根发芽。</Dest>
     </String>
     <String List="0">
       <Source>Your place would suit us just fine.</Source>
       <Dest>你的地盘刚好适合我们。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wonderful. The ring I give to you, my love, as it will allow you to sleep by my side at the bottom of the lake.</Source>
+      <Dest>非常好！我给你的戒指，吾爱。戴上它你将会和我一起沉睡于湖底。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your place would suit us just fine.</Source>
+      <Dest>你的地盘刚好适合我们。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Your companions are welcome to visit, as your friends are mine. Provided they remain just friends.</Source>
+      <Dest>欢迎你的伙伴们前来参观，因为你的朋友就是我的朋友。只要他们还是朋友的话就没问题。</Dest>
     </String>
     <String List="0">
       <Source>There's just one problem, and it's a big one. I prefer a handsome prince.</Source>
       <Dest>现在只有一个问题——大问题——我更想要一个帅气的王子！</Dest>
     </String>
+    <String List="2">
+      <Source>Then it seems you are confused. I am of the wood, and the wood adheres to no mortal form.</Source>
+      <Dest>看起来你很困惑。我是木制的，既然是木材就不会以普通凡人的形象出现了。</Dest>
+    </String>
     <String List="0">
       <Source>There's just one problem, and it's a big one. I prefer a handsome prince.</Source>
       <Dest>现在只有一个问题——大问题——我更想要一个帅气的王子！</Dest>
     </String>
-    <String List="0">
-      <Source>I am afraid my heart belongs to another.</Source>
-      <Dest>恐怕我的心已经属于别人了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I am afraid my heart belongs to another.</Source>
-      <Dest>恐怕我的心已经属于别人了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
-      <Dest>树精和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
-      <Dest>树精和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
-      <Dest>树精和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>Spriggans and unnatural unions. Sounds like witchcraft.</Source>
-      <Dest>树精和各种非自然的合体生物，听起来都是巫术的感觉呀。</Dest>
+    <String List="2">
+      <Source>Besides, what is your love for males but another Giant to be slain? You have slain one for me, so now it is time I return the favor.</Source>
+      <Dest>话说回来，你对男性唯一的兴趣就只有屠杀下一个巨人而已？你已经为我宰了一个巨人，现在到我报答的时候了。</Dest>
     </String>
     <String List="0">
       <Source>I think we should get to know each other first.</Source>
@@ -110,149 +202,69 @@
       <Source>What is there to know that time will not teach us? The Matron has already destined our pairing, all that is left is to plant the seed.</Source>
       <Dest>什么是时间不会启示我们的？ 树精已经把我们凑成一对了, 剩下的就是开枝散叶的事了.</Dest>
     </String>
-    <String List="2">
-      <Source>We will make this our garden, and I will make it that you will never wont for anything but the one who stands before you.</Source>
-      <Dest>让我们把这里变成我们的后花园吧。我会让你深深爱上这里的。</Dest>
-    </String>
-    <String List="2">
-      <Source>You leave home far too often, my love. There is nothing for you out there. I am all you need.</Source>
-      <Dest>你出远门太频繁了，我的爱人。对你而言外面什么都没，我就是你一切所需。</Dest>
-    </String>
-    <String List="2">
-      <Source>You look parched. Have a drink by the water.</Source>
-      <Dest>你看起来口干舌燥。来喝点水吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until next time.</Source>
-      <Dest>下回见。</Dest>
-    </String>
-    <String List="2">
-      <Source>I cannot, and neither can you. We are both rooted in this soil, as I require its water, and you require me.</Source>
-      <Dest>我不行，你也不行，我们都已经在这片土地扎根了，因为我需要它的水，而你需要我一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>My love should not accuse me of being a witch. He should refer to me as the Lady of the Wood, and her birth a gift from the Gods.</Source>
-      <Dest>我的爱恋不该因为我是个女巫而备受指责。他应该称我为森林女士，她的出世就是那圣灵所给予的礼物。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wonderful. The ring I give to you, my love, as it will allow you to sleep by my side at the bottom of the lake.</Source>
-      <Dest>非常好！我给你的戒指，吾爱。戴上它你将会和我一起沉睡于湖底。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    <String List="0">
+      <Source>I don't think a cave is a healthy environment to start a family.</Source>
+      <Dest>我不认为洞穴拥有适宜家庭居住的良好环境。</Dest>
     </String>
     <String List="2">
       <Source>I do not understand. There is soil. There is water. What else is there required to live?</Source>
       <Dest>我确实不明白，又有土壤，又有水源。这样还不够生存的么？</Dest>
     </String>
+    <String List="0">
+      <Source>I don't think a cave is a healthy environment to start a family.</Source>
+      <Dest>我不认为洞穴拥有适宜家庭居住的良好环境。</Dest>
+    </String>
     <String List="2">
-      <Source>I slumbered for many seasons, but it was worth the wait.</Source>
-      <Dest>我沉睡了很多年，但等待是值得的。</Dest>
+      <Source>We will make this our garden, and I will make it that you will never wont for anything but the one who stands before you.</Source>
+      <Dest>让我们把这里变成我们的后花园吧。我会让你深深爱上这里的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am afraid my heart belongs to another.</Source>
+      <Dest>恐怕我的心已经属于别人了。</Dest>
     </String>
     <String List="2">
       <Source>That is unfortunate. Is it one of these three? Or another? Perhaps I will slay all of them so your heart is mine.</Source>
       <Dest>那可真不幸。是这三个其中之一吗？还另有其人？我看还是把她们全杀光才能独占你的心吧。</Dest>
     </String>
-    <String List="2">
-      <Source>Yet she knew not what to do with it. So just as water gave her life, she gave life to water. I was that gift.</Source>
-      <Dest>但她不知道该用它做什么。正如水给了她生命，她也把生命作为礼物献给了水。我就是那个礼物。</Dest>
-    </String>
-    <String List="2">
-      <Source>In this soil, our love will take root.</Source>
-      <Dest>在这片土地上，我们的爱会生根发芽。</Dest>
+    <String List="0">
+      <Source>I am afraid my heart belongs to another.</Source>
+      <Dest>恐怕我的心已经属于别人了。</Dest>
     </String>
     <String List="2">
       <Source>(Laughs) Do not worry, it was merely a jest. I will not slay your friends. At least, not today.</Source>
       <Dest>(笑声) 别担心，这只是个玩笑。我不会杀了你的朋友。至少，今天不会。</Dest>
     </String>
     <String List="2">
-      <Source>I see. Then you are my love, wed by the Divines, here in this cathedral of nature.</Source>
-      <Dest>是啊。从此你就是我的爱人了，诸神赐福我们的结合，在这大自然的教堂。</Dest>
-    </String>
-    <String List="2">
-      <Source>It is not, and yet every night I slept at the bottom of that lake, dreaming it was so. But only when I wasn't dreaming of you.</Source>
-      <Dest>并不是，每个晚上，当我沉眠于那湖底时我都会梦想着我是个半树精。但这仅限于我没有梦到你的时候。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet now that I am once more among the waking, I must fulfill my end of the tale.</Source>
-      <Dest>但现在我又一次苏醒了。我必须给我的故事一个结局。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was from her feelings for the one that a seed was born, and when it was planted, it grew into me.</Source>
-      <Dest>一颗种子自她对那一位的情感中出生了, 当那种子生根发芽之后，就有了我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your companions are welcome to visit, as your friends are mine. Provided they remain just friends.</Source>
-      <Dest>欢迎你的伙伴们前来参观，因为你的朋友就是我的朋友。只要他们还是朋友的话就没问题。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was rather simple, my love. My mother was a matron, born in the trees before you.</Source>
-      <Dest>这很简单，吾爱。我妈妈是个树精婆。她出生于你前面的这颗树下。</Dest>
+      <Source>So my spouse, shall we reside here, or is there another cave that we will call home?</Source>
+      <Dest>我亲爱的，那么，我们应该居住在这里，还是居住在另一个可谓其“家”的山洞？</Dest>
     </String>
     <String List="2">
       <Source>To which of you four am I wed? Step forward, hero, and we shall live in matrimony.</Source>
       <Dest>我要与你们四人中的何人携手白头？向前一步，英雄啊，这一步将领带我们走入婚姻的殿堂。</Dest>
     </String>
     <String List="2">
-      <Source>Besides, what is your love for males but another Giant to be slain? You have slain one for me, so now it is time I return the favor.</Source>
-      <Dest>话说回来，你对男性唯一的兴趣就只有屠杀下一个巨人而已？你已经为我宰了一个巨人，现在到我报答的时候了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I see. Then you are my love, wed by the Divines, and in this soil our love shall take root.</Source>
-      <Dest>我懂了。那你就是我的爱人了，我们在圣灵的祝福下结合，我们爱的种子在这片土地上发芽生根。</Dest>
-    </String>
-    <String List="2">
-      <Source>Time will not separate us. Nor will your wayward eyes.</Source>
-      <Dest>就连时间都无法把我们分开。你那飘忽不定的眼神也不会从我身上离开喔。</Dest>
-    </String>
-    <String List="2">
       <Source>I was, but worry for me not. In the land of dreams, time is but a moment until you awake. </Source>
       <Dest>我在，不过不必为梦境中的我担心，时间只不过是醒来前的一个瞬间而已。</Dest>
     </String>
     <String List="2">
-      <Source>Further insults will not be tolerated. Remember, my love, I know where you sleep.</Source>
-      <Dest>再这样责骂我可要忍无可忍了。别忘了亲爱的，我可是知道你晚上睡哪儿的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Further insults will not be tolerated. Remember, my love, I know where you sleep.</Source>
-      <Dest>再这样责骂我可要忍无可忍了。别忘了亲爱的，我可是知道你晚上睡哪儿的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Why not? It is just as mother did, loving the one who saved the wood. The mortals with axes came to chop it down, but one refused.</Source>
-      <Dest>为什么不呢？它就像母亲一样，爱着救下了树木的那个人。凡人们拎着斧头前来想要把它伐倒，但那个人拒绝了。</Dest>
-    </String>
-    <String List="2">
-      <Source>One does not choose their love. It is delivered to them, like spores in the wind.</Source>
-      <Dest>不应接受送到手上的爱, 因为那就像在风中的孢子一样.</Dest>
-    </String>
-    <String List="2">
-      <Source>Welcome home, my love.</Source>
-      <Dest>欢迎回家，亲爱的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, it's been a long time since my branches have seen the sun.</Source>
-      <Dest>啊，自从我的树枝见到阳光以来已经很长时间了。</Dest>
+      <Source>Yet now that I am once more among the waking, I must fulfill my end of the tale.</Source>
+      <Dest>但现在我又一次苏醒了。我必须给我的故事一个结局。</Dest>
     </String>
     <String List="2">
       <Source>For I am bound to love the hero who vanquished the Sleeping Giant, and rescued me from the clutches of eternity.</Source>
       <Dest>我一定会爱上那个征服沉睡巨人的英雄，同时，他也是那个将我从永恒的噩梦中解救出来的人。</Dest>
     </String>
     <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>Ah, it's been a long time since my branches have seen the sun.</Source>
+      <Dest>啊，自从我的树枝见到阳光以来已经很长时间了。</Dest>
     </String>
     <String List="2">
-      <Source>Then it seems you are confused. I am of the wood, and the wood adheres to no mortal form.</Source>
-      <Dest>看起来你很困惑。我是木制的，既然是木材就不会以普通凡人的形象出现了。</Dest>
+      <Source>I see. Then you are my love, wed by the Divines, and in this soil our love shall take root.</Source>
+      <Dest>我懂了。那你就是我的爱人了，我们在圣灵的祝福下结合，我们爱的种子在这片土地上发芽生根。</Dest>
     </String>
     <String List="2">
-      <Source>So my spouse, shall we reside here, or is there another cave that we will call home?</Source>
-      <Dest>我亲爱的，那么，我们应该居住在这里，还是居住在另一个可谓其“家”的山洞？</Dest>
-    </String>
-    <String List="2">
-      <Source>My love should not accuse me of being a witch. She should refer to me as the Lady of the Wood, and her spells a gift from the Gods.</Source>
-      <Dest>我的爱恋不该因为我是个女巫而备受指责。他应该称我为森林女士，她的出世就是那圣灵所给予的礼物。</Dest>
+      <Source>I see. Then you are my love, wed by the Divines, here in this cathedral of nature.</Source>
+      <Dest>是啊。从此你就是我的爱人了，诸神赐福我们的结合，在这大自然的教堂。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

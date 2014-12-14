@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -6,13 +6,9 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
-      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
-      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
+    <String List="2">
+      <Source>Then let's hold off on the drinks, lest we both end up in bed with Spriggans.</Source>
+      <Dest>我们晚点再喝这些酒吧，免得醉醒后发现我们和树精上床了。</Dest>
     </String>
     <String List="0">
       <Source>What did you do?</Source>
@@ -21,166 +17,162 @@
     <String List="0">
       <Source>What did you do?</Source>
       <Dest>你做了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any stories from your days in the Orphanage?</Source>
-      <Dest>说说你在孤儿院时候的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry. I swear on Grelod's life she will be just fine.</Source>
-      <Dest>别担心。我拿桂罗的命发誓，她会很好的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you're another pilgrim on your way to High Hrothgar.</Source>
-      <Dest>我猜你是另一个在前往高吼峰上的朝圣者。</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting stories from your travels?</Source>
-      <Dest>您的旅行有沒有一些有趣的事?</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting stories from your travels?</Source>
-      <Dest>您的旅行有沒有一些有趣的事?</Dest>
-    </String>
-    <String List="2">
-      <Source>She had been beaten and tortured, yet through it all she faces those who greet her with dignity and pride.  </Source>
-      <Dest>她一直被殴打和折磨着，但当这一切过去后，她找到了那些会对她尊敬和自豪的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>The air is thicker than a Jarl's waistline, and the wind rumbles like the breath of a dragon.  </Source>
-      <Dest>那气氛就好比贵族的腰围一般粗厚，那阵风也好像巨龙的气息一样隆隆地响。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have a few, if you'll indulge me. In my journeys to the north, for instance, I found a palace with domes painted like the night sky.</Source>
-      <Dest>有些吧，如果你会容许我的话。比如说，在我到北方的旅途中，发现了一个宫殿。殿中的穹顶画得如同夜空一般。</Dest>
-    </String>
-    <String List="2">
-      <Source>I guess that's why they call it "ole" Rorikstead.  Must have had another name, unless the song isn't as old as I think. </Source>
-      <Dest>我想这就是为什么他们会叫这个城镇做"古"洛利克镇。它一定有别的名字，除非这首歌不如我想像中那么古老。</Dest>
-    </String>
-    <String List="2">
-      <Source>That doesn't raise my confidence, but I suppose we all have our own fate.  Good luck, traveler.  May all your adventures be worthy of a song.</Source>
-      <Dest>你这句话并没有给予我更大的信心，但我想我们每个人都有自己的命运吧。祝你好运，旅行者。愿您的冒险精彩得可换来一首赞歌。</Dest>
-    </String>
-    <String List="2">
-      <Source>Either way, I have enjoyed our talk.  May you craft your own stories as you continue your travels.</Source>
-      <Dest>不管怎样，我很高兴和你聊天。希望你在之后的旅途中创造出属于自己的故事。</Dest>
-    </String>
-    <String List="2">
-      <Source>In the end, I'm thankful the guard didn't turn me in right then.  How foolish a child I was, to think I could convince an adult to commit murder.</Source>
-      <Dest>最终，我很感激那名守卫没有举报我。多么地愚蠢，我在想我一个小孩可以说服一个成年人去谋杀。</Dest>
-    </String>
-    <String List="2">
-      <Source>Inside one of the cells is the most beautiful damsel you will ever lay your eyes upon, but her voice is dirty with pain.</Source>
-      <Dest>在一个房间内有一个你永远都不想闭上眼，永远直视着，最美丽的少女，但她的话却是狠毒得像带刺一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Names do not make a city, and they do not make the man.</Source>
-      <Dest>名字无法成就一座城市，也不会成就一个男人。</Dest>
-    </String>
-    <String List="2">
-      <Source>To the west, at the source of a river, I found a mast jutting out from the surface.  If I knew how to swim, I'd see what's attached to it.</Source>
-      <Dest>在西边，我在一条河流的源头处见到一枝桅杆从河面上伸出来。如果我懂得游泳，我真想看看它到底是连接着些什么东西。</Dest>
     </String>
     <String List="2">
       <Source>Then a voice came cutting through the silence. It said, "You can shoot him in the neck, but he won't bleed. The blood's all below the waist!"</Source>
       <Dest>这时，一把声音打破了沉默。它说："你可以射他的脖子，但他可不会流血。他的血全都流到去跨下了。"</Dest>
     </String>
-    <String List="2">
-      <Source>I was lost in the clutches of night, with only the blood moon to guide me. That is, until I saw a fire and a circle of tents tucked below the rock.</Source>
-      <Dest>我在黑夜的魔掌中迷了路，只剩下血红色的月亮引导着我。直到我看到了在岩石縫隙之下的营火与帐篷。</Dest>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
     </String>
     <String List="2">
       <Source>Does it describe the dampness of the air as it wafts in from the canals, or the leaves that roll down the sky like autumn tears?</Source>
       <Dest>难道名字能形容那些从河道那里吹来的湿气，或者那些像天空落泪般随风帘卷的秋叶？</Dest>
     </String>
     <String List="2">
-      <Source>Then let's hold off on the drinks, lest we both end up in bed with Spriggans.</Source>
-      <Dest>我们晚点再喝这些酒吧，免得醉醒后发现我们和树精上床了。</Dest>
+      <Source>Names do not make a city, and they do not make the man.</Source>
+      <Dest>名字无法成就一座城市，也不会成就一个男人。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Inside one of the cells is the most beautiful damsel you will ever lay your eyes upon, but her voice is dirty with pain.</Source>
+      <Dest>在一个房间内有一个你永远都不想闭上眼，永远直视着，最美丽的少女，但她的话却是狠毒得像带刺一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>She had been beaten and tortured, yet through it all she faces those who greet her with dignity and pride.  </Source>
+      <Dest>她一直被殴打和折磨着，但当这一切过去后，她找到了那些会对她尊敬和自豪的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I sensed beneath her tough veneer that there was a twinge of sorrow.  Not for herself, but for those on the battlefield she cannot save.</Source>
+      <Dest>Yet I sensed beneath her tough veneer that there was a twinge of sorrow.  Not for herself, but for those on the battlefield she cannot save.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting stories from your travels?</Source>
+      <Dest>告诉我来自您的旅行的另一个故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a few, if you'll indulge me. In my journeys to the north, for instance, I found a palace with domes painted like the night sky.</Source>
+      <Dest>有些吧，如果你会容许我的话。比如说，在我到北方的旅途中，发现了一个宫殿。殿中的穹顶画得如同夜空一般。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting stories from your travels?</Source>
+      <Dest>告诉我来自您的旅行的另一个故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The air is thicker than a Jarl's waistline, and the wind rumbles like the breath of a dragon.  </Source>
+      <Dest>那气氛就好比贵族的腰围一般粗厚，那阵风也好像巨龙的气息一样隆隆地响。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was lost in the clutches of night, with only the blood moon to guide me. That is, until I saw a fire and a circle of tents tucked below the rock.</Source>
+      <Dest>我在黑夜的魔掌中迷了路，只剩下血红色的月亮引导着我。直到我看到了在岩石缝隙之下的营火与帐篷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine my surprise when I approached the camp, and found three women in furs no larger than a hair's breadth, training their arrows at my throat. </Source>
+      <Dest>Imagine my surprise when I approached the camp, and found three women in furs no larger than a hair's breadth, training their arrows at my throat. </Dest>
+    </String>
+    <String List="2">
+      <Source>To the west, at the source of a river, I found a mast jutting out from the surface.  If I knew how to swim, I'd see what's attached to it.</Source>
+      <Dest>在西边，我在一条河流的源头处见到一枝桅杆从河面上伸出来。如果我懂得游泳，我真想看看它到底是连接着些什么东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess that's why they call it "ole" Rorikstead.  Must have had another name, unless the song isn't as old as I think. </Source>
+      <Dest>我想这就是为什么他们会叫这个城镇做"古"洛利克镇。它一定有别的名字，除非这首歌不如我想像中那么古老。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry. I swear on Grelod's life she will be just fine.</Source>
+      <Dest>别担心。我拿桂罗的命发誓，她很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>That doesn't raise my confidence, but I suppose we all have our own fate.  Good luck, traveler.  May all your adventures be worthy of a song.</Source>
+      <Dest>你这句话并没有给予我更大的信心，但我想我们每个人都有自己的命运吧。祝你好运，旅行者。愿您的冒险精彩得可换来一首赞歌。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any stories from your days in the Orphanage?</Source>
+      <Dest>说说你在孤儿院时候的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
+      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
     </String>
     <String List="2">
       <Source>Ha! You are either a very funny person, or a very disturbed one.  I dare not ask which.  </Source>
       <Dest>哈！你要不是一个有趣的人，就是个令人烦厌的家伙。嘿！你不用回答我你是哪一个。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
+      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, I have enjoyed our talk.  May you craft your own stories as you continue your travels.</Source>
+      <Dest>不管怎样，我很高兴和你聊天。希望你在之后的旅途中创造出属于自己的故事。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>I take it you're another pilgrim on your way to High Hrothgar.</Source>
+      <Dest>我猜你是另一个在通往高吼峰上的朝圣者。</Dest>
     </String>
-    <String List="0">
-      <Source>That was wrong of you, but what's done is done, and it makes for a good story.</Source>
-      <Dest>那是你的错，但那已过去了，况且它成就了一个好故事。</Dest>
+    <String List="2">
+      <Source>In the end, I'm thankful the guard didn't turn me in right then.  How foolish a child I was, to think I could convince an adult to commit murder.</Source>
+      <Dest>最终，我很感激那名守卫没有举报我。多么地愚蠢，我在想我一个小孩可以说服一个成年人去谋杀。</Dest>
     </String>
     <String List="0">
       <Source>Is the orphanage why you left Riften?</Source>
       <Dest>是因为孤儿院让你想离开裂谷城？</Dest>
     </String>
     <String List="0">
-      <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
-      <Dest>你觉得跟乌鸦鬼婆打斗是件恐怖的事，那试试看跟她们一战再说。</Dest>
+      <Source>That was wrong of you, but what's done is done, and it makes for a good story.</Source>
+      <Dest>那是你的错，但做就做了，况且它成就了一个好故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right. I have enjoyed our talk. May you craft your own stories as you continue your travels.</Source>
+      <Dest>你说得对。我很享受和你聊天。也许你在继续你的旅途的时候，可以写一个你自己的故事。</Dest>
     </String>
     <String List="0">
       <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
-      <Dest>你觉得跟乌鸦鬼婆打斗是件恐怖的事，那试试看跟她们一战再说。</Dest>
+      <Dest>你觉得跟乌鸦鬼婆战斗是件恐怖的事，那试试看跟他们结婚再说。</Dest>
+    </String>
+    <String List="0">
+      <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
+      <Dest>你觉得跟乌鸦鬼婆战斗是件恐怖的事，那试试看跟他们结婚再说。</Dest>
     </String>
     <String List="0">
       <Source>It looks emptier in here.</Source>
       <Dest>似乎这里更干净。</Dest>
     </String>
+    <String List="2">
+      <Source>Yes, you know the funny Khajiit fellow who liked to count the steps?  We found him dead the other day.  Took his own life.</Source>
+      <Dest>是的，你知道那有趣而且喜欢跟踪人的虎人家伙么?  后来我们发现他死了. 就是栽这上面了吧.</Dest>
+    </String>
     <String List="0">
       <Source>It looks emptier in here.</Source>
       <Dest>似乎这里更干净。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've been to the orphanage. Quaint little place.</Source>
-      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've been to the orphanage. Quaint little place.</Source>
-      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>Can I help you?</Source>
-      <Dest>我能为你效劳吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
     </String>
     <String List="2">
       <Source>Perhaps someone finally gave him an answer.  Sometimes the right answers are the wrong ones.</Source>
       <Dest>也许有人最终给他一个答案了吧。有些时候错误的答案可能就是最终的正确答案。</Dest>
     </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    <String List="0">
+      <Source>I've been to the orphanage. Quaint little place.</Source>
+      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been to the orphanage. Quaint little place.</Source>
+      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
     </String>
     <String List="2">
-      <Source>Hail.</Source>
-      <Dest>万岁。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're right. I have enjoyed our talk. May you craft your own stories as you continue your travels.</Source>
-      <Dest>你说得对。我很享受和你聊天。也许你在继续你的旅途的时候，可以写一个你自己的故事。</Dest>
+      <Source>Until next we meet.</Source>
+      <Dest>下次再见。</Dest>
     </String>
     <String List="2">
       <Source>All right, then.</Source>
@@ -191,20 +183,36 @@
       <Dest>旅途安全。</Dest>
     </String>
     <String List="2">
-      <Source>Yes, you know the funny Khajiit fellow who liked to count the steps?  We found him dead the other day.  Took his own life.</Source>
-      <Dest>是的，你知道那有趣而且喜欢跟踪人的虎人家伙么?  后来我们发现他死了. 就是栽这上面了吧.</Dest>
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
     </String>
     <String List="2">
       <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hail.</Source>
+      <Dest>你好啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可以的理由，是他被迫留在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until next we meet.</Source>
-      <Dest>下次再见。</Dest>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
