@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead the way.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Barks once)</Source>
+      <Dest>（叫一声）</Dest>
+    </String>
+    <String List="2">
+      <Source>Woof!</Source>
+      <Dest>汪！</Dest>
+    </String>
+    <String List="2">
+      <Source>(Whimpers)</Source>
+      <Dest>（低吠）</Dest>
+    </String>
+    <String List="2">
+      <Source>(Barks twice)</Source>
+      <Dest>（叫两声）</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

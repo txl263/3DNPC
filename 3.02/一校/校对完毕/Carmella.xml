@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What are you saying exactly?</Source>
+      <Dest>你到底在说啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you saying exactly?</Source>
+      <Dest>你到底在说啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear another hypothetical.</Source>
+      <Dest>我想听听另一个假设。</Dest>
+    </String>
+    <String List="0">
+      <Source>Blowing up mindless skeletons is pretty fun.  You should try it.</Source>
+      <Dest>雕琢那些没意识的骷髅超有趣的。你应该试试。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by necromantic art?</Source>
+      <Dest>你想用死灵法术技艺来表达什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by necromantic art?</Source>
+      <Dest>你想用死灵法术技艺来表达什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by necromantic art?</Source>
+      <Dest>你想用死灵法术技艺来表达什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what it means. I just want to make sure you know what it means.</Source>
+      <Dest>我明白你的意思。我只是想确认你明白那意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what it means. I just want to make sure you know what it means.</Source>
+      <Dest>我明白你的意思。我只是想确认你明白那意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what it means. I just want to make sure you know what it means.</Source>
+      <Dest>我明白你的意思。我只是想确认你明白那意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what it means. I just want to make sure you know what it means.</Source>
+      <Dest>我明白你的意思。我只是想确认你明白那意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what it means. I just want to make sure you know what it means.</Source>
+      <Dest>我明白你的意思。我只是想确认你明白那意味着什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you need any assistance?</Source>
+      <Dest>你需要协助么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never been one for philosophy. If it attacks, I kill it.</Source>
+      <Dest>我不是个喜欢讲哲学的人。它攻击我，那我就杀了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never been one for philosophy. If it attacks, I kill it.</Source>
+      <Dest>我不是个喜欢讲哲学的人。它攻击我，那我就杀了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never been one for philosophy. If it attacks, I kill it.</Source>
+      <Dest>我不是个喜欢讲哲学的人。它攻击我，那我就杀了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never been one for philosophy. If it attacks, I kill it.</Source>
+      <Dest>我不是个喜欢讲哲学的人。它攻击我，那我就杀了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never been one for philosophy. If it attacks, I kill it.</Source>
+      <Dest>我不是个喜欢讲哲学的人。它攻击我，那我就杀了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the moral of the story is?</Source>
+      <Dest>所以这个故事的寓意是？</Dest>
+    </String>
+    <String List="0">
+      <Source>And the moral of the story is?</Source>
+      <Dest>所以这个故事的寓意是？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to see your skeletons dance. That would be a neat trick.</Source>
+      <Dest>我想看你的骷髅舞。那肯定是个灵巧的把戏。</Dest>
+    </String>
+    <String List="0">
+      <Source>This man you speak of, we share similar appetites.</Source>
+      <Dest>你说的这个人，跟我有相似的癖好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I play the long game.  Help the man cure the world, learn his secret, then kill.</Source>
+      <Dest>我玩的是一个长期的遊戏。帮助他统治世界，以及了解他的秘密，最后杀死他。</Dest>
+    </String>
+    <String List="0">
+      <Source>An Amulet of Mara, you say? I'm surprised someone like you even bothers.</Source>
+      <Dest>玛拉的护身符？真的？我很惊讶你这样的人还在乎这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the effects of the spell?</Source>
+      <Dest>那一招的效果是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the effects of the spell?</Source>
+      <Dest>那一招的效果是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the effects of the spell?</Source>
+      <Dest>那一招的效果是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the effects of the spell?</Source>
+      <Dest>那一招的效果是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>There's one thing wrong with that scenario. What if the Gourmet was an Orc?</Source>
+      <Dest>这个假设有个地方错了。例如，假设那个美食家是个兽人？</Dest>
+    </String>
+    <String List="2">
+      <Source>There is evidence strewn about everywhere that he is a deplorable man.  A murderer. A rapist. A thief. However, he is also a brilliant alchemist.</Source>
+      <Dest>有很多证据表明他是个臭名昭著的人。杀人犯，强奸犯，盗贼。不过同时，他还是一个天才炼金师。</Dest>
+    </String>
+    <String List="2">
+      <Source>What makes these people, and not simply the old clothes of those who have long since donned new tunics?</Source>
+      <Dest>何谓人类，为什么他们一穿上新华服就会与先前那穿着旧衣服的自己截然不同？</Dest>
+    </String>
+    <String List="2">
+      <Source>You soon discover your affliction gives you a mild sensation of pleasure, but only when you hear the words "Thank you."</Source>
+      <Dest>当耳边传来一句“谢谢”时，你会发现一切痛苦烟消云散，取而代之的是愉快所带来的平和感觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>As if the world famous chef, the Gourmet, had cooked the meal.</Source>
+      <Dest>就像那位世界名厨，那位美食家，煮了顿佳肴一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary, the words "Please" result in a mild sensation of pain.</Source>
+      <Dest>正相反， "请" 这个字，会导致一点儿轻微的痛苦。</Dest>
+    </String>
+    <String List="2">
+      <Source>This toxin is not a debilitating poison, but rather a peculiar one.  It seems to be tied to a magic spell.  </Source>
+      <Dest>这种毒素不是什么使人衰弱的毒药，它要更古怪一些。似乎在它上面附着一种魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>A young man spends his entire life near a forest filled with feral wolves.  His animosity toward the beasts is hardened by the deaths of his friends.</Source>
+      <Dest>一个年轻人将他的一生都用来对付附近森林的野狼。他如此执拗地敌视着这些野兽的原因，是因为它们杀死了他的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>I need help finding a thief. A Breton man with short hair and bad teeth.  </Source>
+      <Dest>我需要人帮忙找一名盗贼。他留着短发一口蛀牙，是个布莱顿人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I am pleased my work arouses such anger within you. That in itself proves it is meaningful.</Source>
+      <Dest>我很高兴我的工作唤醒了你的怒火。这证明我做的很有意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, this is one Master Gestor told me. Consider the following. In your travels across Skyrim you come across a man living in an abandoned house.</Source>
+      <Dest>好吧，这是盖斯特大师告诉我的。想象下以下的情景吧。在你漫步天际的旅行中，偶遇上一位住在废弃房子里的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wouldn't dream of it.</Source>
+      <Dest>我不会对他抱有任何幻想了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That I'm not to come back here with my art in tow.  As you can see, I am clearly alone.</Source>
+      <Dest>我不是与我的艺术一起回来的。如你所见，我孑然一身。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish. This is one I came up with while discussing the paradox of venom as an antidote for its own poison, with a Necromancer named Selveni. </Source>
+      <Dest>如你所愿。这是当我和一名叫做塞尔维尼的亡灵术士在对毒药可作为其自身的解药这一悖论进行讨论时我灵光一现所想出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The struggles of man, his joy, his sadness, his frailty.  His clothes are stripped, his bones bared for all to see.  </Source>
+      <Dest>这个人内心的挣扎，他的喜悦，他的忧伤，他的脆弱。他那厚厚的掩饰全被剥去，只留下赤条条的一个他展现在所有人面前。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet even an artist cannot fully understand a work through a single set of eyes. Tell me traveler, what does this piece mean to you?</Source>
+      <Dest>然而，即使是一名艺术家也不能只靠一只眼睛就完全理解一件作品。告诉我旅行者，这件作品对你而言意味着什么？ </Dest>
+    </String>
+    <String List="2">
+      <Source>You choose to be simple, and you confuse it with honor.  It is not true wisdom.  Consider, for instance, the following scenario:</Source>
+      <Dest>你选择了平凡，并且把它和荣耀混淆。这不是真的智慧。举个例子，你想一想这样的情景：</Dest>
+    </String>
+    <String List="2">
+      <Source>I use the tools of conjuration to make art pieces that reflect the human condition. </Source>
+      <Dest>我以咒语为画笔，人体为画布，来创造反映人类处境的艺术作品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Soon the food begins to appear as bad as it smells, yet in your mouth it remains a model of perfection.</Source>
+      <Dest>很快那些食物就开始变得像它闻起来一样差，但落入口中时它们仍然是非常美味。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, but you look a bit pale. Are you ill?  Do you have plans for your body upon death?  </Source>
+      <Dest>没有，但你看上去脸色有些苍白。你病了？你想好在你去世之后，你那躯体要怎样处理了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but as we mortals are given choice, so too are they.  They will not dance at your command, but they may cower in your shadow.</Source>
+      <Dest>啊，如同我们普通人一样，他们也有机会选择。他们不会听你的命令起舞，但可能会蜷缩在你的影子里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, traveler.  Do you come to watch the dance of bones?  To pay homage?  Or to learn the craft?</Source>
+      <Dest>你好，旅行者。你是来看骷髅跳舞的？来表达敬意的？还是来学手艺的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine for an instant you wake up one morning to find everything you eat has amplified in taste.  </Source>
+      <Dest>试想一下在你早上起床的瞬间，你发现你吃到的一切味道都会变得更强烈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps my next project will be a conjured skeleton made from the bones of twenty different men. The artistic value in that would be indescribable.</Source>
+      <Dest>我的下一个计划或许是从二十个不同的人的骨灰中召唤出一个骷髅。其艺术价值简直无法估量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you consider this change positive or negative, and are you more or less likely to help someone as a result?</Source>
+      <Dest>你觉得这个变化是好是坏，你会或多或少的去帮助别人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The amulet is purely a prop. I was contemplating donning it on a skeleton for more emotional impact, but feared it would sway the viewer's opinion.</Source>
+      <Dest>项链是一个纯粹的道具媒介，我在考虑把项链献祭给一具骷髅来对它施加更多的情感，但是我害怕这会动摇观察者的主观意志。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I thought you were a true artist.  Such a shame to learn your words belie your bestial nature.</Source>
+      <Dest>我还以为你是个真正的艺术家。但当认识到你那言辞背后掩藏着的那残忍本性之后，我觉得你真是艺术家的耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>One day, he is walking on the road by a river, and a wolf approaches him.</Source>
+      <Dest>一天，他走在临河的小路上，一只狼悄悄靠近了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might look upon these skeletons and feel pity for the people they once were.  But answer me this.  What is the nature of life?</Source>
+      <Dest>看到这些骷髅的时候，你可能会为这些曾经的生者感到遗憾。但回答我吧。生命的本质是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I can always use more bones.  While it is still a compromise, I do prefer the smell of skeletons to the undead.</Source>
+      <Dest>我总是需要骨头的。好吧如果要做个妥协的话，就不死族而言我更喜欢骷髅的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is my pleasure. This next one is a bit more trivial, but interesting nonetheless. </Source>
+      <Dest>这是我的荣幸。下一个比较不那么好，但仍然很有趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you discover in your travels a black soul gem that contains a living soul, I would appreciate having it added to the piece.</Source>
+      <Dest>你以后要是有幸找到带有灵魂的黑色灵魂石，拜托拿来给我用吧</Dest>
+    </String>
+    <String List="2">
+      <Source>He managed to escape with it, however, before I could make him part of my next project.</Source>
+      <Dest>可惜啊，我还没来得及把他安排到下一个计划里，就给他逃走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf does not bare its fangs, or howl to its pack.  It capers along slowly, uninterested in the young man.</Source>
+      <Dest>那头狼并没有龇着尖牙，对着包裹嚎叫。只是缓缓地一旁踱着步子，似乎对那个年轻人并不感兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you can see, even for a brute like you, there is much to be gleaned from this piece.</Source>
+      <Dest>如你所见，即使是你这样的野蛮人，也能从这个地方得到些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you can see, even for a brute like you, there is much to be gleaned from this piece.</Source>
+      <Dest>如你所见，即使是你这样的野蛮人，也能从这个地方得到些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, you know that if this man is allowed to make and sell the potion, he will become very powerful and very rich.  Many will suffer at his hand.</Source>
+      <Dest>可是，你也知道如果这个人被允许制造、销售药剂，他会获得怎样的权势和财富，多少人会在他手下受罪。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would like you to spread the word of my exhibit.  Do not tell them what it is, however. They must look upon it without bias. </Source>
+      <Dest>我很乐意听到你对我的展品的评价。但请不要告诉他们这究竟是什么。不能让他们带着先入为主的观念去欣赏它。</Dest>
+    </String>
+    <String List="2">
+      <Source>A week passes by.  Do you consider dining to be a pleasurable experience?</Source>
+      <Dest>一个星期后，你还会认为这餐是个愉快的经历吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He tried to swipe the Amulet of Mara in my pocket, then had the audacity to propose.</Source>
+      <Dest>他想从我口袋里把那玛拉护身符给偷走，然后厚着脸皮去求婚。</Dest>
+    </String>
+    <String List="2">
+      <Source>And you would stand by and watch as his perversions and power increased?  At least if you were to leave him be, you would be spared of the horror.</Source>
+      <Dest>所以你会眼睁睁地看着他的堕落以及那力量日渐增长？如果你不打算理会他，那你可真是缺乏荣誉感。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can no more tell you what this piece represents than you can tell me what it's like to be a hound. </Source>
+      <Dest>除非你告诉我为什么你会觉得它像一只猎犬，否则我可不会告诉你这件艺术品究竟有着什么样的内涵。</Dest>
+    </String>
+    <String List="2">
+      <Source>The young man cannot help himself.  If the wolf does not hunt me, he says, it will hunt another innocent.  It must be killed.</Source>
+      <Dest>那个年轻人无法控制住自己。他说，如果那头狼没有袭击他，那一定会袭击其他无辜的路人。它必须被杀死。</Dest>
+    </String>
+    <String List="2">
+      <Source>If not, you may wish to consider a donation to advance the cause of art.</Source>
+      <Dest>如果不是，那你或许会考虑一下捐点款，为艺术事业添砖加瓦。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you do?   By contemplating this answer, you learn something of yourself. </Source>
+      <Dest>你在做什么？通过找寻这一问题的答案，你会对你自己有更进一步的了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>While the greater themes are the same, the art means different things to different people, and will invoke different emotions.</Source>
+      <Dest>那些伟大的主题都是相似的，艺术就是把不同的事情展示给不同的人，并加之以不同的情感。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmm...now that's an intriguing hypothetical.</Source>
+      <Dest>唔…这是个有趣的假设。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think on that, and discover yourself.</Source>
+      <Dest>想一想，然后自我探索。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet your nose detects something noxious.  Suddenly you realize everything smells as if it were a bowl of slop, cooked by a stronghold Orc.</Source>
+      <Dest>然而你的鼻子却闻到了一股恶心的气味。突然间，你意识到这一切闻起来就像是由兽人所烹调的一锅子剩菜残羹。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then your question takes a different turn, but a choice must still be made. You seek to find the path that unleashes the most destruction.</Source>
+      <Dest>那你的问题就完全不一样了，但仍必须做出选择。你追求的是一条破坏力最强的道路。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's another way of saying you didn't want to be hanged.</Source>
+      <Dest>那是你不想被绞死的另一种说法.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's another way of saying you didn't want to be hanged.</Source>
+      <Dest>那是你不想被绞死的另一种说法.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's easy. The soul is what makes us who we are.</Source>
+      <Dest>这很简单，我们的灵魂成就了现在的我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I spare the man. There will always be murderers, but none so vile as a plague.</Source>
+      <Dest>我宽恕这个人。杀人犯总是会有，但情况不会坏到像一场瘟疫一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>I spare the man. There will always be murderers, but none so vile as a plague.</Source>
+      <Dest>我宽恕这个人。杀人犯总是会有，但情况不会坏到像一场瘟疫一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>A dropout. So either you couldn't cut it and quit or you're just brilliant.</Source>
+      <Dest>一个“退学者”。如果你不是简单地砍了它然后离开，那你真他妈是个天才。</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole thing is offensive. It's a fiasco as far as I'm concerned.</Source>
+      <Dest>整一件事情就是个耻辱。在我看来，这是一场惨败。</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole thing is offensive. It's a fiasco as far as I'm concerned.</Source>
+      <Dest>整一件事情就是个耻辱。在我看来，这是一场惨败。</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole thing is offensive. It's a fiasco as far as I'm concerned.</Source>
+      <Dest>整一件事情就是个耻辱。在我看来，这是一场惨败。</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole thing is offensive. It's a fiasco as far as I'm concerned.</Source>
+      <Dest>整一件事情就是个耻辱。在我看来，这是一场惨败。</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole thing is offensive. It's a fiasco as far as I'm concerned.</Source>
+      <Dest>整一件事情就是个耻辱。在我看来，这是一场惨败。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, are these people like your relatives or something?</Source>
+      <Dest>抱歉，这些人是你的亲戚之类的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, are these people like your relatives or something?</Source>
+      <Dest>抱歉，这些人是你的亲戚之类的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, are these people like your relatives or something?</Source>
+      <Dest>抱歉，这些人是你的亲戚之类的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've had enough hypotheticals.</Source>
+      <Dest>我已经听了足够多的假设了.</Dest>
+    </String>
+    <String List="0">
+      <Source>Such is our lives in the hands of the Gods.</Source>
+      <Dest>那就是，我们的生命都在神的掌控之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I see him I'll bring him to justice.</Source>
+      <Dest>如果我见到他，我会让他受到正义的制裁的。</Dest>
+    </String>
+    <String List="0">
+      <Source>These skeletons of yours.  They were once people.  With lives, families.</Source>
+      <Dest>你的这些骷髅。他们曾经也是人。有着自己的生活和家庭。</Dest>
+    </String>
+    <String List="0">
+      <Source>These skeletons of yours.  They were once people.  With lives, families.</Source>
+      <Dest>你的这些骷髅。他们曾经也是人。有着自己的生活和家庭。</Dest>
+    </String>
+    <String List="0">
+      <Source>These skeletons of yours.  They were once people.  With lives, families.</Source>
+      <Dest>你的这些骷髅。他们曾经也是人。有着自己的生活和家庭。</Dest>
+    </String>
+    <String List="0">
+      <Source>These skeletons of yours.  They were once people.  With lives, families.</Source>
+      <Dest>你的这些骷髅。他们也曾经是人。有着自己的生活和家庭。</Dest>
+    </String>
+    <String List="0">
+      <Source>These skeletons of yours.  They were once people.  With lives, families.</Source>
+      <Dest>你的这些骷髅。他们曾经也是人。有着自己的生活，和家庭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on, there's some skeletons behind you.  Let me take care of them first.</Source>
+      <Dest>坚持住，你身后有一些骷髅。让我先收拾它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine most travelers would not appreciate such a display.</Source>
+      <Dest>我认为大部分旅行者不会欣赏这样的展览的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine most travelers would not appreciate such a display.</Source>
+      <Dest>我认为大部分旅行者不会欣赏这样的展览的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I imagine most travelers would not appreciate such a display.</Source>
+      <Dest>我认为大部分旅行者不会欣赏这样的展览的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's fantastic. Dead people, skeletons, what's not to like?</Source>
+      <Dest>我觉得这无比奇妙。死人、枯骨，有什么不喜欢的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>说说你的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Oblivion is going on here?</Source>
+      <Dest>这他妈怎么了</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you go after you left the College?</Source>
+      <Dest>离开学院后你去哪了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you go after you left the College?</Source>
+      <Dest>离开学院后你去哪了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you go after you left the College?</Source>
+      <Dest>离开学院后你去哪了？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm willing to learn, but I'm not exactly sure what it is you're teaching.</Source>
+      <Dest>我很想学，但我并不清楚你教的是什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>As as a mutual artist, I feel destroying them would reflect life's impermanence.</Source>
+      <Dest>因为作为一个交互艺术家，我觉得摧毁它们能够反映出生活的无常。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't need the stinking Amulet. I'll marry you.</Source>
+      <Dest>就算你没有那臭护符，我也会和你结婚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yeah, pots and pans are actually useful.</Source>
+      <Dest>是啊，坛坛罐罐都是很有用的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yeah, pots and pans are actually useful.</Source>
+      <Dest>是啊，坛坛罐罐都是很有用的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wise men seek the answers to life's questions. They don't hide in vagueness.</Source>
+      <Dest>智者为生活中的疑问寻找答案。他们不会暧昧不清。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead or alive, it's the mind that makes the person.</Source>
+      <Dest>死或生，正是这思想塑造了人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead or alive, it's the mind that makes the person.</Source>
+      <Dest>死或生，正是这思想塑造了人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead or alive, it's the mind that makes the person.</Source>
+      <Dest>死或生，正是这思想塑造了人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you learn to conjure?</Source>
+      <Dest>你在哪学的召唤术？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there anything you miss about college life?</Source>
+      <Dest>你对学院生活有所怀念吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there anything you miss about college life?</Source>
+      <Dest>你对学院生活有所怀念吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Just looks like a bunch of junk to me.</Source>
+      <Dest>在我看来不过是一堆垃圾。</Dest>
+    </String>
+    <String List="0">
+      <Source>Great. Are you saying you'll just make more of them?</Source>
+      <Dest>太棒了。你是说你要做更多？</Dest>
+    </String>
+    <String List="0">
+      <Source>I kill the man, and if he has no notes, so be it.  Plagues come and go.</Source>
+      <Dest>我去杀了那个人，要是他没有什么便条，就算了。麻烦来了也会走。</Dest>
+    </String>
+    <String List="0">
+      <Source>I kill the man, and if he has no notes, so be it.  Plagues come and go.</Source>
+      <Dest>我去杀了那个人，要是他没有什么便条，就算了。麻烦来了也会走。</Dest>
+    </String>
+    <String List="2">
+      <Source>My skeletons, however, are docile.  Innocents.  Brothers in arms.  Childhood friends.  Husbands and wives.</Source>
+      <Dest>而我的骷髅人都是善良温驯的。他们是战场上的兄弟，或者儿时的小伙伴，还有丈夫和妻子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.  Your emotions swell within you, clouding your mind.  It's not unexpected.  </Source>
+      <Dest>很好，你那高涨的情绪蒙蔽了你的判断力。这也是可以预料的。</Dest>
+    </String>
+    <String List="2">
+      <Source>They are the farmers who who prayed for rain.  Or they are, as you say, just junk. Yet the line between the two is not so clear.  </Source>
+      <Dest>他们是祈求着雨的农民。又或者，就像你说的，他们只是垃圾。这两者之间的界线并不那么明确。
+  </Dest>
+    </String>
+    <String List="2">
+      <Source>But ask yourself this.  If a man loses a tooth, or a limb, is he still not a man?  Where does the body end and the man begin?  </Source>
+      <Dest>你再想想。如果一个人失去了牙齿或者肢体，那么这还是不是一个“人”呢？“人”这个概念，从哪里开始算起呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are too emotional, the art becomes perverse.  </Source>
+      <Dest>如果你太过情绪化，艺术就会变得怪异。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not.  I am not taking disciples.  My time must be devoted to perfecting my art.</Source>
+      <Dest>那不是问题。我不收徒弟。我的时间必须致力于完善我的艺术。</Dest>
+    </String>
+    <String List="2">
+      <Source>So yes, I did consider setting up in Riverwood.  The more people view an art piece, the more interpretations are derived from it.</Source>
+      <Dest>是的，我确实打算在河木镇定居。欣赏艺术品的人越多，就越容易创造出更多的艺术品。</Dest>
+    </String>
+    <String List="2">
+      <Source>If your approach is too intellectual, you lose the very visceral component that inspires true wisdom.</Source>
+      <Dest>如果你的手段太过于投机取巧，那你将丢失那激发真正智慧的核心部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see the carnage before you, the bodies of children, the journals detailing the man's despicable acts, yet you keep your mind logical and cold.</Source>
+      <Dest>在你面前有一场大屠杀，一群孩子的尸体，那些日记很详细地描述那名男人令人不齿的行为，然而你的头脑却依然保持着理性和冷静。</Dest>
+    </String>
+    <String List="2">
+      <Source>I believe my art will answer that question for you.</Source>
+      <Dest>我相信我的艺术可以回答你的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>They would challenge your mind with interesting hypotheticals that had no answer.  Questions that in themselves were a form of art.</Source>
+      <Dest>他们会用无解的有趣假设来挑战你的智慧。而那些问题在他们看来是一种艺术形式。</Dest>
+    </String>
+    <String List="2">
+      <Source>If we truly wish to understand the nature of our existence, we must bring death to life and life to death, so the two may define the void between.</Source>
+      <Dest>如果我们真心想了解我们周遭的自然环境，那么我们就必须将生导于死，将死导于生，这两者才能与彼此交融。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can this be called virtue?  Or the sign of a leader, ready to make the hard decision?  Does one want a leader who rules without passion?</Source>
+      <Dest>这可以被称为优点吗？或者称为一名领导者的象征，随时准备作出艰难的决定？有人会想被一个没有感情的领导者领导吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish perhaps, and yet something to be admired.</Source>
+      <Dest>虽然可能很愚蠢，但依然值得钦佩。</Dest>
+    </String>
+    <String List="2">
+      <Source>When trying to figure out how I would avoid the executioner's axe, I began considering using substitutes.</Source>
+      <Dest>当我试图找出如何能让自己的双手不再沾满鲜血的方法时，我开始考虑使用些替代品。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am pleased that you are interested in the piece. But you must delve deeper than the surface to fully appreciate it.</Source>
+      <Dest>我很欣慰你能对那一片那一片的东西感兴趣。但是你需要钻研更深而不仅仅只是皮毛才能领会它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Appreciation takes many forms.  The most spiteful criticism is usually reserved for the most thought provoking of art.</Source>
+      <Dest>欣赏一件事物有多种表现形式。而最毒舌的批评一般都是留给最发人深省的艺术的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Groan) Not you too.  The Amulet is a prop.  I am married to my art, and have no interest in any other relationship. For now.</Source>
+      <Dest>（呻吟）别这样。这个护符支撑着我。我已经嫁给我的艺术，对于其他关系一点也不感兴趣。至少现在是这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am Carmella.  A master of the Necromantic arts.</Source>
+      <Dest>我是卡美菈，大师级亡灵艺术家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. Ask me about the college days again, and I may recall more such conversations.</Source>
+      <Dest>很好。改天再问问我学院的事情吧，也许到时候会我想起更多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well said traveler. I did not expect to meet an artist of your...caliber here in the wilderness.</Source>
+      <Dest>说的好，旅行者。我没想到我能在荒郊野外...遇上你这样富有才华的艺术家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think on that traveler, then gaze upon this piece again.</Source>
+      <Dest>那名旅人这样想，然后再一次注视起了这块碎片。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think on that traveler, then gaze upon this piece again.</Source>
+      <Dest>那名旅人这样想，然后再一次注视起了这块碎片。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are our destinies not changed by the shape of our bodies?  Is a cripple not born to spite?  Are wars not fought over the lust of a maiden?</Source>
+      <Dest>我们的命运难道不是随着我们外貌的变化而变化的么？残废者难道不是注定被嘲弄一辈子么？美丽的女士难道不是注定让追求者们挤得头破血流么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Where, traveler, do you place that line?  What distinguishes life and death?</Source>
+      <Dest>在哪里，旅行者，你把界限划在哪？是什么区分了生与死？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's true, that factored into my decision.  But I am more than willing to die for my art.</Source>
+      <Dest>诚然，它影响了我的决断。不过我会欣然地把自己的生命奉献给我的艺术。</Dest>
+    </String>
+    <String List="2">
+      <Source>What you see before you is art in its purest form.  Unbound by the conventions of society, free to show the naked truth.</Source>
+      <Dest>刚才看到的是艺术最纯粹的形式。不受社会习俗的束缚，自由表现出的赤裸裸的真实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of bigger concern to me was the effect that a large audience would have on my work.  </Source>
+      <Dest>我考虑的更多的是大量观众看到我的作品时造成的影响如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see your point. But my art doesn't retreat to the nebulous middle ground. It simply concludes that there are many answers, and all of them correct.</Source>
+      <Dest>我明白你的意思。但我的艺术不能回归到模糊的中间地带。总的来说，正确的答案不只一个，它们有很多。</Dest>
+    </String>
+    <String List="2">
+      <Source>You choose to be flippant, when in truth no man can say the bones of the dead are mere pots and pans to be thrown aside like trash.</Source>
+      <Dest>你选择逞口舌之快。而实际上没人能用像被扔在一边的垃圾一样这种句子来形容死者的遗骨。</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't learn the necromantic arts to use the dead as a weapon, nor do I wish to remain locked researching in some dusty catacomb.</Source>
+      <Dest>I我没有学习将死者作为武器的死灵艺术，我也不想在那尘土飞扬的闭锁的古墓里做研究。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you, but make sure to leave his body intact.</Source>
+      <Dest>多谢，可一定要保证他的身体完整无缺啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>My views regarding the artistic potential of the undead were not particularly embraced.</Source>
+      <Dest>我关于活死人艺术潜能的看法并不太被人们所相信。</Dest>
+    </String>
+    <String List="2">
+      <Source>As are these bones, as they have much to teach us of the nature of life. These skeletons were once people. They laughed, they cried, and they loved.</Source>
+      <Dest>像这些骨头，他们能教会我们生命的真谛。这些尸骨曾经也是鲜活的生命。他们笑过哭过，也爱过。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is true, and while life may fade into void, it will soon rise again.</Source>
+      <Dest>诚然，纵使生命终将归于虚空，犹随天道轮转不息。</Dest>
+    </String>
+    <String List="2">
+      <Source>I left the college to find those who were more...amenable to my practices.</Source>
+      <Dest>我离开学院去找些更加……适合我练习的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why yes. I miss the conversations. So many brilliant minds, each a treasure trove of the profound.</Source>
+      <Dest>为什么对。我错过了交流的机会。那么多聪明的头脑，每一个都是深奥知识的宝库。</Dest>
+    </String>
+    <String List="2">
+      <Source>It did not take long for me to realize how the art was being sacrificed so that I could please my audience. </Source>
+      <Dest>没过多久我便意识到了这一点，就是如何牺牲艺术性来取悦观众。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You think, therefore you are.  Simple, yet profound.  It is unwise, however, to dismiss the effect of the body completely.</Source>
+      <Dest>你思，故你在。简单，明了。不过，也不明智，这种看法完全忽略了肉体的存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like a flower to the sun, the art flourishes when the light of the people is cast upon it.  Yet in the end, I felt it best to let it grow slowly.</Source>
+      <Dest>就像花朵需要阳光一样，艺术也只有沐浴在人们的目光之下才能绽放。不过到头来我才发现，这个过程最好发生得慢一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>I certainly hope you do not.  They are works of art.</Source>
+      <Dest>我衷心希望你不要那样做。他们都是艺术品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hooligans do not stop to consider the question of whether Draugr or the conjured are people, as they pose an imminent threat to be disposed.</Source>
+      <Dest>除非危险近在眼前，不然那帮流氓们才不会想到尸鬼和被召唤出来的生物并不是人类。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it?  Can a soul exist on its own? Does it not require a body to survive on this plane?</Source>
+      <Dest>是吗？灵魂本身是存在的？它不需要一具躯体以此生存在这个位面之上吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>At what point do we lose sight of that?  At what moment does a man stop being a man?</Source>
+      <Dest>我们忽略了哪一点？这个人什么时候不再是个人的？</Dest>
+    </String>
+    <String List="2">
+      <Source>As you say, this fills you with emotion.  Hatred for one who would desecrate these bodies and use these people as props.</Source>
+      <Dest>诚如你所言，这让你心中情绪激荡。憎恨，憎恨那个敢于亵渎这些尸体，将这些人当作道具的家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>I stayed with a spellsword coven in Southfringe Sanctum for a time, but found their motives as crass as the college mages were restrictive.</Source>
+      <Dest>我在南缘密所和一个魔法剑士待了一段时间，但却发现他们的动机就如同魔法学院的法师一样狭隘。</Dest>
+    </String>
+    <String List="2">
+      <Source>As the audience grew, so would their demands.  The very integrity of the piece would be put into question.</Source>
+      <Dest>观众们看过的越多，他们就会越来越挑剔。甚至会去质疑艺术品的完整性。</Dest>
+    </String>
+    <String List="2">
+      <Source>Skeletons made of wood, for instance, and regular soul gems painted black.  </Source>
+      <Dest>骷髅是由木头以及黑色灵魂石所制。</Dest>
+    </String>
+    <String List="2">
+      <Source>But remember, it's only when your emotions and your mind are in balance that art speaks to you truly.  </Source>
+      <Dest>但是记住，只有在你的心理和你的思想处于平衡的时候你才能和这门艺术进行真正的沟通。  </Dest>
+    </String>
+    <String List="0">
+      <Source>That's easy. The soul is what makes us who we are.</Source>
+      <Dest>这很简单，我们的灵魂成就了现在的我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's easy. The soul is what makes us who we are.</Source>
+      <Dest>这很简单，我们的灵魂成就了现在的我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a necromancer?</Source>
+      <Dest>你是个死灵术士？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a necromancer?</Source>
+      <Dest>你是个死灵术士？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you care about your craft, you would be better off if she doesn't.</Source>
+      <Dest>如果你心疼你的手艺，你就该离开那个对艺术完全不在乎的她。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not practice the art of necromancy.  I practice necromantic art.  The distinction is rather important.</Source>
+      <Dest>我不是在练习死灵术。我在练习招魂术。区分这两者非常重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>I agree.  The seed of a bard's song is not found in any book.  In your case, it's obvious where your inspiration lies.</Source>
+      <Dest>我同意。吟游诗人之歌没有记载在任何一本文集上。你这种情况，它很明显源于你的灵感。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>You play beautifully Sven.  May I ask where you learned your craft?</Source>
+      <Dest>你演奏得太好了，斯万。我能问问你是从哪儿学到这手艺的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will forgive your impertinent mistake, as it's common for those who lack the aptitude to recognize beauty in ugliness.</Source>
+      <Dest>我原谅你无力的错误，因为这对那些缺乏从丑家伙中辨别出美人才能的家伙来说是件很普通的事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Art is about sacrifice.</Source>
+      <Dest>艺术有关牺牲。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that is the true essence of man, should that not be more offensive than the skeletons?</Source>
+      <Dest>如果说这就是人类真正的本质，应该不比骷髅更让人不快吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>The black soul gem fragments on this altar once contained a human soul.</Source>
+      <Dest>祭坛上的黑色灵魂石碎片曾容纳过一个人类的灵魂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

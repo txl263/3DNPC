@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your old place would suit us just fine.</Source>
+      <Dest>你的老地方会很适合我们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>How about my house in Windhelm?</Source>
+      <Dest>我在风盔城的房子怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside, my house in Riften.</Source>
+      <Dest>甜蜜湾，我在裂谷城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>My house in Markarth would be perfect.</Source>
+      <Dest>我在马卡斯城的房子将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's live in my house in Solitude.</Source>
+      <Dest>让我们住在我在独孤城的房子里吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome, my house in Whiterun.</Source>
+      <Dest>风宅，我在白漫城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Living with you would be perfect.</Source>
+      <Dest>和你一起生活将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor, my house in Solitude.</Source>
+      <Dest>傲矛别墅，我在独孤城的家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim, my house in Windhelm.</Source>
+      <Dest>霜宅，我在风舵城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, let's just be friends.</Source>
+      <Dest>我再三考虑了一下，我们还是做朋友吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a house in Riften.</Source>
+      <Dest>我在裂谷城有栋房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could live in my house in Whiterun.</Source>
+      <Dest>我们可以住在我在白漫城的房子里。</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall, my house in Markarth.</Source>
+      <Dest>林德尔会堂，我在马卡斯城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>Sweetroll, will you marry me?</Source>
+      <Dest>甜甜圈，愿意嫁给我吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is that a yes?  Grunt once if that's a yes.</Source>
+      <Dest>你说的是同意吗？是的话就再咕哝一声。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得移动到别的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngggh....</Source>
+      <Dest>呃啊啊啊啊....</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnnngh....</Source>
+      <Dest>唔嗯啊啊啊啊啊啊....</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnghhh....</Source>
+      <Dest>嗯嗯嗯嗯……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnnnngh...</Source>
+      <Dest>呃嗯嗯嗯嗯嗯啊啊......</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh....</Source>
+      <Dest>呃啊啊啊....</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngggh...</Source>
+      <Dest>嗯......</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngggh...</Source>
+      <Dest>嗯......</Dest>
+    </String>
+    <String List="2">
+      <Source>Hnnnnngh...</Source>
+      <Dest>哈~~~~~~呀……</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnggh...</Source>
+      <Dest>嗯嗯嗯啊...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnggh...</Source>
+      <Dest>嗯嗯嗯啊...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngghh...</Source>
+      <Dest>嗯呃.....</Dest>
+    </String>
+    <String List="2">
+      <Source>Hnnnnnnngh....</Source>
+      <Dest>哈啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Hnnnnnnngh....</Source>
+      <Dest>哈啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Hnnnnngggh...</Source>
+      <Dest>哼呃呃呃呃.....</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnggh...</Source>
+      <Dest>呃啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngh...</Source>
+      <Dest>呃嗯嗯……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngh...</Source>
+      <Dest>呃嗯嗯……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngh...</Source>
+      <Dest>呃嗯嗯……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnggghh...</Source>
+      <Dest>呃啊啊啊...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnnggh...</Source>
+      <Dest>呃啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unngh...</Source>
+      <Dest>呃呃呃……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnngh...</Source>
+      <Dest>喔喔喔啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnngh...</Source>
+      <Dest>喔喔喔啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnghhh...</Source>
+      <Dest>嗯.......</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnghhh...</Source>
+      <Dest>嗯.......</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnngh...</Source>
+      <Dest>嗯嗯嗯...</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnngghh...</Source>
+      <Dest>呃啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnnghh...</Source>
+      <Dest>呃呃呃呃...</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unnnnnnngh....</Source>
+      <Dest>嗯……</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

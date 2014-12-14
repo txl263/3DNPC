@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's stop and trade some things.</Source>
+      <Dest>我们停一下，我想跟你交换点东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="2">
+      <Source>The north is cold.  It is good for strength.  And soup.</Source>
+      <Dest>北方严寒之地，有利于健康，有利于煲汤。</Dest>
+    </String>
+    <String List="2">
+      <Source>An Ancient Nord structure.  Where the old tongue is spoken.</Source>
+      <Dest>一个古代诺德建筑。讲述古老故事的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is sadness here.  The people come for peace.  Few find it.</Source>
+      <Dest>这里充满忧郁与悲伤。人们为了和平而来，但和平却也不存在于此。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a sight to behold.  I believe I am achieving a state of wonder.  I will be able to confirm this once we leave.</Source>
+      <Dest>好一派值得注目的景色。我有把这里变成一片神奇的土地的自信。我们离开的时候我会证明给你看。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bandit is a poor representative of violence.  Their elimination will leave me ecstatic.  I am already on the verge of overflowing with emotion.</Source>
+      <Dest>强盗是低劣而暴力的代名词。他们若被消灭将令我欣喜若狂。而我此刻的心情已经激动之极了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My stomach is empty.  I would appreciate the purchase of a fresh apple.</Source>
+      <Dest>我的胃已经空了。我将感谢这些购买的新鲜的苹果。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am sorry brother, but you should not be talking.  You are a corpse.</Source>
+      <Dest>很抱歉兄弟，你最好别讲话。你是一具尸体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Markarth.  There is too much noise in this city.  The sound echoes. The water rumbles.  It is troubling.</Source>
+      <Dest>马卡斯城。这座城市有太多的噪音。回声。水声。真令人头疼。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Dwemer return, they will not like having Nords in their home.  They will then activate the appropriate pest control.  It will not be pretty.</Source>
+      <Dest>如果锻莫回归，并且不喜欢他们的家乡有诺德人，那他们就会激活适当的害虫防治控制，到时候场面可就难看了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Waiting.</Source>
+      <Dest>还在等。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rain is best when it is calm.  The snow is best when it is soft.</Source>
+      <Dest>安静无声的雨是最美的。蓬松柔软的雪是最好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is said that Ulfric Stormcloak has use of the thu'um.  I am unclear whether this means he has knowledge of it.</Source>
+      <Dest>也就是说乌佛瑞克。风暴斗篷已经用过吐目了。我不知这是否意味着他已精通于此。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, I wish to move.  The sound of spinning blades is displeasing.</Source>
+      <Dest>龙裔，我想离开这儿。听着刀片旋转摩擦的声音可不是那么让人愉快。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwemer ruins.  Let us proceed.</Source>
+      <Dest>锻莫遗迹。我们继续前进吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is done.  The corpse is without soul.  But our business is not concluded.  We should continue on.</Source>
+      <Dest>这起作用了。这具尸体没有灵魂。但我们的实验还没有结论。我们要继续完成它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Following.</Source>
+      <Dest>跟上。</Dest>
+    </String>
+    <String List="2">
+      <Source>The inn is noisy.  I will do my best to manage.</Source>
+      <Dest>这旅店真是热闹啊，我会尽我能力经营好它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Corpses lurk.  They think they are alive.  They are not.</Source>
+      <Dest>尸体还在偷摸潜伏。他们以为自己还活着，其实不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have been told the Greybeards lack the wisdom to use violence.  That may not be true.  They may simply be cowards.</Source>
+      <Dest>有人告诉我灰胡子缺乏武力解决问题的智慧，但我认为他们单纯是懦夫而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Proceed.</Source>
+      <Dest>出发吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Proceed.</Source>
+      <Dest>出发吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I once visited the Bards College. They use their voice strangely.  I do not understand it.</Source>
+      <Dest>我曾参观过吟遊诗人学院。他们的发声特别奇怪。我完全不能理解。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is much history in Whiterun.  Most of it is ancient.  As such, few people care.  They should.</Source>
+      <Dest>雪漫城历史悠久，城中大半都自远古保存至今。即便如此，也没有多少人关心这些历史。虽然说这是他们本来的分内事。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave.  Let us enter.</Source>
+      <Dest>一个洞穴。让我们进去。</Dest>
+    </String>
+    <String List="2">
+      <Source>The houses in this city are like mountains.  Good for meditation.</Source>
+      <Dest>在这座城市里的房子像山一样，很适合冥想。</Dest>
+    </String>
+    <String List="2">
+      <Source>An inn. The mind does not function properly on spirits.  Yet wisdom may come by accident.</Source>
+      <Dest>一个小客栈。没有精力的话脑子就会运转不正常。但是也许睿智正是来自于偶然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, I do not like this.  I do not know how to swim.</Source>
+      <Dest>龙裔。我不喜欢这样。我不会游泳啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Snow Elves lost their knowledge of self.  It is the foundation.</Source>
+      <Dest>雪精灵失去了关于自己的知识。那是基础。</Dest>
+    </String>
+    <String List="2">
+      <Source>Winterhold is quiet.  It is the best of all the holds.</Source>
+      <Dest>整个冬堡静悄悄的。它是最好的城市，没有之一。</Dest>
+    </String>
+    <String List="2">
+      <Source>The corpse continues to speak.  I must rectify that.</Source>
+      <Dest>这具死尸还能说话！我必须得修复一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Offryn suggested I marry an Orc.  It was his attempt at a jest.  I do not see the humor in it.</Source>
+      <Dest>奥弗朗建议我嫁给一个兽人。虽然在他是个笑话，但是我觉得一点也不好笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vampires are wrong.  Wisdom does not come from blood.  It does no good to drink it.</Source>
+      <Dest>吸血鬼们想错了。智慧不是从鲜血里来的。喝血根本没什么好处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father climbed the 7000 steps many times.  He is wont to remind me of it.</Source>
+      <Dest>我父亲无数次的爬上过那七千台阶。他也无数次跟我说起过这事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Riften.  Many times Offryn would threaten to send me here, to a place called Honorhall.  I did not know it was an Orphanage.  This displeases me.</Source>
+      <Dest>裂谷城。有很多次奥弗朗威胁说要送我到这儿来，一个叫荣耀堂孤儿院的地方。我还不知道原来是个孤儿院。真让人不爽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father used to come here for supplies.  It was not necessary.  The bandits bring more than enough.</Source>
+      <Dest>父亲曾习惯到这里找补给。这其实并不必要。强盗们带来的补给早已供过于求。</Dest>
+    </String>
+    <String List="2">
+      <Source>Acknowledged.</Source>
+      <Dest>收到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Acknowledged.</Source>
+      <Dest>收到。</Dest>
+    </String>
+    <String List="2">
+      <Source>The thu'um can call storms.  This city can too.</Source>
+      <Dest>吐目可以召唤风暴。这座城市也能。</Dest>
+    </String>
+    <String List="2">
+      <Source>I once feared animals.  This was a product of ignorance.  It is the animals who should fear us.  They are meat.</Source>
+      <Dest>我曾经害怕动物。这是无知的结果。那些动物才应该害怕我们。它们是食物。</Dest>
+    </String>
+    <String List="2">
+      <Source>The citizens of Winterhold fear what they do not know.  A wise mage fears what he does.</Source>
+      <Dest>冬堡的公民害怕未知之物。 一个聪明的法师害怕他自己的研究。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whiterun is a quiet city.  Its people are noisy.</Source>
+      <Dest>雪漫城是座宁静的城市。那里生活的人们却很吵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say the Dwemer are heretics. To seek knowledge is not heretical.</Source>
+      <Dest>有人说锻莫是异教徒。寻求知识可不是异教徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Orcs are a wise people.  Their blades are forged with purpose.</Source>
+      <Dest>兽人很聪明。他们的利刃才不是摆设。</Dest>
+    </String>
+    <String List="2">
+      <Source>The plight of the Dunmer in the Gray Quarter is sad.  I would like to show the appropriate level of empathy.  I believe I am doing so now.</Source>
+      <Dest>在灰色居住区中的黑暗精灵们遇到的困境令人伤心。我想我能做一些力所能及的事情。我想我现在也已经这么做了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Confirmed.</Source>
+      <Dest>习以为常.</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your specialties as a mage?</Source>
+      <Dest>作为一个法师你有什么特长？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your specialties as a mage?</Source>
+      <Dest>作为一个法师你有什么特长？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your specialties as a mage?</Source>
+      <Dest>作为一个法师你有什么特长？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a legacy you can be proud of.  Shout it with pride.</Source>
+      <Dest>这是一份足以令你引以为豪的遗产。尽情地欢呼吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your father is a murderer.  That makes us one in the same.</Source>
+      <Dest>你爸爸是杀人犯。那咱俩就是一路人啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly who is your father?</Source>
+      <Dest>你的父亲到底是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly who is your father?</Source>
+      <Dest>你的父亲到底是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you have against the Radiant Dark?</Source>
+      <Dest>你要用什么来对抗黑暗光辉？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here.  Have an Apple.</Source>
+      <Dest>拿着。给你一颗苹果。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here.  Have an Apple.</Source>
+      <Dest>拿着。给你一颗苹果。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the kitchen knife story?</Source>
+      <Dest>那个关于菜刀的故事是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the kitchen knife story?</Source>
+      <Dest>那个关于菜刀的故事是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Back there, you used the thu'um.</Source>
+      <Dest>退回那边，你得用thu'un（龙语）。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your mother was crazy.  It was unfortunate, but she had to die.</Source>
+      <Dest>你妈疯了. 很不幸，她必须死。</Dest>
+    </String>
+    <String List="0">
+      <Source>Offryn?  The Wood Elf?  </Source>
+      <Dest>奥弗朗？那个木精灵？</Dest>
+    </String>
+    <String List="0">
+      <Source>His mirror?</Source>
+      <Dest>他的镜子？</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't sound like an adoption.  It sounds like a kidnapping.</Source>
+      <Dest>这听起来不像收买，倒像是抢劫。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was your father doing at North Skybound Watch?</Source>
+      <Dest>当时你父亲在北部飞天哨塔做了什么?  </Dest>
+    </String>
+    <String List="0">
+      <Source>What was your father doing at North Skybound Watch?</Source>
+      <Dest>当时你父亲在北部飞天哨塔做了什么?  </Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know any other shouts besides "Unrelenting Force?"</Source>
+      <Dest>除了“不懈之力”外你还知道那些龙吼?"</Dest>
+    </String>
+    <String List="0">
+      <Source>You call slaying a dragon idle reading?</Source>
+      <Dest>你把屠龙称为闲读书？</Dest>
+    </String>
+    <String List="0">
+      <Source>You call slaying a dragon idle reading?</Source>
+      <Dest>你把屠龙称为闲读书？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you and Offryn become family?</Source>
+      <Dest>你和奥弗朗是怎么成为家人的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you and Offryn become family?</Source>
+      <Dest>你和奥弗朗是怎么成为家人的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Zarlak. Your father and I are acquainted. He was at North Skybound Watch.</Source>
+      <Dest>札利克，我认识你父亲。他在北部飞天哨塔.</Dest>
+    </String>
+    <String List="0">
+      <Source>Zarlak. Your father and I are acquainted. He was at North Skybound Watch.</Source>
+      <Dest>札利克，我认识你父亲。他在北部飞天哨塔.</Dest>
+    </String>
+    <String List="0">
+      <Source>It is a weak legacy.  Your thu'um is weak.  Wallow in your weakness, weakling.</Source>
+      <Dest>你的龍吼實在太弱了，這就是你學到的東西？ 就這樣耽溺於你的軟弱吧，弱者。</Dest>
+    </String>
+    <String List="0">
+      <Source>It is a weak legacy.  Your thu'um is weak.  Wallow in your weakness, weakling.</Source>
+      <Dest>你的龍吼實在太弱了，這就是你學到的東西？ 就這樣耽溺於你的軟弱吧，弱者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Worthy of what? What is there to prove?</Source>
+      <Dest>哪里值得了？有什么证据？</Dest>
+    </String>
+    <String List="0">
+      <Source>Worthy of what? What is there to prove?</Source>
+      <Dest>哪里值得了？有什么证据？</Dest>
+    </String>
+    <String List="0">
+      <Source>So your father sends you to kill his son? Why not do it himself?</Source>
+      <Dest>是你父亲派你来杀他儿子？？他为什么不亲自动手？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did Olivia recruit you as she did Nelacar?</Source>
+      <Dest>奥莉薇雅像雇佣尼拉卡一样雇佣了你?</Dest>
+    </String>
+    <String List="0">
+      <Source>Did Olivia recruit you as she did Nelacar?</Source>
+      <Dest>奥莉薇雅像雇佣尼拉卡一样雇佣了你?</Dest>
+    </String>
+    <String List="0">
+      <Source>Did Olivia recruit you as she did Nelacar?</Source>
+      <Dest>奥莉薇雅像雇佣尼拉卡一样雇佣了你?</Dest>
+    </String>
+    <String List="0">
+      <Source>A sibling rivalry.  How pointlessly dull.</Source>
+      <Dest>手足之间的竞争。多么无聊而毫无意义啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll be the judge of that, thumb-drinker.</Source>
+      <Dest>那件事总归是我说了算，你个小屁孩！</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll be the judge of that, thumb-drinker.</Source>
+      <Dest>那件事总归是我说了算，你个小屁孩！</Dest>
+    </String>
+    <String List="0">
+      <Source>In any event, I take it this is goodbye.  What will you do now?</Source>
+      <Dest>任何情况下我都把这个理解为再见的意思。那你现在要做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>In any event, I take it this is goodbye.  What will you do now?</Source>
+      <Dest>任何情况下我都把这个理解为再见的意思。那你现在要做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>In any event, I take it this is goodbye.  What will you do now?</Source>
+      <Dest>任何情况下我都把这个理解为再见的意思。那你现在要做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not.  It is not wise to use the thu'um recklessly.  Mother would not forgive me if I broke her antique silverware.</Source>
+      <Dest>我不会那样做。鲁莽地使用吐目可并不明智，如果我损坏了母亲的古董银器的话她一定不会原谅我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Empire or Stormcloak, it matters not.  Violence does not belong in the hands of the unwise.</Source>
+      <Dest>帝国军还是风暴斗篷，都无所谓。暴行并不都是在蠢人手里犯下的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That night, my first mother had taken me to North Skybound Watch.  We were to leap off the summit, and offer our souls to Molag Bal.</Source>
+      <Dest>那天晚上，我的第一个母亲带我到北部飞天哨塔。我们要从山顶跳下，然后将我们的灵魂献给莫拉格·巴尔.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then came a voice.  It asked her to halt, but it was not a request.  Not when it forced the ground to tremble.  </Source>
+      <Dest>然后传来了一个声音。告诉她停下，可那不是个请求。直到它让地面都颤抖起来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father believes I am wise. He commends me for choosing my words carefully. This test will prove I am strong.</Source>
+      <Dest>老爸相信我够聪明。他建议我说话要谨慎措辞。这次考验将证明我的强壮。</Dest>
+    </String>
+    <String List="2">
+      <Source>He is not.  One does not murder what is already dead.  Nor should one speak when they have nothing to say.</Source>
+      <Dest>他不是。谁也不会去谋杀一个死人。也不会在没想法的时候却要说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems we are victorious.  Nelos is dead.  The Radiant Dark is dead.  Offryn is as he was.</Source>
+      <Dest>看来胜利者是我们啦。纳洛斯已死。黑暗光辉已灭。奥弗朗也还原了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is likely he is still there.  As Alduin has returned, it is the Dragonborn's ear he seeks.</Source>
+      <Dest>他好像还在那里。就像龙裔对奥杜因的回归很敏感一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not deny this.  I am not Dragonborn.  I cannot learn the thu'um by idle reading.</Source>
+      <Dest>我不否认这一点。我不是龙裔。我不可能通过毫无目的的阅读来学会吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is father's legacy, and mine.</Source>
+      <Dest>这是父亲的遗产，它是我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I inquired whether I could stay here.  Master Meronin was hesitant to accept. </Source>
+      <Dest>我询问了梅洛妮大师我是否可以留在这儿，他迟疑着，无法给出答复。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I agree, Dragonborn.  Some are dead before they die.  Mother, like Offryn, was a corpse.</Source>
+      <Dest>你说的没错，龙裔。有些人在他们活着的时候就已经是行尸走肉了。比如母亲，奥弗朗，就是具尸体。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bandit is like the child, handling a knife.  The warlock is the adult who holds the knife by the wrong end.</Source>
+      <Dest>做强盗的就像是小孩，拿着把刀。而术士则是大人拿着刀却握在刀尖上。</Dest>
+    </String>
+    <String List="2">
+      <Source>When Offryn was a boy, he tried to help mother cut the tomatoes.</Source>
+      <Dest>当奥弗朗还是个小男孩儿时，他就试着帮妈妈切番茄了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am pleased.  This is particularly fresh.</Source>
+      <Dest>我很高兴。这特别的新鲜。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Before she came north, she was south. She sought my father.  He is a difficult man to reach.  She was able to reach him.</Source>
+      <Dest>不，当她还没前往北方的时候，她在南方。她寻找着我的父亲，他是个难以触及的男人，但她做到了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Offryn is father's true blood son.  Father took me in when I was a child.</Source>
+      <Dest>奥弗朗才是父亲的亲生骨肉。父亲在我小的时候骗了我。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a simple metaphor.  There is one in every household.  It is a useful tool.</Source>
+      <Dest>这是个简单的比喻。这里的每家每户都有一个，那是个很实用的工具。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a testament to her will.  Yet father did not agree to join her quest.  Then she mentioned the Radiant Dark.</Source>
+      <Dest>这证明了她的意志，而父亲是不会同意与她一起探险的。然后她提及了黑暗光辉。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.  Father knows three words, but no phrases.  I know but one.  It is unlikely I will learn another before I expire.</Source>
+      <Dest>不。我爸爸知道那三句话，而不是短语。我却只知道一个。而在我断气儿之前，都不可能会学到其他的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why Offryn is dead. Father can only hope that I will not follow. This is a test to prove I am worthy.</Source>
+      <Dest>这就是奥弗朗死去的原因。父亲唯一能希望的就是我不会重蹈覆辙。这是一个能证明我价值的测试。</Dest>
+    </String>
+    <String List="2">
+      <Source>Olivia tells me we are to extinguish the Radiant Dark.  This pleases me.</Source>
+      <Dest>奥莉薇雅告诉我说我们要去灭掉黑暗光辉。这让我非常高兴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the fresh air is pleasing.  I would follow you, if you are willing.</Source>
+      <Dest>清新的空气总令人愉快的。如果你需要的话，我会跟着你。</Dest>
+    </String>
+    <String List="2">
+      <Source>She worries that I would have difficulty sleeping in my brother's tomb.  She does not understand it lies in a different hold.</Source>
+      <Dest>她担心我在哥哥的墓穴里会难以入眠。她不知道那坐落在不同的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>A practitioner of the thu'um.  It is likely he trained in High Hrothgar for a time.  It is not something he discussed with me.</Source>
+      <Dest>一位吐目践行者。他似乎在高吼峰训练了一段时间。这不是什么他跟我商量过的事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, Vanus' paralysis spell may prove support enough.  It will be interesting to evaluate its efficacy.</Source>
+      <Dest>无论如何，万纳斯的麻痹法术或许能提供足够的支持。评估它的效果应该会很有趣。 </Dest>
+    </String>
+    <String List="2">
+      <Source>But mother paid no heed.  Instead, she reached for my hand.</Source>
+      <Dest>但是妈妈没有注意。反倒拉住了我的手。</Dest>
+    </String>
+    <String List="2">
+      <Source>A mirror of father's philosophy. Violence requires wisdom. This will serve as a test to prove I am worthy.</Source>
+      <Dest>反映我父亲人生哲学的一面镜子。使用暴力需要智慧。这会是证明我价值的一场考验。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing.  It is one particular member with whom I seek quarrel.  My brother, Offryn.</Source>
+      <Dest>没事儿。老找茬跟我吵架的是一个特殊的成员。我的兄弟，奥弗朗。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am feeling an emotion similar to disgust.  Necromancers cause my blood to reach extreme temperatures.  It is best we dispose of them quickly.</Source>
+      <Dest>我几乎有些憎恶了。这群亡灵法师让我的血液沸腾得几乎快要燃烧。我们最好快点解决掉他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>In a store, prices are arbitrary.  The shopkeeper sets them, not the Gods.</Source>
+      <Dest>在商店里，东西的价格都可以谈的。毕竟那价是店主定的，不是神灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize, I meant no offense.  It requires great skill to slay a dragon.  Yet there is nothing that dictates you must slay it.</Source>
+      <Dest>我很抱歉，我没有任何恶意的。杀一头龙得要杰出的技巧才行。然而又没有命令说你必须杀了它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father believes this is good.  It will help me respect its power.</Source>
+      <Dest>父亲相信这是个好东西。它能帮我体会它的力量，并敬重他。</Dest>
+    </String>
+    <String List="2">
+      <Source>False mages live here.  They are like the Radiant Dark.  Their philosophy is flawed.</Source>
+      <Dest>魔法师中的败类住在这里。他们就和黑暗光辉一样。他们的人生哲学有点缺陷。</Dest>
+    </String>
+    <String List="2">
+      <Source>He stands on the world's shoulder, so that he may have its ear.</Source>
+      <Dest>他站在世界的肩膀上，所以整个世界都围着他转。</Dest>
+    </String>
+    <String List="2">
+      <Source>He stands on the world's shoulder, so that he may have its ear.</Source>
+      <Dest>他站在世界的肩膀上，所以整个世界都围着他转。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Dragonborn with sufficient minions may grow powerful without training or sacrifice.  </Source>
+      <Dest>一个龙裔有足够的可能无需训练或牺牲就能变得足够强大的僚属。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your words are violent. Violence requires wisdom. It would be best if you did not speak.</Source>
+      <Dest>你话里的每一个词语都很暴力。而暴力是需要智慧的。所以对你而言，最好还是闭上嘴巴。</Dest>
+    </String>
+    <String List="2">
+      <Source>The voice became a shout.   The hand was torn away.  Mother fell to her death, but she did not leap.  She was thrown.</Source>
+      <Dest>那声音转为了吼声。手松开了。母亲迎来了她的死亡，但她却没有跳起来，她是摔下去的。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were standing by the ledge. It was windy and snowing, but mother was calm. She kissed my forehead, and promised me paradise.</Source>
+      <Dest>我们站在岩架边。刮着大风，天上下着雪，可是母亲很平静。她亲吻了我的额头，抚慰着我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hail Dragonborn. My name is Helsig.  I am pleased to make your acquaintance.</Source>
+      <Dest>哟，龙裔你好啊。我叫做海西格。很高兴认识你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father is old. He would like to leave his legacy to an heir.  He will not do so out of sentiment. It will die with him if I am not worthy.</Source>
+      <Dest>父亲已经老了。他或许会为他的遗产选择一个继承人。但出于情感他是不会那样做的。若是我不够资格的话，他会把他的遗产带进棺材里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Correct.  We are siblings by name, not by blood.  It matters not either way.   I seek his death.</Source>
+      <Dest>没错。我们是义姐妹，而非血缘上的姐妹。不过这并没有什么区别。我想要他死。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is the removal of two birds with one stone. My brother aside, the Radiant Dark serve as test of my worthiness.</Source>
+      <Dest>这样做还真是一石二鸟。把我弟弟放在一边不谈，黑暗光辉也能为此测试出我的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father informed Master Meronin that I would come in his place. He assured her I was his mirror.  It was not a lie.</Source>
+      <Dest>父亲告诉马荣尼大师，我和他的处境相似。他向她保证说我是他的一面镜子。父亲没有说谎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Olivia and Nelacar primarily use a combination of restoration and destruction.  Normally this would call for support magic.</Source>
+      <Dest>奥莉薇雅和尼拉卡的搭配，主要使用回复和毁灭法术。这通常会需要魔力的支持。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have knowledge of basic magic from all schools.  I will attempt to adapt myself to your strengths.</Source>
+      <Dest>我有关于所有魔法学派的基础知识。我正在试着让我自己配得上您的力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is where we met.  I know this because it has not changed.</Source>
+      <Dest>这是我们相遇的地方。我知道是因为它没有任何改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is unfortunate that Draugr think they are alive.  They are dust.</Source>
+      <Dest>不幸的事，尸鬼认为他们还活着。但事实上，他们不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>The servants of the dragon call themselves priests.  Yet the dragons are not Gods.  The word of the Gods cannot be spoken by mortals.</Source>
+      <Dest>龙的仆人自称为祭司。然而，龙不是神。神语不能由凡人来说。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you.  I am partial to them.</Source>
+      <Dest>我得谢谢你。我特别喜欢他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not here for your amusement.  I am here to help you kill my brother.</Source>
+      <Dest>我在这不是给你做消遣的。我来这是为了帮你杀了我的兄弟。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You had the funeral already?  Seems premature.</Source>
+      <Dest>你的葬礼么？似乎为时过早。</Dest>
+    </String>
+    <String List="0">
+      <Source>You had the funeral already?  Seems premature.</Source>
+      <Dest>你的葬礼么？似乎为时过早。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your father lied to your mother about Offryn?</Source>
+      <Dest>关于奥弗朗的事你爸没有告诉你妈实情？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your father lied to your mother about Offryn?</Source>
+      <Dest>关于奥弗朗的事你爸没有告诉你妈实情？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why seven days?</Source>
+      <Dest>为什么是7天？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why seven days?</Source>
+      <Dest>为什么是7天？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the kitchen knife story?</Source>
+      <Dest>那个关于菜刀的故事是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the kitchen knife story?</Source>
+      <Dest>那个关于菜刀的故事是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the kitchen knife story?</Source>
+      <Dest>那个关于菜刀的故事是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your intent to save him?</Source>
+      <Dest>是你有意要救他的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you have a problem with your brother, then yes, murder should solve it.</Source>
+      <Dest>如果你跟你哥哥有什么过节的话，那没错，谋杀可以解决问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you have a problem with your brother, then yes, murder should solve it.</Source>
+      <Dest>如果你跟你哥哥有什么过节的话，那没错，谋杀可以解决问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, your brother...I don't know if I like your enthusiasm, or lack thereof.</Source>
+      <Dest>依旧，你的兄弟...我不知道我是否喜欢你的热情抑或其中的不足。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, your brother...I don't know if I like your enthusiasm, or lack thereof.</Source>
+      <Dest>依旧，你的兄弟...我不知道我是否喜欢你的热情抑或其中的不足。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem all that conflicted about it.</Source>
+      <Dest>你好像并不那么矛盾。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem all that conflicted about it.</Source>
+      <Dest>你好像并不那么矛盾。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.  The outcome is known.  Violence is not a tool for the unskilled.</Source>
+      <Dest>不。这结果显而易见。只靠暴力是解决不了问题的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will kill him, or Offryn will kill himself.  He is already dead.</Source>
+      <Dest>我会杀了他，或者奥弗朗会选择自杀。他已经是个死人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you command.</Source>
+      <Dest>谨遵号令。</Dest>
+    </String>
+    <String List="2">
+      <Source>Violence is a tool.  It must be used with caution.  Offryn lacks it.</Source>
+      <Dest>暴力行为只是个手段，必须小心使用才行。这方面观念奥弗朗很缺乏。</Dest>
+    </String>
+    <String List="2">
+      <Source>He did not bend his fingers as she instructed.  He nearly sliced off his hand.</Source>
+      <Dest>他没有遵循她的指示而弯曲他的指头。他差点把自己的手削掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mother does not know he was condemning him.</Source>
+      <Dest>妈妈不知道他在【自责】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead, Dragonborn.</Source>
+      <Dest>领路吧， 龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then Father told the kitchen knife story.  We were all moved.</Source>
+      <Dest>然后父亲讲了那把菜刀的故事。我们都被感动了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father is a master of violence.  Sometimes he knows not his own strength, even when wielding words.</Source>
+      <Dest>父亲是位暴力大师。有时他却不了解自己的力量有多大。即使是在挥剑的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. It is to kill him.</Source>
+      <Dest>不，这是干掉他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  It was a violent act, but a necessary one.</Source>
+      <Dest>是的。这是种暴力行为，但却是十分必要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father made it seem as if he was praising Offryn's eagerness.</Source>
+      <Dest>父亲表现的好像他在赞赏奥弗朗的热情一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not murder.  Offryn is already dead.  We had the funeral.  We mourned for seven days.  The dead do not live twice.</Source>
+      <Dest>这不是谋杀。奥弗朗已经是死了。我们安葬了她。默哀七天。毕竟人死不能复生。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is the time it took mother to recover.  </Source>
+      <Dest>因为要让母亲恢复过来得花掉7天的时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Follow your voice.</Source>
+      <Dest>跟从你的声音。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, father.  What is known is now true.  My brother lives no more.</Source>
+      <Dest>是的，爸爸。流言是真的。我的兄弟已经死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not yet father.   </Source>
+      <Dest>还没有，父亲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hail, Dragonborn.</Source>
+      <Dest>向你致敬，龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am here to listen.</Source>
+      <Dest>我来此是为了倾听。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wisdom guide you.</Source>
+      <Dest>智慧指引你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your concern is noted, but unnecessary.  Offryn is dead.  We had the funeral.  We mourned for seven days.  </Source>
+      <Dest>你的担心我记下了，虽然没有必要。奥弗朗已经死了. 我们参加了葬礼。还为她哀悼7天。  </Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

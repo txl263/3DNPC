@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>It could be the child was a ghost, and made you its mother.</Source>
+      <Dest>这个小孩的鬼魂八成是错把你当成它母亲了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be the child was a ghost, and made you its mother.</Source>
+      <Dest>这个小孩的鬼魂八成是错把你当成它母亲了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could be the child was a ghost, and made you its mother.</Source>
+      <Dest>这个小孩的鬼魂八成是错把你当成它母亲了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call this cold?  It's practically an oven.</Source>
+      <Dest>你管这叫冷？不过是个烤箱罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call this cold?  It's practically an oven.</Source>
+      <Dest>你管这叫冷？不过是个烤箱罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call this cold?  It's practically an oven.</Source>
+      <Dest>你管这叫冷？不过是个烤箱罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you'll find peace.  Learn to let go.</Source>
+      <Dest>或许你能平静下来。学会放手。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lair?  Looks more like a dungeon to me.</Source>
+      <Dest>巢穴？在我看来更像个地牢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lair?  Looks more like a dungeon to me.</Source>
+      <Dest>巢穴？在我看来更像个地牢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, you may have been someone before, but you're an abomination now.</Source>
+      <Dest>我很抱歉，你以前可能是個好人，但你現在被人所憎恶。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, you may have been someone before, but you're an abomination now.</Source>
+      <Dest>我很抱歉，你以前可能是個好人，但你現在被人所憎恶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any fond memories of your father?</Source>
+      <Dest>你有关于你父亲的美好回忆吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was this boy doing?</Source>
+      <Dest>这孩子当时在干什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was this boy doing?</Source>
+      <Dest>这孩子当时在干什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was this boy doing?</Source>
+      <Dest>这孩子当时在干什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you suppose you became a wispmother?</Source>
+      <Dest>你为什么认为自己会成为幽魂之母？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you suppose you became a wispmother?</Source>
+      <Dest>你为什么认为自己会成为幽魂之母？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you suppose you became a wispmother?</Source>
+      <Dest>你为什么认为自己会成为幽魂之母？</Dest>
+    </String>
+    <String List="0">
+      <Source>My mind is not filled with air.  It is filled with ideas on how to kill you.</Source>
+      <Dest>我满脑子里装的不是空气，而是宰了你的方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could find out.  Just tell me their names.</Source>
+      <Dest>我们会找出来的，只管告诉我他们的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>We could find out.  Just tell me their names.</Source>
+      <Dest>我们会找出来的，只管告诉我他们的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you actually die?</Source>
+      <Dest>你到底是何时死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough about your past.</Source>
+      <Dest>关于你的过去，我已经了解够了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a bright one.  My mother told me so.</Source>
+      <Dest>我很机敏，我的母亲是那样告诉我的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Low wit? Shows what you know.  I'm completely witless.</Source>
+      <Dest>说我笨？你懂什么都说出来的吧，我真的笨得可怜。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about your mother?</Source>
+      <Dest>那你的母亲呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about your mother?</Source>
+      <Dest>那你的母亲呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about your mother?</Source>
+      <Dest>那你的母亲呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about your mother?</Source>
+      <Dest>那你的母亲呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about your mother?</Source>
+      <Dest>那你的母亲呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>You were cold itself.  When wisps move, it chimes like the wind on frozen teeth.</Source>
+      <Dest>你就是寒冷本身。当幽魂移动的时候，它发出的声响就像是寒风穿透了冰冷的牙齿。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were cold itself.  When wisps move, it chimes like the wind on frozen teeth.</Source>
+      <Dest>你就是寒冷本身。当幽魂移动的时候，它发出的声响就像是寒风穿透了冰冷的牙齿。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were cold itself.  When wisps move, it chimes like the wind on frozen teeth.</Source>
+      <Dest>你就是寒冷本身。当幽魂移动的时候，它发出的声响就像是寒风穿透了冰冷的牙齿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Having no pain is a poor substitute for the warmth you obviously need.</Source>
+      <Dest>无病无痛可算作没办法吃饱穿暖的些微补偿。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you?</Source>
+      <Dest>你是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you?</Source>
+      <Dest>你是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you?</Source>
+      <Dest>你是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you?</Source>
+      <Dest>你是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you?</Source>
+      <Dest>你是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>For so long I lived an existence full of lacking.  I lacked food.  I lacked warmth.  In more ways than one.</Source>
+      <Dest>有很长一段时间我都活在贫乏之中。缺少食物，缺少温暖，可不光是字面上的意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>He shows her one of the fish at the monger's stall. A salmon as long as a mortal's arm and as fat as a housecat.</Source>
+      <Dest>他向她展示了货架上的一条胳膊一样长、大肥猫一样肥的大马哈鱼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is the wisp's chime the sound of weeping for the lost?  Or a melodic tune meant to attract a new child that she can steal away?</Source>
+      <Dest>这是小精灵的编钟因迷失而哭泣的声音？还是为了挽留一个偷偷离去孩子而响起的美妙的旋律？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was cold...so cold.  My clothes were wet, and the frost was flooding in through the pockets of loose stone.</Source>
+      <Dest>我很冷……非常冷。我的衣服是湿的,松动的石头里面涌出的水全都结成了霜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet unlike a ghost, I am corporeal.  I can touch the world around me, just as it can touch me.</Source>
+      <Dest>然而我和幽灵不一样，我是有形的。我能触摸到我周围的世界，正如它同样可以触摸我一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you think me a monster, then slay me like a monster.</Source>
+      <Dest>要是你觉得我是个怪物，那就把我当作怪物一样杀了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I stand corrected.  Although perhaps you underestimate yourself.  I would say one so sharp is at least deserving of the title "halfwit."</Source>
+      <Dest>(笑) 我认错了。即使你可能低估了自己。我可以说这么一个骗子简直可以称得上是傻瓜的代名词啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>And your wispmother says you are a dim candle with more wax in your ears than in your brain.  And your wispmother isn't a liar like your real one.</Source>
+      <Dest>然后你的幽魂之母说，你是一支耳朵里的蜡油比脑子里还多的昏暗的蜡烛。你的幽魂之母还真不像你的亲妈一样撒谎。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet you seek the forgiveness of the very abomination you seek to destroy!  I have no need for your empty apologies, hero. </Source>
+      <Dest>然后你寻求那个你要毁掉的恶心东西的宽容！我不需要你那空洞的道歉，英雄。 </Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Your lust for blood is amusing, mortal! I would very much like to help in nurturing such a very...desirable compulsion.</Source>
+      <Dest>(笑声)你血液中的淫欲真有趣，凡人！我会很高兴去培育一种非常……令人满意的冲动。</Dest>
+    </String>
+    <String List="2">
+      <Source>He lifts her on his shoulders so she can touch it.  It wiggles a bit and she squeals, drawing her hand back.  The man smiles.  </Source>
+      <Dest>他把她放在他的肩膀上这样她就能碰到它了。它摇晃了一下，于是她尖叫了起来，把手伸了回来。男人笑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Born of cold and to cold they return, but those who are lost can only sing to the wind.</Source>
+      <Dest>他们生于寒冷并回归寒冷，但这些迷失的人只能唱歌给风听。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well pea-brain, consider the walls are not for keeping myself in, but for keeping fools out.</Source>
+      <Dest>好了傻瓜,这样想，那些墙是为了把笨蛋关在外面，而不是把我关在里面。</Dest>
+    </String>
+    <String List="2">
+      <Source>When indeed, mortal.  For even now I hardly consider myself dead.</Source>
+      <Dest>确实是这样，凡人。即使是现在我也几乎认为自己死了 </Dest>
+    </String>
+    <String List="2">
+      <Source>I possess the personality and knowledge of the one I represent, but nothing more.</Source>
+      <Dest>我只能呈现属于我的人格和知识，别的真没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drench yourself in this sewer water, and spend a winter's night.  Then do that for a thousand more and I will say your bravado is warranted.</Source>
+      <Dest>你要是能在冬天把自己泡在下水道的水里一整夜，然后重复做它1000多次，那我倒是信了你的故作勇敢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was then I saw a boy. I can't be certain if he was even real. </Source>
+      <Dest>就在那时我看见一个男孩。我甚至不能肯定他是不是真实存在的。</Dest>
+    </String>
+    <String List="2">
+      <Source>She killed hundreds of her own people, watched the genocide of an entire race, all for the love of a man who would never make her his wife.</Source>
+      <Dest>她屠杀了成千上百个她的子民，还眼睁睁地看着整个种族被毁灭，只要是还懂得爱的男人就不会娶她为妻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps the halfwit is right half the time.  Becoming a wisp may be the fate of all wayward Snow Elves who know not of where our family rests.  </Source>
+      <Dest>也许那傻子是对的。顽固的雪精灵最后的命运便是化为灰烬，谁知我的家人下场如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, I have not waited countless millennia to have my vengeance handed to me on a dish not yet cold.</Source>
+      <Dest>不幸的是，我等待了无数个世纪不是为了一场随手可得﹑不畅快的复仇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you are thousands of years too late.  Which happens to be a very big number.  Far more than a nitwit like you can count on your hands.</Source>
+      <Dest> 你已经晚了几千年。这是一个非常大的数字，远远超过一个傻子能用自己的手指计算的极限。</Dest>
+    </String>
+    <String List="2">
+      <Source>He calls her his little mountain flower, and places one in her ear.  They head on over to the market.</Source>
+      <Dest>他管她叫他的小山花儿，然后在她耳边别上了一朵。接着他俩去了集市。</Dest>
+    </String>
+    <String List="2">
+      <Source>I vowed not to pity him when that moment came.  I would spit in his face and let him greet Tsun with a glob of milky white hanging from his beard.</Source>
+      <Dest>在那一时刻到来时，我发誓不会再可怜他。我会往他脸上吐唾沫，让他去松加德见到孙时，胡子上还挂着的乳白的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>You ask me to let go of the rope that sustains me, and trust the darkness below?  No, I will clutch the rope tightly, and climb closer to the light.</Source>
+      <Dest>你要我放下支撑着我的绳子，把自己交托于下面的黑暗？不，我会抓紧绳子，向上爬去，向着光明爬去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Possibly.  There are many wisps and wispmothers who float about Skyrim with only the shades to call children.</Source>
+      <Dest>或许吧。有很多只在夜幕之下呼唤孩子的幽灵和幽魂之母飘荡在天际省。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Scoffs) She was killed by beasts alright, but those that walk on two legs and smell of bad mead.</Source>
+      <Dest>(嘲弄) 她确实是被畜生杀的，但却是死在那些用两条腿走路，浑身散发着恶臭蜜酒味儿的畜生手里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only he never gave me the satisfaction.  They never brought me to see him.  It would not have mattered.  I could hear the whispers through the grate.</Source>
+      <Dest>只是他从未让我满意。他们从不带我去见他。这本来没什么的。我甚至能听见他们在壁炉后面的低声细语。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, look! A mortal! I see you have discovered my lair. Very well done for a creature of such low wit.</Source>
+      <Dest>啊~一个凡人，我想你发现了我的巢穴，这对一个智力如此低下的生物来说的确是一件不容易的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Living in this squalid pit with only the rats to serve as meals, the only motivation I had was to outlive my father.</Source>
+      <Dest>在这种只能靠耗子充饥的破地方生存，支持我的唯一动机只有必须活得比我父亲久。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say in the end she was killed by the beasts of the wild, having ventured too far from camp.</Source>
+      <Dest>他们说，她最终被荒野里的野兽杀掉了。离营地太远真是非常冒险的行为。</Dest>
+    </String>
+    <String List="2">
+      <Source>Peas for brains and onions for eyes, I dare say you are if nothing else a healthy dullard.  </Source>
+      <Dest>豌豆对脑子好，洋葱对眼睛好，我敢说就算你啥都没有，你还是个健康的笨蛋。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I, however, have no desire to raise a litter of brats, and my song is meant only to frighten.</Source>
+      <Dest>无论如何，我都不想养一窝小崽子，我的歌只是为了把他们吓走。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am a wisp.  Does that answer your question?  No?  Very well, I shall explain.</Source>
+      <Dest>我是个幽灵。这个答案你满意了吗？没有？很好，我会再解释的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when I woke up the next morning, I was not cold anymore.</Source>
+      <Dest>我第二天早上起来时我再也不感觉冷了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sage advice indeed.</Source>
+      <Dest>真心是高明之见.</Dest>
+    </String>
+    <String List="2">
+      <Source>Finally.</Source>
+      <Dest>终于。</Dest>
+    </String>
+    <String List="2">
+      <Source>I lived for the day when he lay on his deathbed, summoning me to his chamber in hopes that I would absolve him of his betrayal.</Source>
+      <Dest>我终于等到了这一天，他躺在病榻上，招呼我去他的房间，希望我能够原谅他的背叛。</Dest>
+    </String>
+    <String List="2">
+      <Source>My father had forgotten, and I was already dead.</Source>
+      <Dest>我父亲已经忘记了，然而我已经死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The dying always believe they can use their own deaths as a shortcut, a way to receive forgiveness from those they wronged in life.</Source>
+      <Dest>快死的人总以为可以把死亡当成一种捷径，以获得自己曾经伤害过的那些人的谅解。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have no answer, only a theory.  It was near the end of my life. I was starving, filthy, my lips about to drink from the burbling rivers of madness.</Source>
+      <Dest>我没有答案，只有个猜想。那是在我生命的最后关头。我很饿，很脏，嘴唇干得快要从【burbling rivers of madness】里喝水。</Dest>
+    </String>
+    <String List="2">
+      <Source>He asked me if I was his mother.  When I told him no, he asked me if I wanted to be.</Source>
+      <Dest>他问我，我是不是他的母亲。当我摇头否定时，他又问我愿不愿意让他成为我的孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was skipping rocks against the wall, mumbling in a language that was not the common tongue.  Somehow I understood.</Source>
+      <Dest>他跳过岩石，冲向墙壁，嘟囔着什么奇怪的话，和普通的口音不一样。我能听懂一点点。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for how I came to be, that is its own tale.  One of regret, betrayal, but most of all, stupidity.</Source>
+      <Dest>要说我怎么会沦落到如此境地，那又是一个故事了——一个充满了悔恨、背叛，更多的是愚蠢的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I believe it is that very refusal to die that allowed me to continue wandering this plane.</Source>
+      <Dest>事实上，我相信是对死亡的拒绝让我得以继续漫游在这个平面上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is the chime of a wisp a beacon?  Is its plangent bell a desperate cry, praying to the Gods for an answer?</Source>
+      <Dest>这小小的声响是某种信号吗？那哀婉的钟声是绝望的叫喊，还是为在为了答案而向众神发起的祷告？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some may call you brave, others will call you bold, but to my eyes you must be some sort of fowl, for your brain is filled with feathers.</Source>
+      <Dest>一些人说你很勇敢，还有些人说你是莽撞的，但在我眼里，你一定是某种鸟，因为你的脑袋里塞满了羽毛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I will admit that when I first discovered the nature of my body, there was confusion.</Source>
+      <Dest>现在我要承认，当我第一次发现自己身体本质的时候，我有点困惑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Essentially, at the core of my being, I am a ghost. Or rather, the imprint of a living soul. </Source>
+      <Dest>本质上讲，我实际上就是个幽灵。或者说是一个活灵魂的印记。 </Dest>
+    </String>
+    <String List="2">
+      <Source>To put it simply, my mother had lost her mind.</Source>
+      <Dest>简单说，我妈她疯了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What became of her I learned from the guards, who whispered stories from above.  She fought for the Nords, they say, against her own kind.</Source>
+      <Dest>我在守卫低声讲述的故事那里了解到她变成了何人。他们说为了诺德人，她转身与自己的族人对抗。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲的唯一理由是他被迫在独孤城过夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a conjuration trick.  A touch of life.  The man tells her she should be careful around the dead.  For in Skyrim, the dead never die.</Source>
+      <Dest>这是个魔术戏法。 这是一种生活的经验。那个男人告诉她，她应该在死者周围变得更加小心。在天际省，死者永远不会彻底死去。</Dest>
+    </String>
+    <String List="2">
+      <Source>They are not even memories.  Pictures maybe, of someone else.  A young girl holding hands with a grown man.</Source>
+      <Dest>那些甚至不是回忆。可能是图片，或者其他东西。一个年轻的女孩握着一个成年人的手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such a kind, maudlin, and dare I say cloying little sweetheart.  You'll make this wispmother cry a river of ectoplasm.  Hopefully you'll drown in it.</Source>
+      <Dest>这样一个善良的爱哭的而且说句不中听的甜得发腻的小甜心。你会让这个幽魂之母哭出一条外质之河。 真希望你淹死在里面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not even a dragon whose blood is fire can call this place warm.</Source>
+      <Dest>即使是那些以火为血的龙也不能让这地方暖和起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it like, being a wispmother?</Source>
+      <Dest>作为幽魂之母的感觉是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it like, being a wispmother?</Source>
+      <Dest>作为幽魂之母的感觉是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it like, being a wispmother?</Source>
+      <Dest>作为幽魂之母的感觉是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>We can't all be as smart and lovely as you.</Source>
+      <Dest>我们不可能像你这样又聪明又可爱。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who were you before you died?</Source>
+      <Dest>在你死掉之前你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who were you before you died?</Source>
+      <Dest>在你死掉之前你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who were you before you died?</Source>
+      <Dest>在你死掉之前你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who were you before you died?</Source>
+      <Dest>在你死掉之前你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Better low of wit than bereft of body.</Source>
+      <Dest>低能可比失去身体要好。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that complicate things?</Source>
+      <Dest>事情是怎么复杂化的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that complicate things?</Source>
+      <Dest>事情是怎么复杂化的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did that complicate things?</Source>
+      <Dest>事情是怎么复杂化的？</Dest>
+    </String>
+    <String List="0">
+      <Source>The Battle-Born clan still lives today and is quite prosperous.</Source>
+      <Dest>战狂氏族依然健在，而且非常繁盛。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Battle-Born clan still lives today and is quite prosperous.</Source>
+      <Dest>战狂氏族依然健在，而且非常繁盛。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Battle-Born clan still lives today and is quite prosperous.</Source>
+      <Dest>战狂氏族依然健在，而且非常繁盛。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Battle-Born clan still lives today and is quite prosperous.</Source>
+      <Dest>战狂氏族依然健在，而且非常繁盛。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've never met a wispmother who could talk.</Source>
+      <Dest>我还从没见过会说话的幽魂之母。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I've never met a wispmother who could talk.</Source>
+      <Dest>我还从没见过会说话的幽魂之母。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I've never met a wispmother who could talk.</Source>
+      <Dest>我还从没见过会说话的幽魂之母。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I've never met a wispmother who could talk.</Source>
+      <Dest>我还从没见过会说话的幽魂之母。 </Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>As it so happens, I'm a Dragonborn.</Source>
+      <Dest>真巧, 我是一个龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think your new body looks fantastic.</Source>
+      <Dest>我觉得你的新身体看起来棒极了！</Dest>
+    </String>
+    <String List="0">
+      <Source>I think your new body looks fantastic.</Source>
+      <Dest>我觉得你的新身体看起来棒极了！</Dest>
+    </String>
+    <String List="0">
+      <Source>I think your new body looks fantastic.</Source>
+      <Dest>我觉得你的新身体看起来棒极了！</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine it is much like your existence, only with thin wrappings for skin, glow dust for blood, and a skull completely filled with air.</Source>
+      <Dest>我想这很像你的存在，薄纸为肤，光尘为血，而头骨则完全暴露在空气之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell now!</Source>
+      <Dest>再会吧!</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the time of Nordic kings, long before Tiber Septim made this land the vanguard of his Empire.</Source>
+      <Dest>那是先古诺德君主的时代，比泰伯·赛普丁建立他的帝国还要早很多。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are covered in fur, not scales. You have neither wings nor fangs. What is it that you do, then?  Do you breathe fire?</Source>
+      <Dest>你身上的是毛皮不是鳞片。你又没有翅膀也没有尖牙。那你能干什么？会喷火吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye little mortal!</Source>
+      <Dest>再见，卑微的人类。</Dest>
+    </String>
+    <String List="2">
+      <Source>I cannot say for certain why I am still lucid whereas others or not, only that I believe it has something to do with this location.</Source>
+      <Dest>我不能肯定的说出为什么众人皆醉我独醒，不过我相信这跟我身处的位置有关。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also hear they are Legion pets, loyal to an Empire led not by a Dragon King mind you, but High Elves.</Source>
+      <Dest>我还听说他们是军团的宠物，忠于帝国领导，不是因龙王而记住你,而是因为高精灵，</Dest>
+    </String>
+    <String List="2">
+      <Source>If my father was to lead the clan to prosperity, my existence could not be known. </Source>
+      <Dest>如果我的父亲才是领导族人走向繁荣的那个人，那我的存在就不会被世人所知了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I was once the daughter of Hjor, one of the early patrons of the great clan Battle-Born.</Source>
+      <Dest>我曾经是Hjor的女儿，庞大的战狂家族早期的一员。</Dest>
+    </String>
+    <String List="2">
+      <Source>You do have scales, though nowhere near as shiny as a dragon's. You have no wings, nor do you have fangs.</Source>
+      <Dest>你有鳞片，但远没有龙的耀眼。你没有翅膀，也没有獠牙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you roar like a dragon or a lion?  I think you purr like a kitten.  All the Skooma in Elsweyr could not make me a bigger fool than you.</Source>
+      <Dest>你觉得自己的咆哮像是条龙或一只狮子吗？我觉得你更像只小奶猫。就算我吃光了艾斯维尔所有的斯库玛，都不能变得比你更傻。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it that you do, then? Do you breathe fire?  Do you roar?  Do not make me laugh, lizard. You are as flimsy as a doll to me.</Source>
+      <Dest>然后你要做什么？要喷火吗？还是要开吼？别惹我发笑了，小蜥蜴。对我而言你就跟个洋娃娃似的那么脆弱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Jealous of my figure, are you girl?  Don't worry, we'll find you a mate.  I think I saw skeever scuttle about just a second ago. </Source>
+      <Dest>嫉妒我的身材，是不是啊女孩？不用担心，我们会帮你找到情人的。我刚才就看到了一只吱吱叫的雪鼠。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I was thrown into this dungeon, left here to rot through countless winters, through wars and famine.</Source>
+      <Dest>所以我就被扔进了这个地牢，被留在这里承受无尽的寒冬，承受战争和饥荒，然后在这里慢慢腐烂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well said.  The dead may mock the living, but in the end all we really feel is envy.</Source>
+      <Dest>说得好，死人也许会嘲笑活着的，但最终让我们真正感觉到的却是嫉妒。</Dest>
+    </String>
+    <String List="2">
+      <Source>For all my life I wanted vengeance against those that wronged me, and it is that singular focus that brings thought to this once partial existence.</Source>
+      <Dest>我穷尽一生，只为向那些曾经待我不公的人复仇，这也就是我所在意的一切，它将思想注入了一个曾经残缺的灵魂。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it that you do, then? Do you breathe fire? Do you roar?  Do not make me laugh, Orsimer. You may be strong, but I far surpass you.</Source>
+      <Dest>那你到底会做些什么呢？你能喷火吗？你能丢龙吼吗？别丢逼了，兽人。你可能很屌，但我比你屌多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder, as Olfrid plots the demise of the Gray-Manes, if he even knows his son is in love with one.</Source>
+      <Dest>我想知道，奥弗里德谋划了灰髯的死，他是不是有可能甚至知道自己的儿子们喜欢着一个灰髯家的人呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Kings and empires come and go, but the perverts will always remain.</Source>
+      <Dest>(叹息) 国王们来来去去，可留下的只有变态。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aren't you the bright one!  You figured out I wasn't an ordinary wispmother, and you did so without the aid of pictures!  Good for you!</Source>
+      <Dest>你真是个聪明人！一眼就能发现我不是个普通的幽魂之母，而且还没有靠图片的指引！真厉害！</Dest>
+    </String>
+    <String List="2">
+      <Source>Who is to say what would happen if the object of that enmity, the very descendents of the one I despise, were to leave Whiterun for another hold.</Source>
+      <Dest>如果我怀有敌意的那些人，我所鄙视那人的直系后代们，离开了白漫城去往他处的话，谁又能说清到底会发生些什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>I see no scales covering your body. You have neither wings nor fangs. What is it that you do, then?  Do you breathe fire? Do you roar?</Source>
+      <Dest>我看你身上没有覆盖着鳞片。你也没翅膀也没獠牙。那你能做什么？会喷火吗？会嚎叫？</Dest>
+    </String>
+    <String List="2">
+      <Source>In other words, I am corporeal.  Permanently so.  I am not like a familiar or any other flimsy image cast upon this world by a frightened idiot.</Source>
+      <Dest>换句话说，我是有形有肉的。永远不变。我不是那些靠胆小鬼施法丢到世间来的召唤物之类的玩意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not make me laugh, human. You are as flimsy as a doll to me.</Source>
+      <Dest>不要耍宝了，凡人。你在我眼里和一个布偶一样弱。</Dest>
+    </String>
+    <String List="2">
+      <Source>For my mother was one of the last of the Snow Elves, and their union was said to be a betrayal of both their people.</Source>
+      <Dest>我的母亲是最后幸存的雪精灵之一，然后他们的工会被说成是其中两人的背叛</Dest>
+    </String>
+    <String List="2">
+      <Source>Now you are the right color, and you certainly are ugly enough to be a dragon. Yet you have neither scales nor wings.</Source>
+      <Dest>现在你是正确的颜色，而且你确实丑得足够当一条龙。尽管你还没有麟片跟翅膀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a wisp, there was only one thing I lacked and it more than made up for the rest.   What I lacked was pain.  </Source>
+      <Dest>作为一个幽魂，我只缺少一样东西，但这样东西比其他所有的东西都要重要。我缺少的只有疼痛而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet my father was only a father by blood, and not by name.</Source>
+      <Dest>但我的父亲只是血缘上的父亲，而不是名义上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, is it? And what might that be? Some sort of title? A name overweight Jarls bestow upon themselves to appear more menacing?</Source>
+      <Dest>龙裔,这是什么？可能是什么呢？某种头衔吗？在出现更多的威胁之时，名声显赫的领主们便会亲自授予这些头衔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, is it? And what might that be? Some sort of title? A name overweight Jarls bestow upon themselves to appear more menacing?</Source>
+      <Dest>龙裔,这是什么？可能是什么呢？某种头衔吗？在出现更多的威胁之时，名声显赫的领主们便会亲自授予这些头衔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, is it? And what might that be? Some sort of title? A name overweight Jarls bestow upon themselves to appear more menacing?</Source>
+      <Dest>龙裔,这是什么？可能是什么呢？某种头衔吗？在出现更多的威胁之时，名声显赫的领主们便会亲自授予这些头衔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, is it? And what might that be? Some sort of title? A name overweight Jarls bestow upon themselves to appear more menacing?</Source>
+      <Dest>龙裔,这是什么？可能是什么呢？某种头衔吗？在出现更多的威胁之时，名声显赫的领主们便会亲自授予这些头衔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, is it? And what might that be? Some sort of title? A name overweight Jarls bestow upon themselves to appear more menacing?</Source>
+      <Dest>龙裔,这是什么？可能是什么呢？某种头衔吗？在出现更多的威胁之时，名声显赫的领主们便会亲自授予这些头衔。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was here as castles crumbled and were built anew, haunting these damp, fetid tunnels as Olaf built Dragonsreach, and a new dungeon above it.</Source>
+      <Dest>在城堡被毁去重建时我就在这里，穴居在这些恶臭，潮湿的隧道里，而奥拉夫则在这上面筑起了龙临厅，修建了新的地牢。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I've heard. There are no shortage of rumors that I am privy to in this foul sewer.</Source>
+      <Dest>我是这么听说的。这里可不缺我知晓污水道内幕的谣言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I will admit that when I first discovered the nature of my body, there was confusion.</Source>
+      <Dest>现在我要承认，当我第一次发现自己身体本质的时候，稍微有困惑。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was very well off.  It had its own rathole and a large chunk of moldy cheese. Let's hope for your sake it isn't too picky.</Source>
+      <Dest>它过得不错。它有自己的鼠洞和大块发霉芝士。 让我们祈祷它看在你的面子份上，不要那么挑剔吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>No I'm afraid you can't.  Others may perhaps, but you are certainly not working with an adequate base.</Source>
+      <Dest>不，我恐怕你不行。别人可能可以，但你显然没有足够的基础。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see no scales covering your body. You have no wings or fangs to speak of. What is it that you do, then?  Do you breathe fire?  Do you roar?</Source>
+      <Dest>你身上没长鳞片，也没有什么翅膀和爪子，那你能做些什么？能喷火？能咆哮？</Dest>
+    </String>
+    <String List="2">
+      <Source>Do not make me laugh, Elf. You are as flimsy as a doll to me.</Source>
+      <Dest>不要逗我笑啊，伊芙。对我来说，你像布偶一般脆弱。 </Dest>
+    </String>
+    <String List="2">
+      <Source>What sweet irony.  It brings me no shortage of joy to know my father's namesakes now defile his memory in this fashion.</Source>
+      <Dest>多么温柔的讽刺啊。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

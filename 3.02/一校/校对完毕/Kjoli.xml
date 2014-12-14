@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I don't work for free.  200 gold ought to do it.</Source>
+      <Dest>我不做义工，给我两百大洋。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've changed my mind. I'll help you.</Source>
+      <Dest>我改变主意了，我会帮你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's an underlying reason she's angry. It happens every month.</Source>
+      <Dest>她生气是有理由的，每个月来一次的那个理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's an underlying reason she's angry. It happens every month.</Source>
+      <Dest>她生气是有理由的，每个月来一次的那个理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>The cold will make you a man. You should learn to embrace it.</Source>
+      <Dest>寒冷会使你成为一个真正的男人，你应该学习如何去接纳它。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is why milk-drinkers like you should never leave the house.</Source>
+      <Dest>这就是像你这种软弱的家伙不该离开房子的理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is why milk-drinkers like you should never leave the house.</Source>
+      <Dest>这就是像你这种软弱的家伙不该离开房子的理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>Give her some time to simmer down. It's a lot to take in.</Source>
+      <Dest>她要接受的东西实在太多了，给她一点时间让她冷静下。</Dest>
+    </String>
+    <String List="0">
+      <Source>Give her some time to simmer down. It's a lot to take in.</Source>
+      <Dest>她要接受的东西实在太多了，给她一点时间让她冷静下。</Dest>
+    </String>
+    <String List="0">
+      <Source>Think about where we are for a second, and you'll know why she's upset.</Source>
+      <Dest>考虑一下我们所处的地方，然后你就会明白她为何而焦虑了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Think about where we are for a second, and you'll know why she's upset.</Source>
+      <Dest>考虑一下我们所处的地方，然后你就会明白她为何而焦虑了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like an artist. Or a poet.</Source>
+      <Dest>你应该喜欢艺术家。或者诗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps she hasn't been entirely honest with you.</Source>
+      <Dest>她也许对你有所隐瞒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps she hasn't been entirely honest with you.</Source>
+      <Dest>她也许对你有所隐瞒。</Dest>
+    </String>
+    <String List="0">
+      <Source>I fell asleep halfway through. I hope I wasn't snoring.</Source>
+      <Dest>我在半路上就睡着了，但愿我没打呼噜。</Dest>
+    </String>
+    <String List="0">
+      <Source>I fell asleep halfway through. I hope I wasn't snoring.</Source>
+      <Dest>我在半路上就睡着了，但愿我没打呼噜。</Dest>
+    </String>
+    <String List="0">
+      <Source>I fell asleep halfway through. I hope I wasn't snoring.</Source>
+      <Dest>我在半路上就睡着了，但愿我没打呼噜。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's only a dream. It'll pass come morning.</Source>
+      <Dest>这只是个梦。再次睁开眼就是早晨了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just be sure to return the favor and come to my wedding.</Source>
+      <Dest>请一定回应这份热情并来参加我的婚礼。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just be sure to return the favor and come to my wedding.</Source>
+      <Dest>请一定回应这份热情并来参加我的婚礼。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a beautiful ceremony. I was glad to be a small part of it.</Source>
+      <Dest>这是一个完美的仪式。我很高兴能成为它的一部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a beautiful ceremony. I was glad to be a small part of it.</Source>
+      <Dest>这是一个完美的仪式。我很高兴能成为它的一部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure. I'll talk to her.</Source>
+      <Dest>当然，我会跟她谈谈的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's terrible. I wish you a speedy recovery.</Source>
+      <Dest>这太糟了，我希望你能快点恢复。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have. Farewell.</Source>
+      <Dest>我的问题问完了。再见。</Dest>
+    </String>
+    <String List="0">
+      <Source>Most Nords are acclimated to the cold.</Source>
+      <Dest>大部分诺德人已经适应了严寒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Most Nords are acclimated to the cold.</Source>
+      <Dest>大部分诺德人已经适应了严寒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Most Nords are acclimated to the cold.</Source>
+      <Dest>大部分诺德人已经适应了严寒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Most Nords are acclimated to the cold.</Source>
+      <Dest>大部分诺德人已经适应了严寒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Be careful. A lullaby will put you to sleep.</Source>
+      <Dest>小心点，摇篮曲会把你给催眠的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll head there immediately.  And congratulations.</Source>
+      <Dest>我立刻出发去那儿。并且祝贺你！</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have time to work out your problems.</Source>
+      <Dest>我没有时间帮你解决问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no substitute for good body heat. Keep your wife close.</Source>
+      <Dest>温暖的肉体是不可替代的。跟你的妻子保持亲密。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no substitute for good body heat. Keep your wife close.</Source>
+      <Dest>温暖的肉体是不可替代的。跟你的妻子保持亲密。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was my pleasure. Congratulations.</Source>
+      <Dest>我很乐意。祝贺你们！</Dest>
+    </String>
+    <String List="0">
+      <Source>It was my pleasure. Congratulations.</Source>
+      <Dest>我很乐意。祝贺你们！</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you come out here just to enjoy the Fall Forest?</Source>
+      <Dest>你是专门来享受秋林的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you come out here just to enjoy the Fall Forest?</Source>
+      <Dest>你是专门来享受秋林的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you come out here just to enjoy the Fall Forest?</Source>
+      <Dest>你是专门来享受秋林的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you come out here just to enjoy the Fall Forest?</Source>
+      <Dest>你是专门来享受秋林的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's changed?</Source>
+      <Dest>有什么变化？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's changed?</Source>
+      <Dest>有什么变化？</Dest>
+    </String>
+    <String List="0">
+      <Source>The hazards of the job. By your logic, it'll make you write better poetry.</Source>
+      <Dest>这个工作的危险性，按你的逻辑，就是能帮你写出更好的诗词。</Dest>
+    </String>
+    <String List="0">
+      <Source>And after the leaves came the adventurer, who rocked you gently to death.</Source>
+      <Dest>那么在叶子飘落到旅行者的面前，是谁轻轻地摇着你，引领你死亡。</Dest>
+    </String>
+    <String List="0">
+      <Source>From what I've seen of your teeth, you're probably better off.</Source>
+      <Dest>依我看，你的气色不错嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose that's the essence of poetry. Putting it all into words. Perhaps I will no longer write about the cold, but this warmth I feel in my heart.</Source>
+      <Dest>我觉得这便是诗歌的本质，将千思万绪化为诗句，或许我以后不会再抒写有关寒冷的任何东西了，我将吟诵在我心中回荡着的这股暖流。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you! She's still up there. I...I thought I heard weeping. But I fear she does not want to see me.</Source>
+      <Dest>谢谢你！她还在那里。我...我想我听到了哭泣声。但我担心她不想见我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you! She's still up there. I...I thought I heard weeping. But I fear she does not want to see me.</Source>
+      <Dest>谢谢你！她还在那里。我...我想我听到了哭泣声。但我担心她不想见我。</Dest>
+    </String>
+    <String List="2">
+      <Source>My love has always kept a level head. It matters not the time of the month or the color of the season. This is something more.</Source>
+      <Dest>我的爱人一直都保持着清醒的头脑。这不仅仅和这个月的时间或者这个季节的颜色有关，这关系着更多的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for coming, and for helping my love...I mean, my wife, learn to live again.</Source>
+      <Dest>感谢你能来帮助我的爱人……我是说，我的妻子，让她试着去重新生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Guilty on both counts. Although my wife is the true artist, the way the sight of her makes my knees buckle.</Source>
+      <Dest>都不对，虽说我老婆是個真正的艺术家，但她看待事物的方式让我有些无可奈何。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, we can outrun the Spriggans, avoid the bears, and appease the wolves.  </Source>
+      <Dest>很好，我们可以跑的比树精快, 避开棕熊, 也可以安抚狼群。</Dest>
+    </String>
+    <String List="2">
+      <Source>But why? We disagree about many things, and typically she always gets her way. Why would she lie about wanting children?</Source>
+      <Dest>但是为什么？我们在很多事情上都有分歧，通常都按她的意思来。为什么她要在要孩子这件事上说谎呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it's strange how much it affects me. They say that's why I can write such visceral poetry.</Source>
+      <Dest>是的，它影响我的程度令人惊讶，他们说这就是我能这么发自内心地写出诗歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Friend, do you think you can talk to her for me? Find out what it is that's really bothering her?</Source>
+      <Dest>朋友，你能和她谈谈吗？找出她真正烦恼的原因？ </Dest>
+    </String>
+    <String List="2">
+      <Source>Friend, do you think you can talk to her for me? Find out what it is that's really bothering her?</Source>
+      <Dest>朋友，你能和她谈谈吗？找出她真正烦恼的原因？ </Dest>
+    </String>
+    <String List="2">
+      <Source>Friend, do you think you can talk to her for me? Find out what it is that's really bothering her?</Source>
+      <Dest>朋友，你能和她谈谈吗？找出她真正烦恼的原因？ </Dest>
+    </String>
+    <String List="2">
+      <Source>Worry not, the wedding went off without a hitch, and you must be exhausted, considering all you've done.</Source>
+      <Dest>别担心，婚礼应该顺利进行了，考虑到你所做的一切，你现在应该精疲力尽了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The pleasure is all mine. These priests may call upon her aid, but the spirit of Mara flows through you like an autumn wind. </Source>
+      <Dest>那些都是我的荣幸。这些祭司们也许需要她的指引，可玛拉的精神像秋风般浸透你的全身。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) My love said the same thing. Only she was trying to comfort me, in her special way. With you, stranger, it's hard to tell.</Source>
+      <Dest>(笑声) 我的爱人说过同样的事情。仅有她试图安慰我，用她的特殊方式。和你？陌生人，这可很难说。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like my love. She has a more practical mind than I.  It's why we're a good match.</Source>
+      <Dest>你说的和我爱人差不多。她有一个比我更注重现实的头脑。所以我们才会成为很好的一对。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were both two falling leaves who got swept up in your current, and you gave us one last dance before we touched the ground. Thank you.</Source>
+      <Dest>我们两个是被卷到你面前的落叶，而你在我们落地前，给了我们最后一次起舞的机会。谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were both two falling leaves who got swept up in your current, and you gave us one last dance before we touched the ground. Thank you.</Source>
+      <Dest>我们两个是被卷到你面前的落叶，而你在我们落地前，给了我们最后一次起舞的机会。谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were both two falling leaves who got swept up in your current, and you gave us one last dance before we touched the ground. Thank you.</Source>
+      <Dest>我们两个是被卷到你面前的落叶，而你在我们落地前，给了我们最后一次起舞的机会。谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>We were both two falling leaves who got swept up in your current, and you gave us one last dance before we touched the ground. Thank you.</Source>
+      <Dest>我们两个是被卷到你面前的落叶，而你在我们落地前，给了我们最后一次起舞的机会。谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course! If there is room. For I am sure there are many who call you a friend, as the spirit of Mara flows through you like an autumn wind.</Source>
+      <Dest>当然啦！如果有位置的话。我很确定你有许多朋友，因为我能感觉到玛拉的祝福如秋天的微风般拂过你的身心。</Dest>
+    </String>
+    <String List="2">
+      <Source>It couldn't have happened without you. The spirit of Mara flows through you like an autumn wind. </Source>
+      <Dest>没有你的话这就不可能发生，愿玛拉的祝福如秋风吹拂你的身心。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes, even when you know something is true in your soul, it's still nice to say the words.</Source>
+      <Dest>有时候，即使当你打心里明白一些事的对错，但有时说些违心话又何乐不为呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, although my love worries it might be dangerous. Spriggans, wolves, and bears live in these forests.</Source>
+      <Dest>是啊，不过我的恋人倒是认为那里很危险。那些森林里栖息着树精、狼和熊。</Dest>
+    </String>
+    <String List="2">
+      <Source>My only regret is that my parents weren't alive to see this.</Source>
+      <Dest>我只是很遗憾我的父母没能活着看到这一天。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.  What you have done for us is worth enough gold to fill the halls of Dragonsreach.  Here, and thank you.</Source>
+      <Dest>当然。你为我们所做一切的价值，足有能填满整个龙临堡大厅的金子那么多。这是你的，谢谢你。.</Dest>
+    </String>
+    <String List="2">
+      <Source>However, even with my love nestled beside me, this cold is like a frozen dagger. It claws at my very soul.</Source>
+      <Dest>然而，即使有我的爱人依偎在我身边，这寒冷仍然如同一把寒冰的匕首。削凿我的灵魂。</Dest>
+    </String>
+    <String List="2">
+      <Source>For me, I know the cold like it was my sister, but we're the type of siblings who never get along. Lately, it's only gotten worse.</Source>
+      <Dest>就我而言，我了解寒冷就像了解我的姐妹，不过是那种从不打交道的姐妹。近来更是难得一见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Friend, do you think you can talk to her for me? Maybe you can provide some comfort, whereas I will only arouse her anger.</Source>
+      <Dest>朋友,你能帮我向她说几句好话么？搞不好你安慰她一下, 要我的话肯定只会惹怒她的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) If this is the last thing I see, then would that be such a bad thing? To die here, in the glow of a thousand setting suns.</Source>
+      <Dest>（笑声）如果这是我最后能看到的东西，那么在一千个太阳下的光芒下死在这里，会不会很糟糕？</Dest>
+    </String>
+    <String List="2">
+      <Source>So my love tells me.  But what good is knowing it's a dream, if the pain is all too real.</Source>
+      <Dest>我的恋人也是那样告诉我的。既然这只是个梦而已，那梦中的痛楚又为何如此地真实。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not sure this is something one recovers from. It may be my fate is like these leaves, slowly descending toward the inevitable.</Source>
+      <Dest>我不知道会恢复成什么样子。这也许就是我的命运吧，想这些树叶一样，不可避免的缓缓下落。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might have a point. Steel is quenched through fire and ice, but my body is a tad more fragile than that.</Source>
+      <Dest>你可能有一个观点。钢材是通过火与冰淬炼的，但我的身体只比它脆弱一点点。</Dest>
+    </String>
+    <String List="2">
+      <Source>These priests may call upon her aid, but the spirit of Mara flows through you like an autumn wind.</Source>
+      <Dest>这些祭司们也许需要她的指引，可玛拉的精神像秋风般浸透你的全身。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, it rains from time to time, but most days it's just an endless parade of petals, rocking gently to sleep.  Like a living lullaby.</Source>
+      <Dest>当然，这里不时就会下雨，但大部分时候只有花瓣顺水漂流，似乎没有尽头，轻摇着直到睡着。就像一首生动的催眠曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I do manage to sleep, I dream it's so cold my teeth are frozen solid, and eventually they just crumble in my mouth.</Source>
+      <Dest>只要我强迫自己入睡，那个梦魇就随之而来：鬼天气冷得简直牙齿都要冻僵，最后甚至一颗一颗在嘴里碎成了粉末。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do. You see, she's a Khajiit, and having her fur pressed against my skin is a great help.</Source>
+      <Dest>这是当然的啦。要知道，她是个虎人，她的毛发压着我皮肤，那可是超赞的体验。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's actually worse when I'm in bed. I'll be lying there with my love, when a chill starts to worm its way beneath my skin.</Source>
+      <Dest>事实上，如果我在床上躺着的话那会更糟。我会与我的恋人一起躺着，然后一阵寒意就会慢慢地沁入我的皮肤中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did she really think this is about the Fall Forest?  We can still enjoy the fall of leaves. There will just be one more person to share it with.</Source>
+      <Dest>她真的认为跟秋林有关吗？我们仍可以享受落叶的美景。不过是多个人来欣赏它罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, it's raining now, but most days it's just an endless parade of petals, rocking gently to sleep.  Like a living lullaby.</Source>
+      <Dest>当然，现在在下雨，但大多数时候只是花瓣缓缓飘落，摇晃着轻声入睡。就像一首生动的摇篮曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but it will also torment my body, and my mind. That is not a healthy environment to raise a child.</Source>
+      <Dest>是的，但这也会是对我肉体与精神的双重折磨。这可不是一个养育孩子的好环境。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most Nords know the cold so well they can see it as plain as the stars, but they can't transfer that feeling into words.</Source>
+      <Dest>大多数的诺德人也知道寒冷，正如他们可以清晰的看见星星，但那种感觉他们无法言喻。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know what happened. We've never fought before. I've always been honest with her about wanting children.</Source>
+      <Dest>我不知道发生了什么。我们从未发生过争执。我总是对她坦言我想要一个孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I figure I can just throw some meat on the ground and they'll fight each other for it. </Source>
+      <Dest>我想我可以往地上扔几块肉，然后他们就会为了争抢而内讧了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand. Maybe after she's had some time to breathe, she'll come down and talk.</Source>
+      <Dest>我懂，在她有时间喘口气之后，她也许就会下来谈一下</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, she says we'd still make for a more appetizing meal! (Laughs)</Source>
+      <Dest>当然，她说我们还是把它们做成更开胃点儿的食物吧！(笑声)</Dest>
+    </String>
+    <String List="2">
+      <Source>I love the Rift.  You don't get any of that icewater you get up north.</Source>
+      <Dest>我爱裂谷城。 如果你选择北上，除了冰水，你不会得到任何东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>I love the Rift.  You don't get any of that icewater you get up north.</Source>
+      <Dest>我爱裂谷城。  如果你选择北上，除了冰水、，你不会得到任何东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suspect it's because to them, that feeling is no different than warmth. So it gets lost in translation.</Source>
+      <Dest>我怀疑这是因为对他们来说，那感觉跟温暖没有什么不同。所以它迷失在那里了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I do manage to sleep, I dream it's so cold my teeth are frozen solid, and eventually, they just crumble in my mouth.</Source>
+      <Dest>如果我睡着了，我会梦到我的牙齿都冻成冰了，而最终，它们不过是在我的嘴里打颤罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe they would have followed us down the aisle, if they saw how beautiful a simple ceremony could be.</Source>
+      <Dest>如果他们看到这样简简单单的典礼也能如此美丽，也许他们会跟随我们来到这侧廊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish I knew. Every night I go to bed, a chill starts to worm its way beneath my skin.</Source>
+      <Dest>我希望我能知道。每天晚上我睡觉的时候，寒冷就如一个孩子在我怀里乱窜，让我颤抖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell to you, good traveler. May all your roads lead to warm sands.</Source>
+      <Dest>再会，好心的旅行者。愿你的道路引领你走向温暖的沙子。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am sure she will be ecstatic.</Source>
+      <Dest>我确信她会欣喜若狂的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am sure she will be ecstatic.</Source>
+      <Dest>我确信她会欣喜若狂的。</Dest>
+    </String>
+    <String List="0">
+      <Source>She's probably figured it out already. Why else would you visit this cesspool?</Source>
+      <Dest>她很可能已经搞明白了，你又何必来到这个污秽之地呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>She's probably figured it out already. Why else would you visit this cesspool?</Source>
+      <Dest>她很可能已经搞明白了，你又何必来到这个污秽之地呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You surprise your love with new earrings, not a child. That you talk about.</Source>
+      <Dest>你该用一对新耳环而不是一个孩子让你的爱人感到惊喜。这才是你该说的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is your wife now?</Source>
+      <Dest>你的妻子现在在哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is your wife now?</Source>
+      <Dest>你的妻子现在在哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is your wife now?</Source>
+      <Dest>你的妻子现在在哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Adoption is noble, but there's no substitute for having children of your own.</Source>
+      <Dest>领养是好事，但没法代替自己生个孩子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Adoption is noble, but there's no substitute for having children of your own.</Source>
+      <Dest>领养是好事，但没法代替自己生个孩子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Adoption is noble, but there's no substitute for having children of your own.</Source>
+      <Dest>领养是好事，但没法代替自己生个孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>We will let this light guide us, from cold snow to warm sands, for not even death can extinguish its flame.  </Source>
+      <Dest>就让这盏灯指引我们的路，从寒冷的雪地到温暖的沙滩，就连死亡也无法扑灭它的火焰。</Dest>
+    </String>
+    <String List="2">
+      <Source>I appreciate your concern, but it's not as if we haven't talked about it. She knows how I feel about children, and we can't have them on our own.</Source>
+      <Dest>感谢你的关心，我们并非没有谈起过这件事。她明白我对孩子的看法，我们现在还没有能力去要孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>My Inari, my darling, my muse....</Source>
+      <Dest>我的伊纳里，我的爱人，我的女神....</Dest>
+    </String>
+    <String List="2">
+      <Source>My love, I...</Source>
+      <Dest>吾爱，我...</Dest>
+    </String>
+    <String List="2">
+      <Source>They say one man's junk is another man's treasure. You have a special talent, my friend, to find ugliness amidst all this beauty.</Source>
+      <Dest>人们常说一个人的垃圾可能就是另一个人的珍宝。你有一项特殊的天赋，朋友，在这些美好事物之中寻找瑕疵。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't understand.  I saved you that day.  The apothecary said you made a full recovery, and you are as stunning today as the day we met.</Source>
+      <Dest>我不明白。我那天救下你。药剂师也说你完全恢复了，但你现在跟那天一样摇摇晃晃的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that what this is about? You don't understand, Inari.  My parents never married. </Source>
+      <Dest>这究竟是什么？你是不会理解的， 伊纳里。我的父母一直都没有结婚。</Dest>
+    </String>
+    <String List="2">
+      <Source>My dear, you are mistaken. Words are eternal. And I will prove it to you, when I speak them at the temple.</Source>
+      <Dest>亲爱的，你误解了。言语是永恒的，待到我在神殿中说出它们的时候，你就会明白了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyone who says that has never laid eyes upon you.</Source>
+      <Dest>有人说他从没见过你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为在任何一份地图上都没有标出那儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>My apologies, priest.  I do.  Now and forever.</Source>
+      <Dest>我很抱歉，祭司。我愿意。从现在到永远。 </Dest>
+    </String>
+    <String List="2">
+      <Source>My apologies, priest.  I do.  Now and forever.</Source>
+      <Dest>我很抱歉，祭司。我愿意。从现在到永远。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, except for the fact that he was happily married.</Source>
+      <Dest>是的，除了他快快乐乐地结了婚这个事实。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) You could be right. But they loved each other deeply. And that's what I wanted for us.</Source>
+      <Dest>(笑声) 也许你是对的。但是他们深深爱着彼此。这也是我所最羡慕的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My dear, I thought you'd be happy! You always said you wanted children.</Source>
+      <Dest>亲爱的，我想你会很高兴的！你一直说你想要个孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) My dear, I apologize. I wander because I know our love ties us together. There is no need for earthly bonds.</Source>
+      <Dest>(笑声) 亲爱的，我道歉，我并不知道，因为爱把我们捆绑在一起。让俗世的债券一边去吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I haven't told her the real reason we're here is to adopt a child. That part is a surprise. </Source>
+      <Dest>我还没告诉她我们在这里的真正原因是为了收养一个孩子。这是给她的一个惊喜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, my love. I don't know what illness you think you have, but if your time is truly short, then I want to spend it as man and wife.</Source>
+      <Dest>当然，亲爱的。我不知道你认为自己得了什么病，但如果你的时间真的很少了，那我希望和你以夫妻的名义共同度过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your whiskers will never fall, my love, and my hair has long started to gray.</Source>
+      <Dest>你将永生不老,亲爱的，而我的发却早已开始斑白。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for helping my love...I mean my wife, learn to live again.</Source>
+      <Dest>谢谢你帮助了我亲爱的……我是说我的妻子，让她得以重新学会生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I apologize. The floorboards here are thin. But no matter. Are you really dying?</Source>
+      <Dest>是的，我道歉。这儿的地板是挺薄。不过没关系了。你准备好死了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Our love began that day in the temple as a single candle. And as the seasons passed, it has only burned brighter. </Source>
+      <Dest>那一天，我等之情如一只红烛般在神庙中燃起光亮；然随时光流转，其光亮历久弥盛。</Dest>
+    </String>
+    <String List="2">
+      <Source>They said true love requires no title, trinkets or ceremony to hold it together.  It just is.</Source>
+      <Dest>人们说真爱是不需要用身份、首饰和仪式来约束的。爱就是爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>She wanted to take a wagon, but I insisted we walk. I told her we're here see the Fall Forest, so it made no sense not to.</Source>
+      <Dest>她想要去做马车，但是我坚持要步行。我告诉她我们到这儿来是为了看森林的，马车让这趟旅行没有意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>My wife is practical, but she is not finicky. Even she can appreciate this diorama of living art.</Source>
+      <Dest>我的妻子是个务实的人，但她并不吹毛求疵。连她也懂得欣赏这种生活艺术的缩影</Dest>
+    </String>
+    <String List="2">
+      <Source>I know. I've been having trouble keeping it a secret, as we typically tell each other everything. Secrets are unhealthy in a relationship.</Source>
+      <Dest>我明白的。既然我们几乎无话不谈，那如果我把这当做秘密的话那就是件麻烦事了。夫妻之间不能敞开心扉可不是件好事啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Then let us hurry to Riften, my dear, before the next one arrives.</Source>
+      <Dest>(笑声) 那么，亲爱的，在下一个抵达之前，我们还是快去裂谷城吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>My love, is this true? </Source>
+      <Dest>亲爱的，这是真的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>However, while Mara blessed us with true love, in her wisdom she made it impossible for Khajiit and Nord to sire children.</Source>
+      <Dest>无论如何，玛拉赐予我们真爱的时候，以她的智慧之名，她不可能能让虎人和诺德生孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>If we could, I imagine there would be a litter of kittens stumbling on after us.</Source>
+      <Dest>如果我们可以的话,我能想象得到在我们会有一窝生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他被迫而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>She scampered off to Shor's Stone to ask for directions. I assured her we need only follow the road, but she wants to be sure.</Source>
+      <Dest>她跑到舒尔之石问路。我向她保证我们只需要跟着道路走就好了，可她想去确认一下。</Dest>
+    </String>
+  <String List="2">
+      <Source>But the lie I weave is pure white, and a labor of love. It will be all the more sweeter when the truth is revealed.</Source>
+      <Dest>但我编织的不过是充满爱意的谎言。而当事实暴露出来时，那将会是无比的甜蜜。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right. I thought she would be overwhelmed with joy. Maybe she told me how she really felt, and I couldn't see the forest for the trees.</Source>
+      <Dest>你是对的。我想她大概会以为是玩笑而受打击。也许她告诉了我她真正的感受，但我并没有察觉到。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

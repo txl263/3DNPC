@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Is your research necessary? Spells and potions heal all ailments.</Source>
+      <Dest>你的研究需要帮助吗？法术和药品治愈所有的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your research necessary? Spells and potions heal all ailments.</Source>
+      <Dest>你的研究需要帮助吗？法术和药品治愈所有的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your research necessary? Spells and potions heal all ailments.</Source>
+      <Dest>你的研究需要帮助吗？法术和药品治愈所有的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is your research necessary? Spells and potions heal all ailments.</Source>
+      <Dest>你的研究需要帮助吗？法术和药品治愈所有的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Leave the research to the college mages.  These dead have rights.</Source>
+      <Dest>把研究留给那些该死的法师们吧，那是他们的工作。</Dest>
+    </String>
+    <String List="0">
+      <Source>Leave the research to the college mages.  These dead have rights.</Source>
+      <Dest>把研究留给那些该死的法师们吧，那是他们的工作。</Dest>
+    </String>
+    <String List="0">
+      <Source>Leave the research to the college mages.  These dead have rights.</Source>
+      <Dest>把研究留给那些该死的法师们吧，那是他们的工作。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not stay with Helgird then?</Source>
+      <Dest>那为什么不和海尔吉德呆在一起 ?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not stay with Helgird then?</Source>
+      <Dest>那为什么不和海尔吉德呆在一起 ?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not stay with Helgird then?</Source>
+      <Dest>那为什么不和海尔吉德呆在一起 ?</Dest>
+    </String>
+    <String List="0">
+      <Source>How dare they object. Stupid animals. Stupid, delicious animals.</Source>
+      <Dest>他们怎敢反对。愚蠢的动物。美味而愚蠢的动物。</Dest>
+    </String>
+    <String List="0">
+      <Source>How dare they object. Stupid animals. Stupid, delicious animals.</Source>
+      <Dest>他们怎敢反对。愚蠢的动物。美味而愚蠢的动物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your jokes are bad.  You should feel bad for making them.</Source>
+      <Dest>你的笑话真矬。你该为此而羞愧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your jokes are bad.  You should feel bad for making them.</Source>
+      <Dest>你的笑话真矬。你该为此而羞愧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your jokes are bad.  You should feel bad for making them.</Source>
+      <Dest>你的笑话真矬。你该为此而羞愧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your jokes are bad.  You should feel bad for making them.</Source>
+      <Dest>你的笑话真矬。你该为此而羞愧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your research will only embolden magic users.  Like the Thalmor.</Source>
+      <Dest>你的研究只会给像梭默那样的魔法使用者们壮胆。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a reasonable deduction.</Source>
+      <Dest>听起来是个合理的推论。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a reasonable deduction.</Source>
+      <Dest>听起来是个合理的推论。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a reasonable deduction.</Source>
+      <Dest>听起来是个合理的推论。</Dest>
+    </String>
+    <String List="0">
+      <Source>Has your research bore any fruit?</Source>
+      <Dest>你的研究有成果了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has your research bore any fruit?</Source>
+      <Dest>你的研究有成果了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has your research bore any fruit?</Source>
+      <Dest>你的研究有成果了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has your research bore any fruit?</Source>
+      <Dest>你的研究有成果了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I can imagine it would be for a priestess.</Source>
+      <Dest>我可以想象她将成为一名女祭司。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can imagine it would be for a priestess.</Source>
+      <Dest>我可以想象她将成为一名女祭司。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just try not to make a mess when you bleed all over the place.</Source>
+      <Dest>只是一会等你鲜血狂飚的时候别弄脏了屋子就行。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just try not to make a mess when you bleed all over the place.</Source>
+      <Dest>只是一会等你鲜血狂飚的时候别弄脏了屋子就行。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just try not to make a mess when you bleed all over the place.</Source>
+      <Dest>只是一会等你鲜血狂飚的时候别弄脏了屋子就行。</Dest>
+    </String>
+    <String List="0">
+      <Source>Huh? Sorry, the paint was drying over there and it drew my attention.</Source>
+      <Dest>呃? 对不起,那边的油漆干燥,它吸引了我的注意.</Dest>
+    </String>
+    <String List="0">
+      <Source>Huh? Sorry, the paint was drying over there and it drew my attention.</Source>
+      <Dest>呃? 对不起,那边的油漆干燥,它吸引了我的注意.</Dest>
+    </String>
+    <String List="0">
+      <Source>Huh? Sorry, the paint was drying over there and it drew my attention.</Source>
+      <Dest>呃? 对不起,那边的油漆干燥,它吸引了我的注意.</Dest>
+    </String>
+    <String List="0">
+      <Source>Kynareth truly is the goddess of pain.</Source>
+      <Dest>凯娜瑞斯真的是痛苦之神。</Dest>
+    </String>
+    <String List="0">
+      <Source>That can't be true. What evidence do you have to suggest such a claim?</Source>
+      <Dest>这不可能，你有什么证据可以支持这种说法吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>That can't be true. What evidence do you have to suggest such a claim?</Source>
+      <Dest>这不可能，你有什么证据可以支持这种说法吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>That can't be true. What evidence do you have to suggest such a claim?</Source>
+      <Dest>这不可能，你有什么证据可以支持这种说法吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>A person can't know real pain until they converse with you.</Source>
+      <Dest>在那些痛苦降临到你身上之前，你是不会知道何为真正的痛苦的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What type of research would you classify yourself as?</Source>
+      <Dest>你将你的研究定义成哪种类型？</Dest>
+    </String>
+    <String List="0">
+      <Source>What type of research would you classify yourself as?</Source>
+      <Dest>你将你的研究定义成哪种类型？</Dest>
+    </String>
+    <String List="0">
+      <Source>What type of research would you classify yourself as?</Source>
+      <Dest>你将你的研究定义成哪种类型？</Dest>
+    </String>
+    <String List="0">
+      <Source>What type of research would you classify yourself as?</Source>
+      <Dest>你将你的研究定义成哪种类型？</Dest>
+    </String>
+    <String List="0">
+      <Source>What type of research would you classify yourself as?</Source>
+      <Dest>你将你的研究定义成哪种类型？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why focus on corpses as opposed to healing the wounded?</Source>
+      <Dest>为什么把重点放在尸体上而不是放在治疗伤患上？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why focus on corpses as opposed to healing the wounded?</Source>
+      <Dest>为什么把重点放在尸体上而不是放在治疗伤患上？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why focus on corpses as opposed to healing the wounded?</Source>
+      <Dest>为什么把重点放在尸体上而不是放在治疗伤患上？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why focus on corpses as opposed to healing the wounded?</Source>
+      <Dest>为什么把重点放在尸体上而不是放在治疗伤患上？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is a priest of Kynareth studying death?</Source>
+      <Dest>凯娜瑞斯的祭司怎么会来研究死亡？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is a priest of Kynareth studying death?</Source>
+      <Dest>凯娜瑞斯的祭司怎么会来研究死亡？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are they any consequences to the type of research you do?</Source>
+      <Dest>这是你研究的成果吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are they any consequences to the type of research you do?</Source>
+      <Dest>这是你研究的成果吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are they any consequences to the type of research you do?</Source>
+      <Dest>这是你研究的成果吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize, I am of poor wit and you have confused me. Why study corpses?</Source>
+      <Dest>我道歉，我不怎么聪明，你都把我搞糊涂了。为什么要研究尸体啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize, I am of poor wit and you have confused me. Why study corpses?</Source>
+      <Dest>我道歉，我不怎么聪明，你都把我搞糊涂了。为什么要研究尸体啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, this presented a new dilemma.  Contrary to what Anoriath would have you believe, trapping wild animals is rather difficult.</Source>
+      <Dest>不幸的是,这造成一个新的麻烦.跟阿诺利亚斯向您保证的相反,抓一只野兽真的不容易.</Dest>
+    </String>
+    <String List="2">
+      <Source>If the spell had succeeded, I would then compare the results to a traditional healing spell, as well as the amount of magicka required to cast it.</Source>
+      <Dest>如果这个咒语成功了，我就要把它和传统的治愈系法术做个全方位的比较，包括施放时所消耗的法力。</Dest>
+    </String>
+    <String List="2">
+      <Source>An elderly man, he consumed water from dawn until dusk, his stomach bloated like a gourd.</Source>
+      <Dest>一个老头子，他喝水从早喝到晚，把的肚子撑得像个葫芦。</Dest>
+    </String>
+    <String List="2">
+      <Source>An elderly man, he consumed water from dawn until dusk, his stomach bloated like a gourd.</Source>
+      <Dest>一个老头子，他喝水从早喝到晚，把的肚子撑得像个葫芦。</Dest>
+    </String>
+    <String List="2">
+      <Source>And sometimes it acts in neither's best interests.  But what fun would that be if it didn't.</Source>
+      <Dest>有时它不是最佳利益的行为。但如果没有了它，那还有什么意思呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>If a mage or spellsword can further extend the time before a wound becomes fatal, it may allow them to return to a city and seek the aid of a priest.</Source>
+      <Dest>如果有任何一個法師或魔劍士能夠在傷口惡化之前幫他們一把，或許他們就能夠回到城中尋求祭司的幫助。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, for a novice mage or spellsword, the amount saved on magicka potions alone could be substantial.</Source>
+      <Dest>然而，对于新手法师或魔剑士，法力药剂要悠着点用。</Dest>
+    </String>
+    <String List="2">
+      <Source>If my research is used for war, I am not to blame, even if I may be responsible.  It is a responsibility I take gladly.</Source>
+      <Dest>如果我的研究被用于战争，也怪不到我头上，就算我是有责任的。那责任也算是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that how you see me?  Like some churlish tavern girl spilling her blood like a toppled flagon?  How dare you.</Source>
+      <Dest>你就是那样看我的吗？某些不懂事的酒馆女仆会飚血飚得像打翻的酒壶一样。你敢吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a story, in fact, of a man who drank from a fountain that was rumored to restore youth.  </Source>
+      <Dest>事实上，这是个故事。一个男人喝了一口泉水，然后他恢复了青春。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a story, in fact, of a man who drank from a fountain that was rumored to restore youth.  </Source>
+      <Dest>事实上，这是个故事。一个男人喝了一口泉水，然后他恢复了青春。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, the corpses here are not the only specimens worth study.  There is also the men.</Source>
+      <Dest>当然，这儿的这些尸体不仅是值得研究的标本。There is also the men.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's as if they don't understand the concept of research.  Another jest.</Source>
+      <Dest>这就好像它们根本无法理解探索的理念。[另一个玩笑]。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, then you will enjoy some of Whiterun's other slow and unchanging features.  Wood decaying, leaves rustling, and Heimskr.</Source>
+      <Dest>哦，然后你将享受一些雪漫城温和而永恒不变的景象了。草木荣枯，叶影婆娑，还有喋喋不休的海姆斯科。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust that the nature of mortals is inherently good.  For if we as mortals are corrupt, then it makes little difference what one person does.</Source>
+      <Dest>我相信人性本善。倘若我们作为凡人堕落了，那会和别人所做有所不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>True. Both healing spells and potions restore the body as a whole.  Yet most of this energy seems wasted in the process.</Source>
+      <Dest>是的。不管是治疗术还是药水都能恢复身体机能。可在这个过程中大多数能量都被浪费了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If healed immediately, a slit throat may not be fatal.  Conversely, over time a slit wrist may bleed out and result in death.</Source>
+      <Dest>如果只划了一下就马上就结束，割喉可能不会致命。相反的，随着时间的推移，割腕也许会流干鲜血，致人死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>The noises they made were such that I had to abandon my testing.  Fortunately I have found a suitable replacement.  Me.</Source>
+      <Dest>他们鼓捣出的噪音搞得我心烦意乱，只得终止实验。幸运的是我找到了一个合适的替代品。我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>And they said boorishness was dead.</Source>
+      <Dest>然后他们说那农民挂掉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The tale I spun is important in understanding how death works. I have found that just as poison is in the dose, so are wounds connected to time.</Source>
+      <Dest>我杜撰的这个故事要点在于死亡是如何降临的。我已经发现就如毒药在其中起的作用，伤口也会随着时间而导致死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, through diligence and practice, I have become quite adept at inflicting injury upon myself without incurring spills.</Source>
+      <Dest>然而，通过长久的努力和练习，我已经很擅长各种自残不溅血了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My research follows no banner.  It serves the will of the Gods, and the protection of all who worship them.</Source>
+      <Dest>我的研究没有循着什么标志。它服务于众神的意志，并会保护所有尊崇他们的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our demise is inevitable with or without my research.  Hopefully with.  That was...well, you know what it was.</Source>
+      <Dest>不管我的研究有没有成果，咱们都算是死定了。。 也许这么着还有点儿戏。。。额，你懂的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>There are three types of research. The first is the kind done purely for knowledge. The college mages fall into this category.</Source>
+      <Dest>有三种研究的类型。首先是纯纯粹粹的钻研知识。魔法学院就属于这一类型。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sun had not yet set when the man collapsed and died.  He had succumbed to water poisoning.  For him, water was the source of all death.</Source>
+      <Dest>当那个男人衰弱至死时，太阳还未升起。他已经放弃了抵抗水中的剧毒，对他而言，水是带来死亡的根源。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sun had not yet set when the man collapsed and died.  He had succumbed to water poisoning.  For him, water was the source of all death.</Source>
+      <Dest>当那个男人衰弱至死时，太阳还未升起。他已经放弃了抵抗水中的剧毒，对他而言，水是带来死亡的根源。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you prefer me to be more succinct, I was referring to how poison is a product of dosage.  The same is true for wounds and time.</Source>
+      <Dest>如果你要我简单说的话，就是毒药无非就是剂量的产物。精神的创伤是时间的产物，和前者同理。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet you are not laughing.  That is not acceptable.</Source>
+      <Dest>现在你笑不出来了吧。这可不是闹着玩的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it would be nice if they could volunteer. Not to be eaten, of course.  I suspect that would make it more difficult to eat them.</Source>
+      <Dest>是啊，如果他们自愿的话再好不过。当然了，别被吃掉。不过我怀疑吃掉他们也许更困难。</Dest>
+    </String>
+    <String List="2">
+      <Source>The second is driven by agenda. The most common of which are money and war. Mostly money, but war is a close second.</Source>
+      <Dest>第二件事已随着议程进行开始了。世间最普遍的事物就是金钱和战争。主要是钱，但是战争几乎和钱同等。</Dest>
+    </String>
+    <String List="2">
+      <Source>This can vary depending on the substance.  For instance, the toxicity of nightshade is far higher than that of a jazbay grape.</Source>
+      <Dest>这可能取决于不同的材料。比如说，夜茄的毒性远远高于架子湾葡萄。</Dest>
+    </String>
+    <String List="2">
+      <Source>The point is to cope with grief.  To mock the inevitability of death, even as we attempt to escape it.</Source>
+      <Dest>关键在于认同慈悲。蔑视死亡的不可避免性，尤其是那种挣脱它的企图。</Dest>
+    </String>
+    <String List="2">
+      <Source>It allows me to conduct my research while still upholding my duties as a priestess. </Source>
+      <Dest>它让我在进行我的研究的同时仍然能坚持我作为一个女祭司的职责。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two reasons. The proximity of the Temple of Kynareth, as well as the ample supply of bodies. </Source>
+      <Dest>两个原因。其一，这里距离凯娜瑞斯神庙很近，还有就是口舌之欲。 </Dest>
+    </String>
+    <String List="2">
+      <Source>My work began on small animals.  I would make cuts in multiple locations and attempt to heal only one of the incisions.</Source>
+      <Dest>我从小动物开始尝试。我会在它们身上划出各种不同的伤口，试着只治愈其中一条。</Dest>
+    </String>
+    <String List="2">
+      <Source>It may.  Or it may inspire more Nords to utilize magic.  It may lead to similar research in more efficient health potions, or drive down their price.</Source>
+      <Dest>也许它会。或者它也能鼓励诺德人去使用法术。它也许还能促进人们研发更有效率的药水，或者削减药水的价格。</Dest>
+    </String>
+    <String List="2">
+      <Source>All things, when consumed in enough quantity, can kill.  </Source>
+      <Dest>只要服下足了够剂量，任何东西都能致命。</Dest>
+    </String>
+    <String List="2">
+      <Source>A jazbay grape, on the other hand, can leave one susceptible to destruction magic.</Source>
+      <Dest>架子湾葡萄，另一方面，能让人更容易施展毁灭魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>I never implied that my work was solely on the dead.  I have also spent much of my time trying to find a way to focus my healing spells.</Source>
+      <Dest>我从来没有暗示我的工作仅仅依靠于死亡。我也花了我很多时间，试图找到一种方式来集中我的治疗法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I jest.  You are right.  I do admit the first few attempts were rather messy. </Source>
+      <Dest>不，我开了个玩笑。你是对的。我承认最开始的那些尝试都很糟糕。</Dest>
+    </String>
+    <String List="0">
+      <Source>It is admirable that you volunteer your body in the interest of all people.</Source>
+      <Dest>我很佩服你为了所有人的利益牺牲自己.</Dest>
+    </String>
+    <String List="0">
+      <Source>It is admirable that you volunteer your body in the interest of all people.</Source>
+      <Dest>我很佩服你为了所有人的利益牺牲自己.</Dest>
+    </String>
+    <String List="0">
+      <Source>It is admirable that you volunteer your body in the interest of all people.</Source>
+      <Dest>我很佩服你为了所有人的利益牺牲自己.</Dest>
+    </String>
+    <String List="0">
+      <Source>It is admirable that you volunteer your body in the interest of all people.</Source>
+      <Dest>我很佩服你为了所有人的利益牺牲自己.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cutting yourself is easy. Try breaking bones.</Source>
+      <Dest>切割自己很容易。试试搞断你的骨头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Cutting yourself is easy. Try breaking bones.</Source>
+      <Dest>切割自己很容易。试试搞断你的骨头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Unfortunate, but the ends justify the means.</Source>
+      <Dest>这是不幸的，但是两端都不择手段.</Dest>
+    </String>
+    <String List="0">
+      <Source>Unfortunate, but the ends justify the means.</Source>
+      <Dest>这是不幸的，但是两端都不择手段.</Dest>
+    </String>
+    <String List="0">
+      <Source>A jest? But corpses smell wonderful.</Source>
+      <Dest>一个玩笑？但是尸体闻起来棒极了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A jest? But corpses smell wonderful.</Source>
+      <Dest>一个玩笑？但是尸体闻起来棒极了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A jest? But corpses smell wonderful.</Source>
+      <Dest>一个玩笑？但是尸体闻起来棒极了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go on.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go on.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go on.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go on.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good one.</Source>
+      <Dest>好的那个.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good one.</Source>
+      <Dest>好的那个.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good one.</Source>
+      <Dest>好的那个.</Dest>
+    </String>
+    <String List="0">
+      <Source>Another joke, I take it.</Source>
+      <Dest>又一个笑话，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Another joke, I take it.</Source>
+      <Dest>又一个笑话，我知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>What can a corpse tell you that you don't already know?</Source>
+      <Dest>尸体能告诉你什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What can a corpse tell you that you don't already know?</Source>
+      <Dest>尸体能告诉你什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What can a corpse tell you that you don't already know?</Source>
+      <Dest>尸体能告诉你什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What can a corpse tell you that you don't already know?</Source>
+      <Dest>尸体能告诉你什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What can a corpse tell you that you don't already know?</Source>
+      <Dest>尸体能告诉你什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynareth.</Source>
+      <Dest>告诉我更多有关于凯娜瑞斯的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynareth.</Source>
+      <Dest>告诉我更多有关于凯娜瑞斯的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynareth.</Source>
+      <Dest>告诉我更多有关于凯娜瑞斯的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynareth.</Source>
+      <Dest>告诉我更多有关于凯娜瑞斯的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your research may be more appreciated in Elven lands.</Source>
+      <Dest>你的研究如果放在精灵国度一定很受欢迎。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you become a priestess?</Source>
+      <Dest>你怎么成了一个女祭司？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you become a priestess?</Source>
+      <Dest>你怎么成了一个女祭司？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you become a priestess?</Source>
+      <Dest>你怎么成了一个女祭司？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you become a priestess?</Source>
+      <Dest>你怎么成了一个女祭司？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>So that's what that was.  Good to know it was just old fashioned animal torture.</Source>
+      <Dest>反正已经是那样了。值得庆幸的是那些刑罚都是老式的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It will be a great coup if such a discovery were made by a Nord.</Source>
+      <Dest>这事儿要是被诺德人先发现的话又要掀起轩然大波了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You cut yourself?</Source>
+      <Dest>你把自己割伤了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Similarly, as poison is in the dose, the mortality of a wound is bound to time.  A simple cut, if allowed to fester, can be fatal.</Source>
+      <Dest>通常来说,如果毒药剂量合适的话, 伤口引起的死亡一定会如期发生.一个普通的切口,如果引起溃烂,将会是致命的.</Dest>
+    </String>
+    <String List="2">
+      <Source>A courier was found dead on the road west toward Rorikstead.  On him was a letter.  He didn't say who from.</Source>
+      <Dest>那个信差死在了洛利克镇西边的路上。尸体旁边还有一封信，不知道是谁寄的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That man sacrifices his very family for love.  Such an impressive specimen that one is.  But I've said too much.</Source>
+      <Dest>那个男人为爱牺牲的正是他的家人。这是一个如此令人印象深刻的实例。但我说的太多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Guards have been telling travelers to watch the skies.  In the past 2 weeks, 2 separate adventures have been felled by mudcrabs.</Source>
+      <Dest>守卫常告诉旅行者看着点天。而过去的两周里有两个不同的冒险者被泥沼蟹放倒了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twice.  But only to heal myself afterward.  The problem is that so far, only one spell has been required to mend both wounds.</Source>
+      <Dest>我又受伤了。但只能在之后医治我自己了。问题是，到目前为止，我只有一个法术可以来用来修复这两处伤口。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think I will start with minor cuts and abrasions.  Less chance of an accident.  You understand.  </Source>
+      <Dest>我想我会从轻微的擦伤和割伤下手，以减少发生意外的可能性。你懂的。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>While some areas are more tolerant than others, preventing death is simply a matter of restoring a wound within a set window of time.</Source>
+      <Dest>然而某些地方的人比其他人更加容易存活,防止死亡是件很简单的事。只要在一定的时间内恢复伤口就行了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a small sacrifice.  Although I must say, I do enjoy praise from such a well endowed specimen.</Source>
+      <Dest>小小的牺牲而已。我必须承认，来自这样一个天赋异禀的人的赞美让我很开心。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many, Andurs included, feel one cannot jest about things that are grave.  Or in them.</Source>
+      <Dest>很多人，包括安都尔斯，都觉得不该把玩笑开在庄重的场合。或者坟墓里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope either you or the mental diseases you suffer from are not serious.  </Source>
+      <Dest>我希望你和你得的那种精神病还有的救。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I marveled at these strange visitors from faraway lands, and the priestess whose touch could bind cuts, soften bruises, and solder bones.</Source>
+      <Dest>我惊叹于这些来自远方的陌生造访者，而这个女祭司可以只要轻轻一碰就能愈合伤口，减轻瘀伤，连接断骨。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when her sadness is gentle, her tears will replenish, and when her sorrow is deep the valleys will flood.  </Source>
+      <Dest>当她的悲伤是温柔的，她的泪会成为人们用水的供给，而当她的悲伤是强烈的，山洪便爆发了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Bard was attacked on the road simultaneously by an angry bear and a hive of bees.  It seems they knew all about him and his honeyed words.</Source>
+      <Dest>一个吟游诗人在路上被一只狗熊和一群蜜蜂同时袭击了。看起来好像它们都认识那家伙和他那张比蜜还甜的嘴……</Dest>
+    </String>
+    <String List="2">
+      <Source>This can only be discovered by dissecting the bodies and looking for patterns.</Source>
+      <Dest>看来只能通过解剖这具尸体来找图案了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some may think we are burying their relatives prematurely.  As a result, I was forced to conduct my experiments on a less vocal subject.  Myself.</Source>
+      <Dest>有些人或许会认为我们过早地埋葬了他们的亲人。因而，我不得不在一个更为沉默的对象上继续实验，那个对象就是，我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but it can be quite discomforting for most to hear such screams coming from the Hall of the Dead.</Source>
+      <Dest>是啊，不过对大部分人来说听到亡者之厅传来这种尖叫都会感到不舒服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, a fresh corpse.  This will make for an excellent specimen.</Source>
+      <Dest>啊，一具新鲜的尸体。这会成为一个优秀标本的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before you ask, no, it wasn't Nazeem.</Source>
+      <Dest>在你开口询问之前，等一下，不对，那不是纳奇姆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another jest, perhaps.  Or not.</Source>
+      <Dest>也是是另一个玩笑。也许不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mock me, but I derived no pleasure from the experiments.  Nor do I take any joy from hurting myself.  But I feel I am too close to stop now.</Source>
+      <Dest>你嘲笑我,但我并没有从这些实验中获得任何乐趣。弄伤了自己我也压根儿就没感到高兴。但我觉得我已接近终点，不可在此止步了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have always had a soft spot for sailors and travelers, for whom Kynareth is the matron.</Source>
+      <Dest>我一直对水手和旅行者抱有好感，因为凯娜瑞斯是他们的负责人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not interested in the politics of race, although I will welcome any fame or glory that comes with it.</Source>
+      <Dest>我对有关种族的政治不感兴趣，尽管我将对其附带而来的任何名利和荣誉表示欢迎。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>A summoner attempted to conjure up one of the guards a warm bed.  They both burned to death.</Source>
+      <Dest>一个召唤者试图给一个守卫召唤一个温暖的床。最后他们都烧死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>An archer in The Bannered Mare mocked Uthgerd's figure.  She proceeded to pummel him to death.  Sense was not an arrow he had in his quiver.</Source>
+      <Dest>一个在母马横幅的弓箭手嘲讽着乌斯盖德的体形 。她把他往死里打。那货毫无还手之力。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is further proof that efficient use of magicka and restoration energy is crucial in the field.</Source>
+      <Dest>这进一步证明了有效率地利用法力与回复能量才是干这一行的关键。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was pain that brought these men to the temple first, and the tavern second.</Source>
+      <Dest>疼痛使人们首先前往神庙，其次是酒馆。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the rain itself is her tears, as she mourns the death of her husband Lorkhan, the God who created the mortal world.</Source>
+      <Dest>他们说这雨便是她的眼泪，是她对她丈夫洛克汗之死的哀悼，就是那创造凡人世界的造物主.</Dest>
+    </String>
+    <String List="2">
+      <Source>A large percentage of deaths happen because there is simply not enough time to find a healer.</Source>
+      <Dest>大部分人的死亡是因为根本没有足够的时间找到一个医师救治。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Trolls savagely beat a man near Chillfurrow Farm.  He died, but not before they managed to gnaw off his face.  </Source>
+      <Dest>巨魔群野蛮地杀死了寒犁农场附近的一个人。但是在巨魔试图咬掉他的脸之前，他就死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The smart ones, anyway. The others came too, when the ale failed to cure them.</Source>
+      <Dest>【是那些聪明人】，反正。其他人也来了，就在他们发现麦酒对他们的伤不管用之后。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine that would be quite a sight. A priestess of Kynareth leaping off the roof of Dragonsreach, all in the name of research.</Source>
+      <Dest>我能想象那个神奇的场面。堂堂龙霄宫里只见一位凯娜瑞斯女祭司从天而降，说自己是来搞研究的。</Dest>
+    </String>
+    <String List="2">
+      <Source>They would often visit the temples to pay homage and tend to their wounds.</Source>
+      <Dest>他们应该经常到神庙来参拜，就算为了他们受的伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Without pain there is no urgency, and time makes even the slightest of wounds mortal.</Source>
+      <Dest>没有痛苦就没有紧迫感，时间可无孔不入，凡人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can then compare the results with healthy bodies that died from more obvious wounds.</Source>
+      <Dest>之后你就可以和受致命外伤的正常人体进行比较。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Goddess of the heavens, the winds, the elements, and the unseen spirits.  </Source>
+      <Dest>她是青空与风之女神，诸元素及不可视众灵之主。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>I have no doubt it would.  But I do not lack support.  And Skyrim has no shortage of test subjects. </Source>
+      <Dest>毫无疑问它会。但我并不缺少支持者。而在天际省我能找到足够的实验对象。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a small sacrifice.  I can hardly call it one.  Now if you wish to see real sacrifice, talk to Jon Battle-Born.</Source>
+      <Dest>我只能说，这只是一个小小的牺牲。如果你想看看什么是真的牺牲的话，就去和乔·战狂聊聊吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember that, the next time you defy her will.  That was a threat.  The playful kind.</Source>
+      <Dest>你下次想要违背她的旨意的时候，记住这个。这是个威胁，开玩笑的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which reminds me of Helgird.  When I trained under the Arkay priestess in Windhelm, there were many who accused her of madness.</Source>
+      <Dest>这让我想起了海吉尔德。等我再风舵城的阿尔凯女祭司那里做学徒的时候，那儿有很多人说她是个疯子。</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strange, I was about to say the same of you.</Source>
+      <Dest>奇怪，我想说的和你一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can and I will. But as far as I know, the burdens of the dead are not things that can be sold.</Source>
+      <Dest>我愿意。但据我所知, 死者包袱里的东西没什么能卖的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

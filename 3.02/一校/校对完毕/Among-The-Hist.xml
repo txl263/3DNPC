@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What happened in the den?</Source>
+      <Dest>洞穴中发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's no guarantee the cure would work.  Monsters must die.</Source>
+      <Dest>不能保证解药一定有效。不过怪物必须死。</Dest>
+    </String>
+    <String List="0">
+      <Source>Praying to Arkay is natural. The girl's safety was paramount.</Source>
+      <Dest>向阿凯祈祷很自然，女孩的安全至关重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You asked about the point of war. What war do you fight?</Source>
+      <Dest>你正好问在了点子上——你究竟是为谁而战？</Dest>
+    </String>
+    <String List="0">
+      <Source>So that lazy excuse for a God turned a blind eye to your pleas.  Typical.</Source>
+      <Dest>不出我所料。上帝无视你的请求，只是个懒惰的借口。 </Dest>
+    </String>
+    <String List="0">
+      <Source>They suffer from 4 diseases if you count vampirism.</Source>
+      <Dest>如果把吸血鬼病也给算进去的话，他们一共患了四种病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. Didn't want to think you were getting soft on these bloodsuckers.</Source>
+      <Dest>很好。我不希望看到你变得对这些吸血鬼心软了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>Fighting vampires isn't a war.  It's more like a skirmish.</Source>
+      <Dest>与吸血鬼作战算不上是什么战争，只是个冲突罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0">
+      <Source>It seems the girl misled us both.</Source>
+      <Dest>貌似那个女孩把我们俩都诓了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Glad to help. Vampires are wicked creatures.</Source>
+      <Dest>乐意效劳，吸血鬼是丑陋的生物。</Dest>
+    </String>
+    <String List="0">
+      <Source>You appeared to have some sympathy for the boy. Rinori's brother.</Source>
+      <Dest>你似乎对这个男孩--Rinori的兄弟--抱有同情</Dest>
+    </String>
+    <String List="0">
+      <Source>No, not if you're going to yell.</Source>
+      <Dest>别，想大叫的话就别这么做。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not their fault. Feeding is as natural as breathing is for us.</Source>
+      <Dest>这不是他们的错。对他们来说吸血就像我们呼吸一样自然。</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires aren't people.  Now shut up and help me hunt the bloodsuckers.</Source>
+      <Dest>吸血鬼可不是人。闭上嘴并帮我猎捕这些吸血怪物。</Dest>
+    </String>
+    <String List="0">
+      <Source>Given the girl's demise, what happens now?</Source>
+      <Dest>那女孩挂了，现在怎么办？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't look at me, my opinion is basically whatever Viranya tells me to think.</Source>
+      <Dest>别看我啊， Viranya 让我怎么想我就得怎么想啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem troubled by something.</Source>
+      <Dest>你好像被什么事情困扰着。</Dest>
+    </String>
+    <String List="0">
+      <Source>He also mentioned a Rinori. I know that name. In fact, I've met her.</Source>
+      <Dest>他也提到Rinori。我知道这个名字。事实上，我见过她。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask you about the Dunmer Twins.</Source>
+      <Dest>我想问问你关于那对黑精灵双胞胎</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like you left one prison for another. But go on.</Source>
+      <Dest>听起来像是你转狱了。不过请继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry. I've lost friends to vampires as well. What did you do?</Source>
+      <Dest>我很抱歉，我的朋友也曾经被吸血鬼杀害。之后你做了什么吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does it matter? Vampires are in the city, one way or the other.</Source>
+      <Dest>有关系吗？无论如何，吸血鬼在城里嘛。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thanks for the advice. And may I say you smell positively delicious.</Source>
+      <Dest>感谢你的建议。以及我能说你闻起来很香吗。</Dest>
+    </String>
+    <String List="0">
+      <Source>If that's what you believe, then what's the problem?</Source>
+      <Dest>如果那就是你所信仰的，那还有什么问题吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you were there for him to save him from the disease.</Source>
+      <Dest>至少你曾是为了治好他的病而留在了那儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't blame him for being suspicious. Still, it's a dangerous word to use.</Source>
+      <Dest>你不能因为他多虑而责怪他，但是，措辞方面的确是听危险的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines freed you from prison?  The Gods are great.</Source>
+      <Dest>是圣神把你从监狱里放出来的？神真是太好了。.</Dest>
+    </String>
+    <String List="0">
+      <Source>We both have much to learn about trusting the wrong people.</Source>
+      <Dest>关于信错了人这点，我們都还有很多要学的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who freed you from prison?</Source>
+      <Dest>是谁释放你的？?</Dest>
+    </String>
+    <String List="0">
+      <Source>You bribed the guards with whatever trinkets Nord monkeys use for currency.</Source>
+      <Dest>你用诺德猴子拿来当货币的珠宝贿赂了那些守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>You bribed the guards with whatever plants Argonians use for currency.</Source>
+      <Dest>你用亚龙人当作货币的什么植物贿赂了那些守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>The world is worth saving.  In fact, I've already saved it once.</Source>
+      <Dest>这个世界值得拯救。实际上，我已经拯救过一次了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Powerful, deranged, and deadly. I'm going to enjoy slaying these two.</Source>
+      <Dest>威猛, 疯狂, 致命。杀掉这两个人一定是一场愉快的体验。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>What child were you asked to save?</Source>
+      <Dest>孩子想让你去救什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>There's nothing wrong with being...(giggle)...a little mad.</Source>
+      <Dest>一点小疯...(咯咯笑)...完全没问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you hunt vampires, that puts us at odds.</Source>
+      <Dest>如果你猎杀吸血鬼，那你就是我的敌人了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You still appear conflicted over your decision.</Source>
+      <Dest>你依然不知道自己的决定是对是错。</Dest>
+    </String>
+    <String List="0">
+      <Source>You said you were guilty of vampirism. Yet you don't look like a vampire.</Source>
+      <Dest>你说你因为变成了吸血鬼而内疚，但你看上去不像是个吸血鬼。</Dest>
+    </String>
+    <String List="0">
+      <Source>I assume the bodies mean you were. Too late.</Source>
+      <Dest>我通过这具尸体认定这是你干的，太迟了。</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>I thought the existence of a cure for vampirism would change your opinion.</Source>
+      <Dest>我以前相信如果吸血鬼有解药的话，你会改变自己的看法。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Arlas went on ahead. What were you doing?</Source>
+      <Dest>所以Arlas就继续前进。那麼你呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>We can't relax just yet. Skyrim is a big place. Our work is far from over.</Source>
+      <Dest>我們尚未能放鬆。天际省是一个很大的地方。我们的工作还远没有结束。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry. I only feed on the wicked.</Source>
+      <Dest>别怕，我只从坏人身上喝血</Dest>
+    </String>
+    <String List="0">
+      <Source>This appears to be a necromancer hideout, not a vampire lair.</Source>
+      <Dest>这里显然是亡灵术士的藏身处，不是什么吸血鬼的巢穴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Blood and battle are proof of life.  War is good for the soul.</Source>
+      <Dest>血和争斗是这生命的考验。战争有益于灵魂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your words are wise and I would be foolish to ignore them.</Source>
+      <Dest>你说的很对，要是不当回事的话我就太傻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hey. I'm a vampire. Are you implying I'm not a person?</Source>
+      <Dest>嘿，我是吸血鬼，你在暗示我不是一个人类？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's right.  You kill the sick.  You are nothing but a murderer.</Source>
+      <Dest>這就對了，你殺了那個病人。你也就只是個凶手而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires are people too, you heartless shrew.</Source>
+      <Dest>吸血鬼也是人，你没良心的的泼妇。</Dest>
+    </String>
+    <String List="0">
+      <Source>Uh, well, um...</Source>
+      <Dest>呃，嗯，嗯......</Dest>
+    </String>
+    <String List="0">
+      <Source>Still fighting the good fight, I see.</Source>
+      <Dest>还在为正义而战吧，我明白了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough riddles, swamp breath.  Tell me what's eating you.</Source>
+      <Dest>大量的迷雾与沼泽气息。告诉我有什么东西想吃掉你？</Dest>
+    </String>
+    <String List="0">
+      <Source>You sucked the blood out of the guards and escaped.</Source>
+      <Dest>你吸了守卫的血，然后跑路了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That probably didn't go over very well.</Source>
+      <Dest>这好像发展的不是很顺利。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>The world is worth saving.  I'm going to save it.</Source>
+      <Dest>这个世界值得拯救。所以我要去拯救它。</Dest>
+    </String>
+    <String List="0">
+      <Source>You said this was a quest of redemption, but you committed no crime.</Source>
+      <Dest>你说这个任务是为了救赎，但你却并非带罪之人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't blame yourself.  You did what you thought was right.</Source>
+      <Dest>你不能责怪你自己，你做了你认为正确的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire or not, kill the ones that try to kill you.  It's not all that complex.</Source>
+      <Dest>是不是吸血鬼无所谓，谁杀你就杀谁。一点都不复杂。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Jarl heard the evidence and exonerated you. The system works.</Source>
+      <Dest>领主注意到了证据并赦免了你，说明这套体制是可行的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I already have a mother, thanks.</Source>
+      <Dest>我自己有妈妈，谢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I too would have prayed for her safety.  You can't ransom a dead girl.</Source>
+      <Dest>我也为她的安全祈祷过。你没法赎回一个死去的女孩。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you track the child down?</Source>
+      <Dest>你是怎么追踪到那个孩子的？</Dest>
+    </String>
+    <String List="0">
+      <Source>A clever ploy. What happened next?</Source>
+      <Dest>真是高明。然后发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed. He had a choice. The corpses in the cabin did not.</Source>
+      <Dest>同意。我们还有得选择。小屋里的那具尸体可没有。</Dest>
+    </String>
+    <String List="0">
+      <Source>They use the river to take refugees and the tunnels to pose as the victims.</Source>
+      <Dest>他们用河流在运送难民，又在隧道里假扮成受害者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wars are senseless slaughter,  and Skyrim is irredeemable.</Source>
+      <Dest>战争都是毫无意义的杀戮，天际省已经不可救药了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>That makes two children you've killed then.</Source>
+      <Dest>那你就算杀过两个孩子了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I intend on seeking out a cure. Eventually.</Source>
+      <Dest>我是打算去找解药的，早早晚晚吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then we must do our best to vanquish these fiends before they infect others.</Source>
+      <Dest>所以我们必须赶在更多人被感染之前尽快驱逐这些怪物！</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampirism can be cured, but there is a point of no return.  The child was such.</Source>
+      <Dest>即便吸血鬼可以被治愈，到了某个阶段也回天乏术。那个孩子就是这样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Talk about The Order of the Virtuous Blood.</Source>
+      <Dest>跟我讲一讲贞血教团。</Dest>
+    </String>
+    <String List="0">
+      <Source>You said finding the girl was a form of penance. What crime did you commit?</Source>
+      <Dest>你说寻找那个女孩是一种赎罪行为。你犯了什么罪？</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="2">
+      <Source>It was a question that was asked of me whenever I began to doubt my faith, or the side I have chosen in this fight.</Source>
+      <Dest>一个问题是我什么时候开始质疑我的信仰的，或者说什么时候开始在这场斗争中重新站队的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was rumored that the child left for Eastmarch to join the Stormcloaks, in defiance of the father's alignment with the Empire.</Source>
+      <Dest>有传言称东部边境的年轻人因为厌恶父辈与帝国的联盟，跑去加入风暴斗篷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or they act as refugees themselves. Theirs is to play the same game they played as children. They walk amongst the downtrodden, posing as their kin. </Source>
+      <Dest>或者他们自己充当难民，他们开始玩儿时耍过的游戏。他们行走在压迫之中，装成自己亲戚的样子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to jest, but this is no small matter, nor is it a laughing one.</Source>
+      <Dest>你的就是个笑话, 但这不是个小事, 不是说笑的.</Dest>
+    </String>
+    <String List="2">
+      <Source>Not quite, but they granted me the resolve to persevere, so that I could give those who would aid me time to arrive.</Source>
+      <Dest>不完全是,但他们给了我坚持下去的决心,这样我才能一直支撑着直到援兵的到来。</Dest>
+    </String>
+    <String List="2">
+      <Source>For a Lord's house, the truth was far more incriminating.  And for a loving father, one far more heartbreaking.</Source>
+      <Dest>作为一个领主的家人来说，真相往往更使人有罪恶感。而作为一名慈父而言，这却更让人心碎。</Dest>
+    </String>
+    <String List="2">
+      <Source>I feared that my training with The Order would influence my decision.  That I would think only of the easy way, to kill rather than cure.</Source>
+      <Dest>我担心经过 The Order 的训练会影响我的决定。让我变得只想图省事，去消灭而不是治愈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Months later I discovered his journal while putting away his things.  It seems he had anticipated infection from the moment he joined The Order.</Source>
+      <Dest>几个月前当我整理他遗物的时候发现了他的日记。看起来他早已从加入 The Order时起就预感到了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And to you, my friend. I rest easy knowing you will carry on the fight. I ask you once more, what is the meaning of war?</Source>
+      <Dest>而对于你，我的朋友。知道你能继续战斗我会去得安心些。我最后问你一次：战争的意义是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>All I ask, is that you try.</Source>
+      <Dest>我唯一的请求就是请你试一试。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before coming to Skyrim, I had spent my life hunting vampires for The Order.  Much like the vigilants we often hunted in pairs.</Source>
+      <Dest>在来天际省之前，我一直在为The Order狩猎吸血鬼，与那些总与我们搭档的警戒者们所做的事情差不多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or perhaps just one. For vampirism makes one powerful, hungry, and deranged.</Source>
+      <Dest>或者可能就一个人。因为吸血热会导致一个人强大、饥饿和疯狂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was to call to my friend and reach for my staff, trying to shield his escape with fire.  We barely made it out alive.   But not unscathed.</Source>
+      <Dest>Ours是通知我的朋友和伙计们去尝试把他从火里救出来。最后他总算保住了一条小命，但也并非毫发无伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unless the supplies themselves were meant to hide something deeper.</Source>
+      <Dest>除非那些物资自己有意要把什么东西藏起来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is not an opinion I agree with.  The war I fight may not be a triumph, but hers was a death that could not be avoided.</Source>
+      <Dest>你说的每一个字我都不同意。在大战之后，我获得的可能是一场并不光彩的胜利，但她得到的，却是本可以避免的死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet when I learned of Arlas' correspondence with Falion, this belief was put into jeopardy.  Surely this is the hand of the Divines at work.</Source>
+      <Dest>当我了解到Arlas'和法利昂的通信后才意识到，我的错信把自己置于何等危险的境地。这一定是命运的安排。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wars blur the lines of morality, until we know naught whether victory is a triumph of the spirit, or a failure to be civil.</Source>
+      <Dest>战争不断模糊善恶的边界，我们对这场战争的胜利是精神上的凯旋，或是文明的失败仍一无所知。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was a childhood raised to do one thing.  Hunt vampires.  I know of no other life.</Source>
+      <Dest>我们从小就是为了一件事而长大的：猎杀吸血鬼。完全不了解别的活法。</Dest>
+    </String>
+    <String List="2">
+      <Source>At this point, waiting is not a choice. I can see how much you have suffered. It is as Arlas said. Sickness is a virtue.</Source>
+      <Dest>就现在的情况而言，等待不是个办法。我看得出你受了多少罪。奥拉斯说过，病痛亦是美德。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suggest you do not tarry.  The longer you wait, the harder it will be to cleanse your tainted blood.</Source>
+      <Dest>我建议你别在这逗留。你血液里的污染耽搁得越久就越难清除。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish to follow you on your quest.  I do not know to what end, but ours is to trust in the will of the Divines.</Source>
+      <Dest>我希望可以与你一同探险。我不知道结局会是怎样，但我们一定会在圣灵的意志下彼此信任。</Dest>
+    </String>
+    <String List="2">
+      <Source>Divines forgive me for my doubt.  In the world's darkest hour and mine, I did not expect to find a friend.</Source>
+      <Dest>圣灵宽恕了我所有的罪。在这无论是对这个世界而言还是对我而言都堪称黑暗的时代，我对能找到一个朋友这点并不抱有期望。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Arcane University in Cyrodiil is guarded heavily by the Imperial Watch.  It seems the College of Winterhold relies on isolation.</Source>
+      <Dest>在赛瑞迪尔的那个奥术大学可是由帝国守卫们重兵把守着。而冬堡学院就相对有点与世隔绝了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Vigilant takes her leave, but ours has one more task to complete. I have spoken with Falion about a cure. All we need is to deliver the girl.</Source>
+      <Dest>警戒者带着她离开了，但我们仍有一个任务要去完成。我对法利昂讲了这个对策。我们所需要的只是救回那个女孩儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Rift reminds me of my wife.  Hers was an Argonian with jewels on her horns, sunlight on her breath, and scales as vibrant as the autumn leaves.</Source>
+      <Dest>裂痕领使我想起了我的妻子。她是一名亚龙人。她头上的角像珠宝一样润滑而光泽，她的每一次呼吸都带着阳光的味道，她身上的鳞片鲜亮的如同秋天的落叶。</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened to the Falmer is perhaps a lesson from the Divines.  We are not guaranteed our gifts, should we choose to squander them.</Source>
+      <Dest>在雪精灵身上的或许是圣灵给他们上的一课（给他们的教训）。我们对我们的(礼物)没有担保，我们应该选择驱散他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary Vigilant, theirs is a formidable race, and we must acknowledge their strength if we are to vanquish them.</Source>
+      <Dest>与之相反的是警戒者，他们是帮难对付的家伙，要击败他们，我们必须充分理解他们的强大之处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Given I am responsible for his demise, ours is to ease his pain in death, to help make amends for failing in life.</Source>
+      <Dest>鉴于我对他的处境负有责任，我们应该减轻他的痛苦，以此作为补偿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to appreciate the gesture, but let's not count our hatchlings just yet.</Source>
+      <Dest>我们欣赏的姿态,但不包括我们的幼仔.</Dest>
+    </String>
+    <String List="2">
+      <Source>Vampire dens have always been notoriously easy to track.  Theirs is to cling to the fringes of a major hold, close to the road where traders pass.</Source>
+      <Dest>吸血鬼的巢穴都相当容易找到。他们必须住得离大城市很近，在商旅过往的路边。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even now, I may not have all the answers, but ours was glad to fight it, with someone they call a friend.</Source>
+      <Dest>直到今天，我也没能得到全部答案，可我们当时有朋友并肩作战的感觉还是很棒的！</Dest>
+    </String>
+    <String List="2">
+      <Source>How they used the river to phase through the ice?</Source>
+      <Dest>他们是怎么利用河流变相穿过冰层的？</Dest>
+    </String>
+    <String List="2">
+      <Source>He had been corresponding with a mage named Falion.  A mage who was studying a cure.  </Source>
+      <Dest>他曾与一个名叫法利昂的、在研究解药的法师互通书信。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, I saw the child for what she had become.  Not a girl, but a monster.  And there is no reconciling with that.</Source>
+      <Dest>最后，我看到了她的孩子。那不是女孩，而是一个怪物。And there is no reconciling with that.</Dest>
+    </String>
+    <String List="2">
+      <Source>I only know what Arlas told me. At first, I thought they were as the Vigilant described, children's stories. </Source>
+      <Dest>我只知道奥拉斯告诉我。首先，我想他们就是那些警戒者描述的，孩童的故事。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The Windhelm Warehouse! You see? Rinori was telling the truth.</Source>
+      <Dest>风盔城仓库！瞧见了吗？瑞诺丽说的都是真的！</Dest>
+    </String>
+    <String List="2">
+      <Source>I know the ones he speaks of. Twin Dunmer. If the rumors are true, they once served clan Volkihar.</Source>
+      <Dest>我知道他说的那两个人，矮人双胞胎。如果传言不虚，他们曾经服务于Volkihar家族。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was married once, you know.  We lived in a small town not unlike this one, west of the Imperial City.  I never told her about my life in The Order.</Source>
+      <Dest>我结过一次婚的。我们住在跟这差不多的一座小镇，帝国城市的西边。我从没告诉过她我在 The Order 的经历。</Dest>
+    </String>
+    <String List="2">
+      <Source>That day we met, I doubted.  I wondered whether a world that asked me to kill a child is a world worth saving.  Doubt is an insidious disease.</Source>
+      <Dest>我们第一次见面的那天，我犹豫过。我怀疑这个让我去杀小孩的世界值不值得拯救。怀疑是一种隐含很深的疾病。</Dest>
+    </String>
+    <String List="2">
+      <Source>So many ships sail out into the great wide yonder never to return. We should appreciate the sailors who provide us with the goods to live in comfort.</Source>
+      <Dest>有那么多船航向了宽阔的大海就再也没回来。我们应该感谢那些给我们带来物资并让我们过上舒适生活的海员们。</Dest>
+    </String>
+    <String List="2">
+      <Source>There! Look at the table. Fresh bones and blood. They were here.</Source>
+      <Dest>那儿！看看桌子。新鲜的骨头的血。他们在这。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am no monster. I am a soldier in the war to cleanse the land of impure blood.</Source>
+      <Dest>我不是怪物。我只是个在战争中净化这片土地上不贞之血的士兵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well then. Stendarr protect us all.</Source>
+      <Dest>那很好啊。 斯丹纳尔保护我们所有人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was to ask for his last request.  He said, "Cure me."  I thought it was a joke.  He always made me laugh.  Now, I know the extent of my folly.</Source>
+      <Dest>虎人问起最后一个请求的时候，他说”治好我。“我以为他在开玩笑呢，他总是逗我笑。现在我终于知道我有多蠢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Ours is a group that dates back to the Oblivion Crisis. I am a member of the Order of the Virtuous Blood.</Source>
+      <Dest>不，我们这群虎人是一个可以追溯到湮灭危机的团体。我是圣洁之血军团中的一员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then it is as I feared. The people have lost the very hope that is our salvation. And perhaps I too may have counted myself among them.</Source>
+      <Dest>正如我所担心的。人们因为我们的拯救失去了希望。也许我得把自己算作他们其中的一员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Things were tense around the village, and the guards were in a hurry to solve the case and placate the locals.  I made an easy scapegoat.</Source>
+      <Dest>这件事让村子的气氛如此紧张，守卫们急于解决此案，并安抚当地人。我就做了只温驯的替罪羊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is a life consumed by blood.  I have lost family to wars great and small, wars on the battlefield and in the mind.</Source>
+      <Dest>我们的生命充满着血腥。在大大小小的战争中，我失去了我的家庭，战争不只在战场上也在我的脑海中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to lead, ours is to follow.</Source>
+      <Dest>你若领导，我们追随。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize, boy. The High Elf has seen many of her friends die at the hands of the impure, just as your life was stolen by their wickedness.</Source>
+      <Dest>我向你道歉， 孩子。高精灵 看到她的同伴死于不纯之手， 就像你那被他们的邪恶所偷掉的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to train in detecting life, to find Daedra wherever they hide, but vampires are members of the undead.</Source>
+      <Dest>你的任务是去旅行探测生活，去到处寻找魔族的藏身之所，但吸血鬼则是不死之族。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not my gold, of course, but that of a wealthy nobleman, who had taken interest in my presence.</Source>
+      <Dest>当然不是我的钱。是一个富有的贵族的。他对我的出席非常感兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>If not for her size, I would have become her next meal, as would countless others as she learned to use her appearance as a weapon.</Source>
+      <Dest>要不是因为不合她的胃口，我搞不好会成为她的下一餐。就像那些她用外表作为武器来对付的无数人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only as members of The Order of the Virtuous Blood, ours was a resolve that could not waver.  Even when our foes wore the faces of children.</Source>
+      <Dest>作为贞血秩序的一员，我们绝对不能心慈手软。哪怕我们的敌人长着一张天真的孩子脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was to stop it by curing the diseased.  Theirs was to decline that choice.  And yet, to hear your words, I am left in doubt.</Source>
+      <Dest>我们（的目标）是通过治愈疾病来阻止它，而他们会阻止我们。而现在，听到你的话，我就有些怀疑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought Arlas' death brought me to Skyrim to save the nobleman's daughter.  Now I wonder if they have brought me here to meet you.</Source>
+      <Dest>我想正是奥拉斯的死把我带到了天际让我去拯救高贵之人的后代。现在我好奇的是，是不是他们把我带到了你的面前。</Dest>
+    </String>
+    <String List="2">
+      <Source>I found this one pressed against the shadows, completely invisible, if not for magic.</Source>
+      <Dest>我发现这东西覆盖于阴影之上，完全看不见形体，而且也不是由魔法所产生的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine you would. Yours is the type who thrives on challenges. It will bode well against our current foe.</Source>
+      <Dest>我想你会的。 你是那种喜欢挑战的类型。这是个我们能打败当前敌人的好兆头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had expected to find a girl frightened, ashamed, her face peaked from the ordeal. Hers was not.</Source>
+      <Dest>我原以为一个女孩子在面对严酷的考验时会惊恐，害羞，脸色苍白，但她没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>His was a life that ended the instant he chose to feed. What spoke were the dying embers of another person's memory.</Source>
+      <Dest>他的生命在他选择吸血的那个瞬间就结束了。存在的只是另一个人记忆熄灭的余烬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only it appears the road ends here.  In this hollow cave, with the corpse of the child I was asked to save.</Source>
+      <Dest>结果这条路就这么走到了头。在这空旷的洞穴里，和我要救的孩子的尸体在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>During the day, the sun washes over this city and warms the paths of stone.  A vampire hunter can almost be at ease in such a surrounding.</Source>
+      <Dest>在白天，太阳的光辉洗洒过这座城市，温暖了石砌的小径。一个吸血鬼猎人在这样的环境中几乎都可以安下心来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is not to jest about things that are so grave.  I did not escape, I was pardoned, but it was not the pardon I sought.</Source>
+      <Dest>Ours is 不要揶揄严肃的事情。我没有逃避，我被宽恕了，但那并不是我要的宽恕。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gold is what freed me from my iron cage, gold from one whose pockets were far deeper than mine.</Source>
+      <Dest>让我摆脱囹圄的是金钱，从某个钱袋远比我鼓的人那里来的金钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>The two of you follow me, and I will show you what I mean.</Source>
+      <Dest>你们两个跟我来，我会让你明白我的意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps hers was a soul willing to bargain.  To broker peace when all I sought to do was judge.  No, only a fool makes such an invitation.</Source>
+      <Dest>也许她是一个愿意做出交易的灵魂。在我试图做出判定的时候来协商和平。不，只有傻瓜才会做出这样的邀请。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, they say these two were afflicted by three separate diseases. Power, hunger, and madness.</Source>
+      <Dest>当然。他们说这两个家伙被三种不同的病痛折磨着。力量，欲望和疯狂。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but it has. Ours was to believe death came at the point of infection. Now I believe it comes when the unclean choose to feed.</Source>
+      <Dest>哦，曾经我们的观点认为死亡来自于传染源。现在我认为那来自于选择食用的不洁之物。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I spoke of war, I did not mean that which occurs between mortals.  Those wars are undoubtedly a failure to bridge our differences.</Source>
+      <Dest>当我谈到战争，我并不意味着那些在凡人之前发生的事情。那些战争在消除我们之间的分歧上毋庸置疑是一次失败。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. As have I. Both her and Arlas have made me realize that the war I fight is against those who have fed.</Source>
+      <Dest>是，我也是。她和Arlas都使我认识到了我参与的这场战争是在反对那些当权的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am unsure. But if there is a trap door, it must be in this pool, camouflaged by the water. That's where we'll find them.</Source>
+      <Dest>我不确定。但是如果有一个暗道的话，它肯定在这个池子里，被水隐藏着。我们决计会找到他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, there was no hearing before the Jarl.  My release was granted due to the most convincing of evidence.  Gold.</Source>
+      <Dest>不，领主并不知情。我能被保释是靠着最有说服力的证据，钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the bodies that lies here was once a highborn, the kin of a noble. </Source>
+      <Dest>躺在这里的尸体之一过去曾身出名门，是一个贵族的亲戚。 </Dest>
+    </String>
+    <String List="2">
+      <Source>So I told him why I came to Skyrim, and my desire for penance.  Then he made an offer.  A second chance for him, his daughter, and for me.</Source>
+      <Dest>所以我告诉他我来天际省的原因和我想赎罪的愿望。然后他提出一个方法能够能让我、他以及他的女儿都再有一次机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the skin, eyes and fangs are telltale signs, but some men can't be sure the same is true for other races.</Source>
+      <Dest>是的，这种皮肤、眼睛和尖牙都是无法掩饰的迹象，但是有些人无法肯定其他种族也有同样的符合这点。</Dest>
+    </String>
+    <String List="2">
+      <Source>We should head on over to the Cornerclub and see if any new refugees have arrived. That will point us to the real suspects.</Source>
+      <Dest>我们应该迎面穿过Cornerclub看看是不是新的难民到那里了。那会给我们指出真正的嫌疑人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Arkay could not save a girl who did not wish to be saved.  You see, I found her alone in this hideout.  Energetic, healthy, face flushed with color.</Source>
+      <Dest>阿尔凯救不了一个不希望得救的女孩儿。你瞧，我找到她时她就自己藏在这个隐匿处。精力充沛，脸色红润而健康。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems I am in need of your counsel once more. You have spoken with the girl. What do you think?</Source>
+      <Dest>看来我又一次需要你的建议了。你已经和那个女孩谈过了。你现在对这个事怎么看？</Dest>
+    </String>
+    <String List="2">
+      <Source>Outside the barracks, a carriage awaited us both.  It took us to a nearby chateau, where I would meet my true employer.</Source>
+      <Dest>营地外面有一辆篷车在等着我们俩。它会把我们带到城堡附近，在那里我会见到我真正的主顾。</Dest>
+    </String>
+    <String List="2">
+      <Source>That...that's not funny.  And the face you made when you said it...Ours is to question whether you were joking.</Source>
+      <Dest>一...一点都不好笑。看你说这话时的表情...我们想知道你之前是不是在开玩笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>What if they didn't swim up the river to snatch their victims? What if there was a tunnel that allowed them to travel to and from the docks?</Source>
+      <Dest>倘若他们不潜游河中寻救受害者会如何？ 倘若有一个隧道允许他们穿行于码头之间会如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet as I took Arlas' life, I am in position to judge myself, and I deem her to be more virtuous than I.</Source>
+      <Dest>自从我接管了Arlas的生命之后，我一直在自省。我认为她比我更善。</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger lies in the space before us.  Ours is to be ready to fight, or flee.</Source>
+      <Dest>危险就在前方。准备战斗——或逃跑。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nords built these mausoleums to honor their dead.  If things do not change, the world will be covered in honor.</Source>
+      <Dest>诺德人为他们的死者盖这些陵寝是为了荣耀。这样下去的话，以后全世界都会被荣耀铺满啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>War is just, if not for your reasons, and while it is hardly a triumph, hers was a death that could not be avoided.</Source>
+      <Dest>战争是正义的，如果不是你的原因，那么这一战的胜利机会微乎其微，而她的死亡也不可避免。</Dest>
+    </String>
+    <String List="2">
+      <Source>Answer me!</Source>
+      <Dest>回答我！</Dest>
+    </String>
+    <String List="2">
+      <Source>Where did we fail the Snow Elves?  What turned them to iniquity and sin?  Other races have suffered, but only the Falmer have lost their conscience.</Source>
+      <Dest>我们有什么地方我们有什么地方对不起雪精灵？是什么让他们变得邪恶而罪孽深重呢？别的种族也经历了折磨，可只有雪精灵失去了他们的良心。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew not how much coin he had passed to my jailers, but it was enough to carry on with the ruse.</Source>
+      <Dest>我不知道他给了我的狱卒多少钱的贿赂，但那已经足够在底下鼓捣出一些阴谋诡计了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to agree with your assessment. If only the child herself shared that same concern.</Source>
+      <Dest>我们是可以同意你的判断。只要那孩子本人也是这么想就行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Cloudy days almost seem mean spirited, as Skyrim has enough gloom already.  However, ours is not to question the wisdom of Kynareth.</Source>
+      <Dest>多云的日子意味着生机勃勃，而如今的天际太过于抑郁。虽然，我们不该质疑凯娜瑞斯的智慧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twice I have erred.  I deemed Arlas should die, when he knew of the cure, and that this child should be saved, when she wanted no part of it.</Source>
+      <Dest>我错了两次。一是在Arlas知道解药的时候以为他该死；二是在那孩子不想参与的时候以为她该救。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave.  Like the fabled black rose of the south, darkness blooms here.</Source>
+      <Dest>一个山洞。就如同寓言中南方的黑玫瑰，绽放于深夜之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was love at first sight, but who is to say how the peasant would feel the next day.  All he could do is take that chance.</Source>
+      <Dest>这是一见钟情，但谁能说得出这个农夫第二天又会是什么感觉呢？他只能抓住那个机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>His was a remarkable courage.  Many in The Order prefer long range attacks, to avoid the chance of infection.  Arlas never deterred from his methods.</Source>
+      <Dest>他有着非凡的勇气。很多教团的人更喜欢远程攻击，以此避免感染。而奥拉斯从不会对自己的战斗方式有所顾虑。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I was young, my mentor told me tale of the peasant who found a stray cat living in the alley behind his house.</Source>
+      <Dest>当我年轻的时候，我的导师跟我讲了那个农夫发现了一只流浪猫住在他的房子后面的小巷的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>My soul is bare, Vigilant, as are my words. Yours is to listen, so that you may understand.</Source>
+      <Dest>我的灵魂与我的语言一样勇敢，警戒者。你要做的就是倾听，然后你就会理解了。</Dest>
+    </String>
+    <String List="2">
+      <Source>They let the mothers of the dead kiss their foreheads and tuck them to sleep.</Source>
+      <Dest>他们让死亡之母亲吻牺牲者们的前额，并让他们进入永眠。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize. My intent was not to confuse.  I've been so consumed by this quest, I didn't know where else to turn.</Source>
+      <Dest>我很抱歉。我的目的不是想要混淆视听。我已经如此被这次探险所折磨了，我不知道该从何说起。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The Volkihar!</Source>
+      <Dest>那些瓦奇哈！</Dest>
+    </String>
+    <String List="2">
+      <Source>Another corpse, and a Dark Elf.</Source>
+      <Dest>另一具尸体，是个黑暗精灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not exactly. I lied when I said the boy was not fully spoiled. There is no such thing. The infection is absolute.</Source>
+      <Dest>并非如此 。我说了谎，我说这个男孩并没完全变质。事情不是这样的。他绝对被感染了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The girl left me no choice. Hers was an existence that lived to feed, to milk the blood of those around her. </Source>
+      <Dest>那个女孩儿让我别无选择。她就是一个为食欲而生的存在，去榨取她身边的人们的血液。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. Admittedly, I was conflicted when we met, but our conversation gave me the resolve I needed to push forward.</Source>
+      <Dest>是啊。诚然，我很抵触跟你见面，但我们的谈话使我下定了我需要奋力向前的决心。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="2">
+      <Source>The Orcs are well known for their skill with the forge.  As blood-kin, yours is to take advantage of their craftsmanship.</Source>
+      <Dest>兽人锻造的才能众所周知。作为他们的血亲，你是在占他们锻造技艺的便宜。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Divines bring us together once more.  Ours is to delight in your passing.  Yet this is not the time for a lengthy reunion.</Source>
+      <Dest>是圣灵使我们再次相聚。很高兴你通过了考验。但这还不是我们能沉浸在的团聚喜悦里时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you have my thanks as well as my attention.  Perhaps my actions were not to make war, but to grant an innocent her peace.</Source>
+      <Dest>那么你既会得到我的谢意又会得到我的关照，也许我的行动不是要去发动战争，只是想给无辜的她一和平。</Dest>
+    </String>
+    <String List="2">
+      <Source>We dedicated our lives to a single purpose.  To silence all other voices, so that we are better attuned to listen.</Source>
+      <Dest>我们将自己的生命致力于一个目标：那就是消灭其他声音，以便我们的宗旨传播。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was raining the day I met my wife.  I mentioned to her how awful the weather was.  She said, "What's wrong, don't know how to swim?"</Source>
+      <Dest>我遇见我妻子的那天下着瓢泼大雨。我跟她抱怨天气真是糟透了。她对我说：“有什么糟糕的，难道你不会游泳吗？”</Dest>
+    </String>
+    <String List="2">
+      <Source>I told him "No," but I could find her.  After all, I was a hunter.  A member of the Order of the Virtuous Blood.</Source>
+      <Dest>我告诉他，“不，”但我能找到她。毕竟，我是一个猎人。一名贞血教团的成员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is a belief that I have spent my entire life opposing.  The Order states that vampires are worthy of neither pity nor mercy.</Source>
+      <Dest>你的观点可是我用尽毕生所反对的啊。教团说的很明白了，吸血鬼既不值得同情，也不值得怜悯。</Dest>
+    </String>
+    <String List="2">
+      <Source>They simulate their lives. They come home to their victim's families and eat at their tables.</Source>
+      <Dest>他们假装成自己的受害者去生活，他们回受害者的家里，在受害者的桌子上吃饭。</Dest>
+    </String>
+    <String List="2">
+      <Source>He asked me if it was true about vampires.  If they formed clans.  Families.  He wanted to know if I knew where his daughter had fled.</Source>
+      <Dest>他问我关于吸血鬼的一切是不是真的。如果他们有宗族，家庭。他想知道我是不是知道他的女儿逃到哪里去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The peasant, who had never been ill a day in his life, finally went to see the city alchemist whom he had stubbornly avoided all these years.</Source>
+      <Dest>那个一生中从没生过病的农民，最后去城里看了那个他这些年一直固执的避开的炼金术师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then perhaps all is not lost, and our path is true, if people still hold on to hope.  </Source>
+      <Dest>如果人们还抱有希望，那么也许一切尚未结束，并且我们正走在正确的道路上。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet this vampire used something far more cunning. She played to one's sympathy, wearing the mask of a child.</Source>
+      <Dest>然而这吸血鬼的手段实则更加诡谲。她以一副孩童面目来骗取他人的同情。</Dest>
+    </String>
+    <String List="2">
+      <Source>All the while believing that if I followed it to the end, that I would find redemption.</Source>
+      <Dest>我一直坚信，我若循信仰直至终末，则必能得救赎。</Dest>
+    </String>
+    <String List="2">
+      <Source>The world eater has perished.  You are the answer to the question of whether our life, our world, waves the banner of righteousness.</Source>
+      <Dest>噬世者已然化为灰烬，看来你便是对我们这世界以及一切生灵合乎天道的最好证明。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rumors the locals dispense about Falion are disturbing.  It is our understanding that he is a man of impeccable skill and character.</Source>
+      <Dest>当地的谣言却独独没有传到法利昂耳中。不过我们可以理解。毕竟他的本事和性格都无可挑剔。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the sick do not wish to be treated, I see no other remedy, as much as it pained me to administer the cure.</Source>
+      <Dest>就算病人不希望被这样对待，我也想不到其他办法了。虽然用这种办法治疗搞得我自己也很难受。</Dest>
+    </String>
+    <String List="2">
+      <Source>Locked in that cell for days, I began to starve.  Not for blood, but for food.  Theirs was to offer me bread in exchange for a confession.</Source>
+      <Dest>我被锁在这间牢房很多天了，我开始饥饿。没有鲜血，却有食物。他们给我提供面包，作为要我忏悔的交换。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandian wrote it took 7 months for the Draugr to accept her among them. If only we had such patience. If only they didn't ask for the impossible.</Source>
+      <Dest>Bandian说尸鬼花了7个月的时间才接纳她，如果我们那么耐心，那么放低姿态就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not ours to tell, but another may provide what you seek.</Source>
+      <Dest>那不是我们该说的，不过其他人可能会提供你在找的。</Dest>
+    </String>
+    <String List="2">
+      <Source>A mantra of self-defense is ideal in theory, but an infection must be cut off before it spreads.  Action must be taken.</Source>
+      <Dest>打着自卫的招牌实在是太过于理想主义，但这种口号若不及时断其源头就会扩散。得采取措施了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you, friend. Ours was a faith tested once more, but in the end, you helped me see through the miasma of lies.</Source>
+      <Dest>我得感谢你，朋友。我们之间的信赖再一次经受了考验，但最后，还是你领我穿过了谎言的迷雾。</Dest>
+    </String>
+    <String List="2">
+      <Source>The taint comes only when you drink the blood that is not your own.</Source>
+      <Dest>你只会在喝别人的血时受到感染。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to vanquish the unliving, but is that the true path?  Is our way, our world, something worth saving?</Source>
+      <Dest>我们的目的是消灭所有不死生物，但是这是一条正确的道路吗？这只是我们的方式，我们的世界，这些是值得去拯救的吗？  </Dest>
+    </String>
+    <String List="2">
+      <Source>Someday I will return to that village, and tell her father a lie.  It is not one that can be told right away.</Source>
+      <Dest>总有一天我会回到村庄，告诉她父亲我的谎言。这可不是那种能脱口而出的谎言。</Dest>
+    </String>
+    <String List="2">
+      <Source>True, the Order's presence is not as widespread as the Vigilant's.  But while yours was to rid the land of Daedra, ours was to purge the unclean.</Source>
+      <Dest>没错，教团并没有像警戒者那样分布广泛。但你的责任是摆脱魔族的领地，而我们的则是负责清理不干净的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not according to the laws of mortals, but the Gods hold us to a different standard.</Source>
+      <Dest>并不是根据凡人的法律，而是神给我们不同的准则。</Dest>
+    </String>
+    <String List="2">
+      <Source>What standards of wickedness will you create to justify your appetite?</Source>
+      <Dest>你要为邪恶设立怎样的标准才能为你的贪欲做辩护？</Dest>
+    </String>
+    <String List="2">
+      <Source>When they brought me before the House Lord, I told him I did not kill those men.  He told me he already knew. The real murderer was his own kin.</Source>
+      <Dest>在他们把我带到领主的房子之前，我告诉他我没有杀了那些人。他跟我说他早就知道。因为真正的凶手正是他自己的亲人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The girl left me no choice.  Hers was an existence that lived to feed, to milk the blood of those around her. </Source>
+      <Dest>这女孩让我别无选择，她的生命对于她周围的吸血鬼来说就是用来吃，用来喝的存在。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I...I don't know. Let us see where this tunnel ends. It may take us to the bottom of the White, or inside the city. Then we'll know for sure.</Source>
+      <Dest>我……我不知道。我们来看看这个隧道到哪是个头。这随到可能通到雪地下面，或者城市里面，到时候我们就知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hnnngh...</Source>
+      <Dest>嗬啊啊啊……</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is a statement with many things wrong, and many things offensive.  There is, however, one nugget of truth.</Source>
+      <Dest>你的话里错误频出，还有很多话咄咄逼人。不过呢，有些话还真是说到了点子上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some may call these foul monsters the undying.  That is not the case.  That would imply they are alive.</Source>
+      <Dest>一些人也许会说这些邪恶的怪物是不死的。并非如此。会这么说，那说明他们还活着。</Dest>
+    </String>
+    <String List="2">
+      <Source>If there is one thing a vampire does not fear, it is time.</Source>
+      <Dest>如果有个东西是吸血鬼不会害怕的，那就是时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>These twins, Elroth and Egren, they were my old partner's kin. He knew them. Loved them. Raised them.</Source>
+      <Dest>这对双胞胎，欸若斯和意格兰，他们是我的老伙伴的亲戚。他了解他们。深爱他们。也养育了他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is how the Divines act.  Not through direct force, but through a subtle nudge, an encouraging word, or a favorable wind.</Source>
+      <Dest>这就是圣灵们行事方式。不是直接推动事件的发展，而是通过一种很微妙的方式 一句鼓励的话,或者一股愉悦的风。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours will be cautious. In fact, the Vigilant may have to be restrained. But yes, I agree.</Source>
+      <Dest>我们的人会很小心的。事实上，警戒者或许是需要被遏制一下。但我仍然同意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Over the centuries, countless individuals have died at the hands of this disease, a tally that rivals even the greatest of wars.</Source>
+      <Dest>千百年来，无数人死于这种疾病之手，病死之人的数量甚至能与战争死者的数量抗衡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is Sanguine Vampiris a sickness to be cured?  Or are vampires monsters to be hunted? </Source>
+      <Dest>桑吉恩吸血鬼是一种需要治疗的病症吗？还是说吸血鬼就是注定要被猎杀的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>My old friend Arlas had a saying.  "Sickness is a virtue."  The healthier a vampire was, the more often he had fed.</Source>
+      <Dest>我的老朋友奥拉斯有句名言：“疾病亦有优点。” 吸血鬼愈健康，就证明他残害过人愈多。</Dest>
+    </String>
+    <String List="2">
+      <Source>The den was for all intents and purposes empty, yet the center table showed not a fleck of dust, and the torches on the wall were recently lit.</Source>
+      <Dest>那个洞穴无论如何都空空如也，然而放在中间的桌子却纤尘未染，洞里的火炬也是新架上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Calm yourself, Vigilant. His is a blood that has not fully spoiled. Perhaps he knows where his clan mates have run off to.</Source>
+      <Dest>别紧张, 警戒者。他的血还没有完全流干。也许他知道他们家族的人去哪了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember, the ritual must be conducted during the light hours. It will not work if we are cloaked in darkness.</Source>
+      <Dest>记住，仪式应当在日间举行。如果在夜色中偷偷进行的话，那它就无法起效了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let the light illuminate the shadow.</Source>
+      <Dest>让光明照亮阴影。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not vanquish bandits with joy in my heart.  Theirs is a death that makes me lament our failure to find a solution.</Source>
+      <Dest>我不会带着愉悦的心情杀掉一个强盗。他们的死只会让我因没能找到正确的解决方法而恸哭不已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to pass, and ours is to delight.</Source>
+      <Dest>你只需要通过，我们只需要取乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I have sympathy for the boy that was, and not the ash that lies before us, yet both are guilty of the crime.</Source>
+      <Dest>就是这样。所以我同情那个男孩，而不是摊在我们面前的一捧灰，但他俩都犯了罪。</Dest>
+    </String>
+    <String List="2">
+      <Source>A den like this is almost an open invitation for visitors.  Yet ours is to hear, and dark magic cannot stay hidden behind a locked door. </Source>
+      <Dest>这样一个巢穴几乎就是请君入室。何况我们还有耳朵听，而且一扇上锁的门根本掩盖不住黑暗魔法。 </Dest>
+    </String>
+    <String List="2">
+      <Source>His was to bemoan its presence, but weeks later he found that the cat kept his home free of vermin.</Source>
+      <Dest>他为它的存在而叹息，但周后他却发现，猫让害虫在家这件事成为了历史。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is the meaning of war?  Is it an opportunity for triumph, or evidence of our greatest failure?</Source>
+      <Dest>战争的意义是什么？这是胜利的机会，亦或是我们最大失败的证据？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not exactly. The child was still alive when I entered the cave.  Not only alive, but healthy.  And smiling.</Source>
+      <Dest>不尽然。我走进山洞的时候那个孩子还活着。活蹦乱跳的。还冲我笑了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The world eater must perish.  Evil has questioned the validity of our existence, and the Divines have brought you as their answer.</Source>
+      <Dest>世界吞噬者必须灭亡。邪恶已经在质疑我们生存的有效性，而圣者们已经向你展示了他们的回答。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to tell him she achieved everything we hope to out of life, in a quarter of the time.</Source>
+      <Dest>我们要做的就是去告诉他，她用了常人人生四分之一的时间，得到了一切我们希望从生活中得到的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Amazing.  Truly the Divines have shaped this land so that we may bask in its beauty.</Source>
+      <Dest>令人叹为观止。这片土地真可谓是受到了上天的眷顾，我们才得以沐浴在这美景中。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is clear is that I can no longer hunt based on appearances, as they tend to deceive.  I owe Arlas that much.</Source>
+      <Dest>不过有一点是清楚的，我不会基于外表搜寻，因为他们倾向于欺骗。我欠Arlas太多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He had been corresponding with a mage named Falion.  A mage who was studying a cure.</Source>
+      <Dest>他之前一直和一个叫法利昂的巫师保持联系。那是一个正在研究治疗方法的巫师。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is where a runaway vampire would seek shelter amongst her kind.  This one, however, had spent her entire life in the care of her noble parents.</Source>
+      <Dest>一般一只逃亡中的吸血鬼和他的吸血鬼同胞们会一起躲在那里。而这只却不，她一辈子都受着自己高贵的父母的照料。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bandits.  Killing them will not make our roads safe, nor will sparing them end their poverty.  The root of the problem lies elsewhere.</Source>
+      <Dest>强盗啊。即使把他们杀了，我们这一路上也安全不了，放过他们吧，他们也还是穷的叮当响。问题的根源不在这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's been a long time since I've spent so many hours outside.  Yesterday I think I burned the scales on my nose.  It was a peculiar feeling.</Source>
+      <Dest>我已经有日子没像昨天一样呆在屋外那么久了。我想我鼻子上的鳞片都烧着了。那感觉可真奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>She was staying at the Cornerclub last I remember. Let's head over there.</Source>
+      <Dest>我记得她应该呆在街角吧，咱往那儿走吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ask, and it shall be done.</Source>
+      <Dest>问吧，会搞定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Legends say the Hero of Kvatch became a member, and trained the Order in the ways of combat.</Source>
+      <Dest>传说当年的科瓦奇英雄也是他们中的一员，并训练过他们如何战斗。</Dest>
+    </String>
+    <String List="2">
+      <Source>In cities like this, it's easy to lose trust.  It was my wife who taught me there was a fine line between guarding yourself and being guarded.</Source>
+      <Dest>在像这样的城市里，信任很容易被抛到脑后。是我的妻子教我辨别保护你自己和被别人保护的微妙界限。</Dest>
+    </String>
+    <String List="2">
+      <Source>The unclean...the ones whose blood is spoiled, they are not your family. You need not protect them.</Source>
+      <Dest>不洁者……他们的血液已经变质，他们不是你的家人。你不需要保护他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>In life, even the most pernicious parasites die.  Yet vampires reproduce and their numbers only swell.  This is why they must be hunted.</Source>
+      <Dest>在无数的生命体中，即使是最致命的寄生虫也会死亡。但吸血鬼不断繁殖再生，数量只增不减。这就是为什么我们要猎杀他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am sorry child, but it cannot be. Your blood is spoiled.</Source>
+      <Dest>我很遗憾，孩子，但是这不可能。你的血液已经被污染了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then there is the mental war that plagues the vampires themselves, and those who hunt them.</Source>
+      <Dest>这样一来，一场心理上的战争就打响了，不仅狩猎吸血鬼的人遭殃，吸血鬼们自己也受到牵连。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. And ours is to fight this war until the blood of Tamriel itself is pure.</Source>
+      <Dest>没错。而我们的职责是为这场战争奋斗到底，直到泰姆瑞尔大陆的血涤去污浊。</Dest>
+    </String>
+    <String List="2">
+      <Source>It grieves me to hear it.  Why must mortals push themselves to the brink of death to feel alive?  Is not everyday life proof enough?</Source>
+      <Dest>听到这消息真令人悲伤。为什么凡人总要把自己逼到死亡边缘时才能感觉到生之可贵呢？？日常生活还不能验证吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But now that his child is dead, I am once more lost.  Perhaps it is our meeting that will help me find my way again.</Source>
+      <Dest>但是既然他的孩子死了，我又没目标了。也许下次咱俩再见面你能再帮我找条路走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or, like my friend Arlas, he could have sought a cure.</Source>
+      <Dest>或者像我的朋友Arlas一样，他可以寻求治愈的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>The shadow spread its wings, as did the others, cloaking the room in darkness.  They came from above.  Like bats, descending on their prey.</Source>
+      <Dest>阴影伸展开自己的翅膀，其他人也如此，将整个空间覆盖在阴影之下。他们从天而降，如同蝙蝠一般，降临在他们的猎物之上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was to do the same when asked to kill a child, when in truth, we were tasked with slaying a monster.</Source>
+      <Dest>在被要求去杀掉一个孩子的时候，我们做的也是同样的事，事实上，我们被命令杀死的是一个怪物。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a dangerous way to live.  What happens when there are no evil mortals to prey upon?</Source>
+      <Dest>这样的活法很危险。如果没有邪恶的凡人给你猎食呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I wonder if the Divines have granted me the wisdom to judge who should live and who should die.</Source>
+      <Dest>我想知道诸神是否给予了我判断谁该活谁该死去的智慧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand.  Always walk the true path, and always have the wisdom to recognize it.</Source>
+      <Dest>我懂了。总是行走在真实之路上，而且要时刻保持着明辨真伪的智慧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What of the child then?  Hers was a life that would grow to kill many others, and infect many more.</Source>
+      <Dest>但那个孩子怎么办？在她未来的人生，她将会杀死许多人，而又影响更多人。.</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not the time for jests. Our foes may appear sympathetic, but you would be wrong to doubt their ferocity.</Source>
+      <Dest>现在不是开玩笑的时候，我们的敌人可能会拥有同情心，但他们的残暴却是毋庸置疑的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I suggest you hurry to Morthal.  Free yourself of this curse, and we can continue our conversation.</Source>
+      <Dest>不管怎样，我建议你速度去墨索尔城。 你可以解脱，同时我们也可以继续谈话 。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not our job to save the unclean. They were given a choice, and chose poorly.</Source>
+      <Dest>感化邪恶可不是我们的工作。他们有过选择的机会的，时至今日都是他们咎由自取。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was staying at an inn near the border when one of the local Nords decided to take offense with my presence.</Source>
+      <Dest>那时我呆在附近的一个酒馆，一个本地的诺德人打算袭击我住所。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Julianos, you're right! I was so focused on the tunnels that ours was to neglect the obvious!</Source>
+      <Dest>感谢尤里安诺思,您是对的!我太专注于隧道,导致我们忽略了那些显而易见的!</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>遵命。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was an argument at the Bee and Barb about some nefarious activity near Shor's Stone.  Some claimed it was black mages.  Others said vampires.</Source>
+      <Dest>在蜂与钩那里有一次关于朔尔之石发生邪恶杀人事件的争论。一些人声称这是黑魔法师做的好事。还有一些说是吸血鬼干的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My old friend Arlas had a saying. "Sickness is a virtue."  The healthier a vampire was, the more often he had fed.</Source>
+      <Dest>我的老朋友奥拉斯曾说过：“虚弱是一种美德。”一个吸血鬼越健康，他曾吸血的的次数就越频繁。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not know.  Yours is an existence that causes me to question my beliefs.  You seem civilized.  But perhaps that is because you have recently fed.</Source>
+      <Dest>我不知道。你一个让我质疑我本身信仰的存在。你看上去睿智而敏锐，但也许这都是你事先准备好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is before your arrival.  A dark messenger, one final temptation to test my faith.</Source>
+      <Dest>那是在你到来之前的事。一位黑暗信使，对我信仰的最后一次考验。</Dest>
+    </String>
+    <String List="2">
+      <Source>A girl who sought a cure, and in the absence of one, took her own life.</Source>
+      <Dest>一个寻求治疗的姑娘，在无计可施的情况下，亲手结束了她自己的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>The art of bargaining was never one I was able to master.  There is a level of stubbornness required that I simply cannot uphold.</Source>
+      <Dest>我一直都没能掌握讨价还价的艺术。讨价还价这事儿需要相当顽强的意志，我就是没法办到这一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.  Be thorough, but do not tarry.</Source>
+      <Dest>很好，要彻底一点，但不能太耽搁。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Order trained me to think the same.  It is a simple doctrine, but one that lacks nuance.</Source>
+      <Dest>教团统一了我的思想。教义相当简单，但却太过于笼统。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>All I had to do was look into his narrowing pupils to see the infection had taken root.</Source>
+      <Dest>我要做的只是盯着他逐渐缩小的瞳孔看里面的感染扎下根来。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, it seems Arlas will have a measure of peace, now that his kin have been avenged. Still, the war rages on.</Source>
+      <Dest>在任何情况下，Arlas似乎都能拿出一个维持和平的措施，现在，他的亲属已经被复了仇。尽管如此，战争仍在肆虐。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are looking for a Black Soul gem, you will not find one. Ours was unable to end a life, to act as judge over another.</Source>
+      <Dest>如果你正在寻找一颗黑色灵魂石的话，你不会找得到的。我们的东西并不足以像个法官一样裁决别人的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>His was to challenge me to a brawl, and when I refused, he accused me of being a vampire.</Source>
+      <Dest>他向我挑战想要引起争吵，当我拒绝之后，他指控我是一个吸血鬼。</Dest>
+    </String>
+    <String List="2">
+      <Source>The small hamlets were often an easy target for the nightwalkers.  Less guards, more cover.  Ours is to sleep with his tail against the door.</Source>
+      <Dest>小村庄往往容易成为nightwalkers的目标。护卫更少，掩体更多。我们的靠着自己的尾巴在门边睡觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I met the nobleman, and once more my faith in the Divines and the Order was restored.</Source>
+      <Dest>然后，我遇到了贵族，并且再一次地，我对圣灵和秩序的信心得以恢复。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is too late. The poison has already taken effect. Treasure the life I give you. Honor those who were lost in this war.</Source>
+      <Dest>太晚了.毒药已经攻入心脉，无药可救了。请多多珍重。愿逝者安息。</Dest>
+    </String>
+    <String List="2">
+      <Source>The death of Movarth Piquine is indeed something to be celebrated by the people of Morthal.  Theirs is to smile at your deeds.</Source>
+      <Dest>Movarth Piquine的死对于墨索尔城的市民而言，确实是一件值得庆祝的事情。Theirs is to smile at your deeds.</Dest>
+    </String>
+    <String List="2">
+      <Source>The peasant grew quite fond of the cat, until one day it bit his leg, and infected the man with a terrible fever.</Source>
+      <Dest>农夫对那只猫是愈发地喜爱，直到有一天，猫在农夫腿上咬了一口，使得他生了一场大病。</Dest>
+    </String>
+    <String List="2">
+      <Source>The night before I was paid a visit by a man, his face shrouded by the hood of his robe.</Source>
+      <Dest>就是有个陌生人来拜访我的头一晚，那人的整个头脸都遮在他的长袍里。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I trusted their guidance, and now they have ordained that we meet.  I am curious as to what end.</Source>
+      <Dest>所以我就相信了他们的指引，而现在他们安排我们会见。我很好奇结果会怎样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew an Orc who was trained by The Order.  His was a soft voice, but his battlecry shook the earth, and the resolve of our enemies.</Source>
+      <Dest>我认识一个在 The Order 受训过的兽人。他说话轻声细语，但是发出的战吼是惊天动地，吓得敌人屁滚尿流。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is sad to see any mortal so desperate for eternal life that they would fail to see that merely existing is as hollow as the void.</Source>
+      <Dest>看到人们不顾一切地追求永生真是种悲哀，他们看不透那毫无意义的存在就像虚空一样空虚</Dest>
+    </String>
+    <String List="2">
+      <Source>One of those foul demons had raked its talons across Arlas' back. </Source>
+      <Dest>这些令人恶心的恶魔中的一个已经把它的爪子从奥拉斯的背后伸了过去。</Dest>
+    </String>
+    <String List="2">
+      <Source>If clan Volkihar is truly as paranoid as the tales say, then you can see why such a pair would be exiled.</Source>
+      <Dest>若是瓦奇哈家族真如传说中那样多疑，那你也不难想象这一对会被放逐的原因了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have dedicated my whole life to this craft.  I must answer these questions before I commit any more of it.</Source>
+      <Dest>我将毕生之力倾注于这项事业之上。在做出进一步的承诺之前我应该先答出这些问题的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is as I feared.  The unliving have infected this town.  Let us purge it of this evil.</Source>
+      <Dest>正如我所恐惧的那样。那些不死的家伙正在感染这座城镇。让我们把城镇从这恶魔手里给拯救出来吧。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Beasts cannot be blamed for their actions, but they are far from innocent.  Nevertheless, in this instance it is we who invade their home.</Source>
+      <Dest>野兽们是不具备为自己的行为负责的能力的，但要说它们暴力，那还谈不上。毕竟，这次闯进它们地盘里的是我们才对。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say that Movarth Piquine was not unlike myself.  His was a dedication to slaying the unliving.  It only confirms that vampirism corrupts.</Source>
+      <Dest>【他们说莫瓦斯·皮其恩并不像我。他曾致力于屠杀不死生物。只能说吸血鬼也堕落了啊】。</Dest>
+    </String>
+    <String List="2">
+      <Source>If we can stop by the Cornerclub and query the locals perhaps we might find word of a pair of refugees.</Source>
+      <Dest>如果我们能去街角吧那儿问问当地人的话，说不定我们能找到有关那对流亡者的消息。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to smile at your presence Filnjar.  I am need of your eyes, and your expertise.   Can you appraise this dagger I found?</Source>
+      <Dest>我们是在为你的出席而微笑， Filnjar。我需要你的眼力，和知识。你能评估一下这把我找到的匕首吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is a statement that I am thankful for.  Perhaps as the Divines work in the shadows, there is a greater purpose to be found.</Source>
+      <Dest>我感谢你做出的声明。或许圣灵隐匿于阴影之时，会发现一个更大的目标。</Dest>
+    </String>
+    <String List="2">
+      <Source>What can mortals scry from the disappearance of the Dwemer?  If they were an advanced race, is our life naught but a march toward the same fate?</Source>
+      <Dest>凡人怎么才能用水晶球占卜到了锻莫的消失？如果他们是一个先进的种族，难道我们的生活最终会化为乌有，遭受与他们相同的命运吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Theirs is to use the river to gain access to the refugees, and the tunnels to enter the city.</Source>
+      <Dest>他们通常利用河流来接近难民，并进入城市的通道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is a road led by fate, and now I see where my path intersects.  Here, in this cave, we shall return the unliving to dust.</Source>
+      <Dest>你被命运所指引，而今我看见了我们的交集。在此地，在这洞穴中，我们将让死者重归尘土。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have sought to cleanse the land of vampires my entire life. Ours is a faith that is not easily broken.</Source>
+      <Dest>我毕生所求既是荡涤这片大地的所有吸血鬼。我们的信念不会这么轻易就破碎。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Yours was to use the tunnels to enter the city.</Source>
+      <Dest>不。你们应该从隧道进入城市。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before you arrived, I had been watching this cabin for three days.  Ours was to wait for the rest of the clan.</Source>
+      <Dest>你到达前，我已经盯守这座小屋三天了。我们需要等待其他家族成员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet it's likely in this case three of the diseases came before the fourth.</Source>
+      <Dest>但在这种病例身上，通常有一种症状来得比起其他三种晚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something is not right about this town.  The sky casts a cloud over the eyes of its residents, and portends a rain of tears.</Source>
+      <Dest>这个镇子有些事情不对劲。居民们满面愁云惨雾，简直要泪洒当场了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Rinori is the one Arlas spoke of so many years ago, then deception is her greatest weapon.</Source>
+      <Dest>如果莱欧纳是多年前和奥拉斯谈过话的人之一，那么她最擅长的恐怕就是阴谋诡计了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but the Vigilant does not believe this matter is one for debate, or even discourse.</Source>
+      <Dest>是的，可是警戒者可不会相信这件事是场辩论，甚至是讲演。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is truth to your words. We know someone has been using this tunnel, and time will tell whether that person is a friend or a stranger.</Source>
+      <Dest>你说的没错。我们知道有人在利用隧道，早晚我们会发现那家伙是敌是友的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The word was toxic.  That morning, two bodies were found outside, torn to shreds, unrecognizable masses if not for the bones and teeth.</Source>
+      <Dest>这恶毒的话语应验了。天亮时分外面发现了两具尸体，都被撕成了只有骨头和牙齿依稀可辨的碎片。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pardon me, but these twins you speak of, where did they come from?</Source>
+      <Dest>抱歉打扰你了，但与你对话的那对双胞胎是来自于哪里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to make light of a disease that is one of the great evils in this world.  It is not your mother who you must answer to, but the Gods.</Source>
+      <Dest>你正是那道可以拯救世界，战胜时间诸恶的光。你不应当仅抱着你妈不放，而应该看看诸神的旨意。</Dest>
+    </String>
+    <String List="2">
+      <Source>To Julianos for temperance, to Stendarr for mercy, to Mara for love.  And when I awoke the next morning, my cage was gone, as was my hunger.</Source>
+      <Dest>节制的尤里安诺思哟，仁慈的斯丹达尔哟，慈爱的玛拉哟。保佑我，愿我在第二天睁眼时，能让我脱离这笼子，脱离那难忍的饥饿。</Dest>
+    </String>
+    <String List="2">
+      <Source>In his arms he cradled an urn, filled with the dust of a vampire.   The dust was to be scattered around my cell, as proof of my demise.</Source>
+      <Dest>他抱着一个大瓮，里面装满了某位吸血鬼的灰烬，他将灰烬洒在我房间的周围，作为召唤我的凭依。</Dest>
+    </String>
+    <String List="2">
+      <Source>Free yourself of this curse, and we can continue our conversation.</Source>
+      <Dest>把你的诅咒给治好，然后我们再接着谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it does seem rather peculiar that not a single vampire would remain to guard these supplies.</Source>
+      <Dest>是啊，如果只有孤零零的一个吸血鬼被留下来看守这些补给品的话那才奇怪呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the last two years I have embarked on a single road.  Ours was to walk its twists and turns, overcome its many obstacles.</Source>
+      <Dest>两年来我一直走在一条小道上。我穿过了它的蜿蜒曲折，征服了沿途的艰难险阻。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am afraid it is to late for your brother, but there is still hope for you. I spoke with Falion as promised, and his was to provide a cure.</Source>
+      <Dest>恐怕对你的兄弟来说有点晚，但你还是有希望的。正如我所承诺的，我跟法利昂说话了，他会提供一种治疗方法的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have heard disturbing stories of vampires phasing through the ice floes that line the White River.  It would be safe to always use the bridge.</Source>
+      <Dest>我听说过那个让人不安的故事，讲的是吸血鬼沿着白河一步步的走过浮冰。要是走桥的话它会更安全些。</Dest>
+    </String>
+    <String List="2">
+      <Source>Today members are handpicked and trained from a young age.  Ours was a life cloistered in barracks and libraries, sharpening the weapons of war.</Source>
+      <Dest>如今的成员都要从一群年轻人之中挑选并训练。我们生活在与世隔绝的营房和图书馆之中，磨利战争的武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>When you eliminated the thralls, I had no choice but to join the fight. </Source>
+      <Dest>当你干掉了奴隶们的时候，我别无选择，只有加入战斗。 </Dest>
+    </String>
+    <String List="2">
+      <Source>And yet, to hear your words, I am left in doubt.</Source>
+      <Dest>然而，听了你的话，给我留下了一点疑问。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours was to follow the lead here to Boulderfall Cave.  One could only pray to Arkay that our arrival was not too late.</Source>
+      <Dest>我们跟着领队到了落石洞穴. 只能祈祷该我们还来的不是太晚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is to reflect and to learn. Yet worry not, for with each trial, our faith only grows stronger.</Source>
+      <Dest>你还需要表现和学习。但无需担心，因为每经一场磨难，我们的信念只会愈发强大。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.  I'm sure with an enchantment, it'll fetch a good price.</Source>
+      <Dest>谢谢你。我肯定这东西被附魔了，它会卖个好价钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a mage in Morthal named Falion who can cure you of your desire to feed.  Seek him out, and you and I will have no quarrel.</Source>
+      <Dest>那个在墨索尔城的，名叫法利昂的法师可以治疗你的食欲。把他找出来，你我之间就没有口角了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This war was thrust upon you, but we have been fighting it from the moment we were conceived.</Source>
+      <Dest>你被卷进了这场战争，但是我们从教会被构想伊始就已经在为之奋斗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Animals of the wild are mindless killers, as that is how they survive.  They have no place amongst mortals, however. We should slay them quickly.</Source>
+      <Dest>动物们是毫无思想的屠戮者，因为这是它们求得生存的方式。然而它们在人类之中没有立足之地。我们应该尽快解决掉它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ours is to direct you on the path to salvation, and hope that the Divines grant you the wisdom to walk it.</Source>
+      <Dest>我们的任务是将你引向救赎之路，然后祈祷诸神能赐予你一直走下去的智慧。</Dest>
+    </String>
+    <String List="2">
+      <Source>His was to tell me a story, of a cold, bleak night...when the walls of his home were painted in blood.</Source>
+      <Dest>他曾经给我讲了一个故事，关于一个凄凉，冰冷的夜晚的故事……在那一晚，他家的墙壁溅满了鲜血。</Dest>
+    </String>
+    <String List="2">
+      <Source>Theirs is a centuries old order, dating back to the Oblivion Crisis.  It began as merely a gathering of feeble lords, until the Divines intervened.</Source>
+      <Dest>他们是一个有数百年历史的教会，能一直追溯至湮灭危机。开始的时候那只是一些小领主的集会，直至某天圣灵介入其中。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when they have grown to full size, it is the parents on whom they feast.</Source>
+      <Dest>而当它完全长大以后，它会将自己的父母当成一顿大餐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like a proper Vigilant. Ours was to hope you would join the Order.</Source>
+      <Dest>你听起来真像一个高贵的警戒者。我们真诚地希望你能加入我们教会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Answer my query, and I will tell you if wars have any meaning.</Source>
+      <Dest>首先回答我的问题，然后我会告诉你战争是否有意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is the meaning of war?  It is to fight for a cause that is absolute, against an evil that deserves no clemency.</Source>
+      <Dest>战争的意义是什么？是为了一个绝对的原因而努力奋战，对抗不值得宽恕的邪恶。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I can never tell if you're using humor.</Source>
+      <Dest>(笑声) 我真想不到你还懂得幽默哪。</Dest>
+    </String>
+    <String List="2">
+      <Source>These servants of the dragon priests have rotted over time.  One might be able to pinpoint the age of a barrow but the rot of its Draugr.</Source>
+      <Dest>随着时间的推移，这些龙祭祀的仆从慢慢腐烂了。除了看尸鬼的腐烂程度，我们也许有别的法子来判断这个手推车的年头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Patience, Vigilant. I believe his was to tell the truth. These crates could be filled with supplies and food, ransacked from the docks of Windhelm.</Source>
+      <Dest>有点儿耐心，警戒者。我相信他说的是真的。这些箱子可能装满了补给和食物，都是从风盔城码头抢来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>When one is told that his very breath will kill the lives of the innocent, then it is selfish for him to inhale so that others cannot.</Source>
+      <Dest>一个人告诉他，他的呼吸会杀死无辜的生命，因为自己的呼吸而导致别人不能呼吸的话，这是自私的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Arlas is right, and sickness is a virtue, then this one can still be saved.  Point her to Falion in Morthal, if you have not already.</Source>
+      <Dest>如果阿尔拉丝是正确的，软弱是一种美德，那么这个人仍可以获救。如果你还没有这么做，那么指给她去莫萨尔的法利昂的路。</Dest>
+    </String>
+    <String List="2">
+      <Source>I even gave a similar reply. But Arlas...his was to return my laughter with a steely gaze, and a pain whose depth was unimaginable.</Source>
+      <Dest>我甚至作出了相似的答复。但阿特拉斯...他回应我笑声的是钢铁般的凝视。痛楚的程度深得难以想象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>The inn is the heartbeat of every city, and it is wise to gauge its pulse before venturing out.</Source>
+      <Dest>旅馆是每一座城市的心跳，最聪明的做法莫过于在探险之前测量它的脉搏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not if the child had no intention of being cured. I had expected a girl frightened, ashamed, her face peaked from the ordeal. Hers was not.</Source>
+      <Dest>要是那孩子不想被治愈呢。我曾希望女孩只是被吓坏而感到羞愧了，她的脸是因那痛苦的折磨才扭曲的。但她不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your kind are my sworn enemy.  Yet I have noticed that unlike the child, you are not hostile, and I hope that you will consider my words.</Source>
+      <Dest>你的仁慈就是我的敌人。但我意识到我已经不是个孩子了，你也不是我的敌人。我希望你能想想我说的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Sanguine Vampiris is merely a disease, one that can be cured, then my faith is once more cast into doubt.</Source>
+      <Dest>如果猩红吸血热是一种罕见的，能够被治愈的疾病，那么我的信仰就又一次遭到了质疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hers was to run to where no one else could find her.  The caves and nooks where darker forces wish to carry on unseen.</Source>
+      <Dest>埃尔跑到了没人可以找到她的地方。任何被阴影覆盖的洞穴或者角落。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I thought we were going to leave on bad terms.</Source>
+      <Dest>在这里，我想我们应该试图修复不和谐的关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yours is truth I once believed.  But in the years that followed I was riddled with doubt, wondering if I should have done more for my friend.</Source>
+      <Dest>曾经你说的对我来说都是真理。  但跟随了你这么多年我不禁怀疑，是否应该多为我的朋友们做些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps. Yet they could also belong to vampires, stocking up for a protracted dawn.</Source>
+      <Dest>也许。但他们也可能属于吸血鬼，为漫长的黎明做准备.</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, it wasn't the late nights or bad excuses.  I could have my secrets.  She wanted the rest of me, and I was unable to give it to her.</Source>
+      <Dest>最终，根本不是因为夜太深或别的烂借口。只是我有我的秘密。她却想知道我的一切，但我不能告诉她。</Dest>
+    </String>
+    <String List="2">
+      <Source>You...you may be right. Was I blinded by what happened to Arlas? Is this girl no different than that child?</Source>
+      <Dest>你。。你可能是对的。我被发生在Arlas身上的事情蒙蔽了双眼? 这个女孩和那个孩子是一样的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive me, but I would like to explore other avenues first.</Source>
+      <Dest>原谅我，但我想先试试其他途径.</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>No. These were not children. As the Vigilant says, they are abominations. </Source>
+      <Dest>不，他们不是孩子，如同警戒者所言，他们是令人恶心的怪我。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Divines cleanse your blood.</Source>
+      <Dest>真神将会净化汝之血脉。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Then it's true. My guilt over Arlas' death caused me to abandon the fundamental principle of the Order.</Source>
+      <Dest>（叹息）那么说这是真的。我对奥拉斯之死的愧疚使我放弃了教团的基本原则。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the boy had a choice when he was infected. He could have chosen not to feed. He could have chosen to take his own life.</Source>
+      <Dest>是的，在刚被感染时，那个男孩确实有几个选择。他可以选择拒绝进食，或者结束掉自己的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.</Source>
+      <Dest>谢谢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I thank you once more for your counsel.  It is difficult to know whether the decisions one makes are right, without another set of eyes.</Source>
+      <Dest>另外，我得谢谢你的再一次的忠告。因为一个人很难看清自己下定的决心是否正确。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps there was another way.  A way to convince the girl of her mistake.  One that I was trained by The Order not to see.</Source>
+      <Dest>也许还有另一个方法。一个可以说服那个女孩看到自己错误的方法，我被那个看不见的食罪人教导过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nor is it so rigid that it cannot tell the difference between those who feed and those who seek a cure.</Source>
+      <Dest>它并不是那么有着明显地界线，它不能告诉你两者之间的区别，哪一些是食物，哪一些是草药</Dest>
+    </String>
+    <String List="2">
+      <Source>Courage alone, however, was not enough to prepare us for what lay in that den, nearly four winters ago.</Source>
+      <Dest>勇气伴我左右，但是，对于四年前被困在那个贼窝里的我们来说，还不大够用。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a long way to Windhelm, Vigilant, and the further we descend, the less obstacles to tunnel through.</Source>
+      <Dest>到风盔城的路很远, 警戒者, 我们越是向下深入，穿越地道时所遇到的困难就会越少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed.  Vampires may cling to the fringes, but we cannot mistake this for cowardice. This cave is proof of their ferocity.</Source>
+      <Dest>我同意。吸血鬼们也许会在偏僻的地方死守，但是我们不能把这种行为错误地理解为胆小。这个洞穴正是他们血腥残忍的见证。</Dest>
+    </String>
+    <String List="2">
+      <Source>When they brought me before the House Lord, I told him I did not kill those men.  He told me he already knew.  The real murderer was his own kin.</Source>
+      <Dest>当他们把我带到法庭时，我告诉他那些人不是我杀的。他说他已经知道了。真凶是他自己的亲戚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Including the unwitting necromancers that took her on as an apprentice.</Source>
+      <Dest>包括那些雇她做助手却毫不知情的亡灵术士们。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

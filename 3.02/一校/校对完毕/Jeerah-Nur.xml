@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Is there a particular ritual you have for your work?</Source>
+      <Dest>你的工作需要特别的仪式吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough riddles, pondscum.  Tell me who you are.</Source>
+      <Dest>别再扯谎了，混账。告诉我你到底是谁。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you escape?</Source>
+      <Dest>你是怎么逃脱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're mistaken. I come to give alms to the poor and comfort to the sick.</Source>
+      <Dest>你错了。我是来救济穷人，安慰病人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's disgusting.</Source>
+      <Dest>真恶心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you have a bounty on your head.</Source>
+      <Dest>我知道你被通缉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you would rather I let them die.</Source>
+      <Dest>我想你宁愿我让他们去死。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you would rather I let them die.</Source>
+      <Dest>我想你宁愿我让他们去死。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you would rather I let them die.</Source>
+      <Dest>我想你宁愿我让他们去死。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just exploring.</Source>
+      <Dest>我只不过探索一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm the Dragonborn.</Source>
+      <Dest>我是龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm the Dragonborn.</Source>
+      <Dest>我是龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm the Dragonborn.</Source>
+      <Dest>我是龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then you won't mind if I spend these septims at the tavern instead.</Source>
+      <Dest>那么你不介意我把这些钱花在酒馆里吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then you won't mind if I spend these septims at the tavern instead.</Source>
+      <Dest>那么你不介意我把这些钱花在酒馆里吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you off in the corner?</Source>
+      <Dest>你为什么躲在角落？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you off in the corner?</Source>
+      <Dest>你为什么躲在角落？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you off in the corner?</Source>
+      <Dest>你为什么躲在角落？</Dest>
+    </String>
+    <String List="0">
+      <Source>Children are innocent.  There's a difference.</Source>
+      <Dest>孩子是无辜的，这不一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a pathetic justification for murder.</Source>
+      <Dest>听起来像在为你谋杀的动机找个可怜的托词。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a pathetic justification for murder.</Source>
+      <Dest>听起来像在为你谋杀的动机找个可怜的托词。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a pathetic justification for murder.</Source>
+      <Dest>听起来像在为你谋杀的动机找个可怜的托词。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a pathetic justification for murder.</Source>
+      <Dest>听起来像在为你谋杀的动机找个可怜的托词。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't strike me as a beggar.</Source>
+      <Dest>我并不觉得你是个乞丐。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't strike me as a beggar.</Source>
+      <Dest>我并不觉得你是个乞丐。</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dark Brotherhood is looking for new recruits.</Source>
+      <Dest>黑暗兄弟会好像在招募新人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dark Brotherhood is looking for new recruits.</Source>
+      <Dest>黑暗兄弟会好像在招募新人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it's quite lovely.</Source>
+      <Dest>是的，这挺可爱的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it's quite lovely.</Source>
+      <Dest>是的，这挺可爱的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it's quite lovely.</Source>
+      <Dest>是的，这挺可爱的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it's quite lovely.</Source>
+      <Dest>是的，这挺可爱的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you familiar with the Shadowscales?</Source>
+      <Dest>你对影鳞了解吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you familiar with the Shadowscales?</Source>
+      <Dest>你对影鳞了解吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just an adventurer.</Source>
+      <Dest>我只是一个冒险家。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have some more questions.</Source>
+      <Dest>我还有一些问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's none of your business.</Source>
+      <Dest>这不关你的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can spare gold, if you need it.</Source>
+      <Dest>如果你需要的话，我可以施舍一些金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>The example I gave was merely to make a point.  It's not the reason why I kill.</Source>
+      <Dest>我说的例子仅是用来表达我的意思。这不是我杀戮的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>The miners bring me food and drink.  What I give in exchange needs not be said.</Source>
+      <Dest>那些矿工给我食物和饮料，而我用什么去交换就不用说了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You misunderstand my words.  I said your efforts were futile.  I never said you should stop.</Source>
+      <Dest>你误会我的话了。我说你的努力是徒劳。我从没说你该收手。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I'm just a beggar, peddling for alms.</Source>
+      <Dest>而我只是个乞丐。逢人乞求施舍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, there is a way out.  The girl lacks the courage to do it on her own.  You can help her.</Source>
+      <Dest>当然啦，是有解决的办法。那女孩没有勇气自己来。你可以帮她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, there is a way out.  The girl lacks the courage to do it on her own.  You can help her.</Source>
+      <Dest>当然啦，是有解决的办法。那女孩没有勇气自己来。你可以帮她。</Dest>
+    </String>
+    <String List="2">
+      <Source>What gives one life more value than another?  The bones of a thousand corpses lay behind you, but you gawk at the suggestion I harm a child.</Source>
+      <Dest>是甚么让一个生命比其他生命更有价值？你已经一将功成万骨枯了，但你却漠视我伤害孩童的这个提议。</Dest>
+    </String>
+    <String List="2">
+      <Source>It isn't gold that the people here need.  It only serves to prolong their agony and delay their suffering.</Source>
+      <Dest>这里的人需要的不是金币。那只能让他们苟延残喘，延迟他们的痛苦罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're quick to anger, but you smell of confidence, not fear.  Interesting.  I'll tell you who I am, if you'll return the favor.</Source>
+      <Dest>你很容易被激怒，可是你散发着自信，无所畏惧。真有趣。我会告诉你我的真面目，只要你为我做件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The few villagers who didn't see the hand were quick to smell it.  The others just followed the screams.  </Source>
+      <Dest>寥寥几个没看见那只断手的村民也很快就闻到了上面的血腥味儿。其他人只是跟着尖叫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shadows may cover, but light conceals.</Source>
+      <Dest>阴影降临，光明退却。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take the sick one, Cairine. She lies all day in her own filth, gripping her stomach in pain. </Source>
+      <Dest>就拿生病的凯林来说吧。她整天被自己的脏水泡着，痛苦地抱着自己的胃。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take the sick one, Cairine. She lies all day in her own filth, gripping her stomach in pain. </Source>
+      <Dest>就拿生病的凯林来说吧。她整天被自己的脏水泡着，痛苦地抱着自己的胃。</Dest>
+    </String>
+    <String List="2">
+      <Source>Different bodies make different music, and what I keep can vary.  I do take particular pride in the strips I craft at the tanning rack.  </Source>
+      <Dest>人千百种，谱出千百种曲，就算同首曲子我也能变奏。我特别以我在制革架上制造的皮带为荣。</Dest>
+    </String>
+    <String List="2">
+      <Source>That you are, and the dragons are your prey.</Source>
+      <Dest>你就是杀手，而龙就是你的猎物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I'm just a beggar, and these warrens are my home.</Source>
+      <Dest>那我不过只是个乞丐，以这些陋巷为家。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the most painful way to die is also the fastest way to die.  That is a shame.</Source>
+      <Dest>他们说最死去的痛苦的方式，也就是最快的方式。这真是一种耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>By submitting.  First, I planted the idea I was worth more alive than dead.  And the smaller the company, the bigger the share.</Source>
+      <Dest>我最后屈服了。首先，我说服他们让我活着比死更有价值。其次，同伴越少，剩下的人分得的份额越大。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was forced to slip my bonds earlier than planned.  It's far more difficult to escape four than two, but I managed to lose them at the border.</Source>
+      <Dest>我不得不比原计划提前些开溜。从四个人眼皮下逃走可比两个难多了，不过我还是想办法在边境甩掉了他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fear that comes from Illusion magic produces no sound.</Source>
+      <Dest>那种来自幻术魔法的悄然无声的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then ask them, unless you fear the answers.</Source>
+      <Dest>那就问啊，除非你害怕听到答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>An innocent child is like a glass of unspoiled milk.  Only in the void can they be preserved.</Source>
+      <Dest>一个无辜的孩子像是一杯未受污染的牛奶。只有在虚空中可以被保存下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>To put it bluntly, I'm a killer.  Just as mothers nurse their young, or a thief is compelled steal, I crave the kill.</Source>
+      <Dest>说穿了，我就是个杀手。就像母亲育哺幼子，或窃贼无法抗拒去偷。我渴望着杀戮。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many who reside here would not share such sentiments.</Source>
+      <Dest>许多人住在这里却没有这样的感觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>It didn't take an oracle to see what would happen next.  Greed wet their lips like the mouth of a rootworm.</Source>
+      <Dest>它没有考虑看看接下来会发生甚么。贪欲已把他们的唇濡湿得像是根虫的嘴似的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kill for my own enjoyment.  That is my justification.</Source>
+      <Dest>我享受着杀戮。这就是我的合理的解释。</Dest>
+    </String>
+    <String List="2">
+      <Source>The town guard and local sellswords surrounded me.  Even the farmers drew their daggers.</Source>
+      <Dest>城镇卫兵跟当地的佣兵包围着我。就连农民都抽出匕首。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was near a small hamlet south of Farrun when the skin of a man, mottled with bruises and calluses, called for my blade.</Source>
+      <Dest>我曾在法朗南边的一座小村子附近遇见一个男人，他斑杂着瘀青与老茧的皮肤呼唤着我的锋刃。</Dest>
+    </String>
+    <String List="2">
+      <Source>The purse, of course, was not filled with septims, but the hand of a Bosmer I had taken in Wayrest.</Source>
+      <Dest>当然，钱包里装着的不是满满的金币，而是一只我从途歇城取得的木精灵的手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Typically the warrens only beckon those who seek death.  Can you hear it?  Such sweet music.</Source>
+      <Dest>通常陋巷区只会呼唤寻死之人。你能听见吗？多么甜美的音乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>The problem was the last four were brothers, and not even the green slime of Black Marsh could dissolve their bond.</Source>
+      <Dest>问题是那最后四个兄弟，就连黑沼泽的绿色黏液也不能溶解他们之间的羁绊。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I do is for my own pleasure, and to do it any other way would spoil the kill.</Source>
+      <Dest>我这么做只是为了自己的乐趣，用别的方法只会糟蹋了杀戮。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Breton girl at the Hag's Cure.  Her neck screams for the mercy of my blade.</Source>
+      <Dest>这个在鬼婆妙方的布莱顿女孩。她的喉咙尖叫着乞求我刀下留情。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Shadowscales were an order of assassins in Black Marsh, born under the sign of the Shadow.</Source>
+      <Dest>影鳞曾是黑沼泽的刺客密社，在阴影的笼罩之中诞生。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sound directed my eyes to the local blacksmith.  A Redguard, very stout, but his bones sang with fear.</Source>
+      <Dest>那声响把我视线导引在当地的铁匠身上。一个红卫人，体型非常魁梧，但他的骨头却因惊惧而颤出声响。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kill to smell the hot odor of sweat on my victim.  To see their eyes paralyzed with fear.</Source>
+      <Dest>我杀戮是为了一尝被害者的汗液散发出的炙热芬芳，欣赏他们的眼睛因恐惧而变得涣散。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then do not let me stop you.  Explore away, and sate your hunger.</Source>
+      <Dest>那就别让我阻止你。去探索吧，去满足你的饥渴感吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many who pursue me, some of whom do not know the face of their quarry. As of this moment, however, it's sellswords that chase me.</Source>
+      <Dest>很多人在追捕我，有些人甚至不晓得我的长相。然而，当下追杀我的是一位佣兵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...your eyes whisper such beautiful music.</Source>
+      <Dest>嗯...从你那眼中似乎能流淌出一段曼妙旋律。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the drowned do not suffer.  That is unfortunate, given the layout of this city.</Source>
+      <Dest>他们说淹死反而不痛苦。倒霉的是，这城市的格局就这样啰。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kill to touch my knife to their flesh, to listen to the music of their trembling bodies.</Source>
+      <Dest>我杀戮是为了让我的刀触碰他们的鲜肉，为了聆听他们颤抖着身体的音律。</Dest>
+    </String>
+    <String List="2">
+      <Source>Her body yearns for your steel, to feel its fiery kiss.</Source>
+      <Dest>她的身体渴求你的兵器，让她感到它火样的热吻。</Dest>
+    </String>
+    <String List="2">
+      <Source>If charity brings you pleasure, who am I to deny you that fruit.  Give the poor fools your alms, and ease the burden of your guilt.</Source>
+      <Dest>要是你觉得施舍有意思，我是谁啊干嘛要拦着。请那些穷鬼喝你的酒，好减轻你内心的愧疚。</Dest>
+    </String>
+    <String List="2">
+      <Source>An astute observation.  Most are too quick to trust the eyes, even as their blood curdles inside.</Source>
+      <Dest>敏锐的观察力啊。人们通常都太快相信自己的眼睛，即使他们体内的血液已经冻结。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's always safety in the shadows for those who embrace it.</Source>
+      <Dest>对信奉阴影的人来说，阴影总是安全处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then, just as I turned I stumbled into a street urchin. He was a pickpocket, but a clumsy one, and in the tussle my coin purse fell to the ground.</Source>
+      <Dest>然后，就当我转身的时候，撞到了一个街头的野孩子。他是个扒手，不过笨手笨脚的。在扭打中我的钱包掉到地上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>非常好。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're a strange one, however.  Your heart beats with neither pity or malice.  Your bones speak in a tongue I do not know.</Source>
+      <Dest>不过你是个奇怪的人。你的心跳中没有怜悯或忿恨。你的骨骼用一种我不明白的口吻诉说。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sellswords were quick to turn on the guards, and even quicker to turn on themselves.  After two days on the road only four remained.</Source>
+      <Dest>佣兵们很快将剑口掉转向守卫，甚至更快的自相残杀了起来。在逃亡了两天之后，还活着的就只剩下四个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>As agreed, I'll tell you who I am...what I am, and you may respond as you see fit.</Source>
+      <Dest>按照我们说好的，我会告诉你我是谁…我的真面目，你可以等决定了再答复。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard tales that the order is extinct.  Still, if lives are left to flourish, then death will flourish, and the Shadowscales will return.</Source>
+      <Dest>我听人说那个密社已绝灭了。即便如此，只要生命继续开枝散叶，那死亡就会繁盛不坠，而影鳞终将归来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Others do not trust their eyes enough.  It's how I hide in plain sight, outside the very walls they seek to trap me in.  </Source>
+      <Dest>其他人不太相信自己所见。这是为何我能隐身与众目睽睽之下，在那堵墙垣之外他们极力想要使我坠入罗网。</Dest>
+    </String>
+    <String List="2">
+      <Source>You do realize such efforts are futile.  You prolong their agony, and delay their suffering.</Source>
+      <Dest>你应该知道这种努力是徒劳的。你只是延长了他们的折磨，延缓了他们的苦难。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, that's one way to go about it.  Another way is to be the instrument of their death.</Source>
+      <Dest>是啊，那是这样做的一种方法。另一种方法是加工它们的死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although they still have my...things.  I wonder if they're smart enough to know I'll come back for them.</Source>
+      <Dest>虽然他们仍然拥有我的…东西。不知他们是否够聪明知道我会回来找他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Truth be told, I share a similar need.</Source>
+      <Dest>说实话，我有类似的需要。”</Dest>
+    </String>
+    <String List="0">
+      <Source>Murder is unnatural.</Source>
+      <Dest>谋杀是违背人性的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Murder is unnatural.</Source>
+      <Dest>谋杀是违背人性的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I guess I'm not opposed to killing children. It depends on the child.</Source>
+      <Dest>我不反对杀小孩。这要看是什么小孩。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you would rather I let them die.</Source>
+      <Dest>我想你宁愿我让他们去死。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you would rather I let them die.</Source>
+      <Dest>我想你宁愿我让他们去死。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Men kill and men die, but it's rarely for such grotesque pleasure.</Source>
+      <Dest>杀人与被杀，但很少会有人有这么奇怪的娱乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>Men kill and men die, but it's rarely for such grotesque pleasure.</Source>
+      <Dest>杀人与被杀，但很少会有人有这么奇怪的娱乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you really?</Source>
+      <Dest>你到底是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't let a monster like you live.</Source>
+      <Dest>我可不能让你这样的怪物活在这世上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't give to feel good about myself.</Source>
+      <Dest>我一点也没有自我感觉良好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you murder children?</Source>
+      <Dest>你说你连小孩都杀？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you murder children?</Source>
+      <Dest>你说你连小孩都杀？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you murder children?</Source>
+      <Dest>你说你连小孩都杀？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>And how may I ask do you deliver these souls to the void?  No, don't tell me.  Some things are best left to the imagination.</Source>
+      <Dest>而我该如何去问你这些灵魂是否湮没于虚无了？不，别告诉我。有些事情还是留下想像空间的好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh yes.  Gleefully.  The squeal of a young child in the throes of panic is sweet, the cries of her mother divine.</Source>
+      <Dest>噢是啊。兴高采烈呢。小女孩在恐慌中的尖啸真是鲜甜，而她母亲的哭嚎有如天籁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>哈？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's best when they're at an age when they can contemplate fear, yet are not old enough to manage it.</Source>
+      <Dest>最高潮的部分是当小女孩还在能思量恐惧为何的年纪，却还不够成熟驾驭恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolves die, the rabbits return.  This is how death protects life.</Source>
+      <Dest>狼群既死，狡兔归巢。这是死亡保护生命的方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pity or desire, good or evil, why you kill isn't important.  Just that you savor it, the way she will savor the void.</Source>
+      <Dest>悯与欲、善与邪，你为何而杀并不重要。重要的是你品尝着回甘，就像她品尝着虚无那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>All things are for pleasure.  There are mothers who kill their children to ease their workload.  Boys who kill their fathers to earn an inheritance.</Source>
+      <Dest>每件事都是娱乐消遣罢了。有的母亲杀掉自己的小孩藉以减轻自身负担。也有男孩干掉自己的父亲藉以谋权窜位。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would ask the same.  Your body is unlike the others.  It doesn't betray your thoughts.  I'm curious as to why.</Source>
+      <Dest>我也想这样问。你的身体不像其他人那样。它不会违背你的意志。我很好奇为什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>To each his own.</Source>
+      <Dest>人各有志。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Her body yearns for your steel, to feel its fiery kiss.</Source>
+      <Dest>她的身体渴求你的兵器，让她感到它火样的热吻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your muscles tense with rage.  It seems the kill calls to you.  </Source>
+      <Dest>你的肌肉因狂怒而绷紧。感觉到杀戮在呼唤你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but you do, for there is no other reason to give.  Selflessness is a lie.  Even charity is selfish.</Source>
+      <Dest>喔，但你有啊。因为给予没有别的道理了。无私无我是个谎言。即使施舍本身也是自私的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>When a pack of wolves grows too large for the forest, the pack must devour their young or risk starvation.</Source>
+      <Dest>当狼群的数量超出森林所能负荷，它们就得狠毒食子，否则就会饿死。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>All of this works to titillate the palate before the kill.</Source>
+      <Dest>这些工作全是为了在宰杀之前挑逗味蕾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pleasure takes many forms.  Men kill for power, for lust, and for greed.  I simply remove the middle man.</Source>
+      <Dest>娱乐有很多形式。人会为了权力、情欲、贪欲而杀人，我只不过是删掉其中某些环节而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

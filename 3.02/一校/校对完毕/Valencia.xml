@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Was this item an Elder Scroll?</Source>
+      <Dest>这件物品是上古卷轴吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was this item an Elder Scroll?</Source>
+      <Dest>这件物品是上古卷轴吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you appraise an item for me?</Source>
+      <Dest>你能为我鉴定一样东西吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's the Nord?</Source>
+      <Dest>那个诺德人是谁?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's the Nord?</Source>
+      <Dest>那个诺德人是谁?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's the Nord?</Source>
+      <Dest>那个诺德人是谁?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's the Nord?</Source>
+      <Dest>那个诺德人是谁?</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, was it?</Source>
+      <Dest>好吧，就是它？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fair enough. How do you determine that?</Source>
+      <Dest>很好. 你怎么确认那个的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any idea where this Nord went off to?</Source>
+      <Dest>你觉得这个诺德人要去哪里？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any idea where this Nord went off to?</Source>
+      <Dest>你觉得这个诺德人要去哪里？</Dest>
+    </String>
+    <String List="0">
+      <Source>This skull once belonged to an Orc.</Source>
+      <Dest>这个骷髅本来是一个兽人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This skull once belonged to an Orc.</Source>
+      <Dest>这个骷髅本来是一个兽人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, I think I'll hold on to it.</Source>
+      <Dest>不，我想我会坚持住的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I actually have an Elder Scroll.</Source>
+      <Dest>事实上，我有上古卷轴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you were willing to buy a fake?</Source>
+      <Dest>你是說你愿意买假货吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You've got yourself a deal.</Source>
+      <Dest>你让自己捡了个大便宜。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've got yourself a deal.</Source>
+      <Dest>你让自己捡了个大便宜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>说说你的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>说说你的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>说说你的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes something extremely valuable?</Source>
+      <Dest>什么赋予事物如此大的价值？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes something extremely valuable?</Source>
+      <Dest>什么赋予事物如此大的价值？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have anything at the moment.</Source>
+      <Dest>目前我一切安好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I completely agree. I'm the same way.</Source>
+      <Dest>我完全赞同。我采取了一样的方式。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those aren't mutually exclusive. You can be an optimistic realist.</Source>
+      <Dest>那些并不是互相排斥的。你能够成为一个乐观的现实主义者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Those aren't mutually exclusive. You can be an optimistic realist.</Source>
+      <Dest>那些并不是互相排斥的。你能够成为一个乐观的现实主义者。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know if an item you're appraising is real or fake?</Source>
+      <Dest>你咋知道你正在看的这个是真是假？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know if an item you're appraising is real or fake?</Source>
+      <Dest>你咋知道你正在看的这个是真是假？</Dest>
+    </String>
+    <String List="0">
+      <Source>What determines an item's worth?</Source>
+      <Dest>是什么决定一样事物的价值？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your relationship to the guild?</Source>
+      <Dest>你和那公会有什么关联？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's not a good thing. Nobody enjoys being around someone like that.</Source>
+      <Dest>那不是什么好东西。没人会喜欢跟它混在一块儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's not a good thing. Nobody enjoys being around someone like that.</Source>
+      <Dest>那不是什么好东西。没人会喜欢跟它混在一块儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to know more about you as opposed to your occupation.</Source>
+      <Dest>我想更多地了解你这个人，而不是你的职业。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I want to know more about you as opposed to your occupation.</Source>
+      <Dest>我想更多地了解你这个人，而不是你的职业。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Whoa. Hold the courier. Someone like you has friends?</Source>
+      <Dest>嚯！叫住那个信使！你这样的人居然也有朋友？</Dest>
+    </String>
+    <String List="0">
+      <Source>Whoa. Hold the courier. Someone like you has friends?</Source>
+      <Dest>嚯！叫住那个信使！你这样的人居然也有朋友？</Dest>
+    </String>
+    <String List="2">
+      <Source>As are a lot of people. We're not as rare as people make us out to be. </Source>
+      <Dest>同样有很多人。我们没有像人们认为的那么罕见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Other things are undesirable, but it's precisely that quality that makes them rare.</Source>
+      <Dest>其他的东西都是不受欢迎的，恰恰是它的质量使他们变得稀有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, not you too. Fool me once, shame on you, fool me twice, shame on me.</Source>
+      <Dest>哦，不，不是你。骗我一次，那可耻的人是你，但如果骗了我两次，那么应该感到可耻的就是我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, damn. For a second I thought you were that Nord. I should've known he wouldn't change his mind.</Source>
+      <Dest>噢，该死的。我刚刚以为你是那个诺德人。我早该知道他不会改变心意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? I'm not even going to ask how you got it. But that Nord's loss is your gain.</Source>
+      <Dest>真的？ 我不会过问你是如何得到了它。 但你的得是那些诺德人的失。</Dest>
+    </String>
+    <String List="2">
+      <Source>A seller. He wanted to fence a valuable item. Tonilia asked me to make sure it was real. It wasn't.</Source>
+      <Dest>一个商人，他拿了个值钱货来销赃。托尼利亚让我去确认一下那是不是真货。结果不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Friends might say I'm a bit negative. But I prefer to think of myself as a realist.</Source>
+      <Dest>朋友们可能说我有些消极，但我更愿意认为我只是比较现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. Let me know if you do.</Source>
+      <Dest>好吧，要是你拿到了什么就跟我说一声。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you tell them the glass is half empty, they won't tell you it's half full. They'll tell you they aren't thirsty.</Source>
+      <Dest>如果你告诉他们杯子空了一半，他们不会告诉你还有半杯。他们会说自己不渴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Technically, you may be right. But optimism is like a moon sugar wisdom. It runs counter to rational thinking.</Source>
+      <Dest>逻辑上讲，你可能是对的。可是乐观主义就像月亮糖的智慧。与理性思维背道而驰。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, I know a man in Cyrodiil who knows a moth priest. If I need to appraise an Elder Scroll, I simply ask him what to look for.</Source>
+      <Dest>比如说，我知道有个塞洛狄省的人认识圣蛾祭司。如果我需要鉴定一份上古卷轴 ，我会干脆地去问他要寻找什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>It depends. Some things are highly desirable, so competition drives up the price.</Source>
+      <Dest>都是相对而言的。有些东西就是特别稀缺，竞争者自然就把价格抬高了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Suit yourself.</Source>
+      <Dest>随便你。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a lot to tell. Too much for one sitting. But we can start with what I do. I'm an appraiser. I gauge the value of things.</Source>
+      <Dest>要说的很多。一次根本说不完。不过我们可以从职业开始。我是个鉴定师。专门估量物品的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Easy. Whatever someone will pay for it.</Source>
+      <Dest>很简单。不过有人要为此付出代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>But it was a lie, and now you get to share in the disappointment.</Source>
+      <Dest>但是，那是个谎言，现在你不得不对付人们的失望了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a lot to tell. Too much for one sitting. But we can start with what I do. Like I told you, I'm an appraiser. I gauge the value of things.</Source>
+      <Dest>要说的很多。一次根本说不完。不过我们可以从职业开始。我是个鉴定师。专门估量物品的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it depends on your definition, really. I make it my business to know as many people as possible, to widen my knowledge base.</Source>
+      <Dest>好吧，确切地说，这取决于你怎么定义"朋友"这个词。对于我来说，结交各路朋友，眼观六路耳听八方是我的本职工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>As opposed to being around someone who's always cheery? I heard those people don't live nearly as long.</Source>
+      <Dest>总是独自一人郁郁寡欢？我听说那样的人活不长。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if you see anything you like.</Source>
+      <Dest>如果你看上了什么就请告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's what I do.</Source>
+      <Dest>这就是我做的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure. It was good seeing you. Too bad things didn't work out. But when do they ever.</Source>
+      <Dest>当然。见到你是很高兴。事没办成也很遗憾。可什么时候办成过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll give you 500 gold for it.</Source>
+      <Dest>我出价500金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd consider it. But not for that price.</Source>
+      <Dest>我会考虑的，但肯定不是那个价钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you find anything valuable on your travels, send it my way.</Source>
+      <Dest>当你在旅途中发现任何有价值的东西的时候，那就给我送过来吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>He mentioned he was going to try and find another buyer. I told him there's no one in Skyrim who won't know his scroll was a fake.</Source>
+      <Dest>他说他会去找下一个买家。我告诉他在天际没人会不知道他那卷轴是假货。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you know about it. Some people can't help but share a secret.</Source>
+      <Dest>现在你懂了吧，有些人除了四处抖露秘密以外什么忙都帮不上。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm an appraiser. Tonilia brings me in whenever she has something that goes beyond daggers and gemstones.</Source>
+      <Dest>我是个鉴定师。每当托尼利亚找到那些超出她认知的匕首和宝石的时候，都会带给我瞧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Experience. Knowing what people will pay, and how that changes with the market.</Source>
+      <Dest>经验之谈。我知道什么样的人会付钱，也知道怎么跟市场变化同步。</Dest>
+    </String>
+    <String List="2">
+      <Source>Probably because they're so busy petting wolves and rehabilitating bandits.</Source>
+      <Dest>可能是因为他们忙于抚摸狼以及改造强盗吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. Here's your gold.</Source>
+      <Dest>很好。这是你应得的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. Here's your gold.</Source>
+      <Dest>很好。这是你应得的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess calling them "friends" would make me a bit of an optimist. See? I'm not entirely negative. My friends are idiots.</Source>
+      <Dest>我猜把他们叫做“朋友”会让我乐观一些。看见了？我并不是总是消极的。我的朋友们都是群蠢货。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, the two are linked. My job makes me very critical. </Source>
+      <Dest>嗯，这两者是有联系的。我的工作让我极具批判精神。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was. And I considered buying it, but not for that price.</Source>
+      <Dest>没错。虽然我想要买，但我不接受这个价钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>As much as I'd like to take you up on your offer, I'm staying elsewhere. No offense, but you live in a sewer.</Source>
+      <Dest>差不多就是我愿意接受你的提议。我会往别处去。但无意冒犯，你可是住在下水道里。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's...unique, I'll give you that. And from what Galathil's told me about Orc skulls, possibly authentic.</Source>
+      <Dest>那东西...很罕见,我会给你那个。就从嘎拉瑟所告诉我的事情来看，兽人头骨可能是真的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

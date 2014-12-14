@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>Now it is Aduri who resents me, as we are constantly compared, and her work ethic is the one which bears the most resemblance to my mother.</Source>
+      <Dest>接下来就是因为长期竞争而一直对我不爽的阿杜瑞，她是职业道德跟我妈最相近的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Blast!  It seems no one is willing to take this infernal dog off my hands.</Source>
+      <Dest>糟糕！看来没人想从我这里接手这只该死的狗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even more curious was how the dog bared its fangs as if it meant to fight. It was far better off trying to annoy its assailants to death.</Source>
+      <Dest>更奇怪的是这死狗为何要咧着牙露出一副要干架的样子，还是别激怒它为好，不然会出人命的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed she was a woman that hailed from another time, one whose devotion had no limit and whose heart belonged to all.</Source>
+      <Dest>毫无疑问，她来自另一个时代，一个人人不求回报，心系众生的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed she was a woman that hailed from another time, one whose devotion had no limit and whose heart belonged to all.</Source>
+      <Dest>毫无疑问，她来自另一个时代，一个人人不求回报，心系众生的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you may know, the price of troll fat has dropped precipitously ever since the publishing of Finn's Guide to Troll Slaying.</Source>
+      <Dest>如你所知 ，巨魔脂肪的价格从芬恩的《巨魔屠杀指南》一书出版后便急剧下跌。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not if he has one. As far as I'm concerned, the only name he will ever have is that of a vile dog.</Source>
+      <Dest>就算他有名字也不足挂齿。对我而言，他只配被叫做“肮脏的野狗”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.  And what of you traveler?  Where do you hail from?</Source>
+      <Dest>很好。那你呢，旅行者？你从哪来？</Dest>
+    </String>
+    <String List="2">
+      <Source>I take heart in the fact that my father and that infernal dog will eventually both be residents of that realm.</Source>
+      <Dest>我因为我的父亲和这只该死的狗都会成为这片领地的居民这一事实感到震动。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the time being. To be truthful, I was not sure if Avrusa was willing to accept me into her home.</Source>
+      <Dest>暂时只能这样了。说实话，我不确定阿瓦卢萨愿不愿意让我进去屋内。</Dest>
+    </String>
+    <String List="2">
+      <Source>I still remember those ghostly eyes turn crimson with fury as I walked up the path to the farm.</Source>
+      <Dest>我仍然记得当我从小路走到农场时那些幽灵般愤怒的绯红色的眼睛。</Dest>
+    </String>
+    <String List="2">
+      <Source>My arrival here reopened an old wound. It didn't help that I bear a striking resemblance to my mother.</Source>
+      <Dest>我来这里只会重新揭开那个旧疮疤。就算我和母亲长得再像也没用。</Dest>
+    </String>
+    <String List="2">
+      <Source>My ancestors hail from Vivec City. When the Red Mountain spoke for the first time in ages, nearly all of Vvardenfell fled west to Skyrim.</Source>
+      <Dest>我的祖先来自维瓦克城。很久之前，红山第一次爆发时，几乎所有凡尔登高地的人都逃到了西部的天际省。</Dest>
+    </String>
+    <String List="2">
+      <Source>She is a hard woman and a good farmer, and no doubt never forgave my mother for leaving her alone to till the fields and care for her ailing family.</Source>
+      <Dest>她既是个刻薄的女人，也是个好农民，而且毫无疑问从没有原谅过我妈妈为了照顾生病的家人而留她一人孤单耕作。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a special place in the afterlife for those who abandon their wives and children.</Source>
+      <Dest>对于那些抛妻弃子的家伙而言这里算是来世的一个特别的去处。</Dest>
+    </String>
+    <String List="2">
+      <Source>If not for Aduri, who welcomed me like a sister, Avrusa would have never deigned to hear my request.</Source>
+      <Dest>如果不是因为阿杜瑞把我当姐妹，阿瓦卢萨才不会理睬我的请求呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a shame. To wander off without a place to return to is a lonely existence.  My mother was proof of that.</Source>
+      <Dest>那可真遗憾。四处游荡却无家可归是一种孤独的生存方式。我母亲就是个证明。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother migrated here with Avrusa Sarethi, and once worked in the very farm I now reside in.</Source>
+      <Dest>我母亲和阿瓦卢萨·萨雷提一起移居到了这儿，并且曾在我现在住的农场工作过。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how she met my father, a mage from the College of Winterhold. I never knew his name.  </Source>
+      <Dest>这就是她怎么遇到我那位冬堡学院的法师父亲的。我连我父亲的名字都不知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are mistaken.  There is no love.  Only hate.</Source>
+      <Dest>你错了。没有爱，只有恨。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are mistaken.  There is no love.  Only hate.</Source>
+      <Dest>你错了。没有爱，只有恨。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have met Nords who welcome you with open arms and proceed to wrap them around your neck.  Actions like these make you nothing but bearded Thalmor.</Source>
+      <Dest>我遇见过一些张开双臂欢迎你的诺德人，他们会紧接着把胳膊搭在你的脖子上。这样的动作只会让你看起来像个胡子拉碴的梭默。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I realized I did not care in the slightest what other dogs think, if they even think at all.</Source>
+      <Dest>然后我意识到我一点都不在意其它狗的想法，如果它们会思考的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>As someone who owns a considerable stash of the substance, it's in my best interest to make the item scarce.</Source>
+      <Dest>就像某人拥有一个巨大的藏宝室一样，我最大的兴趣就是让物品变得稀缺。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, he refuses to urinate on anyone but his master, a title that I would give my left ear and three of my toes to extricate myself from.</Source>
+      <Dest>不幸的是，他拒绝在任何人身上撒尿，除了他的主人，都是那个头衔让我丢了我的左耳和3个趾头才得以脱身。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that what your spouse tells you when you are in the privacy of your bed chambers?   You may want to reevaluate your interpretation of love.</Source>
+      <Dest>那就是你的另一半在卧室私下对你说的话？你也许需要重新考虑一下你对爱的理解了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a result, I have simply resorted to calling it "dog."</Source>
+      <Dest>于是，我就简单地称它为“狗”。</Dest>
+    </String>
+    <String List="2">
+      <Source>How should I know?  It doesn't seem to respond to "imbecile," and I cannot think of a more appropriate name.</Source>
+      <Dest>我怎么知道？叫它脑残它没反应，而我实在想不出一个更贴切的名字了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like the dog?  I do not like fleas.  I do not like unpleasant smells, having my face licked, or loud barking in the middle of the night.</Source>
+      <Dest>喜欢狗？我不喜欢跳蚤。我不喜欢它们难闻的气味，不喜欢它们舔我的脸，或者在晚上狂吠。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nords will welcome you with open arms and proceed to wrap them around your neck.  In my estimation they are nothing but bearded Thalmor.</Source>
+      <Dest>诺德人会张开臂膀欢迎你，并且把它们缠到你的脖子上。我估计他们不过是长了胡子的梭默人而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had just chased a particularly obnoxious troll back to its den, in hopes of eradicating the pack.</Source>
+      <Dest>我刚刚把一只特别讨厌的巨魔追杀回它的老巢, 希望能来个连锅端。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a tactic that has nearly felled me on more than one occasion.  I suspect the mongrel is attempting to kill me by having me commit suicide.</Source>
+      <Dest>这一招真是屡屡把我给撂倒。我怀疑那个杂种想逼得我自杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Its life was spared due to coincidence.  An unfortunate side effect.  At no point did I attempt to do it any favors.</Source>
+      <Dest>它能苟活全因巧合。这也带来了一个恶报。就是我绝不会试图去给它任何帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>The dog is a prodigy in this regard, and this trait does have potential when used as a weapon against haughty nobles.</Source>
+      <Dest>这只狗在这点上确实是个天才。而且这种能力在用来对付那些目中无人的贵族方面来说还颇有潜力。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure the trolls would rip me apart and feed on my innards, but at least I would have died happy, as opposed to living miserably.</Source>
+      <Dest>我很确定巨魔会把我撕碎了吃我的内脏，但我能够光荣地死去而不是悲惨地活着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whereas Avrusa and I are children of war and famine, and our hearts belong to no one.</Source>
+      <Dest>然而阿瓦卢萨和我都是在战争和饥荒中挣扎的孩子，我们的心不属于任何人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whereas Avrusa and I are children of war and famine, and our hearts belong to no one.</Source>
+      <Dest>然而阿瓦卢萨和我都是在战争和饥荒中挣扎的孩子，我们的心不属于任何人。</Dest>
+    </String>
+    <String List="2">
+      <Source>They were much too busy cornering a mangy dog, and the small army of fleas it held in its garrison.</Source>
+      <Dest>他们可真是太忙着照顾一条癞皮狗和在那狗身上驻扎着的跳蚤军团了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, but this particular animal is especially stupid, and perhaps requires a name to distinguish it from other dogs so that they are not offended.</Source>
+      <Dest>是啊，但这只动物是愚蠢中的佼佼者，或许需要一个名字把它和其他的狗区分开来，这样的话，就不会冒犯其他的狗了。</Dest>
+    </String>
+    <String List="2">
+      <Source>She would always be an outsider.  Wherever she went, it would never be home.  I return to Sarethi Farm every night to avoid a similar fate.</Source>
+      <Dest>她始终是个外人。无论她走到哪，那里都不会是她的家。我每晚都要回萨雷提农场，以避免相似的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Me?  No, you dunce, I was not referring to myself.  I was referring to the dog.</Source>
+      <Dest>说我吗？不，你个笨蛋，我不是针对我自己。我是针对这只狗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but which Skyrim do you speak of?  The one that is hostile to those like myself, or the one that gives shelter regardless of race or creed?</Source>
+      <Dest>你说的是哪个天际？对像我这样的人始终抱有敌意的天际，还是那个不分种族、宗教一概接纳的天际？</Dest>
+    </String>
+    <String List="2">
+      <Source>The dog does serve as excellent troll bait, or any bait for that matter.</Source>
+      <Dest>这条狗确实能当个很棒的巨魔诱饵，或者随便什么怪物的诱饵都行。</Dest>
+    </String>
+    <String List="2">
+      <Source>She had a strong love of life and all it had to offer, but at times it felt as if that love was unrequited.</Source>
+      <Dest>她热爱生命并且大爱无疆，但有些时候只有付出而没有回报。</Dest>
+    </String>
+    <String List="2">
+      <Source>Outside of that, the only quality the dog has that sets it apart from others is the impossible amount of urine it holds in its bowels.</Source>
+      <Dest>除此之外，这狗比起其他狗来说唯一的特殊之处就是它能把更大量的尿憋在膀胱里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did not find the cretin.  Our meeting was a small misunderstanding, and a rather large case of misfortune.</Source>
+      <Dest>我没有找到这个白痴。我们的相遇是一个小小的误会，但几率还是比这不幸的状况要大。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like Avrusa's sister, my mother was a free spirit. She left the farm to live as a vagabond, traveling across Skyrim in search of adventure.</Source>
+      <Dest>就像阿瓦卢萨的姐妹一样，我的母亲也有向往自由的灵魂。她离开了农场四处流浪，为了寻找冒险而走遍了整个天际省。</Dest>
+    </String>
+    <String List="2">
+      <Source>Therefore I do not see how you came to the conclusion that I would like the company of a flea-ridden, malodorous, cacophony of fur such as this one.</Source>
+      <Dest>所以我不知道你是从哪儿得出“我想找个满身跳蚤，臭气熏天，吵吵嚷嚷的皮草当同伴”这么个结论的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may call it home, but I've seen dungeons that were more hospitable to outsiders.</Source>
+      <Dest>你可以把它叫做家园。但我可看见过比起你所谓的家园而言，对外来者更加热情友好的地牢呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now where did that blasted dog go?  There's no way I could have lost him this easily.</Source>
+      <Dest>那个混蛋现在去哪儿了？我可不会这么简单就放过他。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, if I had to do it all over again, I might have spared the trolls and used all my remaining magicka on the dog.</Source>
+      <Dest>事实上，如果我不得不重头再做一次，我可能会放过这只巨魔并将我剩余的法力全都花到这只狗身上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the trolls made no attempt to acknowledge my presence.</Source>
+      <Dest>只有巨魔才不承认我的存在.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>警卫逮捕我父亲的唯一原因是因为他被迫在孤独城过夜了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet deign she did, and when I told her how much I would pay for room and board, she quickly reversed her position.</Source>
+      <Dest>但是看看她做的吧，当我告诉她我得在食宿上花多少钱的时候，她立马就改变自己的态度了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I presume you mean the sands of Elsweyr.  Warm weather is often a stranger here in Skyrim, but as a Dunmer, perhaps it is for the best.</Source>
+      <Dest>我想你说的大概是艾斯维尔的沙。在天际省，温热的天气非常少见，但是作为一个暗精灵，那种气候才是最好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I shudder at the thought of putting such a weapon in this furry cretin.</Source>
+      <Dest>一想到把这样一把武器放在那个毛茸茸的白痴手上，我便不寒而栗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although far be it from me to dissuade you.  I'm sure you will have considerable success teaching it to fetch your slippers in the morning.</Source>
+      <Dest>但我是不会阻止你的。我敢肯定你能在教它早上叼来你的拖鞋这方面相当成功。</Dest>
+    </String>
+    <String List="2">
+      <Source>You...what?  Is that a joke?  Or some sort of perversion?  Be gone.</Source>
+      <Dest>你......什麽？这是玩笑还是什么变态玩意儿？滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Traveler, are you by chance in need of a companion?</Source>
+      <Dest>旅行者，你偶尔会有想要一个同伴的需求么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It will yip, grumble, gnarl, bite and bellow.  The idea that you want to teach it to shout is confounding to say the least.</Source>
+      <Dest>它会叫喊，咕哝，吼叫，不言不语或是放声咆哮。你想教它吼声的主意至少现在看来是令人吃惊的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The loyalty of mortals is indeed a rare and treasured thing.  </Source>
+      <Dest>人类的忠诚可真是稀有而宝贵的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, invariably so.  Do not think I haven't considered it.  I would very much enjoy seeing the dog's face with a dagger sticking out of its skull.</Source>
+      <Dest>是啊，总是这样。但别以为我没有认真考虑过。我特别喜欢把匕首插进狗的头骨里，然后欣赏它的表情。</Dest>
+    </String>
+    <String List="2">
+      <Source>She suggested we name the foul mutt "Sinderion."</Source>
+      <Dest>她建议我们管这个臭杂种叫“辛德里安”。</Dest>
+    </String>
+    <String List="2">
+      <Source>She told me Avrusa was once the same, until tragedy and war toughened her resolve.</Source>
+      <Dest>她告诉我阿瓦卢萨也曾如此，直到悲剧和战争让她的决心变得坚韧无比。</Dest>
+    </String>
+    <String List="2">
+      <Source>She told me Avrusa was once the same, until tragedy and war toughened her resolve.</Source>
+      <Dest>她跟我说阿瓦卢萨曾经同样如此，直到悲剧和战争坚韧了她的决心。</Dest>
+    </String>
+    <String List="2">
+      <Source>In that case you are in luck.  For this dog here will never leave your side, no matter how many insults you hurl at it.</Source>
+      <Dest>这个情况下你挺走运的。你再怎么折腾它，这只狗也绝不会离开你的身边。 </Dest>
+    </String>
+    <String List="2">
+      <Source>For this "good boy" you speak of is no smarter than the boots he soils, and both are wiser than you.</Source>
+      <Dest>你所说的这个“好孩子”可没他鞋底的淤泥聪明，当然，无论哪个都比你聪明。</Dest>
+    </String>
+    <String List="2">
+      <Source>You and I are alike, Nord.  There will come a time when I visit the ash fallen lands of Morrowind, only to yearn for the snows of Skyrim.</Source>
+      <Dest>诺德人，你和我很像，有一次我看到了晨风被火山灰充斥着的大地，却只向往着天际省的雪。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like Aduri.  She suggested we name it "Bark-renziah" or something similarly childish.  At least Avrusa offered a male name.</Source>
+      <Dest>你说的跟阿杜瑞差不多。她建议我管他叫 "巴克—兹雅" 或者是类似的幼稚名字。至少阿瓦卢萨提供了一个比较爷们儿的名字呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your home is west, I take it?  Although many Orcs have never even set foot in the mountains of High Rock. I myself would be a stranger in Morrowind.</Source>
+      <Dest>你的家乡在西边，我说的对吗？虽然很多兽人都从未涉足过高岩省的山脉，但我自己去晨风也会是个生面孔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which toes?  I am not sure if I am willing to part with the big one.  Or perhaps a little finger will suffice?</Source>
+      <Dest>哪个趾头？我想掰一个大个的，不过拿不准主意。或者说小点的更如人意?</Dest>
+    </String>
+    <String List="2">
+      <Source>Which makes you well suited to be this dog's new owner. Let that be a lesson the first time you pet its coat and it urinates on you.</Source>
+      <Dest>这让你变得非常适合成为这条狗的新主人。开始第一课吧，先轻拍它的皮毛然后让它在你身上撒一泡尿。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nevertheless, I would rather see the moons and the sky shouted to pieces than spend another day with this hirsute demon.</Source>
+      <Dest>然而。我宁愿看到月亮和天空被吼成碎片，也不愿和这多毛恶魔呆在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>High Rock, is it?  Although being a Breton does not mean you hail from the land of the five kingdoms. I myself would be a stranger in Morrowind.</Source>
+      <Dest>高岩省，是吗？虽然作为一个布莱顿人不代表你就来自那块儿有五个王国的土地。我自己就不是晨风本地人。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you ask it to fetch, it will likely fetch you a hive of bees.</Source>
+      <Dest>如果你让它去取，它可能会给你叼回来一个蜂窝。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is too much irony in the world. I can never tell if people are being earnest.</Source>
+      <Dest>这个世界上的冷嘲热讽太多了。我根本搞不清别人是不是真诚的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although such a scenario is not nearly satisfying enough.</Source>
+      <Dest>虽然这样一个方案实在是不尽人意。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will bark at anything that moves, and howl at everything that doesn't.  It will bay and whine, wheedle and whimper.</Source>
+      <Dest>它不仅会对任何在移动的物体吠叫，也会对任何不能移动的发出吼声。它会在它觉得需要的时候汪汪或者呜呜，讨好或者呜咽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Given the grief this filthy dog has caused me, I will not grant him death until I can find a method that has a suitable amount of pain.</Source>
+      <Dest>鉴于这肮脏的狗给我带来的诸多不幸。我不会让他死的，直到我能想出一种足够痛苦的方法来结果他。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hesitate to even grant it that much.</Source>
+      <Dest>我都舍不得在它身上多费些力气了。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is the crux of the matter, you referring to "it" as "him."  It is not capable of being trained.  It is not a person.  It is a dog.  </Source>
+      <Dest>还有就是问题的关键，你指的是“它”为“他”。它不能被训练。它不是个人。它是一只狗。  </Dest>
+    </String>
+    <String List="2">
+      <Source>It seems to me two things are quite obvious. I am a poor influence and you are a poor judge of character.</Source>
+      <Dest>看起来有两件事对我来说再明显不过了。我是一个没啥影响力的无名之辈，而你是一个对人缺乏判断力的脑残之流。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will bite at furniture and bark at trolls, defecate on rugs and urinate on robes.  </Source>
+      <Dest>那东西会一边咬家具一边不停鬼叫，在毯子和衣服上随地大小便。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone.</Source>
+      <Dest>滚开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it fails to grasp the fact that I wish to murder it.  It thinks me kind and benevolent, when all my actions speak to the contrary.</Source>
+      <Dest>是的，它没有抓住我想要杀它的事实。它认为我仁慈善良，而我做的一切恰恰相反。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet while Avrusa lived every day driven by her tragic past and uncertain future, my mother lived only in the present.</Source>
+      <Dest>然而尽管阿瓦卢萨每天的生活都受他悲剧的过去和不确定的未来所控制，我的妈妈却只能生活在现在。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) I suppose Tamriel would be a better place if we could all be the type of mortals the dogs think we are.</Source>
+      <Dest>(叹气)如果我们都能做到狗狗们认为我们应该是的那种人，那我想塔玛瑞尔大陆会是个更好的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, you may have difficulty teaching it not to soil them first.</Source>
+      <Dest>不过，你首先得历尽千辛万苦的教会它别把拖鞋弄脏。</Dest>
+    </String>
+    <String List="2">
+      <Source>That would not be wise considering this dog's pedigree.  It is no doubt the latest in a great line of imbeciles with more urine than sense.</Source>
+      <Dest>最好别去考虑这只狗的血统，毫无疑问它是最新的一个尿液多脑浆少的杰出白痴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>欢迎.</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Avrusa must have despised this alchemist a great deal, to leave his legacy in the mouth of this slobbering beast.</Source>
+      <Dest>阿瓦卢萨一定特别特别鄙视这个炼金术士，因为他口口声声留下的遗产，是这只流着口水的野兽。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you mean Hammerfell, war has ravaged your homeland as fire has ravaged mine.  You may not recognize what has become of it.</Source>
+      <Dest>倘如你说的要是落锤省，那你的家乡肯定被战火蹂躏过了，就像我家被火烧光一样。下次见到都未必会认得了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am confused.  Do you mean to belittle yourself, or are you proud of the way you squirm and contaminate the countryside?</Source>
+      <Dest>我很困惑。你是故意在贬低自己么，或者说你对于你蠕动着并污染着乡下的方式还挺自豪的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, he is quite the unworthy specimen.  Foul of breath and hide, and never at a loss for words.</Source>
+      <Dest>是啊，这货可是废物中的废物啊。一身恶臭，张嘴就能熏死人，更要命的是他的嘴还从来不停。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or perhaps an angry Spriggan who did not approve of having its leg marked as canine territory.</Source>
+      <Dest>或是一只不想自己的大腿被撒上一泡狗尿的愤怒树精。</Dest>
+    </String>
+    <String List="2">
+      <Source>Valenwood, is it?  Although I suppose being a Bosmer does not mean you hail from your ancestral home. I myself would be a stranger in Morrowind.</Source>
+      <Dest>威木省，对么？尽管我觉得就算是个木精灵但也不见得就是来自于你们的祖先之地。就拿我自己来说，我在晨风省的感觉就像是在异乡一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Black Marsh, is it?  If so, we may find ourselves on opposites ends of the next war.  Although I myself have no emotional ties to Morrowind.</Source>
+      <Dest>黑沼泽省，对吧？如果是这样，那也许在下一场战争中我们会成为敌人。不过我对晨风省其实没什么感情。</Dest>
+    </String>
+    <String List="2">
+      <Source>But really you cannot be serious.  What do you plan to use these parts for?  Who are you?  Far be it for the dog to warn me if you are sinister.</Source>
+      <Dest>但实际上你不可能是认真的。你打算用这个部件干什么，你是谁？如果你不怀好意，到目前为止还没有狗警醒我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, unfortunately the dog is neither, or else I wouldn't wish to part company with it myself.  At least, not without fair compensation.</Source>
+      <Dest>哇哦，很抱歉，狗不行，我可不想单独跟狗在一起。至少，没有任何补偿的情况下不行。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Aldmeri Dominion continues to spread, perhaps your home will come here first.  Although I presume, for I myself have never been to Morrowind.</Source>
+      <Dest>如果任由ldmeri自治领继续扩张, 也许你的家乡会首先受到波及.  尽管这是我的假设, 因为我从没亲自去过晨风.</Dest>
+    </String>
+    <String List="2">
+      <Source>She was a capricious woman with a passion for life.  Even in her latter years she would talk as Aduri does now, of art and adventure and love.</Source>
+      <Dest>她是一个对生活一往情深的善变的女人。甚至在她晚年她和阿杜瑞现在说的做的一样，艺术、冒险和爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, now that is a perhaps the most ludicrous suggestion I have ever heard.</Source>
+      <Dest>哈，那是我听过最荒唐的建议了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Cyrodiil, heart of the Empire.  At least, what's left of it.  If you are loyal to your cousins, you may be called home sooner than you think.</Source>
+      <Dest>赛瑞迪尔，帝国的心脏。至少是目前帝国剩余领土的心脏。如果你对你的兄弟赤诚相待，或许你会很快把这里当作家的，比你想象得更快。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, there will come a day when Azura grants us a vision of the east, verdant and bountiful.  It is then that I too will visit my ancestral home.</Source>
+      <Dest>是啊，阿祖拉赐予我们青葱而富饶的东部这一愿景实现的一天终将到来。然后我也要回我先祖的故土看一看了。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>别了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't understand you the first time, why would you think making the same noise twice would be any more clearer?  Stupid dog.</Source>
+      <Dest>你第一次叫的时候我就没理解你，为什么你会认为发出第二次相同的噪音时就会变得清晰呢？蠢狗。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it now, dog?  I am in no mood for your inane barking.</Source>
+      <Dest>又怎么了，死狗？我没心情听你乱吠。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dog, the constant licking of yourself is obscene and I will not brook it any longer.</Source>
+      <Dest>狗，你这么舔自己对于纯洁的我来说真是太淫猥了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">        
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

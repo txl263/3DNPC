@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>Quiet, kid. It's nobody's business but ours.</Source>
+      <Dest>安静，孩子。这是我们之间的私事。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're better off dead. And I'm the one to kill them.</Source>
+      <Dest>他们死了更好。最好是我能亲手杀掉他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good girl.</Source>
+      <Dest>好女孩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet after that day, I realized the whole thing was just a ruse.</Source>
+      <Dest>然而，那天之后，我意识到整件事只是个诡计。 </Dest>
+    </String>
+    <String List="2">
+      <Source>...</Source>
+      <Dest>……</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabania...his men...and everyone I've killed since. To me, they're all one and the same.</Source>
+      <Dest>卡贝尼亚……他的部下……还有被我所杀的所有人。在我看来，他们没什么区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like to see you try.</Source>
+      <Dest>我想让你试试看。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Maybe you're right.</Source>
+      <Dest>（笑声）或许你是对的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The one I heard was about a rich Baron, using the war as a way to gain influence with the new Jarls, or the weakened ones.</Source>
+      <Dest>我听说过有这么个富有的男爵，依靠战争获得对新任领主或弱势领主的影响力。</Dest>
+    </String>
+    <String List="2">
+      <Source>You afraid of mercs, Elf? Because I'll go through a thousand sellswords to kill that bastard!</Source>
+      <Dest>你在担心雇佣兵吗，精灵？因为我将会穿过一千个佣兵去做掉那个混账！</Dest>
+    </String>
+    <String List="2">
+      <Source>What? But how...</Source>
+      <Dest>什么？怎么可能……</Dest>
+    </String>
+    <String List="2">
+      <Source>If you believe that, then both your eyes are blind.</Source>
+      <Dest>要是你相信那个，那你是两只眼睛都瞎了 。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know much about raising children, but I know better than to take your advice.</Source>
+      <Dest>我确实在如何养育孩子这方面懂得不多，但我至少比你懂。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dark Brotherhood! What happened?</Source>
+      <Dest>黑暗兄弟会！发生了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I wouldn't dream of it.</Source>
+      <Dest>我不会再梦见它了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There wasn't a drop of emotion in that face. That's what I remember most from that night.  Not the murder or the rape or the screams.</Source>
+      <Dest>在那张脸上没有一丝表情。这就是那个夜晚我记得最清楚的。而不是谋杀、强奸或尖叫声。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morrigan!  No...</Source>
+      <Dest>茉莉甘！不……</Dest>
+    </String>
+    <String List="2">
+      <Source>That makes two of us kid. But he'll keep you safe. </Source>
+      <Dest>我和你一样，孩子。但他会保护你安全的。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a drifter, you get in earshot of all sorts of crazy rumors. You hear the same one enough, and you start paying attention.</Source>
+      <Dest>作为流浪汉，你总会耳闻各种各样的的奇怪传闻。不过有一个传闻听了很多次，你就会开始注意那件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morrigan...</Source>
+      <Dest>茉莉甘……</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah? So what does that make us? </Source>
+      <Dest>是吗？那这和我们有什么关系？</Dest>
+    </String>
+    <String List="2">
+      <Source>I said leave!</Source>
+      <Dest>我说了！离开！</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the face on that guardsman.   The face of apathy.  That I couldn't forgive.</Source>
+      <Dest>而是那张守卫的脸。那张充满冷漠的脸。我永远不会原谅。</Dest>
+    </String>
+    <String List="2">
+      <Source>You made those maps. And you never put our town there for a reason.</Source>
+      <Dest>你绘制了那些地图。而且你还出于某个理由在地图上漏绘了我们的城镇。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Two of Gabania's men were dragging my sister into the cottage when they passed me by. One of them turned to look at me, and our eyes met.</Source>
+      <Dest>当两个卡贝尼亚的人把我姐姐拖进小屋的时候，他们与我擦肩而过。其中的一个看了我一眼，我们的眼神交汇。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're one to talk.  You're going to need a bigger bandage to cover up that Ogre you call a face.</Source>
+      <Dest>你还真是能说会道。你应该拿一副更大的绑带盖住你称之为脸的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morrigan, are you alright?</Source>
+      <Dest>茉莉甘，你还好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some call it the right of first night. As if men in power need to justify their rape with laws.  No, they just took what they wanted.  </Source>
+      <Dest>有人称那是“初夜权”。就好像手握权势的人就可以利用法律让强奸变得合理。不，他们只是在为所欲为。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It'll just be for a little while.  I promise.  If anyone comes near remember what I told you.</Source>
+      <Dest>就一会儿。我保证。如果有人走近，记得我告诉你的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Draugr?</Source>
+      <Dest>一个尸鬼?</Dest>
+    </String>
+    <String List="2">
+      <Source>Who wants to know?</Source>
+      <Dest>谁想知道?</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be waiting.</Source>
+      <Dest>我会等着。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll just be for a little while.  I promise.  If anyone comes near, stay behind the Elf.</Source>
+      <Dest>一会儿就好，我保证。要是有人过来，你就躲在那精灵身后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, he's got one thing going for him. He's not the ugliest one on this ship.</Source>
+      <Dest>好吧，有件事对他来说挺有利的。他不是这艘船上最丑的家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shut your mouth and I'll tell you, one-eye.</Source>
+      <Dest>闭上你的嘴我就告诉你，独眼龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some call it the right of first night. As if men in power need to justify their rape with laws.  No, they just took what they wanted.</Source>
+      <Dest>有人称那是“初夜权”。就好像掌权者得证明他们的强奸合法。不，他们只是在为所欲为。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morrigan. I'm going to be gone a little while, like we talked about.</Source>
+      <Dest>茉莉甘。就像我说的，我需要离开一小会。。</Dest>
+    </String>
+    <String List="2">
+      <Source>My father always joked that it was too small to be on any map.</Source>
+      <Dest>我的父亲总是开玩笑说，它太小了以至于不能出现在任何地图上。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I just do.</Source>
+      <Dest>我知道又如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you do remember.</Source>
+      <Dest>所以你还记得咯。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't. But I owe it to Morrigan to try.</Source>
+      <Dest>我没有。不过看在茉莉甘的份上我应该试试。</Dest>
+    </String>
+    <String List="2">
+      <Source>The way these ships are designed, the captain's quarters are on the lower deck. We'll probably have to fight our way down.</Source>
+      <Dest>这船就是这么设计的，船长的宿舍在甲板下面。我们可能得一路杀到下面。</Dest>
+    </String>
+    <String List="2">
+      <Source>So he decided to get on his ship and sail to Windhelm. That ship is now docked at the harbor.</Source>
+      <Dest>所以他决定把他的船航驶到风盔城。这艘船也就是现在停泊在码头的那艘。</Dest>
+    </String>
+    <String List="2">
+      <Source>Turns out, the whole plan wasn't going too well, and our Baron was more than a bit agitated.</Source>
+      <Dest>结果，整个计划的进展不顺利, 然后我们的男爵变得焦躁不安。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've thought of that.  But I don't trust anyone to protect her but me.</Source>
+      <Dest>我考虑过。但我不相信任何人能保护她，除了我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morrigan!</Source>
+      <Dest>茉莉甘！</Dest>
+    </String>
+    <String List="2">
+      <Source>Please...Leave me.</Source>
+      <Dest>请你……离我远些。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was twenty years ago. There was a small town in Cyrodiil that blended into the countryside.</Source>
+      <Dest>那是二十年前。在赛洛迪尔的乡间有一个小镇子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, let's go.</Source>
+      <Dest>好吧，我们走。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't need to kill anyone. But those men, the people who stand by and do nothing, while all around them the world suffers...</Source>
+      <Dest>我不必杀任何人。但是那些人，那些站在一旁，看着自己周围哀鸿遍野却无动于衷的人……</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't get it. That face. They all wore it. The people I killed for the Brotherhood, they wore it too.</Source>
+      <Dest>你没明白。那张脸。他们都是那张脸。那些我为兄弟会杀的人，也是那张脸。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just wanted to talk.</Source>
+      <Dest>我只是想谈谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>You broke a tenet?  Oh, you foolish fool.</Source>
+      <Dest>你居然打破了教条？哦，你这个蠢透了的蠢货。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents must be so proud to have raised such a dutiful killer.</Source>
+      <Dest>你的父母一定为养育了你这样一个孝顺的杀手而自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents must be so proud to have raised such a dutiful killer.</Source>
+      <Dest>你的父母一定为养育了你这样一个孝顺的杀手而自豪。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I myself enjoy the company of children.</Source>
+      <Dest>我自己倒是挺喜欢有孩子陪着的感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>How hard could it be?  Like raising an oversized hamster.</Source>
+      <Dest>那能有什么难度？就像养活一只超大号仓鼠一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How hard could it be?  Like raising an oversized hamster.</Source>
+      <Dest>那能有什么难度？就像养活一只超大号仓鼠一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How hard could it be?  Like raising an oversized hamster.</Source>
+      <Dest>那能有什么难度？就像养活一只超大号仓鼠一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you take her if he was dead?</Source>
+      <Dest>既然他已经死了，你为什么还要带上她？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you take her if he was dead?</Source>
+      <Dest>既然他已经死了，你为什么还要带上她？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you take her if he was dead?</Source>
+      <Dest>既然他已经死了，你为什么还要带上她？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's with the girl?</Source>
+      <Dest>那女孩儿怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>With Gabania dead, you can focus on being a father.</Source>
+      <Dest>卡贝尼亚死了以后，你终于可以专注于作为父亲的职责了。</Dest>
+    </String>
+    <String List="0">
+      <Source>With Gabania dead, you can focus on being a father.</Source>
+      <Dest>卡贝尼亚死了以后，你终于可以专注于作为父亲的职责了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've already met the little scamp.  Her name's Morrigan.  She spoke well of you.</Source>
+      <Dest>我已经见过那小家伙了，她的名字是茉莉甘。她对你的评价不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any advice for me?</Source>
+      <Dest>有什么建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any advice for me?</Source>
+      <Dest>有什么建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any advice for me?</Source>
+      <Dest>有什么建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any advice for me?</Source>
+      <Dest>有什么建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any advice for me?</Source>
+      <Dest>有什么建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>An assassin with a heart of gold.  I'll take a coin purse full of gold instead.</Source>
+      <Dest>一个有着金灿灿的善心的杀手。我更喜欢把我的钱袋塞满金灿灿的金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>An assassin with a heart of gold.  I'll take a coin purse full of gold instead.</Source>
+      <Dest>一个有着金灿灿的善心的杀手。我更喜欢把我的钱袋塞满金灿灿的金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>She isn't yours, and thus not your responsibility.</Source>
+      <Dest>她并不是你的所有物，所以你不用负责任。</Dest>
+    </String>
+    <String List="0">
+      <Source>She isn't yours, and thus not your responsibility.</Source>
+      <Dest>她并不是你的所有物，所以你不用负责任。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, well.  Looks like Gilfre's got herself a couple of dirty squatters.</Source>
+      <Dest>喔，喔。看来吉福雷惹上了几个脏兮兮的流浪汉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Put yourself in my shoes.  Young girl, empty house, darkly dressed man...</Source>
+      <Dest>站在我的立场想想。少女，空房，打扮黑暗的男人……</Dest>
+    </String>
+    <String List="0">
+      <Source>Put yourself in my shoes.  Young girl, empty house, darkly dressed man...</Source>
+      <Dest>站在我的立场想想。少女，空房，打扮黑暗的男人……</Dest>
+    </String>
+    <String List="0">
+      <Source>This whole arrangement is suspicious.  Explain yourself, or I call the guard.</Source>
+      <Dest>这一切都很可疑。你得解释一下，要么我就叫守卫来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You only make her weak by protecting her.</Source>
+      <Dest>你对她的保护只能使她更脆弱。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wise, especially given what happened. How did you kill him?</Source>
+      <Dest>那确实很明智，尤其以当时的情况来说。你是怎么杀死他的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your desire for revenge could have cost Morrigan her life.</Source>
+      <Dest>你对复仇的渴望可能会赔掉茉莉甘的性命。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your desire for revenge could have cost Morrigan her life.</Source>
+      <Dest>你对复仇的渴望可能会赔掉茉莉甘的性命。</Dest>
+    </String>
+    <String List="0">
+      <Source>Killing the guardsman couldn't have been easy.</Source>
+      <Dest>那个卫兵也不是太容易杀的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Killing the guardsman couldn't have been easy.</Source>
+      <Dest>那个卫兵也不是太容易杀的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This just proves you need to rely on others beside yourself.</Source>
+      <Dest>这只证明了你需要依靠自己身边的人。 </Dest>
+    </String>
+    <String List="0">
+      <Source>This just proves you need to rely on others beside yourself.</Source>
+      <Dest>这只证明了你需要依靠自己身边的人。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Well, yes. Children are useless scum.</Source>
+      <Dest>嗯没错，小孩的都是些没用废物。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's likely this Draugr's name is Moris.</Source>
+      <Dest>很可能这只尸鬼的名字就叫莫里斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's likely this Draugr's name is Moris.</Source>
+      <Dest>很可能这只尸鬼的名字就叫莫里斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe I'll ask her who her guardian is.  Pray she says "That guy."</Source>
+      <Dest>也许我会问她谁是她的监护人。希望她会说“是那家伙”。 </Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Who says there has to be one?  We're alive.  Maybe that's enough.</Source>
+      <Dest>谁说必须有呢？我们还活着。也许这就足够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when the visitors came by, they felt like explorers, discovering the town for the first time.</Source>
+      <Dest>而当旅人们路过时，他们感觉自己像是探险家，头一次发现这座小镇。</Dest>
+    </String>
+    <String List="2">
+      <Source>But for me, it was the only place that felt like home.</Source>
+      <Dest>但是对我而言，那里是我唯一能称为家的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Keep wandering. Maybe head back to the old mill. It's probably best we both stay clear of Windhelm, and each other.</Source>
+      <Dest>继续游荡。或者回去那个旧农场。我们最好都别再接近风盔城，也别再见面了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Looking back, I was lucky I wasn't a man grown.  My size and build forced me to cling to the shadows.  </Source>
+      <Dest>确实不容易。现在想起来，幸亏我那时还很小。我的矮个子和瘦身材迫使我始终躲在阴影里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Truly know who you are killing, and what you kill for, before you make the killing blow.</Source>
+      <Dest>下手之前，搞清楚要杀的是谁，为什么要杀他。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd lead them straight to her.  And a contract is always open until it's fulfilled.</Source>
+      <Dest>我会把他们引到她那儿。契约在完成前不会失效。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was always a risk. But there's going to be more days like this. If I am...her father, I guess there'll come a time I have to let go.</Source>
+      <Dest>风险总是会有的。但像这样的日子以后还会有很多。如果我是……她的父亲，我想总有一天我必须结束这一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when he fell to the ground, I turned his face over and cut his mouth into a smile.</Source>
+      <Dest>他摔到地上的以后，我把他弄成面朝上，并让他做出微笑的表情。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when he fell to the ground, I turned his face over and cut his mouth into a smile.</Source>
+      <Dest>他摔到地上的以后，我把他弄成面朝上，并让他做出微笑的表情。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of Astrid's talk of the new ways, I didn't think it would happen.  I was wrong. The Dark Brotherhood will always be under the eyes of Sithis.</Source>
+      <Dest>所有阿斯垂德所讲的“新的教条”，我以为绝不会成真。但我错了。黑暗兄弟会永远都在西斯帝的注视之下。</Dest>
+    </String>
+    <String List="2">
+      <Source>May you be dead ten minutes before Sithis knows it.</Source>
+      <Dest>但愿在被西帝斯知晓前，你已死了十分钟有余。</Dest>
+    </String>
+    <String List="2">
+      <Source>A grown man would have used the sword that felled my father to seek some sort of poetic justice.  A boy was forced to abandon that for a dagger.</Source>
+      <Dest>一个长成的男人会拿起杀死他父亲的利剑来寻求诗歌中的正义。而一个男孩却只能拾起一把匕首，然后抛弃正义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kill every nobleman you see.</Source>
+      <Dest>杀掉所有贵族。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the only thing connecting her to her past will be me.  That's when I'll say goodbye.  Not a second before.</Source>
+      <Dest>到时我就是她与她过去的唯一联系。直到那时我才会和她道别。一秒也不会提前。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't encourage her. I don't think Draugr have names. Dead ones, anyway. But whoever it was, I owe them.</Source>
+      <Dest>别鼓励她。我可不认为尸鬼也有名字。那些死了的家伙也一样。但不管它是什么，我都欠着它们的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You obviously don't have children, to say something like that.  No, I'm not cut out to be a father.</Source>
+      <Dest>你显然没有孩子，凭什么说出那样的话？不，我不适合做一个父亲 。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>There will come a time when I will teach her what she needs to know, and nothing more.</Source>
+      <Dest>终有一天我会告诉她她必须知道的事，仅此而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>We aren't staying.  Just passing through.  And we aren't looking for trouble.</Source>
+      <Dest>我们不会久留。只是路过这里。而且我们不想招惹麻烦。</Dest>
+    </String>
+    <String List="2">
+      <Source>For now she is.  Has to be.  She's got no one else.  Now, eventually she'll come of age, and no longer be the girl she once was.</Source>
+      <Dest>现在她是。必须是。她没有别的人了。然后，她终会成年，不再是曾经那个小女孩。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pestered Gabinia's men one by one until I found that face.  He didn't recognize me.  Of course he didn't.</Source>
+      <Dest>我一个个地纠缠加比尼亚的手下，直到我找到了那个人。他没有认出我。当然没有认出我。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pestered Gabinia's men one by one until I found that face.  He didn't recognize me.  Of course he didn't.</Source>
+      <Dest>我一个个地纠缠卡贝尼亚的手下，直到我找到了那个人。他没有认出我。当然没有认出我。</Dest>
+    </String>
+    <String List="2">
+      <Source>I crept up behind him as he was pissing on the wall, the sound of the stream masking my footsteps.  Then I slid the dagger into his heart.</Source>
+      <Dest>当他对着墙角撒尿的时候，我悄悄靠近了他，水流的声响隐藏了我的脚步。然后我把匕首刺进了他的心脏。</Dest>
+    </String>
+    <String List="2">
+      <Source>I crept up behind him as he was pissing on the wall, the sound of the stream masking my footsteps.  Then I slid the dagger into his heart.</Source>
+      <Dest>当他对着墙角撒尿的时候，我悄悄靠近了他，水流的声响隐藏了我的脚步。然后我把匕首刺进了他的心脏。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dark Brotherhood would eventually try to find her. Once the black sacrament has been performed, the mark is eternally cursed by Sithis.</Source>
+      <Dest>黑暗兄弟会最终肯定会试图找到她的。黑暗圣礼一旦完成，被要求歼灭的对象将一辈子受到西帝斯的诅咒。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I was that kind of man, the girl's hands would be bound, and you'd be dead.</Source>
+      <Dest>如果我是那种人，这女孩的手会被绑住，而你现在已经死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You could be right. But with Gabania dead, there's no reason to leave her side again.</Source>
+      <Dest>你可能是对的。但是随着卡贝尼亚的死，我再也没有离她而去的理由。</Dest>
+    </String>
+    <String List="2">
+      <Source>I drew the line at Morrigan.  Children in general are too young to be corrupted like the rest of us.</Source>
+      <Dest>我刻意和茉莉甘划开界线。孩子们太小，不应该受我们这样的人污染。</Dest>
+    </String>
+    <String List="2">
+      <Source>I started out by pretending to be a beggar. Nagging the guards for coin and bread.  Not that it required much acting.  My hunger was real.</Source>
+      <Dest>我从装扮一个乞丐开始。到处跟守卫乞求金币和食物。这并不需要什么演技。我的饥饿可不是装出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I started out by pretending to be a beggar. Nagging the guards for coin and bread.  Not that it required much acting.  My hunger was real.</Source>
+      <Dest>我从装扮一个乞丐开始。到处跟守卫乞求金币和食物。这并不需要什么演技。我的饥饿可不是装出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah. I'm going to have to get her to stop calling me that.</Source>
+      <Dest>是啊。我让她别那么叫我。</Dest>
+    </String>
+    <String List="2">
+      <Source>That goes for your friend as well, unless he wants to try and collect on that bounty.</Source>
+      <Dest>你的朋友也一样，除非他想用我来换赏金。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe they weren't proud, but I can't say they'd be disappointed.  I know, because it felt so good to do it.</Source>
+      <Dest>也许他们并不感觉骄傲，但我不能说他们会失望。我知道，因为这么做感觉太棒了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys.</Source>
+      <Dest>至于你呢，给。我是从那些跟我签订了契约后被我杀掉的召唤者那里拿到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys.</Source>
+      <Dest>至于你呢，给。我是从那些跟我签订了契约后被我杀掉的召唤者那里拿到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys.</Source>
+      <Dest>至于你呢，给。我是从那些跟我签订了契约后被我杀掉的召唤者那里拿到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys.</Source>
+      <Dest>至于你呢，给。我是从那些跟我签订了契约后被我杀掉的召唤者那里拿到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah. Quit the Dark Brotherhood. The road it'll take you will be covered in not only the blood of your victims, but of your friends, as well.</Source>
+      <Dest>是啊。我劝你退出暗黑兄弟会。那条道路上沾满的不仅仅是你受害者的鲜血，也会染上你朋友的血。</Dest>
+    </String>
+    <String List="2">
+      <Source>You say you follow the law. The law is what murdered my family.</Source>
+      <Dest>你说自己是守法的。而法律就是谋杀我家人的元凶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did she? (Sigh) I told her not to talk to strangers. What did she tell you?</Source>
+      <Dest>真的吗？（叹气）我告诉过她不要和陌生人讲话。她和你说了些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>She'll tell you all you need know.  Which is why she won't say a word.</Source>
+      <Dest>她只会告诉你你该知道的部分。所以她才不肯多说一个字。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have a heart of gold.  Some people deserve to die.  Others don't.  And you'd be surprised at the range of people I feel are deserving.</Source>
+      <Dest>我可没有一颗金灿灿的善心。有些人该死。有些不。你会惊讶于我觉得有多少人该死。</Dest>
+    </String>
+    <String List="2">
+      <Source>That night, I hid behind a stack of hay piles. The twin moons were out, and there was no mistaking that face.</Source>
+      <Dest>那一晚，我躲在一摞稻草堆后面。双月升起，那张脸沐浴在月光之下，让我根本无法错认。</Dest>
+    </String>
+    <String List="2">
+      <Source>That night, I hid behind a stack of hay piles. The twin moons were out, and there was no mistaking that face.</Source>
+      <Dest>那一晚，我躲在一摞稻草堆后面。双月升起，那张脸沐浴在月光之下，让我根本无法错认。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tracked him day and night, from the barracks to the brothels.  It was outside the inn where he was most vulnerable, unloading his mead.</Source>
+      <Dest>我没日没夜地跟踪他，从营房到妓院。他喝完蜜酒出去撒尿的时候最好下手。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tracked him day and night, from the barracks to the brothels.  It was outside the inn where he was most vulnerable, unloading his mead.</Source>
+      <Dest>我没日没夜地跟踪他，从营房到妓院。他喝完蜜酒出去撒尿的时候最好下手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe an uncle.  The kind that drops in from time to time bearing gifts.  Can't even do that.  Can't chance them following me.  </Source>
+      <Dest>也许可以是叔叔。时不时带着礼物来串门的叔叔。不，我甚至不能这么做。不能给他们跟踪我的机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah. Don't join the Dark Brotherhood. The road it'll take you will be covered in not only the blood of your victims, but of your friends, as well.</Source>
+      <Dest>是啊。我奉劝你不要加入黑暗兄弟会。那条道路上沾满的不仅仅是你受害者的鲜血，也会染上你朋友的血。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've killed so many of my brothers and sisters.   Some I even considered friends.</Source>
+      <Dest>我已经杀了很多兄弟姐妹。还有一些我甚至认为是朋友的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You talk big, but you have a blind spot, one-eye.  You best watch it.</Source>
+      <Dest>你光说大话，却没看见存在的缺陷，独眼龙。你最好能正视它。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm her guardian. Lets just leave it at that.</Source>
+      <Dest>我是她的护卫。言止于此。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sacrament demands blood and they will not stop until that blood has been spilled. </Source>
+      <Dest>圣礼渴求鲜血，在血债血偿之前，他们不会停手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then stay away from this one.</Source>
+      <Dest>那就离这孩子远一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>But not in that way, I take it.  Otherwise, I'm sure they'll come a time and place where we meet again, under different circumstances.</Source>
+      <Dest>但不是以那种方式，这我认了。另外，我确信总有一天我们会在不同的情境下不期而遇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorry, but I'm not looking for company.</Source>
+      <Dest>抱歉，但我现在不需要同伴。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't until I heard that slow, condescending clap that I woke up from my trance. Then I looked up, and saw Astrid.</Source>
+      <Dest>直到几声缓慢，和蔼的掌声将我从恍惚中惊醒。于是我抬起头，看到了阿斯垂德。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hold on, there's no need for that.  It's not what you think.  The girl's under my protection.</Source>
+      <Dest>等等，不必这么做。事情不是你想的那样。我正在保护这个女孩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even now, I'm still not sure whether I should let you live.  So choose your words carefully.</Source>
+      <Dest>就算现在，我也不确定该不该留你活口。所以开口时注意点。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're finally going to get revenge?</Source>
+      <Dest>所以你最后决定去复仇？</Dest>
+    </String>
+    <String List="0">
+      <Source>This is something you deserve, and the Gods have obliged.</Source>
+      <Dest>这是你应得的, 众神已赐与你.</Dest>
+    </String>
+    <String List="0">
+      <Source>This is something you deserve, and the Gods have obliged.</Source>
+      <Dest>这是你应得的, 众神已赐与你.</Dest>
+    </String>
+    <String List="0">
+      <Source>That ship will be well guarded. The weakest link should stay with the girl.</Source>
+      <Dest>那艘船肯定会被严加把守。所以就让最弱的人来照顾那个女孩吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's the plan?</Source>
+      <Dest>你有什么计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's the plan?</Source>
+      <Dest>你有什么计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's the plan?</Source>
+      <Dest>你有什么计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's the plan?</Source>
+      <Dest>你有什么计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's the plan?</Source>
+      <Dest>你有什么计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>It is a noble's birthright to treat commoners like ants.</Source>
+      <Dest>生而高贵的人自然有权利视平民如蝼蚁。</Dest>
+    </String>
+    <String List="0">
+      <Source>It is a noble's birthright to treat commoners like ants.</Source>
+      <Dest>生而高贵的人自然有权利视平民如蝼蚁。</Dest>
+    </String>
+    <String List="0">
+      <Source>It won't bring your family back, but I hope you found some measure of peace.</Source>
+      <Dest>这不会让你的家人死而复生，不过我希望你能够找到一些平静。</Dest>
+    </String>
+    <String List="0">
+      <Source>It won't bring your family back, but I hope you found some measure of peace.</Source>
+      <Dest>这不会让你的家人死而复生，不过我希望你能够找到一些平静。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned Morrigan has some magical skill. Can she defend herself?</Source>
+      <Dest>你提过茉莉甘会两下魔法。她能保护好自己吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned Morrigan has some magical skill. Can she defend herself?</Source>
+      <Dest>你提过茉莉甘会两下魔法。她能保护好自己吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned Morrigan has some magical skill. Can she defend herself?</Source>
+      <Dest>你提过茉莉甘会两下魔法。她能保护好自己吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned Morrigan has some magical skill. Can she defend herself?</Source>
+      <Dest>你提过茉莉甘会两下魔法。她能保护好自己吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't expect you to tell Morrigan. That's a bit heavy for a child to hear.</Source>
+      <Dest>我本来不想让你告诉茉莉甘。这件事对一个孩子来说略显沉重。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't expect you to tell Morrigan. That's a bit heavy for a child to hear.</Source>
+      <Dest>我本来不想让你告诉茉莉甘。这件事对一个孩子来说略显沉重。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't expect you to tell Morrigan. That's a bit heavy for a child to hear.</Source>
+      <Dest>我本来不想让你告诉茉莉甘。这件事对一个孩子来说略显沉重。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't expect you to tell Morrigan. That's a bit heavy for a child to hear.</Source>
+      <Dest>我本来不想让你告诉茉莉甘。这件事对一个孩子来说略显沉重。</Dest>
+    </String>
+    <String List="0">
+      <Source>Raynes should stay with Morrigan.</Source>
+      <Dest>瑞纳斯应该和茉莉甘呆在一起。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your revenge would be sweet. It's too bad Raynes is going to kill him first.</Source>
+      <Dest>你的复仇会很美妙。但如果瑞纳斯抢先杀掉他就太糟了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your revenge would be sweet. It's too bad Raynes is going to kill him first.</Source>
+      <Dest>你的复仇会很美妙。但如果瑞纳斯抢先杀掉他就太糟了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your revenge would be sweet. It's too bad Raynes is going to kill him first.</Source>
+      <Dest>你的复仇会很美妙。但如果瑞纳斯抢先杀掉他就太糟了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you sure you aren't letting your anger affect you?</Source>
+      <Dest>你确定自己不会被愤怒冲昏头脑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you sure you aren't letting your anger affect you?</Source>
+      <Dest>你确定自己不会被愤怒冲昏头脑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I would stay, but think about it. You and Raynes alone together?</Source>
+      <Dest>我会留下来的，但仔细想想。你和瑞纳斯单独在一起？</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like it'll take a group effort to make any headway on that ship.</Source>
+      <Dest>看来想在那艘船上杀出条血路就必须依靠团队合作。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like it'll take a group effort to make any headway on that ship.</Source>
+      <Dest>看来想在那艘船上杀出条血路就必须依靠团队合作。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like it'll take a group effort to make any headway on that ship.</Source>
+      <Dest>看来想在那艘船上杀出条血路就必须依靠团队合作。</Dest>
+    </String>
+    <String List="0">
+      <Source>It sounds like it'll take a group effort to make any headway on that ship.</Source>
+      <Dest>看来想在那艘船上杀出条血路就必须依靠团队合作。</Dest>
+    </String>
+    <String List="0">
+      <Source>He's ruthless. Crazy. But he protects the innocent.</Source>
+      <Dest>他残忍。疯狂。但他保护无辜者。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it was good for you to be honest with Morrigan about your past.</Source>
+      <Dest>我想你如果能坦率地将你的过去告诉茉莉甘，那会好一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it was good for you to be honest with Morrigan about your past.</Source>
+      <Dest>我想你如果能坦率地将你的过去告诉茉莉甘，那会好一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it was good for you to be honest with Morrigan about your past.</Source>
+      <Dest>我想你如果能坦率地将你的过去告诉茉莉甘，那会好一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it was good for you to be honest with Morrigan about your past.</Source>
+      <Dest>我想你如果能坦率地将你的过去告诉茉莉甘，那会好一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you serving as her guardian?</Source>
+      <Dest>你为什么要做她的守卫？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Morrigan?</Source>
+      <Dest>茉莉甘呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Morrigan?</Source>
+      <Dest>茉莉甘呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe you owe Raynes an apology.</Source>
+      <Dest>我认为你欠瑞纳斯一声抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe you owe Raynes an apology.</Source>
+      <Dest>我认为你欠瑞纳斯一声抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems to me Morrigan can take care of herself.</Source>
+      <Dest>就我看来，茉莉甘似乎可以自己照顾自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems to me Morrigan can take care of herself.</Source>
+      <Dest>就我看来，茉莉甘似乎可以自己照顾自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right. I don't think it's a good idea either.</Source>
+      <Dest>你说得对。我也认为这不是个好主意。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned a lead on Gabania.</Source>
+      <Dest>你提到有卡贝尼亚的线索。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you feel?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>He remembered. Maybe not you, but all the poor villagers he's hurt.</Source>
+      <Dest>他全都记得。也许他不记得你，但是他记得他伤害过的可怜的村民。</Dest>
+    </String>
+    <String List="0">
+      <Source>He remembered. Maybe not you, but all the poor villagers he's hurt.</Source>
+      <Dest>他全都记得。也许他不记得你，但是他记得他伤害过的可怜的村民。</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll see.  But it wasn't just me. I had a lot of help. Not just today, but back at the mill. </Source>
+      <Dest>我们会知道的。但那将不光是我。我得过很多帮助。不止是今天，还有在农场的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failure) No, it's a terrible idea. Hopefully you have some that aren't.</Source>
+      <Dest>（失败）不，这主意糟透了。希望你有不那么糟的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Killing Gabania will not bring my family back. But I can still protect her.</Source>
+      <Dest>杀了卡贝尼亚并不能挽回我的家人。但至少我仍能保护她。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if it did happen, if Morrigan wasn't safe...I could never forgive myself.</Source>
+      <Dest>然而如果意外真的发生了，如果茉莉甘遇上了危险……那我永远也不会原谅我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>So what's the plan?</Source>
+      <Dest>那么计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So what's the plan?</Source>
+      <Dest>那么计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So what's the plan?</Source>
+      <Dest>那么计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So what's the plan?</Source>
+      <Dest>那么计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So what's the plan?</Source>
+      <Dest>那么计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It looks like she's going to be okay.</Source>
+      <Dest>看起来她很快就会好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've been awfully quiet. I wasn't sure what to make of this, you bringing this maniac here.</Source>
+      <Dest>你一直很安静。我不确定你在干些什么，你居然把这疯子带到这儿来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Worried. We better hurry back. Right now, I just want to make sure Morrigan's okay.</Source>
+      <Dest>很担心。我们最好快点回去。马上，我只想确定茉莉甘安然无恙。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know about that. Seems the Gods could have done me a favor and never let it happen.</Source>
+      <Dest>我不知道。看起来神灵帮我永远的避免了这个麻烦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what I feared. In a way, it doesn't seem like much of a risk if we left her alone for one night.</Source>
+      <Dest>这正是我所担心的。某种程度上，似乎让她独处一晚不会有太大危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>With that attitude, you and Gabania may share the same fate. But you and I have no quarrel. Not after today.</Source>
+      <Dest>这样的态度，也许你能和卡贝尼亚遭受同样的命运。但我还不想跟你打。今天还不想。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wouldn't go that far. I owe him one. That will have to do.</Source>
+      <Dest>我不会那么过份。我欠他一次，一定会还的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not a chance. There's got to be another way. What do you think?</Source>
+      <Dest>绝不可能。肯定还有其他办法。你认为呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it has to be me.  I'm the only one who can put the fear in those faces. But I won't do it unless I know Morrigan will be safe.</Source>
+      <Dest>不，那人必须是我。我是唯一一个能让他们感到恐惧的人。但除非让我得知茉莉甘不会有事，否则我不会行动的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And he didn't care. I guess if he did, he would be more like me. A man, and not a monster.</Source>
+      <Dest>而他不在乎。我猜如果他在乎，他会更像我。是一个人，而不是一头怪物。 </Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys. </Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what I've been thinking about. I can't leave her alone, and I can't bring her with me.</Source>
+      <Dest>这就是我一直在思考的事。我不能把她留下来，也不能带她走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, might be something, might be nothing. Whispers mostly, but when it comes to that name, I've been trained to listen.</Source>
+      <Dest>是啊，也许是什么，也许什么都不是。一般是些耳语，但出现那个名字的时候，我已经习惯了仔细聆听。</Dest>
+    </String>
+    <String List="2">
+      <Source>But again, she's a child. It's her one weakness, and her one advantage.</Source>
+      <Dest>但是，她只是个孩子。这是她的弱点，也是她的优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>But maybe then, Morrigan wouldn't be alive today.  So if the price of that is letting Gabania live, it's one I'm willing to pay.</Source>
+      <Dest>但也许茉莉甘活不过今天。所以如果代价只是放卡贝尼亚一条生路，那么我很愿意支付它。</Dest>
+    </String>
+    <String List="2">
+      <Source>And if it's one or the other...him, or her...it will always be her.</Source>
+      <Dest>如果必须二者选其一……他，或者她……我一定会选她。</Dest>
+    </String>
+    <String List="2">
+      <Source>We've talked about her learning a spell. Maybe she can catch an unwitting assassin off guard, and give her enough time to drink the potion.</Source>
+      <Dest>我们谈过让她学习咒语的事。或许她能趁一个昏头傻脑的刺客疏于防备之际喝下隐身药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>Leave me.</Source>
+      <Dest>别来烦我。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got the wrong house stranger.  The mill owner lives on the other side of the road.  I suggest you leave.</Source>
+      <Dest>陌生人你认错门了，磨坊主住在路的另一边。我建议你离开。</Dest>
+    </String>
+    <String List="2">
+      <Source>I should have figured he wouldn't remember. They never do.</Source>
+      <Dest>我早该知道他不会记得的。他们从来都是这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>She's a child. It's better if she hides. I've given her a potion that will make her invisible, but with an assassin, she won't have time to drink it.</Source>
+      <Dest>她是个孩子。如果她能藏起来更好。我给过她一个让她隐形的药水，但如果遇到了一名刺客，她不会有时间喝药水的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But she didn't. And as she always does, the girl asked why. So I told her. And if my needs ever made her feel unsafe, to let me know.</Source>
+      <Dest>但她不知道。就像平时那样，小女孩我问为什么。所以我就告诉她。如果我的需求让她感到不安，请告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>But she didn't. And as she always does, the girl asked why. So I told her. And if my needs ever made her feel unsafe, to let me know.</Source>
+      <Dest>但她不知道。就像平时那样，小女孩我问为什么。所以我就告诉她。如果我的需求让她感到不安，请告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for you, here. I took these from a summoner I was contracted to kill. They've served me well. I hope they help you on your journeys.</Source>
+      <Dest>至于你呢，给。这是我在契约里杀掉的召唤师身上找到的。它们都很有用，希望能对你的旅途有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't something I wanted to do. But I had to. Because where my head was at, I couldn't trust my own decisions.</Source>
+      <Dest>我不想这么做。但我却必须这么做。考虑到我正把注意力放在其他地方，我没法相信自己的决断。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't something I wanted to do. But I had to. Because where my head was at, I couldn't trust my own decisions.</Source>
+      <Dest>我不想这么做。但我却必须这么做。考虑到我正把注意力放在其他地方，我没法相信自己的决断。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Success) You're right. Maybe I'm not thinking clearly on this either. If that's what's best for Morrigan, then okay.</Source>
+      <Dest>（成功）你说得对。也许我也没有想清楚。只要是对茉莉甘好的，那就好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, let's get back to the inn. Morrigan might get fidgety without me there.</Source>
+      <Dest>不管怎么说，先回旅馆吧。没有我在茉莉甘会着急的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, let's get back to the inn. Morrigan might get fidgety without me there.</Source>
+      <Dest>不管怎么说，先回旅馆吧。没有我在茉莉甘会着急的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, let's get back to the inn. Morrigan might get fidgety without me there.</Source>
+      <Dest>不管怎么说，先回旅馆吧。没有我在茉莉甘会着急的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's another reason Gabania has to die. I can't protect Morrigan like this. Not when all I see are the faces from that day.</Source>
+      <Dest>卡贝尼亚之所以必须死还有另一个原因。如果我脑海中一直萦绕着那天那张脸孔，我将无法保护好茉莉甘。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's another reason Gabania has to die. I can't protect Morrigan like this. Not when all I see are the faces from that day.</Source>
+      <Dest>卡贝尼亚之所以必须死还有另一个原因。如果我脑海中一直萦绕着那天那张脸孔，我将无法保护好茉莉甘。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I'm saying is, we'll have to sneak our way past the guard. Either that, or muscle our way in.</Source>
+      <Dest>我想说的是，我们估计得潜行着从警卫面前走过了。要么就强行开道。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I'm saying is, we'll have to sneak our way past the guards. Either that, or muscle our way in.</Source>
+      <Dest>我想说的是，我们估计得潜行着从警卫面前走过了。要么就强行开道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Him? That hot-headed milk-drinker would charge headfirst into a spear.</Source>
+      <Dest>他？那个头脑发热的懦夫会一头撞上矛尖。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failure) That doesn't make any sense. If he's insane, he's not someone you can trust to maintain a code.</Source>
+      <Dest>（失败）这说不通。要是他真是个疯子，那你就不能确保他会坚守信条。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) The more I think about it, the more it seems like a bad idea. I would feel better if you stayed, but I doubt me and the Elf can work together.</Source>
+      <Dest>（叹气）我越想，越觉得是个坏主意。如果你肯留下来我会感觉好很多，但是我不确定能否和那个精灵相处愉快。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failure) You have a point. But something makes me think she'd be better off coming with us than staying with him.</Source>
+      <Dest>（失败）确实是个主意。但我总觉得她最好和我们一起走，而不是和他呆在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>Honestly, I was going to suggest you stay, but then that would leave me with him. It wouldn't be pretty.</Source>
+      <Dest>老实说，我想建议你留下，但那可就让我跟他呆在一起了。这可不好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I always knew the day would come where I wouldn't have to protect her. I just didn't expect it to come so soon.</Source>
+      <Dest>我一直都知道她不再需要我保护的日子总会到来。我只是没想到它来得这么快。</Dest>
+    </String>
+    <String List="2">
+      <Source>I need a reason to protect a child?</Source>
+      <Dest>我保护一个孩子难道还需要理由？</Dest>
+    </String>
+    <String List="2">
+      <Source>I prefer stealth, but I'm guessing your friend isn't the type.  I'll let you figure it out. You know each of our strengths, and how best to use us.</Source>
+      <Dest>我喜欢秘密行动，但我猜你的朋友不擅长这个。我会让你来做决定。你知道我们每个人的优势，以及如何发挥我们的优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet, every night I go to sleep, I see that face. The guardsman...and the one who made him.</Source>
+      <Dest>然而，每天晚上我入梦之后，都会看见那张脸。那个守卫……和那个元凶。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've done my best to keep the Brotherhood off our trail, and the odds of something happening are slim to none.</Source>
+      <Dest>我已经竭尽全力甩掉暗黑兄弟会，而且平安无事的可能性也远大于发生意外。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can tell he's not with the Brotherhood though. But that won't guarantee Morrigan's safety.</Source>
+      <Dest>不过我能肯定他不是兄弟会的人。但这也不能保证茉莉甘的安全。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know why I have to do this. Why I can't let him live.</Source>
+      <Dest>你知道我为什么必须这么做。我为什么不能留他苟活。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know why I have to do this. Why I can't let him live.</Source>
+      <Dest>你知道我为什么必须这么做。我为什么不能留他苟活。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Absolutely not.</Source>
+      <Dest>不。绝对不行。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Success) Yeah. It wouldn't end well, for him anyway. And if Gabania's men are worth half the gold he pays them, I'll need your help.</Source>
+      <Dest>（成功）是啊。对他来说，这无论如何都不会有好的结果。如果卡贝尼亚的人能值他们雇佣金的一半的话，我就得要你来帮忙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabania is too paranoid to leave his ship. It's likely he has people delivered to him. But don't get any ideas. I'm not wearing a noble's robes.</Source>
+      <Dest>卡贝尼亚太多疑，所以不会离开他的船。很可能会有人给他通风报信。但我没想出任何主意，我又没穿着贵族长袍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabania is too paranoid to leave his ship. It's likely he has people delivered to him. But don't get any ideas. I'm not wearing a noble's robes.</Source>
+      <Dest>卡贝尼亚太多疑，所以不会离开他的船。很可能会有人给他通风报信。但我没想出任何主意，我又没穿着贵族长袍</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe. I got a lead. Whispers mostly, but when it comes to that name, I've been trained to listen.</Source>
+      <Dest>是啊。我得到了些线索。一般是些耳语，但出现那个名字的时候，我已经习惯了仔细聆听。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does the girl know about all of this?</Source>
+      <Dest>那个女孩知道这些事情吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems to me like you two are being sought after.</Source>
+      <Dest>看来你俩一直在被追杀。</Dest>
+    </String>
+    <String List="0">
+      <Source>And I wasn't looking for a milk-drinker, but it looks like I've found one.</Source>
+      <Dest>我本来没打算找一个懦夫，但似乎我已经找到了一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morrigan said there were people after you.</Source>
+      <Dest>茉莉甘说过有人在追你们。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you end up in the Dark Brotherhood?</Source>
+      <Dest>你为什么会加入暗黑兄弟会？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be more to it than that.</Source>
+      <Dest>事情不会是这么简单。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be more to it than that.</Source>
+      <Dest>事情不会是这么简单。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not just any killer.  Takes one to know one.</Source>
+      <Dest>你不是简单的杀手。同类能认出彼此。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not just any killer.  Takes one to know one.</Source>
+      <Dest>你不是简单的杀手。同类能认出彼此。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sithis sounds formidable.  Better to kill the girl and be done with it.</Source>
+      <Dest>西帝斯听上去很强大。最好杀了那个女孩儿，然后结束这一切。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want Raynes to hear the story of why we're doing this, and what Gabania did.</Source>
+      <Dest>我要让瑞纳斯听听我们这么做的来龙去脉，还有卡贝尼亚的所作所为。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I want Raynes to hear the story of why we're doing this, and what Gabania did.</Source>
+      <Dest>我要让瑞纳斯听到我们这么做的来龙去脉，还有卡贝尼亚的所作所为。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you her father?</Source>
+      <Dest>你是她爸？</Dest>
+    </String>
+    <String List="0">
+      <Source>You needed to know there was some morality behind each kill.</Source>
+      <Dest>你需要确认每次杀戮背后都有些道德意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>You needed to know there was some morality behind each kill.</Source>
+      <Dest>你需要确认每次杀戮背后都有些道德意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>You needed to know there was some morality behind each kill.</Source>
+      <Dest>你需要确认每次杀戮背后都有些道德意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>You needed to know there was some morality behind each kill.</Source>
+      <Dest>你需要确认每次杀戮背后都有些道德意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>You needed to know there was some morality behind each kill.</Source>
+      <Dest>你需要确认每次杀戮背后都有些道德意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you kill your victims?</Source>
+      <Dest>你是怎样杀死你的目标的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you kill your victims?</Source>
+      <Dest>你是怎样杀死你的目标的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you two doing here?</Source>
+      <Dest>你们两个在这里干嘛？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been hunted myself.</Source>
+      <Dest>我自己就曾被追杀过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been hunted myself.</Source>
+      <Dest>我自己就曾被追杀过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been hunted myself.</Source>
+      <Dest>我自己就曾被追杀过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed. The question is how to purge it.</Source>
+      <Dest>同意。问题在于如何净化他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed. The question is how to purge it.</Source>
+      <Dest>同意。问题在于如何净化他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who or what is Sithis?</Source>
+      <Dest>西帝斯是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who or what is Sithis?</Source>
+      <Dest>西帝斯是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who or what is Sithis?</Source>
+      <Dest>西帝斯是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who or what is Sithis?</Source>
+      <Dest>西帝斯是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>What a coincidence. I'm a member.</Source>
+      <Dest>好巧啊，我是一名兄弟会成员。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a coincidence. I'm a member.</Source>
+      <Dest>好巧啊，我是一名兄弟会成员。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a coincidence. I'm the Listener.</Source>
+      <Dest>真巧啊，我就是聆听者。</Dest>
+    </String>
+    <String List="0">
+      <Source>What a coincidence. I'm the Listener.</Source>
+      <Dest>真巧啊，我就是聆听者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents were powerless, but I imagine they tried to stop it.</Source>
+      <Dest>你的父母无力还手，但我猜他们曾试图阻止这件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents were powerless, but I imagine they tried to stop it.</Source>
+      <Dest>你的父母无力还手，但我猜他们曾试图阻止这件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents were powerless, but I imagine they tried to stop it.</Source>
+      <Dest>你的父母无力还手，但我猜他们曾试图阻止这件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents were powerless, but I imagine they tried to stop it.</Source>
+      <Dest>你的父母无力还手，但我猜他们曾试图阻止这件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>That must have been cathartic.</Source>
+      <Dest>这一定很解恨。</Dest>
+    </String>
+    <String List="0">
+      <Source>That must have been cathartic.</Source>
+      <Dest>这一定很解恨。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is the Dark Brotherhood after you?</Source>
+      <Dest>你怎么会被黑暗兄弟会盯上的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I apologize for my intrusion sir.  Good day.</Source>
+      <Dest>那么很抱歉打扰到您了先生。祝好运！</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I apologize for my intrusion sir.  Good day.</Source>
+      <Dest>那么很抱歉打扰到您了先生。祝好运！</Dest>
+    </String>
+    <String List="0">
+      <Source>In the end, it was all you ever wanted.  To kill with conscience.</Source>
+      <Dest>最后，这就是你想要的。凭着良心杀人。</Dest>
+    </String>
+    <String List="0">
+      <Source>In the end, it was all you ever wanted.  To kill with conscience.</Source>
+      <Dest>最后，这就是你想要的。凭着良心杀人。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's none of your business.</Source>
+      <Dest>这不关你的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. Maybe I'll ask the child what she thinks about her guardian the killer.</Source>
+      <Dest>好吧。也许我应该问问那女孩她对她的杀手护卫有什么看法。</Dest>
+    </String>
+    <String List="2">
+      <Source>When a hunter tracks game for the butcher, it's not his place to ask if the deer deserves it.</Source>
+      <Dest>当一名猎人替屠夫打猎时，他就不应质疑猎物该不该死。</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine if you will a room of complete darkness. You have a torch in your hands, but there's no light to speak of. </Source>
+      <Dest>想象下如果你在一个伸手不见五指的房间里。你手上有支火把，但却找不到任何光明。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had what you call a procedure.  I didn't just stalk my targets, I approached them.  I even befriended them.  I needed to know the man I killed.</Source>
+      <Dest>只是我有你们所谓的“过程” 。我不是单纯地追踪那些人，我会接近他们。我甚至与他们结交朋友。我需要了解我要杀的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>This attitude, this unfeeling apathy that infects everyone around us, it needed to purged.</Source>
+      <Dest>这种态度，这种冷漠无情感染了我们周围每一个人，它必须得到净化。</Dest>
+    </String>
+    <String List="2">
+      <Source>The entire room is as black and cold as the midnight sky.</Source>
+      <Dest>整个房间又黑又冷宛如午夜的天空。</Dest>
+    </String>
+    <String List="2">
+      <Source>As I said, I was once an assassin for the Dark Brotherhood.  One of the best they had.  Only murder wasn't enough for me.</Source>
+      <Dest>如我所说，我曾是黑暗兄弟会的刺客。他们中最好的那个。只是我不满足于单调的杀戮。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyday people driven to murder, and your average target never gave two septims about what they'd done.  Some of them even relished it.</Source>
+      <Dest>每一天都有人被迫进行杀戮，但你盯上的人对自己的作为却总是不屑一顾。有些人甚至会享受杀戮。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet for some reason in the back of my mind, I always assumed they did.  Some were less guilty than others, but all were guilty of indifference.</Source>
+      <Dest>然而出于某些原因，我总认为他们该死。也许有些人的罪孽比其他人更轻，但无动于衷是他们共有的罪行。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I was that sort of person, I would've never come this far.  </Source>
+      <Dest>如果我是那种人，我不可能会撑这么久。</Dest>
+    </String>
+    <String List="2">
+      <Source>I gained their trust, and offered them drink.  The liquor was a paralysis poison.  Then I bound them and interrogated them until I found it.</Source>
+      <Dest>我取得他们的信任，再请他们喝一杯。烈酒是很好的麻痹药。然后我把他们捆住，审问他们，直到我得到我想要的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>I gained their trust, and offered them drink.  The liquor was a paralysis poison.  Then I bound them and interrogated them until I found it.</Source>
+      <Dest>我取得他们的信任，再请他们喝一杯。烈酒是很好的麻痹药。然后我把他们捆住，审问他们，直到我得到我想要的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. I've tried to keep her as far in the dark about it all as I can. She's a smart girl, though. I think she's beginning to piece things together.</Source>
+      <Dest>不。我用尽一切试图对她隐瞒事实。但她是个聪明的女孩儿。我想她已经开始拼凑出事情的真相了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There wasn't a drop of emotion in that face. That's what I remember most from that night.  Not the murder or the rape or the screams.</Source>
+      <Dest>在那张脸上没有一丝表情。这就是那个夜晚我记得最清楚的。而不是谋杀、强奸或尖叫声。</Dest>
+    </String>
+    <String List="2">
+      <Source>There wasn't a drop of emotion in that face. That's what I remember most from that night.  Not the murder or the rape or the screams.</Source>
+      <Dest>在那张脸上没有一丝表情。这就是那个夜晚我记得最清楚的。而不是谋杀、强奸或尖叫声。</Dest>
+    </String>
+    <String List="2">
+      <Source>It all feels so tense.  So grave.  I'd probably lose myself, fall into old habits, if the kid weren't depending on me.</Source>
+      <Dest>这感觉如此紧张，如此沉重。如果这个孩子不再依赖于我，我可能会迷失自我，故态复萌。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that were the case, I imagine you'd have drawn your weapon.  Which means you don't know, or don't care to.</Source>
+      <Dest>如果是这样的话，我想你本应该抽出武器。而现在的情况说明你并不知情，亦或是根本不在乎。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a long story. Not one I really care to tell.</Source>
+      <Dest>那是一个很长的故事。不是太值得讲的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>A stranger. Just like you. Let's keep it that way.</Source>
+      <Dest>一个陌生人。就跟你一样。暂时先这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now imagine that darkness reaching out to you. Embracing you into the very void itself.  That's Sithis. </Source>
+      <Dest>现在想象黑暗涌向了你。拥抱着你坠入永恒的虚空。这就是西帝斯。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the day of her wedding when Lord Gabania's men came riding into field.  </Source>
+      <Dest>就在她婚礼的那一天，领主卡贝尼亚的人骑马冲进了那里。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?  And what of it?</Source>
+      <Dest>嗯？这有什么关系呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was a young boy, living in an old cottage with my parents and older sister. She was about five years older than Morrigan, and promised to marry.</Source>
+      <Dest>那时我是个小男孩儿，跟我的父母和姐姐住在一所旧屋子里。那时她比茉莉甘年长五岁，已经许人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the face on that guardsman. The face of apathy. That I couldn't forgive.</Source>
+      <Dest>而是那张守卫的脸。那张充满冷漠的脸。我永远不会原谅。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the face on that guardsman. The face of apathy. That I couldn't forgive.</Source>
+      <Dest>而是那张守卫的脸。那张充满冷漠的脸。我永远不会原谅。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the face on that guardsman. The face of apathy. That I couldn't forgive.</Source>
+      <Dest>而是那张守卫的脸。那张充满冷漠的脸。我永远不会原谅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two of Gabania's men were dragging my sister into the cottage when they passed me by. One of them turned to look at me, and our eyes met.</Source>
+      <Dest>当两个卡贝尼亚的人把我姐姐拖进小屋的时候，他们与我擦肩而过。其中的一个看了我一眼，我们的眼神交汇。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a game. I asked them to name their killer. They always assumed I was talking about me.</Source>
+      <Dest>那是一个游戏，我叫他们说出杀手的名字，但他们总是认为我在说我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a game. I asked them to name their killer. They always assumed I was talking about me.</Source>
+      <Dest>那是一个游戏，我叫他们说出杀手的名字，但他们总是认为我在说我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe.  At least that's the way I see it now.  Not so much before.  The Dark Brotherhood doesn't take sides.</Source>
+      <Dest>可能吧。至少我现在会这么想。以前我不会想这么多。毕竟暗黑兄弟会从不站队。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that were the case, I imagine I'd already be dead.  Which means there are things even the Listener can't hear, or doesn't choose to.</Source>
+      <Dest>如果是那样的话，我想我本应该已被杀掉多时了。而现在的情况说明有些东西连聆听者也听不到，或者选择不去听到。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was.  I stared into that face for what seemed like forever, my body tingling with sensation.  </Source>
+      <Dest>没错。我死死盯着那张脸，那一刻对我而言如永恒一般漫长，我的身体也因激动而颤栗。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Then leave the milk-drinker be.</Source>
+      <Dest>那就离开那个懦夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two of Gabania's men were dragging my sister into the cottage when they passed me by.  One of them turned to look at me, and our eyes met.</Source>
+      <Dest>两个卡贝尼亚的手下把我姐姐拽进小屋的时候，我正和他们擦身而过。他们中的一个抬起头看了看我，我们目光交错。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's the latter, then perhaps you and I aren't so different.</Source>
+      <Dest>如果是后者，那么也许你我之间也没有什么太大的不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's the latter, then perhaps you and I aren't so different.</Source>
+      <Dest>如果是后者，那么也许你我之间也没有什么太大的不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're polite. Too polite. As if you got what you came here for, and now you're in a hurry to leave.  </Source>
+      <Dest>你很有礼貌，过于礼貌。就像你已经达到了来此的目的，现在想快些脱身。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Who are you?  What are you doing here?  You're not with them, are you? </Source>
+      <Dest>你是谁？你来这干什么？你和他们不是一伙的，对吗？ </Dest>
+    </String>
+    <String List="2">
+      <Source>I was a young boy, living in an old cottage with my parents and older sister. </Source>
+      <Dest>我那时是一个小男孩，和我的姐姐以及父母生活在一间破旧的小屋里。</Dest>
+    </String>
+    <String List="2">
+      <Source>The girl's too trusting for her own good.  What of it?</Source>
+      <Dest>那女孩太过信任别人了。是又如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not entirely.  True, killing criminals and those who deserve it, it was easy, but the easy thing is never satisfying.</Source>
+      <Dest>不尽然。确实，杀死那些应得此报应的罪犯易如反掌，但是这样简单的事情从不会令我满足。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry.</Source>
+      <Dest>我很抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you know how it is. Always looking over your shoulder, never getting a good night's sleep, never knowing if this is the last time.</Source>
+      <Dest>那你应该懂这感觉吧。时刻警惕你的背后，夜晚从不沉眠，永远不知道你是否能看到第二天的太阳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothingness and everything all in the same form.</Source>
+      <Dest>化为一体的万物和虚无。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother pleaded for mercy, my father reached for his axe. When one of the guards gutted him, all anyone could do was weep.</Source>
+      <Dest>我的母亲不停地求饶，而父起身去拿他的斧头。当一个警卫把他开膛破肚的时候，我们唯一能做到的只是哭。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, alright.  Leave her out of this.</Source>
+      <Dest>好吧，好吧。别让她知道这些。</Dest>
+    </String>
+    <String List="2">
+      <Source>When a target is marked, a typical assassin kills without question or remorse.  The murder is efficient.  A transaction.  </Source>
+      <Dest>当盯上一个目标时，典型的杀手会不问缘由地把他杀掉。这种谋杀显然很有效率。这就是生意。</Dest>
+    </String>
+    <String List="2">
+      <Source>I killed one of their contracts.</Source>
+      <Dest>我杀了他们契约上的一个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>That obvious, huh? Alright. I was once a member of the same organization that hunts me.  The Dark Brotherhood.</Source>
+      <Dest>这很明显，哼？好吧。我曾隶属于现在追杀我的组织。暗黑兄弟会。</Dest>
+    </String>
+    <String List="2">
+      <Source>But to be honest, it's not really a story I like to tell.</Source>
+      <Dest>但老实说，我不太喜欢讲这段往事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last time I see the sun.  Or taste a ripe apple.  Or get pinched by the girl.   Everything has a finality to it.  </Source>
+      <Dest>我最后一次看见太阳。或者最后一次尝到熟透的苹果。或者最后一次被小女孩掐疼。万事皆会有尽头。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's none of your business.</Source>
+      <Dest>不关你的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah.  The Dark Brotherhood aren't just hunting a killer.  They're hunting one of their own.  Me.</Source>
+      <Dest>对。暗黑兄弟会不只是在追猎一个杀手。他们是在猎杀一个同类。我。</Dest>
+    </String>
+    <String List="0">
+      <Source>A good one.</Source>
+      <Dest>一个好父亲。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you ought to tell me "what" before I lose my patience and kill you both.</Source>
+      <Dest>也许你们应该告诉我些什么，在我失去耐心杀掉你们两个之前。</Dest>
+    </String>
+    <String List="0">
+      <Source>Meaning, you were going to kill her.</Source>
+      <Dest>这意味着，你将要去干掉她。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Meaning, you were going to kill her.</Source>
+      <Dest>这意味着，你将要去干掉她。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Meaning, you were going to kill her.</Source>
+      <Dest>这意味着，你将要去干掉她。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Meaning, you were going to kill her.</Source>
+      <Dest>这意味着，你将要去干掉她。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Meaning, you were going to kill her.</Source>
+      <Dest>这意味着，你将要去干掉她。 </Dest>
+    </String>
+    <String List="0">
+      <Source>So you kill the ones who don't realize they're hurting people.</Source>
+      <Dest>所以你杀了那些没有意识到正在伤害别人的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you kill the ones who don't realize they're hurting people.</Source>
+      <Dest>所以你杀了那些没有意识到正在伤害别人的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you kill the ones who don't realize they're hurting people.</Source>
+      <Dest>所以你杀了那些没有意识到正在伤害别人的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't asking for it.</Source>
+      <Dest>我没在问这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to be so rude.</Source>
+      <Dest>你没必要这么粗鲁。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dark Brotherhood is not what it once was. Perhaps you can escape.</Source>
+      <Dest>黑暗兄弟会已经不复当年。也许你能逃脱。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dark Brotherhood is not what it once was. Perhaps you can escape.</Source>
+      <Dest>黑暗兄弟会已经不复当年。也许你能逃脱。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's better if you just tell the truth. Who's after you?</Source>
+      <Dest>你最好说实话。是谁在找你们？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you find her?</Source>
+      <Dest>那你是怎么找到她的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you find her?</Source>
+      <Dest>那你是怎么找到她的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you find her?</Source>
+      <Dest>那你是怎么找到她的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you find her?</Source>
+      <Dest>那你是怎么找到她的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you find her?</Source>
+      <Dest>那你是怎么找到她的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds to me like a ritual.</Source>
+      <Dest>在我听来像个仪式。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds to me like a ritual.</Source>
+      <Dest>在我听来像个仪式。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds to me like a ritual.</Source>
+      <Dest>在我听来像个仪式。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds to me like a ritual.</Source>
+      <Dest>在我听来像个仪式。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not adopt the child yourself?</Source>
+      <Dest>为什么你不自己领养那个孩子？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not adopt the child yourself?</Source>
+      <Dest>为什么你不自己领养那个孩子？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not adopt the child yourself?</Source>
+      <Dest>为什么你不自己领养那个孩子？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not adopt the child yourself?</Source>
+      <Dest>为什么你不自己领养那个孩子？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you had a motive, but not the means.</Source>
+      <Dest>所以你有动机，但是没手段。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you had a motive, but not the means.</Source>
+      <Dest>所以你有动机，但是没手段。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you had a motive, but not the means.</Source>
+      <Dest>所以你有动机，但是没手段。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you had a motive, but not the means.</Source>
+      <Dest>所以你有动机，但是没手段。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you had a motive, but not the means.</Source>
+      <Dest>所以你有动机，但是没手段。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>She does seem to idolize you a lot.</Source>
+      <Dest>看来她对你崇拜极了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Please?</Source>
+      <Dest>请？</Dest>
+    </String>
+    <String List="0">
+      <Source>Please?</Source>
+      <Dest>请？</Dest>
+    </String>
+    <String List="0">
+      <Source>Please?</Source>
+      <Dest>请？</Dest>
+    </String>
+    <String List="0">
+      <Source>Please?</Source>
+      <Dest>请？</Dest>
+    </String>
+    <String List="0">
+      <Source>Please?</Source>
+      <Dest>请？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't blame you, considering what happened.</Source>
+      <Dest>考虑到发生了这样的事，我不怪你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't blame you, considering what happened.</Source>
+      <Dest>考虑到发生了这样的事，我不怪你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't blame you, considering what happened.</Source>
+      <Dest>考虑到发生了这样的事，我不怪你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't blame you, considering what happened.</Source>
+      <Dest>考虑到发生了这样的事，我不怪你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't blame you, considering what happened.</Source>
+      <Dest>考虑到发生了这样的事，我不怪你。</Dest>
+    </String>
+    <String List="0">
+      <Source>How does the girl fit in to all of this?</Source>
+      <Dest>这女孩是怎么卷进这一切中去的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does the girl fit in to all of this?</Source>
+      <Dest>这女孩是怎么卷进这一切中去的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does the girl fit in to all of this?</Source>
+      <Dest>这女孩是怎么卷进这一切中去的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does the girl fit in to all of this?</Source>
+      <Dest>这女孩是怎么卷进这一切中去的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after they killed your family?</Source>
+      <Dest>他们杀死你的家人之后呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after they killed your family?</Source>
+      <Dest>他们杀死你的家人之后呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened after they killed your family?</Source>
+      <Dest>他们杀死你的家人之后呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do indeed loathe apathy.  In some ways I felt it was the greater crime.  The kind made with a level head.</Source>
+      <Dest>我确实痛恨冷漠。我觉得在某种程度上这是更重的罪行。一种由冷静的头脑策划出的罪行。</Dest>
+    </String>
+    <String List="2">
+      <Source>One night, we received word of a man performing the black sacrament in the Riften Ratway. </Source>
+      <Dest>某个晚上，我们收到了在裂谷城鼠道中进行黑暗仪式的某个人所发来的消息。</Dest>
+    </String>
+    <String List="2">
+      <Source>You certainly have an odd way of showing that stranger.  Do you also ask for mead when you're not thirsty?</Source>
+      <Dest>你说话的方法真是奇怪，陌生人。难道当你不口渴的时候你也会要蜂蜜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>I hate that word.  Makes it sound religious or something.  It was a procedure.  A potion for the conscience.</Source>
+      <Dest>我讨厌这个词。听起来像是宗教之类的。这是一个过程。一剂给良知的药。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had what you call a procedure.  I didn't just stalk my targets, I approached them.  I even befriended them.  I needed to know the man I killed.</Source>
+      <Dest>只是我有你们所谓的“过程” 。我不是单纯地追踪那些人，我会接近他们。我甚至与他们结交朋友。我需要了解我要杀的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was to arrange a meeting with him to get information on the target.</Source>
+      <Dest>为了得到关于目标的更多信息，我安排与他进行了一场会面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tracking her down was easy. She was staying in some bunkhouse near the Jarl's Keep.</Source>
+      <Dest>跟踪她不是件难事。她一直住在领主要塞附近的一些工棚里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tracking her down was easy. She was staying in some bunkhouse near the Jarl's Keep.</Source>
+      <Dest>跟踪她不是件难事。她一直住在领主要塞附近的一些工棚里。</Dest>
+    </String>
+    <String List="2">
+      <Source>She wasn't a harlot. She wasn't even a woman. She was just a girl.</Source>
+      <Dest>她不是个妓女，甚至连女人都不是。她只是个小女孩儿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>She wasn't a harlot. She wasn't even a woman. She was just a girl.</Source>
+      <Dest>她不是个妓女，甚至连女人都不是。她只是个小女孩儿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>No, not forced.  Toyed with them, defiled them, and murdered their spirit.  And when they killed them all they...they just left me there to watch.</Source>
+      <Dest>不，不只是胁迫。玩弄她们，玷污她们，毁灭她们的意志。当他们把她们全杀了的时候……他们只是留我在那儿看着。</Dest>
+    </String>
+    <String List="2">
+      <Source>The man told me a story of a harlot who had taken everything from him. He wanted her to know the pain and anguish she caused him.</Source>
+      <Dest>这个男人告诉了我一个关于夺走他一切的妓女的故事。他想让她知道她给他造成的痛苦和心酸。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I was once an assassin for the Dark Brotherhood.  One of the best they had.  Only murder wasn't enough for me.</Source>
+      <Dest>我曾是黑暗兄弟会的刺客。他们中最好的那个。只是我不满足于单调的杀戮。</Dest>
+    </String>
+    <String List="2">
+      <Source>There wasn't a drop of emotion in that face. That's what I remember most from that night.  Not the murder or the rape or the screams.</Source>
+      <Dest>在那张脸上没有一丝表情。这就是那个夜晚我记得最清楚的。而不是谋杀、强奸或尖叫声。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to be.  I need to be.  Leave us.</Source>
+      <Dest>不是必要，而是需要。离开这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another jilted lover, I thought. Another uncaring woman.  My specialty.  So I accepted the contract on behalf of the Brotherhood.</Source>
+      <Dest>又一个无情的情人，我想。又一个不长心的女人。我的专长。所以我代表黑暗兄弟会接受了这个契约。</Dest>
+    </String>
+    <String List="2">
+      <Source>She could even pass off as my real daughter. But what kind of father could I possibly be? </Source>
+      <Dest>她甚至可以被当作是我的女儿。但我又能是怎样的父亲呢？ </Dest>
+    </String>
+    <String List="2">
+      <Source>They razed the town. Gabania really just wanted the land and the peasants cleared. When his lot forced themselves on the women, it was just for fun.</Source>
+      <Dest>他们把这个小镇夷为了平地。卡贝尼亚只是想要这片土地并想清理这些农民。而当他的手下胁迫那些妇女时，却只是为了娱乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't try to justify the reasons because the reasons are moronic. But if I got to know them, I could always find it. My reason. The apathy.</Source>
+      <Dest>你不可能正当化那些理由，因为那些理由是如此愚蠢。但如果我了解了他们，我就总能找到理由。我自己的理由。冷漠。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kept that sword as a reminder.  The blood had dried and crusted over the blade, but I never bothered to polish it.</Source>
+      <Dest>我把那把剑当做一个警醒。血已经干了，剑锋也生锈了，但我从来也不去磨光它。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kept that sword as a reminder.  The blood had dried and crusted over the blade, but I never bothered to polish it.</Source>
+      <Dest>我把那把剑当做一个警醒。血已经干了，剑锋也生锈了，但我从来也不去磨光它。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you want a fight stranger, I'm more than happy to oblige.  But leave the girl out of it.  She's got no blood on her hands.</Source>
+      <Dest>如果你想打架，陌生人，我随时奉陪。但是别把女孩扯进来。她是清白的。</Dest>
+    </String>
+    <String List="2">
+      <Source>She even has the same dark hair and pale skin, like me...</Source>
+      <Dest>她甚至有同样乌黑的头发，苍白的皮肤，像我一样……</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dark Brotherhood isn't about good and evil.  You'll find in this world, people want others dead for the most trivial of reasons.</Source>
+      <Dest>黑暗的兄弟无关善恶。你会发现在这个世界上，人们会为了一个最微不足道的原因而想置他人于死地。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a game. I asked them to name their killer. They always assumed I was talking about me.</Source>
+      <Dest>那是一个游戏，我叫他们说出杀手的名字，但他们总是认为我在说我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a game. I asked them to name their killer. They always assumed I was talking about me.</Source>
+      <Dest>那是一个游戏，我叫他们说出杀手的名字，但他们总是认为我在说我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, these people and their attitudes disgusted me.  It needed to be purged.</Source>
+      <Dest>是啊，这些人和他们的态度让我感到恶心。这些都需要被净化。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mourned them for days. But my mourning quickly turned to anger. I thirsted for revenge.</Source>
+      <Dest>我为他们悲痛了好几天。但是我的悲痛很快变成了愤怒，我渴望复仇。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're a bard who sings off key?  You're dead.  You jilted a lover?  Buy a headstone.  Looked at someone the wrong way?  Maggot food.</Source>
+      <Dest>你是个唱歌跑调的吟游诗人？你死定了。你抛弃了情人？墓碑自备。看别人的眼神不对了？杀掉养蛆。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so that night I killed a mortal not for apathy, but for passion, and took the child from Honorhall.</Source>
+      <Dest>所以我不是由于他的冷漠，而是他的肉欲，杀了他。然后我带着那孩子离开了荣耀厅孤儿院。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so that night I killed a mortal not for apathy, but for passion, and took the child from Honorhall.</Source>
+      <Dest>所以我不是由于他的冷漠，而是他的肉欲，杀了他。然后我带着那孩子离开了荣耀厅孤儿院。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll admit I have grown fond of her. Despite all that's happened, she can still make me laugh.</Source>
+      <Dest>我要承认我越来越喜欢她了。尽管发生了这么多事情，她还是能让我笑得出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>No different than going to the market.  Only I took things a little bit further.</Source>
+      <Dest>这与进市场购物无异。只是我做得更进了一步。</Dest>
+    </String>
+    <String List="2">
+      <Source>I try not to read too much into in it.  Children get attached easily.  Stay here long enough and she'll probably begin to idolize you.</Source>
+      <Dest>我会当作没听懂这句话。孩子总是容易被吸引。在这里呆久一些，她也会崇拜你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabania was beyond my reach.  But that guard.  The one whose face was burned into my memory.  That was a man I could kill.</Source>
+      <Dest>我已经找不到卡贝尼亚了，但我能找到那个守卫。那张脸已经深深地烙在了我的脑海里。那是我不共戴天的仇人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gabania was beyond my reach.  But that guard.  The one whose face was burned into my memory.  That was a man I could kill.</Source>
+      <Dest>我已经找不到卡贝尼亚了，但我能找到那个守卫。那张脸已经深深地烙在了我的脑海里。那是我不共戴天的仇人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Inside her wasn't apathy.  It was innocence.  The child wasn't even old enough to understand love.</Source>
+      <Dest>她的内心不是冷漠。而是天真。这孩子甚至没有成长到足够明白什么是爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Inside her wasn't apathy.  It was innocence.  The child wasn't even old enough to understand love.</Source>
+      <Dest>她的内心不是冷漠。而是天真。这孩子甚至没有成长到足够明白什么是爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now every night I am left to face his wrath.</Source>
+      <Dest>现在每天晚上我都得留下来面对他的愤怒。</Dest>
+    </String>
+    <String List="2">
+      <Source>My time with her has made me rethink my purpose in life. Perhaps I wasn't meant to be a killer, after all.</Source>
+      <Dest>我和她相处的日子促使我反思人生的意义。毕竟，也许我本不想成为一名杀手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.  I see you're not going to give up until I tell you.</Source>
+      <Dest>好吧。看来我不说你就不会罢休。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew then that I was truly alone.  And if I wanted vengeance, I had to do it myself.  </Source>
+      <Dest>我知道自己已经真真正正的孑然一身了。如果我要复仇，我要自己去做。</Dest>
+    </String>
+    <String List="2">
+      <Source>These people and their attitudes disgusted me.  It needed to be purged.</Source>
+      <Dest>这些人和他们的态度让我感到恶心。它需要被清除。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dark Brotherhood. They're after us. Her and me.</Source>
+      <Dest>黑暗兄弟会。他们在找我们。找我和她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh. Maybe you're right.  But there will come a time when it's safer for us to be apart.</Source>
+      <Dest>啊。也许你是对的。但总有一天我们分道扬镳反而会对彼此更好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew then that I was truly alone. And if I wanted vengeance, I had to do it myself.  </Source>
+      <Dest>我知道自己已经真真正正的孑然一身了。如果我要复仇，我要自己去做。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was just a boy.  My anger alone would never be enough to kill a noble.  I performed the Black Sacrament, but the Brotherhood never answered.</Source>
+      <Dest>我只是个男孩。仅凭一腔怒火不可能杀掉一个贵族。我举行了黑暗圣礼，但兄弟会却从未回应我。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pulled the sword from my own father's belly and watched him spill all over the ground.</Source>
+      <Dest>我把剑从父亲的腹部拔了出来，看着他的血流满一地。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pulled the sword from my own father's belly and watched him spill all over the ground.</Source>
+      <Dest>我把剑从父亲的腹部拔了出来，看着他的血流满一地。</Dest>
+    </String>
+    <String List="2">
+      <Source>It isn't just the Dark Brotherhood.  The one who pursues me is Sithis.  I broke a tenet, and in doing so betrayed him.</Source>
+      <Dest>不单单是暗黑兄弟会。是西帝斯在追杀我。我违背了教条，因而我背叛了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bard doesn't care whose ears are bleeding.  The lover is oblivious to the man she's betrayed.  </Source>
+      <Dest>吟游诗人毫不在乎听众的耳朵是不是在滴血。出轨的情人对她背叛的男人漠不关心。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I was just a boy.  My anger alone would never be enough to kill a noble.  I performed the Black Sacrament, but the Brotherhood never answered.</Source>
+      <Dest>然而我那时只是个男孩。仅凭一腔怒火不可能杀掉一个贵族。我举行了黑暗圣礼，但兄弟会却从未回应我。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first I thought there must have been mistake. Only when I confronted the man he confirmed her identity. The sick bastard was in love with a child.</Source>
+      <Dest>一开始我以为搞错了。直到我找到那个男人，他确认了她的身份。那恶心的混账居然搞上了一个孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first I thought there must have been mistake. Only when I confronted the man he confirmed her identity. The sick bastard was in love with a child.</Source>
+      <Dest>一开始我以为搞错了。直到我找到那个男人，他确认了她的身份。那恶心的混账居然搞上了一个孩子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like that.</Source>
+      <Dest>我……希望我能。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like that.</Source>
+      <Dest>我……希望我能。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I gained their trust and offered them drink.  The liquor was a paralysis poison.  Then I bound them and interrogated them until I found it.</Source>
+      <Dest>所以我取得他们的信任，再请他们喝一杯。烈酒是很好的麻痹药。然后我把他们捆住，审问他们，直到我得到我想要的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the day of her wedding when Lord Gabania's men came riding into the field.  </Source>
+      <Dest>在她结婚的那天，卡贝尼亚领主的士兵闯进了领地。  </Dest>
+    </String>
+    <String List="2">
+      <Source>They wear it to tell people they want to get married.  </Source>
+      <Dest>他们戴上它，以此告诉人们他们想要结婚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Sorry, but I'm a little too old for you.</Source>
+      <Dest>（笑）抱歉，但是我对于你老说有点太老了。</Dest>
+    </String>
+    <String List="2">
+      <Source>She was about five years older than Morrigan, and promised to marry.</Source>
+      <Dest>她比茉莉甘大5岁, 已经许人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two of Gabania's men were dragging my sister into the cottage when they passed me by. One of them turned to look at me, and our eyes met.</Source>
+      <Dest>当两个卡贝尼亚的人把我姐姐拖进小屋的时候，他们与我擦肩而过。其中的一个看了我一眼，我们的眼神交汇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take care.</Source>
+      <Dest>保重。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some call it the right of first night. As if men in power need to justify their rape with laws.  No, they just took what they wanted.  </Source>
+      <Dest>有人称那是“初夜权”。就好像手握权势的人就可以利用法律让强奸变得合理。不，他们只是在为所欲为。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother pleaded for mercy, my father reached for his axe. When one of the guards gutted him, all anyone could do was weep.</Source>
+      <Dest>我的母亲不停地求饶，而父亲起身去拿他的斧头。当一个警卫把他开膛破肚的时候，我们唯一能做到的只是哭。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother pleaded for mercy, my father reached for his axe.  When one of the guards gutted him, all anyone could do was weep.</Source>
+      <Dest>我的母亲不停地求饶，而父亲起身去拿他的斧头。当一个警卫把他开膛破肚的时候，我们唯一能做到的只是哭。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some call it the right of first night. As if men in power need to justify their rape with laws.  No, they just took what they wanted.</Source>
+      <Dest>有人称那是“初夜权”。就好像手握权势的人可以利用法律让强奸变得合理。不，他们只是在为所欲为。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shadow hide you.</Source>
+      <Dest>愿阴影庇佑你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲的唯一理由是他被迫在独孤城过夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll never forget the way their horses grunted and seethed, as if ready for war. Then the nobleman descended from his horse, and made his demands.</Source>
+      <Dest>我永远忘不了他们的战马嘶鸣奔腾，准备作战的样子。然后那个贵族跳下他的马，提出了他的要求。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

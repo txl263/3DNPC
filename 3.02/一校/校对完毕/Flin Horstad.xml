@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>This will sound like a lie, but it was actually written by a friend.</Source>
+      <Dest>这听起来像是在说谎，但它确实是一个朋友写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This will sound like a lie, but it was actually written by a friend.</Source>
+      <Dest>这听起来像是在说谎，但它确实是一个朋友写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of changes are we talking about here?</Source>
+      <Dest>我们在这儿要谈论什么样的改变？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you say that?</Source>
+      <Dest>为什么你会这么说？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you say that?</Source>
+      <Dest>为什么你会这么说？</Dest>
+    </String>
+    <String List="0">
+      <Source>It was written by some blacksmith.</Source>
+      <Dest>这是某个铁匠写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was written by some blacksmith.</Source>
+      <Dest>这是某个铁匠写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Gromash?</Source>
+      <Dest>格罗摩西怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Gromash?</Source>
+      <Dest>格罗摩西怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Gromash?</Source>
+      <Dest>格罗摩西怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does that mean it has no chance to be published?</Source>
+      <Dest>这是代表完全没机会出版的意思吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does that mean it has no chance to be published?</Source>
+      <Dest>这是代表完全没机会出版的意思吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does that mean it has no chance to be published?</Source>
+      <Dest>这是代表完全没机会出版的意思吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does that mean it has no chance to be published?</Source>
+      <Dest>这是代表完全没机会出版的意思吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>It was written by a milk-drinker named Jaspar Gaerston.</Source>
+      <Dest>那是一个叫贾斯帕·盖尔斯顿的乳臭未干的家伙写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was written by a milk-drinker named Jaspar Gaerston.</Source>
+      <Dest>那是一个叫贾斯帕·盖尔斯顿的乳臭未干的家伙写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was written by a milk-drinker named Jaspar Gaerston.</Source>
+      <Dest>那是一个叫贾斯帕·盖尔斯顿的乳臭未干的家伙写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>Name the character after me. &lt;Alias=Player&gt;.</Source>
+      <Dest>就叫我的名字吧。 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Ghorbash?</Source>
+      <Dest>葛尔伯许怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Ghorbash?</Source>
+      <Dest>葛尔伯许怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Bogakh is fine.  I think you've butchered Jaspar's work enough already.</Source>
+      <Dest>波噶克就很好。 我想你已经把贾斯帕的作品毁得差不多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bogakh is fine.  I think you've butchered Jaspar's work enough already.</Source>
+      <Dest>波噶克就很好。 我想你已经把贾斯帕的作品毁得差不多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bogakh is fine.  I think you've butchered Jaspar's work enough already.</Source>
+      <Dest>波噶克就很好。 我想你已经把贾斯帕的作品毁得差不多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bogakh is fine.  I think you've butchered Jaspar's work enough already.</Source>
+      <Dest>波噶克就很好。 我想你已经把贾斯帕的作品毁得差不多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think Jaspar will like that one bit.</Source>
+      <Dest>我认为贾斯帕一点儿也不会喜欢它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I read any of your works?</Source>
+      <Dest>我读过你的作品吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I read any of your works?</Source>
+      <Dest>我读过你的作品吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I read any of your works?</Source>
+      <Dest>我读过你的作品吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I read any of your works?</Source>
+      <Dest>我读过你的作品吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Because it is lad.  It's only hard if you make it so.</Source>
+      <Dest>因为这是个小伙子。如果你这想样做的话只能努力了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take my suggestions to your "friend."  If the final copy passes muster, I'd be more than happy to have it published.</Source>
+      <Dest>把我的建议告诉你那位 "朋友"。如果定稿最终过审，我会很乐意出版印刷。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fame I received from that book gave me the coin and the authority to write what I love.</Source>
+      <Dest>我从那本书那里得到的名声让我有机会去写我喜欢的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we'll go with your name. Pass that and my suggestions to your friend.  If the final copy passes muster, I'll be happy to publish the work.</Source>
+      <Dest>好吧，我会以你的名义去的。把这个和我的忠告带给你的朋友，如果最终的版本符合要求，那我会很乐意出版我的作品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we'll go with your name. Pass that and my suggestions to your friend.  If the final copy passes muster, I'll be happy to publish the work.</Source>
+      <Dest>好吧，我会以你的名义去的。把这个和我的忠告带给你的朋友，如果最终的版本符合要求，那我会很乐意出版我的作品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we'll go with your name. Pass that and my suggestions to your friend.  If the final copy passes muster, I'll be happy to publish the work.</Source>
+      <Dest>好吧，我会以你的名义去的。把这个和我的忠告带给你的朋友，如果最终的版本符合要求，那我会很乐意出版我的作品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Also, the main character's name.   You can tell our friend hasn't spent much time around Orcs.  I think Bogakh is a female name.</Source>
+      <Dest>还有，主角的名字。你可以告诉你那朋友别把太多时间花费在兽人身上。我认为波噶克是一个女性化的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Plenty of time for wenches, though.  (Laughs)  That will have to do.</Source>
+      <Dest>虽然寻欢作乐的时间还很充裕。(笑声)  该办的事情就要去办。</Dest>
+    </String>
+    <String List="2">
+      <Source>We also need to make these paragraphs cleaner.  They lack direction.  It's something that can be fixed easily enough.</Source>
+      <Dest>我们还需要让这些段子看着干净利落一些。它们缺乏写作方向，但这是可以轻易解决的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>We also need to make these paragraphs cleaner.  They lack direction.  It's something that can be fixed easily enough.</Source>
+      <Dest>我们还需要让这些段子看着干净利落一些。它们缺乏写作方向，但这是可以轻易解决的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say one man's trash is another man's treasure.  But for me, they were one and the same.</Source>
+      <Dest>他们说，一个人认为垃圾的东西是另一个人的宝贝。但对我来说，它们都是一样的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Also, the main character's name.  You aside, I can tell our friend hasn't spent much time around Orcs.  I think Bogakh is a female name.</Source>
+      <Dest>还有，主角的名字。你可以告诉你那朋友别把太多时间花费在兽人身上。我认为波噶克是一个女性化的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>On the other hand, better to be a mediocre artist than a starving one.  And it'll give him the leverage to write something of substance.</Source>
+      <Dest>一方面来说，做一个普通的艺术家显然比做一个挨饿的艺术家好。并且这也会给他些时间写出点有价值的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Of course, I can't tell you how many writers hand me manuscripts on behalf of their "friends" in hopes of getting an honest critique.</Source>
+      <Dest>(笑声) 当然，我都数不清有多少作家以“朋友”的名义给我看他们的手稿，希望获得些坦率的评论呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...don't think that's a good idea.  I'd rather not have the name associated with an actual living person.</Source>
+      <Dest>我……我不认为这是个好主意。我可不想跟真实生活里的人名扯上关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it doesn't have to be wenches.  What's the male equivalent of that?  A porter?  Find yourself one of those.  Have a fling.</Source>
+      <Dest>嗯，不一定要是个女侍。干这种活的男人叫什么来着？酒保？你自己想想吧。尝试一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I'd say Jaspar can tell a tale or two. He just needs to brush up on the telling.</Source>
+      <Dest>我得说贾斯帕还是能讲一两个故事的。只是他还得在脑子里过一遍。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, you can tell him he needs to make his book more accessible.  That's a nice way of saying the prose is a bit over the top.</Source>
+      <Dest>比如说，你可以告诉他需要把书写的更通俗点。这也是委婉的方法说他的散文有点过头了。</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, you can tell him he needs to make his book more accessible.  That's a nice way of saying the prose is a bit over the top.</Source>
+      <Dest>比如说，你可以告诉他需要把书写的更通俗点。这也是委婉的方法说他的散文有点过头了。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a little polish, we can turn this into a seller.  It may not give him the acclaim he seeks, but it will put food on the table.</Source>
+      <Dest>再稍加润色，我们就能把它拿去卖了。这不一定能给你的朋友带来他渴求的名望，但至少这能让他不挨饿。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might have.  I've written countless epics, poems, and tales of heroism.</Source>
+      <Dest>也许你有。我已经写了数不清的叙事诗，诗歌，还有那些英雄的英勇事迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>That, I find hard to believe.</Source>
+      <Dest>我发现我很难相信那个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, it might help market the book better.  And ultimately, we're trying to sell copies, not be authentic.</Source>
+      <Dest>而且，这可以帮助我们把书卖得更好。最重要的是，我们想要卖的的是原稿，而不是真品。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Still, it might help market the book better.  And ultimately, we're trying to sell copies, not be authentic.</Source>
+      <Dest>而且，这可以帮助我们把书卖得更好。最重要的是，我们想要卖的的是原稿，而不是真品。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Still, it might help market the book better.  And ultimately, we're trying to sell copies, not be authentic.</Source>
+      <Dest>而且，这可以帮助我们把书卖得更好。最重要的是，我们想要卖的的是原稿，而不是真品。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  "Jaspar's" work.  Well, I suppose if you don't mind, Orcs won't either.  Bogakh it is.</Source>
+      <Dest>不错，这就是"贾斯珀的"作品。好啦，我想你和那些兽人都不会在意的。 那就叫波噶克吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lastly, the main character's name.  You aside, I can tell our friend hasn't spent much time around Orcs.  I think Bogakh is a female name.</Source>
+      <Dest>最后，主角的名字。把你撇开不谈，我可以告诉我们的朋友别把太多时间花费在兽人身上。我认为波噶克是一个女性化的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all goes well, the name Gromash the Stone Hand will go down in history as one of literature's most tragic figures.</Source>
+      <Dest>如果一切进展顺利的话，格里摩西 石之手这个名字将会作为文学史上最杯具的人物而青史留名。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know what you need lad, is a muse, and not some bloody Orc.</Source>
+      <Dest>你知道你要的是什么吗年轻人，是缪斯女神（灵感），而不是什么见鬼的兽人。</Dest>
+    </String>
+    <String List="2">
+      <Source>All that's left now is to give my suggestions to your friend.  If the final copy passes muster, I'd be more than happy to have it published.</Source>
+      <Dest>现在剩下的就是把我的建议传达给你的“朋友”了。如果这份定稿通过了，我很乐意把它出版。</Dest>
+    </String>
+    <String List="2">
+      <Source>All that's left now is to give my suggestions to your friend.  If the final copy passes muster, I'd be more than happy to have it published.</Source>
+      <Dest>现在剩下的就是把我的建议传达给你的“朋友”了。如果这份定稿通过了，我很乐意把它出版。</Dest>
+    </String>
+    <String List="2">
+      <Source>All that's left now is to give my suggestions to your "friend."  If the final copy passes muster, I'd be more than happy to have it published.</Source>
+      <Dest>现在剩下的就是把我的建议传达给你的“朋友”了。如果这份定稿通过了，我很乐意把它出版。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I'm best known for a terrible piece of tripe I wrote about seven years ago called "The Duke of Beards."</Source>
+      <Dest>我这么有名，还是因为我七年多前写完的垃圾作品，叫做《大胡子公爵》。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that's because you're devoted to your craft.  Being a writer, especially a young writer, is a solitary existence.  There's no time for love.  </Source>
+      <Dest>好吧， 这是因为你专注于自己的工作。成为一个作家——尤其是一个年轻作家——是一件注孤生的事情。你没有恋爱的时间了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) That's not too kind of you, considering poor Jaspar's not here to defend himself. </Source>
+      <Dest>（笑声）考虑到可怜的贾斯伯没在这里给自己辩护，你真是个好人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right.  "Jaspar's" work.  Well, I suppose if you don't mind, other Orcs won't either.  Bogakh it is.</Source>
+      <Dest>对。 "贾斯珀'的" 作品。嗯，我看要是你不介意，其他兽人也不介意的话。那就叫波噶克吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I didn't say that.  Although your friend may not like what I'm about to say.</Source>
+      <Dest>哈啊，我没有说过那些。尽管你的那些所谓朋友们对我接下来要说的话可能并不怎么感冒。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I once set out to burn every copy in Skyrim, but the thing took on a life of its own.</Source>
+      <Dest>事实上，我曾经打算把天际省的每一份副本都烧掉，但那东西似乎拥有了自己的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly, he won't.  Still, if he's as desperate as he sounds, he may be willing to compromise, provided you aren't too harsh with him.</Source>
+      <Dest>毫无疑问，他不会。不过，要是他和听起来的一样绝望，他可能愿意妥协，前提是你之前没有对他太凶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly, he won't.  Still, if he's as desperate as he sounds, he may be willing to compromise, provided you aren't too harsh with him.</Source>
+      <Dest>毫无疑问，他不会。不过，要是他和听起来的一样绝望，他可能愿意妥协，前提是你之前没有对他太凶。</Dest>
+    </String>
+    <String List="2">
+      <Source>The problem with young artists is that they're a bit too attached to their integrity.  He may not go for it.</Source>
+      <Dest>年轻的艺术家的问题是太过在意自己是否诚实是否正直了。他可能不同意这么做。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lad, you really are as dolorous as your stories.</Source>
+      <Dest>小伙子，你的确如你的故事一样忧伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, for starters, we need to dumb it down a bit.  A few cosmetic changes here and there ought to do it.</Source>
+      <Dest>呃，首先，我们得让它稍微通俗易懂些。这里和那里表面上得做些变化。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, for starters, we need to dumb it down a bit.  A few cosmetic changes here and there ought to do it.</Source>
+      <Dest>呃，首先，我们得让它稍微通俗易懂些。这里和那里表面上得做些变化。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I'd say he needs to be a bit more like his fellow tradesman in terms of word choice. This writer is a little too in love with his own voice.</Source>
+      <Dest>实际上，我想说他应该在措辞上学学他那个商人朋友。这个作家有点对自己的话太自恋了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Lastly, the main character's name.  I can tell our friend hasn't spent much time around Orcs.  I think Bogakh is a female name.</Source>
+      <Dest>最后，主角的名字。把你撇开不谈，我可以告诉我们的朋友别把太多时间花费在兽人身上。我认为波噶克是一个女性化的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>A blacksmith? (Laughs) He must be by far the most eloquent blacksmith in all of Tamriel!</Source>
+      <Dest>一个铁匠？(笑声) 那他一定是泰姆瑞尔大陆最有口才的铁匠了!</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, now there's a strong Orc name. I like it.</Source>
+      <Dest>啊，现在是一个强大的兽人的名字。我喜欢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, now there's a strong Orc name. I like it.</Source>
+      <Dest>啊，现在是一个强大的兽人的名字。我喜欢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that would defeat the purpose of it, wouldn't it?  You being female and all.</Source>
+      <Dest>好吧，那将会让它白忙活，对吧？此外你是个女的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But regardless of his identity, one thing that's certain is that your friend lacks conviction.  I can see it plain as day on the page.</Source>
+      <Dest>不管他的身份如何，有一件事可以确定，那就是你的朋友缺乏信念。我完全可以在这页纸上看出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but being a milk-drinker's nothing to be ashamed of.  Most of us writers are.  We tell the tales we ourselves failed to live.</Source>
+      <Dest>哈，但是乳臭未干也不是什么丢人的事。很多像我们一样的作家就是这种人。我们将故事讲给别人听，但是自己的日子却过得一塌糊涂。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you appreciate the female form, then your view is as good as any.</Source>
+      <Dest>如果你欣赏这个女性形象，那你的审美还不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you appreciate the female form, then your view is as good as any.</Source>
+      <Dest>如果你欣赏这个女性形象，那你的审美还不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you really think it's any good?</Source>
+      <Dest>你觉得这真的有益处？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you really think it's any good?</Source>
+      <Dest>你觉得这真的有益处？</Dest>
+    </String>
+    <String List="0">
+      <Source>Nythriel is a trustworthy Elf.  Great at keeping secrets.</Source>
+      <Dest>奈瑞儿是个值得信赖的精灵，她很善于保守秘密。</Dest>
+    </String>
+    <String List="0">
+      <Source>Speaking of books and authors, what do you think of this?</Source>
+      <Dest>说到书籍和作者，你对这个有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>Speaking of books and authors, what do you think of this?</Source>
+      <Dest>说到书籍和作者，你对这个有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll do that first thing in the morning after I make 1000 copies.</Source>
+      <Dest>我抄完1000份后，明早要做的第一件事就是它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll do that first thing in the morning after I make 1000 copies.</Source>
+      <Dest>我抄完1000份后，明早要做的第一件事就是它。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you write the book?  Is there really a "Duke of Beards?"</Source>
+      <Dest>是什么让你写这本书？是否真的有《公爵的胡子》？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you write the book?  Is there really a "Duke of Beards?"</Source>
+      <Dest>是什么让你写这本书？是否真的有《公爵的胡子》？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you write the book?  Is there really a "Duke of Beards?"</Source>
+      <Dest>是什么让你写这本书？是否真的有《公爵的胡子》？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you write the book?  Is there really a "Duke of Beards?"</Source>
+      <Dest>是什么让你写这本书？是否真的有《公爵的胡子》？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you Jaspar's rewritten manuscript.</Source>
+      <Dest>我给你带来了贾斯帕的重写的手稿。</Dest>
+    </String>
+    <String List="0">
+      <Source>You implied before it could be commercially successful but an artistic failure.</Source>
+      <Dest>你说过这部作品虽然无法在艺术领域上取得突破，但能在商业领域获得成功。</Dest>
+    </String>
+    <String List="0">
+      <Source>You implied before it could be commercially successful but an artistic failure.</Source>
+      <Dest>你说过这部作品虽然无法在艺术领域上取得突破，但能在商业领域获得成功。</Dest>
+    </String>
+    <String List="0">
+      <Source>I read it, and it's still better served as kindling.</Source>
+      <Dest>我读完它，还是感觉它最好去当引火柴吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I read it, and it's still better served as kindling.</Source>
+      <Dest>我读完它，还是感觉它最好去当引火柴吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the new novel about?</Source>
+      <Dest>这本新小说是讲什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the new novel about?</Source>
+      <Dest>这本新小说是讲什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the new novel about?</Source>
+      <Dest>这本新小说是讲什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the new novel about?</Source>
+      <Dest>这本新小说是讲什么的？</Dest>
+    </String>
+    <String List="0">
+      <Source>She fancies gossip, but she might like you too.</Source>
+      <Dest>她喜欢花边新闻，不过或许她也喜欢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>She fancies gossip, but she might like you too.</Source>
+      <Dest>她喜欢花边新闻，不过或许她也喜欢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I've come here to see you about something.</Source>
+      <Dest>实际上，我的确是有事而来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I've come here to see you about something.</Source>
+      <Dest>实际上，我的确是有事而来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book is awful and you should feel awful for writing it.</Source>
+      <Dest>你的书棒极了，你该为写它感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know I won't keep the gold for myself?</Source>
+      <Dest>你怎么知道我不会私吞这笔金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>Too bad. You will stare at this male form and admire it or leave.</Source>
+      <Dest>真糟糕。你应该看看这个男性形象，然后要么喜欢，要么离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop the lies.  I know you're here to spy on your illegitimate daughter.</Source>
+      <Dest>别撒谎了。我知道你来这儿是为了窥探你的私生女。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop the lies.  I know you're here to spy on your illegitimate daughter.</Source>
+      <Dest>别撒谎了。我知道你来这儿是为了窥探你的私生女。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop the lies.  I know you're here to spy on your illegitimate daughter.</Source>
+      <Dest>别撒谎了。我知道你来这儿是为了窥探你的私生女。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop the lies.  I know you're here to spy on your illegitimate daughter.</Source>
+      <Dest>别撒谎了。我知道你来这儿是为了窥探你的私生女。</Dest>
+    </String>
+    <String List="0">
+      <Source>I actually have a copy of your book.</Source>
+      <Dest>我还真的有一本你的书。</Dest>
+    </String>
+    <String List="0">
+      <Source>She probably just wanted to learn about you so she could spread more lies.</Source>
+      <Dest>恐怕她只是想通过对你更多的了解来散布更多的谎言。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see what's so bad about it.</Source>
+      <Dest>我没看出它有什么不好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see what's so bad about it.</Source>
+      <Dest>我没看出它有什么不好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see what's so bad about it.</Source>
+      <Dest>我没看出它有什么不好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I read any of your works?</Source>
+      <Dest>我读过你的作品吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're preaching to the acolytes, my boy.  The book is about as awful as a piece of non-fiction gets.</Source>
+      <Dest>你在对侍祭们说教，我的孩子。这本书快和纪实小说一样无聊了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No wonder the Thalmor think so low of us!</Source>
+      <Dest>难怪梭默会看不起我们！</Dest>
+    </String>
+    <String List="2">
+      <Source>No wonder the Thalmor think so low of us!</Source>
+      <Dest>难怪梭默会看不起我们！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I suppose "bad" was a poor choice of words.  Thank Dibella I didn't print them this time!</Source>
+      <Dest>我觉得用“坏”这个词是一个糟糕的选择。感谢迪贝拉，幸好我这次还没有印刷！</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, I'm not even sure the "Duke of Beards" exists, but I didn't let that stop me from making him a legend.</Source>
+      <Dest>另外，我并不确定“公爵胡须” 的存在， 但这并不会阻止我让他成为一个传奇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose it's just as well.  So long as they don't forget me, I'll always have someone to pour ale on my headstone.</Source>
+      <Dest>我想这也不错。只要他们别忘了我。我总得需要某个人将啤酒浇在我的墓碑上。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm actually sterile, believe it or not.  One of the great gifts Dibella granted me, and there's not a day I don't thank her for it.</Source>
+      <Dest>其实我是“圣女”，信不信由你。那是迪贝拉赐予我最棒的礼物之一，没有一天不令我感激涕零。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm actually sterile, believe it or not.  One of the great gifts Dibella granted me, and there's not a day I don't thank her for it.</Source>
+      <Dest>其实我是“圣女”，信不信由你。那是迪贝拉赐予我最棒的礼物之一，没有一天不令我感激涕零。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Now this, my friend, is a story!  Give me a season or two, and the name Jaspar Gaerston will be known from here to Stros M'Kai!</Source>
+      <Dest>(笑声)接下来这个呢，我的朋友，这是一段故事！给我一两个季节，贾斯珀．格斯登的名号将会远播到图尔斯．迈凯！</Dest>
+    </String>
+    <String List="2">
+      <Source>People love a good mystery, especially if it involves people they run into every day.</Source>
+      <Dest>人们都喜欢神秘的事情，尤其是涉及到他们每天都能见面的人的时候。.</Dest>
+    </String>
+    <String List="2">
+      <Source>While other races dabble in magic, painting, and the culinary arts, it makes us Nords look like chest-thumping apes obsessed with facial hair.</Source>
+      <Dest>相比于别的种族擅长魔法、绘画和厨艺，我们诺德人就好像长了胡子的捶胸大猩猩。</Dest>
+    </String>
+    <String List="2">
+      <Source>While other races dabble in magic, painting, and the culinary arts, it makes us Nords look like chest-thumping apes obsessed with facial hair.</Source>
+      <Dest>相比于别的种族擅长魔法、绘画和厨艺，我们诺德人就好像长了胡子的捶胸大猩猩。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not to have me sign your book, is it?  I mean, don't get me wrong, I'd be glad to, so long as it's one of my later works.</Source>
+      <Dest>我并不需要在你的书上签字，对么？不要误解，既然这是我以后的作品，我很高兴签这个字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Turns out, that piece of rubbish was the best thing that ever happened to me.  </Source>
+      <Dest>结果，那坨垃圾是在我身上发生过最大的好事了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, I did.  That was a mistake on my part.  I never thought our writer could make such improvements in a short amount time.</Source>
+      <Dest>是我做的。那是我的过失。我从没想过我们的作者能在短时间内做出那么大的改进。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd arm wrestle you for it, but something tells me that would leave me sore, tired, and possibly bedridden.</Source>
+      <Dest>为此，我得跟你扳扳腕子。但某些东西告诉我这会让我疼痛万分，疲倦不堪，甚至有可能卧床不起。</Dest>
+    </String>
+    <String List="2">
+      <Source>But there's plenty of time for that later.  Besides, you ought to at least buy me a drink before you start making demands!</Source>
+      <Dest>但我们时间还充裕着呢。此外，你真应该在跟我提要求之前至少再给我买杯酒！</Dest>
+    </String>
+    <String List="2">
+      <Source>Good, then you can do me a favor and throw it into pilgrim's trench, although with my luck, the bloody thing probably knows how to swim!</Source>
+      <Dest>好极了，那就帮我个小忙，把这书丢进朝圣者的战壕，尽管这该死的玩意儿如果够走运的话说不定已经学会了游泳！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're preaching to the acolytes, girl. The book is about as awful as a piece of non-fiction gets.</Source>
+      <Dest>你这是在向僧侣布道，姑娘。这本书几乎和《知音》一样糟糕。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  Take this gold.  Half is for you, and the other half is an advance for our newest writer.</Source>
+      <Dest>给，拿着这钱。一半儿是给你的，另一半儿我们得预支给我们最新的作家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still lacking conviction, I suppose.  Yet his words do not.</Source>
+      <Dest>还是缺乏信念，我觉得。而他的话听起来信心十足。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Sorry lad, I think I'd rather just stare at my cup.  Although I'm sure there's a lass or two in this inn who wouldn't mind having this seat.</Source>
+      <Dest>(笑声)对不起呀小妞，我想我宁愿只盯着我的杯子。虽然我肯定在这客栈里有一两个姑娘不介意坐在这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not like some magical ocean beast only a handful of sailors claim to have seen.  The Duke of Beards could've been anyone.  That was the appeal.</Source>
+      <Dest>不是只有少数水手声称看到过一些魔法海兽。胡子公爵可能是任何人。那就是感染力。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for what made me write it, it was desperation.  I was capitalizing on the buzz surrounding the Gourmet's book, "Uncommon Taste."</Source>
+      <Dest>要问是什么促使我写下了它，我得说，是绝望使然。我利用了那些美食家那本名为"奇珍异味"的书所带来的人们议论纷纷的嘈杂声。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that so?  (Laughs) Well, whatever she says, it can't be much worse than the truth.</Source>
+      <Dest>是这样吗？(笑声)嗯，不管她说什么，都不能比真相更糟了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, don't be so harsh on the lad!  I'm guessing he's still young, and he's got time.  The important thing is, he finally has a voice he can trust.</Source>
+      <Dest>哦，别对这小伙子过分苛责。我想他毕竟还年轻，有的是时间。重要的是，他能成长为一个值得信赖的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Now this, my friend, is a story!  Ah, but I see our author has chosen to remain anonymous.</Source>
+      <Dest>(笑声) 哦我的朋友，现在这（手稿里写的）才能叫故事啊！啊，但是看来我们的作者已经选择匿名了。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Gods, I hope not.  The last thing I need is more attention being brought to my book.</Source>
+      <Dest> 众神啊，我希望不！现在我最不需要的就是更加专心地翻书。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I'm sorry lass, but I haven't the slightest idea what you're talking about!</Source>
+      <Dest>(笑声) 对不住了姑娘，我一时半会真的想不明白你在说什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well lad, don't hold back, tell me how you really feel! (Laughs)</Source>
+      <Dest>好孩子，别隐瞒，告诉我你到底是怎么想的！ (笑声)</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm assuming this manuscript is yours?</Source>
+      <Dest>我想这手稿是你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Whether he develops that voice into something that begs to be heard, well, we'll see.  But I wouldn't bet against him.</Source>
+      <Dest>他是否能让这种声音发展到别人都争相想要听到的地步呢？好吧，让我们瞧瞧。但我不敢说他能做到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I don't.  That's the price of being lazy.  Still, you've come this far to help the poor lad, so I doubt you plan on shorting him now.</Source>
+      <Dest>我不知道。那就是偷懒的代价。话虽如此，你都已经帮那个可怜的小伙子到这个地步了，我一点也不怀疑你现在会克扣。</Dest>
+    </String>
+    <String List="2">
+      <Source>What good would that stool do me then! (Laughs)</Source>
+      <Dest>那坨屎对我有什么好处！(笑声)</Dest>
+    </String>
+    <String List="2">
+      <Source>But the lad has potential, and I think it's worth investing our time.</Source>
+      <Dest>但是这小伙子有潜力，我认为投入我们的时间是值得的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And in the end, most of it is lies.</Source>
+      <Dest>而且最后，大多数都是谎言。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I thought the story of the Orc with the stone hands would never get told!  Glad to see you've kept it safe.  Now let me take a look.</Source>
+      <Dest>我想这个有着石之手的兽人的故事从未被人所知。很高兴看到你把它安安全全的带到了。现在让我看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I thought the story of the Orc with the stone hands would never get told!  Glad to see you've kept it safe.  Now let me take a look.</Source>
+      <Dest>我想这个有着石之手的兽人的故事从未被人所知。很高兴看到你把它安安全全的带到了。现在让我看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, good is a relative term.  For a debut novel from an unknown writer...it's not bad.</Source>
+      <Dest>好吧，相对来说还算不错。作为一位名不见经传的作家的处女作...这部并不算糟。</Dest>
+    </String>
+    <String List="2">
+      <Source>This mouth of mine always gets me into trouble.  That's why I'm a writer, and not a bard.</Source>
+      <Dest>口舌之快常常让我陷入麻烦。这就是为什么我现在是一个作家，而非吟遊诗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The name's Flin, by the way.  Author, publisher, and admirer of the female form.</Source>
+      <Dest>顺带一提，我的名字是福林。是个作家，出版商，还是个女性形象的仰慕者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bloody horkers!  I told Corpulus I like that stool the best.  Has the best view of all the maids that stroll through here.</Source>
+      <Dest>该死的三牙海象！我跟科尔普鲁斯说过我最喜欢的就是这个位子。这个位子可是能将在这儿闲逛的所有女仆一眼看尽啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well lass, don't hold back, tell me how you really feel! (Laughs)</Source>
+      <Dest>哦小姑娘，别害羞，告诉我你的真实感想！(笑声)</Dest>
+    </String>
+    <String List="2">
+      <Source>There's so many stories to tell just in Solitude alone.  You hear about pirate tales, shadowy dealings, and news of war.</Source>
+      <Dest>仅独孤城一城就有如此多的故事可说。你能听到海盗的传闻，阴影下的交易，和战争的消息。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, the problem with that book is, I made it sound like we Nords are a bunch of barbarians obsessed with facial hair.</Source>
+      <Dest>不，那本书的问题出在，我把我们诺德人描述成满脸长满毛发的粗鲁野蛮人。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I'm sorry lad, but I haven't the slightest idea what you're talking about!</Source>
+      <Dest>(笑声) 对不起，孩子，但是我不知道你在说什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>That would be great lad, if I had secrets to keep.  Most of mine find their way onto the page.</Source>
+      <Dest>那太好了，孩子。如果我要保守秘密的话，很有可能会在纸上找到保管它们的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  Half is for you, half is for our dour friend.  Maybe some bread and some mead will lift his spirits.  It always works for me.</Source>
+      <Dest>给。一半儿是你的，一半是我们冷冰冰的的朋友的。也许一些面包和一些蜂蜜酒能让他振作起来。这法子对我很有效。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's see...now if I'm being perfectly honest, I would say this is apprentice level work...but, that being said, you've got talent.</Source>
+      <Dest>让我们想一下……现在如果我完全坦白，我会说这是学徒工的水平……但是，这样说的话，你很有天赋。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) You might as well just stick a knife in my career then as well.  Here I was thinking I might be remembered for something else.</Source>
+      <Dest>(笑声)你可能只是也在我的职业生涯中插了一把刀。我想我可能会记住一切其他的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>An Elf after my own heart! (Laughs) Writers and gossips are one in the same.  Everything we hear, everyone we meet, finds their way into a story.</Source>
+      <Dest>这精灵很合我的心意！(笑声)作家跟花边新闻是一体的。我们听到的每件事，遇到的每一个人，都会把他们带入到故事中去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you believe me if I said I hadn't decided?  Inspiration is funny that way.</Source>
+      <Dest>我要是告诉你说我还没决定的话你信不信？这样的灵感也很有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nythriel is a trustworthy Elf.  Great at keeping secrets.</Source>
+      <Dest>奈瑞儿是个值得信赖的精灵，她很善于保守秘密。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you new in town?</Source>
+      <Dest>你是刚到镇上来吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you new in town?</Source>
+      <Dest>你是刚到镇上来吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you new in town?</Source>
+      <Dest>你是刚到镇上来吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you new in town?</Source>
+      <Dest>你是刚到镇上来吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're welcome to join us, just grab a chair.</Source>
+      <Dest>欢迎加入我们，请随便找张椅子坐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, talent comes in many forms, and they never specified what kind!</Source>
+      <Dest>当然，天赋有很多种类，而他们从没有弄清楚是哪一种天赋！</Dest>
+    </String>
+    <String List="2">
+      <Source>Why just the other day I had a delightful conversation with a High Elf named Nythriel. I think she fancies writers.</Source>
+      <Dest>哎呀我前天刚跟一个名叫纳瑞尔的高精灵很开心地聊过。她可是很喜欢作家的呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>That would be great lass, if I had secrets to keep.  Most of mine find their way onto the page.</Source>
+      <Dest>那会很不错的小妞，，如果我有秘密要藏的话。大部分都写在纸上了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just got off the ship, as it were, fresh as a flounder.</Source>
+      <Dest>才从船上运下来呢，看看，就像新鲜的海鱼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just having a drink with my new protege.</Source>
+      <Dest>仅仅是和我的新徒弟喝一杯.</Dest>
+    </String>
+    <String List="2">
+      <Source>Safe travels.</Source>
+      <Dest>旅途平安。</Dest>
+    </String>
+    <String List="2">
+      <Source>I came here to pen my next great novel, and while I'm here, keep an eye out for talent.</Source>
+      <Dest>我来这里是打算动笔写下一本小说，而且虽然我在这里，也是时常关注外面的事情来找寻灵感。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

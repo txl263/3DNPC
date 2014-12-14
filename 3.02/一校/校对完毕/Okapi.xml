@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Gambling is far too reckless an activity for someone as sensitive as I am.</Source>
+      <Dest>对于和我一样敏感的人来说赌博实在是一项不计后果的活动。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gambling is far too reckless an activity for someone as sensitive as I am.</Source>
+      <Dest>对于和我一样敏感的人来说赌博实在是一项不计后果的活动。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you accumulate this debt?</Source>
+      <Dest>你是怎么欠下这笔债务的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you accumulate this debt?</Source>
+      <Dest>你是怎么欠下这笔债务的？</Dest>
+    </String>
+    <String List="0">
+      <Source>We have a responsibility as greater beings to not abuse our power.</Source>
+      <Dest>力量越大则责任越大，我们有责任让自己的力量不被滥用。</Dest>
+    </String>
+    <String List="0">
+      <Source>We have a responsibility as greater beings to not abuse our power.</Source>
+      <Dest>力量越大则责任越大，我们有责任让自己的力量不被滥用。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, pay up.</Source>
+      <Dest>是的。交上来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, pay up.</Source>
+      <Dest>是的。交上来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, pay up.</Source>
+      <Dest>是的。交上来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose someone has to fill all those dead shoes.</Source>
+      <Dest>我猜有人给所有这些死者穿上了鞋。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose someone has to fill all those dead shoes.</Source>
+      <Dest>我猜有人给所有这些死者穿上了鞋。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll settle for some more advice then.</Source>
+      <Dest>以后我会接受更多的建议。.</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the traps of gambling?</Source>
+      <Dest>赌博的陷阱到底是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the traps of gambling?</Source>
+      <Dest>赌博的陷阱到底是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are the traps of gambling?</Source>
+      <Dest>赌博的陷阱到底是怎样的？</Dest>
+    </String>
+    <String List="0">
+      <Source>There are. And they're totally unbearable.</Source>
+      <Dest>有一些。而且他们完全无法忍受了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Breton.</Source>
+      <Dest>布列塔尼告诉我的。 </Dest>
+    </String>
+    <String List="0">
+      <Source>You should be borrowing and winning that coin back, not slaving in some mine.</Source>
+      <Dest>你应该去借钱或者去赚钱，而不是在矿井里做苦力。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should be borrowing and winning that coin back, not slaving in some mine.</Source>
+      <Dest>你应该去借钱或者去赚钱，而不是在矿井里做苦力。</Dest>
+    </String>
+    <String List="0">
+      <Source>You bet on pit fights?</Source>
+      <Dest>你在地下斗兽场里下赌注？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the third?</Source>
+      <Dest>那第三重呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the third?</Source>
+      <Dest>那第三重呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the third?</Source>
+      <Dest>那第三重呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's work?</Source>
+      <Dest>工作还顺利吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's work?</Source>
+      <Dest>工作还顺利吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's work?</Source>
+      <Dest>工作还顺利吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's work?</Source>
+      <Dest>工作还顺利吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Or he might just signal the guard.</Source>
+      <Dest>或者他只是在给守卫发信号。</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of animals are raised for pit fights?</Source>
+      <Dest>地下角斗场养了些什么动物？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Nord.</Source>
+      <Dest>跟我说说诺德人的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Nord.</Source>
+      <Dest>跟我说说诺德人的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You claim to be an expert on wolves, but you still managed to lose at the pits.</Source>
+      <Dest>你自称是对付狼的专家，那你怎么还会在斗兽场里失手。</Dest>
+    </String>
+    <String List="0">
+      <Source>The only thing I bet on is myself. I've yet to lose a wager.</Source>
+      <Dest>我唯一能赌的就是我自己。我已经没啥好输的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The only thing I bet on is myself. I've yet to lose a wager.</Source>
+      <Dest>我唯一能赌的就是我自己。我已经没啥好输的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The only thing I bet on is myself. I've yet to lose a wager.</Source>
+      <Dest>我唯一能赌的就是我自己。我已经没啥好输的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>They mean well.</Source>
+      <Dest>他们说很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>They have mixed animal fighting?</Source>
+      <Dest>他们把动物混搭起来比赛？</Dest>
+    </String>
+    <String List="0">
+      <Source>They have mixed animal fighting?</Source>
+      <Dest>他们把动物混搭起来比赛？</Dest>
+    </String>
+    <String List="0">
+      <Source>They have mixed animal fighting?</Source>
+      <Dest>他们把动物混搭起来比赛？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you decided to earn and pay that coin with hard work.  Admirable.</Source>
+      <Dest>这么说你决定用辛勤劳动来赚到钱。佩服佩服。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you decided to earn and pay that coin with hard work.  Admirable.</Source>
+      <Dest>这么说你决定用辛勤劳动来赚到钱。佩服佩服。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you decided to earn and pay that coin with hard work.  Admirable.</Source>
+      <Dest>这么说你决定用辛勤劳动来赚到钱。佩服佩服。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are people who find animal fighting abhorrent.</Source>
+      <Dest>有很多人觉得养动物来斗很恶心。</Dest>
+    </String>
+    <String List="0">
+      <Source>What gambling tips did you learn from the caravans?</Source>
+      <Dest>你从那支旅行队那边了解到了什么赌博秘诀？</Dest>
+    </String>
+    <String List="0">
+      <Source>What gambling tips did you learn from the caravans?</Source>
+      <Dest>你从那支旅行队那边了解到了什么赌博秘诀？</Dest>
+    </String>
+    <String List="0">
+      <Source>What gambling tips did you learn from the caravans?</Source>
+      <Dest>你从那支旅行队那边了解到了什么赌博秘诀？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to like this job very much.</Source>
+      <Dest>看起来你不怎么喜欢这份工作啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to like this job very much.</Source>
+      <Dest>看起来你不怎么喜欢这份工作啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Enmon?</Source>
+      <Dest>那恩萌呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, we've never met.</Source>
+      <Dest>不好意思，我从没见过你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like you know your wolves. Maybe I'll follow your wagers.</Source>
+      <Dest>看来你对自己的狼都很了解啊。也许我应该跟着你下注。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like you know your wolves. Maybe I'll follow your wagers.</Source>
+      <Dest>看来你对自己的狼都很了解啊。也许我应该跟着你下注。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like you know your wolves. Maybe I'll follow your wagers.</Source>
+      <Dest>看来你对自己的狼都很了解啊。也许我应该跟着你下注。</Dest>
+    </String>
+    <String List="2">
+      <Source>To think I even dreamt of sleeping in a bed.  It was not to be.</Source>
+      <Dest>我甚至做梦都想睡在床上，但这是不可能的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I shared a similar confidence. It's from that well of belief that a gambler drinks, and in that well that a gambler drowns.</Source>
+      <Dest>我也有类似的想法。一个赌徒在哪个坑里得偿所愿，就在那个坑里倾家荡产。</Dest>
+    </String>
+    <String List="2">
+      <Source>Apparently Ulfric and his army of furless bears came and razed the city to the ground.  I felt this presented an opportunity.</Source>
+      <Dest>显然乌佛瑞克和他无畏而蛮横的军队来到了这里，然后把这座城市夷为平地。我觉得这是个机会。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The first trap is the poison of winning.  More addictive than any skooma.  And when you're lucky, it comes so easy you don't value the money.  </Source>
+      <Dest>第一重陷阱是名为赢钱的毒药，它比任何斯库玛都让人上瘾。如果你幸运地可以做到不为金钱所动的话，就能很容易的通过它。</Dest>
+    </String>
+    <String List="2">
+      <Source>What if I were to go to a crowded tavern, storm up to a wealthy man, and demand payment for my "services?" </Source>
+      <Dest>假如我去一个拥挤的酒馆，疯狂地爬到一个有钱的男人身上，然后让他为我的“服务”付钱，怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, if only they applied the same fervor to saving those who are capable of feeling pain, and not just hurt.</Source>
+      <Dest>是的，如果他们拯救这些正在承受痛苦的人的劲头和救助伤员一样就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But in the end, there's a difference between hurt and pain.</Source>
+      <Dest>但是最后，受伤和痛苦之间总是有区别的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want?  I don't owe you anything, do I?</Source>
+      <Dest>你想干什么？我没有欠你什么吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>I myself fell into three such traps.</Source>
+      <Dest>我自己有三次掉进过这种陷阱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look, I'm not saying what happens in the pit isn't squeamish.  You see a wolf tear into another's throat and it's hard sometimes to keep your lunch.</Source>
+      <Dest>看吧，我有说过的吧。当你看着一只狼咬断另一只的喉咙的时候，你很难不把午饭吐出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only by avoiding the trappings of emotion can one flourish, yet it's that very thrill that gives gambling its appeal.</Source>
+      <Dest>被情绪控制的人都只会遭遇挫败，不过那玩意确实诱人，不少人为此铤而走险。</Dest>
+    </String>
+    <String List="2">
+      <Source>They watch the eyes, when the legs are what show the beast's intent.  It's only when a wolf enters a crouch that it's truly prepared to fight.</Source>
+      <Dest>他们光看眼睛去了，而野兽真正的动机都表现在腿上。一只狼只有在蹲下的时候才是真的要打架。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nice try.  I don't recognize you from the pit fights.  But you give me an excellent idea.  </Source>
+      <Dest>很棒的尝试。在斗兽场的战斗中我没认出你来。但你给我的这个主意真的很棒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Belchimac?  A coward, a pessimist, a whiner, and a Forsworn apologist.  He's my favorite.</Source>
+      <Dest>拜曲米克？他是一个胆小鬼，是个厌世者，也是个哀诉者，还老给弃誓者辩护。但他是我的最爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have a point, but it matters not. I've borrowed too much already the first time around and my credit is no longer good.  </Source>
+      <Dest>你说得没错，但这毫无意义。我负债累累以至于透支了信用了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I got my start betting on the pit fights in Cragslane Cavern over in the The Rift.  </Source>
+      <Dest>我初涉赌局是在裂痕领斯萊恩峭壁洞窟中的斗兽场里。 </Dest>
+    </String>
+    <String List="2">
+      <Source>What I know applies only to amateurs.  When I first began betting in the pits, you see, I fell victim to three traps.</Source>
+      <Dest>我知道的东西只对外行管用。你看，我头一次去斗兽场下注时，就被人耍了三回。</Dest>
+    </String>
+    <String List="2">
+      <Source>Frustrating.  There are only two chests for storage in the miner's barracks.  Lash uses both of them.</Source>
+      <Dest>真悲催。在矿工的棚屋只有两个箱子能放东西，拉希把这俩箱子都占了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You claim I'm a liar, but it wasn't my expertise that felled me.  It was my lack of discipline.  Like any amateur, I fell victim to three traps.</Source>
+      <Dest>你说我是个骗子，但这可不是我的专长，因为我缺少训练。跟所有业余者一样，我是这三重陷阱的受害者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many mistake the bristling hair and bared fangs for aggression, when it's nothing more than a bluff. </Source>
+      <Dest>很多人误以为竖起的毛发和露出的尖牙是攻击的预兆，事实上那些不过是虚张声势而已。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Caution may be a good quality for a mage, but not for a gambler.  A gambler must be decisive, even if her reasoning is faulty.</Source>
+      <Dest>慎重对于一个法师来说或许是个好品质，但对于赌徒来说不是。一个赌徒应该够果断，哪怕她失去了理性。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then again, I'm not sure I blame him.  The mines are far less dusty.</Source>
+      <Dest>不过我不确定我是否怪他。这矿井原称不上是一尘不染。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the luck runs dry, there's no coin left to cover your bets.  So you start to borrow money so you can win it all back.  This is the second trap.</Source>
+      <Dest>当好运用完，筹码见底。你就会为了赢回来而开始借钱。这就是第二重陷阱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Belchimac whined to Ragnar about my shedding. Said it was all over the floor.  I said I still shed less than that skeever on his lip.</Source>
+      <Dest>拜曲米克向拉格纳抱怨说我脱皮，弄得满地都是。要我说，我比他那常挂在嘴边的雪鼠掉的可少多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like to see a pit fight between 20 bears and a dragon. My money would be on the bears, of course.  Better odds. People fear dragons too much.</Source>
+      <Dest>我要是看20头熊和一条龙之间的赌斗，我肯定会压熊赢，是人们太害怕龙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another selfish one.  I questioned Ainethach why his family gets such a large house while the rest of us are wedged into a food barrel.</Source>
+      <Dest>他自私死了。我问过艾尼塔克为什么在我们其他人都给挤进一个食品桶的时候，他家却有一个这么大的房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if I could convince Belchimac to help me frame the Orc.  I'm just not sure if he loathes her, or loves her.</Source>
+      <Dest>我想知道我能不能说服贝尔奇马克帮我们陷害兽人。我只是不能肯定他是恨她，还是爱她。</Dest>
+    </String>
+    <String List="2">
+      <Source>He would hand me his coin purse just to avoid a further scandal.</Source>
+      <Dest>他会为了息事宁人而破财消灾的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I probably won ten times as many bets as I lost, but in the end I still lost it all.  </Source>
+      <Dest>或许一开始我赢十次才输一次，但最后我总是输得精光。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, we haven't.  Forget what I said.  Unless you have coin.  Then, if you ever visit the pits, I hope you remember me well.</Source>
+      <Dest>不，我们不能。忘记我曾说的吧。除非你有金币。如果你要去拜访斗兽场的话，我希望你能以我的经历为戒。</Dest>
+    </String>
+    <String List="2">
+      <Source>True.  It seems the only honest way to earn coin is to gamble for it.</Source>
+      <Dest>真的。看起来为它赌一把是唯一一个老实的赚钱方法了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The caravans taught me how to tell the difference between a wolf that hungers for a fight and one that merely growls in fear.</Source>
+      <Dest>商队教给了我如何辨别一只狼是饥饿嗜血的低吼，还是仅仅出于恐惧而故作挑衅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although sometimes, there's an advantage to be gained by reading the people and not the animals.</Source>
+      <Dest>虽然有些时候，从观察人身上学到的东西要比从动物那儿得到的多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Each time you lose, you double the last bet. You don't just want to break even, you want to win. You want to feel that rush, that ecstasy of feeling.</Source>
+      <Dest>每次你输的时候，你都会将赌金翻倍。你甚至都没有考虑过会破产，你太想赢了。你就想要胜利扑面而来时的那份快感。</Dest>
+    </String>
+    <String List="2">
+      <Source>Compared to that, even smelting is like taking a bath in liquid moon sugar.  It also doesn't help that I despise my co-workers. </Source>
+      <Dest>跟那活儿相比，在熔炉干个苦力都像月亮糖水里洗澡一样美啊。就算我瞧不起那帮同事也没啥用。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a young feline traveling with the caravans, I've always had a good nose for wolves.  </Source>
+      <Dest>作为一只跟商队走的年轻猫咪，我用出色的嗅觉来探测野狼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Correct.  Even better if they were too busy mourning the dead to notice if Okapi was taking a nap.</Source>
+      <Dest>没错。如果他们为死者哀悼得太过于伤心以至于没发现奥卡皮在打瞌睡就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even one as skilled as I can fall into the traps designed for amateurs.</Source>
+      <Dest>即使熟练如我也可能落入粗制滥造的陷阱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did.  I aimed to make my fortune on the pits. I lost much coin the first time around, and still owe a sizeable debt.</Source>
+      <Dest>我以前下过。我曾期望能在斗兽场获取财富。我一开始就输了不少钱，直到现在仍背着可观的债务。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ragnar?  Just hearing his name bores me.  The Orc has all but spread her legs for him, but he would rather mine silver.</Source>
+      <Dest>拉格纳？一听到他的名字我就烦。那兽人什么都有，就差愿意向他张开双腿了，但他宁可去挖银矿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm glad you said it. I was certainly thinking the same.  Then again, it's smart of you to know your limitations.</Source>
+      <Dest>我很高兴你这么说。我也是这么认为的。以及，能知道自己的能耐究竟是几何的你实在是太聪明了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think gold will fall from the sky every time you visit the pits.  So you spend it all, on things you never wanted or needed before.</Source>
+      <Dest>你觉着每次去斗兽场你都能撞上好运赚到足够钱。所以你就在毫无意义的东西上把它们给花完了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was going to get a job with the caravans when I'd heard there was a massacre in Karthwasten.</Source>
+      <Dest>我在听说西卡斯镇发生了一场大屠杀之后就去找旅行商队那里找了份工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the risk isn't just your own, you worry too much.  You question whether choices made purely on instinct have merit.</Source>
+      <Dest>如果风险并不是只由你一人承担，那你就想得太多了。你在怀疑那些遵从于本能而做出的抉择的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why?  Are there fools who actually pity these wretched beasts?  </Source>
+      <Dest>为什么？难道还真有可怜那些卑鄙的野兽的人？</Dest>
+    </String>
+    <String List="2">
+      <Source>I feel I'm making good progress working here. If I didn't have to waste time pretending to mine, I think I could pocket even more.</Source>
+      <Dest>我觉得，我在这工作的进展很不错。如果我没浪费时间来伪装成采矿的话我觉得我可以隐藏得更深。</Dest>
+    </String>
+    <String List="2">
+      <Source>I shudder at the thought of someone enjoying such tedious work.  You take a pickaxe and chip rock.  For 8 straight hours.</Source>
+      <Dest>我一想起有人能对这么单调乏味的工作感兴趣就会浑身发抖。拿一个鹤嘴锄去砸石头，一砸就是八个小时。</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>To assist with the recovery?</Source>
+      <Dest>去帮助复原？</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you have another female on the crew.</Source>
+      <Dest>至少在你的队里你不是唯一一个女的。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you have another female on the crew.</Source>
+      <Dest>至少在你的队里你不是唯一一个女的。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you have another female on the crew.</Source>
+      <Dest>至少在你的队里你不是唯一一个女的。</Dest>
+    </String>
+    <String List="0">
+      <Source>At least you have another female on the crew.</Source>
+      <Dest>至少在你的队里你不是唯一一个女的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you pray for?</Source>
+      <Dest>你在祈祷什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think animals don't feel pain?</Source>
+      <Dest>你为什么会觉得动物就不会有痛觉？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think animals don't feel pain?</Source>
+      <Dest>你为什么会觉得动物就不会有痛觉？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think animals don't feel pain?</Source>
+      <Dest>你为什么会觉得动物就不会有痛觉？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough about the miners.</Source>
+      <Dest>关于矿工的信息已经足够了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about Enmon?</Source>
+      <Dest>那恩萌呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>They will see things that make them want to claw their eyes out and donate the pieces to an alchemist. This is because they think the wolf feels.</Source>
+      <Dest>之后见到的景象足以使他们抠出自己的眼球然后捐给炼金术师——都怪他们觉得狼有感官。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was explained to me when I was young, learning to hunt, that to feel pain is a different thing from being hurt.  </Source>
+      <Dest>他们解释说，我年轻时学习打猎受伤所感受到的痛苦，和如今打猎时受伤的感受是不同的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>This is what separates us from the animals.  It's why I have more in common with a Nord than a sabrecat, even if we both purr.</Source>
+      <Dest>这就是我们和动物有所区别的地方。这就是为什么就算我也会嗷嗷叫，但比起剑齿虎来说我更接近于诺德人的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pray a dragon will swoop down and eat the Orc bitch, what else would I pray for?</Source>
+      <Dest>我祈祷龙会突然下来把这兽人婊子吃掉，我还会祈祷什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Even though she's a miner like me, I'm the one forced to sleep on the ground.  Most nights I don't sleep.  I just pray.</Source>
+      <Dest>尽管她跟我一样是个矿工，但我还是被迫睡在地上的那个。大部分的晚上我睡不着。只是在祈祷。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The worst part comes when the work is done. I'd hoped that with all the dead Nords, it would mean beds to spare, but it's quite the opposite.</Source>
+      <Dest>最糟糕的是活儿已经干完了。我希望所有的诺德人都赶紧死去，这样就会有空床腾出来了。但事实却是恰恰相反。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lash?  She's the worst of them all.  At least the men take breaks.</Source>
+      <Dest>拉希？她是那群人里最坏的。至少这个男的还会消停会儿呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said such demands were too insensitive given Enmon's daughter was kidnapped.  Seems to me that just opened up more space.</Source>
+      <Dest>他说像这样的要求对救回尹曼被拐的女儿没有太大意义，对我而言似乎也只是提供更多的选择空间而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>That sword-tooth must have been a slaver in her past life the way she flogs me with her tongue.  </Source>
+      <Dest>那个尖牙利齿的过去肯定是个奴隶贩子，她用那种口吻鞭策我。  </Dest>
+    </String>
+    <String List="2">
+      <Source>When you touch a stove, your hand leaps back, but it's only when your mind registers what happened that you feel pain.</Source>
+      <Dest>当你用手直接触碰炉子的时候，你会条件反射地缩回手，这就是所谓的一朝被蛇咬十年怕井绳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>When the animals fight, they will get hurt, and they will die.  They won't feel pain.  They aren't capable of understanding it.</Source>
+      <Dest>当那群动物争斗的时候，它们会受伤、死亡。它们感觉不到疼痛。它们无法理解疼痛。</Dest>
+    </String>
+    <String List="2">
+      <Source>To an ignorant observer the pit fights are ruthless.  Cruel. </Source>
+      <Dest>对一个无知的观察者而言，斗兽场上的战斗是残酷无情的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Be gone then.</Source>
+      <Dest>那就快走。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

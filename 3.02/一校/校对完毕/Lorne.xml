@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Names don't have to come from within. Historians can give them a name.</Source>
+      <Dest>名字不一定取自里面。历史学家可以给他们取一个名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, I can spare a bottle.</Source>
+      <Dest>好吧，我可以给你一瓶酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>A handsome man like Dagur fits his current clothes well.</Source>
+      <Dest>像达古尔这样英俊的男人才配得上她。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why have you never explored the valley yourself?</Source>
+      <Dest>你为什么不自己探索山谷呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't suffer fools. I kill them.</Source>
+      <Dest>我不会再吃亏上当了，我杀了他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't believe you started drinking without me.</Source>
+      <Dest>我还没过来你居然就喝上了，真是难以置信。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you Lorne?</Source>
+      <Dest>你是洛恩吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need your expertise, plain and simple.</Source>
+      <Dest>我需要你给我专业的指导，要简单明了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need your expertise, plain and simple.</Source>
+      <Dest>我需要你给我专业的指导，要简单明了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Answer the question you worthless drunk.</Source>
+      <Dest>快回答问题，没用的醉鬼。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can we focus on Wanderer's Rest and not Karita's breasts?</Source>
+      <Dest>我们能不能不要管卡莉塔的乳房。而说一说流浪者歇脚点？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you get into this line of work?</Source>
+      <Dest>你为什么要进入这行的工作吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's unfortunate, but sometimes the dead must be disturbed.</Source>
+      <Dest>很不幸，但有时不得不去打扰那些逝者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult.</Source>
+      <Dest>听起来不是太难。</Dest>
+    </String>
+    <String List="0">
+      <Source>Doesn't sound too difficult.</Source>
+      <Dest>听起来不是太难。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind giving me an opinion on this journal?</Source>
+      <Dest>你介意给我这日记一点建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind giving me an opinion on this journal?</Source>
+      <Dest>你介意给我这日记一点建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind giving me an opinion on this journal?</Source>
+      <Dest>你介意给我这日记一点建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind giving me an opinion on this journal?</Source>
+      <Dest>你介意给我这日记一点建议吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>A friend of yours said you might know something about Wanderer's Rest.</Source>
+      <Dest>你的一个朋友说，关于流浪者歇脚点你应该知道些什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>A friend of yours said you might know something about Wanderer's Rest.</Source>
+      <Dest>你的一个朋友说，关于流浪者歇脚点你应该知道些什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>A friend of yours said you might know something about Wanderer's Rest.</Source>
+      <Dest>你的一个朋友说，关于流浪者歇脚点你应该知道些什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you've had enough.</Source>
+      <Dest>我认为你喝的够多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've got a bottle of ale with Lorne's name on it. Are you him?</Source>
+      <Dest>好吧，我已經有一瓶印上洛恩名字的麦芽酒了。你是他吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've got a bottle of ale with Lorne's name on it. Are you him?</Source>
+      <Dest>好吧，我已經有一瓶印上洛恩名字的麦芽酒了。你是他嗎？</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't tell me you've forgotten about our deal. We need that spellsword corpse.</Source>
+      <Dest>别告诉我你把我们的交易给忘了，我们需要那具魔剑士的尸体。</Dest>
+    </String>
+    <String List="0">
+      <Source>We're moving the corpse to a larger tomb, not robbing it.</Source>
+      <Dest>我们是在把这具尸体搬到更大的坟墓里去，是搬运不是抢劫。</Dest>
+    </String>
+    <String List="0">
+      <Source>We're moving the corpse to a larger tomb, not robbing it.</Source>
+      <Dest>我们是在把这具尸体搬到更大的坟墓里去，是搬运不是抢劫。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can start by paying me for this journal.</Source>
+      <Dest>你可以买下这本日记。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can start by paying me for this journal.</Source>
+      <Dest>你可以买下这本日记。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you have no idea if we'll even find one of these brothers.</Source>
+      <Dest>那么你也不确定我们能不能找到这些兄弟？哪怕只找到一个？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was this corpse buried elsewhere?</Source>
+      <Dest>为什么这具尸体是在别处焚烧的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was this corpse buried elsewhere?</Source>
+      <Dest>为什么这具尸体是在别处焚烧的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was this corpse buried elsewhere?</Source>
+      <Dest>为什么这具尸体是在别处焚烧的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was this corpse buried elsewhere?</Source>
+      <Dest>为什么这具尸体是在别处焚烧的？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're in danger. There's a bounty on your head for public intoxication.</Source>
+      <Dest>你有危险了，你因公共投毒罪而被通缉。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're in danger. There's a bounty on your head for public intoxication.</Source>
+      <Dest>你有危险了，你因公共投毒罪而被通缉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want you to help me find a way in.</Source>
+      <Dest>我希望你能帮我找个进去的方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want you to help me find a way in.</Source>
+      <Dest>我希望你能帮我找个进去的方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>There isn't enough ale in the world to make Dagur a tavern wench.</Source>
+      <Dest>再多的酒也不能把达古尔变成酒馆侍女。</Dest>
+    </String>
+    <String List="0">
+      <Source>A place like The Frozen Hearth can't afford to hire a wench.</Source>
+      <Dest>一个像冻炉旅店这样的地方是付不起侍女的工资的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you describe this mark?</Source>
+      <Dest>你能表述一下这个标记吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you describe this mark?</Source>
+      <Dest>你能表述一下这个标记吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And this mark we're looking for?</Source>
+      <Dest>我们在找的就是这个标记吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not thievery, it's archaeological research.</Source>
+      <Dest>这不是偷，这是在进行考古研究。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, I don't have any ale or mead.</Source>
+      <Dest>抱歉，我什么酒都没有。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, I don't have any ale or mead.</Source>
+      <Dest>抱歉，我什么酒都没有。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually you can, by examining this journal I found.</Source>
+      <Dest>实际上你可以的，只要帮我看看我找到的这本日记。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm always up for a little grave robbing.</Source>
+      <Dest>其实，我经常考虑要不要干点盗墓什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's treasure inside. I want it. You're going to help me get it.</Source>
+      <Dest>那里面有我想得到的宝藏，你得帮我弄到手！</Dest>
+    </String>
+    <String List="0">
+      <Source>There's treasure inside. I want it. You're going to help me get it.</Source>
+      <Dest>那里面有宝藏，我要，你得帮我弄到手！</Dest>
+    </String>
+    <String List="0">
+      <Source>There's treasure inside. I want it. You're going to help me get it.</Source>
+      <Dest>那里面有宝藏，我要，你得帮我弄到手！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, you know what they say, time waits for everyone, but Lorne sure as hell doesn't.</Source>
+      <Dest>好吧，你知道的，他们说时间面前人人平等，但是洛恩绝对不是这样想的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Great, I'll take it as soon as I finish with the eight or so hundred I ordered from the innkeeper. What can I do for you?</Source>
+      <Dest>好极了，我把手头的这八个或者不知道多少个料理完就去。有什么能为您效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery will get you everywhere. So will ale.</Source>
+      <Dest>恭维在哪儿都顶用。所以尽管胡诌吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean you want to see the ritual to the end? I was just thinking of finding this corpse and dumping it as soon as we got in.</Source>
+      <Dest>你的意思是你想看到仪式的结束？我只想一回去就找到这具尸体然后销毁它。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing I need is another drink. Wait, does ale cure ataxia?</Source>
+      <Dest>我唯一需要的是另一种饮料。等等，啤酒能治疗运动失调症吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>On the other hand, I hear Candlehearth Hall has good bards and great wenches, so the longer we have to stay, the better.</Source>
+      <Dest>另一方面。据说烛炉会堂的游吟诗人和女招待都很不错，所以我们留在这里的时间越长越好。</Dest>
+    </String>
+    <String List="2">
+      <Source>What can I do for you, friend?</Source>
+      <Dest>我能为你做点什么，朋友？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...right. I getcha. We're doing research. That's what I'll tell Birna when I'm exploring her liquor cabinet.</Source>
+      <Dest>哦……好的。我明白了。我们已经在调查了。这就是当我探索她的酒柜时候告诉Birna的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Way ahead of you. I'm just saving it for the cover of my book. I'm going to call it, "Darksteel."</Source>
+      <Dest>早就想到了。我只是想留着它作为我的书的封面。我将称之为“玄铁”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, not every brother makes it to Wanderer's Rest. There's always a few exceptions who manage to die of old age.</Source>
+      <Dest>哎，不是每个人都顺利到达流浪者歇脚点。就像，每个人都想自然老了然后死取，但是总会发生意外。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not a clue. But odds are good we'll find something. An ancient corpse, or a reason to drink. Both are fine by me.</Source>
+      <Dest>毫无头绪，但是我们还是能发现一些东西的。一具古尸，或是一个值的举杯庆贺的理由，对我来说都不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was a moon, and an axe...no wait, a sword I think. I'm having a hard time remembering. But a little mead always jostles the memory.</Source>
+      <Dest>那儿有个月亮，还有把斧子……不，等等，我想还有把剑。记住这些真够难的，但小小的蜜酒却老能混进我的记忆。</Dest>
+    </String>
+    <String List="2">
+      <Source>As for the journal, if you talked to my friend in Dawnstar, I take it you know about the tomb. But what do you need from me?</Source>
+      <Dest>至于这本日记，如果你跟在我晨星城的朋友谈谈，也许能知道一些关于这座墓的事儿。你还有什么需要吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Nnnnngh....give me another drink Elda, I'm still seeing double...</Source>
+      <Dest>嗯……再给我瓶酒吧爱尔达，我看见还有两瓶呢……</Dest>
+    </String>
+    <String List="2">
+      <Source>Lucky for you, I think I know where we can find one of these dead spell swords, so long as you're up for a little grave robbing.</Source>
+      <Dest>你真走运。我知道了在哪儿能找到这些死去的魔剑士。只要你做一次盗墓者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you'll excuse me, I have to go outside and vomit.</Source>
+      <Dest>现在，如果你不介意的话，我要去外面吐一会儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I guess all you need is one buyer, and if Gancy is willing to pay, then it's worth a try.</Source>
+      <Dest>但我猜你所需要的是一个买家，如果甘茜愿意为它付钱，那么就值得一试。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's big words and there's long words, and they're not always the same thing. But there's no mistaking it, it's definitely filled with words.</Source>
+      <Dest>这里头有大的单词也有长的单词，它们并不总是一回事儿。但有一点我敢肯定，这本日记里肯定有许多单词。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you, my mother? Wait, are you? No, couldn't be. You're too sober to be family.</Source>
+      <Dest>是你吗?我的母亲？等等，不对，你作为一名家庭成员来说太过严肃了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, I heard about that. Three hundred gold to kill some drunk over at the Windpeak Inn with brown hair, a thick beard and a pair of grabby hands.</Source>
+      <Dest>是，我听说了。三百枚金币通缉杀掉在冽冬之巅的一个醉鬼，他有棕色的头发，一把大胡子和一双贪得无厌的手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or hell, put Dagur in a dress for all I care. Drink enough ale, and even the horkers start to look like Elisif the Fair.</Source>
+      <Dest>或者说，把尸鬼打扮得多漂亮都跟我无关。只要喝得够多，就算是看到雪鼠也会觉得它跟艾利西弗一样可爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then what are they doing with all the gold I give them? Spending it on their kid? Hmph, I guess that sort of makes sense.</Source>
+      <Dest>那他们拿我给他们的金子干什么了？全用在他们的孩子身上了？嗯，我想这有点儿道理。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, archaeological treasure. That doesn't count. You know what would happen if I tried to pay for mead with Talos' loin cloth?</Source>
+      <Dest>呃，考古学上的珍宝。那可不算。你知道如果我想用塔洛斯的缠腰布去换蜜酒的话会发生什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>People like that are usually surrounded by family members who don't know any better but to bury you in the Hall of the Dead.</Source>
+      <Dest>那样的人，身边只有把你埋进亡者之厅外什么都不懂的家人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The way in is easy. You just need to have an excuse to go in. In other words, you need a corpse.</Source>
+      <Dest>进去的方法很简单。你只需要一个借口就可以了。换句话说，你需要一具尸体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eh, I'll know it when I see it.</Source>
+      <Dest>额，我看见的时候就会知道的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why else? For the women.</Source>
+      <Dest>为什么要做别的呢？做这行，当然是为了女人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, the problem is some clans like to mark the dead right in the same place. It might not be as easy as you think.</Source>
+      <Dest>嗯，问题是有些部落喜欢在同一个地方纪念死者，这可不像你想的那么简单。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seeing as Winterhold's cemetery's halfway down the ocean, Windhelm's all that's left.</Source>
+      <Dest>既然冬堡的墓地都有一半儿在海里，风盔城估计就是整个儿都在海底了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, you answer mine. Got. Any. Ale. Or. Mead?</Source>
+      <Dest>不，回答我的问题…是要,麦芽酒…还是,蜂蜜甜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's like any party. You just need to invite yourself in. Of course, it doesn't work if you don't have an invitation. Meaning, we need a corpse.</Source>
+      <Dest>就像所有派对一样。你只需邀请自己来投身其中。当然要是没有邀请函可不行。就是说，我们需要一具尸体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some kind of brand or a tattoo that's symbolic of being a nightblade. They say it's marked so deep it colors the bone. </Source>
+      <Dest>某种标志或者纹身，那是作为一个夜莺的象征。他们说这标志会深深地烙在骨头上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. Not everyone is. They get distracted by mead and steak and wenches, and...what were we talking about again? Oh right, mead.</Source>
+      <Dest>很好. 但是并非所有人都是这样. 有太多的东西诱惑着他们，美酒、佳肴、女人…我们刚刚说到哪里了？哦，是的，美酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, ask away.</Source>
+      <Dest>当然，请讲。</Dest>
+    </String>
+    <String List="2">
+      <Source>I find in life, a lot of things that are good for me are bad for somebody else. The key is to stop caring about those people.</Source>
+      <Dest>我发现，在人的一生中，有太多的事情是一旦对己有利就可能会对别人有害的。而最好的解决办法就是别去管那些人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But in this case, we're going to need more than that. We're going to need a corpse.</Source>
+      <Dest>但这次，我们需要更进一步的东西，我们需要一具尸体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Keeping it all (hiccup) to yourself, huh? That's a good idea. Wish I had thought of that before I gave it all to my stomach.</Source>
+      <Dest>把它全都（打嗝）拿着，是吗？好主意！在我把它全填到胃里之前我也这么想过。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you got ale I'm whoever you want me to be. Just hold on to it for now, I'll collect it after I finish with the crate I ordered from the innkeeper.</Source>
+      <Dest>如果你拿到了蜜酒，你让我干什么都行。只要现在忍住，等我把从旅店老板那拿到的板条箱装满就好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I can't argue with that. Mostly because I have a massive headache and it hurts to do much of anything. Arguing is pretty far down the list.</Source>
+      <Dest>好吧，我不能为了这点而争吵。主要原因是由于我头疼得厉害，不管做什么都让我很难受，更别提争吵了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And as you can clearly see, we're in Winterhold. So obviously, I don't match the description.</Source>
+      <Dest>如你所见，我们现在是在冬堡。这很明显，我都不屑再说了。没人敢对我做些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, alright, I admit it. I'm grateful to the both of you. I just don't want to show it, because I can't afford to pay you back.</Source>
+      <Dest>好吧，好吧，我承认。我很感激你们两位。我只是不愿意表现出来，因为我实在无力报答你们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I've only been studying it all my life. Except for when I'm studying Karita's melons. That requires my full attention.</Source>
+      <Dest>就是说，我花了一生来研究它。除了我用来钻研卡莉塔的那对大瓜的时间，它花费我全部精力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn, you're kind of scary. And fuzzy. Why is everyone here so hard to see?</Source>
+      <Dest>该死，你绝对是神经过敏。而且脑子也不清醒。为什么这里的人就是看不出来呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's a smart person like you doing looking for a guy like me?</Source>
+      <Dest>你是有多聪明啊，竟然能找到我这样的人啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>But there's no wenches in this tavern. Dagur needs to buy his wife skimpier clothes.</Source>
+      <Dest>但是这酒馆没有妓女，达古尔应该给他的老婆买点暴露点的衣服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, if you want my expert opinion, I'd say that journal of yours is filled with words.</Source>
+      <Dest>好吧，如果你想来点建设性的建议，我只能说你的旅途充满了故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that all? Old Gancy never could figure it out, huh? All brains and no mead.</Source>
+      <Dest>就这点能耐？老甘茜永远也不会弄明白的，对吧？脑子里没有蜂蜜酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>That depends. Got any ale or mead?</Source>
+      <Dest>酒来决定，麦芽酒还是蜂蜜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>But your way works too.</Source>
+      <Dest>但这是你的工作方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, maybe you're right. But we won't know for sure unless we try.</Source>
+      <Dest>嗯，也许你是对的。但是我要是不试试看的话就不能最终确定。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You called them a brotherhood. Does this order of nightblades have a name?</Source>
+      <Dest>你称呼他们是一个兄弟会。 这类的夜莺该怎样称呼呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You called them a brotherhood. Does this order of nightblades have a name?</Source>
+      <Dest>你称呼他们是一个兄弟会。 这类的夜莺该怎样称呼呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You called them a brotherhood. Does this order of nightblades have a name?</Source>
+      <Dest>你称呼他们是一个兄弟会。 这类的夜莺该怎样称呼呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You called them a brotherhood. Does this order of nightblades have a name?</Source>
+      <Dest>你称呼他们是一个兄弟会。 这类的夜莺该怎样称呼呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of work did they do?</Source>
+      <Dest>他们做的是什么工作？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of work did they do?</Source>
+      <Dest>他们做的是什么工作？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of work did they do?</Source>
+      <Dest>他们做的是什么工作？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you want to study these nightblades?</Source>
+      <Dest>你研究这些夜莺有什么原因吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you want to study these nightblades?</Source>
+      <Dest>你研究这些夜莺有什么原因吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a corpse I need you to inspect.</Source>
+      <Dest>我有一具死尸需要你去检验。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a corpse I need you to inspect.</Source>
+      <Dest>我有一具死尸需要你去检验。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have a corpse I need you to inspect.</Source>
+      <Dest>我有一具死尸需要你去检验。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've got some more mead for you.</Source>
+      <Dest>我又给你拿酒来啦！</Dest>
+    </String>
+    <String List="2">
+      <Source>Meaning, the body may be gone, but they'll probably want us to guide this soul to its brothers.</Source>
+      <Dest>意思是，尸体没有了就算了，但他们还是会希望我们引导这个灵魂去找到他的兄弟们。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the brazier. Toss our friend in there, and it should clear our senses.</Source>
+      <Dest>就那个火盆。把我们的小伙伴丢进去，它就会帮我们解决烦恼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well this is a fine mess you've gotten us into!</Source>
+      <Dest>好啊你算是把我们拉上了贼船啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kind of like my name on a bounty letter. But if you don't have a name, you don't have a history, at least one people can write down.</Source>
+      <Dest>就像我的名字会出现在通缉令里那样。但如果你没有名字，你就没有经历，至少没有人可以把你记录下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you say so.</Source>
+      <Dest>既然你都这样说了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Exactly.</Source>
+      <Dest>就是这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>What spirit? I don't see anything.</Source>
+      <Dest>哪个灵体？我什麽都没看见啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But nightblades are half wizards, and wizards were always half crazy.</Source>
+      <Dest>但夜一般都是巫师，巫师通常半疯半狂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Years of research, and a few drunken epiphanies.</Source>
+      <Dest>经过多年的研究，我有了一些喝酒方面的感悟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you ever wonder if gray clouds are just white ones that got old?</Source>
+      <Dest>你有没有想过灰色的云只是白色的云老了之后的样子？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this room spinning? Ask your twin brother that for me.</Source>
+      <Dest>这个房间是在转吗？帮我问问你的双胞胎兄弟吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh right. It has to be a member of their guild.</Source>
+      <Dest>哦没错，确实曾经有过一个他们公会的成员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this room spinning? Ask your twin sister that for me.</Source>
+      <Dest>这个房间是旋转的么？快帮我问问你的妹妹（姐姐）。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't bug me right now. I'm trying to take mental notes in my head. Not an easy thing to do when you're piss drunk.</Source>
+      <Dest>现在不要烦我。我正在心里默念。在你喝的烂醉如泥的时候这并不是一件容易的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although why anyone would choose this place over Sovngarde is beyond me.</Source>
+      <Dest>但为什么每个人都会选择这个地方，而不是松加德呢？我挺不理解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know, you really didn't have to help me. I had it all taken care of.</Source>
+      <Dest>你知道的，你真的不需要帮我。我自己能来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know. The bard nearly chopped off my balls for stumbling into her chest.</Source>
+      <Dest>我懂的。就因为我撞在了那个诗人妹子的胸脯上，她差点把我的两个球都剁掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a brazier outside the entrance. We just burn the bloody thing and the smoke will clear our heads.</Source>
+      <Dest>门口有个火盆，我们把这些恶心的东西烧了吧，烟雾会让我们感觉好一点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's only what you see. No one ever bothers to try walking into the mountain.</Source>
+      <Dest>这只是你能看到的东西，没有人尝试走进山里，甚至你的兄弟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, this is disappointing. A lifetime of work for this narrow little tunnel?</Source>
+      <Dest>唉，真是令人沮丧。在这个狭窄的地道里干一辈子活？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a good thing too. I'm just sober enough to where I might be of some use.</Source>
+      <Dest>这也是件好事儿。我足够能清醒认识自己在哪方面可能有点儿用。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we guide the spirit to its resting place. At least, that's what I think happens.</Source>
+      <Dest>然后我们指引这个灵魂到了他的安眠之处。至少，我想该是这么回事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, think about it. Guilds like this, they don't just work for coin. They got some religious aspect to it.</Source>
+      <Dest>我的意思是，稍微思考一下。像这样的公会，他们不会只为钱财而工作。他们也会接受一些宗教方面的来做。</Dest>
+    </String>
+    <String List="2">
+      <Source>So we have to walk some more? That's even worse.</Source>
+      <Dest>我们还要走？太糟了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is sort of like that, but different.</Source>
+      <Dest>这跟那个像确实有点像，但有区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, and that's the beauty of it. See, names are pesky little skeevers. They get people talking about you. They get the law hunting you.</Source>
+      <Dest>不，那就是它的魅力。我喜欢叫它，爱惹麻烦的小雪鼠。他们让人们议论纷纷，迫使法律追捕他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I'm getting out of here before they figure out what you did.</Source>
+      <Dest>我看我还是赶在被人发现你干的好事之前离开这儿吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're a sharp one. Wait a minute...aren't you that merc who got in a brawl with Frorkmar?</Source>
+      <Dest>你可真机灵。等一下……你是不是就是那个跟弗洛克马尔大吵了一架的佣兵？</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's see here. A sword on the hand as black as midnight. That's a nightblade alright. Literally and figuratively.</Source>
+      <Dest>等一下。手中的剑漆黑如夜，那正是夜影之刃。千真万确。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ysmir's toenails, can't a guy vomit in peace?</Source>
+      <Dest>伊斯谟的脚趾甲在上，能让俺安静地吐一会儿吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>So was I.</Source>
+      <Dest>我也是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Easier said than done.</Source>
+      <Dest>说来容易做起来难。</Dest>
+    </String>
+    <String List="2">
+      <Source>You stepped on the dais, you clumsy oaf. That pressure plate is there for a reason!</Source>
+      <Dest>你个二货，你踩在机关上啦。那压力板又不是因为好看所以才放在那儿的！</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got a corpse alright. A real nice one. Won't get you into Wanderer's Rest though. More like (hiccup) a trip to the dungeon.</Source>
+      <Dest>你现在的确有一具尸体了。很不错。虽然不会让你进流浪者歇脚点，更像是(嗝)要下地牢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And call me crazy, but I don't think calling it an accident will satisfy that army out there waiting for us.</Source>
+      <Dest>尽管讽刺我吧，我可不相信把那说成不小心就能让外面那些等着我们的士兵满意。</Dest>
+    </String>
+    <String List="2">
+      <Source>But keeping their little guild secret is not really the point. The whole no name thing comes from not wanting to be labeled.</Source>
+      <Dest>不过保守公会的秘密这点并不是关键。这套没有名字的把戏起因于不想被贴上标签。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait! What are you doing!</Source>
+      <Dest>等等！你干什么呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Mogo's Mead, Mogo's Mead, the only drink we ever need! Take a flask and take a seat, and grab yourself a sweetie treat!</Source>
+      <Dest>莫格酒哟，莫格酒，只要有它就足够！端起杯来找个座，倒上酒来喝个够！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, this time I'm coming along. No way I'd travel that road alone. You can lead the way.</Source>
+      <Dest>噢，这次我是自己来的。我不想独自走那条路。你可以带路。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, you're the one who punches funny. You kept missing with your fists but ended up cracking him in the nose with your elbow.</Source>
+      <Dest>嗯哼，看你打拳还真是有趣。你的拳头经常打不着人，最后却用手肘撞裂了他的鼻梁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Great, I'll take it as soon as I finish with the eight or....awww shit.</Source>
+      <Dest>好极了，我会干的，不过你得等到我跟八圣灵绝交的那天或者……噢该死。</Dest>
+    </String>
+    <String List="2">
+      <Source>Especially if they're burying their dead in some sacred tomb. That's just not normal.</Source>
+      <Dest>特别是如果他们把死者埋在神的坟墓中。太不寻常了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know what we'll find inside, but I imagine this is only the first part of the burial.</Source>
+      <Dest>我不知道我们将会在里面发现什么，但我觉得这只是这坟墓的第一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>As far as I know, they were mercenaries. But like I said, records on them are spotty as a Khajiit's you know what.</Source>
+      <Dest>据我所知, 他们是一群雇佣兵。但如我所说, 他们的纪录上的污点非常多，就像虎人的污点一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>They ain't swordsman, and they ain't spellcasters. They're nothing and everything all at once. They don't exist.</Source>
+      <Dest>他们不是剑士，而且他们也不是施法者。他们啥也不是。他们根本就不存在。</Dest>
+    </String>
+    <String List="2">
+      <Source>In other words, look, but don't touch. It's like every tavern wench I've ever met, save for that one in Morthal.</Source>
+      <Dest>换句话说，看看这个，但是别摸啊。它就像是我见过的每一个旅社姑娘一样，除了莫尔萨那个之外。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, even then you'll be walking blind half the time and in circles the rest.</Source>
+      <Dest>当然，即使那时你将会一半时间用来乱逛一半时间在那兜圈子。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

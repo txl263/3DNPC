@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Culinary...potions?</Source>
+      <Dest>烹饪……药水？</Dest>
+    </String>
+    <String List="0">
+      <Source>There's side effects to your potions?</Source>
+      <Dest>这是你的药剂的副作用?</Dest>
+    </String>
+    <String List="0">
+      <Source>There's side effects to your potions?</Source>
+      <Dest>这是你的药剂的副作用?</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about cooking with magic.</Source>
+      <Dest>我更乐意学习如何用魔法来烹饪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about cooking with magic.</Source>
+      <Dest>我更乐意学习如何用魔法来烹饪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about cooking with magic.</Source>
+      <Dest>我更乐意学习如何用魔法来烹饪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about cooking with magic.</Source>
+      <Dest>我更乐意学习如何用魔法来烹饪。</Dest>
+    </String>
+    <String List="0">
+      <Source>It'll be good to know my hangnail is cured while I'm bleeding out of my eye.</Source>
+      <Dest>当我眼睛流血时，倒刺痊愈了，知道这个真好。</Dest>
+    </String>
+    <String List="0">
+      <Source>It'll be good to know my hangnail is cured while I'm bleeding out of my eye.</Source>
+      <Dest>当我眼睛流血时，倒刺痊愈了，知道这个真好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Honestly, I don't see why you need to tell people what's in it.</Source>
+      <Dest>老实说，我不明白你为什么要告诉人们里面是什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>It should be more than good enough then.</Source>
+      <Dest>这应该还不够好。</Dest>
+    </String>
+    <String List="0">
+      <Source>It should be more than good enough then.</Source>
+      <Dest>这应该还不够好。</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't look like an alchemist.  Or a mage.</Source>
+      <Dest>你看上去并不像一个炼金术士。或者一个法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, it certainly smells delicious.</Source>
+      <Dest>嗯，这闻起来相当美味。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, it certainly smells delicious.</Source>
+      <Dest>嗯，这闻起来相当美味。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, you mean the potion doesn't work?</Source>
+      <Dest>等等，你是说这药劑沒有用？</Dest>
+    </String>
+    <String List="0">
+      <Source>Knowing you, the plate is probably made from a Draugr's backside.</Source>
+      <Dest>你知道，这个图板是由尸鬼的背面制成的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in your alchemical cuisine.</Source>
+      <Dest>我对你的炼金术法很感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in your alchemical cuisine.</Source>
+      <Dest>我对你的炼金术法很感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's a difference between minor side effects and what you describe.</Source>
+      <Dest>这轻微的副作用和你所描述的完全不同啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's a difference between minor side effects and what you describe.</Source>
+      <Dest>这轻微的副作用和你所描述的完全不同啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's a difference between minor side effects and what you describe.</Source>
+      <Dest>这轻微的副作用和你所描述的完全不同啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then how do you cook with magic?</Source>
+      <Dest>那么你是怎样用魔法下厨的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then how do you cook with magic?</Source>
+      <Dest>那么你是怎样用魔法下厨的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then how do you cook with magic?</Source>
+      <Dest>那么你是怎样用魔法下厨的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then how do you cook with magic?</Source>
+      <Dest>那么你是怎样用魔法下厨的呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I retrieve the ingredients, could you make a fresh batch?</Source>
+      <Dest>如果我能找到原料，你能做出些新鲜的饭菜吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>If I retrieve the ingredients, could you make a fresh batch?</Source>
+      <Dest>如果我能找到原料，你能做出些新鲜的饭菜吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I know all about your magical food potions.  That's why we're here.</Source>
+      <Dest>你那些魔法药膳什么的我全都知道了，这就是我们来这儿的原因。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose all potions have side effects of some kind.</Source>
+      <Dest>恐怕所有的药物多少都有点副作用吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose all potions have side effects of some kind.</Source>
+      <Dest>恐怕所有的药物多少都有点副作用吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>There isn't enough illusion magic in all of Winterhold to hide the taste of toe.</Source>
+      <Dest>把冬堡所有的幻象法术都包括在内，也没有能隐藏起脚臭的那种。</Dest>
+    </String>
+    <String List="0">
+      <Source>There isn't enough illusion magic in all of Winterhold to hide the taste of toe.</Source>
+      <Dest>把冬堡所有的幻象法术都包括在内，也没有能隐藏起脚臭的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>I regret she was unable to accompany me on this trip, as one of my dishes had some unwanted consequences, which I do not wish to speak of.</Source>
+      <Dest>很抱歉这趟她不能陪我了, 因为我不想说我有个“菜肴”会有无法预知的结果.</Dest>
+    </String>
+    <String List="2">
+      <Source>If I were to sacrifice flavor, I would damage my reputation as the greatest cook in all of Tamriel.</Source>
+      <Dest>如果我要牺牲口味，就糟蹋了塔姆瑞尔第一大厨的英名。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, I have already moved on to the next frontier.  Cooking with magic.  </Source>
+      <Dest>你瞧，我已经进入到下一领域了，使用魔法烹饪。 </Dest>
+    </String>
+    <String List="2">
+      <Source>But that is a risk we must take. Taste is paramount. That is my duty as a chef.</Source>
+      <Dest>但我们应该冒这个险。味道才是至高无上的，做出美味来是我们厨子的职责所在。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet if he sips and recognizes the flavor, he will know which of my potions he imbibes.</Source>
+      <Dest>然而，如果他啜饮并识别味道，他就会知道他喝的是我的药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>It involves conjured ingredients which enhance a dish as it is being cooked, but can damage flavor if left in the final meal.</Source>
+      <Dest>这道菜中加入了一些能让食物变熟的魔法配料，但配料若被留在最后一餐则会破坏味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is merely a theory mind you.  I will need to speak with Milie to learn if this is even feasible. </Source>
+      <Dest>这仅仅是你脑海里的一个推测。我得和米莉来研究这是否可行。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not to say my creations are merely limited to sating the appetite.</Source>
+      <Dest>这并不是说我的创作仅仅只是对不断膨胀的欲望的限制。</Dest>
+    </String>
+    <String List="2">
+      <Source>While Julianos blessed me with wisdom, Stendarr has gifted with me mercy.</Source>
+      <Dest>尤里安诺思赋予我智慧，而斯坦达赐予我仁慈。</Dest>
+    </String>
+    <String List="2">
+      <Source>The toe is not sticking out of the dish like a birthday candle!  It is ground up, mixed, and baked.  You do not see or taste anything unsavory.</Source>
+      <Dest>脚趾不是像生日蜡烛那样插在料理上的。它得被碾碎、混合入菜中并经过烘烤。（这样）你就不会看见或者尝到任何让人恶心的东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whoever tastes this stew, you may wish to say goodbye to him, for he will be transported to the heavens when it touches his tongue.</Source>
+      <Dest>任何人只要尝了这汤，你就可以跟他说再见了，因为在他舌头碰到那这汤的瞬间就会被送入天堂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whoever tastes this stew, you may wish to say goodbye to him, for he will be transported to the heavens when it touches his tongue.</Source>
+      <Dest>任何人只要尝了这汤，你就可以跟他说再见了，因为在他舌头碰到那这汤的瞬间就会被送入天堂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then how will anyone know of my genius?  They will think me a simple cook.  The very thought pains me deeply.</Source>
+      <Dest>那么别人怎么了解我的天才呢？他们会认为我只是个厨子。这个特别的想法让我觉得苦恼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did not say the potion does not work.  I merely said its healing effects were not as noticeable as a traditional potion.</Source>
+      <Dest>我不是说那药剂不管用。我只是说它的治疗效果不像一般的药剂那么明显。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am experimenting with magic as a culinary tool. I'd begun with restoration, in an attempt to remove the unwanted side effects from my earlier work.</Source>
+      <Dest>我在魔法上的造诣全都应用于烹调技术。从回复系开始，逐步去除那些早期尝试中产生的副作用。</Dest>
+    </String>
+    <String List="2">
+      <Source>The result might be a health potion that simultaneously ravages his stamina.  </Source>
+      <Dest>结果可能是一剂会损害耐力的健康药剂。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another will take up the ladle where I left it, as well as rectify the unfortunate side effects.</Source>
+      <Dest>我把勺子留下就总会有人来拿走的，那些不幸的副作用也是一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>If one were to mix a restore potion out of wheat and blue mountain flower, he may be tempted to mix in a piece of honeycomb to sweeten the taste.</Source>
+      <Dest>如果一个人能把恢复药水混入小麦和蓝色山花，他很有可能会试着混进一块儿蜂窝来让味道甜一点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not my fault, mind you.  Milie is quite devoted to my cause, and at times she will sample things that are purely experimental in nature.</Source>
+      <Dest>我提醒你，这不是我的错。米莉全身心地投入了我的事业中，并且有时她甚至会亲身尝试一些纯粹实验性的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The dilemma is getting patrons to try something cooked with the toenail clippings of one of those primitive ogres.</Source>
+      <Dest>现在的问题是想让顾客尝试用这些远古恶魔剪下来的脚趾甲做成的食物不是件容易的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although at times I admit, it is far too didactic.  It does not capture the spirit of my invention.  For I am an artist.  An auteur!  </Source>
+      <Dest>虽然有时我会承认，它太迂腐了。它没有抓住我的创造精神。因为我是一个艺术家。一个导演！ </Dest>
+    </String>
+    <String List="2">
+      <Source>If the ingredients were left to mystery, patrons would find it hard not to lick their plates clean.</Source>
+      <Dest>如果不告诉食客们配料的话，他们一定会把盘子都舔干净。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sating one's palate is not just a product of how a meal tastes, but how the mind perceives an object's flavor.  </Source>
+      <Dest>这说明一个人的口味不光是一顿饭味道如何所能决定的，还得是这个人感觉的味道如何。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Well, unlike some of my more unadventurous peers, my cuisine is the product of my creative vision. It pushes the boundaries of what is food.</Source>
+      <Dest>呃，跟那些没有冒险精神的同龄人不一样，我的菜肴是自己所创新的绝妙的杰作。它推动了烹饪界的进步。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must understand, the art of cooking is a very delicate process.  </Source>
+      <Dest>你必须得明白，烹饪是一门艺术，一个非常复杂的过程。 </Dest>
+    </String>
+    <String List="2">
+      <Source>This is what led to my developing the world's first delectable health potion.   Good for the body, pleasing to the palate.</Source>
+      <Dest>这就是我要研究世界上最受人喜爱的治疗药水的原因。清香爽口，强身健体。</Dest>
+    </String>
+    <String List="2">
+      <Source>The result is a lighter, fluffier bread and potatoes that melt in your mouth.  </Source>
+      <Dest>你会品尝到光滑柔软的面包与土豆融化在你嘴里的感觉  </Dest>
+    </String>
+    <String List="2">
+      <Source>I have abandoned that practice to focus on the effects of illusion magic and how it can influence one's sense of taste.</Source>
+      <Dest>我已经放弃了那种做法并专注于幻术魔法的效果，以及研究幻术魔法如何影响人的味觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let us just say I will not cast aspersions on her husband if he leaves her for another woman. Or something that at least resembles one.</Source>
+      <Dest>这么说吧，我不会泼脏水说她丈夫因为一个女人而离开她。也不会说她丈夫和其他女人有任何纠葛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then if you'll excuse me, I must work on my next recipe.</Source>
+      <Dest>那么告辞了，我需要在我的新配方上忙活了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The recipe is at my shop in High Rock, I'm afraid.  Although the truth is I can't be bothered with the practice any longer.  </Source>
+      <Dest>这份食谱恐怕是我在高岩省开的第一家店里。但事实是这种训练让我觉得很烦啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nor do I look like a cook, for I am far too handsome to be any of the three.  But you are right, I do not have the training in these fields.</Source>
+      <Dest>我看起来也不像厨子，因为我实在是太帅了这三样和我根本不搭边。不过你是对的，我确实没有进行过这些领域的训练。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did not imply that my potion was a finished product.  I simply put the wheels in motion.  </Source>
+      <Dest>我并不是想说我的药水已经是成品了。我只是单纯的推动着车轮而已。 </Dest>
+    </String>
+    <String List="2">
+      <Source>If a courage spell could be activated by the aroma of a dish, it would deflect any fears rooted in perception. </Source>
+      <Dest>如果光是闻见菜香就激活勇气术了，这会避免所有根植于感知的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then if you'll pardon me I need to update some leaflets.</Source>
+      <Dest>如果你已经没什么事要说了的话，请让我离开，我还要去更新一些传单呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>My assistant, Milie Hawking, handles such matters.  She is also a writer, and publishes my various recipes and culinary musings.</Source>
+      <Dest>我的助手，米莉·霍金，处理这类事情。她也是一个写手，并且出版我的各种食谱还有烹饪心得什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you are unfamiliar with my work.  How uncultured of you.  My name is Clario Moorsley.  The finest alchemical cook in all of Tamriel.</Source>
+      <Dest>所以你并不太清楚我的工作。没文化真可怕啊。我叫克拉里奥．莫斯雷。是全泰姆瑞尔大陆最好的炼金术师。.</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, every person has a different palate, and this means a different experience regardless of whether one eats the same food.</Source>
+      <Dest>你得明白，每个人的味觉都是各不相同的，而这就意味着，即使他们吃的是相同的食物，食感也不尽相同。</Dest>
+    </String>
+    <String List="2">
+      <Source>It occurred to me that another advantage of my potions is being able to distinguish between health and magicka by virtue of taste.</Source>
+      <Dest>我想到我的药水的另一个优点是能过通过味道来辨别是魔法类的还是生命类的。</Dest>
+    </String>
+    <String List="2">
+      <Source>For I would never attach my name to something that was not the epitome of culinary perfection.</Source>
+      <Dest>因为我绝不会在不是完美厨艺的缩影的东西上附上自己的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize, but I am not a common house chef who patronizes random citizens. Now If you'll excuse me...</Source>
+      <Dest>我很抱歉，但是我可不是什么人都伺候的普通家常厨师。现在如果你不介意的话……</Dest>
+    </String>
+    <String List="2">
+      <Source>It will remain the perfect temperature, even in the coldest of climates, and will never lose its flavor.</Source>
+      <Dest>它能在任何温度下完好地保存，哪怕是在最冷的天候中，它也不会失去原味。</Dest>
+    </String>
+    <String List="2">
+      <Source>My latest dish combines the alchemical properties of creep clusters and Giant's toe as additives in foods heavy with starch.</Source>
+      <Dest>我最近的那顿汇集了配上巨人脚趾添加剂的藤蔓丛炼金术精华，在用淀粉搅拌而成。</Dest>
+    </String>
+    <String List="2">
+      <Source>The recipe, the quality of ingredients, and the skill of the chef all affect the end product.</Source>
+      <Dest>菜谱，食材的质量，以及厨师的烹饪技术，都会影响到成品的口感。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I suppose you think the napkins are made of beggar tunics?  Do not mock what you do not comprehend.</Source>
+      <Dest>我猜想你是不是认为尿布是乞丐上衣做的?不要嘲笑那些你根本不懂的东西.</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps. I know of mages who add a little extra moon sugar to their magicka potions for flavor.</Source>
+      <Dest>或许吧。我知道有些法师会为了味道往他们的魔法药水里加些月亮糖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, for most, the important thing is that the potion works. But for a world class chef, the only thing that matters is the taste.</Source>
+      <Dest>是的，对大多数人来说，重要的是药水的功效。但对于世界级大厨而言，唯一重要的东西是味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before you tell me they have different colors, let me remind you that in the cauldron of battle, one does not have time to inspect his bottle.</Source>
+      <Dest>那么，在你告诉我它们有不同的颜色前，我得提醒你，在打得乱成一锅粥的时候，可没人有时间检查自己带的瓶瓶罐罐。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here in Markarth?</Source>
+      <Dest>你为什么在马卡斯？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here in Markarth?</Source>
+      <Dest>你为什么在马卡斯？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you here in Markarth?</Source>
+      <Dest>你为什么在马卡斯？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you'll cook it for us?</Source>
+      <Dest>所以你将为我们烹饪这个？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you'll cook it for us?</Source>
+      <Dest>所以你将为我们烹饪这个？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you'll cook it for us?</Source>
+      <Dest>所以你将为我们烹饪这个？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>A tasty health potion will sell pretty fast during a war. Provided it works.</Source>
+      <Dest>战争期间，一款味道不错的治疗药剂会卖的很快。证明它有效。</Dest>
+    </String>
+    <String List="0">
+      <Source>A tasty health potion will sell pretty fast during a war. Provided it works.</Source>
+      <Dest>战争期间，一款味道不错的治疗药剂会卖的很快。证明它有效。</Dest>
+    </String>
+    <String List="0">
+      <Source>What ingredients do you need?</Source>
+      <Dest>你需要哪种炼金原料？</Dest>
+    </String>
+    <String List="0">
+      <Source>What ingredients do you need?</Source>
+      <Dest>你需要哪种炼金原料？</Dest>
+    </String>
+    <String List="0">
+      <Source>What ingredients do you need?</Source>
+      <Dest>你需要哪种炼金原料？</Dest>
+    </String>
+    <String List="0">
+      <Source>What ingredients do you need?</Source>
+      <Dest>你需要哪种炼金原料？</Dest>
+    </String>
+    <String List="0">
+      <Source>What ingredients do you need?</Source>
+      <Dest>你需要哪种炼金原料？</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you use illusion magic to cover your shortcomings.</Source>
+      <Dest>换句话说，你用迷幻魔法来掩盖自己的缺点。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you use illusion magic to cover your shortcomings.</Source>
+      <Dest>换句话说，你用迷幻魔法来掩盖自己的缺点。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought the ingredients.</Source>
+      <Dest>我带来了材料。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought the ingredients.</Source>
+      <Dest>我带来了材料。</Dest>
+    </String>
+    <String List="0">
+      <Source>Medicine should taste bad. Otherwise you'd drink it before you needed it.</Source>
+      <Dest>良药就该苦口，否则你会在不需要的时候就喝掉它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Medicine should taste bad. Otherwise you'd drink it before you needed it.</Source>
+      <Dest>良药就该苦口，否则你会在不需要的时候就喝掉它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Medicine should taste bad. Otherwise you'd drink it before you needed it.</Source>
+      <Dest>良药就该苦口，否则你会在不需要的时候就喝掉它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Medicine should taste bad. Otherwise you'd drink it before you needed it.</Source>
+      <Dest>良药就该苦口，否则你会在不需要的时候就喝掉它。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know I would. Lick it clean.</Source>
+      <Dest>我想我会。把它舔干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>Potions and drinks have different goals.  Mix them and you accomplish neither.</Source>
+      <Dest>药水和酒水有不同的功效。混淆了只会让你都没效</Dest>
+    </String>
+    <String List="0">
+      <Source>Potions and drinks have different goals.  Mix them and you accomplish neither.</Source>
+      <Dest>药水和酒水有不同的功效。混淆了只会让你都没效</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a decent start.  Potions need more flavor.</Source>
+      <Dest>开头挺不错的，药水还需要更多的香料。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a decent start.  Potions need more flavor.</Source>
+      <Dest>开头挺不错的，药水还需要更多的香料。</Dest>
+    </String>
+    <String List="0">
+      <Source>The greatest mystery is how you ever became a chef.</Source>
+      <Dest>最大的谜团是你是怎么成为一个厨子的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd rather lick the inside of a plate of used leather armor.</Source>
+      <Dest>我还不如去舔装在盘子里的皮甲内侧呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>These things take time to be fully functional.</Source>
+      <Dest>这些东西还要花点时间才能完全运转起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's one thing a Breton knows. Surrender.</Source>
+      <Dest>这是布莱顿人都应该知道的事情。投降吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's one thing a Breton knows. Surrender.</Source>
+      <Dest>这是布莱顿人都应该知道的事情。投降吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could challenge him directly, but I don't think he'll answer.</Source>
+      <Dest>你可以直接挑战他，但我想他不会回应的。</Dest>
+    </String>
+    <String List="0">
+      <Source>But Giant toes are scrumptious.</Source>
+      <Dest>但是巨人的脚趾是极妙的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A flawless victory.  You should be proud.</Source>
+      <Dest>一个完美的胜利。你应该感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>A flawless victory.  You should be proud.</Source>
+      <Dest>一个完美的胜利。你应该感到自豪。</Dest>
+    </String>
+    <String List="0">
+      <Source>We need your help.  We want to cook a horker.</Source>
+      <Dest>我们需要你的帮助。我们想烹饪一只海象。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, you mean the potion doesn't work?</Source>
+      <Dest>等等，你是说这药剂沒有用？</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Some people are afraid to try new things.  That's where magic comes in.</Source>
+      <Dest>我同意。有的人就是害怕尝试新事物。那正是魔法的用武之地。</Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds amazing.  I'll take twenty.</Source>
+      <Dest>听起来棒极了！我要拿下二十！</Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds amazing.  I'll take twenty.</Source>
+      <Dest>听起来棒极了！我要拿下二十！</Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds amazing.  I'll take twenty.</Source>
+      <Dest>听起来棒极了！我要拿下二十！</Dest>
+    </String>
+    <String List="0">
+      <Source>That's crazy talk.  Potions aren't food.</Source>
+      <Dest>真是说疯话。药水可不是食物。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's crazy talk.  Potions aren't food.</Source>
+      <Dest>真是说疯话。药水可不是食物。</Dest>
+    </String>
+    <String List="2">
+      <Source>I believe that their fear will influence the flavor.  If the contents remained mysterious, they would lick the plate clean.</Source>
+      <Dest>我相信他们的恐惧会影响味觉。只要保持食材的神秘，他们就会把盘子舔干净。</Dest>
+    </String>
+    <String List="2">
+      <Source>At last, someone who recognizes my genius!  The soldiers here mock me. They tell me my potion couldn't heal a shaving nick. </Source>
+      <Dest>终于啊！有人看得出我的天才啦！这儿的当兵的都拿我取笑。说我的药连刮胡子的伤口都治不好！</Dest>
+    </String>
+    <String List="2">
+      <Source>You flatter me, but in truth it was no contest.  The Gourmet is what you call a conventional cook.  He has no imagination.  No spark.</Source>
+      <Dest>过奖啦，不过那确实毫无竞争可言。高梅特（天际第一厨）是个传统风格的厨子。他没什么想象力，也没有灵感。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, Yes!  Of course!  Such a fantastic dish can only be wrought by the hands of Clario Moorsley.  </Source>
+      <Dest>是的，是的！当然了！如此美妙的食物只能经由克拉里奥·莫斯雷之手加工而成。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Let me see.  I will need a lavender and a tomato, of course.  But this will be no ordinary stew.  </Source>
+      <Dest>让我看看。毫无疑问，我需要一份薰衣草和一个番茄。不过这可不是普通的汤。 </Dest>
+    </String>
+    <String List="2">
+      <Source>But the fool wouldn't even acknowledge his relationship with the impostor.  Naturally, I took this as a sign of his surrender.</Source>
+      <Dest>但傻瓜甚至不承认他与冒充者的关系。自然地，我把这作为他屈服的标志。</Dest>
+    </String>
+    <String List="2">
+      <Source>And carrots as well.  A good stew could always do with a few carrots.</Source>
+      <Dest>还得有胡萝卜。一道上好的炖菜总得搁进点儿胡萝卜。</Dest>
+    </String>
+    <String List="2">
+      <Source>They are known throughout Tamriel as the first potion capable of healing the body while delighting the palate.</Source>
+      <Dest>他们因为头一个做出了好喝的治疗药剂，而闻名于整个泰姆瑞尔大陆 。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is food not eaten for both joy and sustenance?  By your logic any cuisine must be one or the other.</Source>
+      <Dest>难道吃东西不能同时为了享受和生存？照你的逻辑，所有的食物一定只能是其中一项。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will need a potion of resist cold, fire salts, and a scroll of repel undead to ward off contamination.  </Source>
+      <Dest>我需要一瓶抗寒药剂，一些火盐，还有一个击退亡灵的卷轴，来防止被污染。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then as a chef, I am loathe to discover what you don't like.  Better to leave that a mystery.</Source>
+      <Dest>作为一个大厨，我对事先了解顾客的喜好这点非常厌恶。对我来说，这最好是个有待发掘的谜团。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suspect not. I simply hope he does not cower away and retire. It will be much harder to topple the myth of his potage than the actual dish.</Source>
+      <Dest>我不怀疑，我只是希望他不会畏缩之后干脆退休了。从汤着手来推翻他的神话要比从菜肴入手要难多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greater than the mystery of how you subsist on a diet of mead and mammoth cheese?  I think not. </Source>
+      <Dest>比你如何每餐都靠蜂蜜酒加长毛象乳酪生存下来的这个谜团更大？我不这么认为。</Dest>
+    </String>
+    <String List="2">
+      <Source>He makes no attempt to shatter the culinary barrier.  He is like the pilgrim who scales the mountain, while I am the dragon that soars above it.</Source>
+      <Dest>他没有试着打破烹饪的屏障。就在他如同朝圣者一般往山上攀爬的时候，我已成为了翱翔在山顶之上的巨龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are ever in High Rock, however, ask for the potions made by Clario Moorsley.</Source>
+      <Dest>如果你曾在高岩省呆过，无论如何，都要找克拉里奥．莫斯雷来制作这种药水了。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is an expression.  Do not make them think you are like the hound, or they will scratch your ears and make you play fetch.</Source>
+      <Dest>这是一个表达。不要让人觉得你像猎犬一样，要不然的话他们会搔你的耳朵，然后拿你取乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent, then let us proceed to the kitchen.</Source>
+      <Dest>太好了，接下来我们去厨房吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent, then let us proceed to the kitchen.</Source>
+      <Dest>太好了，接下来我们去厨房吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is done.  </Source>
+      <Dest>完事儿了。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have you know I tested it myself, and I assure you that after three drinks, your skin will be as smooth as a vintage wine.</Source>
+      <Dest>我告诉你我自己测试过了，而且我保证你三杯过后，你的皮肤会柔滑如佳酿。</Dest>
+    </String>
+    <String List="2">
+      <Source>And while my potions must be used multiple times to achieve the same effect, a soldier would gladly drink a dozen before he grew weary of the taste.</Source>
+      <Dest>而且尽管我的药物可能需要调制很多遍才能起到相同的效果，但士兵们会高高兴兴地喝下一整打直到他喝腻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you come to taste my potions and ingredients?</Source>
+      <Dest>你想尝尝我的药水儿跟原料的滋味吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hurry back.  Even with my alchemical preservation methods, this meat will only stay fresh for so long.</Source>
+      <Dest>快回去吧。即使用了我炼金的防腐方法，这些肉也只能保鲜这么久。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, another adventurer. You must be here seeking to sample my culinary potions.  </Source>
+      <Dest>啊，另一个冒险家。你必须在这寻找我制作药水的样品。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, if only the five kingdoms could settle their grievances like the rest of you barbarians.</Source>
+      <Dest>没错。要是五国都能像你们这群野蛮人一样解决自己的问题就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps you two can get them for me.  Or just you.  The other...belligerent one I do not trust with such a delicate task.</Source>
+      <Dest>没准你们俩能把那东西给我拿回来 .其实你一个就够了。。。那个战斗狂。。。我可不认为他能干得了这种精细活。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when you drink, you will discover a flavor so divine you will slice off your own fingers to justify another taste.</Source>
+      <Dest>当你喝的时候，你会发现这好喝的不得了，你会愿意付出任何代价只求能再喝一杯。</Dest>
+    </String>
+    <String List="2">
+      <Source>As opposed to the Orc slop you call food?  Everything in Skyrim tastes like three-day old armpit.</Source>
+      <Dest>你管那些和兽人鼓捣出来不一样的东西叫食物? 天际省所有的东西都难吃的要命。</Dest>
+    </String>
+    <String List="2">
+      <Source>How dare you insinuate that avarice, and not art, was my motivation. </Source>
+      <Dest>你竟敢说我的动机不是为了艺术而是贪婪。</Dest>
+    </String>
+    <String List="2">
+      <Source>And once they taste the dish, it will be magic enough.  The mystery gone, they will lick the plate clean.</Source>
+      <Dest>一旦他们品尝到了菜色，就会有魔力产生。神秘感消失殆尽，取而代之的是，他们会舔干净盘子。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is quite a load of bone meal, if you pardon me saying.  Do you also think vegetables must taste like field grass?  </Source>
+      <Dest>那顿饭真难吃，要我说的话。你是不是也觉得蔬菜必须吃起来像地里的野草一样？</Dest>
+    </String>
+    <String List="2">
+      <Source>And what if you found yourself in need of more than one potion?  </Source>
+      <Dest>那么假设你发现自己需要更多药水呢? </Dest>
+    </String>
+    <String List="2">
+      <Source>I came because I had heard a rumor that the Jarl's chef was a friend of The Gourmet. </Source>
+      <Dest>我来这儿是因为我听到了一则传言，说是领主的主厨是美食家的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is not what I meant!  You are being reductive.  The illusion I speak of is subtle.  It is necessary to assuage a patron's fear of new cuisine.</Source>
+      <Dest>我不是那个意思！你正在被还原。我说的这个幻术是很微妙的。减轻主顾对新料理的恐惧情绪是有必要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why stick to cream, my lady, when I can taste you drenched in my newest culinary flavor.</Source>
+      <Dest>我的女士，当我能奉献给你我最新的拿手好菜时，您又何必再执着于奶酪呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>If anything, I am more worried about the side effects than the actual potency of the potions.</Source>
+      <Dest>如果有什么的话，比起药效，我更担心它的副作用。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize, but I am not a common house chef who patronizes random citizens.   Now If you'll excuse me...</Source>
+      <Dest>我很抱歉，但我可不是随便一个公民都可以使唤的普通家厨。现在，如果你不介意的话……</Dest>
+    </String>
+    <String List="2">
+      <Source>And for your information, the potion does work.  Not as effectively as a traditional potion, but it suffices for minor cuts and bruises.</Source>
+      <Dest>根据你所给出的信息，那药水确实起效了。虽不及传统药水那样有效果，但用来治疗跌打损伤这种皮肉小伤已经足够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wished for him to set up a culinary duel, at which I would be declared once and for all the finest chef in all of Tamriel. </Source>
+      <Dest>我希望他能提出一次厨艺决斗，这样我就能彻彻底底地被公认为整个泰姆瑞尔大陆最好的厨师了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you think you can remember that?  Of course you can.  You are not as dense as that one.  </Source>
+      <Dest>你认为你能记住吗这些吗？你当然可以啦。你又不跟那个人一样傻。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>There are also some side effects.  But its unequaled flavor more than compensates for its minor failings.</Source>
+      <Dest>是也会有一些副作用。但那和你获得的好处是没法比的.</Dest>
+    </String>
+    <String List="2">
+      <Source>But I am without my assistant, and she fetches my ingredients.  </Source>
+      <Dest>但我的助手不在我身边，她给我获取材料。  </Dest>
+    </String>
+    <String List="2">
+      <Source>And with that, I bid you good luck.</Source>
+      <Dest>同时祝你好运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, they are still in the testing phase, and I cannot be bothered to test them any longer.</Source>
+      <Dest>不幸的是，他们还在测试阶段，而且我再也不想接着测试他们了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you no pride in your ancestral homeland?  It is Bretons like you that make me ashamed to call myself thus.</Source>
+      <Dest>难道你对你的祖国没有一点自豪感么？你根本不配做布莱顿人，我耻于跟你为伍.</Dest>
+    </String>
+    <String List="2">
+      <Source>I believe any dignified warrior would rather die than twice have to imbibe something so offensive to the one's tongue.</Source>
+      <Dest>我相信任何一个有尊严的战士宁肯死，也不能容许要吸收的东西如此冒犯自己的舌头，还他妈是两次！</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You are a small thinker, to limit yourself in such a way.  Are potions not a drink?  Do they not have flavor?</Source>
+      <Dest>你是个很狭隘的思考者，你把你自己用那样的方式限制起来。药水不是饮料么？难道它们没有味道么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Shut up wench!  Do not interrupt me during my work!</Source>
+      <Dest>村姑闭嘴！别打扰我工作！</Dest>
+    </String>
+    <String List="2">
+      <Source>By the divines...where did you get this?  The marbling, the texture...this is the finest slab of meat I have ever laid my hands upon!</Source>
+      <Dest>圣灵在上……你是从哪儿得到它的？这纹理，这质地……这我那张我曾经手的最好的肉板！</Dest>
+    </String>
+    <String List="2">
+      <Source>Why I never...fine.  In that case, seeing as I have little choice, I will cook your stew. </Source>
+      <Dest>凭什么，我绝对不会……算了，在这种情况下我别无选择。我会给你炖菜的。</Dest>
+    </String>
+    <String List="2">
+      <Source> I trust you brought the meat?  Or must I magic a horker out of thin air?</Source>
+      <Dest> 我相信你身上带了肉？还是你指望我用魔法凭空变出只三牙海象来？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

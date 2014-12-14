@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>My strategy is talk to people and understand them on their level, then I strike.</Source>
+      <Dest>我的策略是和人们说话，站在他们的位置上去理解，然后出击。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>There seem to be plenty of wrecks on the shoreline they could salvage.</Source>
+      <Dest>沿海似乎还有不少失事船只等待打捞。</Dest>
+    </String>
+    <String List="0">
+      <Source>There seem to be plenty of wrecks on the shoreline they could salvage.</Source>
+      <Dest>沿海似乎还有不少失事船只等待打捞。</Dest>
+    </String>
+    <String List="0">
+      <Source>There seem to be plenty of wrecks on the shoreline they could salvage.</Source>
+      <Dest>沿海似乎还有不少失事船只等待打捞。</Dest>
+    </String>
+    <String List="0">
+      <Source>There seem to be plenty of wrecks on the shoreline they could salvage.</Source>
+      <Dest>沿海似乎还有不少失事船只等待打捞。</Dest>
+    </String>
+    <String List="0">
+      <Source>I like to show my prey the size of my fireballs.</Source>
+      <Dest>我很乐意让你们见识一下我的火球术。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a pirate?</Source>
+      <Dest>你是个海盗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you worried the pirates will just kill you?</Source>
+      <Dest>你难道不怕海盗杀了你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you worried the pirates will just kill you?</Source>
+      <Dest>你难道不怕海盗杀了你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is Safia harassing you?</Source>
+      <Dest>萨非亚在骚扰你?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do the crew members wear blue war paint?</Source>
+      <Dest>为啥船员都涂着蓝色的战斗涂装。</Dest>
+    </String>
+    <String List="0">
+      <Source>But it's called the "Red Wave."</Source>
+      <Dest>但是它被称为“红波”。</Dest>
+    </String>
+    <String List="0">
+      <Source>But it's called the "Red Wave."</Source>
+      <Dest>但是它被称为“红波”。</Dest>
+    </String>
+    <String List="0">
+      <Source>But it's called the "Red Wave."</Source>
+      <Dest>但是它被称为“红波”。</Dest>
+    </String>
+    <String List="0">
+      <Source>But it's called the "Red Wave."</Source>
+      <Dest>但是它被称为“红波”。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the traps?</Source>
+      <Dest>圈套？</Dest>
+    </String>
+    <String List="0">
+      <Source>And the traps?</Source>
+      <Dest>圈套？</Dest>
+    </String>
+    <String List="0">
+      <Source>Taking a break?</Source>
+      <Dest>歇会？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever miss the pirate life?</Source>
+      <Dest>你怀念海盗的生活吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever miss the pirate life?</Source>
+      <Dest>你怀念海盗的生活吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever miss the pirate life?</Source>
+      <Dest>你怀念海盗的生活吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever miss the pirate life?</Source>
+      <Dest>你怀念海盗的生活吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>The stealthy kind.  I get in and out, and they never even feel a thing.</Source>
+      <Dest>我进出自如，毫无声息，他们还什么都不知道呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's talk about why you left the pirates.</Source>
+      <Dest>让我们来谈谈为什么你不再干海盗了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's talk about why you left the pirates.</Source>
+      <Dest>让我们来谈谈为什么你不再干海盗了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your place is a mess. Empty wine bottles everywhere.</Source>
+      <Dest>你这真够乱的，到处都是空酒瓶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your place is a mess. Empty wine bottles everywhere.</Source>
+      <Dest>你这真够乱的，到处都是空酒瓶。</Dest>
+    </String>
+    <String List="0">
+      <Source>Eris sounds like my kind of gal.</Source>
+      <Dest>听起来艾瑞斯是我喜欢的那种女孩。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you join Safia's crew?</Source>
+      <Dest>是什么让你加入萨非亚的船队？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you join Safia's crew?</Source>
+      <Dest>是什么让你加入萨非亚的船队？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you join Safia's crew?</Source>
+      <Dest>是什么让你加入萨非亚的船队？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you join Safia's crew?</Source>
+      <Dest>是什么让你加入萨非亚的船队？</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you join Safia's crew?</Source>
+      <Dest>是什么使你加入萨非亚的船队？</Dest>
+    </String>
+    <String List="0">
+      <Source>I just wanted to share a drink and swap stories.</Source>
+      <Dest>我只是想一起喝一杯然后说说各自的故事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all pirate work is strictly salvaging.</Source>
+      <Dest>并不是所有的海盗都干打捞的活儿的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all pirate work is strictly salvaging.</Source>
+      <Dest>并不是所有的海盗都干打捞的活儿的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, but I'm all out of mushrooms.</Source>
+      <Dest>是的，可我早就洗手不干了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I hope I'm not intruding.</Source>
+      <Dest>希望我不是贸然闯入。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, what kind of loot?</Source>
+      <Dest>哦？什么样的赃物？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a pirate song?</Source>
+      <Dest>来一首海盗的歌？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave the Red Wave?</Source>
+      <Dest>你为什么离开红波？</Dest>
+    </String>
+    <String List="0">
+      <Source>My mistake. It's just you look sort of like a pirate.</Source>
+      <Dest>真抱歉，你看起来就是个十足的海盗。</Dest>
+    </String>
+    <String List="0">
+      <Source>What don't you miss?</Source>
+      <Dest>没有什么留恋？</Dest>
+    </String>
+    <String List="0">
+      <Source>What don't you miss?</Source>
+      <Dest>没有什么留恋？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's Safia again?</Source>
+      <Dest>萨非亚是谁来着？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why so defensive? You're the one who brought her name up.</Source>
+      <Dest>怎么又遮遮掩掩的了？说出她名字的人是你啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) And what kind of fool are you, to think that witch can be tamed?</Source>
+      <Dest>(笑声) 你该有多蠢啊，会认为巫婆可以被驯服？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why do you want to know? Don't you have mushrooms to grind or something?</Source>
+      <Dest>你为什么想知道？你手里的活做完了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you looked out at the ocean lately?  It ain't exactly green.</Source>
+      <Dest>你最近注意过大海了么？看上去并不是纯正的绿色。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want me to say? That Eris used necromancy to bed a dead orphan?  No, ain't nothing like that.  </Source>
+      <Dest>你想从我这里听到什么？那个艾瑞斯用死灵法术上了那个死去的孤儿？不，没有这类的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Other times, no amount of coin is enough when the pirates promise a taste of Balmora Blue.</Source>
+      <Dest>其他时候，千金也难从海盗那求一罐蓝色巴尔莫拉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't miss the stale bread, and the bad company. Mostly I don't miss Safia.</Source>
+      <Dest>我没有想念新鲜的面包和那个糟糕的同伴。主要是我没想念萨非亚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, but only if you sing along with me. You should know this one.  It's called "Ragnar the Red."   And a one! Two!</Source>
+      <Dest>好吧，除非你跟我一起唱。你一定听过这首，名为："红衣拉格纳"来呦，一、二：</Dest>
+    </String>
+    <String List="2">
+      <Source>The East Empire Company will see that they won't.  Everything I salvage I pass to them.</Source>
+      <Dest>东帝国贸易公司不会允许这种事发生。我捞到的油水全都转交给他们了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Red Wave is the tide of blood that washes out from every village we raid, every ship we pillage.</Source>
+      <Dest>红波是冲洗一切的血色狂潮。我们袭击每一座村庄，掠夺每一艘船只。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've run with other crews, met all sorts of shipmates good and bad, male and female, man and beast.  None of them worth a salt pile.</Source>
+      <Dest>我跟过其他船员跑船，见过各种各样的男男女女，见过社会中的君子或是人渣，见过人类也见过闻所未闻的畜生，没有任何一个能和盐巴相提并论。</Dest>
+    </String>
+    <String List="2">
+      <Source>You never can be too careful.  Sometimes the guards will play both sides.  </Source>
+      <Dest>你们决不能放松警惕。有时候守卫也是两面三刀的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just because the loot ain't sunk deep don't mean you can breathe easy.  The best treasure is locked up tighter than a Vigilant's collar.  </Source>
+      <Dest>那些货物沉得不深并不表示你一口气能弄到。最棒的宝物可是锁得比警戒者的领口还结实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why do you care?  Seems like it ain't no one's business but my own.</Source>
+      <Dest>你为什么要在意？这事似乎除了我之外和其他人毫无关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>Firo, why don't you ever sing some pirate songs?</Source>
+      <Dest>费罗，为什么你不唱点海盗的小曲呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>On her bow was this armor clad woman with a shock of hair and a two handed battleaxe, barking orders at the men.  </Source>
+      <Dest>船头伫立一位身穿铠甲、肩着双手战斧、顶着爆炸头的女子，吼叫着对水手们发号施令。</Dest>
+    </String>
+    <String List="2">
+      <Source>I pass some coin to the guard and they keep my home free of pests.</Source>
+      <Dest>我给守卫塞钱，守卫则让我的家远离害虫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  But only because you asked nicely.  This one's called, "The Cat in the Bag."</Source>
+      <Dest>好吧，既然你看起来这么诚恳。这首歌曲叫："袋子里的猫"来啰，一、二：</Dest>
+    </String>
+    <String List="2">
+      <Source>Miss the life? Things are never that simple. With anything there's always bad and good, and stuff that ain't either.</Source>
+      <Dest>想念过往的生活？世间事三言两语说不清，不是非善即恶，还有一堆卡在灰色地带。</Dest>
+    </String>
+    <String List="2">
+      <Source>You want a sob story, go talk to an ex-bandit.  Safia didn't make me her crewman because I had thin scales.</Source>
+      <Dest>你想要一个非常悲伤的故事，去找一个前强盗好了。萨非亚不让我做他的船员是因为我有鳞片。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most days no, but with the war, the dragons, the glaciers and the storms, these ships sink themselves.  </Source>
+      <Dest>大多数日子里都不会。但如果遇到了战争，龙，冰川和风暴，这些船可能就会沉没。</Dest>
+    </String>
+    <String List="2">
+      <Source>Loves me, leaves me, and gives me the meanest headache in the morning.</Source>
+      <Dest>爱着我，又无情地转身离去，只留下早晨时如炸裂般的头痛。</Dest>
+    </String>
+    <String List="2">
+      <Source>But aye, I know what you mean, you blasted land whale.  So let me explain it for you in words you can understand.</Source>
+      <Dest>但是，是啊，我知道你的意思，你这只被诅咒的鲸鱼。那就让我用你听得懂的话给你解释一下吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who's gonna pick that lock? Dorian?  That land strider couldn't see his own nose with the muddy water in his eyes. </Source>
+      <Dest>那么谁去撬开那些锁？杜理安？那个旱鸭子在泥水里连他自己的鼻子都看不见。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean Pantea?  That bitch comes in here drunker than a barrel full of mudcrabs. She won't know the difference.</Source>
+      <Dest>你是指潘提亚？那个婊子来的时候喝的比一个装满泥沼蟹的大桶还多。她不会知道其中的差别的。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I was living in Elsweyr, I had heard stories about the Red Wave, and their firebrand of a Captain.</Source>
+      <Dest>以前住在艾斯维尔时我就听说过赤红波浪的故事，还有他们残忍好战的船长。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, now you got my attention. What sort of crazy fornication are we talking about here?  Don't skip on the details.</Source>
+      <Dest>得，现在你可真引起我的注意了。我们这儿是在谈论什么通奸的鸟事儿呢？说细节啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, but only 'cause I think I've had 1 too many. This one's called, "Knock the Timbers", though it's also known by other names.  And a one..two!</Source>
+      <Dest>好吧，大概是因为我说一拖得太长了。这一首叫"伐木"，虽然还有其他名字。来一...二！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Captain of the Red Wave and a real slaughterfish of a woman.</Source>
+      <Dest>赤红波浪的船长，当之无愧的女中豪杰。</Dest>
+    </String>
+    <String List="2">
+      <Source>That ain't something you wanna brag about, not if you want to go for seconds.</Source>
+      <Dest>你吹嘘的那些毫无意义，除非你打算马上卷铺盖走人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must have barnacles in your ears. I said I'm a salvager. I salvage. What part of that don't you understand?</Source>
+      <Dest>你耳朵肯定叫人塞上了。我说过我是个救人的，我救人啊。你哪块儿没听明白？</Dest>
+    </String>
+    <String List="2">
+      <Source>Xander knows alteration magic, but he won't step into a shallow ford without whining about his precious tunic.</Source>
+      <Dest>虽然桑德尔懂得变幻系魔法，但是要是走进浅滩的时候弄脏了他的宝贝衣服他还是会啰嗦个没完。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sight of land when the ale runs dry.  The spank of a fresh tavern wench's behind.  That I miss most of all.</Source>
+      <Dest>当麦酒见底时看到陆地出现。拍拍酒馆女的嫩屁屁。那是我最为想念的日子啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I miss the brawls on the ship deck.  The salty taste of blood in your mouth.</Source>
+      <Dest>我想念那些甲板上的斗拳，想念嘴里血水的咸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, wait, wait...what happened?  Are you sure you know the words?</Source>
+      <Dest>等等等等等等，到到到底怎回事？你确定你听过这些？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was Sabine. You might think it's funny, but that woman inspired me.  </Source>
+      <Dest>就是撒比尼。你也许觉得这很可笑，但那个女人启迪了我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you're short one drink and I, one story.</Source>
+      <Dest>那你只缺一杯酒和一个我，还有一个故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who are you?  If Safia sent you, tell her to piss off.  I'm a salvager now, you hear?</Source>
+      <Dest>你是谁？如果是萨非亚让你来的，那就告诉她快滚。我现在是个拾荒者，你听明白了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sounds like a bit of work. Just get them drunk and it'll save you the trouble.  </Source>
+      <Dest>听起来就是小事一桩。只要把他们都给灌醉那所有问题都解决了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, you got me there. The meatface used to be my captain, alright.  I used to salvage for her, now I salvage for me.</Source>
+      <Dest>好吧，这局你赢了。那个肉团脸以前确实是我的船长没错。我以前为她敛财，现在我为我自己敛财。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the Jarl has a swollen ass, but I reckon that ain't her name.</Source>
+      <Dest>而那领主有个肿胀的屁股，但是我猜那不是她的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told you, I'm a salvager.</Source>
+      <Dest>我已经说了，我是个拾荒者。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I don't miss is the rattles from the long nights at sea, the blood lung from the rats nipping at your tail.   </Source>
+      <Dest>我不怀念的是海上的长夜里传来的吵闹声，以前老鼠在你尾巴上咳血留下的难闻气味。</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, the real loot is out there, underneath the glacial ice.</Source>
+      <Dest>此外，真正的战利品就在那里，在那冰川之下。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wasn't hatched yesterday. My secrets are my own.</Source>
+      <Dest>昨天我才没策划什么。我的秘密才不会告诉别人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, and I caught a bad one.  Tell Lisette she better sing a salvaging song next, or I'll show her the backside of me tail.</Source>
+      <Dest>同意，我会抓住那个坏蛋。告诉丽赛特她下次最好唱一首关于抢捞的歌儿，否则我就用我的尾巴朝她漂亮的脸蛋糊过去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Looks can be deceiving. Look at you. You don't look annoying at all.  But you are.</Source>
+      <Dest>长相是会骗人的。看看你们，你看起来并不烦人，但是你看起来就烦人的很。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I miss the smell of the open ocean, and the boundless sky.  Getting lost, and knowing the stars will get you found.  </Source>
+      <Dest>我想念辽阔的海洋与无垠的苍穹。失去方向时，星空总会指引著明路。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, the ocean may be my wife, but the bottle be my mistress.  And what a cruel mistress she is. </Source>
+      <Dest>是啊，大海是我的妻子，而酒瓶是我的情妇。你看这情妇待我多苛薄。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I happened to be at the port in Senchal when the Red Wave docked.  </Source>
+      <Dest>其实有次赤红波浪停泊在森查尔时我还不巧经过那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh there once was a pirate named Ragnar the Red, who got piss drunk and promised a woman they'd wed...</Source>
+      <Dest>曾有个海盗红衣拉格纳，喝得如泥烂醉，和一个女的许了婚约……</Dest>
+    </String>
+    <String List="2">
+      <Source>The crew don't paint blood on their faces.  They paint it on their steel.</Source>
+      <Dest>他们不会把血涂在脸上。他们一般都把它涂在武器上。</Dest>
+    </String>
+    <String List="0">
+      <Source>How is Safia like a slaughterfish?</Source>
+      <Dest>萨非亚怎么像食人鱼了？</Dest>
+    </String>
+    <String List="0">
+      <Source>The powerful kind.</Source>
+      <Dest>厉害的那种。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could clean this place up for you.</Source>
+      <Dest>我可以为你把这地方打扫干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was that unfair?</Source>
+      <Dest>那怎么不公平了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was that unfair?</Source>
+      <Dest>那怎么不公平了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was that unfair?</Source>
+      <Dest>那怎么不公平了？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right.  That explanation was laughable.</Source>
+      <Dest>你说的没错。那个借口很可笑。</Dest>
+    </String>
+    <String List="0">
+      <Source>First you talk, then we drink.</Source>
+      <Dest>你先说，然后我们来喝一杯。</Dest>
+    </String>
+    <String List="0">
+      <Source>First you talk, then we drink.</Source>
+      <Dest>你先说，然后我们来喝一杯。</Dest>
+    </String>
+    <String List="0">
+      <Source>First you talk, then we drink.</Source>
+      <Dest>你先说，然后我们来喝一杯。</Dest>
+    </String>
+    <String List="0">
+      <Source>And is gold your tavern wench?</Source>
+      <Dest>那你能把金子当酒馆女仆使？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabine Nytte.</Source>
+      <Dest>撒比尼．尼耶蒂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabine Nytte.</Source>
+      <Dest>撒比尼．尼耶蒂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabine Nytte.</Source>
+      <Dest>撒比尼．尼耶蒂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabine Nytte.</Source>
+      <Dest>撒比尼．尼耶蒂。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't mean it that way.  I don't fancy women.</Source>
+      <Dest>我不是那个意思啦。我对女人不抱幻想。</Dest>
+    </String>
+    <String List="0">
+      <Source>You still haven't told me why you quit the Red Wave.</Source>
+      <Dest>你还是没告诉我为什么要退出红波.</Dest>
+    </String>
+    <String List="0">
+      <Source>You still haven't told me why you quit the Red Wave.</Source>
+      <Dest>你还是没告诉我为什么要退出红波.</Dest>
+    </String>
+    <String List="0">
+      <Source>You still haven't told me why you quit the Red Wave.</Source>
+      <Dest>你还是没告诉我为什么要退出红波.</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>So aye, ask your questions, but make them quick.  I got the time, but not the patience.</Source>
+      <Dest>所以没错，提出你的问题，但是要快。我有的是时间，但没什么耐性。</Dest>
+    </String>
+    <String List="2">
+      <Source>What now?</Source>
+      <Dest>现在怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>We sailed on down the Sea of Ghosts and docked at Solitude; We stormed the bar and drank the ale and ate up all the food!</Source>
+      <Dest>我们航过了幽灵海域，并且停在孤独城港；我们横扫了那酒店，并且把酒和食物给吃光光！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what we do with a drunken pirate, that's what we do with a drunken pirate.  That's what we do with a drunken pirate early in the morning!</Source>
+      <Dest>这就是酒鬼海盗的老本行，我们酒鬼海盗的老本行。这就是我们醉酒海盗做的老行当，伴着美丽的晨光！</Dest>
+    </String>
+    <String List="2">
+      <Source>Safia had me doing all the work, all on account that I could swim deeper and farther and I didn't need no potion to do it.  </Source>
+      <Dest>萨菲亚为我做了所有准备，这样我就能游得更深更远，且不需要药剂的支持。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Throw'm in the slaughterfish have him, throw'm in let the slaughterfish have him. Throw'm in let the slaughterfish have him, early in the morning!</Source>
+      <Dest>把他们扔下去喂鱼，把他们扔下去喂鱼，把他们扔下去喂那该死的食人鱼！伴随着日出的清虚！</Dest>
+    </String>
+    <String List="2">
+      <Source>When she said no, I said to the Hist with all of them!  Let's see how these open-toes like it when the water fills their boots.</Source>
+      <Dest>当她说不的时候，我说你们都他妈的去死吧！我们就等着看水是怎么灌进这些光脚没鳞的家伙的鞋里的吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine my surprise when I found out that she-Chaurus Safia was Captain.</Source>
+      <Dest>当我发现“母查鲁斯”萨非亚就是船长的时候，想想我有多惊讶吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think you fancy dying either, and that's what happens when you befriend a pirate witch.</Source>
+      <Dest>我不认为你渴望死亡，但这就是你与海盗女巫为伍的造成的麻烦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do what you want cause a pirate is free, you are a pirate!</Source>
+      <Dest>想做什么就做什么吧，海盗就应该是自由自在的，你是可海盗！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Do what you want 'cause a pirate is free, you are a pirate!</Source>
+      <Dest>想做什么就做什么吧，海盗就应该是自由自在的，你可是个海盗！ </Dest>
+    </String>
+    <String List="2">
+      <Source>What is it, barnacle breath?</Source>
+      <Dest>这是什么，藤壶的气息？</Dest>
+    </String>
+    <String List="2">
+      <Source>But there's something about her...maybe it's the hair, but more like it's her presence...</Source>
+      <Dest>她可不是简单的角色。或许是她头发的关系，但是更像是她的外表……</Dest>
+    </String>
+    <String List="2">
+      <Source>The tavern bard, a comely lass said "Feel free to make requests!" To sing pirate tales about pirate men and sunken treasure chests!</Source>
+      <Dest>酒馆的诗人是个清秀姑娘，她百灵鸟般的嗓子什么都会唱。玉葱般的手指抚在琴上，海盗和沉没宝藏的故事慷慨激昂！</Dest>
+    </String>
+    <String List="2">
+      <Source>I walked right up onto the deck of the Wave and told her I would follow her to the bottom of the Padomaic if she would make me part of her crew.</Source>
+      <Dest>我径直走上红波号的甲板，然后义无反顾的对她说，如果她能够让我成为她的组员，我愿意追随她直到深渊最底层。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seeing as there ain't no other lizards on her crew, I figured I had all the leverage.  So I demanded a bigger cut.  </Source>
+      <Dest>鉴于她的船员里没有其他蜥蜴了，我想我有足够的优势。所以我赌了一把。</Dest>
+    </String>
+    <String List="2">
+      <Source>What a woman. Even then I wasn't no hatchling, but I never felt so puny.</Source>
+      <Dest>这个女人。当时我已经不是个小鬼头了，但我还从未感到我如此无足轻重。</Dest>
+    </String>
+    <String List="2">
+      <Source>And a one, two!</Source>
+      <Dest>准备一，二！</Dest>
+    </String>
+    <String List="2">
+      <Source>And a one, two!</Source>
+      <Dest>准备一，二！</Dest>
+    </String>
+    <String List="2">
+      <Source>And a one, two!</Source>
+      <Dest>准备一，二！</Dest>
+    </String>
+    <String List="2">
+      <Source>And a one, two!</Source>
+      <Dest>准备一，二！</Dest>
+    </String>
+    <String List="2">
+      <Source>Now Sabine's a Breton, tiny enough to crawl into the egg I hatched from. </Source>
+      <Dest>撒比尼是布莱顿人，身材娇小到可以爬进孵出我的那颗蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ooooh, what do you do with a drunken pirate, what do you do with a drunken pirate?  What do you do with a drunken pirate early in the morning?</Source>
+      <Dest>哦~~~你和一个喝醉的海盗做什么，和一个喝醉的海盗做什么？你和一个喝醉的海盗在早上做些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But I know enough to know that treasure ain't treasure when it's split six ways.  </Source>
+      <Dest>但我起码还是知道：分成六份的宝贝它就根本不叫宝贝。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Jarl, harl, fiddle-dee-dee, being a pirate is alright to be! </Source>
+      <Dest>还领主呢，领猪吧，真是胡说八道，当一个海盗有什么不好的！</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you, some Lusty Argonian maid?  I'll need a flagon of wine and a punch in the eye before I believe that.</Source>
+      <Dest>你谁啊？淫荡亚龙人女仆吗？你得把我灌醉加上打我个乌眼青我才会相信。</Dest>
+    </String>
+    <String List="2">
+      <Source>But all she sang was dragon tales and of men who lost their head! So I stuck an apple in her mouth and took the lass to bed!</Source>
+      <Dest>但她唱的歌不是龙的传说就是关于那些掉了脑袋的人的！所以我往她嘴里塞了一个苹果把小姑娘推倒到床上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh there once was a pirate named Ragnar the Red, who got piss drunk and promised a woman they'd wed!</Source>
+      <Dest>一次有个海盗叫什么红衣拉格纳的，马尿灌多了，就随便拉了个女人说他要结婚！</Dest>
+    </String>
+    <String List="2">
+      <Source>She laughed of course. Said "That ain't up to me leather-face, although if it were you'd be fish bait."</Source>
+      <Dest>她自然而然地笑了。说："那不是针对我 皮革脸，即使是，你也得做诱饵。"</Dest>
+    </String>
+    <String List="2">
+      <Source>Hoist yer sails!</Source>
+      <Dest>打起精神来！</Dest>
+    </String>
+    <String List="2">
+      <Source>I found an inn and curled up, on the nearest rug, and that's how I woke up, With a cat for a son!</Source>
+      <Dest>我找了家旅馆就住了进去，就在最近的一张毯子上一直睡到睁眼，旁边还有一只！</Dest>
+    </String>
+    <String List="2">
+      <Source>Business.  With pirates there's just one thing you need to understand.  Everything comes down to gold.  </Source>
+      <Dest>业务。与海盗共事你只需要了解一件事。什么都要扯到钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Weigh-hey, and knock the timbers!  Weigh-hey, and knock the timbers!  Weigh-hey, and knock the timbers, early in the morning!</Source>
+      <Dest>咿～嘿，砍一下木头啊！咿～嘿，砍一下木头啊！咿～嘿，砍一下木头啊！一早就开工！</Dest>
+    </String>
+    <String List="2">
+      <Source>Weigh-hey, and knock the timbers!  Weigh-hey, and knock the timbers!  Weigh-hey, and knock the timbers, early in the morning!</Source>
+      <Dest>咿～嘿，砍一下木头啊！咿～嘿，砍一下木头啊！咿～嘿，砍一下木头啊！一早就开工！</Dest>
+    </String>
+    <String List="2">
+      <Source>Tie him down let the mudcrab pinch him, tie him down let the mudcrab pinch him.  Tie him down let the mudcrab pinch him, early in the morning!</Source>
+      <Dest>把他绑上让泥蟹钳他，把他绑上让泥蟹钳他。把他绑上让泥蟹钳他，在阳光明媚的早上！</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't look at me like that.  I meant it as a compliment.  Can't trust a lizard who ain't got a little dirt in their scales.</Source>
+      <Dest>别那么看着我，我本意是夸你的。嘴上没毛，办事不牢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I couldn't tell you the eight divines if you spotted me the first seven.</Source>
+      <Dest>如果你给我找到其他七个神，我才能告诉你第八个.</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>That she is. Any other observations before I stop listening?  Too late.  Already stopped.</Source>
+      <Dest>那就是她啊。在我听烦了之前，你还有什么话要说？太迟了，我已经烦了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So is your face. Ah, I could do better than that.  Next time, stranger. You'll see.</Source>
+      <Dest>都写在你脸上了，啊哈！我到时候一定比那还要厉害。陌生人，以后等着瞧吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to be a pirate, I made a lot of gold, sailing down to Senchal, to warm up from the cold!</Source>
+      <Dest>以前我干海盗的时候，发了大财，到过森查尔，从北极到过热带！</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>She was shorter by half, but stood taller than all.  She was a giant.</Source>
+      <Dest>或许比你矮半个身，但她彷彿比谁都高大。她是个巨人！</Dest>
+    </String>
+    <String List="2">
+      <Source>Weigh-hey, and knock the timbers!  Weigh-hey, and knock the timbers!  Weigh-hey and knock the timbers, early in the mooorning!</Source>
+      <Dest>卯足劲儿，然后狠狠地砍这木头~！卯足劲儿，然后狠狠地砍这木头~！卯足劲儿，然后狠狠地砍这木头~，早早起来砍木头喽！</Dest>
+    </String>
+    <String List="2">
+      <Source>She has this way of standing over you that makes you forget how small she actually is.</Source>
+      <Dest>当她站在你面前，你会全然忘了她的真实身高。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shove off.</Source>
+      <Dest>下船。</Dest>
+    </String>
+    <String List="2">
+      <Source>Because she's as ugly as a mutiny and will bite you in the tail if you aren't careful.</Source>
+      <Dest>因为她就是那种如变节般丑恶然后趁你不备时在你后面狠狠的咬上你一口的那种货色。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

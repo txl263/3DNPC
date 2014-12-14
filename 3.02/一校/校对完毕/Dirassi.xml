@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How dare you insult the court wizard, you pitiful servant! Go scrub something.</Source>
+      <Dest>你这个卑微的仆人，你居然敢侮辱宫廷法师。快滚去干活。</Dest>
+    </String>
+    <String List="0">
+      <Source>How dare you insult the court wizard, you pitiful servant! Go scrub something.</Source>
+      <Dest>你这个卑微的仆人，你居然敢侮辱宫廷法师。快滚去干活。</Dest>
+    </String>
+    <String List="0">
+      <Source>How dare you insult the court wizard, you pitiful servant! Go scrub something.</Source>
+      <Dest>你这个卑微的仆人，你居然敢侮辱宫廷法师。快滚去干活。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little dirt never hurt anyone.</Source>
+      <Dest>有人说一星半点的灰尘是不会伤害任何人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little dirt never hurt anyone.</Source>
+      <Dest>有人说一星半点的灰尘是不会伤害任何人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little dirt never hurt anyone.</Source>
+      <Dest>有人说一星半点的灰尘是不会伤害任何人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some say a little dirt never hurt anyone.</Source>
+      <Dest>有人说一星半点的灰尘是不会伤害任何人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mages are fine. Wylandriah may not be the best example.</Source>
+      <Dest>法师很好，但维兰瑞亚不见得是个好例子。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you truly valued cleanliness, you'd start with yourself, you filthy wench.</Source>
+      <Dest>如果你真的很重视整洁，那就先瞧瞧你自己吧，你这个肮脏的丫头。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you truly valued cleanliness, you'd start with yourself, you filthy wench.</Source>
+      <Dest>如果你真的很重视整洁，那就先瞧瞧你自己吧，你这个肮脏的丫头。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gods can't cure diseases that are in your head.</Source>
+      <Dest>神灵无法治愈你头脑中的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gods can't cure diseases that are in your head.</Source>
+      <Dest>神灵无法治愈你头脑中的疾病。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure what you're looking at. My boots are clean.</Source>
+      <Dest>我不知道你在找什么，我很清白。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure what you're looking at. My boots are clean.</Source>
+      <Dest>我不知道你在找什么，我很清白。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure what you're looking at. My boots are clean.</Source>
+      <Dest>我不知道你在找什么，我很清白。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's probably much worse. I licked a Draugr before I came here.</Source>
+      <Dest>也许更糟，在到这里之前我刚跟一头尸鬼干过架。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's probably much worse. I licked a Draugr before I came here.</Source>
+      <Dest>也许更糟，在到这里之前我刚跟一头尸鬼干过架。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's probably much worse. I licked a Draugr before I came here.</Source>
+      <Dest>也许更糟，在到这里之前我刚跟一头尸鬼干过架。</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no substitute for alchemy.  A potion never leaves your side.</Source>
+      <Dest>現在还沒有炼金术的替代品。一剂魔药永远不会离开你的身边。</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no substitute for alchemy.  A potion never leaves your side.</Source>
+      <Dest>現在還沒有炼金术的替代品。一剂魔药永远不会离开你的身边。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Magic is an unnatural force and should be abolished.</Source>
+      <Dest>我同意。魔法是超自然的力量，应该被废止。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Magic is an unnatural force and should be abolished.</Source>
+      <Dest>我同意。魔法是超自然的力量，应该被废止。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have some sort of issue with Wylandriah?</Source>
+      <Dest>你与维兰瑞亚有什么要谈的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have some sort of issue with Wylandriah?</Source>
+      <Dest>你与维兰瑞亚有什么要谈的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have some sort of issue with Wylandriah?</Source>
+      <Dest>你与维兰瑞亚有什么要谈的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic is a dark art and that is precisely why I love it.</Source>
+      <Dest>我之所以爱魔法是因为它是一种黑暗艺术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic is a dark art and that is precisely why I love it.</Source>
+      <Dest>我之所以爱魔法是因为它是一种黑暗艺术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic is a dark art and that is precisely why I love it.</Source>
+      <Dest>我之所以爱魔法是因为它是一种黑暗艺术。</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard has long been a fixture of ruling houses across Tamriel.</Source>
+      <Dest>聘请宫廷法师是整个泰姆瑞尔大陆宫廷的悠久传统。</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard has long been a fixture of ruling houses across Tamriel.</Source>
+      <Dest>聘请宫廷法师是整个泰姆瑞尔大陆宫廷的悠久传统。</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard has long been a fixture of ruling houses across Tamriel.</Source>
+      <Dest>聘请宫廷法师是整个泰姆瑞尔大陆宫廷的悠久传统。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you okay?  Perhaps I shouldn't have hugged that vampire.</Source>
+      <Dest>你还好吗？或许我不该去拥抱那个吸血鬼来着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you okay?  Perhaps I shouldn't have hugged that vampire.</Source>
+      <Dest>你还好吗？或许我不该去拥抱那个吸血鬼来着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you okay?  Perhaps I shouldn't have hugged that vampire.</Source>
+      <Dest>你还好吗？或许我不该去拥抱那个吸血鬼来着。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize. It won't happen again.</Source>
+      <Dest>我道歉。下不为例。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize. It won't happen again.</Source>
+      <Dest>我道歉。下不为例。</Dest>
+    </String>
+    <String List="0">
+      <Source>Collywobbles?  I don't know what that is but please don't cough on me.</Source>
+      <Dest>肚子疼？我不知道那是什么毛病不过拜托别冲我咳嗽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Collywobbles?  I don't know what that is but please don't cough on me.</Source>
+      <Dest>肚子疼？我不知道那是什么毛病不过拜托别冲我咳嗽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Collywobbles?  I don't know what that is but please don't cough on me.</Source>
+      <Dest>肚子疼？我不知道那是什么毛病不过拜托别冲我咳嗽。</Dest>
+    </String>
+    <String List="0">
+      <Source>I go where I please you filthy maid. Don't ever raise your voice at me again.</Source>
+      <Dest>我爱去哪儿去哪儿，你个下贱胚子以后少跟我大声嚷嚷！</Dest>
+    </String>
+    <String List="0">
+      <Source>I go where I please you filthy maid. Don't ever raise your voice at me again.</Source>
+      <Dest>我爱去哪儿去哪儿，你个下贱胚子以后少跟我大声嚷嚷！</Dest>
+    </String>
+    <String List="0">
+      <Source>I go where I please you filthy maid. Don't ever raise your voice at me again.</Source>
+      <Dest>我爱去哪儿去哪儿，你个下贱胚子以后少跟我大声嚷嚷！</Dest>
+    </String>
+    <String List="0">
+      <Source>Relax.  Just visit the Temple of Mara when you have time.</Source>
+      <Dest>放轻松，只要有空的时候去一趟玛拉的神庙就行啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Relax.  Just visit the Temple of Mara when you have time.</Source>
+      <Dest>放轻松，只要有空的时候去一趟玛拉的神庙就行啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Relax.  Just visit the Temple of Mara when you have time.</Source>
+      <Dest>放轻松，只要有空的时候去一趟玛拉的神庙就行啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>那是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>B-but I can't leave until I finish sweeping the hall.  What if die before then?  I-I mean you look okay, but you also look strong.</Source>
+      <Dest>但-但是我在打扫完大堂之前不能离开。要是死了怎么办？我-我的意思是你看上去挺好, 你看起来也很壮.</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I'll do my best to clean Wylandriah's quarters.  Twice if I have to.  Maybe if I wore a mask, and a pair a gloves, I'll be okay.</Source>
+      <Dest>我...我会尽我全力去打扫维兰瑞亚的营房的，有必要的话我会打扫两遍。我想只要我戴上面罩和手套的话，就可以了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish I could cook all my food in a stew of cure disease potions, but...I can't afford the ingredients.</Source>
+      <Dest>我想我能以我所有的食物来熬煮出治病药水疗效的炖汤，但......但是我负担不起材料的成本。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the way she hordes things and then just leaves them out for days...I-I just don't understand it.  Why does a Jarl even need a court wizard?</Source>
+      <Dest>还有她那三天打渔两天晒网的处事方法……我、我就是不明白了，一个领主要宫廷巫师干什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>You what?  Oh no, I'm not on break for another few hours!  What do I do?  How long can I wait before I turn?</Source>
+      <Dest>你说什么？哦不，我不能再等几个小时了！我该怎么办？还有多长时间才能轮到我？</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.  Just be quick.  I think my nose is starting to run, and I'd rather not wipe it with my hands.</Source>
+      <Dest>好吧，就是快点儿。我感觉我的鼻涕要流下来了，我才不想用手擦呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you start to feel any of those, I would head down to the Temple, or if you've got the coin, Elgrim's Elixirs.  He's the local apothecary.</Source>
+      <Dest>你要是有上述任何一种感觉。我就得赶紧冲去神殿了，或者你要是有钱，艾格瑞姆灵药是本地的药店。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think it's because it tingles. You can feel it wash through your body, as opposed to over it.</Source>
+      <Dest>我想那是因为痛。你能感到它流经你身体内部，而不是表面。</Dest>
+    </String>
+    <String List="2">
+      <Source>If what she says is true, then every meal, every breath is like gambling with your life.</Source>
+      <Dest>要是她说的是真的，那你每吃一顿饭，每吸一口气都是拿命赌博。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do my...Do my palms look hairy to you?  I-I better ask Dinya as soon as I finish for today.</Source>
+      <Dest>我……我手上的毛看起来多么？我——我最好今天的活一干完就去问问丁雅。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the really frightening part. Ingun Black-Briar told me we eat and breathe poisons every day. The same things that give us life could kill us.</Source>
+      <Dest>最恐怖的地方在于，因甘-黑荆棘告诉我每天我们吃到和吸到的东西都是有毒的。救活我们的东西同时也是杀死我们的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what's so scary.  I trust the Jarl, the Steward, and the Housecarl, but what do they know about magic?</Source>
+      <Dest>这正是可怕的地方。我相信领主，也相信管家和侍卫，但他们对魔法又知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what's so scary.  I trust the Jarl, the Steward, and the Housecarl, but what do they know about magic?</Source>
+      <Dest>这正是可怕的地方。我相信领主，也相信管家和侍卫，但他们对魔法又知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Mages can't be trusted.  You ever read about the Thrassian Plague?  It was created by a Sload.  But I'd bet my life he was also a mage.</Source>
+      <Dest>法师不能被信任。你读过有关斯拉西安瘟疫的书吗？那是由一个蛞蝓人编写的。但我敢用性命打赌，他也是一个法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>According to Elgrim, the main symptoms are sluggishness, shortness of breath, joint pain, and weakness.</Source>
+      <Dest>按艾尔格瑞姆所说，主要症状是精神萎靡，呼吸急促，关节痛，以及虚弱。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You can't contract swamp fever so long as you don't touch something infected, right?  By Shor I hope so.</Source>
+      <Dest>只要你别碰那些可能会传染的东西，就不会染上疟疾，对吧？舒尔在上，我希望如此。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe you can't see it, but there's all kinds of dust and dirt floating around your body.</Source>
+      <Dest>也许你看不见，可是还是有无数尘土和污垢飘浮在你身边。</Dest>
+    </String>
+    <String List="2">
+      <Source>Truth is, I can't make heads or tails of it...Oh Gods...what if that's a sign of Serpiginous Dementia!</Source>
+      <Dest>事实上，我弄不清楚这是什么情况...哦天哪...万一这是疟疾的一种症状怎么办！</Dest>
+    </String>
+    <String List="2">
+      <Source>I bet if you read a list of history's most despicable figures, more than half would be mages.</Source>
+      <Dest>我打赌如果你看了那历史上最卑鄙的人的名单，你会发现超过一半的家伙都是那些法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I apologize.  I know it's not my place.  Please don't tell the Steward I said anything.</Source>
+      <Dest>我，我道歉。我知道我不该管这个。千万别和管家说我说了什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>My skin!  Does it look scaly to you?  My arms look smooth but...what if that's one of the symptoms?  I need to ask Ingun.</Source>
+      <Dest>我的皮肤！你看见我皮肤上有鳞片了吗？我的胳膊看起来很光滑但是……万一这也是症状之一呢？我得问问英格恩。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't need to tell you where I feel the rockjoint.  I still have trouble sitting down.  It's a good thing I spend all day standing up.</Source>
+      <Dest>我也不需要告诉你我是从哪儿得了关节硬化的。我要坐下来还是挺艰难的。不过好在我得花一整天才能站起来呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh I don't disagree.  Maybe that's a testament to the apothecaries we have in this city, but every time I drink a potion, I can feel it working.</Source>
+      <Dest>哦，我不同意。那可能是这个城市里有药剂师存在的证据。但是每次我喝了药水，我都能感觉到它在起作用。</Dest>
+    </String>
+    <String List="2">
+      <Source>If what Wylandriah says is true, there are about a thousand different diseases you could've brought back with you!</Source>
+      <Dest>如果维兰瑞亚说的是真的的话，你带回来了无数的疾病。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ysmir's beard, the entire city could be infected!  I better tell Maven, I mean, the Jarl.</Source>
+      <Dest>伊斯谟的胡子啊，整座城市都可能被感染！我最好去告诉玛雯，呃，我是说告诉领主。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right to be scared.  I may have recovered from the collywobbles, but that doesn't mean I'm not contagious.</Source>
+      <Dest>你害怕也没关系的。也许我的肚子已经不痛了，但这并不意味着我不会传染别人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you promise?  I'm not sure I believe you.  Wylandriah always says the same.  And the next day she's tracking Divines know what in here again.</Source>
+      <Dest>你能保证吗？我不知道该不该相信你。维兰瑞亚也老这么说。但第二天她照样会追随圣灵去了解这里都有什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>How would you know?  Are we just expected to take Wylandriah at her word?</Source>
+      <Dest>你怎么知道的？我们只希望相信维兰瑞亚的话？</Dest>
+    </String>
+    <String List="2">
+      <Source>Madame Black-Briar, if I may have a word...</Source>
+      <Dest>黑荆棘女士，容我和您说句话……</Dest>
+    </String>
+    <String List="2">
+      <Source>By Stendarr, I need blood!  No, I mean a priest!  Oh Gods, it's already happening!</Source>
+      <Dest>斯丹纳尔在上，我要血！不，我是说我要牧师！哦天哪，已经晚了！</Dest>
+    </String>
+    <String List="2">
+      <Source>B-but I bathe in Lake Honrich twice a day!  Are...are you saying the entire lake is polluted?</Source>
+      <Dest>但……但我一天在亨利奇湖洗两次澡啊！你……你是说整个湖都被污染了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe you're a mage like Wylandriah and you just make all the dirt invisible, and I don't see it right away.</Source>
+      <Dest>或者你可能是一个像维兰瑞亚一样的法师能把所有的脏东西变隐形，至少现在我看不到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Son of a mudcrab, are you joking?  A little dirt never hurt anyone?  Tell that to everyone who died in the Crimson Plague.</Source>
+      <Dest>泥沼蟹养的，你在逗我？稍微有点儿脏不会伤害到任何人？告诉大家都有谁在猩红瘟疫之中死去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>All it takes is one rat in a crowded area to infect an entire city.  One little spore flying up your nose.</Source>
+      <Dest>这事儿所有的成本就是一只穿越闹市传染全城的老鼠。一个飞过你鼻尖的细菌孢子。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Arkay, I feel a tickle in my throat!  What does that mean?  Is it blood lung? The blight?</Source>
+      <Dest>阿尔凯在上，我觉得我的喉咙发痒！这意味着什么？是肺出血？还是枯萎病？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's her crazy experiments.  I can't go near her counter without catching something or other.</Source>
+      <Dest>是她的疯狂实验。我要是走近她的桌子，准保会得点儿什么病的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, and an adventurer, of all things!  You're not diseased, are you?  By the Gods, I just got over that case of ataxia and now this!</Source>
+      <Dest>噢不！有个冒险者，什么都干的那种！你没染什么瘟疫吧？我的老天，好容易躲过了运动失调症现在又遇见这个！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ysmir's beard, you're right.  How could I forget that?  Unless...I'm suffering from short term memory loss.</Source>
+      <Dest>伊斯谟的胡子，你说得对。我怎么会忘记呢？除非......我患有短期记忆丧失。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe I can pocket some leftover cheese as bait, and maybe Ingun will let me borrow some of her poisons.  Please don't tell the Steward. </Source>
+      <Dest>我可能得带点过期的干酪当鱼饵，才好让英格恩借我几瓶毒药用用。别让管家知道啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>A priest, I need a priest!  How many hours is it until midnight?  I-I don't know if I can wait that long!</Source>
+      <Dest>祭祀，我需要一名祭祀！离午夜还有多久？我-我不知道我能不能撑那么久！</Dest>
+    </String>
+    <String List="2">
+      <Source>You...You're a warlock?  Can...can you tell me if what Wylandriah's up to is...in your line of work?</Source>
+      <Dest>你...你是个术士？那...那你能跟我说说维兰瑞亚做的都是啥...用你的行话来说的话是啥来着？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, what do you mean by that?  Were you in a cave?  A Draugr crypt?  A brothel?</Source>
+      <Dest>我的天, 你那是什么意思? 你在一个洞里？一个尸鬼的土窖？一个妓院？</Dest>
+    </String>
+    <String List="2">
+      <Source>What if I have witbane again...what if he keep is infested with rats!  By Julianos, how could I let this happen?</Source>
+      <Dest>要是我又一次患上脑残病可怎么办……要是他还是让那里满是老鼠怎么办！尤里安诺思在上，我怎能容忍这样的事情发生！</Dest>
+    </String>
+    <String List="2">
+      <Source>By Ysmir's beard, that's the scariest sodding thing I've ever heard.</Source>
+      <Dest>伊斯谟的胡子啊，这是我听到过最可怕的鬼故事了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I can't leave, m-my employer will kill me!  You!  You haven't turned yet, have you?  Then maybe...maybe I've got time.</Source>
+      <Dest>但我不能离开，我 我的雇主会杀了我的。你！你还没变对吧？那也许...也许我还有时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey! What do you think you're doing, dragging those muddy boots in here!  This is the Jarl's keep, for Dibella's sake!</Source>
+      <Dest>嘿！你知道你在干嘛么！这是领主的私人领地, 看在迪贝拉的份上！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, I think I'm coming down with a fever.  I think I need to lie down.  Oh no, that's just what a Draugr would do!  What's happening to me!</Source>
+      <Dest>哦，不，我想我感冒发烧了。我想我需要躺下。哦，不，这正是一个尸鬼的发病症状！我身上发生了什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, what if you've already infected me!  My wrists...I-I think I have helljoint, or...or rot-limb!</Source>
+      <Dest>哦，神啊，若你已然将我感染！我的手腕，我觉得我有关节炎了，要不就是出现腐肢了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I feel a bit light headed.  Ticklebritch?  No, can't be.  What if it's Bone Break Fever?  By the Divines, when did I break a bone!?! </Source>
+      <Dest>我……我感觉我稍微有点头疼。 不，不会是这样的。如果是骨折炎呢？圣灵在上啊，当我骨折的时候会这样！？！</Dest>
+    </String>
+    <String List="0">
+      <Source>Trust in the power of the Divines.  They will heal whatever illness you have.</Source>
+      <Dest>相信神的力量吧，不管你被什么样的疾病所缠身，神都会把它治好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Trust in the power of the Divines.  They will heal whatever illness you have.</Source>
+      <Dest>相信神的力量吧，不管你被什么样的疾病所缠身，神都会把它治好。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>我是裂谷的男爵，我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>我是裂谷的男爵，我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>我是裂谷的男爵，我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is it difficult keeping this place clean?</Source>
+      <Dest>保持这儿的干净就那么难吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is it difficult keeping this place clean?</Source>
+      <Dest>保持这儿的干净就那么难吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is it difficult keeping this place clean?</Source>
+      <Dest>保持这儿的干净就那么难吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be rather paranoid about disease.</Source>
+      <Dest>好像你对疾病相当的偏执啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Has anyone offered to help?</Source>
+      <Dest>有人来帮帮忙吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has anyone offered to help?</Source>
+      <Dest>有人来帮帮忙吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has anyone offered to help?</Source>
+      <Dest>有人来帮帮忙吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has anyone offered to help?</Source>
+      <Dest>有人来帮帮忙吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I get it.  I can't stand a mess either.</Source>
+      <Dest>我明白，我也受不了杂乱无章。</Dest>
+    </String>
+    <String List="0">
+      <Source>I get it.  I can't stand a mess either.</Source>
+      <Dest>我明白，我也受不了杂乱无章。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>（撒谎）我乃裂谷领的一名男爵。我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>（撒谎）我乃裂谷领的一名男爵。我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) I am a Thane of the Rift.  I will dirty whatever floor I please.</Source>
+      <Dest>（撒谎）我乃裂谷领的一名男爵。我可以为所欲为。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just keep your distance.  I have dragons to slay and I don't want to get sick.</Source>
+      <Dest>请保持距离。我有龙要杀，可不想受到干扰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just keep your distance.  I have dragons to slay and I don't want to get sick.</Source>
+      <Dest>请保持距离。我有龙要杀，可不想受到干扰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just keep your distance.  I have dragons to slay and I don't want to get sick.</Source>
+      <Dest>请保持距离。我有龙要杀，可不想受到干扰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly how many diseases have you contracted?</Source>
+      <Dest>你究竟染上了多少病啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly how many diseases have you contracted?</Source>
+      <Dest>你究竟染上了多少病啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly how many diseases have you contracted?</Source>
+      <Dest>你究竟染上了多少病啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your name?</Source>
+      <Dest>你叫什么名字？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your name?</Source>
+      <Dest>你叫什么名字？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your name?</Source>
+      <Dest>你叫什么名字？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you here to pray at the shrine?</Source>
+      <Dest>你是来这圣坛祈祷的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you here to pray at the shrine?</Source>
+      <Dest>你是来这圣坛祈祷的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you here to pray at the shrine?</Source>
+      <Dest>你是来这圣坛祈祷的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you here to pray at the shrine?</Source>
+      <Dest>你是来这圣坛祈祷的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragons?  By Akatosh are you...are you the Dragonborn?  It's an honor to meet you.</Source>
+      <Dest>龙？阿卡托什在上，你...你是龙裔？很荣幸见到你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it true what they say?  That you can shout a disease out of your body?  Out of anyone's body?</Source>
+      <Dest>他们说的是真的吗？你能把病痛吼出你的身体？吼出任何人的身体？</Dest>
+    </String>
+    <String List="2">
+      <Source>The court likes to feast, but nobility generally keeps the dining area clean. Thankfully my duties don't extend to the barracks.</Source>
+      <Dest>殿堂就像是一场盛筵，但是贵族们通常倾向于保持用餐区干净整洁。幸好营地不归我管。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wouldn't risk it though, not after what happened to King Torygg.</Source>
+      <Dest>我可不冒这个险，尤其是在至高国王的事之后。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'd be a whole lot easier to avoid if it crawled around on eight legs like a spider, although I'd probably have a lot more nightmares.</Source>
+      <Dest>如果它能像蜘蛛那样用八条腿爬行，那么大概就能很容易地避开了。虽然这样的话我可能会做更多的噩梦。</Dest>
+    </String>
+    <String List="2">
+      <Source>I feel better knowing I'm drinking a potion designed to cure the disease I have.</Source>
+      <Dest>我感觉不错，我喝了这种治愈这种疾病的药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not paranoia. I was bedridden for the last 3 weeks with ataxia. My employer, I-I mean the Jarl, was very angry. There was so much dust.</Source>
+      <Dest>这不是偏执狂。我之前因为失调，有三周抱病在床。陛下他……我——我是说领主他，雷霆大怒。这里居然脏成了那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it the chills or the shakes?  By Arkay, what if it's neither?  What if I can't be cured?</Source>
+      <Dest>是发冷或者哆嗦吗？阿尔凯在上，要是都没发生呢？要是我没救了怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right.  I come here every night to pray for Mara's blessing.  Although I can't be sure it's working.  My forehead feels a little hot.</Source>
+      <Dest>是的。我每天夜里都来这儿祈求玛拉的保佑。虽然不清楚是否真的有用。我的前额感到有点发热。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the brief time I've been maid of Mistveil Keep, I've gotten dampworm and the droops, witbane and witherfoot.</Source>
+      <Dest>我曾在雾隐塔楼打过一段时间的工，我有很多稀有的炼金材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>A-and now with you here, it's back again.  Oh no, what have you done to me?  It's the pox, isn't it!</Source>
+      <Dest>然..然后现在和你一起在这里，它又回来了。哦不，你对我做了什么？这是痘痘，不是吗！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish my faith was as strong as yours.  But the sicker I've gotten, the more I've tried to learn about disease.</Source>
+      <Dest>我希望我可以像你那样坚定信仰。但是我病得越重就越想了解疾病。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, my Thane.</Source>
+      <Dest>你好啊，我的男爵。</Dest>
+    </String>
+    <String List="2">
+      <Source>They'll find a rotting piece of meat and lay their eggs, and come dawn the Keep will be riddled with maggots inching their way across the floor.</Source>
+      <Dest>他们会找一块腐肉，在上面产卵，门之后会发现里面全是在地上缓缓蠕动的蛆虫……</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm Dirassi, the Jarl's maid.  If you want to talk to someone important, try the steward.  I just set the table and sweep the floors.</Source>
+      <Dest>我叫迪菈希，是领主的女仆。如果你想跟某个重要的人谈话，去找管家吧。我只负责擦桌子扫地。</Dest>
+    </String>
+    <String List="2">
+      <Source>U-Unless I've caught the brain rot.  Oh no, what if that's it?  And my hands, now they're shaking!</Source>
+      <Dest>除..除非我得了脑残病。喔不！如果这是真的呢？我的手，它们在颤抖！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've survived this long through perseverance, not paranoia.  I dust the floors and wipe the tables, wash the dishes and change the linens.</Source>
+      <Dest>我能活这么长时间是通过坚持不懈的努力，而不是疑神疑鬼。我拖地板，擦桌子，洗盘子，还换床单。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before that it was the rattles.  I got too close to one of Wylandriah's jars and inhaled some kind of spore.</Source>
+      <Dest>在那格格的响声发出之前，我太过靠近其中一个维兰瑞亚的罐子结果吸入了某种孢子。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rug is a different story.  It's not as easy to spot dust and dirt, and even harder to get out stains.</Source>
+      <Dest>地毯就不一样了，你没法轻易发现灰尘，想要去除污点则会更难。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before I got the rattles it was rockjoint, and before that it was collywobbles.</Source>
+      <Dest>先是腹痛，然后是寒战，最后发现我得了关节硬化症。.。。.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry my Thane I...hold on, I don't recognize you.  You may be able to fool Wylandriah, but my memory actual works.</Source>
+      <Dest>万分抱歉，男爵大人，我......且慢！我怎么没见过你。维兰瑞亚那样的你是能忽悠过去，但老娘我的记性可好着呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, that's part of the problem. That wizard is always forgetting about her experiments.</Source>
+      <Dest>当然，这也是问题的一部分。那个巫师总是忘了她的实验。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told her not to leave her experiments out in the open.  Yesterday I was standing near her enchanting table and felt my a lump in my calf.</Source>
+      <Dest>我早告诉过她别在外面做她的实验。昨天我站在她的附魔台边儿上，就感到我的小腿上肿了一块。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flies on the wall, dust on the floor, everywhere you look there's dirt and grime.  </Source>
+      <Dest>墙上满是苍蝇，地上遍布灰尘。视线所及之处尽是尘土和污垢。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I wish I could afford to go to the apothecary.  They can identify the disease you have by the symptoms, and give you the appropriate cure.</Source>
+      <Dest>所以我才希望有钱去找药剂师帮忙。他们有本事辩证施治，给你合理的治疗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I make sure to clean every nook, cranny, crack and corner of this place, and sometimes it's still not enough.</Source>
+      <Dest>我必须清理每一个暗处，裂痕，缝隙，角落，甚至有时候还不够。</Dest>
+    </String>
+    <String List="2">
+      <Source>I won't sleep in a bed of any kind.  They're a perfect hiding place for a hive of yellow ticks.  </Source>
+      <Dest>我不会睡在任何一张床上。它们对于那一箱子黄色的蜱虫来说倒是不错的藏身之处。</Dest>
+    </String>
+    <String List="2">
+      <Source>It depends. The dust tends to gather around the corners, and that's easy to sweep up.</Source>
+      <Dest>这要看情况。灰尘一般会聚集在角落里，那打扫起来就很方便了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't really know where they come from, but I know how you catch them, and sometimes it's better to wash your hands than pray with them.</Source>
+      <Dest>我不知道疾病是从哪里来的，但我知道人总会得病。而且有时候把你的手多洗几遍比用一双脏手去求神更好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh!  My Thane!  I-I apologize, I didn't recognize you.  I normally have a good memory, I'm not like Wylandriah at all.</Source>
+      <Dest>噢！男爵大人！我——我非常抱歉。我刚才没认出您。我平常记性很好的，我可一点也不像维兰瑞亚。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.  Finally someone who's sympathetic.  But it's not just the messes.  You can't see disease.  You can't touch it.  It's just...there.</Source>
+      <Dest>谢谢你。终于有人施以援手了。无人救助并不仅仅是一个问题。你看不见疾病，也碰不到它。但它……就在那儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't even live here.  Normally, maids sleep in the servants quarters, but I usually stay at the Temple of Mara. </Source>
+      <Dest>我甚至不住在这。一般来说，女仆住在仆役房，但是我一般住在玛拉神庙。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

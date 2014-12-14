@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What you smell is skooma, and it's not in the air, but on your breath.</Source>
+      <Dest>你闻起来有股斯库玛的味道，不在空气中，而是在你嘴里。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>Giving your trust isn't hard. If they break it, you just break them.</Source>
+      <Dest>信任他们并不难。要是他们敢毁约，你就毁了他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just don't see what the big deal is. It's still a lot of steps.</Source>
+      <Dest>我只是没看到那一大笔交易是什么，这仍然有很长的路要走。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just don't see what the big deal is. It's still a lot of steps.</Source>
+      <Dest>我只是没看到那一大笔交易是什么，这仍然有很长的路要走。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just don't see what the big deal is. It's still a lot of steps.</Source>
+      <Dest>我只是没看到那一大笔交易是什么，这仍然有很长的路要走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright, you've convinced me. I'll count them.</Source>
+      <Dest>好吧，你说服了我。我会料理好他们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't smell anything.</Source>
+      <Dest>我没嗅出什么味儿来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't smell anything.</Source>
+      <Dest>我没嗅出什么味儿来。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are only 1,284 steps.</Source>
+      <Dest>只有1,284步。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are only 1,284 steps.</Source>
+      <Dest>只有1,284步。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look lost in thought. Can I help you?</Source>
+      <Dest>你在沉思什麼呢？我能帮助你吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Many of the steps have been worn down. I can't get an accurate count.</Source>
+      <Dest>很多台阶都被踩烂了，我很难给你一个确切的数字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many of the steps have been worn down. I can't get an accurate count.</Source>
+      <Dest>很多台阶都被踩烂了，我很难给你一个确切的数字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many of the steps have been worn down. I can't get an accurate count.</Source>
+      <Dest>很多台阶都被踩烂了，我很难给你一个确切的数字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many of the steps have been worn down. I can't get an accurate count.</Source>
+      <Dest>很多台阶都被踩烂了，我很难给你一个确切的数字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many of the steps have been worn down. I can't get an accurate count.</Source>
+      <Dest>很多台阶都被踩烂了，我很难给你一个确切的数字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I have news on the seven thousand steps.</Source>
+      <Dest>关于那七千级台阶有些新闻喔。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's terrible.  I'm sorry for your loss.</Source>
+      <Dest>太糟糕了，我为您的损失感到遗憾。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's terrible.  I'm sorry for your loss.</Source>
+      <Dest>太糟糕了，我为您的损失感到遗憾。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, that's just Miss Temba.  She has her own special musk.  Best to ignore it.</Source>
+      <Dest>哈，那就是大名鼎鼎的谭芭小姐。只是，请别介意她身上那股独特的气味，至少在她面前，无视掉那气味。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's on your mind?</Source>
+      <Dest>你想谈什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of Ivarstead?</Source>
+      <Dest>你觉得紫杉镇怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other conspiracies you've unraveled?</Source>
+      <Dest>你还揭开其他的一些阴谋了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other conspiracies you've unraveled?</Source>
+      <Dest>你还揭开其他的一些阴谋了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>There are 7000 steps.</Source>
+      <Dest>那里有7000级台阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are 7000 steps.</Source>
+      <Dest>那里有7000级台阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are 7000 steps.</Source>
+      <Dest>那里有7000级台阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are 7000 steps.</Source>
+      <Dest>那里有7000级台阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are roughly over 700 steps, but many are damaged.</Source>
+      <Dest>大概有超过700阶台阶，但有些已经损坏了。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are only 947 steps.</Source>
+      <Dest>那里只有947阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are only 947 steps.</Source>
+      <Dest>那里只有947阶。</Dest>
+    </String>
+    <String List="0">
+      <Source>That number seems awfully arbitrary.</Source>
+      <Dest>那数字似乎是随便说说的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That number seems awfully arbitrary.</Source>
+      <Dest>那数字似乎是随便说说的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've been betrayed before.</Source>
+      <Dest>你曾被出卖过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've been betrayed before.</Source>
+      <Dest>你曾被出卖过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've been betrayed before.</Source>
+      <Dest>你曾被出卖过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've been betrayed before.</Source>
+      <Dest>你曾被出卖过。</Dest>
+    </String>
+    <String List="0">
+      <Source>You've been betrayed before.</Source>
+      <Dest>你曾被出卖过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm still not following you.</Source>
+      <Dest>我还是不太明白。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm still not following you.</Source>
+      <Dest>我还是不太明白。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm still not following you.</Source>
+      <Dest>我还是不太明白。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ten or twenty steps?  What a scandal!</Source>
+      <Dest>10或20阶？根本胡扯！</Dest>
+    </String>
+    <String List="0">
+      <Source>Any thoughts on the townsfolk?</Source>
+      <Dest>你对这里的村民有什么感想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, that's Wilhelm. We've all complained about that. Too bad he owns the place.</Source>
+      <Dest>喔，那是威尔海姆。我们大家都为此抱怨。他拥有那地方真是太糟了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're out of your mind if you think I'm going to count the steps for you.</Source>
+      <Dest>如果你觉得我会帮你数台阶，那你想多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're out of your mind if you think I'm going to count the steps for you.</Source>
+      <Dest>如果你觉得我会帮你数台阶，那你想多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll count the steps, but it will cost you.</Source>
+      <Dest>台阶我帮你数，只要你肯给钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even from his view near the bridge, he can see that time has washed away much of the stone.</Source>
+      <Dest>即使从桥那边看过去，也可以看到许多石阶被溪流给冲垮了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have found it difficult to believe, based on my calculations, that there can be any more than 6,972 steps.  </Source>
+      <Dest>我知道难以置信，但根据我的计算，它大概有超过6972阶。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Success) Truly? Dar'Rakki is pleased to learn there are still those who are willing to honor their words.</Source>
+      <Dest>（成功）真的？这世界上还是有愿意说真话的人的啊，达瑞奇真是太高兴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many strange aromas in this town, but that is not what Dar'Rakki speaks of.  It is High Hrothgar, and the conspiracy of 7000 steps.</Source>
+      <Dest>在这个小镇里充满着很多奇怪的气味，但这并不是达瑞奇要说的。他要说的是高吼峰那传来的，那7000阶的阴谋气味。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you must! Dar'Rakki is not strong enough to fight off the trolls and bears and sabrecats on the path.  </Source>
+      <Dest>但是你必须这样做！达瑞奇没有强大到足以对抗路上那些巨魔、熊和剑齿虎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Adanja had promised Dar'Rakki that she would never leave his side.  She vowed that she would never leave him alone in this cold, terrible place.</Source>
+      <Dest>阿达尼亚答应过达瑞奇她永远也不会离开他，她发誓她永远不会将他独自一人留在这个寒冷的，可怕的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki talks of the steps to High Hrothgar.  Many travelers come to walk the pilgrimage of 7000 steps. Yet Dar'Rakki finds that number peculiar.</Source>
+      <Dest>达瑞奇说的是通往高吼峰的那些台阶。许多旅行者为了前来朝圣而登上那7000台阶。然而，达瑞奇却觉得这组数字很奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Adanja had heard Khajiit caravans were thriving here.  She begged Dar'Rakki to come with her.  It will be an adventure, she said.</Source>
+      <Dest>阿达尼亚听说虎人商队的人在这里过得欣欣向荣。于是她邀请达瑞奇和她一起来，并说这将会是一场有趣的冒险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki has told you too much.  He does not like feeling exposed in this way. He will find someone else to work with him.  Goodbye.</Source>
+      <Dest>达瑞奇已经告诉你太多了，他不太喜欢什么事情都被别人知道。他会找其他人和他合作，再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only way to blow the sand off this conspiracy is to count the steps one by one.</Source>
+      <Dest>揭开这个阴谋的面纱的唯一方法是一个一个台阶去数。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki is not strong like you.  The wound of the last betrayal still festers in his heart.  The next will surely kill him.</Source>
+      <Dest>达瑞奇不像你那么厉害。在他的心脏上仍然留着上次被背叛时的疤痕。如果再有下一次，那一定会杀死他的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki does not think you counted the steps.  Dar'Rakki thinks  you are trying to fill his head with doubt.  Be gone!</Source>
+      <Dest>达瑞奇不认为你有去数台阶。达瑞奇认为你只是想要随便敷衍他。滚吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failed) I do not believe you.  You are the one who comes to cavort with the Greybeards, are you not?</Source>
+      <Dest>（失败）我不相信你。你其实是跟灰胡子串通好的，是不是？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>She pushed Dar'Rakki into the trees and threw herself at the bandits.  Dar'Rakki saw...he saw her die.  All he could do...all he did, was run.  </Source>
+      <Dest>她把达瑞奇推入去树林内，然后独自冲向那群盗贼。达瑞奇看到了...他看到了她的死亡。他所能做的...他所做的，就只是逃跑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lies and secrets are fine for tavern wenches, but the Greybeards are said to be paragons of virtue.  </Source>
+      <Dest>谎言和秘密从酒馆女侍的嘴里出来倒是可以接受，但灰胡子可是被说成道德的模范啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you adventurer.  Perhaps it is time Dar'Rakki took some things on faith.</Source>
+      <Dest>谢谢冒险者。也许现在达瑞奇可以重拾一些人与人之间的信任了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seven...hundred?  By the Divines...Dar'Rakki might have forgiven a few steps but...such a betrayal cannot be pardoned.</Source>
+      <Dest>7..700？圣灵在上啊...达瑞奇可以原谅只差几阶台阶...但无法原谅这么夸张的谎言与背叛。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are simply unwilling to help Dar'Rakki.  Be gone!  He has no use for those who are not dedicated to the truth.</Source>
+      <Dest>你只是不愿帮助达瑞奇。滚吧！达瑞奇不喜欢那些说假话的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>你在想什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki smells sarcasm on this one.  It smells as bad as Nord mead tastes.  </Source>
+      <Dest>达瑞奇在刚才的话里嗅到讽刺的气味，就像诺德人做的蜂蜜酒一样难闻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki suspects they were put there on purpose to interrupt those who wish to count the steps.  </Source>
+      <Dest>达瑞奇认为那些凶恶野兽出现在路上是为了妨碍那些想去数台阶数目的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Success) You...you may be right.  Dar'Rakki had suspected as much.</Source>
+      <Dest>你......你可能是对的。达瑞奇想太多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the best of us can be corrupted, than there is no hope for Dar'Rakki to ever trust anyone.  </Source>
+      <Dest>如果再这样下去，那达瑞奇再也没有办法去相信任何人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki has heard that the thu'um is the language of dragons. What if the shout heard from High Hrothgar was not made by man?</Source>
+      <Dest>达瑞奇听说龙吼是龙语。但假如从高吼峰传出的吼声并非出自一个人而是龙呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many rumors here in Ivarstead of ghosts and haunted barrows.  Dar'Rakki wonders what is the real danger, the spirits or the gossip.</Source>
+      <Dest>在紫杉镇这里有很多流言，幽灵啊，闹鬼的古墓啊。但达瑞奇觉得那并不是最危险的，是那些鬼危险呢还是那些爱说三道四的人危险呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you, adventurer.  Perhaps Dar'Rakki will leave this place, now that his soul is at peace.</Source>
+      <Dest>谢谢你，冒险者。达瑞奇也许会离开这个地方，现在他的内心充满了平和。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ivarstead is a very tranquil village.  In his obsession, Dar'Rakki had not noticed its simple beauty.</Source>
+      <Dest>紫杉镇是个平静的小村庄。达瑞奇为此痴迷，却从没注意过它质朴的美。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  This is...this is most fortuitous.  I had almost given up all hope.  But do not rush.  Take your time, and return when you have an answer.</Source>
+      <Dest>真的吗？这...这真是太幸运了。我几乎到要放弃了。但是慢慢来我不急，你回来再告诉我答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am beginning to suspect this conspiracy goes much deeper than I imagined.</Source>
+      <Dest>我开始怀疑这个阴谋比我想像的还要大许多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then hold your nose and open your eyes. Where one sense fails, the other may see the truth.</Source>
+      <Dest>那你捏住鼻子，睁大你的眼睛。当失去一种感官，其他感官可能会帮你把真相看得更透彻。</Dest>
+    </String>
+    <String List="2">
+      <Source>To some, an unconfirmed lie is the same as the truth, but Dar'Rakki is not the kind to agree to something simply on faith.  </Source>
+      <Dest>对某些人而言，一个未经证实的谎言听起来就是真相，可达瑞奇不是那种听风就是雨的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bah!  Dar'Rakki does not deal with mercenaries.  He cannot trust them to count the steps.  Be gone!</Source>
+      <Dest>呸！达瑞奇才不会花钱雇用人。他才不会相信那些人是不是真的有去数。快走吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>The smelly bartender is a problem, but not our most pressing need. Dar'Rakki speaks of High Hrothgar, and the conspiracy of 7000 steps.</Source>
+      <Dest>那个臭气冲天的调酒师是个麻烦，但并不是我们最迫切要去解决的。达瑞奇说的是高吼峰，还有那7000台阶的阴谋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bah!  You make Dar'Rakki lose count!  You must not interrupt him when he walks the steps in his mind.  </Source>
+      <Dest>喂！你害达瑞奇数乱了！你可不能在他在脑海中数台阶时打断他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, perhaps you can. There is something foul afoot, friend. Dar'Rakki can smell the stench of betrayal in the air.</Source>
+      <Dest>是的，也许你可以。我发现这里有诡异的阴谋，朋友。达瑞奇可是可以闻出不信任的背叛臭味。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki does not think you counted the steps.  Dar'Rakki thinks you are trying to fill his head with doubt.  Be gone!</Source>
+      <Dest>达瑞奇不认为你有去数台阶。达瑞奇认为你只是想要随便敷衍我。滚吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a matter of integrity.  If they are lying about the steps, who knows what else they are hiding.  </Source>
+      <Dest>这是一个关于诚信的问题。如果他们在台阶的事情上撒了个谎，天知道他们还隐瞒了些什么事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki can smell something peculiar...it smells of lies.  </Source>
+      <Dest>达瑞奇可以闻到一些奇怪的...谎言气味。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki can smell something peculiar...it smells of lies.  </Source>
+      <Dest>达瑞奇可以闻到一些奇怪的...谎言气味。</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive me.  Dar'Rakki does not like to revisit the past.   His only concern now is that his trust is not betrayed again.  </Source>
+      <Dest>请原谅我。达瑞奇不喜欢重温旧梦。他现在唯一担心的，是他的信任会不会被再次背叛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a good place to hide one's identity, no?  Ivarstead attracts those who cling to lofty ideals.  They never suspect our faces are two.  </Source>
+      <Dest>这是一个隐藏自己的身份的好地方，对吧？紫杉镇吸引了那些坚持崇高理想的人，他们甚至从没有怀疑过我们有另一个身份。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failed) That may be, but even a worn down step is still a step, or an empty space that can be included in the count.  </Source>
+      <Dest>（失败）这有可能，但冲垮的台阶仍然是一个台阶，或者是中空的台阶也可以算在其中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki is wondering if the Greybeards even exist.  No one has ever seen them. Not even Klimmek.  Perhaps his packages are taken by the rats.  </Source>
+      <Dest>达瑞奇在想灰胡子甚至可能是虚构的。从来没有人见过他们，甚至连科林麦也没见过。也许他的补给品只是被老鼠拿走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki sometimes still looks at the steps.  Not with bafflement, but with wonder.</Source>
+      <Dest>达瑞奇有时候仍然盯着台阶看。不是因为困惑，而是因为惊叹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki told himself he could not forgive Adanja, when he truly could not forgive himself.</Source>
+      <Dest>达瑞奇告诉自己，不能忘记阿达尼亚, 就像他不能忘记自己一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you not find it odd that the number is so round?  Was the path altered to match the myth?  Are the steps not all the same size?</Source>
+      <Dest>难道你不觉得那个数字这么凑整是件很奇怪的事情吗？那条路为了吻合神话而改建的吗？那些台阶的大小不全是相同的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It may be a clever trap, set by the world eater himself.  The Dragonborn would do well to keep this in mind.  </Source>
+      <Dest>它可能是一个巧妙的陷阱，由世界吞噬者奥杜因亲自设计。龙裔你最好将这一点好好牢记着。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nord who spends his time at the inn is very friendly.  Perhaps he will join us for a drink.</Source>
+      <Dest>那些在小酒馆里花费时间的诺德人都挺友好的。也许他们愿意跟我们一起喝一杯。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is true.  Dar'Rakki did not come to Skyrim alone. His childhood friend, Adanja, was by his side.</Source>
+      <Dest>没错。达瑞奇并不是独自来到天际。他是和他的童年好友阿达尼亚一起来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Exactly! A much more believable number!  Still, it is just a ceiling.  Dar'Rakki believes the actual number maybe ten or twenty steps lower.</Source>
+      <Dest>没错！应该要有一个更可信的数字！现在好像只是想凑个整数而已。达瑞奇认为实际数目应该是比这少10或20。</Dest>
+    </String>
+    <String List="2">
+      <Source>We had come through the gate to the south from Cyrodiil. We followed the road north when we were ambushed by bandits near Fort Neugrad.</Source>
+      <Dest>我们通过了赛瑞迪尔的南门后，就沿着路向北走，然后就在新邑堡垒附近被盗贼袭击。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dar'Rakki smells curiosity on this one.</Source>
+      <Dest>达瑞奇在上面好奇地闻了闻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

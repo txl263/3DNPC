@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Why are you rhyming your verse now?  You weren't rhyming before.</Source>
+      <Dest>你怎么现在突然修起你诗歌的韵调来了？你以前从来不干这事的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd rather not listen to your awful poetry, thank you.</Source>
+      <Dest>我宁愿不听你的烂歌，谢谢。</Dest>
+    </String>
+    <String List="0">
+      <Source>It better be a poem worthy of my stature.</Source>
+      <Dest>最好是一首为我量身定做的诗。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you had some sort of plan.</Source>
+      <Dest>我认为你有某种计划。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was wonderful.  Truly a breathtaking verse.</Source>
+      <Dest>很精彩，真的是令人惊叹的诗句。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where do you feed?  The other students have reported no incidents.</Source>
+      <Dest>你在哪儿吃？其他学生报告说没有事故发生。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm going to regret saying this, but fine.  Recite your poem.</Source>
+      <Dest>我会后悔说过这句话的，不过算了，唱你的诗吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>An aspiring bard.   Keep at it, boy, you'll get there soon enough.</Source>
+      <Dest>一个有理想的诗人。坚持下去，孩子，你的理想不用很久就能实现。</Dest>
+    </String>
+    <String List="0">
+      <Source>Skjarn said you joined the Silver Hand to hunt him.</Source>
+      <Dest>Skjarn说你加入了Silver Hand来狩猎他。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's funny, because he thought you were a vampire.</Source>
+      <Dest>太滑稽了，因为他还以为你是个吸血鬼呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, I suppose it's better than nothing.  Not better than gold, however.</Source>
+      <Dest>好吧，有总比没有好。虽然有金币就更好了。</Dest>
+    </String>
+    <String List="0">
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0">
+      <Source>Three lines? Why three? I thought most stanzas came in quatrains.</Source>
+      <Dest>三行？为啥是三行？我以为大部分的诗都是绝句。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would be honored to hear your words.</Source>
+      <Dest>很荣幸能听你说话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not just kill him?</Source>
+      <Dest>为什么不直接宰了他？</Dest>
+    </String>
+    <String List="0">
+      <Source>An original ballad.</Source>
+      <Dest>一首民谣。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's too bad. Some of the bards here look tasty.</Source>
+      <Dest>这太不好了。有几个吟游诗人看起来很好吃。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the cause of this rift between you and the Nord?</Source>
+      <Dest>你们跟诺德是因为什么而决裂的？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right. Maybe it's the status, but Jarls do look plump and delicious.</Source>
+      <Dest>你说的对。或许情况就是这样，但 Jarls 看起来真的很鲜肥美味。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mean Fironet? Perhaps I might have a bite.</Source>
+      <Dest>你是说 Fironet? 也许我该来一口。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did he manage to use it?</Source>
+      <Dest>他是怎样成功使用它的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can the night be a handsome gentleman?  I prefer those.</Source>
+      <Dest>晚上能变成一个英俊的绅士吗？我更喜欢那样？</Dest>
+    </String>
+    <String List="0">
+      <Source>That poem was personal.  I bet you live in a cave, you homeless beggar.</Source>
+      <Dest>这是我的诗。  我敢打赌你住在山洞里, 你这无家可归的乞丐.</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a cozy place. Recite your poem.</Source>
+      <Dest>听上去是个舒服的地方。朗诵你的诗歌吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you take requests?</Source>
+      <Dest>你需要吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will you deliver your poem to him?</Source>
+      <Dest>你要怎么把诗歌送到他手上？</Dest>
+    </String>
+    <String List="0">
+      <Source>If that's the case, your poetry won't mean anything to him.</Source>
+      <Dest>如果是那种情况的话，你的诗歌对他来说将没有任何意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the bare knuckle brawl.</Source>
+      <Dest>给我讲讲徒手搏击。</Dest>
+    </String>
+    <String List="0">
+      <Source>Caves don't have windows. That's stupid.</Source>
+      <Dest>洞穴里连窗户都没有，太傻了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That poem was personal.  I think you're a vampire.  Takes one to know one.</Source>
+      <Dest>那首诗是我个人的。  我认为你是个吸血鬼，我们是同胞。</Dest>
+    </String>
+    <String List="0">
+      <Source>Speaking of the undead, your eyes...</Source>
+      <Dest>说起不死生物，你的眼睛……</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you tell me about your duels?</Source>
+      <Dest>你能告诉我关于你决斗的事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Just recite the damn poem already.</Source>
+      <Dest>刚刚已经朗诵了那首该死的诗。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn Comes.</Source>
+      <Dest>龙裔降临。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it's quite alright.  Save your words.</Source>
+      <Dest>不，真的没事。别费口舌了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure it will be everything you say it is.</Source>
+      <Dest>我确定你百分百是对的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who is this Redguard you speak of?</Source>
+      <Dest>你提到的这个红卫是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps another time.</Source>
+      <Dest>下次再说吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What were the rules?</Source>
+      <Dest>有什么规矩?</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain silent.)</Source>
+      <Dest>(保持沉默.)</Dest>
+    </String>
+    <String List="0">
+      <Source>What's this Nord's name?</Source>
+      <Dest>这个诺德人叫什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I killed Skjarn specifically so the world would not have to hear your poetry.</Source>
+      <Dest>我杀了夏尔就是为了让天下人不用再听你吟诗了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the poem coming along?</Source>
+      <Dest>这诗写得如何了？</Dest>
+    </String>
+    <String List="0">
+      <Source>If he was a werewolf, you might consider joining the Silver Hand.</Source>
+      <Dest>如果他是只狼人，那你应该考虑加入银手。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you choose?</Source>
+      <Dest>你选择什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon's Tongue doesn't grow inside caves.</Source>
+      <Dest>龙舍草不生长在洞穴里。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have a lot of animosity considering you don't even know how this started.</Source>
+      <Dest>你对之恨之入骨，却不知这份仇恨是因何而起。</Dest>
+    </String>
+    <String List="0">
+      <Source>You think he's a werewolf.  Maybe he thinks you're a vampire.</Source>
+      <Dest>你认为他是狼人？也许他还觉得你是吸血鬼呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you don't feed on students?</Source>
+      <Dest>所以你不以教导学生为生？</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnar the Red.</Source>
+      <Dest>红衣拉格纳。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is your servant now?</Source>
+      <Dest>你的仆人现在在哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>What Nord?</Source>
+      <Dest>什么诺德人？</Dest>
+    </String>
+    <String List="0">
+      <Source>Skjarn's dead. Your feud is done.</Source>
+      <Dest>史卡盎死了，你们的恩怨了结了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you studied at the college?</Source>
+      <Dest>你在学院学了多久了？</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to be in good spirits.</Source>
+      <Dest>你看起来神采飞扬啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>The "Age of Aggression."</Source>
+      <Dest>這是"大肆侵略的時代"</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is this Nord's name Skjarn by chance?</Source>
+      <Dest>这个诺德人的名字是不是正好叫史卡盎？</Dest>
+    </String>
+    <String List="0">
+      <Source>When I'm through, there won't be a maiden in the house.</Source>
+      <Dest>当我经过的时候，房间里没有一个妹子。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you get into this college?  Did you sleep with Viarmo?</Source>
+      <Dest>你是怎么进这学院的？跟院长睡过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>It just keeps getting better and better.  A true masterpiece.</Source>
+      <Dest>始终都在不断改进，无愧为真正的大师作品。</Dest>
+    </String>
+    <String List="0">
+      <Source>Top what?  What are you working on?</Source>
+      <Dest>为什么在上面？你在干什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm interested in the wine duel.</Source>
+      <Dest>我对斗酒挺有兴趣的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know the place. Proceed.</Source>
+      <Dest>我认识这个地方，继续前进！</Dest>
+    </String>
+    <String List="0">
+      <Source>I would be honored to hear this poem.</Source>
+      <Dest>聆听这首诗歌将是我的荣幸！</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with Skjarn? Amalee and I left, but did you win the duel?</Source>
+      <Dest>史卡盎出了什么事？当时艾玛莉跟着我走了，你的决斗赢了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if I were a werewolf?</Source>
+      <Dest>要是我也是狼人呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now that your nemesis is dead?</Source>
+      <Dest>现在你的宿敌已经死了，你有什么打算？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sybille Stentor holds a prominent position as Court Wizard.</Source>
+      <Dest>希比利·斯丹特担任了宫廷巫师这个重要的职务。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough about your quarrel.</Source>
+      <Dest>你吵够了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will a poetry duel be any different?</Source>
+      <Dest>一个诗歌决斗会有什么不同呢？</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.  We can flip a coin to see who goes first, but I am feeling generous.  </Source>
+      <Dest>好.  我们可以丢硬币看谁先来, 但我很大度.  </Dest>
+    </String>
+    <String List="2">
+      <Source>I...I confess I haven't thought about it.  But I was a gentleman far before I ever was a duelist.  So I imagine there are other worlds to conquer.</Source>
+      <Dest>我...坦诚地说我没想过这个. 但我是个斗士之前首先是个绅士.  所以我想还有另一个世界等我征服.</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>【歌词待校对】发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you no doubt recall, the poem begins with: The cave is the heart where the dragon tongue sings, and the torchbug pens poetry upon a naked leaf.</Source>
+      <Dest>如果你的记忆无误的话，那首诗歌是这样开头的：洞穴中飘来龙语的吟唱，火虫在孤叶上写下诗章。</Dest>
+    </String>
+    <String List="2">
+      <Source>My nemesis may be dead, but he will hear it from the depths of whatever latrine Shor has deemed fit for Nords who died as cheating scoundrels.</Source>
+      <Dest>我的敌人也许已经死了, 但他仍然會在朔爾認為爛人死後該去的骯髒地方聽到我的詩歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, you know as well as I that our kind cannot afford to create suspicion.  It's a great shame to be forced to feed on beggars and travelers.</Source>
+      <Dest>呃，你知道我们这种情况决不能引起任何怀疑。有时不得不在乞丐和路人那里吸血真是丢死人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>【歌词待校对】可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>There isn't enough gold in the coffers of the Blue Palace to thank you for delivering the news.  That slobbering atronach haunts this world no more.</Source>
+      <Dest>蓝宫金库里所有的钱都不够用来感谢你为我们做的事情。那些垂涎三尺怪物再也不会在这个世界上自由自在的乱逛了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but my verse will worm its way into his mind like a poison, gnawing away at the tips until it burrows a hole to the heart of madness.</Source>
+      <Dest>仇视？当然，我仇视所有胆敢玷污我的荣耀的人，哪怕是个小丑，我也会狠狠地责备他。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Only to him, they weren't caves.  They were grand theaters.  Sounds echoed off the rock.  Wind serenaded us through the open slats in the roof. </Source>
+      <Dest>可对于他而言，那些都不是洞穴。而是大剧院。声音回荡在石壁之间。风在穿过屋顶岩缝时为我们唱歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could see the flies milling about in and around his head.  What was this scoundrel thinking?  </Source>
+      <Dest>我可以看到成群的苍蝇绕着他的头嗡嗡乱转。这个恶棍是怎么想的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't wait to see the look on that stupid Nord's face when my very words rise from the page and become the sun.</Source>
+      <Dest>当我的文字在书页上熠熠生辉时，我都有些迫不及待的想看看那个愚蠢的诺德人的脸了。</Dest>
+    </String>
+    <String List="2">
+      <Source>We should be carried around in gilded palanquins, while the common folk shout our names and reveal their necks, begging that we stop for a taste.</Source>
+      <Dest>我们应该被装在镀金的轿子里被带着走，那些乡民们总是伸长了脖子叫着我们的名字，求我们停下来让他们尝尝贵族肉的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then, like a frenzied troll, the fiend smashed the bottle on the table and swung the dagger of broken glass at my neck.</Source>
+      <Dest>接着，就像一个暴怒的巨人一样，那个魔鬼把桌上的所有瓶子都摔了个粉碎，拿起尖锐的碎玻璃向我的脖子划过来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the ugliest, despicable, talentless man in all of Skyrim!  Now he thinks to become a bard?  I'll become thrice the bard he ever dreamt of being!</Source>
+      <Dest>这货是全天际最丑最讨厌最没本事的人！他还想做什么吟游诗人？他做梦都想象不到的程度我一个都能顶他仨！</Dest>
+    </String>
+    <String List="2">
+      <Source>An excellent request.  This one is for the Dragonborn, a true gentleman for the ages.</Source>
+      <Dest>一个很好的要求。这个人是龙裔, 在这个时代中的一位真正的绅士。</Dest>
+    </String>
+    <String List="2">
+      <Source>But enough with the foreplay! Everyone knows a real bard is measured by their musical ability, and I am a dual threat who can play the lute as well!</Source>
+      <Dest>但足够的前奏也是重要的！每个人都知道衡量一个真正的吟遊诗人的标准是他们的音乐能力, 而且我是个还能弹鲁特琴的双重威胁。</Dest>
+    </String>
+    <String List="2">
+      <Source>The scoundrel stuck the blade between his fingers, and every jab was a slash.  I had outpunched him tenfold, but I was the worse for wear.</Source>
+      <Dest>这恶棍把刀片卡在他手指之间，每次猛击都是一道砍痕。我虽已十倍拳头奉还，但我的情况更加糟糕。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  I'll toast you and sing your praise, a gentleman to a lady.  The night is still a maiden yet!</Source>
+      <Dest>但是今晚真是是值得庆祝！我敬你一杯，并祝福你，歌颂你。今夜如少女般美丽！</Dest>
+    </String>
+    <String List="2">
+      <Source>As a gentleman I have fought him according to the rules of fair play, and never once thought to sink to his level.</Source>
+      <Dest>作为一个绅士我根据公平竞争的原则和他战斗，从没把自己拉低到和他一个档次上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, there you are!  Sit down, have some spiced wine, the night is still a maiden yet!</Source>
+      <Dest>啊，你在那！ 坐下，喝一些调味酒，今晚就像处女一样美好啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, while the Silver Hand provided me with valuable leads, they wouldn't agree to allowing me to duel the fiend myself.</Source>
+      <Dest>不幸的是，虽然银手给我提供了宝贵的线索，但是他们不会同意让我自己对付恶魔。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wish to make great art, then you must cling to my coattails, and clutch at the leftovers I toss away.</Source>
+      <Dest>如果你想做好这个伟大的艺术品，那你可得抱好我的大腿，好好把握我施舍给你的丁点儿残渣吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>A fine request.  A legend we scholars know all too well.</Source>
+      <Dest>一个很好的请求。【我们这些学者都很清楚的知道这是个传奇。】</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  Join me at the Skeever for a drink!  I will toast you and sing your praise, a gentleman to a lady.</Source>
+      <Dest>但今晚是一个值得庆贺的一晚！和我在眨眼雪鼠里喝上一杯！我会给你敬酒并对你大唱赞歌，正如一个绅士对女士所做的那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would've continued, but my servant, who doubled as my squire, stepped in and called the match a draw.</Source>
+      <Dest>我本来还想继续，可我的仆人，也是我的护卫，走进来说比赛结果算平局。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, Viarmo is a dashing Elf, and it is only because I am a man of impeccable taste that I am able to recognize him as such.</Source>
+      <Dest>是的，Viarmo 是个急性子精灵。那只是因为我拥有足够完美的味觉来用这种方式辨认出他来。</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll duel soon enough! So long as the moons still circle the sky, I will send him to whatever mead hall the Nords reserve for cowards!</Source>
+      <Dest>我们很快就会决斗了！只要月亮还呆在天上。我就会把他送到哪个诺德人为懦夫准备的蜜酒馆里！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, better to focus on my poem about the Nord, as it is quickly expanding into an epic.</Source>
+      <Dest>是的，最好关注下我那关于诺德的诗歌，因为它正迅速扩展为一部史诗。</Dest>
+    </String>
+    <String List="2">
+      <Source>She may have composed the tune, but her voice doesn't do it justice.  Allow me to realize its full potential.</Source>
+      <Dest>她已经组成调子了，但她的声音还不够工整。让我来发挥它的全部潜力。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is not a cave left in Haafinger that the court wizard has not turned her eye upon.</Source>
+      <Dest>要是海芬加领一个山洞都没留下的话，那个宫廷巫师就没有能转移注意的东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So if you don't wish to hear it, fine. Its genius would be lost on you anyway.</Source>
+      <Dest>所以如果你不情愿听到这些，很好。这天赋将会离你而去。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew that!  It's poetic license.  What other plant has the word "tongue" in it!  It's not as if most people would even know that.</Source>
+      <Dest>我懂的！ 这是诗意的描述。还有什么植物会用到“舌头”这个词啊！甚至大多数人连想都没想过。</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll drive out the Stormcloaks and restore what we own. With our blood and our steel we will take back our home.</Source>
+      <Dest>【歌词待校对】我们将驱逐风暴斗篷并恢复我们拥有的一切。用我们的鲜血和武器夺回家园。</Dest>
+    </String>
+    <String List="2">
+      <Source>And my nemesis will hear it from the depths of whatever latrine Shor has deemed fit for Nords who died as treacherous fiends.</Source>
+      <Dest>而我的死敌也会从 Shor 认为该把那些十恶不赦的死鬼般的诺德人塞进去的茅坑深处听见它。</Dest>
+    </String>
+    <String List="2">
+      <Source>The smell he emits is unlike any other.  It's as if all the world's mildew collected in a single boot, and was left to ferment in a dragon's anus.</Source>
+      <Dest>他散发的臭味儿太过特别了。就像把世界上所有的霉菌收集在一个单身汉的靴子里，然后把它们塞进龙的肛门发酵一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>We drink to our youth, and to days come and gone. For the Age of Aggression is now nearly done.</Source>
+      <Dest>【歌词待校对】为青春干杯，为那些逝去的和将来的日子干杯。因为好战的年代已经结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>.</Source>
+      <Dest>。</Dest>
+    </String>
+    <String List="2">
+      <Source>With this poem, I have at last set myself on the stairway to perfection!   Just three more lines, three measly steps.</Source>
+      <Dest>带着这诗，我已通向完美的阶梯之上！只需要三行，少得可怜的三行。</Dest>
+    </String>
+    <String List="2">
+      <Source>With a Voice wielding power of the ancient Nord art;  Believe, believe the Dragornborn comes;</Source>
+      <Dest>【歌词待校对】诺德技艺，龙吼回归。没错，没错，他是龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>For a hero does walk the land, walk the land, walk the land, a hero does walk the land, and the dragons will flee.</Source>
+      <Dest>当一个英雄在路上，在路上，在路上，一个英雄在路上，龙就逃跑咯。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shut up, Nord! I'd like to see you do better!</Source>
+      <Dest>闭嘴，诺德人！我希望你能做的更好!</Dest>
+    </String>
+    <String List="2">
+      <Source>But this land is ours and we'll see it wiped clean. Of the scourge that has sullied our hopes and our dreams.</Source>
+      <Dest>【歌词待校对】这片大地是我们的，洁白而干净。任何灾难只会加强我们的信念跟梦想！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nord!! What's he doing here? The poem, it isn't ready!</Source>
+      <Dest>这个诺德人，他在这里干什么！这首诗还没准备好呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet with every duel he has bribed, cheated, lied, and stolen to ensure his survival.  Now he simply opts to flee.</Source>
+      <Dest>每场决斗他都在靠贿赂，作弊，说谎，偷窃这些来确保自己的生存。现在他无非选择了逃离罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A student? I'm offended you think anyone would be considered my peer, let alone my superior.</Source>
+      <Dest>一个学生？真让我生气你竟然以为谁都能跟我平起平坐，除了我的长辈。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need saviors to free us from Alduin's rage; Heroes on the field of this new war to wage;</Source>
+      <Dest>【歌词待校对】我们需要救世主将我们从奥杜因的愤怒中解放。这片大地上的英雄们要踏入新的战场上。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a drinking duel. We spread 21 bottles on a table, and took 10 each at random. The only bottle left was a cure disease potion.</Source>
+      <Dest>这是一个拼酒的决斗。我们把21个瓶子放在桌子上，在10个瓶子里随机装了些液体。只有一个瓶子里装的是除病药剂。 </Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【歌词待校对】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew you would.  You and I are both of cultured, civilized people, who value the arts as much as we value the sword.</Source>
+      <Dest>我就知道你会的。你和我都是高端大气上档次的人，我们重视艺术就想我们重视我们的剑一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  Join me at the Skeever for a drink!  I will toast you and sing your praise, one gentleman to another.</Source>
+      <Dest>但今天是个庆祝的好日子！来眨眼雪鼠与我共饮吧！我为你举杯，为你歌颂，以君子之名向另一位君子致以我诚挚的祝福。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the darkness has passed and the legend yet grows; You'll know, you'll know the Dragonborn comes.</Source>
+      <Dest>【歌词待校对】黑暗消逝，传奇之曲正在编织。你会发现，你会发现，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>No doubt the swamp drake thought I allied myself with the hunters in order to gain an advantage in our duel.  Far from it.</Source>
+      <Dest>毫无疑问，那些沼泽生物觉得我和猎人们结盟是想在战斗中渔利。差远了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Coming from him, I'll take that as a compliment.  Clearly he's throwing spit to the wind and hoping it hits something other than his face.</Source>
+      <Dest>从他嘴里说出来，我会把那当成褒奖。显然他打算把唾沫吐到风中然后希望它落在别处除了自己的脸上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who else could take a subject as dreary as the undead living in caves, and turn it into a romantic masterpiece?  I'll tell you who can't.  The Nord.</Source>
+      <Dest>谁能把一个像是有着亡灵居住的洞穴那样阴森的题材变为一个浪漫的杰作？让我来告诉你谁不行吧。是诺德人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course I can! Which duel should I relate to you?</Source>
+      <Dest>我当然可以做到！我应该为你怎么做？</Dest>
+    </String>
+    <String List="2">
+      <Source>Down with Ulfric!  The killer of kings!  On the day of your death, we'll drink and we'll sing!</Source>
+      <Dest>【歌词待校对】乌弗瑞克这跳梁小丑！是杀害至高王的凶手！当你终于被湮灭带走，我们会欢唱会喝酒！</Dest>
+    </String>
+    <String List="2">
+      <Source>I was forced to challenge the fat golem to a bare knuckle brawl, for my honor couldn't wait another second.</Source>
+      <Dest>为了不损我的荣誉，我不得不赤手空拳地与一只巨大的机器人对战。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bleeding, half-drunk, I demanded his head for breaking the rules of the duel.  Yet the fool only smiled.</Source>
+      <Dest>流着血，醉醺醺的，我想要【用他的脑袋破坏决斗的规则】。可这白痴只是在那傻笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>She even went so far as to bring the lowly knave to the party in a subtle attempt to mock the Redguard.</Source>
+      <Dest>她连那样的事都干得出来，把一个【低级贱民】带到宴会上用来旁敲侧击地取笑那个红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>With the mechanics of the duel altered, I was left with little choice but to call it a draw and return to my chambers.</Source>
+      <Dest>决斗规则的的改变，使得我别无选择。我只能承认它是一场平局，然后默默回自己的卧室去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was walking along with my servant when I came across a vacant domicile.  The name of the house was "Breezehome."</Source>
+      <Dest>当我偶遇到一个空虚的住宅的时候我正在和我的仆人走在一起。此房名为“风宅”。</Dest>
+    </String>
+    <String List="2">
+      <Source>And now, the new line: The mountain turns the grass over, tucks in her sleeping child, a shrine to serenity, but serenity oft defiled.</Source>
+      <Dest>现在有新的变化：高山被夷为平地，人人易子而食，圣地的平静被亵渎。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was too daft to realize I was giving him a chance to die honorably, instead of like the coward he constantly proves himself to be.</Source>
+      <Dest>他太愚蠢，以至于终于才意识到我是在给他个能体面死去的机会，而不是像个他不断印证自己是的懦夫那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe in Cyrodiil quatrains are the norm, but here in Skyrim they use all sorts of clumsy triplets and basically set fire to the language as a whole.</Source>
+      <Dest>也许在赛瑞迪尔，四行诗是常态，但天际省，却是利用各种复杂的三行诗，以及【大体上热情洋溢的语言】作为整体。</Dest>
+    </String>
+    <String List="2">
+      <Source>How should I know?  He's the one who started this quarrel, but I aim to finish it, and I just about have.  Just three more lines.</Source>
+      <Dest>我怎么知道？他挑起了争执，但是我会结束它的，并且我就要结束它了，只需要再说几句话就行。</Dest>
+    </String>
+    <String List="2">
+      <Source>My poetry has analogies wrapped inside metaphors, and sewn together in a robe of perfect rhetoric.</Source>
+      <Dest>我的诗歌里有很多潜藏在暗喻之下的类比，通过完美的修辞手法结合得天衣无缝。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you too enjoy a good drink with a good poem!  I knew there was something keen about you the moment we met.</Source>
+      <Dest>所以你也尽情享受美酒和诗歌吧！当我们见面的时候我就知道有些东西是你所喜爱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My...awful poetry?  You haven't even heard a single line, and you choose to make assumptions based on what?  My appearance?</Source>
+      <Dest>我的……屎一样的诗？你连一句都没有听过，凭什么这么说？看脸吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>We're the children of Skyrim, and we fight all our lives. And when Sovngarde beckons, every one of us dies!</Source>
+      <Dest>【歌词待校对】我们是天际的子民，我们一辈子都在战斗，只要沉睡净土传来召唤，我们就英勇赴义！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your name is unnecessary. I don't wish to humanize my servants. I am your lord, and you are the girl who shines my boots.</Source>
+      <Dest>没有给你取名的必要。我可不想教化了我的仆人。我是你的主人，而你只是个帮我擦亮皮靴的姑娘而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, if my victory is to be resounding, I need to trounce the Nord on his own land, using his province's own rules.</Source>
+      <Dest>然而，如果我想获得一场轰动的胜利，那我需要用诺德的地盘上用他自己的规则来给他痛击。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excuse me, my lady, but I saw you standing there, and I couldn't help but wonder if you would do me a favor.</Source>
+      <Dest>对不起，我的夫人，但我看到你站在那里，我忍不住想，你是否能帮我一个忙。 </Dest>
+    </String>
+    <String List="2">
+      <Source>An excellent request.  This one is for the Dragonborn, a true lady for the ages.</Source>
+      <Dest>一个很好的要求。这个人是龙裔，在这个时代中的一位真正的淑女。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!   I'll toast you and sing your praise, one gentleman to another.  The night is still a maiden yet!</Source>
+      <Dest>但今晚是个庆祝的理由！我会敬你酒，赞颂你。这是两个绅士之间的行为。今夜实属首次！</Dest>
+    </String>
+    <String List="2">
+      <Source>I will just have to finish my poem and find a publisher. This way I can humiliate him through the power of my fame.</Source>
+      <Dest>我要完成我的诗，然后找到一个出版商。这样我就能通过我名誉的力量羞辱他了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha!  Fantastic!  I must admit, this isn't the manner in which I envisioned it, but it certainly doesn't lack for satisfaction!</Source>
+      <Dest>哈！好极了！我必须得承认，这不是我所设想的方式，但我当然对它特别满意！ </Dest>
+    </String>
+    <String List="2">
+      <Source>It reminded me of my father's home, where the cool breeze returned to.</Source>
+      <Dest>这屋子让我想起了我父亲的家，凉爽的微风常常从那儿吹过。</Dest>
+    </String>
+    <String List="2">
+      <Source>That day, the Nord was here in Solitude. "What is it this time?" the fat boar asked me.  "Daggers?  Dice?"  "Bottles of wine," I replied.</Source>
+      <Dest>那天，那个诺德人就在独孤城。“这次是啥？匕首？骰子？”那只肥猪问道。 “是酒瓶。”我回答说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wintery...no, wintry...it betrays its wintry master...That's it!  Let's see that fool of a Nord top this!</Source>
+      <Dest>温特瑞。。。不，冬天的。。。他背叛了他的冬导师。。。就是这样！让我们看看这个诺德蠢货做这事！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's only through the genius of our lineage that my father has managed to escape the witch's claws for this long.</Source>
+      <Dest>很久之后，通过我们血统遗传的天赋力量，我的父亲设法逃离了女巫的魔爪。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a shame that there are only a few of us in all of Nirn capable of appreciating my work.  Such is the tragedy of genius.</Source>
+      <Dest>真是遗憾，只有奈恩上的少数人才懂得欣赏我的工作，这就是天才的悲哀。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was attending a party at the Thalmor embassy when Elenwen mentioned she'd found a delightful bard that reminded her of Razelan.</Source>
+      <Dest>我在梭默大使馆参加了一个聚会，那时爱琳温提到他碰到一个讨人喜欢的吟遊诗人把她留在了Razelan。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course I won, but the brute managed to survive by hiding behind one of the guards.</Source>
+      <Dest>当然，我赢了，但那个野蛮人却躲在了守卫身后，苟延残喘的活了下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  I will toast you and sing your praise, a gentleman to a lady.  The night is still a maiden yet!</Source>
+      <Dest>但是今晚我们要尽情庆祝！我会向你敬酒和歌颂赞美，如同绅士向淑女般。待此夜如同处子！</Dest>
+    </String>
+    <String List="2">
+      <Source>Flowers bloom on the land, children walk hand in hand, sun shining on white sand, to Skyrim comes peace.</Source>
+      <Dest>鲜花盛开在这片土地，孩子们手牵手走在路上，太阳照耀着白色的沙滩，天际迎来了和平。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  I will toast you and sing your praise, one gentleman to another.  The night is still a maiden yet!</Source>
+      <Dest>但今晚是值得欢庆的一夜！我会向你敬酒再歌颂赞美于你，这是绅士之间的行为。今夜实属首次！</Dest>
+    </String>
+    <String List="2">
+      <Source>While I can't feed on the students themselves, there are many who seek to attend the college who are denied admission.</Source>
+      <Dest>在那时我不能靠教导学生维持生计，于是就有很多想要加入学院的人被拒绝了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there once was a hero named Ragnar the Red, who came riding to Whiterun from ole Rorikstead!</Source>
+      <Dest>【歌词待校对】哦，曾经有位名叫“红衣拉格纳”的英雄，他从美丽的洛利克镇一路骑马来到白漫城！</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Half a bottle.  No, just a few more sips and he would've been mine.</Source>
+      <Dest>(叹息) 半瓶。不，只要几小口，而且他一直呆在矿井里。</Dest>
+    </String>
+    <String List="2">
+      <Source>A poem worthy of you requires time. It will take ten, no, twenty years to complete.  I will begin penning it on the morrow.</Source>
+      <Dest>一首值得一阅的诗需要时间。这将花费十年，不，二十年的时间去完成。我明天开始写。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now they treat me with contempt,for I have ruined language itself, as all other words play only sour notes. But your ears are still fresh.</Source>
+      <Dest>他们现在对我的态度非常轻蔑，</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you will regret hearing it.  For after one hears perfection, all other poems, nay, all other sounds will cease to have music.</Source>
+      <Dest>哦，你想听？你会后悔的。在你听到这如天籁般的声音后，其他的诗歌，甚至其他的声音，对你而言都会不堪入耳了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bench? You wrote a poem about a dilapidated piece of wood?  (Laughs) Now that's rich!</Source>
+      <Dest>一条长凳？你写了一首关于破木头的诗？ (笑声) 哦太棒了！</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, I've adhered to the rules of fair play through each of our duels, even as he's done everything save pay an army to fight on his behalf.</Source>
+      <Dest>实际上，在决斗时我已经尽量做到遵守规则，公平合理，即使这家伙直接就雇佣了几个人来帮他打。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alduin's wings they did darken the sky; His roar fury's fire and his scales sharpened scythes;</Source>
+      <Dest>【歌词待校对】奥杜因其翼遮天蔽日，其吼怒焰四溢，其鳞利如刀锋。</Dest>
+    </String>
+    <String List="2">
+      <Source>And much like those drakes of Black Marsh, his entire existence is an utter abomination.</Source>
+      <Dest>就像那帮黑沼泽省来的虫子们一样，他完全就是为了让人恶心而存在的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These books, these bards, and this college will not inspire you. Nor will the Gods.</Source>
+      <Dest>（若是）这些书，这些吟游诗人以及这个学院都无法影响你，那神也没办法影响你。.</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.  This one isn't original in and of itself.  I heard it sung by a bard in training over at the Skeever.</Source>
+      <Dest>我明白了，这并不是原版。我在眨眼雪鼠酒店听一个见习吟游诗人唱过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet my poetry reaches an entirely new level of appreciation.  Utter and unequivocal shock at having my poetic brandy poured down your ears.</Source>
+      <Dest>如今我的诗歌已能到了一个更高的理解水平 ，严谨和杂乱的韵脚使你的耳朵能如同痛饮甘冽美酒般的刺激的感受。.</Dest>
+    </String>
+    <String List="2">
+      <Source>And so then came the clashing and slashing of steel, as the brave lass Matilda charged in full of zeal!</Source>
+      <Dest>【歌词待校对】刀剑碰撞叮当响，勇敢的少女玛提尔达不可挡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ataf, your rendition of "Ragnar the Red" is much improved.  Someday your song will please Inge's ears, but I'm sure you already please her eyes.  </Source>
+      <Dest>埃塔夫，你演奏的"红衣拉格纳"已经有很大改进了。总有一天你能愉悦英格的耳朵，而我确信你已经让她一看就觉得赏心悦目了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>So you fancy money, is it?  Should he fail to return, I may be in need of a new servant, and you've proven more than capable.</Source>
+      <Dest>所以你想要钱，对吧？如果他不回来，我也许需要一个新的仆人，而你已经证明了自己更有能力。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was halfway through the bottle, all but dead when his thin lips curled into a mischievous smile.</Source>
+      <Dest>他只通过了那瓶子的一半儿，但在死亡之际，他的嘴角挑起了一个恶作剧的微笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've sent him off on an important errand.  Sybille Stentor's obsessive meddling has caused me to worry about my father, and I need to be sure he's ok</Source>
+      <Dest>我派他去执行一项重要任务了。希比利·斯丹特的插手让我有些担心我的老爹的安全，我得去看看他是否还好。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an end to the evil, of all Skyrim's foes; Beware, beware the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】终结邪恶，敌人的末日。当心，当心，龙裔出世。</Dest>
+    </String>
+    <String List="2">
+      <Source>So my squire managed to deliver you here after all.  I was certain she would've collapsed from the smell.</Source>
+      <Dest>毕竟是我的侍从设法把你从这儿就出去的。我很肯定她不会被这种气味搞得崩溃。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you're right. It was personal.  I honor my father, a great man of noble birth, forced to live like an ice wolf.</Source>
+      <Dest>但你是对的。这有着私人原因。我尊敬我的父亲，他是个贵族出身的伟人，却被迫如冰狼一般的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>After 5 bottles, if we were both standing, we would take a break. The rules allowed us to eat anything in the inn, so long as it was already there.</Source>
+      <Dest>喝下五瓶以后，如果我们俩都还站着的话，我们就停下来喘口气。规则允许我们吃掉旅馆里的东西，任何看得见摸得找的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, what I speak of now is not the death of the Nord, but the death of his dream.  And then I'll kill him.</Source>
+      <Dest>不，我想说的不是这个诺德人的死，而是他梦想的真正死去。在此之后，我结束了他的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't care if the Nord is a werewolf or a cliff racer.  He's besmirched my honor and I'll seek retribution until it's restored.</Source>
+      <Dest>我才不管这个诺德人是狼人还是崖壁鸟。他玷污了我的荣誉，我会让他为此付出代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember one time the Nord wouldn't shut up about how my father was a Gehenoth, and my mother a Daedric spider.</Source>
+      <Dest>我记得有一次，那个诺德人一直说我爸爸是Gehenoth，我妈妈是个魔族蜘蛛，怎么也不肯闭嘴。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why I have sent my servant to find my father and force him to return him to Solitude.</Source>
+      <Dest>这就是为什么我让我的随从去找我爸而且逼他回独孤城.</Dest>
+    </String>
+    <String List="2">
+      <Source>Even if you aren't inclined to listen to poetry, it's so rare that anyone reaches the pinnacle of anything, as I have with this verse.</Source>
+      <Dest>就算你并无鉴赏诗歌的意趣，但能在一样物事之上登峰造极之人亦为少数，登峰造极如我所做此诗般。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Little did I know he'd smuggled a small shiv in the nether region of his armor, a place not even the most obedient soldier was willing to frisk.</Source>
+      <Dest>我都不知道他在盔甲的私部藏了把小刀，那地方就算是最守纪的士兵也不愿去搜啊。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Victory would be mine.  I could see the oaf teetering as he struggled to drink bottle number 7. </Source>
+      <Dest>胜利属于我，我都能看见这呆子摇摇晃晃的好似喝了7瓶酒似的样子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, a fine song.  Allow me to play it as it was meant to be.</Source>
+      <Dest>是的，一曲美妙的歌。请允许我将它原汁原味地演奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>He thinks to escape me by becoming a bard?  The fool has no idea that to lose in this manner will crush him harder than any death.</Source>
+      <Dest>他以为摇身一变成为一个吟游诗人就能躲过我的法眼？脑残根本不知道以这种窝囊的方式会让他输的比战死难看得多。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You aren't applauding. No, applause is meant for halfwit apprentices who fancy themselves masters.</Source>
+      <Dest>你没有鼓掌。没有，鼓掌应该是用来给那些自以为超神了的半吊子学生的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such is his lack of scruples, that he would resort to hurling insults at my noble ancestry.</Source>
+      <Dest>因为他缺乏治疗，所以他才会肆意的辱骂我的高贵血统。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell these fools I have a "hereditary affliction."  Ha!  An entire school of bards, and they know not the first thing about irony!</Source>
+      <Dest>I我告诉那些傻逼我可是有“世袭的苦难。”的男人哈！那些学院全部的游吟诗人，他们知道讽刺不是首要之事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The brute went for a haunch. I made no such request. I walked behind the counter and plucked my choice from the rack.</Source>
+      <Dest>那个暴徒想要个腰带，这样的请求当然不能拒绝。于是我走到柜台后面从架子上挑了一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is with great pride that I inherited his countenance, and I will wear it smiling when I restore his honor and mine by vanquishing the Nord.</Source>
+      <Dest>我继承了他的面容，这是个极大的骄傲。当我恢复他的名誉，亦或是亲自战胜那个诺德人之时，我会用那张脸来微笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you talk and you lie and you drink all our mead! Now I think it's high time that you lie down and bleed!</Source>
+      <Dest>【歌词待校对】噢，你吹牛喝酒耍活宝！真有种就不要跑！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have time for the lute.  I'm working on a poem.  Nay, a masterpiece.</Source>
+      <Dest>我没时间去弹那鲁特琴，我正在写一首诗。不仅如此，它将一定是我的最高杰作！我没时间去弹那鲁特琴，我正在写一首诗。不仅如此，它将一定是我的最高杰作！</Dest>
+    </String>
+    <String List="2">
+      <Source>You can find him by his smell.  When it comes time to deliver my poem, I'll follow that specific trail, to my nose's regret.</Source>
+      <Dest>只要循着他的臭味就能找到他。等到了要【交付】我诗集的时候，我会跟着那条特殊的路径，到【对不起自己鼻子的地方去】。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Never in my wildest fantasies did I think he would try to elevate his level to mine!</Source>
+      <Dest>(笑声)我真是做梦都没有想过他会试图把自己的水平捧得跟我一样高啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, because I am the type of backwards skooma addict who would ignore the fine beds that have at the college for damp, mold infested cave.</Source>
+      <Dest>没错，因为我对斯库玛上瘾严重。如果没有斯库玛，即使在学院舒适的床上，也比不上潮湿，发霉，野兽横行的山洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>As he could not defeat me, he has instead removed his hero's costume, and revealed himself to be an unwavering coward.</Source>
+      <Dest>他发现搞不过我，就脱下了他的英雄装扮，还原成一个【坚定】的懦夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but he'll get his soon enough.  We may have fought to a draw many times before, but this time I will surely reclaim my honor!</Source>
+      <Dest>噢，但是很快他就会尝到苦头。我们之前可能已经拔剑比试了许多次，但是这次我相信我会取回我的荣耀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I've tried many times, and each instance he's used treachery and deceit to fashion a narrow escape.</Source>
+      <Dest>噢，我试过许多次了，每一次都是因为他的欺骗和背叛导致了一次狼狈的逃跑</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I doubt that even he, a master of the Poetic Edda, could even begin to contemplate the depth of my writings.</Source>
+      <Dest>并且我怀疑即使是他，Poetic Edda的大师，是否有能力哪怕仅仅是开始思考我文章中的深意。</Dest>
+    </String>
+    <String List="2">
+      <Source>The other bards have already reached a state of ecstasy upon hearing my verse.</Source>
+      <Dest>其他的吟游诗人在听过我的诗后已经神游其中了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you questioning my methods! It just will! But if you love that Nord so much, bring him here! And I will prove my superiority once and for all!</Source>
+      <Dest>你是在质疑我吗!当然会的l! 但如果你足够热爱诺德民族，把他带到这来! 我会只用一次便永远地证明我的优越所在!</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, I know you...Weren't you the one with that Nord? No, it can't be...no mortal would choose the company of a man who smelled like a pig's bowels.</Source>
+      <Dest>等等，我知道你……你是不是就是跟那个诺德人在一起的家伙？不，这个不可能……没有哪个凡人会选一个闻起来一股猪粪味儿的家伙当同伴。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew that!  The original line was "Time cast a spell on the day."  But then I imagined that Nord saying, "What if the spell was a fireball?"</Source>
+      <Dest>我知道！原话是“时间在那天施了一个咒语。”但我又在想象到那个诺德人说，“如果那个咒语是一个火球呢？”</Dest>
+    </String>
+    <String List="2">
+      <Source>So alas, it's left up to a perfect mind to put it into words.  The poem is about how caves are a home, for the undead whose winter never comes.</Source>
+      <Dest>啊哈，剩下的就是由一个聪明的灵魂来把它组织成文字。这首诗是说，对于那些冬日从未降到他们头上的不死的生灵来说，洞穴，就是家。。。</Dest>
+    </String>
+    <String List="2">
+      <Source>A hereditary affliction.  I have my father's eyes.  He was a great man, just misunderstood.</Source>
+      <Dest>这痛楚是传承而来的。我继承了我父亲的事业。他是个伟大的人，只是被误解了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?  Who told you such lies?  Was it the Nord?  Perhaps not directly, but such mendacious taunts certainly originated from his lips.</Source>
+      <Dest>什么？谁跟你说的这谎话连篇的东西的？那个诺德人是不？可能不是他直接跟你说的，但这样胡编乱造的诽谤绝逼是首先从他嘴巴皮子里蹦出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as all adventurers defile the caves with their haphazard exploring.  </Source>
+      <Dest>就像所有的冒险者玷污洞穴，随意探索。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I dare say he must be a werewolf of some kind, the way he drags his hairy knuckles on the dirt.</Source>
+      <Dest>我胆敢说他一定是那种把他那多毛的指关节往土（肉酱）里插的狼人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly.  It seems you're a person of high caliber after all, if you seek to hear my voice, knowing it will sour all other notes.</Source>
+      <Dest>当然，毕竟看起来你是个有很高水准的人，如果你想倾听我的声音，了解透彻以后你会发现其它的笔记顿时索然无味。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>遵命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly.  It's a fine tune, and brings glory to the Empire.  May we bring death to all usurpers!</Source>
+      <Dest>确实，这是个好曲子，给帝国带来了荣耀，愿我们为篡位者带来死亡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...you look like someone with a keen ear for poetry.   Would you like to hear the weapon with which I will slay him?</Source>
+      <Dest>嘛…你看起来像是对流言蜚语极其敏感的人。你想用那只听听我武器们的声音，我会用那把削了他？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not often I get to regale guests with stories of my heroism, and the dastardly villain who opposes me.</Source>
+      <Dest>这可不是常有的事：用我的英雄事迹来招待宾客，还有那些跟我对着干的刁民。</Dest>
+    </String>
+    <String List="2">
+      <Source>A child prayed unto the Gods, save the land, save the land, and the Gods said unto the child, to Skyrim comes spring.</Source>
+      <Dest>孺子向神明祷告，求您救救这块土地吧，救救这块土地吧，神明对孩子说，天际之春已踏步而来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which duel shall I relate to you?  The two I recall most vividly was the bare knuckle brawl and the duel of spiced wine.</Source>
+      <Dest>我记得的最清楚的就是拼拳脚功夫和拼酒量，你说吧我要和你比哪个？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the poem was personal.  It is unfortunate that those who have achieved a higher plane of existence are forced to call caves home.</Source>
+      <Dest>是的，这首诗是个人的。不幸的是那些已经达到存在于更高面位的家伙却被强迫叫到山顶洞人那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Snow falls on all the land, all the land, all the land, snow falls on all the land, shrouded by dark wings.</Source>
+      <Dest>雪覆大地，雪覆大地，白雪覆盖一切，再由黑翼披上寿衣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>But I can offer you a poem!  Yes, a poem is what I can provide for you, if you wish to hear it.</Source>
+      <Dest>但是我能为你作诗！是的，如果你想听的话，我能为你作诗。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart did swagger and brandish his blade, as he told of bold battles and gold he had made!</Source>
+      <Dest>【歌词待校对】他气势汹汹挥舞着他的剑，吹嘘英勇事迹神气活现！</Dest>
+    </String>
+    <String List="2">
+      <Source>To their kinsmen, they're attending college.  Or training in hopes of getting in.  To the college, however, they've long returned to their kin.</Source>
+      <Dest>至于他家里的男丁们，他们去了学院。或者去接受训练，希望能够进到学院里去。然而，他们很久之后才回到他们的亲族身边。</Dest>
+    </String>
+    <String List="2">
+      <Source>You do have an active imagination Aia.  Yet it pales in comparison to your voice.  I could drink that in all day.</Source>
+      <Dest>你一定非常富有想象力，Aia。虽然跟你的嗓音比起来还是相形见绌。我其实可以喝一整天的酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is something I shouldn't have to tell her to do.</Source>
+      <Dest>一件我本没必要叫她去做的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally, you wish for me to serenade you.  However, I've just sat down.  I'll need to stand and stretch before playing.  Ask me then.</Source>
+      <Dest>你希望的剧情是我给你唱小夜曲……不过现在我只是坐一会罢了. 我在碰琴之前要活动下筋骨，那会再说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. If you wish for perfection, you shall have it.</Source>
+      <Dest>好啊。既然追求完美，，这东西你便值得拥有。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nord? You can't be serious. I just told you he was an ignoramus. He will not inspire you. </Source>
+      <Dest>那个诺德人？ 你不是认真的吧. 我只是告诉你，他是一个无知的人. 他不会激励你. </Dest>
+    </String>
+    <String List="2">
+      <Source>But then he went quiet, did Ragnar the Red, when he met the shield-maiden Matilda who said;</Source>
+      <Dest>【歌词待校对】红衣拉格纳后来变了哑巴，全因他遇到盾牌女仆玛提尔达，她说……</Dest>
+    </String>
+    <String List="2">
+      <Source>But you certainly aren't.  Oh no, you are a person of impeccable taste.</Source>
+      <Dest>但你当然不是。哦，不，你就是那个味道无可挑剔的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Couldn't keep away, could you?  Too tempted by the chance to hear perfection, hm?</Source>
+      <Dest>能走开么你？偶尔听到变得完美的方法就这么有诱惑力么？嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So do I, traveler, so do I.  Let us make the night whatever we want it to be, for the Nord is no longer alive to spoil it!</Source>
+      <Dest>(笑声)我也是旅行者，我也是。让我们制造黑夜吧，对于死了的诺德人来说他们就在也没法去糟蹋它了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course I recognized the fungal odor of dead animal musk immediately.  Unfortunately, the Thalmor do not allow for weapons inside the embassy.</Source>
+      <Dest>当然我也马上认出了那种死动物麝香的真菌气味。但不幸的是，梭默们不允许任何武器进入使馆。</Dest>
+    </String>
+    <String List="2">
+      <Source>And if Alduin wins, men is gone from this world; Lost in the shadows of the black wings unfurled;</Source>
+      <Dest>【歌词待校对】奥杜因的胜利，将带来人类的灭亡，黑色双翼的阴影下无处可藏。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  Join me at the Skeever for a drink!  I'll toast you and sing your praise, one gentleman to another.</Source>
+      <Dest>但今晚是值得庆祝的！要眨眼雪鼠来跟我喝一杯！我将为你敬酒，向你赞美，作为一个绅士敬另一个绅士。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said it was the only way to explain my spindly arms and leathery face.</Source>
+      <Dest>他说这是解释我细长的胳膊和坚韧的脸的唯一方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you sera, you have an ear for the sublime!  It is an honor to meet a gentleman of such exquisite taste.</Source>
+      <Dest>但是你有可以欣赏高雅的耳朵！能遇到一个有这样精致品味的绅士是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'll need to interview at least 3 others first.  You can't simply hire the first person who comes strolling through your doors.</Source>
+      <Dest>但我需要先面试另外至少3个人。你不能只是简单地雇佣第一个走进你大门的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration! I will toast you and sing your praise, a gentleman to a lady.  The night is still a maiden yet!</Source>
+      <Dest>但今晚是值得庆祝的！我将向你敬酒，赞美你，作为一个绅士对一个淑女。这夜晚还只是个处​​女呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure he'll come limping through the front gate soon enough with good news.</Source>
+      <Dest>我相信，很快他就会带着好消息，一瘸一拐地穿过前门。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) You jest!  I will not deny the world such magnificence!  I will finish the poem in due time.</Source>
+      <Dest>(哈哈) 别开玩笑了。我当然不会拒绝如此大的恩惠。只是我会准时完成这首歌诗的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't worry, you need not say a word.  Nothing you say will suffice.  The expression on your face tells it all.</Source>
+      <Dest>别担心，你不需要说话。即便什么都不说也已经足够。因为你脸上的表情已经透露了一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will recite my poem, at which point, you can concede before humiliating yourself further.</Source>
+      <Dest>我会反复吟唱我的诗歌，在使你倍受羞辱之前你还是可以让步的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've resided here at the Bards College for nearly all my life, although my first true epiphany came outside it.</Source>
+      <Dest>吟游诗人学院几乎耗尽了我的一生，虽然我第一次真正的顿悟是在离开它之后。</Dest>
+    </String>
+    <String List="2">
+      <Source>A fine and bloody tale, and I do enjoy blood.</Source>
+      <Dest>一个美丽又凄惨的故事。我喜欢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am in need of an objective opinion on the state of my masterpiece.</Source>
+      <Dest>我现在需要的是对我的大师级作品最客观的评价。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you expect anything less?  The answer to that question will tell you whether you're a fool.</Source>
+      <Dest>你的期望值比这还低吗？这事就看得出你是不是傻瓜了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The inspiration came to me after a mounted duel with the Nord, which he managed to survive by sabotaging my horse.</Source>
+      <Dest>那个启示来自一次跟诺德人的骑战，他想靠偷袭我的马来取胜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was visiting my father for the summer.  Circumstances had forced him to live in a slatternly cave, as society refused to grant him his nobility.</Source>
+      <Dest>夏天的时候我去看望了我的父亲。社会不愿授予他名分，这样的环境使然，他不得不居住在一座破败的山洞里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd say your prejudice does you a disservice, you son of a scrib, but I doubt you are even equipped enough to know what prejudice is.</Source>
+      <Dest>我得说你的歧视也会让你受伤的，你个斯克力养的，但我怀疑你甚至没有足够的能力去知道什么是歧视。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know his name, and I don't care to.  I imagine to utter it would be some sort of Daedric malediction, opening a portal to Oblivion.</Source>
+      <Dest>我不知道他叫什么，我也不在乎。我觉得这是某种魔族的诅咒，可以打开湮灭之门。</Dest>
+    </String>
+    <String List="2">
+      <Source>Step carefully, brethren.  If you wish to act, it would be best to do so before she gains Pantea's attention.  </Source>
+      <Dest>小心，弟兄们。如果你想行动，最好是做她吸引潘提亚的注意之前。 </Dest>
+    </String>
+    <String List="2">
+      <Source>What song shall I play?</Source>
+      <Dest>我应该演奏什么曲子？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, the current line as construed is perfect.  It's a metaphor, of some sort.  You just lack the intelligence to understand it.</Source>
+      <Dest>不，这诗句是完美的。这是某种隐喻。你尚缺乏能够理解它的智慧罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The potion could only be imbibed when one of us had died from intoxication. My servant was on hand to ensure the rules were followed.</Source>
+      <Dest>这瓶药剂只有在我们中的一人中毒身亡时才能服用。我的仆人会保证这条规定被严格遵守。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've challenged him to many duels as he has fleas.  While I'm a gentleman, I won't let this cur's crimes go unpunished.</Source>
+      <Dest>我曾数次向他发起决斗，而他悉数逃走。我是一位绅士，但我绝不能姑息这无赖的罪行。</Dest>
+    </String>
+    <String List="2">
+      <Source>A lucky guess, no doubt.  Evidently the brute didn't make the same assessment of you. </Source>
+      <Dest>无疑你赌对了，很显然那个蛮子就不如你估计准确。</Dest>
+    </String>
+    <String List="2">
+      <Source>My verse will worm its way into his mind like a poison, gnawing away at the tips until it burrows a hole to the heart of madness.</Source>
+      <Dest>我的诗韵会想毒液一般渗进他的思想，一点点蛀空他，直到在他的疯狂之心上打个洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, the girl is fired. It seems there is only one person I can truly rely on to serve me.</Source>
+      <Dest>无论如何那姑娘被开除了。似乎我只有一个能真正信任的帮手了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know that you simpleton!  It's a metaphor.  Have you never seen the moon from inside the Eldergleam?  </Source>
+      <Dest>我知道，你个傻蛋！那是个暗喻。你难道在古藤圣所里面见到过月亮？</Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary, the good spirits are inside me!  I plan on drinking this bilge rat's excuse for an inn dry.  And I hope you join me.</Source>
+      <Dest>正相反，我现在心情很好！为了庆祝这个船老鼠的道歉，我打算把整家旅店都喝干！来和我一起吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, she makes great efforts to hunt down our people to protect her secret.  I defy any notion that she's one of us.</Source>
+      <Dest>实际上，她不惜余力地为了保守她的秘密而抓捕我们的人们。我反对任何将她视为我们中的一员的观点。</Dest>
+    </String>
+    <String List="2">
+      <Source>The poem reads as follows:  The cave is the heart where the dragon tongue sings, and the torchbug pens poetry upon a naked leaf.</Source>
+      <Dest>那首诗歌是这样写的：洞穴中传来龙语的轻吟，火虫在枯叶上写下诗篇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>非常好。</Dest>
+    </String>
+    <String List="2">
+      <Source>My dear squire, bid farewell to this hideous monster, for with my words, I will send him to the void.</Source>
+      <Dest>我亲爱的老爷，跟这头丑陋的怪物说再见吧，因为我保证，我会把他送进地狱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just like the Nord defiles the air of this institution with his uncontrollable flatulence.</Source>
+      <Dest>就像一个诺德人用他无法无天的自负玷污这里的学术氛围.</Dest>
+    </String>
+    <String List="2">
+      <Source>The cave is the heart where the dragon tongue sings, and the torchbug pens poetry upon a naked leaf.</Source>
+      <Dest>这就是听到龙发出声音的中心位置, and the torchbug pens poetry upon a naked leaf.</Dest>
+    </String>
+    <String List="2">
+      <Source>As much as it pains me, we can't have the duel now. Preparations are being made for the burning of King Olaf. It will have to wait.</Source>
+      <Dest>令我痛心的是，我们现在不能决斗。我正在为火烧奥拉夫节做准备。决斗再必须等等。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I would have claimed his feeble life, if not for a random gash over my eye, which blinded my vision.</Source>
+      <Dest>不过，要不是我眼睛上的划伤挡住了我的视野，我早就能收下他的小命。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing smitten with you are the fleas, although they'll soon be replaced by fear and overwhelming personal shame. </Source>
+      <Dest>唯一被你迷得神魂颠倒的是那堆跳蚤，虽然那些情感很快就会被惊恐和压倒性的羞耻感代替了。</Dest>
+    </String>
+    <String List="2">
+      <Source>She doesn't count!  Not a single person is aware of who that traitorous bitch really is.  </Source>
+      <Dest>她不算！谁都没有察觉那其实是个背信弃义的小婊子。 </Dest>
+    </String>
+    <String List="2">
+      <Source>When he reads my poem, he will at last concede defeat once and for all, for one can't surpass perfection.</Source>
+      <Dest>当他读起我的诗的时候，他最终会完完全全的承认失败，因为那完美的无法超越。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even if by some miracle he were able to match it, he would still be left with a sour taste in his mouth knowing he came second.</Source>
+      <Dest>即使奇迹出现能让他把它打败，他心中仍会苦涩万分。他知道自己比它差。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you sera, you have an ear for the sublime!  It is an honor to meet a lady of such exquisite taste.</Source>
+      <Dest>但是sera,你有着令人赞叹的鉴赏力！迎合女士如此高雅的品味是我的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>You! You tell that blasted demon to leave this place, and take the skunk on his back with him!</Source>
+      <Dest>你！你告诉那个该死的魔鬼赶紧离开这个地方，把那个卑鄙的家伙也带走！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nord may not be able to form a coherent sentence without the aid of carefully prepared notes, but my tongue is forged in silver.</Source>
+      <Dest>如果不借助事先仔细准备好的笔记的话，这个诺德人也许不能条理清晰的说出一句话，但我可是铁齿铜牙啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I worry there is not a cave left in Haafinger that the court wizard has not turned her eye upon.</Source>
+      <Dest>虽然我担心要是海芬加领一个山洞都没留下的话，那个宫廷巫师就没有能转移注意的东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Earlier that day, I had asked Angeline what ingredients, when eaten raw, would help one resist poison. One of them was garlic.</Source>
+      <Dest>当天早些时候，我问过安吉琳什么原料生吃时能帮助人们抵抗毒素。其中一个是大蒜。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said its music gave more warmth than any of these structures of mortar and stone can ever attest to.  It was actually freezing, but I understood.</Source>
+      <Dest>他说，音乐比任何石沙构成的建筑更能给人以温暖。那些其实的冷的，但我明白他的意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your insight is to be commended.  I did indeed do as you suggested, as I'd suspected that only Hircine could manifest such a soiled existence.</Source>
+      <Dest>您的见识真是卓越。我按照你说的去做了，因为我怀疑只有海尔辛才能创造出这么肮脏的生物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.  The cave is the heart where the dragon tongue sings...no, shouts maybe...</Source>
+      <Dest>好吧。这个洞穴就是这里的中心，龙语歌唱的地方……不，也可能是咆哮……</Dest>
+    </String>
+    <String List="2">
+      <Source>That was unintentional!  Or was it?  You see how the rhyme defiled the verse, just as I intended?</Source>
+      <Dest>我是无意的！或者是故意的？你看这些韵调是如何玷污了那首诗歌，就象我故意去做的一样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the greatest poem ever conceived!  Well, half conceived.  But three more years and it shall be finished!</Source>
+      <Dest>只是这首最伟大的诗歌还在构思！呃，构思一半儿了。再有三年还是多少年就能写完啦！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I'm sure we'll find a way to pass the time.  I wonder if that Redguard bard is still around...she has a lovely throat.</Source>
+      <Dest>哦，我想我们会找到一个打发时间的法子的。我不知道那个红卫诗人是不是还在……她那嗓子真是甜死人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only alchemists and adventurers would point that out, and persnickety ones at that.  Two groups of dullards that would never deign to hear a poem.</Source>
+      <Dest>只有练金术士和冒险者才会指出并对这如此挑剔。两组二货永远也不会对赏诗不屑一顾。</Dest>
+    </String>
+    <String List="2">
+      <Source>But tonight is a cause for celebration!  I will toast you and sing your praises, one gentleman to another.  The night is still a maiden yet!</Source>
+      <Dest>但今晚是值得庆祝的！我会歌颂你，唱你的赞美诗！一个伟大的绅士！今夜才刚刚开始！</Dest>
+    </String>
+    <String List="2">
+      <Source>A poem worthy of you requires time. It will take ten, no, twenty years to compose.  I will begin penning it on the morrow.</Source>
+      <Dest>一首好诗是值得你花时间去雕琢的。 创作一首好诗要花十年，不，二十年的时间。 我准备明天开始动笔。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Finish}</Source>
+      <Dest>{完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>Men ran and they cowered and they fought and they died; They burned and they bled as they issued their cries;</Source>
+      <Dest>【歌词待校对】人类退缩、逃跑，战斗、死亡。他们受伤、流血，痛哭、哀嚎。</Dest>
+    </String>
+    <String List="2">
+      <Source>A beautiful woman, and socially daft.  While she spends time at the Skeever, she hardly converses with anyone.  No one will ever notice she's gone.</Source>
+      <Dest>一个漂亮却不擅长社交的女人。当她在眨眼雪鼠消磨时间的时候，她从不和其他人交谈。所以当她离去时，没人记得。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or the taste of vengeance. The Jarl and her traitorous court wizard, Sybille Stentor, have hunted the caverns of Haafinger for years.</Source>
+      <Dest>这就是复仇的滋味。 领主和她那些巫师叛徒, Sybille Stentor，已经在海芬加领的洞穴阴魂不散好多年了.</Dest>
+    </String>
+    <String List="2">
+      <Source>No one ever wonders what happens to these nameless morsels.</Source>
+      <Dest>没人会在乎什么发生在这些无名小卒.</Dest>
+    </String>
+    <String List="2">
+      <Source>Here lie seven generations of smells, where beds never cool, and windows never shut their eyes.</Source>
+      <Dest>这住了七代人，里面充满了他们的味道，这里的床永远是温暖的，窗户也从不关闭.</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a cipher of text where a single line will lead you down a dozen separate paths to enlightenment, depending on how you interpret it.</Source>
+      <Dest>这是一个密文，一条线就能引领你到几十个不同路径的启示, 当然这取决于你如何解释它.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you don't wish to hear it, then fine. Its genius would be lost on you anyway.</Source>
+      <Dest>如果你不希望因它罚款......反正对你来说毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our hero, our hero, claims a warrior's heart!  I tell you, I tell you, the Dragonborn comes;</Source>
+      <Dest>【歌词待校对】英雄，英雄，勇者无惧。我告诉你，我告诉你，龙裔已降临。</Dest>
+    </String>
+    <String List="2">
+      <Source>Clearly he's throwing spit to the wind and hoping it hits something other than his face.</Source>
+      <Dest>显然他打算把唾沫吐到风中然后希望它落在别处除了自己的脸上。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>【歌词待校对】奥杜因的永恒，已然不在。他的故事已经终结，龙也消失天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>I begged him to return to Solitude with me, to hide in the light, but the old man refused.  The caves were his home.</Source>
+      <Dest>我恳请他跟我回独孤城, 并隐藏起来, 但老人拒绝了.  山洞就是他的家.</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not death I speak of, but the death of his dream. I will make him weep until the widows pity his soul. And then I will kill him. But only then.</Source>
+      <Dest>我所说的不是死亡, 而是指他梦想的终结. 在寡妇怜悯他的灵魂前我会让他一直流泪. 到那时候我会杀死他. 但只有到那时候才行.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, true.  Then it should not be made in haste.  It will take ten, no, twenty years to compose.</Source>
+      <Dest>啊，是的。那么就不能匆忙解决了，这需要十年，不，二十年来完成。</Dest>
+    </String>
+    <String List="2">
+      <Source>So alas, it is left up to a perfect mind to explain it to you.  The poem is about how caves are a home, for the undead whose winter never comes.</Source>
+      <Dest>咳，现在由一个完美的心灵解释给你听。这首诗是讲述洞穴是如何成为永远不会感受到冬天寒冷的不死者的家园的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're well-mannered.  I didn't expect this.  So while the honor is mine to read to one so noble, the pleasure is yours to keep.</Source>
+      <Dest>想不到你的教养还不错嘛。当我将我过往的荣耀显露与你，你便该当如此谦逊。</Dest>
+    </String>
+    <String List="2">
+      <Source>To their kinsmen, they're attending college. Or training in hopes of getting in.  To the college, however, they've long returned to their kin.</Source>
+      <Dest>对于他们的亲戚，他们在学院里学习，或者在努力考入。对于学院来说，他们早已回到他们的家族。</Dest>
+    </String>
+    <String List="2">
+      <Source>A lowborn tactic to be sure, but one that could have been avoided had my squire bothered to bribe them.</Source>
+      <Dest>那固然是一个低劣的手段，不过如果我当初让我的扈从贿赂下那群守卫，这本可以避免。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and life is not about how many breaths you take, but how often you listen to my poetry.</Source>
+      <Dest>对，而且啊生活的意义并不在于你活了多久，而是在于你听了多少我的诗歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>The unruly fools only wanted to sate their bloodlust, and as far as I'm concerned were as disgraceful as the werewolves they hunted.</Source>
+      <Dest>这群不守规矩的白痴只想满足他们的杀戮欲, 他们就像他们猎杀的那些狼人一样丑陋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, many in this town say I matriculated the old fashioned way.  That I bought my way in.  More lies spread by the Nord, no doubt.</Source>
+      <Dest>当然，在这个镇里面好多人都给我打上守旧的标签了。但是我就这么我行我素。无疑诺德人总是传出更多的流言蜚语。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart named Ragnar was boastful no more!  When his ugly red head rolled around on the floor!</Source>
+      <Dest>【歌词待校对】自大狂拉格纳再也没法在那吹牛了！因为他那丑陋的红毛脑袋掉在地上摔成了一堆渣！</Dest>
+    </String>
+    <String List="2">
+      <Source>Animosity?  Of course I hold animosity for one who continues to befoul my honor, and do so in a fashion that even a coward would find reproachful. </Source>
+      <Dest>憎恨？当然我对那个有辱我荣耀的人依旧怀恨在心，这么就像是非难别人是一个懦夫。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

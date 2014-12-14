@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Thank the Divines. This is not how I wanted it to end.</Source>
+      <Dest>感谢圣灵，这是我最不想看到的结局。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank the Divines. This is not how I wanted it to end.</Source>
+      <Dest>感谢圣灵，这是我最不想看到的结局。</Dest>
+    </String>
+    <String List="0">
+      <Source>Certainly. I enjoy fortune tellers.</Source>
+      <Dest>当然. 我喜欢算命师。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then keep your promise, soothsayer. Tell me what happens next.</Source>
+      <Dest>兑现你的诺言，预言者。告诉我接下来会发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then keep your promise, soothsayer. Tell me what happens next.</Source>
+      <Dest>兑现你的诺言，预言者。告诉我接下来会发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then keep your promise, soothsayer. Tell me what happens next.</Source>
+      <Dest>兑现你的诺言，预言者。告诉我接下来会发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if I refuse? Do the events happen as I saw them?</Source>
+      <Dest>如果我拒绝呢？事件会像我见过的那样发生吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>They met in a brothel. It was love at first coitus.</Source>
+      <Dest>他们在妓院见的面，最初的那次是出于爱恋他们才上床的。</Dest>
+    </String>
+    <String List="0">
+      <Source>They met in a brothel. It was love at first coitus.</Source>
+      <Dest>他们在妓院见的面，最初的那次是出于爱恋他们才上床的。</Dest>
+    </String>
+    <String List="0">
+      <Source>They met in a brothel. It was love at first coitus.</Source>
+      <Dest>他们在妓院见的面，最初的那次是出于爱恋他们才上床的。</Dest>
+    </String>
+    <String List="0">
+      <Source>They met in a brothel. It was love at first coitus.</Source>
+      <Dest>他们在妓院见的面，最初的那次是出于爱恋他们才上床的。</Dest>
+    </String>
+    <String List="0">
+      <Source>They met in a brothel. It was love at first coitus.</Source>
+      <Dest>他们在妓院见的面，最初的那次是出于爱恋他们才上床的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I will stay here and keep this end.</Source>
+      <Dest>我会呆在这里把它干完。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright. Here you are. 1 gold piece.</Source>
+      <Dest>好吧，这枚金币就给你了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I promise to hurt you if you don't tell me something worthwhile.</Source>
+      <Dest>如果你不告诉我一点有价值的东西我可就动手了啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I promise to hurt you if you don't tell me something worthwhile.</Source>
+      <Dest>如果你不告诉我一点有价值的东西我可就动手了啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I promise to hurt you if you don't tell me something worthwhile.</Source>
+      <Dest>如果你不告诉我一点有价值的东西我可就动手了啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me my future. Leave out the part where I regret this conversation.</Source>
+      <Dest>快给我讲讲我的未来，不过，请跳过那些让我听了之后会对这次交谈感到后悔的部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me my future. Leave out the part where I regret this conversation.</Source>
+      <Dest>快给我讲讲我的未来，不过，请跳过那些让我听了之后会对这次交谈感到后悔的部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me my future. Leave out the part where I regret this conversation.</Source>
+      <Dest>快给我讲讲我的未来，不过，请跳过那些让我听了之后会对这次交谈感到后悔的部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well. If the Gods deem I walk this path, then I will do so.</Source>
+      <Dest>很好。如果诸神认为我应该走这条路，我就会走下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well. If the Gods deem I walk this path, then I will do so.</Source>
+      <Dest>很好。如果诸神认为我应该走这条路，我就会走下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Very well. If the Gods deem I walk this path, then I will do so.</Source>
+      <Dest>很好。如果诸神认为我应该走这条路，我就会走下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. However, if it were up to me, then it matters not what you say.</Source>
+      <Dest>有意思。但是，如果由我来评价，那你说什么都不管用了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. However, if it were up to me, then it matters not what you say.</Source>
+      <Dest>有意思。但是，如果由我来评价，那你说什么都不管用了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting. However, if it were up to me, then it matters not what you say.</Source>
+      <Dest>有意思。但是，如果由我来评价，那你说什么都不管用了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I did things. Met people. What becomes of all that?</Source>
+      <Dest>我做了些事，见了些人，这些会有什么影响？</Dest>
+    </String>
+    <String List="0">
+      <Source>I did things. Met people. What becomes of all that?</Source>
+      <Dest>我做了些事，见了些人，这些会有什么影响？</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps another time.</Source>
+      <Dest>下次再说吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me what it is I have to do to escape this nightmare.</Source>
+      <Dest>只需要告诉我怎么做才能逃离这个梦魇。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me what it is I have to do to escape this nightmare.</Source>
+      <Dest>只需要告诉我怎么做才能逃离这个梦魇。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me what it is I have to do to escape this nightmare.</Source>
+      <Dest>只需要告诉我怎么做才能逃离这个梦魇。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only if the future you see involves people feeding me grapes.</Source>
+      <Dest>只要你看到的未来涉及到有人喂我葡萄。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a sabrecat would have eaten him, had Falatild not intervened.</Source>
+      <Dest>如果菲菈缇儿置之不理的话，他就会被一只剑齿虎吃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't believe in soothsayers.</Source>
+      <Dest>我不相信预言者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Peddle your fortunes elsewhere, thief.</Source>
+      <Dest>去別处兜售你那所谓命运论吧，小贼。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean? I never left the Huntsman?</Source>
+      <Dest>你什么意思？我从没离开过猎手酒馆？</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't be expected to remember things about people I don't care about.</Source>
+      <Dest>我没法回忆起那些我不关心的人的事情啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't be expected to remember things about people I don't care about.</Source>
+      <Dest>我没法回忆起那些我不关心的人的事情啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't be expected to remember things about people I don't care about.</Source>
+      <Dest>我没法回忆起那些我不关心的人的事情啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't be expected to remember things about people I don't care about.</Source>
+      <Dest>我没法回忆起那些我不关心的人的事情啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't be expected to remember things about people I don't care about.</Source>
+      <Dest>我没法回忆起那些我不关心的人的事情啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's nonsense and you're a liar. I'm waking up from this dream.</Source>
+      <Dest>那都是废话，你这个骗子！我已经从这迷梦中醒过来了！</Dest>
+    </String>
+    <String List="0">
+      <Source>What would you have me do?</Source>
+      <Dest>你想让我干什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What would you have me do?</Source>
+      <Dest>你想让我干什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What would you have me do?</Source>
+      <Dest>你想让我干什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>That includes the causes that Gren and Larsdon fought for. And with death comes a new beginning for all, but who knows how it will end.</Source>
+      <Dest>这其中包括了格伦和劳斯登所为之而战的动机。伴随着死亡而来的是一切的开始，但没人知道这要如何结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are many things that you will regret, for that is the essence of choice. To find the path that you will regret the least.</Source>
+      <Dest>有很多事情你会后悔的，这就是选择的本质。找出你后悔的最少的那条路。</Dest>
+    </String>
+    <String List="2">
+      <Source>He will tell you he was on that hill searching for the heir. But in truth, he had all but given up. He had tossed his notes into the valley below.</Source>
+      <Dest>他会告诉你他在那座山上寻找继承人。不过老实说，他几乎已经要放弃了。他把他的笔记扔到了山谷中。</Dest>
+    </String>
+    <String List="2">
+      <Source>He will tell you he was on that hill searching for the heir. But in truth, he had all but given up. He had tossed his notes into the valley below.</Source>
+      <Dest>他会告诉你他在那座山上寻找继承人。不过老实说，他几乎已经要放弃了。他把他的笔记扔到了山谷中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wonderful. However, do not mistake my craft for a sleight of hand, but rather, an opportunity. One that can be bought for a single septim.</Source>
+      <Dest>好极了。不过别认为我的手艺是靠手工，你只是花一个金币买一个机会罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead. You cannot leave this place, no more than you can escape your own end. But there is a way to alter the course.</Source>
+      <Dest>随便你。你不可能离开这里，就像你不能躲避死亡。但是我们可以换种思路。</Dest>
+    </String>
+    <String List="2">
+      <Source>A surprising choice. Very well. As promised, here is your gold piece. Take it as a token of my apology, for this unfortunate outcome.</Source>
+      <Dest>一个惊喜的选择。很好。按照约定，这是你的金币。就当给你道个歉了，因为这结果可真是不幸啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but it will end this way, if you do nothing. Yet what I offer now is a chance to alter the course.</Source>
+      <Dest>啊，但如果你什么都不做的话，它就会这样结束了。而我现在可以提供一个改变这走向的机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course. I will be here, should you change your mind.</Source>
+      <Dest>当然。我会留在这儿，等你改变主意再来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, the brothel story. That was used to explain the origin of the child queen. The one who did not exist. But no, you're mistaken.</Source>
+      <Dest>啊，妓院的故事。那就是一般用来解释童年女皇的依据。说她们根本不存在。可是错了，你错了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, so you remember. Good. But your memory is still incomplete. I will fill in the details.</Source>
+      <Dest>啊，那么你还记得。很好。但你的记忆仍然不完整。我会补充一些细节。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and no. I gave you a telling, one that will come to pass precisely as you saw it, provided the beginning doesn't change.</Source>
+      <Dest>是，也不是。打个比方，一样事物会按着它命运的轨迹前进，而那恰恰是你曾看见过的。提供开头并不会改变什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like any good fortune teller, I am giving you a chance to change your future. </Source>
+      <Dest>像任何优秀的算命师一样，我将会给你一个改变你的未来的机会。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Like any good fortune teller, I am giving you a chance to change your future. </Source>
+      <Dest>像任何优秀的算命师一样，我将会给你一个改变你的未来的机会。 </Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary, not every choice is yours to make. Remember that your piece is just one of many.</Source>
+      <Dest>恰恰相反，你无法做控制每个选择。记住你也只是万千选择之一。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am no thief, nor are my prices a swindle. One gold coin is all I ask. What you receive in return, is worth thousands more.</Source>
+      <Dest>我不是贼，我的报价也不是诈骗。我所想要的只有一枚金币。你会得到数以千万倍的回报。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before that, he was here. Drinking his life away. He has no idea that in a fortnight's time, all your fates will change.</Source>
+      <Dest>在那之前，他在这里。整日借酒浇愁。他不知道，在两星期后，你的命运会发生改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before that, he was here. Drinking his life away. He has no idea that in a fortnight's time, all your fates will change.</Source>
+      <Dest>在那之前，他在这里。整日借酒浇愁。他不知道，在两星期后，你的命运会发生改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>For you, this gold piece is that marker. The starting point. Where it goes from here, that is for you to decide.</Source>
+      <Dest>给你，这些金币是标记。是起点。至于它从哪里开始，这是由你来决定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>For you, this gold piece is that marker. The starting point. Where it goes from here, that is for you to decide.</Source>
+      <Dest>给你，这些金币是标记。是起点。至于它从哪里开始，这是由你来决定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I cannot grant wishes, sera. The future may be bright, or it may be bleak, or worse yet, it may be dull. A septim will tell you which.</Source>
+      <Dest>呃，我不能给你祝愿，先生。未来也许一片光明，也许非常凄惨，或者更糟，也许平淡无奇。财富决定一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that is the end you prefer, then by all means, stay.</Source>
+      <Dest>如果那是你的最终选择，那么无论如何，请留下。</Dest>
+    </String>
+    <String List="2">
+      <Source>If that is the end you prefer, then by all means, stay.</Source>
+      <Dest>如果那是你的最终选择，那么无论如何，请留下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your sacrifice saved the life of Thane Larsdon. A new beginning for him and his love, but who knows how it will end.</Source>
+      <Dest>你用自己的牺牲拯救了劳斯登领主的性命。这是他与他爱人全新的开始，但又有谁知道这艘爱的小船会驶向何方呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>All except two. Those two, upon whom your life depends on.</Source>
+      <Dest>所有人除了这俩。至于那两人，取决于你把命寄托给谁。</Dest>
+    </String>
+    <String List="2">
+      <Source>An important meeting is about to take place there. You will do well not to miss it.</Source>
+      <Dest>一场重要的会面将在那里进行。你肯定不想错过它的。</Dest>
+    </String>
+    <String List="2">
+      <Source>An important meeting is about to take place there. You will do well not to miss it.</Source>
+      <Dest>一场重要的会面将在那里进行。你肯定不想错过它的。</Dest>
+    </String>
+    <String List="2">
+      <Source>An important meeting is about to take place there. You will do well not to miss it.</Source>
+      <Dest>一场重要的会面将在那里进行。你肯定不想错过它的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, you have the power to alter the future. For this is but a beginning. As I told you before, the end is yours to keep.</Source>
+      <Dest>当然，你有力量去改变未来。这仅仅是个开始。就像我以前告诉你的，结局由你而定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, you have the power to alter the future. For this is but a beginning. As I told you before, the end is yours to keep.</Source>
+      <Dest>当然，你有力量去改变未来。这仅仅是个开始。就像我以前告诉你的，结局由你而定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course. But perhaps even a skeptic is willing to take pity on a poor man's ramblings, with a gold coin and a moment of their time.</Source>
+      <Dest>当然，但是甚至一个怀疑心极强的人也会用一枚金币和自己的一点时间来对一个说着胡话的可怜人表示自己的怜悯。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will all remain. The ones you helped, the ones you saved, and the relationships you forged, will stay the same.</Source>
+      <Dest>那些你帮助和救过的人和那些你伪造的关系都将延续下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, and one other thing. This gold piece, this marker you have given me, I do not plan to spend it until you are finished.</Source>
+      <Dest>哦，还有一件事，你给我的标记，这枚金币，我不打算在你完成之前花掉它。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Others will make their own choices. Some of them head for a campfire to the west, where hunters gather to rest.</Source>
+      <Dest>其他人会做出他们的选择的，他们中的一部分人向西边猎人聚群休息的营地去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Others will make their own choices. Some of them head for a campfire to the west, where hunters gather to rest.</Source>
+      <Dest>其他人会做出他们的选择的，他们中的一部分人向西边猎人聚群休息的营地去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Others will make their own choices. Some of them head for a campfire to the west, where hunters gather to rest.</Source>
+      <Dest>其他人会做出他们的选择的，他们中的一部分人向西边猎人聚群休息的营地去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many look to Aetherius for answers, but that too is one's choice.</Source>
+      <Dest>许多人向诸神寻求答案，但是那也是一种选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Often times, it isn't important how it begins, or even why. Just that it does.</Source>
+      <Dest>很多时候，它怎么开始或者为什么开始这点并不重要。只要把事情做好就可以了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Often times, it isn't important how it begins, or even why. Just that it does.</Source>
+      <Dest>很多时候，它怎么开始或者为什么开始这点并不重要。只要把事情做好就可以了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Find a way to end their accursed meeting, through blood or guile, and save your life.  Or stay here for all eternity.</Source>
+      <Dest>不管是鲜血还是诡诈，找个方法终结他们受诅咒的集会，然后拯救你自己。或者就这么呆在这里，直到永远。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you care not for them, you care not for yourself, for their fates and yours are intertwined. But alas, I will refresh your memory.</Source>
+      <Dest>如果你不在乎他们，你就是不在乎自己。因为你的命运和他们的紧紧相连。但是唉，我让你先回想下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excuse me, sera, but would you like to have your fortune told?</Source>
+      <Dest>不好意思先生，介意停下脚步听一听你未来的命运吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly. Those who lived, will live; those who died, will die.</Source>
+      <Dest>毫无疑问，生死各有天命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly. Those who lived, will live; those who died, will die.</Source>
+      <Dest>毫无疑问，生死各有天命。</Dest>
+    </String>
+    <String List="2">
+      <Source>For I tell the future. What you do with that information is up to you.</Source>
+      <Dest>因为我预见了未来。得知这消息之后你要做的事由你做主。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will be worth this septim and thousands more. For there are many beginnings, whether they be caused by whim, fate, or an innocent mistake.</Source>
+      <Dest>这会值很多钱。不管事情的开端是什么，一时兴起，命运或者巧合。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Find a way to end their accursed meeting, through blood or guile, and save your life. Or stay here for all eternity. </Source>
+      <Dest>找个办法终止他们那该死的聚会，把他们骗走或者杀了他们，救你自己一命。要么死在那。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The door is open. The choice is yours.</Source>
+      <Dest>门开着呢。你自己选吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The door is open. The choice is yours.</Source>
+      <Dest>门开着呢。你自己选吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a bounty on his head, and Falatild tried to kill him.</Source>
+      <Dest>他正被悬赏，而且菲菈缇儿试着去杀过他了。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a bounty on his head, and Falatild tried to kill him.</Source>
+      <Dest>他头上有赏金, 而且菲菈缇儿试着去杀过他了。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a bounty on his head, and Falatild tried to kill him.</Source>
+      <Dest>他头上有赏金, 而且菲菈缇儿试着去杀过他了。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a bounty on his head, and Falatild tried to kill him.</Source>
+      <Dest>他头上有赏金, 而且菲菈缇儿试着去杀过他了。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a bounty on his head, and Falatild tried to kill him.</Source>
+      <Dest>他头上有赏金, 而且菲菈缇儿试着去杀过他了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead, I'm listening. Explain to me why I shouldn't kill you right now.</Source>
+      <Dest>继续，我听着呢。给我一个不立刻杀死你的理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead, I'm listening. Explain to me why I shouldn't kill you right now.</Source>
+      <Dest>继续，我听着呢。给我一个不立刻杀死你的理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead, I'm listening. Explain to me why I shouldn't kill you right now.</Source>
+      <Dest>继续，我听着呢。给我一个不立刻杀死你的理由。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fool. I cannot die. I am the Dragonborn. I determine my fate.</Source>
+      <Dest>你真够蠢，我是死不了的。我是龙裔。我的命运掌握在我自己的手中。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a fool. I cannot die. I am the Dragonborn. I determine my fate.</Source>
+      <Dest>你真够蠢，我是死不了的。我是龙裔。我的命运掌握在我自己的手中。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm beginning to regret we ever met.</Source>
+      <Dest>我开始后悔我们相遇了。</Dest>
+    </String>
+    <String List="0">
+      <Source>First you're going to tell me where I am, monster.</Source>
+      <Dest>先告诉我我这是在哪里，你这禽兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>First you're going to tell me where I am, monster.</Source>
+      <Dest>先告诉我我这是在哪里，你这禽兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you proposing?</Source>
+      <Dest>你的建议是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you proposing?</Source>
+      <Dest>你的建议是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a sabrecat would have eaten him, had Falatild not intervened.</Source>
+      <Dest>如果菲菈缇儿置之不理的话，他就会被一只剑齿虎吃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a sabrecat would have eaten him, had Falatild not intervened.</Source>
+      <Dest>如果菲菈缇儿置之不理的话，他就会被一只剑齿虎吃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a sabrecat would have eaten him, had Falatild not intervened.</Source>
+      <Dest>如果菲菈缇儿置之不理的话，他就会被一只剑齿虎吃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>There was a sabrecat would have eaten him, had Falatild not intervened.</Source>
+      <Dest>如果菲菈缇儿置之不理的话，他就会被一只剑齿虎吃掉。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've changed my mind. Here's your token back.</Source>
+      <Dest>我改主意了。还给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, what do you mean I'm dead?</Source>
+      <Dest>等等，你说我死了是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't seem satisfied with the ending. It was such a tragedy. You, dying. </Source>
+      <Dest>你似乎对结果不满意，真是个悲剧。你大限已至。</Dest>
+    </String>
+    <String List="2">
+      <Source>That temper may serve you well, for shedding blood will change much, should you choose that path.</Source>
+      <Dest>这脾气也许能给你带来裨益，而流血将会改变很多。你应该选择这条道路。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thus I present to you an opportunity, if you are willing to listen.</Source>
+      <Dest>如果你想听听看的话，我确实能够给你提供一个机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>He will tell you he was on that hill searching for the heir. But in truth, he had all but given up. He had tossed his notes into the valley below.</Source>
+      <Dest>他会告诉你他在那座山上寻找继承人。不过老实说，他几乎已经要放弃了。他把他的笔记扔到了山谷中。</Dest>
+    </String>
+    <String List="2">
+      <Source>He will tell you he was on that hill searching for the heir. But in truth, he had all but given up. He had tossed his notes into the valley below.</Source>
+      <Dest>他会告诉你他在那座山上寻找继承人。不过老实说，他几乎已经要放弃了。他把他的笔记扔到了山谷中。</Dest>
+    </String>
+    <String List="2">
+      <Source>Where you have always been since the day you gave me that piece. Of course, the events will happen exactly as you saw them.</Source>
+      <Dest>自我给了你那东西以来你还是一如既往吗。当然，一切会如你曾经看到过的那样发生。</Dest>
+    </String>
+    <String List="2">
+      <Source>A wise choice, but one that is ultimately inevitable.</Source>
+      <Dest>一个明智的选择，但这最终是不可避免的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you should heed my proposal, Dragonborn. Nothing has happened yet. And to change the beginning is to change the end.</Source>
+      <Dest>你应该听从我的建议，龙裔。现在什么都没来得及发生。而只要改变了起始，便也就改变了结局。</Dest>
+    </String>
+    <String List="2">
+      <Source>Truer words were never spoken. For I tell the future, and nothing has happened yet.</Source>
+      <Dest>天机不可泄露。就像我告诉你未来，然而什么也没发生过。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is, if you choose to let them.</Source>
+      <Dest>一定会这样，如果你不管的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before that, he was here. Drinking his life away. He has no idea that in a fortnight's time, all your fates will change.</Source>
+      <Dest>在那之前，他在这里。整日借酒浇愁。他不知道，在两星期后，你的命运会发生改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>And before that, he was here. Drinking his life away. He has no idea that in a fortnight's time, all your fates will change.</Source>
+      <Dest>在那之前，他在这里。整日借酒浇愁。他不知道，在两星期后，你的命运会发生改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>Consider the following. What if I told you that this gold piece, this marker, represents a different starting point than yours?</Source>
+      <Dest>试想一下，如果我告诉你，这金币，这印记，将会把你的人生往截然不同的方向引导呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Consider the following. What if I told you that this gold piece, this marker, represents a different starting point than yours?</Source>
+      <Dest>试想一下，如果我告诉你，这金币，这印记，将会把你的人生往截然不同的方向引导呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was not the end I foresaw, but you will indeed die, should events play out as they did. Meaning, they still can be changed.</Source>
+      <Dest>那不是我所预见的结局，但你确实将会死去，如果一切按照我所预见的那样的话。也就是说，它们仍然可以被改变。</Dest>
+    </String>
+    <String List="2">
+      <Source>But, as I said the day we met, if you are unsatisfied with the outcome, I will return your gold piece.  It's the least I can do.</Source>
+      <Dest>但是，就如我们见面那天我说的一样，如果你对结果不满意，我可以把金子退给你，这事儿我至少还是可以做的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, you have the power to alter the future. For this is but a beginning. As I told you before, the end is yours to keep.</Source>
+      <Dest>当然，你有力量去改变未来。这仅仅是个开始。就像我以前告诉你的，结局由你而定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, you have the power to alter the future. For this is but a beginning. As I told you before, the end is yours to keep.</Source>
+      <Dest>当然，你有力量去改变未来。这仅仅是个开始。就像我以前告诉你的，结局由你而定。</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't seem satisfied with the ending. It was such a noble sacrifice. You, dying. </Source>
+      <Dest>你似乎不太满意结局啊。这会是个高尚的牺牲。你，死吧。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Do you remember how Falatild and Larsdon met? </Source>
+      <Dest>你还记得菲欧露跟劳斯登是怎么认识的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you remember how Falatild and Larsdon met? </Source>
+      <Dest>你还记得菲欧露跟劳斯登是怎么认识的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not quite, but close. She would have killed him, had he approached her front door. But no, that isn't it.</Source>
+      <Dest>并不确切，不过差不多。如果他敢于靠近前门，她本可杀掉他。但不，事情并非如此。</Dest>
+    </String>
+    <String List="2">
+      <Source>For you see, I have no control over the end. I can set the players in motion, but you ultimately have free will.</Source>
+      <Dest>因为你看，我无法彻底掌控事件。我能鼓动人们的情感，但最终你仍然拥有自由意志。</Dest>
+    </String>
+    <String List="2">
+      <Source>But beginnings, that is something we can influence. That is something we can control.</Source>
+      <Dest>但是在开始的时候，我们还是可以影响一些东西的。那也是我们能够控制的东西了。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

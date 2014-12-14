@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I doubt a baby could survive such an ordeal.</Source>
+      <Dest>我觉得在那样严峻的条件下，一个婴儿是很难活下来的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about drinks? Is there a type you think goes best with Nord food?</Source>
+      <Dest>那饮品呢？你觉得哪种饮料最配诺德菜？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about drinks? Is there a type you think goes best with Nord food?</Source>
+      <Dest>那饮品呢？你觉得哪种饮料最配诺德菜？</Dest>
+    </String>
+    <String List="0">
+      <Source>You poor thing. Come here and let me give you a hug.</Source>
+      <Dest>你这个可怜的家伙，过来，让我抱抱你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are you from?</Source>
+      <Dest>你来自何方？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are you from?</Source>
+      <Dest>你来自何方？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of appetizers and side dishes go with that?</Source>
+      <Dest>那开胃菜和配菜是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of appetizers and side dishes go with that?</Source>
+      <Dest>那开胃菜和配菜是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of appetizers and side dishes go with that?</Source>
+      <Dest>那开胃菜和配菜是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>No, I don't think I'll be doing either.</Source>
+      <Dest>不，我才不会滚呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, I don't think I'll be doing either.</Source>
+      <Dest>不，我才不会滚呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What got you into cooking?</Source>
+      <Dest>是什么让你从事烹饪这一行的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What got you into cooking?</Source>
+      <Dest>是什么让你从事烹饪这一行的？</Dest>
+    </String>
+    <String List="0">
+      <Source>But you're always in the kitchen.</Source>
+      <Dest>但你总是在厨房里。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're fine. I've met pyromancers colder than you.</Source>
+      <Dest>你还好。我见过比你更冷酷的火法。</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of dishes do you prepare?</Source>
+      <Dest>你准备了哪些菜肴？</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of dishes do you prepare?</Source>
+      <Dest>你准备了哪些菜肴？</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of dishes do you prepare?</Source>
+      <Dest>你准备了哪些菜肴？</Dest>
+    </String>
+    <String List="0">
+      <Source>I pay your wages. I go where I want.</Source>
+      <Dest>我是你的雇主，自然是想去哪就去哪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I pay your wages. I go where I want.</Source>
+      <Dest>我是你的雇主，自然是想去哪就去哪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like you to prepare me a homecooked meal.</Source>
+      <Dest>我希望你能给我准备顿家常菜。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must be the new chef.</Source>
+      <Dest>你一定就是那个新厨师了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your favorite thing to eat?</Source>
+      <Dest>你最喜欢吃什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize. I just wanted to introduce myself.</Source>
+      <Dest>我很抱歉。我只是想介绍一下我自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize. I just wanted to introduce myself.</Source>
+      <Dest>我很抱歉。我只是想介绍一下我自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>But most of these milk-drinkers that come through here ought to be fine with a leg of mutton.</Source>
+      <Dest>不过经过这里的那些乳臭未干的家伙们似乎只要一条羊腿就能满足。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the truth is, I only get frosty when I'm in the kitchen, and people interrupt me when I'm cooking.</Source>
+      <Dest>但真相其实是，当我在下厨的时候我感觉就像被冻住了一般，而且总有人会在我煮东西的时候来打断我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ale and mead go with just about anything. Some say red wine goes good with red meat.</Source>
+      <Dest>麦芽酒和蜜酒无论跟什么都很搭。有人说红酒就得跟红肉一起来。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, but make it quick.</Source>
+      <Dest>好吧，不过快一点啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got quite a lip on you. I like that. But rules are rules. The kitchen is for the chef, and the rest is for everyone else.</Source>
+      <Dest>你可真会说话，这点我不讨厌。不过规矩就是规矩，厨房是归厨子的，而除了厨子以外的其他人，只要不踏入厨房，去哪儿都可以。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was born in Eastmarch. They say when I came out of the womb, my mother dropped me in the river, and I've been a frigid old horker ever since.</Source>
+      <Dest>我出生在东境。据说我妈分娩的时候，不小心把我掉进了河里，从那以后我就被称为速冻老海象了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right. The name's Lamki, and I specialize in authentic Nord cuisine. In other words, meat, cheese, and mead.</Source>
+      <Dest>是啊。我叫朗基，专精正宗的诺德菜。换句话说，就是肉块，奶酪和蜜酒这类。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aren't you sweet. I didn't mean to be rude, but walking into a chef's kitchen is like walking in on a woman changing.</Source>
+      <Dest>你真不可爱。无意冒犯，但走进一个厨师的厨房就如同在女人更衣时闯入一样无礼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm an old-fashioned girl. Give me a spit-roasted goat over the meal-fire, and I'm happy.</Source>
+      <Dest>我是个传统的女孩。给我一块烤山羊肉我就会很高兴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And that's what you hired Lamki to do, right? Fill everyone's belly with Nord style meat and cheese.</Source>
+      <Dest>而这就是你雇佣朗基做出的东西，对吗？能迎合所有人食欲的诺德风格的肉食和奶酪。</Dest>
+    </String>
+    <String List="2">
+      <Source>But since you're here, my name's Lamki. I make authentic Nord cuisine. You know, meat, cheese, and mead.</Source>
+      <Dest>但是既然你来了，我叫朗基。我会做最正宗的诺德菜。你懂的，就是肉啊，奶酪啊，蜜酒什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>As long as you aren't drinking milk, I don't have a problem with it.</Source>
+      <Dest>只要你别喝牛奶，我都没意见。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would've been a soldier, but the axes and swords were too heavy to swing. So instead, I picked up a butcher knife.</Source>
+      <Dest>我本该成为一个士兵，但斧子和剑挥舞起来太沉重了。所以我拿起了菜刀当做自己的武器。</Dest>
+    </String>
+    <String List="2">
+      <Source>This may sound odd, but I've always wanted to handle sharp objects. I suppose for Nords, it's in the blood.</Source>
+      <Dest>这可能听起来有点怪，但我总是喜欢手里握着利刃。我想这便是诺德人的天性吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it's Nord tradition that the tastiest dishes are also the hardest to kill. </Source>
+      <Dest>额，这是诺德传统：最好的东西最难得手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe not where you come from, but in Eastmarch, we make our beds out of snow.</Source>
+      <Dest>说不定你老家好点，在我们东陲领那里，床都是用雪堆的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's hard to believe. Women like a good listener. Of course, they like other things too.</Source>
+      <Dest>这很难让人相信。女人喜欢一个善于聆听的人。当然，她们也喜欢其他东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, not right now. Your auntie has her hands covered in pig blood, and it'd be a shame to ruin that pretty little outfit of yours.</Source>
+      <Dest>哦，别别别！不能是现在。你姑妈我满手猪血，弄脏了你一身漂亮衣服可不好。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ortheim, you wouldn't happen to be married, would you?</Source>
+      <Dest>欧塞姆，你不会是恰好结婚了吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you criticizing my cooking?</Source>
+      <Dest>你这是挑我厨艺的刺儿么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha! You got me there.</Source>
+      <Dest>蛤！你抓到我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, aren't you precious! Come here and give your auntie a kiss!</Source>
+      <Dest>哦，你这心肝！过来，让姑妈我亲一个！</Dest>
+    </String>
+    <String List="2">
+      <Source>Please do your best to stay out of the kitchen.</Source>
+      <Dest>你最好离厨房一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>If wheats and grains are too frail to grow in the cold, then they aren't worth putting in our bellies.</Source>
+      <Dest>如果说小麦和谷物太脆弱不能在寒冷的气候中种植的话，那它们就不值得我们去用它们填饱我们的肚子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Safe travels.</Source>
+      <Dest>旅途安全。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe you couldn't tell by the hat. I'm Lamki, the chef. I make good Nord food for hearty Nord warriors.</Source>
+      <Dest>或许单从我这厨师帽上还看不出来，我是朗基，是个厨师。负责为诺德勇士们烧饭。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shouldn't you have your spouse do that? Or did we get married and I forgot? Well, here you go.</Source>
+      <Dest>你难道不该让你的配偶来做这个吗？或者说其实是我们结了婚然后我忘了吗？好吧，做就做呗。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when you're finished, why don't you do her a favor and get the hell out of her kitchen!</Source>
+      <Dest>以及等你完事了以后，你能不能发发善心帮她一个小忙从她的厨房里滚出去！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dried fish is another popular one, but you have to let it soak for a few days in water, ashes, and lye before you cook it.</Source>
+      <Dest>此外，鱼干也很流行，但你得把它在水里泡几天，捣成灰，然后在烹饪它之前再用碱液滤一遍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mostly vegetables. Cabbages, carrots, potatoes and leeks. If some Imperial comes in here asking for bread, tell him to go back to Cyrodiil.</Source>
+      <Dest>大部分是蔬菜。卷心菜，胡萝卜，土豆和韭葱。如果有帝国人来这里点了面包，告诉他滚回赛瑞迪尔去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like an old lover of mine. I couldn't tell if he was a charmer or a liar. I guess they're one and the same.</Source>
+      <Dest>你像我的一个老情人。我不知道他是一个魔术师还是个骗子。魔术师和骗子好像也差不了多少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not if you want to keep your fingers. I don't care if you're the Jarl of Riften, a kitchen belongs to a cook.</Source>
+      <Dest>那你是不想要你的手指了么。哪怕你是裂谷的领主也给我滚出去，厨房是厨师的地盘。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, we got a few loafs around here, but Nords don't like to eat things that are weak.</Source>
+      <Dest>对啊，我们找到几个在这游手好闲的家伙，但是诺德人不喜欢揍那些弱爆了的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>What sort of appetizers and side dishes go with that?</Source>
+      <Dest>那开胃菜和配菜是什么？</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

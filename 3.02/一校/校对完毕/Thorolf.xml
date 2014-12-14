@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You know what kid? I like you.</Source>
+      <Dest>你知道么，孩子。我看好你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anything else on you want to share?</Source>
+      <Dest>你还有什么要拿来分享一下的？</Dest>
+    </String>
+    <String List="0">
+      <Source>You in particular would look extremely pathetic.</Source>
+      <Dest>尤其是你，看起来真可悲。</Dest>
+    </String>
+    <String List="0">
+      <Source>You in particular would look extremely pathetic.</Source>
+      <Dest>尤其是你，看起来真可悲。</Dest>
+    </String>
+    <String List="0">
+      <Source>You in particular would look extremely pathetic.</Source>
+      <Dest>尤其是你，看起来真可悲。</Dest>
+    </String>
+    <String List="0">
+      <Source>You in particular would look extremely pathetic.</Source>
+      <Dest>尤其是你，看起来真可悲。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look worried.</Source>
+      <Dest>你看起来忧心忡忡。</Dest>
+    </String>
+    <String List="0">
+      <Source>You may have a point.</Source>
+      <Dest>你说的有道理。</Dest>
+    </String>
+    <String List="0">
+      <Source>You may have a point.</Source>
+      <Dest>你说的有道理。</Dest>
+    </String>
+    <String List="0">
+      <Source>You may have a point.</Source>
+      <Dest>你说的有道理。</Dest>
+    </String>
+    <String List="0">
+      <Source>You may have a point.</Source>
+      <Dest>你说的有道理。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of business are you planning to run?</Source>
+      <Dest>你正在打算做什么生意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of business are you planning to run?</Source>
+      <Dest>你正在打算做什么生意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of business are you planning to run?</Source>
+      <Dest>你正在打算做什么生意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of business are you planning to run?</Source>
+      <Dest>你正在打算做什么生意？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that?</Source>
+      <Dest>你怎么会那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that?</Source>
+      <Dest>你怎么会那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that?</Source>
+      <Dest>你怎么会那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, it may be difficult, but it's not impossible.</Source>
+      <Dest>无论如何，那可能会很难，但并非不可能。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, it may be difficult, but it's not impossible.</Source>
+      <Dest>无论如何，那可能会很难，但并非不可能。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to invest in your future business.</Source>
+      <Dest>你这门生意我也打算入股。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, a mission you accomplished the moment you discovered mirrors.</Source>
+      <Dest>是的，任务完成的那一刻你发现了镜子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think I should kill your parents before they give birth to any more monsters.</Source>
+      <Dest>我想我应该在你父母生出更多的怪物之前就杀了他们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think I should kill your parents before they give birth to any more monsters.</Source>
+      <Dest>我想我应该在你父母生出更多的怪物之前就杀了他们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The dreams are gone. You should be getting better sleep.</Source>
+      <Dest>噩梦过去了。你应该睡个好觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>The dreams are gone. You should be getting better sleep.</Source>
+      <Dest>噩梦过去了。你应该睡个好觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Losing your parents must have made you bitter.</Source>
+      <Dest>双亲尽丧一定让你痛苦万分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Losing your parents must have made you bitter.</Source>
+      <Dest>双亲尽丧一定让你痛苦万分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Losing your parents must have made you bitter.</Source>
+      <Dest>双亲尽丧一定让你痛苦万分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Losing your parents must have made you bitter.</Source>
+      <Dest>双亲尽丧一定让你痛苦万分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not try alchemy? Your guardian could teach you.</Source>
+      <Dest>为什么不试试炼金术？你的监护人能教你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not try alchemy? Your guardian could teach you.</Source>
+      <Dest>为什么不试试炼金术？你的监护人能教你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not try alchemy? Your guardian could teach you.</Source>
+      <Dest>为什么不试试炼金术？你的监护人能教你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you made any progress on your business plans?</Source>
+      <Dest>你的商业计划有什么新的进展吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you made any progress on your business plans?</Source>
+      <Dest>你的商业计划有什么新的进展吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you had a long night.</Source>
+      <Dest>看来你经历了漫长而艰辛的日子啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>If mining comes easy for you, it won't be so grueling.</Source>
+      <Dest>如果挖矿对你是件轻松活，那就不会是难以忍受的刑罚。</Dest>
+    </String>
+    <String List="0">
+      <Source>A museum requires artifacts to display.</Source>
+      <Dest>博物馆需要艺术品来展览。</Dest>
+    </String>
+    <String List="0">
+      <Source>A museum requires artifacts to display.</Source>
+      <Dest>博物馆需要艺术品来展览。</Dest>
+    </String>
+    <String List="0">
+      <Source>A museum requires artifacts to display.</Source>
+      <Dest>博物馆需要艺术品来展览。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry for your loss.</Source>
+      <Dest>对你的不幸我很遗憾。</Dest>
+    </String>
+    <String List="0">
+      <Source>You use excuses to cover up your shortcomings. It can be learned like any skill.</Source>
+      <Dest>你用各种借口去遮盖你的缺点，但这不可能像技能一样学学就能行。</Dest>
+    </String>
+    <String List="0">
+      <Source>You use excuses to cover up your shortcomings. It can be learned like any skill.</Source>
+      <Dest>你用各种借口去遮盖你的缺点，但这不可能像技能一样学学就能行。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter what the museum displays given how dumb the management is.</Source>
+      <Dest>哪怕那馆里陈列显示出管理者是蠢到家了也没什么关系。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's the dumbest sodding idea I've ever heard.</Source>
+      <Dest>那是我听过最蠢的馊主意。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know a "potion" that will end your existence. So watch what you eat.</Source>
+      <Dest>我知道什么药剂能够让你从人间蒸发。所以嘛，吃东西的时候看着点。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know a "potion" that will end your existence. So watch what you eat.</Source>
+      <Dest>我知道什么药剂能够让你从人间蒸发。所以嘛，吃东西的时候看着点。</Dest>
+    </String>
+    <String List="0">
+      <Source>A cult of mad Dibellan harlots will really drum up interest.</Source>
+      <Dest>由迪贝拉的婊子信徒们举行的仪式绝对吸引眼球。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents are dead.  No wonder you turned into a horrible brat.</Source>
+      <Dest>父母都不在了，难怪你变成这么个小坏蛋。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your parents are dead.  No wonder you turned into a horrible brat.</Source>
+      <Dest>父母都不在了，难怪你变成这么个小坏蛋。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard Dawnstar has been plagued by nightmares.</Source>
+      <Dest>我听说晨星城正被噩梦笼罩着？</Dest>
+    </String>
+    <String List="2">
+      <Source>Frida's dead.  The stupid old hag didn't leave me anything.  Now what am I supposed to do?</Source>
+      <Dest>福瑞达死了。那个愚蠢的老太婆没给我留下任何东西，我现在该怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>Silus is my inspiration.  If he can make a living out of some stupid museum, imagine the profit I can make off a better one.</Source>
+      <Dest>希鲁斯是启发我的人。如果他能以那些愚蠢的博物馆谋生，我想我能从中得到更多好处。</Dest>
+    </String>
+    <String List="2">
+      <Source>The other day I was messing around with a pickaxe, and chipped a diamond out of an ore vein.</Source>
+      <Dest>某天我正拿着鹤嘴锄四处乱逛，把一块宝石从矿脉中开采出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?  Well, so is your face.</Source>
+      <Dest>诶？好吧，所以原来你长这样啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>You got to have a talent for it, or you won't be any good.  The scary part is, I think I have a talent for mining.</Source>
+      <Dest>你必须有这方面的才能，或者你并不是很优秀。可怕的部分是，我认为我有一个可以挖掘的才能。</Dest>
+    </String>
+    <String List="2">
+      <Source>You got to have a talent for it, or you won't be any good.  The scary part is, I think I have a talent for mining.</Source>
+      <Dest>你必须有这方面的才能，或者你并不是很优秀。可怕的部分是，我认为我有一个可以挖掘的才能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever jerkface.  Just don't come crying to me when you're out in the cold selling cat pelts for spare coin.</Source>
+      <Dest>随便你，蠢货。只要你别在沦落到为了攒点小钱而去寒风中卖猫皮那种地步的时候再来向我哭诉就行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Big deal.  I don't know why people complain about them.  I dreamt my parents died, and I thought to myself, "Yeah, that's what happened."</Source>
+      <Dest>没什么大不了的。我不知道为什么人们总是抱怨这些事。我梦见我的父母去世了，然后我想，“啊，也就是这么回事儿。”</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, a blind skeever can find a piece of cheese every now and then.  But three in one hour?  That's a lot of cheese.</Source>
+      <Dest>现在，哪怕是一只瞎眼的雪鼠都能随时找到一片奶酪。那如果花上三刻钟呢？那一定会有一大堆奶酪了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I stole Silus' idea. Only I won't have to search the ends of the Earth to find my relics. That's the advantage of making stuff up.</Source>
+      <Dest>这就是为什么我窃用了希鲁斯的主意。只因为我不知道如何才能大海捞针般的寻得我的遗物。我得为自己创造优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I stole Silus' idea. Only I won't have to search the ends of the Earth to find my relics. That's the advantage of making stuff up.</Source>
+      <Dest>这就是为什么我窃用了希鲁斯的主意。只因为我不知道如何才能大海捞针般的寻得我的遗物。我得为自己创造优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe it was trying to keep its treasure secret.  Say, you should go look for it.  I have a map I can sell you for 200,000 gold.</Source>
+      <Dest>也许是试图隐藏起宝藏的秘密。我说，你应该去寻找它。我有一份地图，只要200,000金币就卖你。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was kind of neat, so I kept at it, and sure enough I found two more. </Source>
+      <Dest>那感觉真不错，所以我就继续，结果还真又找到两个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever wonder why there aren't any children around here?  I heard it's because Skald the Elder ate them.</Source>
+      <Dest>对为什么这附近没有孩子感到奇怪么？我听说这是因为老斯卡德把他们都给吃了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wasn't asking, stupid.</Source>
+      <Dest>我可没问，蠢货。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm surprised you know what a mirror is.  Must be hard to look at one without recoiling in horror.</Source>
+      <Dest>对于你居然知道什么是镜子，我表示很惊讶。看到这样恐怖的脸你居然没有退缩，一定很艰难。</Dest>
+    </String>
+    <String List="2">
+      <Source>But my point is, alchemy's more than just throwing some ingredients in a mortar and calling it a day.</Source>
+      <Dest>但我的观点是，炼金术不仅仅是把几种原料扔进研钵里就完事了的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But my point is, alchemy's more than just throwing some ingredients in a mortar and calling it a day.</Source>
+      <Dest>但我的观点是，炼金术不仅仅是把几种原料扔进研钵里就完事了的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it was that or become the Dragonborn.  I thought being a horrible brat was the safer career choice.</Source>
+      <Dest>嗯，我可以选择成为一个小混蛋或者成为一个龙裔。我觉得做一个可怕的小混蛋是更安全的选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tikrid, when I take over this town, I'm going to need a personal housecarl.  You seem more than capable.</Source>
+      <Dest>剃克瑞德，当我接管这个小镇的时候，我得需要一个私人侍卫。而你看起来很有能力。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm stealing Silus' idea.  He wants to open some stupid museum, so I thought why not open one that isn't stupid.</Source>
+      <Dest>我从希鲁斯那儿获得了灵感。他想开一堆愚蠢的博物馆，所以我想为什么不开一家不那么愚蠢的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you haven't noticed, I'm a kid.  I could fill my museum with my bug collection and people will think it's adorable or they'll just pity me.</Source>
+      <Dest>不知道您有没有注意到，我是一个孩子。我可以用我的虫子收藏填满我的博物馆，而且人们会认为这很可爱的或者他们仅仅会同情我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, so you can take a cut?  No way.</Source>
+      <Dest>为什么，以为这样我就会给你打折吗？没门。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really, genius?  You know, the Jarl's arrested people for saying things less stupid.</Source>
+      <Dest>真的吗，天才？你知道的，领主还用过“没怎么说过蠢事”的理由逮捕过人呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever.</Source>
+      <Dest>无所谓。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that your way of making peace? Alright, I accept your surrender.  We can discuss the terms later, and seal it with a pinky swear.</Source>
+      <Dest>这就是你缔造和平的方式吗？好吧，我接受你的投降。我们可以在讨论条款之后，拉拉勾发发誓。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not like Frida says.  You can't just brew potions out of flowers, butterflies, and positive thinking.</Source>
+      <Dest>这不像是福瑞达说的。你可不能光凭鲜花，蝴蝶和脑补就做出药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nah, if I was bitter, I would try and get revenge on Beitild for working my parents so hard.</Source>
+      <Dest>不，如果我怀恨在心的话，我肯定会试着报复贝提尤德的，就因为她，我的父母才会那么工作得那么辛苦。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's next on your to do list, setting a bunch of traps around a caged animal?</Source>
+      <Dest>你清单上的下一件事要做什么，在被关进笼子的动物周围安一溜儿陷阱吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're too late. The mine already killed the both of them.  Mom was pregnant too, so maybe it was thinking the same when it collapsed on her head.</Source>
+      <Dest>你说的太迟了。那处矿井已经把他们两个都杀掉了。怀了孕的妈妈也是。也许矿井在坍塌的把她的头砸的稀巴烂的时候，也跟你想的一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, Frida keeps talking in her sleep.  Keeps saying something about her husband and junipers.  Must be some Dibellan thing.</Source>
+      <Dest>对，福瑞达睡着的时候都在说话。一直在说她的丈夫和茱尼泊尔果。一定是迪贝拉教她的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it was that or become the Jarl.  I thought being a horrible brat was the more promising career choice.</Source>
+      <Dest>嗯，要么就那样，要么就成为领主。我曾觉得成为一个捣蛋鬼是个更有前途的职业选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Silus and Beitild are dead.  Ever since you've come here people have been dropping like flies, but the guards are too dumb to see the connection.</Source>
+      <Dest>希鲁斯和贝提尤德都死了.自从你来到这儿以后，便有人接二连三地死去，可是那些蠢货卫兵们居然看不到个中的关联。</Dest>
+    </String>
+    <String List="2">
+      <Source>Big deal.  I don't know why people complained about them.  I dreamt my parents died, and I thought to myself, "Yeah, that's what happened."</Source>
+      <Dest>大惊小怪。我不知道为什么人们要抱怨梦魇。我梦到了我的爸爸妈妈去世了，然后我就想，这就是已经发生的事情啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe if Beitild wasn't dead, you'd have a point, seeing as she used to work my parents so hard.</Source>
+      <Dest>或许如果贝提尤德没有死去的话, 你不会看到现在这种局面，我的父母被她如此这般使唤着。</Dest>
+    </String>
+    <String List="2">
+      <Source>That thing had a mold spot shaped just like Talos.  I'm going to make it the centerpiece of my museum.</Source>
+      <Dest>那宝贝的形状整个一缩小版的塔洛斯雕像！我要拿它当我的镇馆之宝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Especially the positive thinking part.  That's just dumb.</Source>
+      <Dest>特别是积极思考的部分。那太蠢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>As long as I put it in a nice display case, no one will be able to tell the difference.</Source>
+      <Dest>只要我把它放进精美的展示柜里，没人能分辨出它们的区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>As long as I put it in a nice display case, no one will be able to tell the difference.</Source>
+      <Dest>只要我把它放进精美的展示柜里，没人能分辨出它们的区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to marry Karita one day.  The Windpeak Inn will make a fine addition to my empire.</Source>
+      <Dest>我总有一天要娶了卡莉塔。风岳旅店也会成为我商业帝国重要的一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that easy, but you could see that if you didn't have buttons for eyes and slop for everything else.</Source>
+      <Dest>这可没有那么简单，不过只要你没选择性无视一些东西而且眼睛没被乌七八糟的东西糊死那你就能学会了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah right.  You ever been in one of those mines?  Old people smell bad, but at least breathing that in won't kill you.</Source>
+      <Dest>对的，你有去过那些矿井之中的其中一座么？老人味道不好闻, 但至少吸入那的空气不会死.</Dest>
+    </String>
+    <String List="2">
+      <Source>Except maybe you, but no one will ever believe you.  At least, not after all the rumors I'm going to start spreading about you tomorrow.</Source>
+      <Dest>除了你自己恐怕没人会相信你。但至少明天我不会到处嚷嚷关于你的耀眼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Except maybe you, but no one will ever believe you.  At least, not after all the rumors I'm going to start spreading about you tomorrow.</Source>
+      <Dest>除了你自己恐怕没人会相信你。但至少明天我不会到处嚷嚷关于你的耀眼。</Dest>
+    </String>
+    <String List="2">
+      <Source>But somebody killed her, so what do I have to be bitter about?  It's not like I have your face.</Source>
+      <Dest>但有人杀了她，那我还有什么可痛苦的？我又不是你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now they're gone, so I guess I have you to thank for saving me from another history lesson.</Source>
+      <Dest>现在，他们死了，所以我想我得谢谢你从另一个教训里救了我一命。</Dest>
+    </String>
+    <String List="0">
+      <Source>If this cult loved dragons so much, why didn't they marry them?</Source>
+      <Dest>既然这个教派如此爱龙，为什么不跟龙结婚呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to have talent to be an alchemist, but it takes hard work.</Source>
+      <Dest>你不一定要有成为炼金术师的天赋，但是要付出艰辛的努力.</Dest>
+    </String>
+    <String List="0">
+      <Source>Young man, you should respect your elders.</Source>
+      <Dest>年轻人，你应该尊敬长者。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you honestly believe that?</Source>
+      <Dest>你真的完全相信那个？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you honestly believe that?</Source>
+      <Dest>你真的完全相信那个？</Dest>
+    </String>
+    <String List="0">
+      <Source>Just 200,000?  Sounds like a bargain to me.  Hand it over.</Source>
+      <Dest>只要200000？那还真是够便宜的，交出来吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't kill boredom. By the Gods you're stupid.</Source>
+      <Dest>你不能杀死无聊。老天在上你太蠢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't kill boredom. By the Gods you're stupid.</Source>
+      <Dest>你不能杀死无聊。老天在上你太蠢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good luck with that.</Source>
+      <Dest>祝你好运。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about a cult dedicated to worshiping the Dragonborn?</Source>
+      <Dest>建立一种对龙裔的狂热信仰如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, your museum is the far superior idea.</Source>
+      <Dest>没错，你的博物馆比他的主意棒多了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Alchemy isn't so difficult. Maybe you're just not very smart.</Source>
+      <Dest>炼金术没那么难吧。也许只是你不够聪明。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're going to spread rumors?  What kind?</Source>
+      <Dest>你要去分发装备？哪种装备？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Silus think of your plans?</Source>
+      <Dest>希鲁斯怎么看待你的计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Silus think of your plans?</Source>
+      <Dest>希鲁斯怎么看待你的计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Silus think of your plans?</Source>
+      <Dest>希鲁斯怎么看待你的计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Silus think of your plans?</Source>
+      <Dest>希鲁斯怎么看待你的计划？</Dest>
+    </String>
+    <String List="0">
+      <Source>That is a lot of cheese. Valuable cheese.</Source>
+      <Dest>这里有好多奶酪，多么珍贵的奶酪啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>That is a lot of cheese. Valuable cheese.</Source>
+      <Dest>这里有好多奶酪，多么珍贵的奶酪啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too shook up for being orphaned at such a young age.</Source>
+      <Dest>如此年幼就成为孤儿，你似乎并不是太担忧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too shook up for being orphaned at such a young age.</Source>
+      <Dest>如此年幼就成为孤儿，你似乎并不是太担忧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too shook up for being orphaned at such a young age.</Source>
+      <Dest>如此年幼就成为孤儿，你似乎并不是太担忧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too shook up for being orphaned at such a young age.</Source>
+      <Dest>如此年幼就成为孤儿，你似乎并不是太担忧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever think you might be too young to be planning business ventures?</Source>
+      <Dest>你不认为你现在就开始计划考虑这些商业风险这对你来说太年轻了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever think you might be too young to be planning business ventures?</Source>
+      <Dest>你不认为你现在就开始计划考虑这些商业风险这对你来说太年轻了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever think you might be too young to be planning business ventures?</Source>
+      <Dest>你不认为你现在就开始计划考虑这些商业风险这对你来说太年轻了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever think you might be too young to be planning business ventures?</Source>
+      <Dest>你不认为你现在就开始计划考虑这些商业风险这对你来说太年轻了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever think you might be too young to be planning business ventures?</Source>
+      <Dest>你不认为你现在就开始计划考虑这些商业风险这对你来说太年轻了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>See this knee?  I'm about to bend you over it.</Source>
+      <Dest>看到这膝盖了吗？我从这里开始把你掰成两截。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Silus is dead.  Less competition.</Source>
+      <Dest>希鲁斯之死是个好事啊，减少竞争压力。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Silus is dead.  Less competition.</Source>
+      <Dest>希鲁斯之死是个好事啊，减少竞争压力。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Silus is dead.  Less competition.</Source>
+      <Dest>希鲁斯之死是个好事啊，减少竞争压力。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Silus is dead.  Less competition.</Source>
+      <Dest>希鲁斯之死是个好事啊，减少竞争压力。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Silus is dead.  Less competition.</Source>
+      <Dest>希鲁斯之死是个好事啊，减少竞争压力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except your relics will be fake.</Source>
+      <Dest>除了你的神器是假的。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's going to be the story behind the cult of the Epic Dusk?</Source>
+      <Dest>那么史诗黄昏的崇拜背后隐藏的故事是什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's going to be the story behind the cult of the Epic Dusk?</Source>
+      <Dest>那么史诗黄昏的崇拜背后隐藏的故事是什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about I stick one foot up your bottom?</Source>
+      <Dest>我把一只脚贴在你屁股上好不好？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think the smith will notice his own craftsmanship?</Source>
+      <Dest>你不觉得那铁匠能看得出自己的手艺吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think the smith will notice his own craftsmanship?</Source>
+      <Dest>你不觉得那铁匠能看得出自己的手艺吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think the smith will notice his own craftsmanship?</Source>
+      <Dest>你不觉得那铁匠能看得出自己的手艺吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think the smith will notice his own craftsmanship?</Source>
+      <Dest>你不觉得那铁匠能看得出自己的手艺吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think the smith will notice his own craftsmanship?</Source>
+      <Dest>你不觉得那铁匠能看得出自己的手艺吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are your parents?  I'd like to have a talk with them.</Source>
+      <Dest>你家大人呢？我要跟他们谈谈！</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are your parents?  I'd like to have a talk with them.</Source>
+      <Dest>你家大人呢？我要跟他们谈谈！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure some other pretty smith will stroll into town.  There always is.  That's when I'll turn on the charm.</Source>
+      <Dest>我确信会有另一些可爱的工匠溜进村里。一直都是这样。那时候就是我发挥魅力的时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh, I don't know.  Maybe they all looked like you.</Source>
+      <Dest>噢，我不知道。或许他们长得很像你吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, ever try using three fingers to pick your nose?  Of course you have, you're an idiot.</Source>
+      <Dest>嘿，你试过用三个手指挖鼻孔么？你肯定试过，因为你是个白痴嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, ever try using three fingers to pick your nose?  Of course you have, you're an idiot.</Source>
+      <Dest>嘿，你试过用三个手指挖鼻孔么？你肯定试过，因为你是个白痴嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I admit, my plan was a little better when Seren was alive.  I planned on seducing her and making her craft artifacts for me.</Source>
+      <Dest>我承认，我的计划在塞伦还活着的时候要好一点。我用计勾引了她，然后让她做工艺品给我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Luck is for losers.  So that makes you the luckiest person I know.</Source>
+      <Dest>之所以你是我所知最好运的人，是因为运气是给失败者的。</Dest>
+    </String>
+    <String List="2">
+      <Source>My parents were hard workers, and look what it got them.  A one-way carriage to the void.</Source>
+      <Dest>我的父母倒都是劳动模范，可看看他们得到的是什么。一张去往虚无的单程票。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nah, he really did himself a favor, dying before he ended up a miserable failure.</Source>
+      <Dest>哪里，他其实是帮了自己一个忙，死在一个悲剧的失败结局到来之前。</Dest>
+    </String>
+    <String List="2">
+      <Source>I gave them to Frida.  It'll make her think I appreciate her.  I figure whatever I give to her will come back to me anyway when she kicks the bucket.</Source>
+      <Dest>我把他们交给了福瑞达。这会让她以为我很欣赏她。我猜她翘辫子的时候会把我给她的东西完完全全地还给我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Try it, and I'll tell the entire village how you dropped my pants and tried to touch my thingy.</Source>
+      <Dest>试试吧，我会告诉整个村子的人你扒掉了我的裤子，还妄图摸我的那玩意儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seren though, I plan on seducing her first.  That'll keep her from squealing on me.</Source>
+      <Dest>至于赛伦的話，我原先是有打算要勾引她，所以她才不会来找我麻烦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>啊?</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it depends on which smith.  If it's Rustleif we're talking about, he might not go for it.</Source>
+      <Dest>好的，这并不依赖于任何铁匠。如若是我们讨论的路斯特雷夫，他不会因为它而去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although it'd probably be better if I cut out her tongue, or just poisoned her.  Frida tells me poison can kill anything, so why not boredom?</Source>
+      <Dest>要是图省事就简单割下她的舌头，或者给她下毒。福瑞达告诉我毒药可以杀死任何东西，但那不是很无趣吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nobody cares.</Source>
+      <Dest>没人在乎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah right.  If there's anything I learned from my parents, it's that rocks are harder to break than skulls.</Source>
+      <Dest>是啊，如果我从父母那儿学会了一件事，那就是岩石比头骨难敲碎。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know, but I still have to make it a reality, and that takes patience.  As in I'm patiently waiting for someone to die.</Source>
+      <Dest>我知道，但我仍要要将它成为现实并且这事需要耐心。正如我正耐心地等待某人去死。</Dest>
+    </String>
+    <String List="2">
+      <Source>R...really?  Let me just go get it from over there somewhere.  It's hard to find and stuff, seeing as I just made it up.</Source>
+      <Dest>真........真的？让我去那里的某个地方。找到的东西是很难的，因为我刚刚把它编造出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Too unrealistic.  I have a hard time thinking people would worship someone born out of an egg.</Source>
+      <Dest>太不现实了。我没法想象人们会崇拜一个从蛋里孵出来的家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I'm just pulling your leg.  Truth is, I'm waiting for the old toad to croak so I can inherit her shop.</Source>
+      <Dest>哦，我只是开玩笑呢。其实啊，我在等那老蟾蜍断气，好继承他的商店。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I'm just pulling your leg.  Truth is, I'm waiting for the old toad to croak so I can inherit her shop.</Source>
+      <Dest>哦，我只是开玩笑呢。其实啊，我在等那老蟾蜍断气，好继承他的商店。</Dest>
+    </String>
+    <String List="2">
+      <Source>Silus was dumber than a sack of potatoes.  Too busy polishing his own horn to see his business about to go the way of the Dwarves.</Source>
+      <Dest>希鲁斯简直就是个彻头彻尾的蠢货。就知道鼓捣自己那点破事都不知道自己就要重蹈矮人的覆辙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>有话快说。</Dest>
+    </String>
+    <String List="2">
+      <Source>I plan on seducing Seren first.  She likes Nord men and it'll be easy considering Rustleif's dead.</Source>
+      <Dest>我打算先把塞伦泡到手再说。路斯特雷夫刚死不久，加之以她对诺德爷们儿的偏好，应该没什么难度。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Mortar and Pestle is two stories high, which means twice the space and twice the artifacts.  I've got him beat by sheer numbers.</Source>
+      <Dest>研缽和杵有两层那么高，这也意味着它有双倍的空间和双份儿的东西。单单从数字上我就击败了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Mortar and Pestle is two stories high, which means twice the space and twice the artifacts.  I've got him beat by sheer numbers.</Source>
+      <Dest>研缽和杵有两层那么高，这也意味着它有双倍的空间和双份儿的东西。单单从数字上我就击败了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go bother someone else.</Source>
+      <Dest>一边凉快去。</Dest>
+    </String>
+    <String List="2">
+      <Source>All my relics are going to be from heroes and monsters and stuff like that. Like Ysgramor's skin flakes or the horn Numinex used to scratch his back.</Source>
+      <Dest>我将从英雄还有怪兽还有诸如此类的身上搜取文物，比如伊斯格拉默的皮肤薄片或者从努米内斯背上掉落的角质什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>All my relics are going to be from heroes and monsters and stuff like that. Like Ysgramor's skin flakes or the horn Numinex used to scratch his back.</Source>
+      <Dest>我将从英雄还有怪兽还有诸如此类的身上搜取文物，比如伊斯格拉默的皮肤薄片或者从努米内斯背上掉落的角质什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like someone's grandma.  You don't look like one though.  You look like a pile of bird droppings bought itself some clothes.</Source>
+      <Dest>你的声音听着就像谁的祖母一样，看着简直不像个人，就像是一坨鸟屎把自己打扮得花枝招展。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was to meet the ugliest, stupidest person in all of Skyrim. I'd say mission accomplished.</Source>
+      <Dest>这是与全天际省最丑最二的人见面，我想说任务完成了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That goes double for the rocks in your brain.  Ain't a potion in Frida's shop that will get rid of those.</Source>
+      <Dest>对你这个硬如顽石的脑子更是如此了。难道福瑞达店里的药水不能帮你把这些祛除掉吗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we have the artifacts themselves.  I don't know much about history, but I've heard some people say The Mythic Dawn were creeps.  Big ones.</Source>
+      <Dest>现在我们有了全部神器的真品。我对历史了解不多，不过听说有人提到神话黎明都是些卑鄙小人。很厉害的角色。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we have the artifacts themselves.  I don't know much about history, but I've heard some people say The Mythic Dawn were creeps.  Big ones.</Source>
+      <Dest>现在我们有了全部神器的真品。我对历史了解不多，不过听说有人提到神话黎明都是些卑鄙小人。很厉害的角色。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lies mostly.  I mean, I could tell them the truth about you, but I figured that would be too mean.</Source>
+      <Dest>谎言居多。我的意思是，我可以告诉他们关于你的真相，但我发现这有点太刻薄了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You'll need a shovel, and possibly a conjurer, and a magical potion I made that lets you talk to zombies.  I can sell you one for 200,000 gold.</Source>
+      <Dest>你需要一把铲子，一个能让尸体复生的召唤师，和一瓶我所制作出的能让你与僵尸对话的药剂。我可以卖给你一瓶，只要200,000金。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was done talking to you anyway.</Source>
+      <Dest>无论如何我得跟你谈谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know the first thing about alchemy, but the space is good and I have a nose for business.</Source>
+      <Dest>我对炼金一窍不通，但在这领域也混的不错，我对生意有着敏锐的直觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know the first thing about alchemy, but the space is good and I have a nose for business.</Source>
+      <Dest>我对炼金一窍不通，但在这领域也混的不错，我对生意有着敏锐的直觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, that isn't good enough for my museum.  It would be way better if they were like dragon riders or something.  But I'm open to suggestions.</Source>
+      <Dest>当然，它还没好到可以收入我的博物馆。如果他们像是龙骑士或者什么别的的话就好多了。但是我随时恭候指教。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, the easy thing would be to make it a cult of dragon slayers.  That's what I like to call the low hanging fruit.</Source>
+      <Dest>嗯, 为屠龙者办个祭典是个简单的事。这就是为什么我将其称之为小菜一碟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, I should be like most kids and dream about being a hero, or a housecarl, and end up slaving in the mines for the rest of my life.</Source>
+      <Dest>是啊，我应该像大多数孩子一样，梦想成为一个英雄，或侍卫，而最后却被奴役在矿山度过余生。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, but I bet it took you forever to learn it.  I'd say it was a big waste of time, but I'm guessing your time is pretty much worthless.</Source>
+      <Dest>没错，不过我打赌你一辈子也学不会它。要我说这就是对时间的巨大浪费，不过我猜你的时间并不值钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, or I could take your lead, and stick my head up there instead.</Source>
+      <Dest>好啊，或者你听你的指挥，你来代替我的领导地位。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not an orphan.  Frida took me in, because she likes torturing children.</Source>
+      <Dest>我不是个孤儿。福瑞达收养了我，因为她喜欢虐童。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not with whips or anything like that, but stories about the dead man she used to play footsies with.</Source>
+      <Dest>用不着鞭子或者别的什么，不过故事是有关于那个她经常搞私下交易的死人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's like putting your valuables in a sack, only one that gets angry when you don't eat your vegetables.</Source>
+      <Dest>这就像你把你的蔬菜放在麻袋里，当你吃的不是你自己的蔬菜时只会惹恼一个人。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

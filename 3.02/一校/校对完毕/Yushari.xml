@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Do you work for the temple?</Source>
+      <Dest>你为神庙工作？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you work for the temple?</Source>
+      <Dest>你为神庙工作？</Dest>
+    </String>
+    <String List="0">
+      <Source>You've never thought about marriage yourself?</Source>
+      <Dest>你难道从来没考虑过自己的婚事吗?</Dest>
+    </String>
+    <String List="0">
+      <Source>Good for you.  A septim saved is a septim earned.</Source>
+      <Dest>赚一分是一分，对你来说不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good for you.  A septim saved is a septim earned.</Source>
+      <Dest>赚一分是一分，对你来说不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>My woman wouldn't leave me for such a petty reason...Would she?</Source>
+      <Dest>我的女人不会为这么一个小借口就离开我的……不是吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>My woman wouldn't leave me for such a petty reason...Would she?</Source>
+      <Dest>我的女人不会为这么一个小借口就离开我的……不是吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>My love wouldn't leave me for such a stupid reason...would he?</Source>
+      <Dest>我的爱人不会因为这个愚蠢的理由离开我...不是吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>My love wouldn't leave me for such a stupid reason...would he?</Source>
+      <Dest>我的爱人不会因为这个愚蠢的理由离开我...不是吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>As a Khajiit, do you get harsh treatment from the locals?</Source>
+      <Dest>虎人，你有被当地人的刻薄对待吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>As a Khajiit, do you get harsh treatment from the locals?</Source>
+      <Dest>虎人，你有被当地人的刻薄对待吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>As a Khajiit, do you get harsh treatment from the locals?</Source>
+      <Dest>虎人，你有被当地人的刻薄对待吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>As a Khajiit, do you get harsh treatment from the locals?</Source>
+      <Dest>虎人，你有被当地人的刻薄对待吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a delicate flower and I would not trample on my own kind.</Source>
+      <Dest>我就像娇嫩的花朵一般，而且是绝不会作贱自己的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a delicate flower and I would not trample on my own kind.</Source>
+      <Dest>我就像娇嫩的花朵一般，而且是绝不会作贱自己的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Trust you?  Your claims are outrageous.</Source>
+      <Dest>相信你？你的要求是无耻的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Trust you?  Your claims are outrageous.</Source>
+      <Dest>相信你？你的要求是无耻的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Trust you?  Your claims are outrageous.</Source>
+      <Dest>相信你？你的要求是无耻的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of flowers do you sell?</Source>
+      <Dest>你卖的是什么花？</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of flowers do you sell?</Source>
+      <Dest>你卖的是什么花？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't trample flowers. I burn them.</Source>
+      <Dest>我从不踩踏花草，我放火烧它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't trample flowers. I burn them.</Source>
+      <Dest>我从不踩踏花草，我放火烧它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't trample flowers. I burn them.</Source>
+      <Dest>我从不踩踏花草，我放火烧它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't trample flowers. I burn them.</Source>
+      <Dest>我从不踩踏花草，我放火烧它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you do when you aren't selling flowers?</Source>
+      <Dest>除了卖花之外你还做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you do when you aren't selling flowers?</Source>
+      <Dest>除了卖花之外你还做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you do when you aren't selling flowers?</Source>
+      <Dest>除了卖花之外你还做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>My face and body are its own aphrodisiac.</Source>
+      <Dest>我的脸蛋和身段就是春药。</Dest>
+    </String>
+    <String List="0">
+      <Source>My face and body are its own aphrodisiac.</Source>
+      <Dest>我的脸蛋和身段就是春药。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any romantic flowers, like redworts?</Source>
+      <Dest>你这里有浪漫点的花吗，比如红麦芽。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can plainly see you are living in poverty.</Source>
+      <Dest>我能清楚地看到你生活在贫困之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can plainly see you are living in poverty.</Source>
+      <Dest>我能清楚地看到你生活在贫困之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can plainly see you are living in poverty.</Source>
+      <Dest>我能清楚地看到你生活在贫困之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Communication is vital for any relationship.  Flowers or not.</Source>
+      <Dest>我们之间最重要的是沟通。有没有花无所谓。</Dest>
+    </String>
+    <String List="0">
+      <Source>Communication is vital for any relationship.  Flowers or not.</Source>
+      <Dest>我们之间最重要的是沟通。有没有花无所谓。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't save. The day I run out of coin is the day bandits go extinct.</Source>
+      <Dest>我不会存钱。哪天强盗死光了我就穷光了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't save. The day I run out of coin is the day bandits go extinct.</Source>
+      <Dest>我不会存钱。哪天强盗死光了我就穷光了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not interested in your business. I want to know more about you.</Source>
+      <Dest>我对你的生意不感兴趣。只想了解一下你本人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wealthy citizens such as myself do not concern themselves with such trifles.</Source>
+      <Dest>城里的富人比如我吧，根本就不去管这些琐事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wealthy citizens such as myself do not concern themselves with such trifles.</Source>
+      <Dest>城里的富人比如我吧，根本就不去管这些琐事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to smell Haelga's flowers.</Source>
+      <Dest>我喜欢闻哈尔嘉的花的香味儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to smell Haelga's flowers.</Source>
+      <Dest>我喜欢闻哈尔嘉的花的香味儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I heard she keeps a trout under there.</Source>
+      <Dest>我听说她在那下面藏了条鳟鱼。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're not tricking me into buying your flowers.</Source>
+      <Dest>你不是在耍花样骗我买你的花吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are your best customers?</Source>
+      <Dest>你最好的客人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are your best customers?</Source>
+      <Dest>你最好的客人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are your best customers?</Source>
+      <Dest>你最好的客人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are your best customers?</Source>
+      <Dest>你最好的客人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods, I can't let that happen! How many flowers should I buy?</Source>
+      <Dest>天呐，我绝对要阻止这件事！要让我买多少花才够？</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Gods, I can't let that happen! How many flowers should I buy?</Source>
+      <Dest>天呐，我绝对要阻止这件事！要让我买多少花才够？</Dest>
+    </String>
+    <String List="0">
+      <Source>If that were true, then every man alive would own a garden.</Source>
+      <Dest>要是那样的话，是个活人就都能有一座自己的花园了。</Dest>
+    </String>
+    <String List="0">
+      <Source>If that were true, then every man alive would own a garden.</Source>
+      <Dest>要是那样的话，是个活人就都能有一座自己的花园了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not a matter of desire.  My father's master disliked Khajiit, but he hired him to tend to his garden anyway.</Source>
+      <Dest>这不是观念的问题。我父亲的主人不喜欢虎人，但他还是雇佣虎人来照料他的花园。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you are a flower picker? This is not good. You cannot sell them here. This is my territory. You must give your flowers to me.</Source>
+      <Dest>所以你是一个卖花女？这可不成，你不能在这儿卖花，这是我的地盘儿。你必须把你的花都交出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, they think with their hearts, and their hearts demand flowers.</Source>
+      <Dest>不。她们会用心思考，她们的心需要花朵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go to Whiterun and pick the flower planted by a Princess. It is called Zora's cotton. Bring it to me and I will not be as poor.</Source>
+      <Dest>到白漫城去采那种公主种的花。名叫“佐拉的木棉”。把它送给我，我就不愁啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>You let someone like Bersi talk to his wife, he will end up stepping on his own member trying to come up with the words.</Source>
+      <Dest>你要是让波西那种家伙说话给他老婆听，下场就是不孕不育，夫妇阋墙。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is true. You are not loved. But only because you are without flowers.</Source>
+      <Dest>这是真的。你没有被那人爱上。但这仅仅是因为你没有准备鲜花儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told you, I am already married to Yushari. The only bottom I lick is my own.  Show me my back so I can pat myself on it.</Source>
+      <Dest>告诉你，我已经和攸雪瑞结婚啦。但我却只舔过自己的臀部，把我的背部露给我看吧，这样至少我还能自我安慰一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not have time to do anything else.  I must work to earn gold, or I will not last the day.  I scratch, and I claw.</Source>
+      <Dest>我没空干别的。我必须工作挣钱，不然一天都活不下去。我挣扎地活下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am like the one who pushes the millstone.  I am a grinder.  I grind for coins, and every day is a grind.</Source>
+      <Dest>我觉得我像是推动磨石的那个人。我就是那个人，每天为了金币而磨，每一天都这么磨着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you really want to take that chance? Since when have females thought with their heads?</Source>
+      <Dest>你真的打算争取那个机会？什么时候女人也会用脑袋思考了？</Dest>
+    </String>
+    <String List="2">
+      <Source>But unlike the flower, you cannot buy a new body.  Not unless you pay a face sculptor.  Flowers are much cheaper.</Source>
+      <Dest>跟鲜花不一样，你没法买一个新的身体。除非你去找那个脸部雕刻家。不然的话还是一束鲜花更便宜些。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you really want to take that chance?  Men are dumber than a bowl of bonemeal.  They need toys to remind them you love them.</Source>
+      <Dest>你真的想抓住这个机会吗？男人比一碗骨粉还笨。他们需要玩具来提醒自己你爱他们。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The men of Riften buy the flowers so their wives do not notice they are coming home wearing Daedric boots.</Source>
+      <Dest>这个裂谷城的男人买了一束鲜花，这样他的妻子就不会注意到他回家的时候穿着魔族的靴子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is why Haelga's bed is never cold and the wives are being cheated on.  </Source>
+      <Dest>这就是为什么哈尔嘉的床永远不会冰冷，还有那些妻子都被欺骗了的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell them, spring does not come because they are not buying flowers.  But they are poor so they try talking to their spouse instead.</Source>
+      <Dest>我跟他们说，他们的春天还没来是因为他们老不买花儿。但他们就是那么穷，只能试着跟自己的配偶花言巧语，以此代替那些花儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is famous for being planted by a Princess. It is called Zora's Cotton, and it is in Whiterun. You will get it for me.</Source>
+      <Dest>那种植物由于被公主培育而闻名。叫做“佐拉的木棉”，在白漫城有。你去拿来给我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, some of the flowers are red. And if not you could always paint them. But I'm sure your red warts are here somewhere.</Source>
+      <Dest>没错，有些花是红的。如果没有，你可以人工上色。不过我很确定你的红麦芽汁花就在这附近。</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand this, if you are good at speechcraft.  But people in Riften are bad at talking.  Flowers express themselves much better.</Source>
+      <Dest>如果你口才不错的话，那我可以理解这点。但裂谷城的人们都不怎么善于说话，用花来传达他们的情感要更好一些。</Dest>
+    </String>
+    <String List="2">
+      <Source>Haelga does not bother with the talking, she just buys flowers and puts them under her frock.</Source>
+      <Dest>哈尔嘉倒是没来打搅谈话，她只是买了朵花把它塞进自己的衣服里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Haelga is my best customer, although it is not because she buys the flowers.</Source>
+      <Dest>哈尔嘉是我最好的顾客，虽然这不是因为她买了我的花.</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. That is a very wise of you to say.  There will always be bandits, and bounties to kill them.</Source>
+      <Dest>很好。这是一个优秀的理念。强盗会有的，赏金也会有的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you willing to risk spending the rest of your life petting your own tail?  All because you did not buy a flower?</Source>
+      <Dest>你愿意花费余生去自己抚慰自己的小尾巴吗？就因为你没去买一朵花？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is no trick. It is a deep concern. I do not want you to die lonely.  But you will, if you do not buy flowers.</Source>
+      <Dest>没什么诀窍。这是一种深切的关怀。我不想让你孤独一生，但如果你不买的花的话，你就注定孤独一生了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flowers are the best toys.  Every male I have ever known has said so.  You must buy them or you will be lonely forever.</Source>
+      <Dest>鲜花是最好的玩具。我认识的每个男人都这么说。你要么去买它们，要么孤独终老。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why?  Because he was the only one who had the skill.</Source>
+      <Dest>为什么？那是因为他是唯一掌握那个技能的人啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But why would you ask for something specific?  That is not romantic.  Why not buy them all and give your love a special surprise?</Source>
+      <Dest>但为什么你要问这儿有些什么花呢？这一点都不浪漫。为什么你不把它们全都买下来然后给你的恋人一个特别的惊喜呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>They are not outrageous. I am not like the one they call Brynjolf, selling elixirs that cure your impotence.</Source>
+      <Dest>它们其实还挺靠谱的。我可不像布林乔夫那家伙，出售治疗阳痿的药物。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bachelors come here too, because they know without flowers their Amulets of Mara might as well be a garland of anchovies.</Source>
+      <Dest>那些学者也来这里了，因为他们知道没有花装饰的玛拉护身符就跟用凤尾鱼制作的花环一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of them, just to be safe. You never know if your special someone is very picky, and only likes a certain type of flower.</Source>
+      <Dest>为了安全起见，都有可能。你不会知道对你而言特殊的那个人是否十分挑剔，只喜欢某一种类型的花。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps for me it is smart to save.  But for you, the gold falls like the snow in the Evening's Star.</Source>
+      <Dest>也许对我来说，节省才是最聪明的。但对你来说，黄金瀑布大概就跟是夜星月（12月）里的雪一样常见吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some, like Bersi, do not even associate with Haelga, but they are so pathetic that flowers are the only thing keeping their marriage together.</Source>
+      <Dest>有些像波西那样的人，甚至没跟哈尔嘉发生过关系，但他们很可怜，鲜花是唯一维系他们婚姻的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>But true love happens only once in a lifetime.  Do not let it slip through your grasp because you were too stingy to buy flowers.</Source>
+      <Dest>但真爱是一生中只有一次。不要只因你吝啬的不想买花而让它从你身边溜走。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you, you love many things, and those things require flowers to keep them happy or they will find someone else. Namely, someone with flowers.</Source>
+      <Dest>但是你，你喜欢很多东西，这些东西又需要花儿来使他们保持开心，否则他们就会去找别人…也就是说…找有花的人……</Dest>
+    </String>
+    <String List="2">
+      <Source>Some refuse to talk to me.  But Riften is a city with lizards, beggars, Elves, and thieves. I work with the temple. I am the least of their concerns.</Source>
+      <Dest>一些人拒绝跟我说话。但裂谷城是蜥蜴，乞丐，精灵，和小偷的城市。我在神殿工作。至少我是他们最关心的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are not as ugly as Sadrin, so maybe a couple hundred will do.</Source>
+      <Dest>你不像萨汀那么丑，值个几百。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you buy all of them, even if she hates them she will know you tried your best.</Source>
+      <Dest>如果你买下了所有，即使她讨厌它们，她也会知道你已经尽力了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only because you do too much talking and not enough buying. But that can be fixed.</Source>
+      <Dest>只是因为你话太多而买的却太少。但这些都好办。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a fine lure, but like the flower, all things wilt over time. The novelty of your body is the same.</Source>
+      <Dest>拿这当做诱饵是不错，但就像花儿一样，时间总将风蚀一切。而最终，你的肉体对他来说也会不再新鲜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could have covered my face with my hands, but they were busy elsewhere.  I did not have to sell as many flowers that day.</Source>
+      <Dest>我可以用手遮住脸，但它们还得忙别的。我没卖出和那一天一样多的花。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are clearly an angry soul. This is because you think nobody loves you.</Source>
+      <Dest>你的灵魂被愤怒煎熬。这是因为你认为没人爱你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many types. Blue ones, purple ones, white ones...every color and smell you could ever ask for.</Source>
+      <Dest>有很多类型。蓝色的，紫色的，白色的……每种颜色和气味儿都是你梦寐以求的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then when you are done giving you will make amends by picking flowers for Yushari.</Source>
+      <Dest>等你都完事儿了，或许你能给攸雪瑞摘几朵花，好好向她赔罪吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh!  I did not know I was speaking to a noble.  You must have a big house, yes?  A house with lots of vases that need to be filled.</Source>
+      <Dest>噢！没想到我是在跟贵族说话。你家肯定有所大房子，对吧？房子里有很多杯子需要被填满？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was not wearing a hat, so this rain was very uncomfortable.</Source>
+      <Dest>我没有戴帽子，所以这雨让我很不舒服。</Dest>
+    </String>
+    <String List="2">
+      <Source>The flower is like any potion.  It increases your odds.  It provides an advantage over your competitors.  For love is a game of inches.</Source>
+      <Dest>鲜花如同任何药水一样，都能增加胜算，在关乎爱情的长跑比赛中，让你拥有超越情敌的优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes.  Other times she will stick a cucumber in her mouth and go home with your husband.  But these things are expensive.  Flowers are not.</Source>
+      <Dest>时不时吧。其他时候她会咬着根黄瓜然后和你丈夫一起回家。这些东西都很贵，但花儿不贵。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not a burly adventurer like you.  I am not a whore like Haelga. I cannot flex my muscles or open my legs and be guaranteed a warm bed.</Source>
+      <Dest>我不像你一样是结实的冒险者。也不是哈尔嘉那样的婊子。我不能通过秀肌肉或是张开双腿来担保有一张温暖的床。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is good that you have come to my store.  Do not waste your gold on expensive perfumes.  My flowers will get rid of that strange cheese smell.</Source>
+      <Dest>非常高兴你能来到我的商店，不要浪费你的钱在昂贵的香水上了。我的花也能将你身上奇怪的味道消除。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I am in business for myself. I am not here to make love. I am the love of my life. Go find me a mirror and I will kiss it.</Source>
+      <Dest>不我在做自己的事。我来这不是寻找爱的。我只爱自己的生命，给我找面镜子我会亲吻里面的自己的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you do not spend it, it will bury you.  Come, buy some flowers, and save yourself from certain death.</Source>
+      <Dest>如果你不花钱的话，钱会反过来埋葬你。来吧，买些花，把自己从注定的死亡中拯救出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you have not the coin to buy, then perhaps this Khajiit can give you a job.</Source>
+      <Dest>你如果没钱付账，那这个虎人能给你一个工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must buy flowers then.  This is what I tell Sadrin all the time.  He says he's bought hundreds of flowers.  I tell him he needs to buy thousands.</Source>
+      <Dest>然后你必须得买一些花。这就是我一直告诉萨汀的东西。他说他买了成百上千的花。我告诉他他得买成千上万的回来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Love is like the seasons. There are winters and springs. When people don't buy flowers, things go bad, and everyone hates each other. That's winter.</Source>
+      <Dest>爱就像是季节。有冬天也有春天。当人们不买花的时候，事情就变得糟糕了，而且那时候人们还会互相憎恨。</Dest>
+    </String>
+    <String List="2">
+      <Source>One time I bumped into the one they call Vulwulf Snow-Shod.  He started screaming, and chunks of his dinner started to rain on my face.</Source>
+      <Dest>有一次我无意中碰到过一个叫冯尔乌·雪蹄的人。他开始尖叫，他嘴里的哪些食物开始像雨点一般地落到我的脸上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Flowers make for good alchemy ingredients.</Source>
+      <Dest>没错。花可是上好的炼金材料。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would, but alas, I am a lonely soul, with no love to give them to.</Source>
+      <Dest>我会的，但是唉，我是个孤独的灵魂，给不了他们爱。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, so you don't follow Mara's teachings?</Source>
+      <Dest>等等，你并不遵从玛拉的教诲？</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to only know the colors and not the names.</Source>
+      <Dest>你好像只知道颜色而不知道名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to only know the colors and not the names.</Source>
+      <Dest>你好像只知道颜色而不知道名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) I've brought you some cotton from Zora's field.</Source>
+      <Dest>（撒谎）我从佐拉的田园给你带了点棉花。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Lie) I've brought you some cotton from Zora's field.</Source>
+      <Dest>（撒谎）我从佐拉的田园给你带了点棉花。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am a delicate flower and I would not trample on my own kind.</Source>
+      <Dest>我就像娇嫩的花朵一般，而我是绝不会作贱自己的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to buy some flowers.</Source>
+      <Dest>我想买一些花。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to buy some flowers.</Source>
+      <Dest>我想买一些花。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to buy some flowers.</Source>
+      <Dest>我想买一些花。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would simply like to make an investment in your business.</Source>
+      <Dest>我只不过想投资一下你的买卖。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would simply like to make an investment in your business.</Source>
+      <Dest>我只不过想投资一下你的买卖。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would simply like to make an investment in your business.</Source>
+      <Dest>我只不过想投资一下你的买卖。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or I could just go outside and pick them for free.</Source>
+      <Dest>或者我只需要走出去然后不花一分钱地取走它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or I could just go outside and pick them for free.</Source>
+      <Dest>或者我只需要走出去然后不花一分钱地取走它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or I could just go outside and pick them for free.</Source>
+      <Dest>或者我只需要走出去然后不花一分钱地取走它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will a bouquet of flowers improve a person's love life?</Source>
+      <Dest>一束花怎么提高一个人的爱情生活？</Dest>
+    </String>
+    <String List="0">
+      <Source>How will a bouquet of flowers improve a person's love life?</Source>
+      <Dest>一束花怎么提高一个人的爱情生活？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm willing to take that chance.  Let me ask you some questions.</Source>
+      <Dest>我很乐意把握这个机会。让我来问你一些问题吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did your parents value saving money?</Source>
+      <Dest>你的父母重视储蓄么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did your parents value saving money?</Source>
+      <Dest>你的父母重视储蓄么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did your parents value saving money?</Source>
+      <Dest>你的父母重视储蓄么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You shouldn't be so evasive.  What if I was a dashing suitor?</Source>
+      <Dest>你不该这么回避。如果我是一个潇洒的求婚者呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's extremely vague and unhelpful.</Source>
+      <Dest>这极其模糊而无意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's extremely vague and unhelpful.</Source>
+      <Dest>这极其模糊而无意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>Give it a rest you flea-ridden mongrel.  I just want to talk.</Source>
+      <Dest>省省吧你这邋遢的杂种，我只是想讲几句话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I offer you some assistance?</Source>
+      <Dest>我能帮上你的忙吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer my lovers to have their faculties intact.</Source>
+      <Dest>我比较喜欢心智健全的爱人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Purple ones?  Do you mean like nightshade?</Source>
+      <Dest>紫色的？你是说夜茄吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Purple ones?  Do you mean like nightshade?</Source>
+      <Dest>紫色的？你是说夜茄吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I couldn't live like that.  I spend my gold faster than I can earn it.</Source>
+      <Dest>我没法过那样的日子。我花钱比挣得快多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I try to save, but only so I can make large purchases.</Source>
+      <Dest>我会存钱，不过只在需要买什么大件商品的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>I try to save, but only so I can make large purchases.</Source>
+      <Dest>我会存钱，不过只在需要买什么大件商品的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>I try to save, but only so I can make large purchases.</Source>
+      <Dest>我会存钱，不过只在需要买什么大件商品的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought you some cotton from Zora's field.</Source>
+      <Dest>我总算从佐拉的田园找来了棉花给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I favor strong men. Flowers aren't the kind of gift they'd appreciate.</Source>
+      <Dest>我喜欢强壮的男人。鲜花不是他们欣赏的礼物类型。</Dest>
+    </String>
+    <String List="0">
+      <Source>How is the store faring? You seem in a hurry to sell.</Source>
+      <Dest>这家店的经营情况如何？似乎你急于把它脱手。</Dest>
+    </String>
+    <String List="0">
+      <Source>How is the store faring? You seem in a hurry to sell.</Source>
+      <Dest>这家店的经营情况如何？似乎你急于把它脱手。</Dest>
+    </String>
+    <String List="0">
+      <Source>How is the store faring? You seem in a hurry to sell.</Source>
+      <Dest>这家店的经营情况如何？似乎你急于把它脱手。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm an adventurer, not a handmaiden. What in Oblivion would I do with flowers?</Source>
+      <Dest>我是个冒险家，不是女仆！要那么些鲜花干什么用啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not going to spend my hard earned gold on a bunch of weeds.</Source>
+      <Dest>我可不想把辛苦挣来的金币花在一捆杂草上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not going to spend my hard earned gold on a bunch of weeds.</Source>
+      <Dest>我可不想把辛苦挣来的金币花在一捆杂草上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay, okay. But I just want to ask some questions first.</Source>
+      <Dest>好说，好说，先让我问几个问题可以吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a terrible idea.  My flowers have been pruned and washed.  Wildflowers are covered in dirt and bugs.</Source>
+      <Dest>那主意糟透了。我的花朵被修剪和清洁。而野花则是被尘土和虫子覆盖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, some will kill you if you eat them, but so do swords, and the blacksmith is still allowed to sell them.</Source>
+      <Dest>沒錯，有些吃了会致命，但武器又何尝不是？铁匠还不是照样贩卖它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I cannot in good conscience let you ruin your marriage and kill half the town, yet this is what you are telling me you wish to do.  </Source>
+      <Dest>我不能心安理得地让你毁掉你的婚礼并杀掉半条村子的人，尽管你告诉我你希望这么做。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a special on mountain flowers this week. Buy one hundred, get one free.</Source>
+      <Dest>这周购买山花有优惠。100金币一朵，买一送一。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know...you could plant them, sniff them, make a wreath...what you do with them is your business.  But buy them you must.</Source>
+      <Dest>我不知道……你可以种它们，闻它们，把它们做成花冠……你想对它们怎么做是你自己的事。但快把它们买下来吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is there to follow? Two people love each other, so they need flowers to show their love. The temple is simply the place to buy them.</Source>
+      <Dest>有什么可深究的？这两个人彼此相爱。所以他们需要花朵来表现他们的爱。而这家神殿则是能简简单单买到花儿的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is much better if you work for me. This way your honey will not be jealous of the pretty Khajiit who bends to your whim.</Source>
+      <Dest>要是你为我做事就好的多。这样你的甜心就不会嫉妒那个让你变心的漂亮虎人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>So, you want to share in the profits. I will not be your minion. But you can be mine.</Source>
+      <Dest>所以，你想分一杯羹。我不会做你的奴才。但你可以做我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sugar and sands, friend. Can I interest you in a bouquet of flowers for your special someone?</Source>
+      <Dest>愿月亮糖与沙与你同在。买束花给你的那位怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Flowers for sale, guaranteed to make your loved one swoon.</Source>
+      <Dest>鮮花出售，保证能让你所爱的人心醉神迷。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have heard of one such flower in Whiterun, called Zora's cotton. Bring this to me and I will forgive you.</Source>
+      <Dest>我听说这有一种生长在白漫城的花，被叫做佐拉的棉花。把它带给我，我就原谅你了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you prefer your lovers feisty?  There is a flower for that too.  The orange one I think.  Like fire on the tongue.</Source>
+      <Dest>这么说你更喜欢看爱人嗔怒的样子？真有一种花可以做到。大概是这种橙色的吧。就像是舌尖上的怒火。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something? Of course you do. You need flowers. Buy them.</Source>
+      <Dest>有什么需要吗？你肯定有。你需要花朵。买些吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What? Why? Who told you I need help? I have sold bells to nirnroot, I do not need advice from one who tramples flowers instead of picking them.</Source>
+      <Dest>什么？为什么？谁告诉你我需要帮助？我已经卖掉了钟来换取奈恩根，我不需要听取那些践踏花而不是采花的人的意见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of these bugs carry nasty diseases like yellow tick and the Crimson plague. Just ask the Jarl's maid.</Source>
+      <Dest>这些虫子之中的许多都携带着严重的疾病，像是黄蜱和深红瘟疫。只要问问领主的女仆就好。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not. I am my own soul mate. The only fur I pet is my own.  If I see my face in your eyes I will lick them.</Source>
+      <Dest>根本不叫事儿。我是我自己的灵魂伴侣。我只会去摸我自己的毛儿。如果在你的眼中看见了我的倒影，我就会去舔它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I cannot tell you what is the best flower for your honey.  I can only tell you that not buying a flower is very bad.</Source>
+      <Dest>我不知道怎样的花能酿出最好的蜂蜜。我只能告诉你别去买那些品相极差的花了...</Dest>
+    </String>
+    <String List="2">
+      <Source>Liquor will make one shed their inhibitions.  The flower will make you lose all control of them.  Trust me, this I know.</Source>
+      <Dest>酒精会让人释放自己压抑已久的冲动。而鲜花则会让你失去对那些冲动的控制。相信我，这点我可非常清楚。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am very good at spotting liars. I will keep this cotton you have given me as punishment and slash your wages in half.</Source>
+      <Dest>我很善于发现说谎者。我就留着你给我的棉花当做惩罚了，嗯，还得扣去你一半儿的工钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am in no hurry.  Business is good.  Many people know that without flowers they will die miserable and lonely.</Source>
+      <Dest>我不着急。我的生意很好。很多人都知道如果没有鲜花，他们会死得很凄惨和孤寂。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Relationship troubles? Flowers are just the remedy.</Source>
+      <Dest>有人际关系问题嗯？鲜花是一种很好的解决办法。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I am generous enough to put a price on it.  I am willing to sell you love, one flower at a time.</Source>
+      <Dest>尽然如此，我仍足够慷慨，为予这珍宝以明码实价。我愿将那无价的爱情出让与你，代价只需一朵鲜花。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine, but know that I am being very nice to you, and a good person would return the favor.</Source>
+      <Dest>好吧，不过既然知道我对你这么好，一个懂事儿的人总晓得要感恩吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>May your road lead you to my store.</Source>
+      <Dest>欢迎下次再来。</Dest>
+    </String>
+    <String List="2">
+      <Source>When your love leaves you for the fat noble who showers her with soft petals, you will buy all the weeds, whether you like it or not.</Source>
+      <Dest>当你的恋人为了一个对她施以鲜花攻势的肥胖贵族弃你而去时，你会把这些杂草都买下来的，不管你喜不喜欢。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is half of zero? Whatever it is, that is how much you make now.</Source>
+      <Dest>零块钱的一半儿是多钱？无论多少，这就是你现在赚得的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I must sell for tomorrow's profits as much as today's.  You never know when the lean times will come.</Source>
+      <Dest>我得像今天一样为了明天的利润而努力卖货。你永远也不会知道苦日子什么时候就要来到。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is also wise.  In Skyrim life is short.  That is what the priests say.  You can't make love to your money.  Let a fool like me hold on to it.</Source>
+      <Dest>那也比较明智. 不是有那么一句诗吗，“天际如歌，死生几何。”你又不能抱着你的钱过一辈子，所以为什么不把它给我这样子的傻子呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You buy all the flowers, and you will have love, passion, and a litter of children.  It will never die so long as you keep buying more.</Source>
+      <Dest>只要你多多买花，就能拥有爱情，温暖，还有儿孙满堂。买得越多越保险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then why not buy them for yourself! Every strong male needs a gentle flower to come home to.</Source>
+      <Dest>那你为什么不给自己买一束呢！每一个强壮的男人都会被一束高雅的鲜花所打动的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father was a gardener, and every night he would steal a red flower for my mother.  Naturally, they could not keep their claws off each other.</Source>
+      <Dest>父亲曾做过园丁，每个晚上他都会为我母亲偷一束红色的鲜花。当然，他们甚至连十指相扣都做不到。</Dest>
+    </String>
+    <String List="2">
+      <Source>What you desire is what gold cannot buy.  It is priceless, and every day it is handed out at the Temple of Mara.</Source>
+      <Dest>你的欲望并不是用钱就能满足的。而爱这个东西却是无价的，每一天，玛拉神殿都在分发着这样东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>The color is the most important part! The red is for passion, the purple is for lust, the blue is for fertility.  This I know.</Source>
+      <Dest>颜色才是最重要的部分好吗！我所知道的是，红色是激情，紫色是欲望，蓝色是丰饶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it's probably because you talk like that. I suggest buying more flowers.  That will toughen you up. Put fur on your chest.</Source>
+      <Dest>哦，有可能是因为你那么讲话。我建议你多买点花，那会让你更有型。穿上皮草胸衣。</Dest>
+    </String>
+    <String List="2">
+      <Source>This makes me very happy.  Yushari will not go hungry tonight.  For this, I will answer your questions.  </Source>
+      <Dest>我很高兴攸雪瑞今晚不会挨饿了。看在这份上我愿意回答你的问题。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know. There are too many purple ones to keep track of. </Source>
+      <Dest>我不知道。有太多的紫东西要追踪了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It is not up to you. You may think it is, but I am sorry to tell you there is little choice if you do not want to die alone.</Source>
+      <Dest>你别无选择. 也许你觉得你想怎样就怎样, 但是我得告诉你不想死的话就乖乖听话.</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not be surprised if your lover leaves you in the morning because you were too cheap to buy one.</Source>
+      <Dest>就算你的爱人在早上离你而去我也不会太吃惊，因为你太穷了，连朵花儿都买不起。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course you would!  Buy all the flowers!  You can never have enough.</Source>
+      <Dest>你当然会把花儿全都包圆儿啦！这种东西永远都不够。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  Perhaps I am selling them too cheaply. I wonder how much Elgrim sells his flowers for.</Source>
+      <Dest>真的吗？也许我标的卖价太便宜了。我想知道艾尔格瑞姆的花卖多少钱呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>And I just want to sell.  But we can come to a compromise.  I am talking to you, and when I am done, you will buy from me.</Source>
+      <Dest>我就是想把它给卖了。不过既然我们没有达成交易……我跟你这么说吧，当我搞定这事儿的时候，你就会把它买走。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, yes, but remember why you are here.  Customers should talk less and buy more.</Source>
+      <Dest>是，是，但你一定要记住你来这的目的。顾客应该多买少说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do come back.</Source>
+      <Dest>快回来啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>If my words are fast, it is because that is the way.  I was taught by my mother that a trader must manage their store as if their fur was on fire.</Source>
+      <Dest>要是你认为我说的太快了，我就是这么说话的。我妈妈教过我说商人必须要像火烧眉毛了一样管理自己的店。</Dest>
+    </String>
+    <String List="2">
+      <Source>The flower is a natural aphrodisiac.  More potent than wine, cheaper than diamonds.</Source>
+      <Dest>花是天然的春药。比红酒效力更强，比宝石更加便宜。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sadrin, I keep telling you, there is only one sure way to a woman's heart.</Source>
+      <Dest>萨汀，我跟你说了多少遍了，能走进女人的心里的可靠方法只有一种。</Dest>
+    </String>
+    <String List="2">
+      <Source>How about the white cotton?  Perhaps Haelga does not like the flowers with colors?</Source>
+      <Dest>用白棉花怎么样？说不定哈尔嘉不喜欢彩色的花朵呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+	    <String List="2">
+      <Source>Remember traveler, pick up everything that isn't nailed to the floor. And maybe those things too if you can manage.</Source>
+      <Dest>旅行者，记住了啊。地上所有能采的都给它采走。或许会有用呢。</Dest>
+    </String>
+	    <String List="2">
+      <Source>Please, do come back. (Laughs) Sorry, I couldn't help myself.</Source>
+      <Dest>拜托了，回来啊。（笑）抱歉，我真的忍不住。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You better clear this table fast before I call the guard.</Source>
+      <Dest>在我叫卫兵之前，你最好尽快把桌子收拾干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>You better clear this table fast before I call the guard.</Source>
+      <Dest>在我叫卫兵之前，你最好尽快把桌子收拾干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>You better clear this table fast before I call the guard.</Source>
+      <Dest>在我叫卫兵之前，你最好尽快把桌子收拾干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>You better clear this table fast before I call the guard.</Source>
+      <Dest>在我叫卫兵之前，你最好尽快把桌子收拾干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Maven refuses to drink anything but Black-Briar mead.</Source>
+      <Dest>这是一件好事，除了黑荆棘酒以外，玛雯拒绝喝任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's a good thing Maven refuses to drink anything but Black-Briar mead.</Source>
+      <Dest>这是一件好事，除了黑荆棘酒以外，玛雯拒绝喝任何东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does this mean Mogo's Mead won't go into production?</Source>
+      <Dest>这是不是意味着莫格的蜂蜜酒不会投产？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does this mean Mogo's Mead won't go into production?</Source>
+      <Dest>这是不是意味着莫格的蜂蜜酒不会投产？</Dest>
+    </String>
+    <String List="0">
+      <Source>Does this mean Mogo's Mead won't go into production?</Source>
+      <Dest>这是不是意味莫格的蜂蜜酒不会投产？</Dest>
+    </String>
+    <String List="0">
+      <Source>I am an important person and deserve a seat at the table.</Source>
+      <Dest>我是个重要人物，我就该占着这张桌子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am an important person and deserve a seat at the table.</Source>
+      <Dest>我是个重要人物，我就该占着这张桌子。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the party coming along?</Source>
+      <Dest>聚会进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the party coming along?</Source>
+      <Dest>聚会进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>We better get going, or Maven will be incensed.</Source>
+      <Dest>我们最好离开，不然会激怒玛雯的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know what skooma tastes like?</Source>
+      <Dest>你怎么知道斯库玛是什么味道的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know what skooma tastes like?</Source>
+      <Dest>你怎么知道斯库玛是什么味道的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know what skooma tastes like?</Source>
+      <Dest>你怎么知道斯库玛是什么味道的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you think I should apologize for being late?</Source>
+      <Dest>我来晚了你看有必要道歉吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you think I should apologize for being late?</Source>
+      <Dest>我来晚了你看有必要道歉吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What other help?</Source>
+      <Dest>还有别的事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What other help?</Source>
+      <Dest>还有别的事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been trying to tell you, it was me.</Source>
+      <Dest>我早就想告诉你了，是我。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on Mogo's Mead?</Source>
+      <Dest>你对莫格的蜂蜜酒有啥感想么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on Mogo's Mead?</Source>
+      <Dest>你对莫格的蜂蜜酒有啥感想么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on Mogo's Mead?</Source>
+      <Dest>你对莫格的蜂蜜酒有啥感想么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I'm not the porter, and I switched the bottles with skooma.</Source>
+      <Dest>其实，我不是服务员，是我把酒都换成了斯库玛。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I'm not the porter, and I switched the bottles with skooma.</Source>
+      <Dest>其实，我不是服务员，是我把酒都换成了斯库玛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh right, the servers were dismissed.  You can talk to the troubadours.  The Orc doesn't say much, but the other looks amiable enough.</Source>
+      <Dest>哦没错，服务被取消了。你可以跟吟游诗人们谈谈。那个兽人并没有多说什么，不过其他人看起来还挺和蔼的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh come on now, Maven, if you despise the mead so much, why even sell it?</Source>
+      <Dest>得了吧，玛雯。你要是真的看不上蜂蜜酒的话，干嘛还要做蜂蜜酒的生意呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was by far the most popular mead of the day, far more influential than Black-Briar mead, but you didn't hear that from me.</Source>
+      <Dest>这是至今为止最受欢迎的蜂蜜酒，其影响力远超黑荆棘酒，喔不过别告诉别人这是我说的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, she's plenty incensed already.  Hopefully those troubadours really do know the Poetic Edda.  That will put even Maven Black-Briar to sleep!</Source>
+      <Dest>噢，她已经进步很多啦。但愿那些民谣歌手都听说过《诗体埃达》。那首甚至能把玛雯黑荆棘都送入梦乡的歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't know much about it.  Other than the song of course, that always puts the tavern folk in good spirits.</Source>
+      <Dest>哦,我对此并不很了解。当然，这首歌是例外，它总是能让酒馆的大伙儿感到轻松愉快。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to clear this table.  You best get out of here.</Source>
+      <Dest>我打算收拾这张桌子，你最好离开这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>To be frank, to me that's all ancient history, but I'm not foolish enough to turn down a request from the Black-Briars.</Source>
+      <Dest>说实话，对我来说这些老得掉渣的历史故事都不值一提，但我不会愚蠢到拒绝黑荆棘的请求。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we're here, why don't you introduce yourself to the other help while I talk to Maven.</Source>
+      <Dest>好吧，我们到了，为什么你不在我跟玛雯谈话的时候向别的佣人介绍下你自己？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if you're aware of this, but an ancestor of mine once owned the old Mogo's Mead Brewery here in the Rift.</Source>
+      <Dest>我不知道你是否清楚，我的祖先曾经拥有过在裂痕领的老莫格蜂蜜酒厂。</Dest>
+    </String>
+    <String List="2">
+      <Source>She's half opposed to the idea already.  Once I have Ingun examine these bottles and verify their taint, it won't take much persuading.</Source>
+      <Dest>她已经有点儿动摇了。一旦我让因菇恩检查这些瓶子，证明了这些瓶子确实有斯库玛残留，那应该不用花费太多口舌就能说服她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just talk to her and make yourself look busy.</Source>
+      <Dest>你就去跟她说话，装出你自己很忙的样子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do, you have a death wish?  Well, I like my head where it is, and I intend to keep it there.  We need to pour all these bottles into Lake Honrich!</Source>
+      <Dest>你想找死吗？好吧，我可不想把我的头从脖子上拿下来，而且一辈子都不想看着它挪窝。我们需要把这些瓶子都投进亨利奇湖!</Dest>
+    </String>
+    <String List="2">
+      <Source>Call me crazy, but I think...I think this might be skooma!</Source>
+      <Dest>有人说我疯了，但我认为……我认为这也许是因为斯库玛！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, alright, I admit, I experimented with the substance in my youth.  No more, though.</Source>
+      <Dest>好吧，好吧，我承认。我年轻的时候用那种材料做过实验。可别的就没什么了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've got to clean up the bottles before the others take another sip!</Source>
+      <Dest>我得在其他人拿起着瓶子喝之前把瓶子给洗干净！</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Gods, those troubadours...they were skooma addicts!  They must have broke into the meadery and switched the cases!</Source>
+      <Dest>众神在上，这些游吟诗人……他们都磕斯库玛磕上瘾了！他们八成是闯进了酒庄然后把箱子掉了包！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, can you imagine if I convinced her to taste it on ceremony?  It would mean all of our heads on a pike!</Source>
+      <Dest>是啊，你能想象如果我在仪式上说服她也尝尝那味道的话，会发生什么事儿吗？她铁定会把我们所有人的头都砍下来插在长矛上的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Maven would've been rather embarrassed, if those two troubadours didn't burst into song and stall for time.</Source>
+      <Dest>如果这两个吟游诗人都不亮嗓子，光是拖延时间的话，玛雯估计得一直尴尬下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I don't know about that.  You might be better off not showing up at all. Maybe if we get her drunk enough, she'll forget.</Source>
+      <Dest>(笑声)这我可不知道。说不定比起迟到你索性还是别出现比较好。或许我们灌醉她以后她就会把这给忘了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Asgeir must have insisted, and the profits won't be too shabby either.  People will be obliged to drink it just so they can sing along!</Source>
+      <Dest>一定是艾斯盖尔坚持要求的，这样利润也不会太不堪。人们会不得不喝它，如此一来他们就能一起高歌了！</Dest>
+    </String>
+    <String List="2">
+      <Source>What in the world?</Source>
+      <Dest>搞什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm just surprised Maven was willing to put anything other than the name "Black-Briar" on one of her products.</Source>
+      <Dest>我只是很惊讶，除了“黑荆棘”以外，玛雯竟然会愿意把其他的名字缀在她的产品名后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now thanks to the generosity of one Maven Black-Briar, they can.</Source>
+      <Dest>现在，多亏了玛雯·黑荆棘的慷慨相助。他们有福了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who knows how many bottles those vagrants have sold?  Luckily, convincing Maven to can the operation won't be too hard.</Source>
+      <Dest>天晓得那些无赖已经卖了多少瓶。幸运的是，要说服玛雯放弃生意应该不会太难。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lizard? Who in Oblivion are you talking to?</Source>
+      <Dest>蜥蜴？老天！你在跟谁说话呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, we need to clear this table of Mogo's Mead.  As far as I'm concerned we ought to throw them into the lake.</Source>
+      <Dest>无论如何，我们得把这一桌的莫格蜂蜜酒清理干净。要我来说，我们应该把它们都扔到河里去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Asgeir invited me as sort of a tribute to the original Mogo, although I can't be sure if that person ever even existed.</Source>
+      <Dest>艾斯盖尔用最原始的莫格蜜酒来招待我，我甚至根本不确定那个人是否真的存在过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure you are, but right now you are the porter who didn't deliver Maven's mead on time, so best to make yourself invisible.</Source>
+      <Dest>我很确定你是，但是现在你是那个没有及时把玛雯的蜜酒送到的搬运工，因此你最好别被逮到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, there you are.  The natives were getting restless waiting for the porter to deliver the mead.</Source>
+      <Dest>啊，你在这啊。因为蜜酒迟迟没被搬用工送来，那些本地人已经快要等得不耐烦了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, some say what makes Mogo's Mead so special isn't the honey, but a secret ingredient imported from outside of Skyrim.</Source>
+      <Dest>当然了，据说莫格蜂蜜酒最大的卖点不在于蜂蜜，而是某种从天际以外的地方进口而来的秘密原料。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I don't see Maven Black-Briar as the type to forget anything.  Why don't you come by anyway, and let me do the talking.</Source>
+      <Dest>不过我不认为玛雯·黑荆棘是那种记性不好的人。反正你只要来就行，要说什么都我来说。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Now that would make for interesting party, although I imagine we'd all be dead come morning.</Source>
+      <Dest>（笑声）现在，这就是要来一场欢乐的聚会的节奏啊，虽然我估摸着明早我们就会是僵硬的尸体啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is that secret ingredient?</Source>
+      <Dest>那秘密成分是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, Maven has other things to worry about, and reputation is one of them.  Not hers so much as the reputation of her brewery.</Source>
+      <Dest>玛雯仍旧有要担心的事情，声誉只是其中之一。而且她可比不得她的酒厂的声誉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, I appreciate your candor, but the guard isn't going to arrest Maven Black-Briar.  Not when she employs them.</Source>
+      <Dest>哈，我欣赏你的正直，但守卫是不会去逮捕玛雯·黑荆棘的。特别是当守卫们都被她收买了的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>And if there's one person you don't want to see restless, it's Maven Black-Briar.</Source>
+      <Dest>如果真有一个你不想看着她焦躁不安的人，那一定是玛雯·黑荆棘。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think you've had enough.  Moreover, I don't think those bottles are entirely safe to drink.</Source>
+      <Dest>我想你已经喝的差不多了。此外，那些酒说不定搀了些奇怪的东西呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>We can't let people think this stuff is in any way related to the Black-Briars. So yes, I rather not involve anyone else.</Source>
+      <Dest>我们不能让人知道这玩意儿和黑荆棘有任何关系。所以没错，我宁愿不牵扯进其他人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that the case?  Perfect.  I'll go ahead and take that.</Source>
+      <Dest>是这样吗？很好。我会继续然后拿走它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vulwulf, I'm going to need to take that drink off your hands...</Source>
+      <Dest>乌尔武夫，看来我不得不把你手里那杯酒给夺下来了...</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyone knows the bard's song, "Mogo's Mead," but few have tasted the richness of the drink that inspired it.</Source>
+      <Dest>所有人都听过吟遊诗人的那首曲子, "莫格的蜂蜜酒"，但没有多少人真正地领略过它那醇厚的芳香。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've gotten my act together.  All it took was father threatening to take away the family fortune.</Source>
+      <Dest>我会控制好自己的。所有的一切都只因为父亲威胁要拿走家里全部的财产。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know, Maven, maybe you're right about this mead.  It tastes kind of odd...</Source>
+      <Dest>你知道的 ，玛雯，关于这蜜酒的事儿，也许你是对的。它尝起来有点奇怪……</Dest>
+    </String>
+    <String List="2">
+      <Source>Talk to the female troubadour.  She seems friendly enough.  The Orc I'd stay away from.  Only Maven frightens me more than that one.</Source>
+      <Dest>跟那个游吟诗人说吧。她似乎挺亲切的。我会离那个兽人远远的。只有玛雯比他更吓人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Troubadours, how about a song!</Source>
+      <Dest>游吟诗人，唱首歌吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>So I guess I'll speak first.  As the descendant of one of the original brewers of Mogo's Mead, I am pleased to be here at this table today.</Source>
+      <Dest>那么我猜我要先发言了。作为最初莫格蜂蜜酒地的啤酒制造者的后裔，我很高兴今天能够站在这张桌子前。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一理由就是他出于非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you kidding?  If word gets out that the Black-Briar meadery was tainted with skooma, it would cripple the business.</Source>
+      <Dest>你逗我呢吧？要是玛雯·黑荆棘酒庄的酒掺了斯库玛这事传出去，那这生意可就完了蛋了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, now you're not making any sense.  And please, for the love of Mara, put down the knife.</Source>
+      <Dest>好吧，你这么干没有任何意义。另外，看在慈爱的玛拉份上，把刀放下。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

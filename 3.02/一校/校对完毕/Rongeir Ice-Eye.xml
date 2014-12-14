@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shelur?  That's an Orc name.</Source>
+      <Dest>夏拉尔？这是个兽人的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you like Windhelm?</Source>
+      <Dest>你觉得风舵城怎么样？?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you like Windhelm?</Source>
+      <Dest>你觉得风舵城怎么样？?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you like Windhelm?</Source>
+      <Dest>你觉得风舵城怎么样？?</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you like Windhelm?</Source>
+      <Dest>你觉得风舵城怎么样？?</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of the atmosphere here?</Source>
+      <Dest>你对这里的氛围有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of the atmosphere here?</Source>
+      <Dest>你对这里的氛围有什么看法？</Dest>
+    </String>
+    <String List="0">
+      <Source>We all share traits with our mothers. Doesn't mean we're the same person.</Source>
+      <Dest>我们都拥有我们母亲的特质。这并不意味着我们是同样的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>We all share traits with our mothers. Doesn't mean we're the same person.</Source>
+      <Dest>我们都拥有我们母亲的特质。这并不意味着我们是同样的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>We all share traits with our mothers. Doesn't mean we're the same person.</Source>
+      <Dest>我们都拥有我们母亲的特质。这并不意味着我们是同样的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>People can be a bit close-minded.  Especially in Windhelm.</Source>
+      <Dest>人们可能有点儿心胸狭窄，尤其是在风盔城。</Dest>
+    </String>
+    <String List="0">
+      <Source>People can be a bit close-minded.  Especially in Windhelm.</Source>
+      <Dest>人们可能有点儿心胸狭窄，尤其是在风盔城。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be something about her that takes after you.</Source>
+      <Dest>她肯定是效仿你。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be something about her that takes after you.</Source>
+      <Dest>她肯定是效仿你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suggest you leave her now, or things may get dead.</Source>
+      <Dest>我建议你现在就放了她，或许事情还有转机。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the locals treating you?</Source>
+      <Dest>当地人待你如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't believe we've met.</Source>
+      <Dest>我不相信我们以前有见过面。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, what?</Source>
+      <Dest>等等，什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, what?</Source>
+      <Dest>等等，什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're kind of funny old man.  I like you.</Source>
+      <Dest>你是個有趣的老頭。我喜歡。</Dest>
+    </String>
+    <String List="0">
+      <Source>You do realize some of your traits pass down.  There is some of you in Shelur.</Source>
+      <Dest>你很明白你的一些特性遗传下去了。这是在夏拉尔的你的一部分。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her mother?</Source>
+      <Dest>他母亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her mother?</Source>
+      <Dest>他母亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her mother?</Source>
+      <Dest>他母亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her mother?</Source>
+      <Dest>他母亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her mother?</Source>
+      <Dest>他母亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you planning on marrying your horse too?</Source>
+      <Dest>你还打算娶你的马？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll leave you to it then.</Source>
+      <Dest>那我把你留給它了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you've met Rolff then.</Source>
+      <Dest>这么说来你见过罗尔夫。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you've met Rolff then.</Source>
+      <Dest>这么说来你见过罗尔夫。</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly which wife are we talking about here?</Source>
+      <Dest>到底我们说的是哪一个妻子？</Dest>
+    </String>
+    <String List="0">
+      <Source>The people are right to disapprove.  Marrying an Orc is sick.</Source>
+      <Dest>大家应该都不赞成。跟一个兽人结婚根本有病。</Dest>
+    </String>
+    <String List="0">
+      <Source>The people are right to disapprove.  Marrying an Orc is sick.</Source>
+      <Dest>大家应该都不赞成。跟一个兽人结婚根本有病。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, your daughter?  You have to admit that's a little weird.</Source>
+      <Dest>不过，你的女儿？你不得不承认，有点怪怪的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, your daughter?  You have to admit that's a little weird.</Source>
+      <Dest>不过，你的女儿？你不得不承认，有点怪怪的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's ridiculous. Ice wraiths don't have teats.</Source>
+      <Dest>真是搞笑。冰霜幽灵没有乳头。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't look particularly comfortable here.</Source>
+      <Dest>在这儿你看起来不太自在。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask you some more personal questions.</Source>
+      <Dest>我要问你一些更加私人的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you looking at?</Source>
+      <Dest>你在找什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember that thief who tried to mug us?  The one where you reached into your coin purse, and when his eyes were distracted, you butted his head?</Source>
+      <Dest>还记得那个试图抢劫我们的盗贼吗？就是曾经把手伸进你的钱包，然后分神的时候被你狠狠撞他脑袋的那个家伙？</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember that thief who tried to mug us?  The one where you reached into your coin purse, and when his eyes were distracted, you butted his head?</Source>
+      <Dest>还记得那个试图抢劫我们的盗贼吗？就是曾经把手伸进你的钱包，然后分神的时候被你狠狠撞他脑袋的那个家伙？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, I was referring more to Skyrim as a whole.  Wherever we move we draw the ire of the locals.  Children vandalized our last home.  Children!</Source>
+      <Dest>事实上，我所指的是把天际省当作一个整体。无论我们移去哪居住也会来招来当地人的愤怒。孩子们会破坏我们最后的家园。孩子们！</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you ever been to the Winking Skeever?  Best spirits in Skyrim if you ask me.</Source>
+      <Dest>你去过眨眼雪鼠么？天际最棒的地方！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh right.  Well, in any case, I just realized Captain Breaks-Wind is the spitting image of that thief.</Source>
+      <Dest>对，好吧，呃，不管怎样，我刚刚才意识到队长破风像极了那个小偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh right.  Well, in any case, I just realized Captain Breaks-Wind is the spitting image of that thief.</Source>
+      <Dest>对，好吧，呃，不管怎样，我刚刚才意识到队长破风像极了那个小偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>And that's another thing.  The Gray Quarter. What a stupid name.  Them Dark Elves are more blue than gray if you ask me.</Source>
+      <Dest>还有另一件事。灰色居住区，多么烂的一个名字。要我来说，黑暗精灵的皮肤明明就比较蓝。</Dest>
+    </String>
+    <String List="2">
+      <Source>They disapprove of me marrying my daughter.</Source>
+      <Dest>他们所反对的只是我与我的女儿结婚这件事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha-ha, very funny.  Look everyone, a jester's come to show us how to juggle our ale instead of drinking it!</Source>
+      <Dest>哈哈哈，太搞笑了。大家快看，一个小丑来教我们如何用那些麦芽酒玩杂耍而不是喝掉它们！</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>哈？</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't know it, but you're even more close-minded than they are.  Nobody cares that I married an Orc.</Source>
+      <Dest>你知不知道你比所有人都更因陋守旧？在这里根本没有人在乎我与一名兽人结婚。</Dest>
+    </String>
+    <String List="2">
+      <Source>They may call the Gray Quarter a slum, but at least it has those colorful little banners.</Source>
+      <Dest>虽然他们把灰色居住区叫做贫民窟，但至少在那里有那些五颜六色的小旗子。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's true, the divines seek to punish those who marry their kin.  People marry their cousins and the children end up halfwits and knuckle-draggers.</Source>
+      <Dest>这是真的，一些牧师试图去惩罚那些与亲属结合的人。那些与他们表兄妹结合的人，最后也只会生下弱智的猩猩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just stay away from them, and let me do the talking.</Source>
+      <Dest>与他们保持距离，由我来做代言人就可以了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not just physically, but in the way she acts.  The way she laughs too hard at a bad joke, loves to sunbathe, and covers her mouth when she lies.</Source>
+      <Dest>不只是外貌，就连她的行为也很相似。笑点低，晒日光浴，撒谎时掩着嘴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why is everyone so concerned with my sex life? No one cared when I murdered Ulfric's sister.</Source>
+      <Dest>为什么每个人都那么关心我的性生活？在我谋杀乌弗瑞克的妹妹之时却没人关心过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stone Quarter, now that's gray. One of these days I'm gonna visit the palace and tell 'em to switch the names. </Source>
+      <Dest>石头居住区，现在是灰区。有时间的话我会去那参观，并告诉他们该换个名字了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I just can't say no to that woman.</Source>
+      <Dest>我只是无法拒绝那个女人。</Dest>
+    </String>
+    <String List="2">
+      <Source>What they disapprove of is me marrying my daughter.</Source>
+      <Dest>他们不赞成的是我娶了自己的女儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't believe we've met.</Source>
+      <Dest>我想我们没见过面。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it, my love?</Source>
+      <Dest>有什么事，亲爱的？</Dest>
+    </String>
+    <String List="2">
+      <Source>The people are meaner, but too lazy to do anything about it.  I keep telling Shelur we should go to the Dark Elf club instead, but she likes it here.</Source>
+      <Dest>这里的人都很低贱和穷酸，但又懒得做些事情来改变它。我一直告诉夏拉尔我们应该到黑暗精灵社团去，但她就是喜欢这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Out with it!</Source>
+      <Dest>说出来吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've been dealing with folks since you crawled out of the hole the ice wraiths raised you in.</Source>
+      <Dest>当你从冰霜怒灵的屁股里掉出来的时候我就已经与各种人一直打交道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't care for it.  Not that the stonework isn't impressive, but it's all so...bland.</Source>
+      <Dest>别太在意。并不是说那些石雕没特色，只是它们实在是太……无趣了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, now, don't make things awkward.  My wife can get extremely jealous.  She once stabbed a woman for asking me for directions.</Source>
+      <Dest>慢着，慢着，不要把事情变得棘手。我的妻子可是很会吃醋，她可是曾经刺伤过一名问我住址的女子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry do I know you?</Source>
+      <Dest>不好意思我们见过面吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>When Shelur became a woman, I realized that Moghat hadn't lost her life.  She gained her youth.</Source>
+      <Dest>当夏拉尔成为一个成熟的女人后，彷彿玛奇就像没死掉一样，而且变得更年轻。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right.  I married my daughter, and I make no apologies for it.  When Nord and Orc breed, the child takes on the traits of the mother.  </Source>
+      <Dest>是的，我与自己的女儿结婚了，而且我不觉得做错了什么。诺德人与兽人的孩子跟父亲无关。</Dest>
+    </String>
+    <String List="2">
+      <Source>So now the child barely off the teat is an expert on people?</Source>
+      <Dest>这么说那个乳臭未干的小孩很懂人情世故？</Dest>
+    </String>
+    <String List="2">
+      <Source>You think you can intimidate me?  You touch a hair on my head and my wife will come at you like a crazed Minotaur.  Now THAT's love.</Source>
+      <Dest>你觉得你可以吓到我？你敢碰我一下，我的妻子会像头疯狂的牛头怪追赶你。告诉你，这就是爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha-ha, very clever.  But if you're a stickler for details, then yes, it was Moghat who stabbed that woman, not Shelur.</Source>
+      <Dest>哈哈，你很聪明。如果你真的想知道的话，我会告诉你，刺伤了那名女人的是玛奇，而不是夏拉尔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Her mother died in childbirth.  It was a painful thing, to gain one life and lose another.   Then as Shelur grew, I began to see the resemblance.  </Source>
+      <Dest>她的母亲死于难产。这是一件很痛苦的事件，当获得一个新生命的时候，却又失去了另一个生命。现在夏拉尔也长大成人，我在她的身上看到她母亲的影子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you heard that band of minstrels that play here?  Awful.  Just awful.</Source>
+      <Dest>你听了那个吟游诗人的演出了么？差劲，太差劲了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose you're here to chastise me about my wife.</Source>
+      <Dest>我猜你到这来是因为我妻子的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Shelur may be my second wife by name, but she's my first by everything else.  </Source>
+      <Dest>夏拉尔也许只是我第二任妻子的名字，但却是我生命的一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want?</Source>
+      <Dest>你要干嘛？</Dest>
+    </String>
+    <String List="2">
+      <Source>There isn't a drop of Nord blood in that girl, and as far as I'm concerned, I'm no more related to her than my horse Ulfric.</Source>
+      <Dest>这个女孩身上一滴诺德血也没有。对我而言，我跟她的关系和跟我的老马乌佛瑞克没区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right about the people, but I suspect you're wrong about the reason.  They don't disapprove of me marrying an Orc.  </Source>
+      <Dest>你说对了，但恐怕是想错了原因。他们反对的不是我跟兽人结婚。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's as if her mother had transferred her very soul into a new vessel. </Source>
+      <Dest>就像她的母亲将她的灵魂转移到一个新的身体里一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have to think on it.  People just don't end marriages because some stranger said something smart.</Source>
+      <Dest>我还要考虑考虑。正常人不会只因为有哪个陌生人说了什么有道理的话就放弃婚姻的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know I'm fond of nature, and it's really important to me. But my first love will always be crack cocaine.</Source>
+      <Dest>你知道我喜欢大自然，而且它真的对我很重要。但是我最爱的永远是可卡因。</Dest>
+    </String>
+    <String List="2">
+      <Source>Me and my wife, Shelur, came here in hopes of settling down.  Yet it seems this place is not hospitable to outsiders.    </Source>
+      <Dest>我和我的妻子夏拉尔，满怀着希望来这儿定居，然而这里对于外地人不是很友善。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>You would know, you were raised by them.</Source>
+      <Dest>你迟早会知道，因为你是被他们召唤的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If there is, it's so little it's insignificant.   </Source>
+      <Dest>但即使是真的，这些小事也无关痛痒。</Dest>
+    </String>
+    <String List="2">
+      <Source>A beautiful name for a beautiful woman.  The name of the woman I love, and I don't care what anyone has to say about it.  </Source>
+      <Dest>美丽的名字只配得上一位美丽的女性。对于我所爱的女人，我才不在乎别人说了些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet my daughter is not my kin.  She inherited none of my blood. Our children will be strapping young boys and girls chiseled in the mold of Malacath.</Source>
+      <Dest>而且我的女儿与我却没有任何血缘关系。我们的孩子会按照着玛拉凯斯的模样，长得高大并且强壮。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe you have a point.  The other day she stubbed her toe on a bucket and nearly took a hatchet to both.  It's just what I would've done.</Source>
+      <Dest>或许你是对的。有一天她踢到桶了差点就抄起斧头把那个桶砍了。多像我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rolff Stone-Fist keeps asking me if I want to brawl.  What are we, twelve? I think all his aggression is compensating for something. Down there.</Source>
+      <Dest>罗尔夫就只会不断问我要不要来场斗殴。我说大家都几岁了？12岁吗？我觉得他的敌对行为是为了补偿一些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we should move to the Cornerclub right away.  I'll go pack our things.</Source>
+      <Dest>那我们就该马上搬去街角吧。我回去把东西打包。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, right.  Just try not to get us in the dungeon this time.</Source>
+      <Dest>噢，好吧。不过我们不进地牢。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

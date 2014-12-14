@@ -1,0 +1,1290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Aerin is better off without that Giantess of a woman.</Source>
+      <Dest>没有那个女巨人，艾灵可能就死了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, cursed?</Source>
+      <Dest>你指的是什么？诅咒？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, cursed?</Source>
+      <Dest>你指的是什么？诅咒？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, cursed?</Source>
+      <Dest>你指的是什么？诅咒？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, cursed?</Source>
+      <Dest>你指的是什么？诅咒？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you decide to quit the Guild?</Source>
+      <Dest>你决定何时退出公会?</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you decide to quit the Guild?</Source>
+      <Dest>你决定何时退出公会?</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time.</Source>
+      <Dest>抓紧时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>You are cursed with beauty, a light so bright it outshines the person inside.</Source>
+      <Dest>你生来便是美人胚子，然而绚烂夺目的光辉反倒遮掩了你的內在。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you join the Thieves Guild?</Source>
+      <Dest>你为什么加入盗贼公会？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your childhood.</Source>
+      <Dest>跟我说说你童年的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your childhood.</Source>
+      <Dest>跟我说说你童年的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your childhood.</Source>
+      <Dest>跟我说说你童年的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no place for cynics in the service of Mara.</Source>
+      <Dest>圣灵玛拉不会赐福与那些愤世嫉俗的人。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to be a matchmaker.  You can just pass out Dinya's letters.</Source>
+      <Dest>你不必做一个联络人，你只负责寄送丁雅的信件就好。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't have to be a matchmaker.  You can just pass out Dinya's letters.</Source>
+      <Dest>你不必做一个联络人，你只负责寄送丁雅的信件就好。</Dest>
+    </String>
+    <String List="0">
+      <Source>There will be great peril and amazing adventure, for that is a life truly lived.</Source>
+      <Dest>那将是艰巨而惊奇的冒险，而生命当如是。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fear not, maiden. Wed me, and no curse will withstand the might of our love.</Source>
+      <Dest>不要害怕，小姐。嫁给我，没有任何诅咒可以承受我俩爱情的威力。</Dest>
+    </String>
+    <String List="0">
+      <Source>A curse?  Away with you banshee!</Source>
+      <Dest>一个诅咒？死开点啦你这个带来不详的妖精！</Dest>
+    </String>
+    <String List="0">
+      <Source>A curse?  Away with you banshee!</Source>
+      <Dest>一个诅咒？死开点啦你这个带来不详的妖精！</Dest>
+    </String>
+    <String List="0">
+      <Source>You were excited to be outside.</Source>
+      <Dest>你过去对于呆在外面总是很兴奋。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were excited to be outside.</Source>
+      <Dest>你过去对于呆在外面总是很兴奋。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were excited to be outside.</Source>
+      <Dest>你过去对于呆在外面总是很兴奋。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to care for your former occupation.</Source>
+      <Dest>你似乎并不关心你以前的职业。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to care for your former occupation.</Source>
+      <Dest>你似乎并不关心你以前的职业。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to care for your former occupation.</Source>
+      <Dest>你似乎并不关心你以前的职业。</Dest>
+    </String>
+    <String List="0">
+      <Source>So how did you develop your skills?</Source>
+      <Dest>那么你怎么提升你的技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>So how did you develop your skills?</Source>
+      <Dest>那么你怎么提升你的技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>So how did you develop your skills?</Source>
+      <Dest>那么你怎么提升你的技能？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think they reacted that way?</Source>
+      <Dest>为什么你会知道他们怎样反应的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think they reacted that way?</Source>
+      <Dest>为什么你会知道他们怎样反应的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think they reacted that way?</Source>
+      <Dest>为什么你会知道他们怎样反应的？</Dest>
+    </String>
+    <String List="0">
+      <Source>As long as you're okay with me stealing stuff.</Source>
+      <Dest>只要你不介意我偷东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>The path to love? Leave the sermon out of it. How did this teach you anything?</Source>
+      <Dest>通往爱情之路？别把布道和它扯在一起。这怎么教你那么多东西的？</Dest>
+    </String>
+    <String List="0">
+      <Source>The path to love? Leave the sermon out of it. How did this teach you anything?</Source>
+      <Dest>通往爱情之路？别把布道和它扯在一起。这怎么教你那么多东西的？</Dest>
+    </String>
+    <String List="0">
+      <Source>The path to love? Leave the sermon out of it. How did this teach you anything?</Source>
+      <Dest>通往爱情之路？别把布道和它扯在一起。这怎么教你那么多东西的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>I lead.  Mjoll follows.  Aerin just waits here in Riften.  Alone.</Source>
+      <Dest>我领路，穆月尔跟着。而艾灵自己一个人留在裂谷城等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Me?  Oh no.  Just the occasional dragon slaying trip.</Source>
+      <Dest>我？哦不。我只是偶尔去屠屠龙罢了</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason you still use that name.</Source>
+      <Dest>肯定有什么原因让你继续用那个名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>There must be a reason you still use that name.</Source>
+      <Dest>肯定有什么原因让你继续用那个名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>She's already passing some of Briehl's work to me so he can focus on marital guidance.  No, I've got to make this whole matchmaker thing work.</Source>
+      <Dest>她已经把一些布雷尔的工作交给我好让他专心做婚介. 不，我已下定決心要让婚介的工作成功。</Dest>
+    </String>
+    <String List="2">
+      <Source>At the time though, none of that mattered.  All it was was another rejection.</Source>
+      <Dest>当时那也没什么。也就是又一次的拒绝而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet all my efforts end in disaster.</Source>
+      <Dest>反正我所有的努力都以悲剧结尾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eventually I could not only exit the library, but enter the armory, and when I was ready, escape the city entirely.</Source>
+      <Dest>最后，我不仅溜出图书馆，甚至进入到军械库。当万事俱备的时候，就是我逃离这个城市的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eventually I could not only exit the library, but enter the armory, and when I was ready, escape the city entirely.</Source>
+      <Dest>最后，我不仅溜出图书馆，甚至进入到军械库。当万事俱备的时候，就是我逃离这个城市的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would be in my room praying when the peals of laughter came echoing from beyond the wall.</Source>
+      <Dest>当阵阵回响的笑声从墙外传来的时候，我正在我的房中祷告。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our family ran the town, and employed the people, and their treatment of those people wasn't always fair.</Source>
+      <Dest>我们的家人跑到镇里，然后雇佣了这些人，但他们对待这些人总是不公平的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, she's not that big.  At least by Nord standards.  Why?  Do you think she's big?</Source>
+      <Dest>哦，她其实也没那么大，至少以诺德人的标准来看。为什么？你认为她很大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I retract my earlier statement?  This robe isn't designed to ward off dragon fire.  Or anything, for that matter.</Source>
+      <Dest>我可以收回前面说的话吗？这件袍子不是为抵挡龙火之类的玩意而设计的，</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow. Just wow.  Now I'm glad I came.</Source>
+      <Dest>哇。哇。现在我很高兴我来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when I heard what happened to Sapphire...it was so sad, and yet so courageous.  Pathetic as it sounds, I was almost jealous.</Source>
+      <Dest>当我听到蓝宝石的故事的时候...它是那么的悲惨，而她是那么的勇敢。既然往事不堪回首，我之后好好珍惜现在。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.</Source>
+      <Dest>慢慢儿来。 </Dest>
+    </String>
+    <String List="2">
+      <Source>A Dwemer city.  You're lucky I came along.  I built my reputation on picking Dwarven locks.</Source>
+      <Dest>一座锻莫的城市。我也来了，你应该感到幸运。我可是最擅长撬开锻莫的锁了。</Dest>
+    </String>
+    <String List="2">
+      <Source>We lived in a large house, as big as a palace, and filled with emptiness.  As a child, I did everything I could to escape it. </Source>
+      <Dest>我们住在一个大房子里，房子像宫殿一样大，充满了空虚。小的时候，我想方设法地想逃离它。</Dest>
+    </String>
+    <String List="2">
+      <Source>I studied the craft of lockpicking, and nothing else.  I learned about the mechanisms behind them, and how to feel for the point of zero vibration.</Source>
+      <Dest>我学过撬锁技术，只此一门。我了解它们背后的机械结构，具备寻找振动零点的触感，</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess it's because I never was a thief.  It's not that I didn't have the skills, mind you.</Source>
+      <Dest>我想这是因为我从来没有被一个小偷。但注意了，这并不能说明我没有技巧。 </Dest>
+    </String>
+    <String List="2">
+      <Source>As I said, that's how most people in Riften know me. </Source>
+      <Dest>如我所说，这就是为什么大多数裂谷城的人听说过我。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I still recall everything about that moment.  I remember the squealing children, the summer sun...aromas wafting from the garden.</Source>
+      <Dest>我仍记得当时的一切。我记得那尖叫的孩子，夏日的太阳……花园飘来的芬芳。.</Dest>
+    </String>
+    <String List="2">
+      <Source>By finding true love the citizens give praise to Mara, and by finding the donation bowl they allow the temple to prosper.</Source>
+      <Dest>人们赞颂玛拉以期获得真爱，筑起庙宇献上捐赠以期能够兴旺发达。</Dest>
+    </String>
+    <String List="2">
+      <Source>I clutched onto a vine of hanging moss and with what little strength I had, managed to scale the wall.</Source>
+      <Dest>我没什么力气了，只能紧紧抓着一条藤蔓，想方设法的往墙上爬。</Dest>
+    </String>
+    <String List="2">
+      <Source>As trivial as it sounds, the Guild gave me a sense of belonging I never had, and the brothers and sisters I always wanted.  We were family.</Source>
+      <Dest>这原因听起来确实很无足轻重，但公会给了我从未有过的归属感，以及我梦寐以求的兄弟姐妹。我们是一家人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It all goes back to my childhood.  For most people, it always does.  I grew up an only child, cloistered from the other children.</Source>
+      <Dest>这一切都可以追溯到我的童年。对大多数人来说，总是这样。我孤零零的逐渐长大，跟其他孩子完全不相往来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally, these were no ordinary locks.  They were based on Dwarven craftsmanship, as complex and mysterious as the path to love.</Source>
+      <Dest>通常，那里的锁不是一般的锁， 他们通常是矮人锁，像爱一样难以捉摸和神秘</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，一点儿小意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound awfully pleased about that.  Is there something I should know?  Wait, don't tell me, I'd just ruin it.</Source>
+      <Dest>你听起来非常高兴。有什么想和我说的吗？等等，还是算了，我会毁了你的好心情的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I studied the craft of lockpicking, and nothing else. I learned about the mechanisms behind them, and how to feel for the point of zero vibration.</Source>
+      <Dest>我研究了撬锁的伎俩，除此之外再没别的了。我研究锁具的机械原理，以及如何把握住“零点”——开锁的正确时机。</Dest>
+    </String>
+    <String List="2">
+      <Source>I ran into the street and flagged down the other children, but they all looked at me like I was a Billie. </Source>
+      <Dest>我跑进这条街并招呼剩下的孩子停下来，但他们都像看一个女人？那样看着我。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Even then, there was a distance between us.  They spoke differently.  Acted differently.   I stole to rebel.   They stole to survive.</Source>
+      <Dest>即使那时，我们之间也颇有隔阂。他们使用不一样的语言。举止也不同。我偷东西是为了反抗。他们是为了生存。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's exactly why I must succeed. I love Dinya, but I'd rather scrub the floors with my tongue than pass out another one of her obnoxious missives.</Source>
+      <Dest>这正是我非成功不可的原因。我爱丁雅,但我宁愿用舌头把地板舔干净也不愿再发一封她那烦死人的信了。</Dest>
+    </String>
+    <String List="2">
+      <Source>One day Vex asked me to do a heist job at the Temple of Mara.  She didn't tell me what is what I was stealing, just that it was valuable.  </Source>
+      <Dest>有天薇克丝叫我去玛拉神庙去干一票。她没给我说我到底去搞什么，只需要知道它很值钱就是了。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Do you want the short answer, or the long one?</Source>
+      <Dest>你想要我长话短说，还是想听完整版？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, what my parents neglected was how vast their collection was, and not all books were educational in the way they implied.</Source>
+      <Dest>这样说吧，我的父母忽视了他们藏品的广泛程度，而且并非所有的书都像他们所说的那样有教育意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, what my parents neglected was how vast their collection was, and not all books were educational in the way they implied.</Source>
+      <Dest>这样说吧，我的父母忽视了他们藏品的广泛程度，而且并非所有的书都像他们所说的那样有教育意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dinya suggested I drop the name as a symbolic gesture, but I feel like that would be running away from who I was.  And what I've done.</Source>
+      <Dest>丁雅建议我放弃这个名字作为一个象征性的姿态, 但是我感觉这是在逃避我是谁。以及我已经做了些什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, an ancient ruin!  Stealing from dead people is okay, right?</Source>
+      <Dest>哇，一座古遗迹！从死人那儿偷东西不是犯罪，对吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey!  I resent that.  I am not a cynic.  What I am, is cursed.</Source>
+      <Dest>嘿！我讨厌那样。我不是可怜虫。我是，是被诅咒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that sort of curse.  It's more like every couple I council ends up at each other's throats.  </Source>
+      <Dest>不是那种诅咒啦。是说好像几乎我牵线的每对恋人最终都变成了仇人。</Dest>
+    </String>
+    <String List="2">
+      <Source>That cave looks dark.  Are you sure we have enough torches?</Source>
+      <Dest>山洞里看起来黑乎乎的一片。你确信我们带了足够多的火炬了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The candle that burns twice as bright makes it that much harder to steal.  Sorry, that's a really bad Guild joke.  Made Dirge laugh once though.</Source>
+      <Dest>两倍亮度的蜡烛也同样难偷。不好意思，这个公会内部笑话其实不好笑。但是挽歌听到这个以后笑过一次。</Dest>
+    </String>
+    <String List="2">
+      <Source>How sweet.  In fact, I think you just gave me a toothache.  Thanks a lot, you sentimental jester.</Source>
+      <Dest>多甜蜜啊。事实上，我觉得你刚刚要我的牙都疼了。谢谢，你多愁善感的小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dinya has tasked acolytes such as myself with ushering those who have lost their way back on the path toward love.</Source>
+      <Dest>丁雅委托我这样的侍僧以引导那些迷途的人们回到爱的正轨上的重任。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh oh.  They look dangerous.  Are you sure you want to fight?</Source>
+      <Dest>嗯哦。他们看起来很危险。你确定你真想上去和他们打？</Dest>
+    </String>
+    <String List="2">
+      <Source>As a result, there's a lot of pressure to perform.  It doesn't help that Briehl has already brought seven couples to marital bliss in the past month.</Source>
+      <Dest>因此，要承受很多压力。就算布雷尔在过去一个月为七对夫妻带来了婚姻的幸福也毫无帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>It might've been the clothes.  It could've been I was a stranger.   It probably had something to do with my father.</Source>
+      <Dest>可能是衣服的问题。可能我已经彻彻底底的成了个陌生人。也可能是跟我的父亲有些关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>I ran into the courtyard and nearly knocked over a servant as she planted redworts in the garden. </Source>
+      <Dest>我冲进庭院还差点撞翻了一个在花园种植红色植物的女侍从。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not, but I know I can't stop you. Just try to remember the consequences of your actions.</Source>
+      <Dest>我不是，但是我知道我不能阻止你。只是考虑清楚你的行为会造成多大影响。</Dest>
+    </String>
+    <String List="2">
+      <Source>That night Dinya and Maramal were at The Bee and Barb, preaching to the patrons.  Briehl was showing the temple to a young couple.</Source>
+      <Dest>那天晚上，丁雅和马拉莫在蜂与刺，给捐赠人讲道。布雷尔在带着一对年轻的夫妇参观神庙。</Dest>
+    </String>
+    <String List="0">
+      <Source>If by "the rest" you mean happily married, then yes, you're right.</Source>
+      <Dest>如果“其他的”是指婚姻幸福，那么是的，你说对了。</Dest>
+    </String>
+    <String List="0">
+      <Source>If by "the rest" you mean happily married, then yes, you're right.</Source>
+      <Dest>如果“其他的”是指婚姻幸福，那么是的，你说对了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You look like you have something on your mind.</Source>
+      <Dest>你看起来有心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't always have someone cover for you.</Source>
+      <Dest>没有人会照顾你一辈子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to prove this curse is nonsense.</Source>
+      <Dest>我会证明那所谓的诅咒是多么的荒谬至极.</Dest>
+    </String>
+    <String List="0">
+      <Source>Ah, hirsute one, you speak of lycanthropy. Follow me, and I will save your soul.</Source>
+      <Dest>啊,多毛的人,你在谈论狼人。跟我来,我将拯救你的灵魂.</Dest>
+    </String>
+    <String List="0">
+      <Source>Ah, hirsute one, you speak of lycanthropy. Follow me, and I will save your soul.</Source>
+      <Dest>啊,多毛的人,你在谈论狼人。跟我来,我将拯救你的灵魂.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's what I'm counting on.</Source>
+      <Dest>这就是我指望的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm appealing to your sense of duty.</Source>
+      <Dest>我在唤起你的责任感。</Dest>
+    </String>
+    <String List="0">
+      <Source>Excuse me?</Source>
+      <Dest>不好意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Excuse me?</Source>
+      <Dest>不好意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>I stick to the road.  Lots of scary stuff out in the wilderness.</Source>
+      <Dest>我坚持自己的道路。哪怕有很多可怕的东西在外面。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mjoll is mine.  Aerin can't have her.</Source>
+      <Dest>穆月尔是我的. 艾灵不能拥有她。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curses can be fixed. I'm the one who fixes them.</Source>
+      <Dest>诅咒是可以被修复的。而我就是那位能修复诅咒的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curses can be fixed. I'm the one who fixes them.</Source>
+      <Dest>诅咒是可以被修复的。而我就是那位能修复诅咒的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you not a Priestess of Mara? Will you deny these two people their nuptials?</Source>
+      <Dest>你不是个玛拉女祭司？你会拒绝主持那两个人的婚礼吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, some people just aren't compatible.  It's not your fault.</Source>
+      <Dest>这并不是你的错，无论何时总是有些人难以相处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, some people just aren't compatible.  It's not your fault.</Source>
+      <Dest>这并不是你的错，无论何时总是有些人难以相处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, some people just aren't compatible.  It's not your fault.</Source>
+      <Dest>这并不是你的错，无论何时总是有些人难以相处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, some people just aren't compatible.  It's not your fault.</Source>
+      <Dest>这并不是你的错，无论何时总是有些人难以相处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your "marital issues" could just be bad luck.</Source>
+      <Dest>你的“婚姻问题”只能说是运气太差。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your "marital issues" could just be bad luck.</Source>
+      <Dest>你的“婚姻问题”只能说是运气太差。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem less...devout than the other priests I've met.</Source>
+      <Dest>你可……不像我所见的其他祭司那样虔诚。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem less...devout than the other priests I've met.</Source>
+      <Dest>你可……不像我所见的其他祭司那样虔诚。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem less...devout than the other priests I've met.</Source>
+      <Dest>你可……不像我所见的其他祭司那样虔诚。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem less...devout than the other priests I've met.</Source>
+      <Dest>你可……不像我所见的其他祭司那样虔诚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jade. Trust me. You can do this.</Source>
+      <Dest>翡冷翠，相信我,你可以做到的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jade. Trust me. You can do this.</Source>
+      <Dest>翡冷翠，相信我,你可以做到的。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one saw you enter.</Source>
+      <Dest>没人看见你进来。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one saw you enter.</Source>
+      <Dest>没人看见你进来。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one saw you enter.</Source>
+      <Dest>没人看见你进来。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one saw you enter.</Source>
+      <Dest>没人看见你进来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to marry a couple.</Source>
+      <Dest>我需要你为一对新人证婚。</Dest>
+    </String>
+    <String List="0">
+      <Source>This love is strong enough to overcome any curse.</Source>
+      <Dest>这份爱强大到足以压倒任何诅咒。</Dest>
+    </String>
+    <String List="0">
+      <Source>This love is strong enough to overcome any curse.</Source>
+      <Dest>这份爱强大到足以压倒任何诅咒。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt Mjoll is interested in any man, if you catch my drift.</Source>
+      <Dest>我怀疑穆月尔对任何男人都感兴趣，如果你明白我的意思的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine, any priest will do, just tell them to make arrangements.</Source>
+      <Dest>行，是个祭司就行，告诉他们赶紧安排吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine, any priest will do, just tell them to make arrangements.</Source>
+      <Dest>行，是个祭司就行，告诉他们赶紧安排吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>The only way to break such a curse is to find love yourself.</Source>
+      <Dest>破除这种诅咒的唯一办法是，爱上你自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>I, on the other hand, have failed to shepherd a single soul to Mara's embrace.  I think I'm cursed.</Source>
+      <Dest>而我，就连把一个灵魂送到玛拉的怀抱都做不到。我想我是被诅咒了的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what people always say.  Then they both come back a month later and toss their wedding rings in my face.  </Source>
+      <Dest>这就是人们经常说的。他们基本上都会在一个月以后回来并会把结婚戒指甩我脸上。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to be a member of the Thieves Guild.  I didn't really have much use for my old name, so when I met Sapphire, I decided to change my name too.</Source>
+      <Dest>我曾是盗公会的一员。我觉得我以前的名字真的没什么用处，所以当我遇到蓝宝石的时候，我决定也换一个名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>The items Vex wanted weren't even in a strongbox.  She said they were on a dresser, placed next to a bouquet of flowers.  They were wedding rings.</Source>
+      <Dest> 威克斯要的东西甚至没有锁在保险柜里。她说就在台子上，一束花旁边。那是一对结婚戒指。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not this kind I'm afraid.  The curse I speak of isn't some witch's malediction. It might just be my own failing. </Source>
+      <Dest>恐怕不是这样。诅咒我的不是一些女巫的咒语 。或许它只是我自己的失误。</Dest>
+    </String>
+    <String List="2">
+      <Source>Will do! I'm sure you'll be far more pleased with the results.</Source>
+      <Dest>好的！我敢保证你会对结果非常满意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish I had the courage to tell them, and the faith to believe we'd still be friends if I did.  </Source>
+      <Dest>真希望我有那样的勇气告诉他们，并且有那样的信心相信说了之后我们还是朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you really shouldn't be talking to me.  You know, the curse and all that?</Source>
+      <Dest>那你真的不应该同我说话。你有听说过，诅咒，或者别的什么差不多的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I am.  But it's because I want them to be happy that I'm gently suggesting you talk to Maramal.</Source>
+      <Dest>我是。但这是因为我想让他们更加愉快；出于礼貌，我建议你和玛拉莫进行探讨。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know they've already forgiven me.  I know they know I'm sorry.   I'm just too much of a coward to say the words.</Source>
+      <Dest>我知道他们已经原谅我了。我知道他们知道我感到很抱歉。 我只是太过软弱，以至于不能把这些话说出口。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, when it comes to offering counsel to those in love, I've found my words are cursed.</Source>
+      <Dest>[看见了吧，每当要我给那些陷入爱情的人们一点忠告时，我都会觉得我说的话简直就像被诅咒了一样。]</Dest>
+    </String>
+    <String List="2">
+      <Source>Tell that to Sadrin.  He still blames me for ruining his chances with Haelga.  As if that weren't his own fault.</Source>
+      <Dest>把那告诉莎蒂。他还在责怪我毁了他与哈尔嘉的好事呢。说得好像这不是他自己的错一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>So do I!  But have you checked the tally?  The curse belt has about a dozen notches.  I don't even own a belt. </Source>
+      <Dest>我也一样！但你检查过数量吗？这个被诅咒的腰带有一堆的缺口儿。我连个自己的皮带都没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>Green eyes, Jade...it doesn't take a college mage to figure out gems make pretty names for girls.</Source>
+      <Dest>猫眼石，翡翠……把宝石名字弄得和女孩优美的名字一样这一点这并不需要学院法师去解决。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was just looking back on all the people I hurt during my time in the Thieves Guild.  I never came clean, but I think they knew.</Source>
+      <Dest>我刚刚又想起那些我在盗贼公会的时候伤害过的人。我从没坦白承认过，不过我想他们都知道的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?  Are you out of your mind?  I'm not a werewolf.  Dinya's the one who refuses to pluck the hair on her lip.  </Source>
+      <Dest>神马？你疯了吧？我不是狼人。丁雅才是那个拒绝把嘴上的兽毛儿剃光的家伙。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The other day Sadrin came by the temple to complain again and ogle the statue.  After one of his visits, I always feel like Mara needs a bath.</Source>
+      <Dest>前几天萨汀又来神殿抱怨了一通还朝神像抛媚眼。每次他来过之后，我都觉得玛拉该洗个澡了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, alright. I'll do it.  Just bring them to the Temple and I'll send them on their merry way.</Source>
+      <Dest>好吧好吧。我会做的。把他们带去神殿，我会在那儿把他们领往极乐的旅途。</Dest>
+    </String>
+    <String List="2">
+      <Source>I stole away into the back, where the living quarters are.  If you could call them that. </Source>
+      <Dest>如果你能这么告诉他们的话，就说我偷偷溜到后面的生活区了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was just thinking about poor Svana.  I think Dinya wants me to talk to her so I can save her *from* marriage.</Source>
+      <Dest>我只是在想可怜的斯瓦纳。我以为丁雅想让我跟她说说话，这样我就能把她从婚姻里拯救出来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I realized that's what Vex wanted, my heart stopped.  I couldn't do it.  It seemed...wrong.  Especially wrong. </Source>
+      <Dest>当我意识到这就是威克斯想要的，我的心跳暂停了。我不能这么做。这似乎是……错误的。大错特错。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know the difference between luck and curses. Bad luck is rain at a picnic.  Ataxia on your first date.  </Source>
+      <Dest>我知道运气和诅咒的区别。运气差最多也就是在野餐的时候下雨，扰乱你的第一次约会的程度吧。  </Dest>
+    </String>
+    <String List="2">
+      <Source>And the way he keeps staring at the statue of Mara makes me wonder about his intentions.  </Source>
+      <Dest>他那种一直盯着玛拉雕像不眨眼的方式都让我怀疑他的意图了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I said never leave her side, I didn't mean her backside!  A man has to lead.  </Source>
+      <Dest>当我说永远不会离开她身边的时候，我不是在指她的背面！一个男人应该为女人领路。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I didn't mean to imply you wouldn't find love, or haven't already found it.  I simply meant you wouldn't find it by petitioning my advice.</Source>
+      <Dest>哦，我不是暗指你无法找到爱，或者还没有找到过爱。我只是说，如果你向我寻求建议的话你是找不到它的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...is this some sort of love triangle? Well, that's not what I do. I don't break people up. Intentionally.</Source>
+      <Dest>呵，看来像是三角恋啊？得，我可不干这个。破人姻缘这事我不来——当然，意外的不算。</Dest>
+    </String>
+    <String List="2">
+      <Source>You think so? I...I almost believe you! Alright! Bring those two lovebirds over and I'll marry them!</Source>
+      <Dest>你这么认为吗？我……我几乎都相信你了！好吧！把那对燕尔带回来，我会为他们证婚的！</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Okay, you're right.  I am a Priestess of Mara, and to be honest, I am getting tired of people calling  me the maid.</Source>
+      <Dest>好吧，你是对的。我是一名玛拉女祭司。而且老实说，我已经厌倦了人们叫我女佣。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like Dinya and Maramal.  And suddenly I'm beginning to feel nauseous.  </Source>
+      <Dest>你听上去像是丁雅和玛拉莫。我突然开始觉得恶心了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He's also very frail. The other day I think I hurt my shoulder just looking at him.</Source>
+      <Dest>他也很少女心。前几天，我想我就看了看他一眼，肩膀就被弄伤了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And she did what she always does. What I always needed but never got from my mother.  She embraced me.  And I knew then I'd found a home.</Source>
+      <Dest>其实她只是重复着她习惯的事，也就是我一直需要但从来没有从我母亲那里获得的-------一个拥抱。然后，我感觉我找到了第二个家。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure I follow...Ohhhhh, you mean...nooo.  Really?  We're talking about Khajiit, right?</Source>
+      <Dest>我不知道我跟……哦哦哦~你的意思是……不~~真的吗？我们在聊虎人，是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was just thinking how vast Skyrim is, and yet for all its breadth it's not even a fraction of the size of a heart full with love.</Source>
+      <Dest>我在想,天际省是多么的广阔，而即便它辽阔如此，在一颗充满爱意的心面前，也只如沧海一露。</Dest>
+    </String>
+    <String List="2">
+      <Source>All I know is that everyone I attempt to usher toward the path of true love strays toward mistrust, denial and loathing.</Source>
+      <Dest>我只知道每一个被我试着导向真爱的人……最后都迷失于猜疑、拒绝和憎恨。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, then we'll make great companions.  Here I was worried about having to...wait, is that mud on your boots?</Source>
+      <Dest>噢，那么我们就是背靠背的伙伴了。我开始还在考虑我不得不…等等，你鞋上的那是泥巴么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I give you Mara's blessing, so that her light may guide you on the path to true...oh who am I kidding?  You'll end up like all the rest.</Source>
+      <Dest>我会赐予你玛拉的祝福，她的光辉会指引你走向那条正确的道路……噢我是在开谁的玩笑哪？你跟其他的人一个样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, I won't be marrying them, as in me being their wife.  I'll be marrying them from behind the altar.  Oh you know what I mean.</Source>
+      <Dest>我的意思是，我不会嫁给他们中的任何人，不会仅仅成为他们中的人的妻子就完事，我要在祭坛之下光彩的嫁出去，噢你知道我什么意思对吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bad luck can throw love off course, but it can't capsize a ship so thoroughly like a curse.</Source>
+      <Dest>不走运能让爱情偏离轨道, 但不会像诅咒一样使船覆没。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not at the same time, of course.  Most of them can't stand being around each other.</Source>
+      <Dest>当然不是同时。他们大部分人站在彼此中间都做不到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Haelga likes more distinguished, attractive men.  Sadrin is a bit petulant and has a face like a pumice stone.</Source>
+      <Dest>哈尔嘉喜欢更有特点、更带感的男人。萨汀有点任性而且长着一张抛光的石头似的脸蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings traveler, my name is Jade.</Source>
+      <Dest>你好旅行者，我的名字叫翡冷翠。</Dest>
+    </String>
+    <String List="2">
+      <Source>Me? Are you sure? I did tell you I was cursed, right?</Source>
+      <Dest>我？你确定？我确实有告诉过你，我被诅咒了，不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I would, but it doesn't seem like he's around. (Sigh) I guess Mara's sending me a message. Bring them here and I'll do my best.</Source>
+      <Dest>我会的，但是似乎他并不在附近。（唉~）我猜，玛拉女神会护佑着我。带他们来这里，我会尽力而为。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you must be new to Riften. Well, if you're looking for guidance in matters of the heart, I suggest you speak to Maramal or Dinya.  </Source>
+      <Dest>哦，你肯定是刚来裂谷城. 好吧，如果你有遇到什么麻烦，想要寻求指引的话，我建议你去找玛拉莫 或者丁雅谈谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>The walls and floorboards were splintered, the tables desiccated, the plates and cups rusted and pock-marked.  These were not people of wealth.</Source>
+      <Dest>墙壁和地板会裂成碎片，桌子会干裂枯萎，盘子和杯子会布满锈斑。这些并不是人的财富。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it that obvious?  I suppose the name isn't particularly orthodox either. Well, it's not exactly a secret around here, so I might as well tell you.</Source>
+      <Dest>有那么明显？……我也觉得这名字没那么传统。好吧，在这里我的事也不是什么秘密了，我可以告诉你。</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems the wedding is but a formality, but he seeks my counsel nonetheless.  I tell him to never leave her side, and let Mara handle the rest.</Source>
+      <Dest>尽管看起来婚礼不过是走个形式，但他还是来向我寻求建议。我对他说千万别离开她的身边，剩下的就交由玛拉大神吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was thinking about the time I told Sapphire we should wear Jade and Sapphire circlets.  She said it would make us look stupid.  She was right.</Source>
+      <Dest>我正想着以前我跟蓝宝石说，也许我们应该都戴上翡冷翠和蓝宝石的头环，她说这会让我们变得像个蠢蛋，我想她说对了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's when my eyes met Dinya's, standing there in the doorway.</Source>
+      <Dest>我瞄到丁雅了，就站在出口旁边.</Dest>
+    </String>
+    <String List="2">
+      <Source>Except "Emerald" sounds like something you'd name your overweight uncle.  So I settled on Jade.</Source>
+      <Dest>除了艾默洛尔，听起来你给你超重的叔叔更合适。那么我起名翡冷翠好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He persuades the woman to move with him to Riften, and even convinces her to stay in his home.  The stars are aligned. Mara's hand guides them both.</Source>
+      <Dest>他说服那个女人和他一同前往裂谷城并定居。星星连成直线。玛拉也指引他们前进。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely something must be going on between those two.</Source>
+      <Dest>显然在这两者之间一定会发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Either way, it's just one more perfect couple you've ruined.</Source>
+      <Dest>无论如何，你只是又毁了一对完美的恋人罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Either way, it's just one more perfect couple you've ruined.</Source>
+      <Dest>无论如何，你只是又毁了一对完美的恋人罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>There will be danger, but I will protect you.</Source>
+      <Dest>那里会有危险，但我会保护你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which brought you to Riften.</Source>
+      <Dest>于是你就来到了裂谷城。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which brought you to Riften.</Source>
+      <Dest>于是你就来到了裂谷城。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which brought you to Riften.</Source>
+      <Dest>于是你就来到了裂谷城。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which brought you to Riften.</Source>
+      <Dest>于是你就来到了裂谷城。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who else has sought your counsel?</Source>
+      <Dest>还有谁寻求了你的建议？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who else has sought your counsel?</Source>
+      <Dest>还有谁寻求了你的建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>These people are what Dinya would call "heathens."  I don't disagree.  It's up to you, but I think it's better if we leave.  Mara would not approve.</Source>
+      <Dest>那些人会被丁雅称之为“异端”。我不反对。你自己决定，不过我想我们最好离开。玛拉不会赞同的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I still can't believe you just left me here.  I'm surprised you remembered to come back.</Source>
+      <Dest>我不能相信你刚刚离开了，看到你进来真是令我惊讶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whenever I stole from people, I knew what I was doing was wrong. But I didn't want to let my friends in the Thieves Guild down. They were my family.</Source>
+      <Dest>其实每当我从人们那里偷东西的时候，我都知道这么做是错的。但我不想让我盗贼公会的朋友们失望。他们是我的家人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Skyrim is known for its winters, but the best part about winter is it's a storm away from spring.</Source>
+      <Dest>天际省是以冬季出名的，不过最赞的还是那个从春天而来的暴风雨。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there's Svidi.  She sought Mara's blessing to guide her marriage with Sibbi.  Even I saw that one coming.  Although not the murder part.</Source>
+      <Dest>是啊，是斯维迪，她寻求玛拉的祝福指引她和西比的婚姻。即使我早就料到了，但却没参与这场谋杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then there's Svana, who suffers from the same disease as Svidi did.  She too wants Mara's blessing.  Why can't Sibbi's lovers go to Briehl for once?</Source>
+      <Dest>然后说到斯瓦纳，染上的是跟斯维迪一样的相思病。她太想得到玛拉的祝福了。为什么西比的情人们就不能去一次布雷尔呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Have we done enough to spread Mara's love and charity?  I'm not so sure we're doing our part.</Source>
+      <Dest>我们为传播玛拉的爱与慈善所做的努力做得够多了吗？我不确定我们是否已尽到自己的职责。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mara teaches us to make love, not war.  But I've always been a Stormcloak supporter.  They trust their heart, and don't make compromises.</Source>
+      <Dest>玛拉教会了我们什么叫做爱，而不是战争。但我一直是风暴斗篷的支持者。他们坚持本心，毫不妥协。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you have anything to eat?  I was wondering if you had any stale bread in that sack I could use as a weapon.</Source>
+      <Dest>你还有什么吃的东西吗？我觉得如果你在那个袋子里藏了一个新鲜的面包的话我可以拿来当武器用。</Dest>
+    </String>
+    <String List="2">
+      <Source>You read books about snow, and they make it seem so romantic.  It's kind of just cold.</Source>
+      <Dest>你读过那些关于雪的书吧，他们把雪描绘得如此浪漫。[赋予了它除了冷以外的另外含义]。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.  I'm in no rush.</Source>
+      <Dest>慢慢儿来。我不着急。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.  I'm in no rush.</Source>
+      <Dest>慢慢儿来。我不着急。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="2">
+      <Source>Maramal conducted the ceremony, so I'm sure your friends will be just fine.</Source>
+      <Dest>有玛莫拉掌控着庆典，所以我敢肯定你的朋友们是不会出事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you hear that?  I thought I heard something.  I hope that was you.  Do you by chance have gears in your ankles?</Source>
+      <Dest>你听到什么了吗？我想我听到了什么。我希望那是你。是你碰巧在磨蹭你的脚踝？</Dest>
+    </String>
+    <String List="2">
+      <Source>When I think of summer in Skyrim, I think of passion.  In autumn, I think of friendship.  Winter, I think of piety.  But only spring has Mara's love.</Source>
+      <Dest>当我想到天际省的夏天时，我会联想到激情。秋天，我会联想到友谊。冬天，我会联想到虔诚。但只有春天能让我想到玛拉之爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude is so big.  And so suffocating.</Source>
+      <Dest>独孤城虽大，却处处弥漫着压抑的气氛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if there was a potion to cure my curse...Maybe it's like a disease or something.</Source>
+      <Dest>我寻思是否有这么一种药能治愈我的诅咒。。。也许这诅咒像疾病或别的什么一样有药可医。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the way, there's a road to the south we can take to Solitude.  Don't know if you were planning on going north.  It looks dangerous.</Source>
+      <Dest>顺便一提，走这条路一直往南我们可以到独孤城了。不知道你是不是有计划要往北走。那看起来很危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I left my home, I thought I'd spend more time outside.  But without a companion, it just felt so lonely.  So I thank you, and I thank Mara.</Source>
+      <Dest>当我离家游历时，我曾想着自己会更多地呆在外面，独自闯荡。但没有一个人陪伴，我仿佛被孤独围城。因此，我感谢你，也感谢玛拉女神。</Dest>
+    </String>
+    <String List="2">
+      <Source>My parents were a bit strict, but I know they wanted the best for me, and I know it was childish to run away.  Mara, I just hope they forgive me.</Source>
+      <Dest>我的父母有点严格，但是我知道他们想让我做到最好，而且我知道离家出走很是幼稚。玛拉，我只希望他们能原谅我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Looking back, it wasn't my parents that made me run away.  It was my name.  It was knowing every person of status was bound to the same rules.</Source>
+      <Dest>回想过去，并不是因为我的父母我才选择的离开。是我的名字，是我了解到所有人的生活都被限制在相同的规则之下让我做的这个决定</Dest>
+    </String>
+    <String List="2">
+      <Source>Did something just touch me?  I think something just touched me.  I really don't like caves.</Source>
+      <Dest>有什么东西碰我我了吗？我觉着刚有啥摸我了。我真的不喜欢洞穴。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.  Sadrin blames me too for ruining his chances with Haelga.  Although I'm not sure his intentions are completely honorable.</Source>
+      <Dest>我知道。萨汀因为我毁了他跟哈尔嘉在一起的机会而对我抱怨有加。虽然我不知道他有没有打什么坏主意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just say the word, and I'm on it.</Source>
+      <Dest>下命令吧，我这就去做。</Dest>
+    </String>
+    <String List="2">
+      <Source>What about Peragorn and Valindor?  What?  You don't think they like each other?  Or do you think they don't like other males?</Source>
+      <Dest>佩勒根和瓦里德尔呢？什么？不认为他们很像？还是说你认为他们压根就不像个爷们？</Dest>
+    </String>
+    <String List="2">
+      <Source>And another couple departs from the altar in perfect bliss. Now comes the hard part.</Source>
+      <Dest>又一对夫妇在令人目眩的幸福中离开了圣坛。现在是困难的部分了。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first, I thought I could leave the mark a purse of gold. Yet I quickly realized I couldn't afford all the things I was asked to steal.</Source>
+      <Dest>一开始，我还以为我能给被标记的目标留点金子。但我很快意识到我负担不起我被命令去偷的所有东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>An ice cave.  Just like a regular cave, only slippery.</Source>
+      <Dest>一个冰洞。就和一般的山洞差不多，只不过地上特滑。</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, being outdoors is still a new kind of experience for me.  Is it supposed to smell like this?</Source>
+      <Dest>说实话，户外活动对我来说仍然是种新奇的体验。我是不是应该这样闻闻？</Dest>
+    </String>
+    <String List="2">
+      <Source>It had to end some time.  It always does.</Source>
+      <Dest>总会结束的。有聚就有散嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the hardest part by far was looking in the faces of my friends.  Knowing I had done them wrong, and ascribing someone else the blame.</Source>
+      <Dest>但最为艰难的还是远远的看着我朋友们的面孔。要知道是我做了对不起他们的事，还把责任归咎于其他的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do redworts grow in Skyrim?  The ones we had in our garden were imported from the West Weald.  They were more beautiful than any rose.</Source>
+      <Dest>天际省有红草生长吗？我们花园里的红草是从西部旷野里进口来的。它们比任何蔷薇都更美丽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Fredas.  The Bee and Barb will be bustling tonight.  Maybe it's time we checked back in on everyone? I don't want them to think I abandoned them.</Source>
+      <Dest>啊，周五了。蜂与钩今晚会忙翻的。我们是不是应该叫上所有人？我可不想让他们觉得我们把他们甩下了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Someday I ought to come home.  I should come home.  I just don't know if I can face them.</Source>
+      <Dest>我想有朝一日我要回家。我，应该回家的。我只是不知道该以何面目面对他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't imagine working at the Temple of Arkay.  All those grieving people.</Source>
+      <Dest>我无法想象在阿尔凯神殿工作。那里所有人都面露悲伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sadly, no.  Aerin sleeps like a guest in his own home.  He thinks letting Mjoll have his room will help earn her love.  The poor, misguided soul.</Source>
+      <Dest>唉，真不幸。艾灵在自己的家，却睡得像个客人。他想让穆月尔住他的房间，以此赢得她的爱。可怜的，被误导的家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everything here looks unstable.  Does it look unstable to you?  You seem like you'd know.</Source>
+      <Dest>这里的一切看起来都不稳定。它看起来不稳定吗？你看起来像是知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Try not to walk too fast.  I don't want to get lost in a place this massive.</Source>
+      <Dest>请不要走得太快。我不想再这么大的地方走丢。</Dest>
+    </String>
+    <String List="2">
+      <Source>My skills were well suited for the kinds of jobs the Guild employs.  But the jobs themselves were ill suited for me.</Source>
+      <Dest>我的技术很适合去做盗贼公会的工作。但是那些工作却不太适合我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do Orc clans really pray to a Daedric god?  I'm pretty sure that's blasphemous.  I hope you aren't planning on helping them.</Source>
+      <Dest>兽人氏族真的在向一位魔族的神祈祷？我很确定那是亵渎。但愿你没打算要帮他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>How charming.  I suppose it'd be too much to ask if you went out there and removed all the danger, and then came back for me?</Source>
+      <Dest>多迷人啊。不过我想，如果要你去到那里，铲除所有危险，然后回来找我，这个要求是不是太过分了？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're going to leave me here?  All alone?</Source>
+      <Dest>你要离开我？一个人？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think a person in love would keep commenting on the "generousness" of Mara's bosom. Although to be frank, it is quite large.  Unseemly so.</Source>
+      <Dest>我不认为一个坠入爱河的人会持续讨论玛拉宽广的胸怀。不过实话说，确实很大。过分的大了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dinya taught me the value of love, and more importantly, how love takes many forms.</Source>
+      <Dest>是丁雅让我认识到爱的价值，最重要的她让我知道了爱有多种形式.</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't worry about it.</Source>
+      <Dest>不用担心。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know, I've passed by a number of caves in my lifetime, but I never had the urge to go in.  Now I know why.</Source>
+      <Dest>你要知道，我这辈子路过了无数的洞窟，但是我从没有过要进去看看的冲动。现在我知道为什么了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, whatever you need.</Source>
+      <Dest>当然，如你所需。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even if I had the gold, many of these items held sentimental value.  A lifetime of memories can't be replaced by a handful of septims.</Source>
+      <Dest>就算我有金子, 其中很多条款也只是有精神价值。生活的记忆也不会就这么被那么点金钱所代替。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh boy, here we go again...</Source>
+      <Dest>哦天哪，我们再去一次……</Dest>
+    </String>
+    <String List="2">
+      <Source>I present the two of you with these matching rings, blessed by Mara's divine grace. May they protect each of you in your new life together.</Source>
+      <Dest>我赠给你们这对承载着玛拉神圣祝福的情侣戒，愿它们在你们的新生活中保佑你们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome to the Temple of Mara.</Source>
+      <Dest>欢迎来到玛拉神殿</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome to the Temple of Mara.</Source>
+      <Dest>欢迎来到玛拉神殿</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes Sadrin, we all know you're here to ogle the statue, now either make a donation or get out.</Source>
+      <Dest>好的萨汀, 我们都知道你在给这雕像抛媚眼儿，现在你可以选择捐赠或者滚出去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might think this is weird coming from a former thief, but I have no sympathy for bandits.  None.  There's no excuse for what they do.</Source>
+      <Dest>你可能觉得这对于一个惯偷来说有点古怪，但我不同情这些强盗，一点也不。他们这样做根本毫无道理。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes I worry about Sadrin. That Elf fiddles with his dagger more times than a blacksmith would consider healthy.  Or a priestess.</Source>
+      <Dest>有时我会担心萨汀。那精灵捣鼓匕首的时间比铁匠或女祭司考虑健康问题的时间还要多。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Mara...that was beautiful.  But I'm not sure I can marry you until you say "I do..."</Source>
+      <Dest>玛拉在上......这真是太漂亮了。但我不确定我可以嫁给你，除非你说 "我愿意..."</Dest>
+    </String>
+    <String List="2">
+      <Source>It was Mara that first gave birth to all of creation and pledged to watch over us as her children.</Source>
+      <Dest>是玛拉赐予我们以至于万物生命，并将我们当做自己的孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, what's going on...you're supposed to say "I do..."</Source>
+      <Dest>尼玛，怎么回事...你应该说“我愿意...”</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you think vampires get married?  I mean, it's one thing to say "Now and Forever" when it isn't actually forever. Vampires don't have that luxury.</Source>
+      <Dest>你说吸血鬼会结婚吗？我是说，结婚可是要说“现在和永远”的，那种精神层面上而不是实际意义上的永远。对吸血鬼而言这种“永远”太过奢侈了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can pick locks, but I won't do crime, if that makes sense.</Source>
+      <Dest>我会开锁哦，可我不干坏事，要是这说得通的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think the priestesses here take the concept of love to an unhealthy extreme.</Source>
+      <Dest>我觉得这里的女祭司喜欢一个极端危险的概念。</Dest>
+    </String>
+    <String List="2">
+      <Source>Under the authority of Mara, the Divine of Love, I declare this couple to be wed.</Source>
+      <Dest>在玛拉和圣灵的见证下，我宣布这对情侣结为夫妇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've got your back so...you better hope they come from the other direction.</Source>
+      <Dest>我会在你身后掩护的，所以……你最好希望他们来自另一个方向。</Dest>
+    </String>
+    <String List="2">
+      <Source>Me and Sapphire used to run diversion jobs together in stores like this. It was easy when the shopkeeps were men, but I imagine it was hard for her.</Source>
+      <Dest>我和蓝宝石曾经在这样的店里开展“工作”。当店主是男人的时候工作开展得尤其轻松，不过也许蓝宝石会比较辛苦。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is from her love of us that we first learned to love one another. It is from this love that we learn that a life lived alone is no life at all.</Source>
+      <Dest>从她的关爱中，我们第一次懂得去爱，从她的关爱中，我们懂得孤独的人生是不完整的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whenever I'm in the city, I'm always afraid I'll run into someone I know.  At least, I know that won't happen here.</Source>
+      <Dest>不管我去哪儿，我总是怕被认出来。不过至少在这里不会。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Mara protect you.</Source>
+      <Dest>圣灵玛拉永远护佑着你.</Dest>
+    </String>
+    <String List="2">
+      <Source>You sir, do you agree to be bound together, in love, now and forever?</Source>
+      <Dest>先生，您愿意从此与她永远在一起，永远相爱至死不渝吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.  Deep breaths.  There's no such thing as curses.  So...if everyone's ready, let's begin the ceremony.</Source>
+      <Dest>好吧。深呼吸。这里没有诅咒那样的东西。所以说……如果每个人都准备好了，那就让我们开始仪式吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not afraid to say it.  Talos scares me.  I mean, what's with the snake?</Source>
+      <Dest>那我就不忌讳地直说了，塔洛斯把我给吓到了。我的意思是，为什么他要跟一条蛇呆在一块呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>May they journey forth together in this life and the next, in prosperity and poverty, and in joy and hardship.</Source>
+      <Dest>愿他们无论贫穷还是富有，顺境还是逆境，都能相伴一生。</Dest>
+    </String>
+    <String List="2">
+      <Source>My father used to tell me how beautiful The Blue Palace was from the outside.  It's even more spectacular within.</Source>
+      <Dest>我父亲曾经告诉过我蓝宫的外墙是多么的美丽。它的内部甚至还更奢华。</Dest>
+    </String>
+    <String List="2">
+      <Source>So it turns out the Dwarven locks I cracked as a child are completely different from actual Dwarven locks. I'll still try my best, but I no promises.</Source>
+      <Dest>事实证明，在我还是个孩子时破解的矮人锁和真正的矮人锁完全不同。我会试试看但是不敢保证。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've got your back, so...better hope they come from the other direction!</Source>
+      <Dest>我会在背后支持你，那么，最好希望他们从另一个方向来到</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's stay in the shadows.  Never know who you'll run into otherwise.</Source>
+      <Dest>我们还是躲在阴影里吧。否则，你永远都不知道你会碰上谁。</Dest>
+    </String>
+    <String List="2">
+      <Source>We gather here today, under Mara's loving gaze, to bear witness to the union of two souls in eternal companionship.</Source>
+      <Dest>我们齐聚于此，在玛拉慈爱的注视中，见证两个灵魂的结合。</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh boy, here we go again...</Source>
+      <Dest>哦天哪，我们再去一次……</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bride and Groom at the altar, everybody else, stay where you are!</Source>
+      <Dest>新人们快去祭坛，其他所有人，留在原地别动！</Dest>
+    </String>
+    <String List="2">
+      <Source>When I was a girl, I thought my home was a prison.  Seems pretty silly when you're actually in one.</Source>
+      <Dest>当我还是个小女孩的时候，我觉得我的家像一座监狱。这听起来很愚蠢，当你发现在一所真正的监狱的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know her voice can get a bit irritating, but one of these days we ought to buy armor from Grelka.  Not that she has good wares, but I owe her.</Source>
+      <Dest>我知道她的腔调有点气人，但总有一天我们得从格瑞卡那里买装备。并不是因为她的东西好，而是我欠她的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you think Svana and Tythis would make a good couple?  I heard she has a thing for Dark Elves.</Source>
+      <Dest>你认为丝瓦娜和泰迪斯能成为好夫妻？我听说她对黑暗精灵有点意思。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

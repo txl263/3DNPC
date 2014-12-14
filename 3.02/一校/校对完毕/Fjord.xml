@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't see the correlation. Bone meal has no health properties.</Source>
+      <Dest>我看不到关联性。骨餐没有任何营养价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you be willing to sell me some of your hip bones?</Source>
+      <Dest>你愿意卖给我一些你臀部的骨头？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh?  What do you like best about bones?</Source>
+      <Dest>哦？你最喜欢哪一部分的骨头？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh?  What do you like best about bones?</Source>
+      <Dest>哦？你最喜欢哪一部分的骨头？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your favorite type of bone?</Source>
+      <Dest>你最喜欢什么样的骨头？</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you should collect health potions then.</Source>
+      <Dest>那你应该收集点治疗药剂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you should collect health potions then.</Source>
+      <Dest>那你应该收集点治疗药剂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you should collect health potions then.</Source>
+      <Dest>那你应该收集点治疗药剂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you should collect health potions then.</Source>
+      <Dest>那你应该收集点治疗药剂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you should collect health potions then.</Source>
+      <Dest>那你应该收集点治疗药剂。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mind if I play with your bones?</Source>
+      <Dest>介意我玩玩你的骨头吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mind if I play with your bones?</Source>
+      <Dest>介意我玩玩你的骨头吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You killed some bandits?  Not bad for a creepy old man.</Source>
+      <Dest>你也能杀几个强盗？不错啊怪老头。</Dest>
+    </String>
+    <String List="0">
+      <Source>You killed some bandits?  Not bad for a creepy old man.</Source>
+      <Dest>你也能杀几个强盗？不错啊怪老头。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm looking for a hip bone that's been altered a bit.</Source>
+      <Dest>我在找一个被改了一些的髋骨。</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcs?  Elves?  All those bones look the same to me.</Source>
+      <Dest>兽人？精灵？依我看这些骨头都一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcs?  Elves?  All those bones look the same to me.</Source>
+      <Dest>兽人？精灵？依我看这些骨头都一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcs?  Elves?  All those bones look the same to me.</Source>
+      <Dest>兽人？精灵？依我看这些骨头都一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why does it matter what type of bone it is?</Source>
+      <Dest>它是哪种骨头为啥这么重要？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why does it matter what type of bone it is?</Source>
+      <Dest>它是哪种骨头为啥这么重要？</Dest>
+    </String>
+    <String List="0">
+      <Source>Butterflies aren't made of butter.  And I'm not sure they're flies either.</Source>
+      <Dest>蝴蝶又不是黄油做的，并且我也不确定它们是不是就是苍蝇。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines saved you. Praise the Divines, for the Gods are great!</Source>
+      <Dest>那神明拯救了你。赞美圣灵，赞美诸神之伟大！</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines saved you. Praise the Divines, for the Gods are great!</Source>
+      <Dest>那神明拯救了你。赞美圣灵，赞美诸神之伟大！</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines saved you. Praise the Divines, for the Gods are great!</Source>
+      <Dest>那神明拯救了你。赞美圣灵，赞美诸神之伟大！</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines saved you. Praise the Divines, for the Gods are great!</Source>
+      <Dest>那神明拯救了你。赞美圣灵，赞美诸神之伟大！</Dest>
+    </String>
+    <String List="0">
+      <Source>The Divines saved you. Praise the Divines, for the Gods are great!</Source>
+      <Dest>那神明拯救了你。赞美圣灵，赞美诸神之伟大！</Dest>
+    </String>
+    <String List="0">
+      <Source>Bones are nice, but blood is better.</Source>
+      <Dest>骨头是不错，但血液会更好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bones are nice, but blood is better.</Source>
+      <Dest>骨头是不错，但血液会更好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I find your collection rather distasteful.</Source>
+      <Dest>我发现你的收藏挺令人恶心的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's um...interesting.  Why don't I just back away slowly...</Source>
+      <Dest>嗯，那...嗯...真有趣，我为什么不慢慢地后退......</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's um...interesting.  Why don't I just back away slowly...</Source>
+      <Dest>嗯，那...嗯...真有趣，我为什么不慢慢地后退......</Dest>
+    </String>
+    <String List="0">
+      <Source>(Speechcraft) That's because it's not real bone.  It's a fake.</Source>
+      <Dest>（口才） 那是因为它不是真的骨头。它是冒牌货。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Speechcraft) That's because it's not real bone.  It's a fake.</Source>
+      <Dest>（口才） 那是因为它不是真的骨头。它是冒牌货。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, "Not just inside them?"</Source>
+      <Dest>什么意思，“不光在他们内部？”</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, "Not just inside them?"</Source>
+      <Dest>什么意思，“不光在他们内部？”</Dest>
+    </String>
+    <String List="0">
+      <Source>Bones?  Who doesn't love bones?</Source>
+      <Dest>骨头？谁不喜欢骨头呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Bones?  Who doesn't love bones?</Source>
+      <Dest>骨头？谁不喜欢骨头呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you start collecting bones?</Source>
+      <Dest>你势从什么时候开始收集骨头的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you start collecting bones?</Source>
+      <Dest>你是从什么时候开始收集骨头的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you start collecting bones?</Source>
+      <Dest>你是从什么时候开始收集骨头的？</Dest>
+    </String>
+    <String List="0">
+      <Source>When did you start collecting bones?</Source>
+      <Dest>你是从什么时候开始收集骨头的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's an Imperial know about fine Nord craftsmanship?  So I told him to peddle his snake oil somewhere else.</Source>
+      <Dest>一个帝国人又怎么会知道诺德工艺的精妙之处呢？所以我让他到别处去推销他的蛇油去。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Potions saved my life, but didn't make life safe. With no home, I had to sleep in caves.  Those places are cold and scary.</Source>
+      <Dest>不，药物救了我的命，但并没有保证我的生命安全。作为一个无家可归的人，我只能睡在山洞里。那地方又冷又危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there's differences.  Sometimes it's the length, other times it's the thickness.</Source>
+      <Dest>哦，区别还是有的。有时候是长度，有时候是厚度。</Dest>
+    </String>
+    <String List="2">
+      <Source>Because, sometimes I like to put the bones back together.  Helps pass the time on the cold days.</Source>
+      <Dest>因为，有时候我喜欢把一堆骨头组合成原来的形状。在寒冷的日子里我就靠这样消磨时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>But when I turned to look at my hand, I saw something rocking gently under the bed. It was a health potion.</Source>
+      <Dest>而当我回过头来看着自己的手时。我发现床下有个东西在缓缓地滚动。那是一瓶治疗药剂。</Dest>
+    </String>
+    <String List="2">
+      <Source>I slumped to the ground, laying my back on the wood.  It was rough to the touch. My hand caught a splinter.</Source>
+      <Dest>我跌到地面，后背撞在木头上。撞的非常狠，我的手也裂了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or sometimes you'll get something like those Khajiit fingers, where they'll almost look like claws. </Source>
+      <Dest>有些时候你会找到一些虎人手指，而它们看起来会像爪子一样。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I killed some bandits the other day.  They had such nice bones.  And not just inside them.</Source>
+      <Dest>我前不久杀了一些强盗。他们都是硬骨头。不只是骨架硬，你懂的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I killed some bandits the other day.  They had such nice bones.  And not just inside them.</Source>
+      <Dest>我前不久杀了一些强盗。他们都是硬骨头。不只是骨架硬，你懂的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I killed some bandits the other day.  They had such nice bones.  And not just inside them.</Source>
+      <Dest>我前不久杀了一些强盗。他们都是硬骨头。不只是骨架硬，你懂的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I killed some bandits the other day.  They had such nice bones.  And not just inside them.</Source>
+      <Dest>我前不久杀了一些强盗。他们都是硬骨头。不只是骨架硬，你懂的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also have a nice set of hip bones with me too, but it's not part of the collection, because they're confusing.</Source>
+      <Dest>我同样有漂亮的一套臀部骨骼，但那并非收藏品中的一部分，因为它们会使人困惑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh yes, I've gotten quite good at it too.  Can't build a tent or start a fire, so I let the bandits do it.</Source>
+      <Dest>没错，我非常擅长这些事，但不会搭帐篷生火，所以我让那些强盗来干。</Dest>
+    </String>
+    <String List="2">
+      <Source>But one day I found a cave that was warm.  Had clean beds.  Stocks of food.  I couldn't believe my luck.  Too tired to think it was the bad kind.</Source>
+      <Dest>但某天我找到了一个山洞，里面居然很温暖，有干净的铺盖，食物储量丰富。居然能如此走运，我还以为是在做梦呢。已经完全没有力气去考虑这到底是不是真的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I won't put male bones with female ones, or mix Human ones with Elves.  That's an affront to the Gods and I won't be a part of it.</Source>
+      <Dest>可我绝不会把男子的骨头拼到女子身上，更不会把人类和精灵的搞混。那些违背神灵的事我绝不会做。</Dest>
+    </String>
+    <String List="2">
+      <Source>They robbed me. Beat me. Left me for dead. I could reach into my stomach and touch my insides. It was real soft, not like bone.</Source>
+      <Dest>他们抢了我的钱，打完我后把我留在那儿等死。我可以把手伸进自己的胃，并且触摸到身体的内部。还真是软塌塌的，跟骨头一点儿也不一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Failed) I'm not sure.  You don't seem to know much about the subject.  Maybe I ought to get a second opinion before I toss away a good set of bones.</Source>
+      <Dest>(失败)我不确定。你对这个科目不太熟悉吧。或许我应该在处理掉这套骨架之前听听其他人的意见。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, Divines didn't save me.  I was alive, but not safe.  I started wandering around, sleeping in abandoned tents and moldy caves.</Source>
+      <Dest>不，圣灵没有拯救我。我还活着，但不安全。我开始四处游荡，睡在废弃的帐篷和发霉的洞穴里。 </Dest>
+    </String>
+    <String List="2">
+      <Source>By Ysmir's beard, I can't tell whether they belong to a man or a woman.  It's very important I know what type of bone I'm handling.</Source>
+      <Dest>伊斯谟的胡子啊。我真说不清这堆骨头生前属于个男的还是个女的。我得知道骨头的类型才能处理啊，这点真的至关重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost said yes, until he started trying to sell me on replacing the floorboards.</Source>
+      <Dest>我几乎都要同意了，直到他开始跟我推销，想让我换地板。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, this one bandit was walking around holding a perfectly good set of hip bones like it was her coin purse.</Source>
+      <Dest>好吧，那个强盗仪态万千地边走边扭着她的腰，就好像她的腰就是她的钱包一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I picked up my axe and ambushed the bandits in their own home.  But in the end, it was the bones that saved me.</Source>
+      <Dest>我拿起我的斧头，在强盗自己的家里埋伏他们。但最终，救了我的是这骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I picked up my axe and ambushed the bandits in their own home.  But in the end, it was the bones that saved me.</Source>
+      <Dest>我拿起我的斧头，在强盗自己的家里埋伏他们。但最终，救了我的是这骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I picked up my axe and ambushed the bandits in their own home.  But in the end, it was the bones that saved me.</Source>
+      <Dest>我拿起我的斧头，在强盗自己的家里埋伏他们。但最终，救了我的是这骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>But one day I found a cave that was warm. Had clean beds. Stocks of food. I couldn't believe my luck. Too tired to think it was the bad kind.</Source>
+      <Dest>但某天我找到了一个山洞，里面居然很温暖，有干净的铺盖，食物储量丰富。居然能如此走运，我还以为是在做梦呢。已经完全没有力气去考虑这到底是不是真的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's my collection over there.  I like to look at them when I sleep.  It's like a big puzzle.  There's so many types, and they all fit together.</Source>
+      <Dest>我的收藏品都在那里。睡觉的时候，我喜欢看着他们。但有个大难题。我的收藏品有太多种了，而他们还都被拼凑在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hips are my favorite.  Shaped like a butterfly, except they aren't made of butter, but bone.</Source>
+      <Dest>我最爱的屁股啊，像极了蝴蝶展翅的模样，只是它们是骨头构成的，而不是黄油。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hips are my favorite.  Shaped like a butterfly, except they aren't made of butter, but bone.</Source>
+      <Dest>我最爱的髋骨啊，像极了蝴蝶展翅的模样，只是它们是骨头构成的，而不是黄油。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...I hadn't considered that.  Would explain the peculiar shape.  Well, I don't want anything to do with a fake set of bones.  Here. You take it.</Source>
+      <Dest>嗯...我不太在意那件事。难道要解释这样奇怪的形状。好吧，我不想对这堆假骨头做任何处理。过来，你来处理它。</Dest>
+    </String>
+    <String List="2">
+      <Source>The hands are from a Khajiit I think.  Lot of sand in the joints.  The fingers are fun too look at.  So many little bones.</Source>
+      <Dest>我想这双手应该是一个虎人的。关节处有很多沙子，指头看起来很滑稽。还有这么多小骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, I survived those bandits, but there were more of them. Villages weren't safe. Road wasn't safe. I had to move around, live in caves.</Source>
+      <Dest>你看，我从这些强盗中间脱身了，但是村庄和路上也不安全，我只能四处躲躲藏藏，住在洞穴中。</Dest>
+    </String>
+    <String List="2">
+      <Source>About three years ago. Lost everything to bandits.  Should have listened to that traveling carpenter. He was replacing the locks around the village.</Source>
+      <Dest>大概三年以前。被强盗夺走了一切。我应该听那个旅行木匠的话的。他当时在给全村的人换锁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you like bones, friend?  I like bones.  You're welcome to touch mine.</Source>
+      <Dest>你喜欢骨头吗，朋友？我喜欢骨头。随时欢迎你给我摸骨。</Dest>
+    </String>
+    <String List="2">
+      <Source>A month later bandits raided my home.  Came right through the front door.</Source>
+      <Dest>一个月后强盗突然破门而入，洗劫了我家。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, blood makes bones slippery.  A good bone is clean.  White.  Dry.</Source>
+      <Dest>不，血液会让骨头变得润滑。上好的骨应该是是干净的。洁白的。干燥的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought, even in my final moments, the Gods still saw fit to mock me.</Source>
+      <Dest>我想，即便是生命的弥留时刻，上帝都是在愚弄我。</Dest>
+    </String>
+    <String List="2">
+      <Source>But one day I found a cave that was warm. Had clean beds. Stocks of food.  I couldn't believe my luck. Too tired to think it was the bad kind.</Source>
+      <Dest>但某天我找到了一个山洞，里面居然很温暖，有干净的铺盖，食物储量丰富。居然能如此走运，我还以为是在做梦呢。已经完全没有力气去考虑这到底是不是真的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, bones are good.  I like to surround myself with them.  They make me feel it ease.  But I can always do with more.</Source>
+      <Dest>是的，骨头都很好。我喜欢与它们为伴。它们让我感觉很轻松。但我总是需要更多的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, you can't put a price on bones.  That's just wrong.</Source>
+      <Dest>哦不，骨头什么的不能用金钱来衡量。这是错的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't know.  I can never get too close to them.  I'm afraid of things that don't have bones.</Source>
+      <Dest>不知道。我绝对不会靠近它们的。我最怕那种连骨头都没有的生物了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hoped you would ask me about my bones!  I have all kinds.  Orc spines, Elf legs, and little chicken bones you can wear around your neck.</Source>
+      <Dest>我希望你会问我骨头的事儿！我什么种类的都有。兽人的脊骨，精灵的腿骨，还有可以戴在脖子上的小孩子的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know how she was walking, on account of her hips being outside of her body.  Must've been a witch.</Source>
+      <Dest>我不知道她是怎么走路的。鉴于她的臀部都丰满到了身体之外。她绝对是个女巫。</Dest>
+    </String>
+    <String List="2">
+      <Source>I slept better than I had in years.  Would've slept right through my own death, when the bandits came home.</Source>
+      <Dest>我睡的比过去这几年都好。在那帮强盗闯进我家的时候，我睡得都快死过去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I slept better than I had in years.  Would've slept right through my own death, when the bandits came home.</Source>
+      <Dest>我睡的比过去这几年都好。在那帮强盗闯进我家的时候，我睡得都快死过去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I slept better than I had in years.  Would've slept right through my own death, when the bandits came home.</Source>
+      <Dest>我睡的比过去这几年都好。在那帮强盗闯进我家的时候，我睡得都快死过去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well of course.  You don't taste the bones.  You just admire them.</Source>
+      <Dest>当然。你不会品尝骨头的滋味的。你只是喜欢他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kill them while they sleep, and then I take their bones.</Source>
+      <Dest>我趁他们睡着的时候杀死了他们，接着我拿走了他们的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is, if not for the rattle by the entrance.  Heard it loud and clear.  Bones.  Sweet, wonderful bones.  </Source>
+      <Dest>就是这个声音，要不是洞口的杂音早就听的清清楚楚了。骷髅可爱的骷髅！</Dest>
+    </String>
+    <String List="2">
+      <Source>That is, if not for the rattle by the entrance.  Heard it loud and clear.  Bones.  Sweet, wonderful bones.  </Source>
+      <Dest>就是这个声音，要不是洞口的杂音早就听的清清楚楚了。骷髅可爱的骷髅！</Dest>
+    </String>
+    <String List="2">
+      <Source>That is, if not for the rattle by the entrance.  Heard it loud and clear.  Bones.  Sweet, wonderful bones.  </Source>
+      <Dest>就是这个声音，要不是洞口的杂音早就听的清清楚楚了。骷髅可爱的骷髅！</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, backbones are very interesting.  So many little segments.  Like a centipede.</Source>
+      <Dest>对，脊柱是很有意思的。有很多很小的节。就像是蜈蚣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just don't get cute and mix Human parts with the Elven ones.  That's an insult to the Gods and I won't stand for it.</Source>
+      <Dest>只是别为了变得可爱就把人类的部分和精灵的部分混在一起。那是对神的侮辱，而且我也无法忍受那些。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your bone collection.</Source>
+      <Dest>给我讲讲你收集骨头的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I also had a nice set of hip bones with me too, but I don't know where they went.</Source>
+      <Dest>我也曾有一个形状漂亮的髋骨，但我不知道它现在去哪里了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>They were really nice bones.  But something was wrong about them too.  By Ysmir, they had a weird shape.</Source>
+      <Dest>那些骨头都非常的漂亮。可也有些地方不对头。伊斯谟在上，它们的形状真奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>The toe bone connects to the foot bone, foot bone connects to the...ankle?  No, the ankle isn't just one bone.  That can't be right.</Source>
+      <Dest>脚趾骨连在脚上，脚骨连在呃...脚踝？不对，脚踝不止是一块骨头，一定弄错了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you seen a set of hip bones around here?  I seemed to have misplaced mine.</Source>
+      <Dest>你瞧见这附近有一套骨盆了吗？我好像把自己的放错地方了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever notice how similar tail bones are to spines?  They both sort of twist and curl up like a worm.</Source>
+      <Dest>有注意到过尾骨和脊椎的相似之处么？它们都很扭曲而且蜷缩起来就像只蠕虫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>幸会。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you asked me which bones were the strongest I'd say the shoulders.  Those are some hefty bones.  But Argonian tails are a close second.</Source>
+      <Dest>如果你问我哪一个骨头更加强韧我当然会说是肩膀的，这些是很坚固的骨头。但是亚龙人的尾巴的骨头是仅次于其的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The hands are from a Khajiit I think.  Lot of sand in the joints.  The fingers are fun too look at.  So many little bones.</Source>
+      <Dest>我想这双手应该是一个虎人的。关节处有很多沙子，指头看起来很滑稽。还有这么多小骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like the look of your friend.  I wish I had one of those.</Source>
+      <Dest>你的朋友看起来真不错。我也想要那么一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't like Bretons.  They have such thin bones.</Source>
+      <Dest>我不喜欢布莱顿人，他们就是一堆柴火棍儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hoped you would ask me about my bones!  I have all kinds.  Orc spines, Elf legs, and little chicken bones you can wear around your neck.</Source>
+      <Dest>我希望你会问我骨头的事儿！我什么种类的都有。兽人的脊骨，精灵的腿骨，还有可以戴在脖子上的小孩子的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>The thigh bone connects to the back bone, the back bone connects to the neck bone...</Source>
+      <Dest>髀骨连接脊柱，脊柱连接到颈骨...</Dest>
+    </String>
+    <String List="2">
+      <Source>Orcs and Nords have strong bones.  Giants too.  Must be all that mammoth milk and cheese.</Source>
+      <Dest>兽人和诺德都有强壮的骨骼，巨人也是。一定是喝猛犸奶还有吃猛犸奶酪的结果。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

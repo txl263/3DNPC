@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You can't have left on good terms.</Source>
+      <Dest>你们的关系现在不会太好了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't have left on good terms.</Source>
+      <Dest>你们的关系现在不会太好了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't have left on good terms.</Source>
+      <Dest>你们的关系现在不会太好了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can't have left on good terms.</Source>
+      <Dest>你们的关系现在不会太好了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know any shouts?</Source>
+      <Dest>你会什么龙吼吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know any shouts?</Source>
+      <Dest>你会什么龙吼吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know any shouts?</Source>
+      <Dest>你会什么龙吼吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Helsig and I are more than friends.  I'm practically your child as well.</Source>
+      <Dest>【Helsig 跟我可不是一般朋友，基本上你也可以把我当做你的孩子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough of this mindless babble. Tell me who you are.</Source>
+      <Dest>别再拿废话跟我兜圈子了，你到底是谁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough of this mindless babble. Tell me who you are.</Source>
+      <Dest>别再说些听不懂废话了，你到底是谁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough of this mindless babble. Tell me who you are.</Source>
+      <Dest>这种没营养的废话说得够多了，你到底是谁。</Dest>
+    </String>
+    <String List="0">
+      <Source>I understand the responsibility given to me.</Source>
+      <Dest>我明白自己肩负的责任。</Dest>
+    </String>
+    <String List="0">
+      <Source>I understand the responsibility given to me.</Source>
+      <Dest>我明白自己肩负的责任。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave High Hrothgar?</Source>
+      <Dest>为什么你要离开霍斯加高峰？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you leave High Hrothgar?</Source>
+      <Dest>为什么你要离开霍斯加高峰？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all I wish to know.</Source>
+      <Dest>我想问的都问完了。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you oppose their stance on violence. As these bandits soon discovered.</Source>
+      <Dest>这么说你反对他们暴力的立场。我看这帮强盗肯定领会到了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to know a lot for a mountain hermit.</Source>
+      <Dest>你一个深山隐士知道的还真多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying the Greybeards are lazy thinkers?</Source>
+      <Dest>你是说那些灰胡子都是懒惰的空想家？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying the Greybeards are lazy thinkers?</Source>
+      <Dest>你是说那些灰胡子都是懒惰的空想家？</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know your name.</Source>
+      <Dest>我愿请教你的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know your name.</Source>
+      <Dest>我愿请教你的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish to know your name.</Source>
+      <Dest>我愿请教你的名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>You envy my power. You need to justify your failure to learn the thu'um.</Source>
+      <Dest>你嫉妒我的能力。你只是在找借口搪塞自己没能学会吐目。</Dest>
+    </String>
+    <String List="0">
+      <Source>You envy my power. You need to justify your failure to learn the thu'um.</Source>
+      <Dest>你嫉妒我的能力。你只是在找借口搪塞自己没能学会吐目。</Dest>
+    </String>
+    <String List="0">
+      <Source>You envy my power. You need to justify your failure to learn the thu'um.</Source>
+      <Dest>你嫉妒我的能力。你只是在找借口搪塞自己没能学会吐目。</Dest>
+    </String>
+    <String List="0">
+      <Source>Helsig is your daughter?</Source>
+      <Dest>【Helsig是你女儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Helsig is your daughter?</Source>
+      <Dest>【Helsig是你女儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Helsig is your daughter?</Source>
+      <Dest>【Helsig是你女儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Helsig is your daughter?</Source>
+      <Dest>【Helsig是你女儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your philosophy mirrors mine.</Source>
+      <Dest>你的理论与我相映成趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your philosophy mirrors mine.</Source>
+      <Dest>你的理论与我相映成趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can respect that.</Source>
+      <Dest>我尊重这一点。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>请解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>请解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>请解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>请解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure recent events must have influenced your departure.</Source>
+      <Dest>我看就是近期的事件一定程度上导致了你们的分歧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure recent events must have influenced your departure.</Source>
+      <Dest>我看就是近期的事件一定程度上导致了你们的分歧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of wager?</Source>
+      <Dest>打的什么赌？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of wager?</Source>
+      <Dest>打的什么赌？</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of wager?</Source>
+      <Dest>打的什么赌？</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, why don't you tell me.</Source>
+      <Dest>我不知道，你怎么不直接告诉我呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know, why don't you tell me.</Source>
+      <Dest>我不知道，你怎么不直接告诉我呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which is why the Greybeards are against it.</Source>
+      <Dest>所以灰胡子们就反对暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which is why the Greybeards are against it.</Source>
+      <Dest>所以灰胡子们就反对暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is not to say you cannot train your mind to responsibly wield the body the Divines have granted you.</Source>
+      <Dest>这并不是说你无法训练自己的头脑去合理运用这神赐的身体。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you have no questions pertaining to the Greybeards, then I suggest you leave.</Source>
+      <Dest>那，你要是没有关于灰胡子的问题，就该离开了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not envy knowledge without understanding.  My failures provide their own lessons, whereas you have learned nothing.</Source>
+      <Dest>我不会嫉妒任何没有理解的知识。我的失败本身是属于自己的教训，而你什么都没有学到。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not indolence that motivates them, but fear.  To accept that violence is an acceptable solution is to gamble on the very nature of man.</Source>
+      <Dest>他们的动机不是懒惰，而是恐惧。认为接受“暴力也是解决之道”就是拿人性本身做赌注。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is not what saddens me, however, but rather the pretension with which you flaunt your ignorance.  </Source>
+      <Dest>但令我悲哀的不是这个，而是你在炫耀自己的无知。</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Zarlak.  I was once an acolyte of High Hrothgar, but I abandoned the priesthood and the teachings of the Greybeards to follow my own path.</Source>
+      <Dest>我是札利克。以前也是霍斯加高峰上的一名修士。不过我放弃了灰胡子们的信条与修行生活，去跟从自己内心的路。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the philosophy the Greybeards have adopted is based on this principle.  They insist the mortal mind is too weak to resist such temptation.  </Source>
+      <Dest>是的，灰胡子们信奉的理念就是基于这个原则——他们坚信以人类脆弱的意志决不足以抗拒这种诱惑。</Dest>
+    </String>
+    <String List="2">
+      <Source>How may I be of service?</Source>
+      <Dest>我能帮上什么忙吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The body and the mind are inexorably linked.  To train one is to train the other.  To become strong is to appreciate the value of effort.</Source>
+      <Dest>身体与意识二者是紧密联结的。训练一方等同于训练另一方。身体变强的关键在于领会这努力的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was when our skin was not so wrinkled, and our beards not so gray.  We were but fledglings then, still learning the way of the voice.</Source>
+      <Dest>那时候皱纹还未爬上我们的皮肤，灰色还没浸透我们的胡子。作为初学者的我们，仍在追寻龙吼之道。</Dest>
+    </String>
+    <String List="2">
+      <Source>I offer what I know to those who seek it.  So that they may listen when others only hear.   So they may understand what others only learn.</Source>
+      <Dest>我将我所知道的赠与寻求它的人。以使他们在别人听见的时候已经听懂。让他们在别人研习的时候已然明白。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your indifference masks your frustration, but I am sorry Dragonborn.  I will not yield on this point.</Source>
+      <Dest>你的冷漠遮盖了你的沮丧，但很抱歉龙裔。在这点上我是不会动摇的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It can be a show a kindness, a perfunctory gesture, or an admission of fear.  But I digress, for that is an answer you already know.</Source>
+      <Dest>可以是善意的表达，一个敷衍的示意，或者是胆怯的迹象。但我离题远了，因为那是你已经知道的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a gift, and a curse.  For you have been granted power, but endured none of the training to achieve it.  </Source>
+      <Dest>这既是天赋，也是诅咒。因为你被赋予了力量，却没有经过训练去掌控它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and Offryn is my son.  Was, my son.  This is a private matter Dragonborn.  </Source>
+      <Dest>是啊，而且奥弗朗是我的儿子。曾经的，儿子。这是件私事，龙裔。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are implying that the wars affected my decision, then you are incorrect.  I left the service of High Hrothgar before The Great War.</Source>
+      <Dest>如果你指的是战争影响了我的决定，那么你想错了。我离开霍斯加高峰是在【世界大战之前。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, it is enough that you consider the repercussions of your choices, as that alone will guide you toward decisions that are righteous.</Source>
+      <Dest>然而，只要能考虑到自己的选择会带来后果也就足够，仅凭这点就足以指引你做出【公正的决定。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you.  And if you seek my guidance in any matter pertaining to the Greybeards, I will do what I can. </Source>
+      <Dest>我感谢你。并且若你想听我讲解任何关于灰胡子的事，我都尽我所能。</Dest>
+    </String>
+    <String List="2">
+      <Source>While ostensibly honorable, it is a path that defers the responsibility of higher thinking by adopting an easy absolute.</Source>
+      <Dest>虽然听上去很崇高，其实是身为智者却不负责任地照搬低级观念的妥协。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is that discipline one earns to gain their power that provides the wisdom to know when to use it.</Source>
+      <Dest>一个顺应此道的人方可在获得力量的同时拥有正确运用力量的智慧。</Dest>
+    </String>
+    <String List="2">
+      <Source>A simple race to the top. The loser would be responsible for the winner's chores.  I was much swifter than he, and greedily accepted the challenge.  </Source>
+      <Dest>简单地比赛谁先跑到山顶。输的人就包揽赢的全部杂活。我当时身手比他敏捷得多，所以迫不及待地接受了挑战。</Dest>
+    </String>
+    <String List="2">
+      <Source>Congeniality is a totem with many faces.  There are those who use it to ingratiate, and those who employ it to mask their duplicity.  </Source>
+      <Dest>友善的表情是一个多面图腾。有人用它来曲意逢迎，有人用它掩盖口是心非。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, in the realm of my home, you are still a stranger.</Source>
+      <Dest>尽管如此，在我家事的领域，你仍是个陌生人。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is much I know, but so little I understand.  The pages turn but the lines are redacted, and only your light can illuminate the darkness.</Source>
+      <Dest>我知之甚多，然解者甚少。书页完整易读而字句真伪难辨，若要驱散未知之暗，唯汝智慧之光。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak, and I shall listen.</Source>
+      <Dest>说吧，我愿倾听。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suspect that is why they have brought you here. To gain what was lost.</Source>
+      <Dest>我想那就是祂们指引你来到此处的原因。为了重拾失落的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>I offered to share this sanctuary with them in peaceful co-existence.  They chose death.</Source>
+      <Dest>我提议过与他们在这避难所里和平共处。他们选择了死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, when it comes time for judgment, the Divines will punish us for all the good we did not do, and all the evil we ignored.</Source>
+      <Dest>然而，当审判来临之时，诸神降罪于我们的原因不仅是当行未行的善举，还有视而不见之罪恶。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am more than happy to guide you philosophically, if nothing else but to serve as a counter measure to the Greybeards.</Source>
+      <Dest>能够从智慧的层面引导你，哪怕仅仅作为防范灰胡子的对策，我也就深感欣慰了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Little did I know that he had spent the week mastering "Wuld," the first dragon word of "Whirlwind Sprint."</Source>
+      <Dest>我根本不知道他已经花了一个星期去深度掌握“野性”——旋风冲刺的第一个龙语。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will pardon me if I do not wish to discuss my children.</Source>
+      <Dest>我不想谈起孩子的事你是能谅解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the Dragonborn has the innate ability to absorb the soul of a dragon, and with it, the essence of the thu'um.</Source>
+      <Dest>只有龙裔才具备吸收龙魂的天赋，并且同时吸收到吐目的精华。</Dest>
+    </String>
+    <String List="2">
+      <Source>First, it fails to recognize that mortals, through logic and discussion, are capable of finding solutions to complex dilemmas.</Source>
+      <Dest>首先，它没有认识到凡人们——通过逻辑和讨论——是有能力找到复杂的难题的周全解决之道的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then may the Divines grant you the strength to vanquish evil, and the wisdom to recognize it.</Source>
+      <Dest>那就愿圣灵赐予你力量去战胜邪恶，并赐予你智慧去识别它们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have some knowledge of the thu'um, but I am hardly a master.</Source>
+      <Dest>我对吐目有些许的了解，但远远算不上大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Second, their philosophy assumes that personal morality absolves one from ethical responsibility.</Source>
+      <Dest>其次，他们的哲学假定个人的自身品行完善即可抽身于社会伦理的责任。</Dest>
+    </String>
+    <String List="2">
+      <Source>They insist that man, given the opportunity for violence, will use it irresponsibly. I say it depends on the man.</Source>
+      <Dest>他们坚持认为，只要给人施展暴力的机会，他就一定会不负责任地滥用。而我认为这要看人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I cannot discern what your motives may be, but the issue is irrelevant.  I am more than willing to accommodate your request.</Source>
+      <Dest>我不能辨别你的动机是什么，但这不重要。我非常乐意解答你的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>How you interpret my philosophy may not be the same as how I live it.  Such is the frailty of words, and the capriciousness of man.</Source>
+      <Dest>我的哲学在你的理解上与我的实践中未必一致。这是言语的弱点，也即人心之难测。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust you know of its weight, but are not yet capable of grasping the full extent of your actions.  Few ever do. </Source>
+      <Dest>我相信你知道它的沉重，但还不具备充分掌控自己影响范围的能力。几乎没人做得到。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the time I reached the peak, he was ready with bucket and broom. Even then, my old friend opted for the path of least resistance.</Source>
+      <Dest>当我到达顶峰时，他已经把桶和扫帚都准备好了。即使那时，我这位老朋友选择的也是最省力的路。</Dest>
+    </String>
+    <String List="2">
+      <Source>To answer what you do not, my name is Zarlak.   I once walked the path of the Greybeards, but now I follow my own.</Source>
+      <Dest>回答你所不知道的，我的名字是札利克。我曾随着灰胡子之道而行，但现在我行自己的道。</Dest>
+    </String>
+    <String List="2">
+      <Source>So that they may know the difference between the two.</Source>
+      <Dest>由此他们才可能分清二者的区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>The word you use is apt.  For a reflection is not how others see us, but how we see ourselves.  </Source>
+      <Dest>你的用词很精准。镜中映出的自己并不是别人看我们的样子，而是我们看自己的。</Dest>
+    </String>
+    <String List="2">
+      <Source>As the world cascades into war, the Greybeards stand aside, assuaged by the fact their own hands are clean.</Source>
+      <Dest>于是当世界卷入战火中时，灰胡子们作壁上观，安于洁身自好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么？</Dest>
+    </String>
+    <String List="2">
+      <Source>A single point of contention, but a fundamental one.  The Greybeards insist on a path of non-violence.</Source>
+      <Dest>只是一个简单的分歧，但是非常根本的原则。灰胡子们执著于非暴力之道。</Dest>
+    </String>
+    <String List="2">
+      <Source>You thu'um is strong, but your lies are bald.  Now, if you have no questions pertaining to the Greybeards, then I suggest you leave.</Source>
+      <Dest>你的龙吼很强，但你的谎言太弱。如果你没有什么关于灰胡子的问题，那就可以离开了。</Dest>
+    </String>
+    <String List="2">
+      <Source>We would gather our own supplies from Ivarstead, and make the trek back up the 7,000 steps.</Source>
+      <Dest>我们要从紫杉镇获取所有补给，然后拼命爬上7000级台阶回去。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is for that reason that my ideals have conviction.  I did not adopt this philosophy out of some misguided passion.</Source>
+      <Dest>正因我的理想有信念的支撑，就不会任由自己的哲学向某种深受误导的热情妥协。</Dest>
+    </String>
+    <String List="2">
+      <Source>I still recall the last time we raced up those steps.  It was at the dawn of First Seed, a brisk spring morning.  Arngeir came to me with a wager.  </Source>
+      <Dest>我仍然记得上一次我们比赛爬山。那是【First Seed 之初，一个春天的愉快清晨。阿恩盖尔来找我打个赌。</Dest>
+    </String>
+    <String List="2">
+      <Source>For it only serves to embolden the Greybeards' argument.  That man cannot be trusted to deduce the morality of violence.</Source>
+      <Dest>因为这种人只是在为灰胡子的理论撑腰。就不具备演绎出暴力之美德的能力。</Dest>
+    </String>
+    <String List="2">
+      <Source>A threat is a weapon utilized both by those who wish to incite violence, and those who wish to avoid it.</Source>
+      <Dest>威胁作为武器既可以用于煽动暴力，也可以帮助避免暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Therefore the only way to avoid the criminality of violence is to eliminate it. The conundrum such logic poses is twofold.  </Source>
+      <Dest>因此避免让暴力衍生罪恶的唯一办法就是废除它。这样的逻辑带来的迷惑是双重的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just want to ask you some questions.</Source>
+      <Dest>我只想问几个问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>In battle, logic fails. An absolute code is the only way to prevent mistakes.</Source>
+      <Dest>在战场上，逻辑无用。避免错误的唯一途径就是绝对服从命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>In battle, logic fails. An absolute code is the only way to prevent mistakes.</Source>
+      <Dest>在战场上，逻辑无用。避免错误的唯一途径就是绝对服从命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>In battle, logic fails. An absolute code is the only way to prevent mistakes.</Source>
+      <Dest>在战场上，逻辑无用。避免错误的唯一途径就是绝对服从命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>In battle, logic fails. An absolute code is the only way to prevent mistakes.</Source>
+      <Dest>在战场上，逻辑无用。避免错误的唯一途径就是绝对服从命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>In battle, logic fails. An absolute code is the only way to prevent mistakes.</Source>
+      <Dest>在战场上，逻辑无用。避免错误的唯一途径就是绝对服从命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear your particular philosophy.</Source>
+      <Dest>我希望听听您的独到哲学。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to hear your particular philosophy.</Source>
+      <Dest>我希望听听您的独到哲学。</Dest>
+    </String>
+    <String List="0">
+      <Source>I like violence. I like blood.</Source>
+      <Dest>我喜欢暴力，我最爱鲜血。</Dest>
+    </String>
+    <String List="0">
+      <Source>I like violence. I like blood.</Source>
+      <Dest>我喜欢暴力，我最爱鲜血。</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that affect the monk?</Source>
+      <Dest>这会对那僧侣造成什么影响？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that affect the monk?</Source>
+      <Dest>这会对那僧侣造成什么影响？</Dest>
+    </String>
+    <String List="0">
+      <Source>About the steps. How many are there really?  I have a friend...</Source>
+      <Dest>关于这些台阶。到底实际的数量有多少？我有个朋友……</Dest>
+    </String>
+    <String List="0">
+      <Source>About the steps. How many are there really?  I have a friend...</Source>
+      <Dest>关于这些台阶。实际上到底是多少级啊？我有个朋友……</Dest>
+    </String>
+    <String List="0">
+      <Source>About the steps. How many are there really?  I have a friend...</Source>
+      <Dest>关于这些台阶。实际上到底是多少级啊？我有个朋友……</Dest>
+    </String>
+    <String List="0">
+      <Source>Non-violence can be wielded as a weapon.</Source>
+      <Dest>“非暴力”也是能当武器用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Non-violence can be wielded as a weapon.</Source>
+      <Dest>“非暴力”也是能当武器用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greetings, sir.  I seek the path of wisdom.</Source>
+      <Dest>拜见先生。我在寻求智慧之道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greetings, sir.  I seek the path of wisdom.</Source>
+      <Dest>拜见先生。我在寻求智慧之道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greetings, sir.  I seek the path of wisdom.</Source>
+      <Dest>拜见先生。我在寻求智慧之道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which is why the Greybeards advocate non-violence regardless of the situation.</Source>
+      <Dest>这就是为什么灰胡子们主张任何情况下都绝不应该使用暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which is why the Greybeards advocate non-violence regardless of the situation.</Source>
+      <Dest>这就是为什么灰胡子们主张任何情况下都绝不应该使用暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shouting isn't all that powerful anyway.</Source>
+      <Dest>龙吼也并不是都那么强大。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shouting isn't all that powerful anyway.</Source>
+      <Dest>龙吼也并不是都那么强大。</Dest>
+    </String>
+    <String List="0">
+      <Source>A non-violent philosophy has its merits.</Source>
+      <Dest>非暴力哲学有它的优点。</Dest>
+    </String>
+    <String List="0">
+      <Source>A non-violent philosophy has its merits.</Source>
+      <Dest>非暴力哲学有它的优点。</Dest>
+    </String>
+    <String List="0">
+      <Source>A non-violent philosophy has its merits.</Source>
+      <Dest>非暴力哲学有它的优点。</Dest>
+    </String>
+    <String List="0">
+      <Source>You contend responsibility is a virtue. I say there are no virtues.</Source>
+      <Dest>你说责任感是种美德。要我说根本没有什么美德。</Dest>
+    </String>
+    <String List="0">
+      <Source>You contend responsibility is a virtue. I say there are no virtues.</Source>
+      <Dest>你说责任感是种美德。要我说根本没有什么美德。</Dest>
+    </String>
+    <String List="0">
+      <Source>You contend responsibility is a virtue. I say there are no virtues.</Source>
+      <Dest>你说责任感是种美德。要我说根本没有什么美德。</Dest>
+    </String>
+    <String List="0">
+      <Source>You contend responsibility is a virtue. I say there are no virtues.</Source>
+      <Dest>你说责任感是种美德。要我说根本没有什么美德。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some matters are so complex it's difficult to see what's right.</Source>
+      <Dest>是有些情况会复杂到难以分辨对错。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to ask you another question.</Source>
+      <Dest>我还有个问题想问你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I didn't understand a word you said, old man.</Source>
+      <Dest>你说的话我一个字都听不懂，老头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead.</Source>
+      <Dest>请继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead.</Source>
+      <Dest>请继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Violence can beget more violence.</Source>
+      <Dest>暴力会引发更多的暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which means the monk is free to interpret what he feels is dangerous.</Source>
+      <Dest>也就是说那僧侣面临着何种危险是由他自己诠释的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which means the monk is free to interpret what he feels is dangerous.</Source>
+      <Dest>也就是说那僧侣面临着何种危险是由他自己诠释的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Which means the monk is free to interpret what he feels is dangerous.</Source>
+      <Dest>也就是说那僧侣面临着何种危险是由他自己诠释的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That must have been ages ago.  About a hundred of them.</Source>
+      <Dest>那是老早以前的事了……上百年了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet she comes before me now as an arbiter, not just of her own fate, but the very world's. </Source>
+      <Dest>而此刻她作为仲裁者来到我面前，要决断的不仅是她自己的前途，更是整个世界的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet he comes before me now as an arbiter, not just of his own fate, but the very world's. </Source>
+      <Dest>而此刻他作为仲裁者来到我面前，要决断的不仅是他自己的前途，更是整个世界的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>You seek to insult me by insisting that I am older than Alduin himself.  I take it as a compliment, for someone so old to have such vigor.</Source>
+      <Dest>你是在嘲讽我比奥杜因还老。我却理解为称赞我老当益壮。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had crossed paths with him not long ago, when Alduin woke from his slumber, and I sought to convince Arngeir one last time of his folly.</Source>
+      <Dest>我不久前还遇见过他，当奥杜因刚从长眠中苏醒，而我打算最后一次尝试扭转【阿恩盖尔的愚蠢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Violence can instigate wars, and violence can end them.  The potential for a cycle of brutality must be considered, but it is far from inevitable.</Source>
+      <Dest>暴力可以点燃战争，暴力也能结束战争。产生一种野蛮循环的可能性必须纳入考量，但它远非势所必然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the philosophy the Greybeards have adopted is based on this principle.  They insist the mortal mind is too weak to resist such temptation.  </Source>
+      <Dest>是的，灰胡子的理念就是基于此种原则——他们固执地认为人类的意志决不足以抗拒这种诱惑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not now, traveler.  Come back when you are ready.</Source>
+      <Dest>不是现在，旅行者。等你有所准备再回来。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Greybeards are like a trained carpenter who renounces his saw because a few careless men severed their thumbs.</Source>
+      <Dest>而灰胡子们就像是专业的木匠决定弃用自己的锯子，只因为有些粗心人割断了手指。</Dest>
+    </String>
+    <String List="2">
+      <Source>Allow me to elucidate you on why they are mistaken.</Source>
+      <Dest>请容许我向你阐明为什么他们是错的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see.   Don't tarry, girl.</Source>
+      <Dest>我明白了。别耽搁了，姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>The traveler came to this land not as a visitor or a pilgrim, but a prisoner, bonded by fate.</Source>
+      <Dest>来到这片土地的旅行者都不是游客或朝圣者，而是命运绑来的囚徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>The traveler came to this land not as a visitor or a pilgrim, but a prisoner, bonded by fate.</Source>
+      <Dest>来到这片土地的旅行者都不是游客或朝圣者，而是命运绑来的囚徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, for it is when circumstances are most difficult that we are most tempted, and when ethics become situational.</Source>
+      <Dest>是的，因为我们在受到诱导的时候会陷入困境，尤其是在极端的伦理情境中。</Dest>
+    </String>
+    <String List="2">
+      <Source>For when he speaks, the clouds part, the seas boil, and the earth trembles at his feet.</Source>
+      <Dest>因他言语之时，乌云退散，海水沸腾，大地在他脚下震动。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>The allure of self-preservation, the allure to save lives, and the need to honor the Gods, will lead men to perform heinous acts. </Source>
+      <Dest>自卫本能的诱惑，拯救生命的诱惑，以及敬奉众神的意愿，都能使一个人做出令人发指的行为。</Dest>
+    </String>
+    <String List="2">
+      <Source>For wisdom comes not from understanding, but the challenging of its merits.</Source>
+      <Dest>因为智慧并非从理解中衍生，而是来自于对其中价值的质疑。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, this sort of tactical non-violence is not the philosophy the Greybeards espouse.  </Source>
+      <Dest>遗憾的是，这种战术层面的非暴力策略并非灰胡子赏识的哲学。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that fool of a cat still counting the steps?  </Source>
+      <Dest>那只傻猫还在数台阶吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>However, even when you achieve understanding, you have taken but the first step toward true wisdom.  </Source>
+      <Dest>然而，即使你已完成了理解，也只是朝着真正的智慧迈出了第一步。</Dest>
+    </String>
+    <String List="2">
+      <Source>You assume that a logical deduction must be employed in concert with the action for which it is conceived.</Source>
+      <Dest>你认为有目标的行动必须是与逻辑推理一致的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no resolution that will appease his soul, for his mind is already certain it cannot be appeased.</Source>
+      <Dest>他的灵魂根本无法被安抚，因为他的头脑已经确定自己不可被安抚。</Dest>
+    </String>
+    <String List="2">
+      <Source>The monk is no longer able to trust his judgment. Ultimately he concludes that ethics must be followed regardless of the situation.</Source>
+      <Dest>那僧侣无法再相信自己的判断。最终他得出的结论是在任何情况下都必须无条件遵循伦理道德。</Dest>
+    </String>
+    <String List="2">
+      <Source>Girl, what are you doing here?  Is it done?</Source>
+      <Dest>姑娘，你在这儿做什么呢？做成了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>They will point to the fallacy of situational ethics.  They may present an example of a monk who advocates violence in self-defense.</Source>
+      <Dest>他们会指出情境伦理的悖论。或许举例说一个僧侣会主张在正当防卫时使用暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. So long as it isn't more questions about Arngeir. I fucking hate that guy.</Source>
+      <Dest>很好。只要不再是有关阿恩盖尔的问题。我他妈的讨厌那家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, the difference between an elite warrior and a poor one can often be a single word that changes the tide of battle.</Source>
+      <Dest>不过，一个优秀的战士和可怜虫之间往往只隔着一个扭转战局的龙语单字。</Dest>
+    </String>
+    <String List="2">
+      <Source>All in the name of what is just and good.</Source>
+      <Dest>全都是冠以善心和义举之名。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are unable to control your power responsibly, then you will suffer the same fate as Alduin.</Source>
+      <Dest>那时如果你不能可靠地约束自己的力量，就会亲自重蹈奥杜因的覆辙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Inside you will find seamstresses weaving garments upholstered with thick fur, and in the fields farmers harvesting their crops with great haste.</Source>
+      <Dest>人群中你会看到精心缝制厚毛皮衣的女裁缝，田地里还会看到飞快抢收自己庄稼的农夫们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only then can we walk the path of righteousness. Not just when decisions are easy, but when they are hard.</Source>
+      <Dest>只有那时我们才能走上正道。不仅是在简单的小事上，更在那些艰难的决定中。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Greybeards will have you believe that the path to wisdom is one wrought through meditation and pacifism.</Source>
+      <Dest>灰胡子会教你相信获得智慧的唯一途径是冥想与和平的结合。</Dest>
+    </String>
+    <String List="2">
+      <Source>The dragons and the war have disrupted the natural order.  There will come a time, however, when it is restored.</Source>
+      <Dest>龙族和战争破坏了自然秩序。然而总有一天，秩序会被恢复。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps it is that very nature that makes you well equipped to hunt the World Eater.</Source>
+      <Dest>也许就是这种内在的力量让你全副武装去狩猎世界吞噬者。</Dest>
+    </String>
+    <String List="2">
+      <Source>You walk a precarious path, Dragonborn.  Chaos has its place, for without it order will remain stagnant, and progress cannot be achieved.</Source>
+      <Dest>你所走的是条险路，龙裔。混沌自有它存在的意义，因为失去了混沌就冻结了秩序，发展和进步也不再有可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, unlike magic, it is accessible to not only the beasts of the wilderness, but to those who wade in the shoals of madness.</Source>
+      <Dest>不幸的是，与魔法不同，暴力的使用不仅是荒野的兽类可以，连那些陷入疯狂的人们也能。</Dest>
+    </String>
+    <String List="2">
+      <Source>One does not understand without personal reflection. But you must first train your mind and your ears to listen, rather than hear.</Source>
+      <Dest>人没有对自身的反观是无法带来理解的。而你必须先训练自己的头脑和耳朵共同倾听，而非听过而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead.</Source>
+      <Dest>请继续。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead.</Source>
+      <Dest>请继续。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not the gales of autumn that motivates them to act.  It is the prospect of winter, and the coming storms.  </Source>
+      <Dest>促使他们做这些事的不是深秋的疾风。而是对冬季来临的预见，和随之而来的风暴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome to my humble abode, Dragonborn.   How may I be of assistance?</Source>
+      <Dest>欢迎光临寒舍，龙裔。有什么我能帮忙的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome to my humble abode, Dragonborn.   How may I be of assistance?</Source>
+      <Dest>欢迎光临寒舍，龙裔。有什么我能帮忙的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>However, while your lust for violence has purpose, so too will it give purpose to those who seek your death when the dragons are gone.</Source>
+      <Dest>与此同时，你在暴力方面显示出的欲望，在恶龙消灭之后，也就成了别人必须消灭你的理由。</Dest>
+    </String>
+    <String List="2">
+      <Source>Without order, however, chaos will consume us, and extinguish all we have built.  </Source>
+      <Dest>然而，没有秩序的话，混乱就会吞噬我们，然后摧毁我们所建立的一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whereas others are so rudimentary even a child could see what is just. Yet the Greybeards will move for neither.</Source>
+      <Dest>但其他的往往粗浅到连孩子都看得出何为正义。但灰胡子们对二者都不为所动。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are correct.  One can choose to let an injustice occur, and by becoming a martyr he or she can inspire a revolution.  </Source>
+      <Dest>你是对的。一个人可以选择让不义之事发生，尔后作为一名殉道者来引发革命。</Dest>
+    </String>
+    <String List="2">
+      <Source>True, bereft of all other faculties, knowledge of the thu'um will not save you.  </Source>
+      <Dest>没错，离开了其他方面的才能，仅凭吐目的能力是救不了你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I agree.  Violence, like any tool, is not one to be wielded carelessly.  It should only be utilized by one who has the capacity for wisdom.</Source>
+      <Dest>我同意。暴力与任何工具一样，不是拿来随处乱用的。它应当在有智慧的人掌控之下合理运用。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I posit to you that we are creatures of anticipation, and the storm of the moment is but another winter for which we have already prepared.</Source>
+      <Dest>可是，我向你肯定人们都是活在预期中的动物，而那阵风暴也不过是我们早有准备的另一个冬天。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, in the fog of war, who can say what threats to one's safety are real or imagined.</Source>
+      <Dest>然而，在战争的迷雾之中，谁又能确定自身面临那些所谓的威胁是真是幻呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>What you seek is knowledge, Dragonborn.  You must first acquire knowledge before you can learn.  You must first learn before you can understand.</Source>
+      <Dest>你所寻找的是知识，龙裔。你必须先获取知识才能去学习。也只有通过学习才能走向理解。</Dest>
+    </String>
+    <String List="2">
+      <Source>Therefore the only way to avoid the criminality of violence is to eliminate it. The conundrum such logic poses is twofold.  </Source>
+      <Dest>因此避免让暴力衍生罪恶的唯一办法就是废除它。这样的逻辑带来的迷惑是双重的。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

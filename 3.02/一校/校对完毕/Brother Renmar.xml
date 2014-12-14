@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="1">
+      <Source>Lorne passed away recently.</Source>
+      <Dest>洛恩刚过世。</Dest>
+    </String>
+    <String List="1">
+      <Source>Lorne passed away recently.</Source>
+      <Dest>洛恩刚过世。</Dest>
+    </String>
+    <String List="1">
+      <Source>I think it worked. Lorne has sobered up and I doubt you'll see him here again.</Source>
+      <Dest>我觉得起作用了。洛恩已经清醒了，我觉得你很快就能再见到他了。</Dest>
+    </String>
+    <String List="1">
+      <Source>I think it worked. Lorne has sobered up and I doubt you'll see him here again.</Source>
+      <Dest>我觉得起作用了。洛恩已经清醒了，我觉得你很快就能再见到他了。</Dest>
+    </String>
+    <String List="1">
+      <Source>You're a fortune teller?</Source>
+      <Dest>你是个算命师？</Dest>
+    </String>
+    <String List="1">
+      <Source>You're a fortune teller?</Source>
+      <Dest>你是个算命师？</Dest>
+    </String>
+    <String List="1">
+      <Source>You're a fortune teller?</Source>
+      <Dest>你是个算命师？</Dest>
+    </String>
+    <String List="1">
+      <Source>Who's Deirdre?</Source>
+      <Dest>迪尔德丽是谁？</Dest>
+    </String>
+    <String List="1">
+      <Source>Who's Deirdre?</Source>
+      <Dest>迪尔德丽是谁？</Dest>
+    </String>
+    <String List="1">
+      <Source>Who's Deirdre?</Source>
+      <Dest>迪尔德丽是谁？</Dest>
+    </String>
+    <String List="1">
+      <Source>I think you just like getting drunk.</Source>
+      <Dest>我觉得你要喝醉了。</Dest>
+    </String>
+    <String List="1">
+      <Source>I think you just like getting drunk.</Source>
+      <Dest>我觉得你要喝醉了。</Dest>
+    </String>
+    <String List="1">
+      <Source>I think you just like getting drunk.</Source>
+      <Dest>我觉得你要喝醉了。</Dest>
+    </String>
+    <String List="1">
+      <Source>Did you know a Nord man named Lorne?</Source>
+      <Dest>你知道一位名叫洛恩的诺德人吗？</Dest>
+    </String>
+    <String List="1">
+      <Source>Did you know a Nord man named Lorne?</Source>
+      <Dest>你知道一位名叫洛恩的诺德人吗？</Dest>
+    </String>
+    <String List="1">
+      <Source>Did you know a Nord man named Lorne?</Source>
+      <Dest>你知道一位名叫洛恩的诺德人吗？</Dest>
+    </String>
+    <String List="1">
+      <Source>I'd like to speak to this woman.</Source>
+      <Dest>我有话同这个女人讲。</Dest>
+    </String>
+    <String List="1">
+      <Source>I'd like to speak to this woman.</Source>
+      <Dest>我有话同这个女人讲。</Dest>
+    </String>
+    <String List="1">
+      <Source>I'd like to speak to this woman.</Source>
+      <Dest>我有话同这个女人讲。</Dest>
+    </String>
+    <String List="1">
+      <Source>What of your family? Certainly they can't approve of this form of preaching.</Source>
+      <Dest>你的家人怎么办？他们肯定不会同意你宣扬这些。</Dest>
+    </String>
+    <String List="1">
+      <Source>What of your family? Certainly they can't approve of this form of preaching.</Source>
+      <Dest>你的家人怎么办？他们肯定不会同意你宣扬这些。</Dest>
+    </String>
+    <String List="1">
+      <Source>You're making a martyr of yourself.</Source>
+      <Dest>你让自己成为一个殉道者。</Dest>
+    </String>
+    <String List="1">
+      <Source>You're making a martyr of yourself.</Source>
+      <Dest>你让自己成为一个殉道者。</Dest>
+    </String>
+    <String List="1">
+      <Source>You're making a martyr of yourself.</Source>
+      <Dest>你让自己成为一个殉道者。</Dest>
+    </String>
+    <String List="1">
+      <Source>You're making a martyr of yourself.</Source>
+      <Dest>你让自己成为一个殉道者。</Dest>
+    </String>
+    <String List="1">
+      <Source>That was a provocative sermon.</Source>
+      <Dest>那是一次挑衅性的布道。</Dest>
+    </String>
+    <String List="1">
+      <Source>That was a provocative sermon.</Source>
+      <Dest>那是一次挑衅性的布道。</Dest>
+    </String>
+    <String List="1">
+      <Source>That was a provocative sermon.</Source>
+      <Dest>那是一次挑衅性的布道。</Dest>
+    </String>
+    <String List="1">
+      <Source>How will you show them their future?</Source>
+      <Dest>你会怎么向他们展示他们的未来？</Dest>
+    </String>
+    <String List="1">
+      <Source>How will you show them their future?</Source>
+      <Dest>你会怎么向他们展示他们的未来？</Dest>
+    </String>
+    <String List="1">
+      <Source>How will you show them their future?</Source>
+      <Dest>你会怎么向他们展示他们的未来？</Dest>
+    </String>
+    <String List="1">
+      <Source>Such is the fate of those who neglect the Divines.</Source>
+      <Dest>这就是那些无神论者的命运！</Dest>
+    </String>
+    <String List="1">
+      <Source>And if that fails?</Source>
+      <Dest>那么如果失败了呢？</Dest>
+    </String>
+    <String List="1">
+      <Source>And if that fails?</Source>
+      <Dest>那么如果失败了呢？</Dest>
+    </String>
+    <String List="1">
+      <Source>People tend to enjoy it when drunks pass out. It's not much of deterrent.</Source>
+      <Dest>人们乐见酒鬼倒下。这还算不上威慑。</Dest>
+    </String>
+    <String List="1">
+      <Source>People tend to enjoy it when drunks pass out. It's not much of deterrent.</Source>
+      <Dest>人们乐见酒鬼倒下。这还算不上威慑。</Dest>
+    </String>
+    <String List="1">
+      <Source>Who runs this place?</Source>
+      <Dest>这地方是谁在管啊？</Dest>
+    </String>
+    <String List="1">
+      <Source>You are doing the Divines' work preacher. Carry on.</Source>
+      <Dest>你在做牧师做的工作，布道者。加油吧。</Dest>
+    </String>
+    <String List="1">
+      <Source>You are doing the Divines' work preacher. Carry on.</Source>
+      <Dest>你在做牧师做的工作，布道者。加油吧。</Dest>
+    </String>
+    <String List="1">
+      <Source>You are doing the Divines' work preacher. Carry on.</Source>
+      <Dest>你在做牧师做的工作，布道者。加油吧。</Dest>
+    </String>
+    <String List="1">
+      <Source>Yes, I saw what happened to his daughter.</Source>
+      <Dest>是的，我目睹了在他女儿身上发生的事情。</Dest>
+    </String>
+    <String List="1">
+      <Source>What happened to him?</Source>
+      <Dest>发生了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>That would be Hrokkar.  He too found the Gods through despair, but his was an Oblivion of an entirely different kind.</Source>
+      <Dest>那应该指的是霍拉格。他也是通过绝望而找到了神灵，可是他那种情况跟这差了十万八千里呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I made a different a vow. To cast out these vile poisons, to live a life in service of the Gods!</Source>
+      <Dest>所以我发了一个不一样的誓。为了诸神，我要用尽这辈子驱逐那些毒瘤！</Dest>
+    </String>
+    <String List="2">
+      <Source>For the woman is a drug. More addictive than any skooma. And when I am but a husk of a man, begging for her flesh, the others will know this truth.</Source>
+      <Dest>女人是一味毒品，比任何斯库玛都让人上瘾。当我只剩下一副男人的躯壳，却依旧乞求于她的肉体时，别人就会知道这个道理。</Dest>
+    </String>
+    <String List="2">
+      <Source>I beseech you, friend, do not go near this woman. She is a drug. Skooma in flesh form.</Source>
+      <Dest>我求求你，朋友，不要靠近这个女人。她是一味毒品，她的肉体如同斯库玛一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hear me brothers, for I speak truth! In that pit is the maw of self-destruction! A gyre of sin! It is not the end, but the bottom!</Source>
+      <Dest>听我说，兄弟们，真的！那个矿井是一个自杀之口！一个罪恶的轮回！这并非尽头，而只是最底部！</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I will ask Dibella to give her my seed. When she is bloated and pregnant, the others will realize there is only one Goddess of beauty.</Source>
+      <Dest>然后我会祈求迪贝拉让她怀上我的种。等她怀孕挺着肚子的时候，其他人就会意识到美之女神是独一无二的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was only through the Gods I discovered it was an ocean of my own creation, of the sweat and tears that were the product of my wickedness.</Source>
+      <Dest>神灵使我发现那是由我创造的海洋，一片由我的邪念催生的汗水和泪水汇聚而成的海洋。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I do is a sacrifice, and when I drink and gamble and grope the wenches, it is too show the people that evil lurks inside all of us.</Source>
+      <Dest>我做了一个牺牲，当我喝酒，赌博，摸女人的时候，这也告诉人们，邪恶隐藏在我们所有人的内心中。</Dest>
+    </String>
+    <String List="2">
+      <Source>But words alone will not win this war. So what I try to do is show them by example.</Source>
+      <Dest>可是光耍嘴皮子阻止不了战争，所以我打算给他们来个杀一儆百。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'm surprised he would be willing to give up Deirdre so easily. Perhaps there is another damsel out there doing Mara's work.</Source>
+      <Dest>可我真没想到他会如此轻易地放弃迪尔德丽。也许是因为别处另有个年轻女人在祈求玛拉帮忙啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'm surprised he would be willing to give up Deirdre so easily. Perhaps there is another damsel out there doing Mara's work.</Source>
+      <Dest>可我真没想到他会如此轻易地放弃迪尔德丽。也许是因为别处另有个年轻女人在祈求玛拉帮忙啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Deirdre will be sad to hear it. The man spent half a fortune on her. I swear by Mara, lust is the most insidious of sins.</Source>
+      <Dest>迪尔德丽如果知道这个男人在她身上花了一半儿的财产，一定会难过的。 我以玛拉之名发誓，色欲是罪恶的首要内因。</Dest>
+    </String>
+    <String List="2">
+      <Source>For when I'm lying in a pool of filth, with half my lunch on my robes and the other half in my britches, it's easy to see that liquor is poison.</Source>
+      <Dest>现在我趴在地上全身上下都是自己呕吐出来的脏东西，很显然那酒里有毒。</Dest>
+    </String>
+    <String List="2">
+      <Source>For there is one instinct more powerful than debauchery. The need to survive.</Source>
+      <Dest>有一种本能比色欲更强大，那就是求生欲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let the darkness cloud your soul, until all you yearn for is the light!</Source>
+      <Dest>让黑暗侵蚀你的灵魂，直至光明成为奢望。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when I have shown them the horror of what lies ahead, they will leave this place en masse.</Source>
+      <Dest>当我给他们看了前方的恐怖为何物时，他们就会一块儿离开这个地方了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why I drink well into the small hours. That is why I commit unholy acts and lose myself in pleasures of the flesh.</Source>
+      <Dest>这就是我为什么喝到凌晨。这就是我为什么犯下的肮脏的行为，迷失于肉体的享乐之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Gods are my family. I have no wife, but if these people do not listen, I may be forced to create a child.</Source>
+      <Dest>神就是我的家人，我没有妻子。但如果那些人听不进我说的话，那我可能不得不去创造一个孩子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And when I am finished, you will see what I have been reduced to. A shell of a man, drained of his very life force.</Source>
+      <Dest>当我完事儿了，你会看我沦落成了什么样子。一个只剩空壳的男人，耗干了生命力，行将就木。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you. I have prayed to Dibella for guidance, and I believe that even if I make for a poor example, there may be another way.</Source>
+      <Dest>谢谢你。我曾向迪贝拉祈求她的引领，我还认为即使我做出了坏榜样，也有其它的道路。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is why the Gods have asked me to ravish her and expose what she truly is.</Source>
+      <Dest>那就是为何众神要我占用她并且揭发她真身的缘由。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know this, for I am you. I have languished in the deep waters of sin. I have made mistakes, and made them a part of who I am.</Source>
+      <Dest>我知道这个，因为我就是你。我苦苦挣扎于罪恶的深潭。我犯了错误，还让那些错成为我的一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you ask some of the men here, she's a goddess. Dibella in human form.</Source>
+      <Dest>如果你向这里的一些男人打听打听的话，你就会知道......她是个女神。是迪贝拉在人间的化身。</Dest>
+    </String>
+    <String List="2">
+      <Source>You couldn't be more mistaken.</Source>
+      <Dest>你已经错得不能再错了。</Dest>
+    </String>
+    <String List="2">
+      <Source>See for yourself. Back there, where they keep the wolves. That's where you'll find him.</Source>
+      <Dest>你自己找吧。在那后面，他们养狼的地方。你会在那里找到他的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The more I struggled, the further I descended. I thought I would never again put my feet on dry land.</Source>
+      <Dest>我越是挣扎，就下沉的越厉害。我以为自己永远不能再次踏上地面了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I can leave her with child, then they will realize that Deirdre is no goddess, but a mother, a daughter, and a person.</Source>
+      <Dest>假如我能用孩子来挽留她，不久他们就会知道迪尔德丽才不是大众女神，她是一位母亲，一位女儿，还是一个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm glad you enjoyed it. I do fancy myself a decent orator.</Source>
+      <Dest>很高兴你能喜欢。我也觉得我成为一个像样的演说家了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll settle for a place in the afterlife and a record of my deeds. Because what I do, I do out of charity, not for fame.</Source>
+      <Dest>等我老了，我要找个地方定居下来，然后把我做过的事全都写下来。因为我所做的事都是出于慈善的目的，而非为了我个人的名声。</Dest>
+    </String>
+    <String List="2">
+      <Source>There will come a time when you have touched the depths of despair, when you can no longer fall any further.</Source>
+      <Dest>总有一天你会感受到深深的绝望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then all my efforts, all the pitch black nights and seas of vomit were worth it. This round goes to the Gods!</Source>
+      <Dest>然后我所有的努力, 所有的黑夜与我那呕吐物之海都是值得的。这便是通往神域之轮回啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to gamble. I'm going to drink. And I'm going to fornicate.</Source>
+      <Dest>我准备去吃喝嫖赌一番，别拦我啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Lorne. He and I used to sit by the bar and down bottles until one of us passed out.</Source>
+      <Dest>啊，洛恩。他跟我以前常在酒吧一起喝到有人倒下为止。</Dest>
+    </String>
+    <String List="2">
+      <Source>So that explains his absence. Some who fall never rise, but only through death do they find peace. Arkay guide his soul.</Source>
+      <Dest>难怪他缺席了。有些人一旦倒下了就再也不会起来了，但只有死亡才能让他们寻找到宁静。愿阿凯能为他的灵魂领路。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are blind to its depths! You cannot see how far you will fall! I know this, for I have fallen!</Source>
+      <Dest>你眼瞎了吗！连自己会掉下多远都不知道！我可知道，因为我已经掉到底了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I will vanquish them all. Even Deirdre. For lust, liquor, and avarice are but a dim candle compared to the light of the Divines.</Source>
+      <Dest>我会征服她们。就连迪尔德丽也不例外。因为爱欲，酒精和贪婪，与圣灵的光辉相比只能是风中残烛。</Dest>
+    </String>
+    <String List="2">
+      <Source>I agreed to these nightly drinking contests, not because of my desire to win, but my calling to teach.</Source>
+      <Dest>我通常会同意加入夜间的饮酒竞赛，并非出于胜利的渴望，而是出于教导的责任。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I say to you, my brothers, do as I have! Gamble, fornicate, and lose yourself in debauchery!</Source>
+      <Dest>所以我的兄弟啊，我建议你，来我一起放浪形骸吧！赌博，跟别的女人上床，把自己溺死在酒缸子里吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet all is not lost. This pit, these wenches...they are both our destruction and our salvation. For the bottom is not the end.</Source>
+      <Dest>但还未到绝望之时。这地穴，这些姑娘们...它们既会毁灭我们又能拯救我们。因为底端并不是终末。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I show them...is their future.</Source>
+      <Dest>我展示给他们的...是他们未来的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>By doing exactly what I've been doing since I arrived in this unholy establishment. Whoring. Drinking. Gambling. </Source>
+      <Dest>自从来到这处不洁之地，我所做的就是这些。嫖娼。喝酒。赌博。</Dest>
+    </String>
+    <String List="2">
+      <Source>How better to expose this impostor than to bloat her with my seed? The act won't be pretty, but in a few months time, neither will she.</Source>
+      <Dest>还有什么比用我的种子让这骗子浑身发胀，以此戳穿她的骗行更好呢？这种行为挺不光彩，但她前几个月所干的事也没好到哪去。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no gilded paradise that awaits you! It will leave you forever out of reach, foul and hopeless and stinking of death!</Source>
+      <Dest>没有满地堆金的天堂会等你！它会让你永远够不着，你身边都是污秽、绝望和散发着恶臭的死亡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not in the slightest. I couldn't tell a crystal ball from a shiny orange. What I mean is, I don't chastise the sinner. I become him.</Source>
+      <Dest>完全不是，我可无法从水晶球那橘红色的光芒中看出什么来。我的意思是，我不会惩罚罪人，我会与他们融为一体。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you do not believe my words, then wait for my actions. For I have vowed to have this woman, over and over again.</Source>
+      <Dest>但是如果你不相信我的话，那么等着看我的行动吧。我已经一次又一次立誓我要拥有这个女人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to show these poor fools what happens to those who indulge themselves without restraint.</Source>
+      <Dest>我会让你们这群蠢货瞧瞧，毫无节制地沉浸酒肉池林所要付出的代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I couldn't have said it better myself. You know, the Dunmer believe martyrs become saints, like Roris the Caravaner.</Source>
+      <Dest>我不能说它让我变得更强了。你知道，黑暗精灵相信殉道者将成为圣徒，就像是远行者罗伊斯一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Brothers, what I say now, I say for the future. </Source>
+      <Dest>兄弟们，我现在所说的，是为了未来而说的。 </Dest>
+    </String>
+    <String List="1">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="1">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="2">
+      <Source>You are the Companion, stoic as the shadows tremble under your feet! You are the hero, a statue engraved in the sunset! </Source>
+      <Dest>你是吾族之友，苦难像阴影一般在你足下颤抖！你是英雄，在夕阳中一座被人牢记的雕像！ </Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Before you is the enemy horde. Lust, with her soft bosom! Greed, with its false shine!</Source>
+      <Dest>在你还在敌方部落的时候，欲望，用它柔软的怀抱诱惑你！贪婪，用它虚伪的光芒吸引你！</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

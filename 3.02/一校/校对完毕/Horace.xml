@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if there's anything else you need.</Source>
+      <Dest>如果你还有什么需要的话，告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on in. Just stoked the fire. Take a seat and get the cold out.</Source>
+      <Dest>进来吧。赶紧烤烤火。坐下驱驱寒吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take a look.</Source>
+      <Dest>随便看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I make a request?</Source>
+      <Dest>我能点首曲子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I make a request?</Source>
+      <Dest>我能点首曲子吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You must be a Stormcloak through and through to request that one.</Source>
+      <Dest>你一定是风暴斗篷的人吧，不然不会点这首歌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only true Imperials request that one.</Source>
+      <Dest>只有帝国人才点这首歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huzzah!</Source>
+      <Dest>好啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if you see anything you like.</Source>
+      <Dest>如果你看上了什么就请告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>We drink to our youth, and to days come and gone. For the Age of Oppression is now nearly done.</Source>
+      <Dest>【歌词待校对】为我们的年少举酒，为过去和到来的日子干杯。为压迫的年代将要成为过往的旧岁。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly! It's a fine tune and a good request!</Source>
+      <Dest>当然！那是首不错的曲子，非常好的选择！</Dest>
+    </String>
+    <String List="2">
+      <Source>We drink to our youth, and to days come and gone. For the age of oppression is now nearly done.</Source>
+      <Dest>【歌词待校对】为我们的年少举酒，为过去和到来的日子干杯。为压迫的年代将要成为过往的旧岁。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart named Ragnar was boastful no moooooree... when his ugly red head rolled around on the floor!</Source>
+      <Dest>【歌词待校对】牛皮王拉格纳不能再自夸……他的红脑袋摔成了一堆渣！</Dest>
+    </String>
+    <String List="2">
+      <Source>But this land is ours and we'll see it wiped clean. Of the scourge that has sullied our hopes and our dreams.</Source>
+      <Dest>【歌词待校对】这片大地是我们的，洁白而干净。任何灾难只会加强我们的信念跟梦想！</Dest>
+    </String>
+    <String List="2">
+      <Source>We're the children of Skyrim, and we fight all our lives. And when Sovngarde beckons, every one of us dies!</Source>
+      <Dest>【歌词待校对】我们是天际的子民，我们一辈子都在战斗，只要沉睡净土传来召唤，我们就英勇赴义！</Dest>
+    </String>
+    <String List="2">
+      <Source>And so then came the clashing and slashing of steel, as the brave lass Matilda charged in full of zeal!</Source>
+      <Dest>【歌词待校对】刀剑碰撞叮当响，勇敢的少女玛提尔达不可挡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you talk and you lie and you drink all our mead! Now I think it's high time that you lie down and bleed!</Source>
+      <Dest>【歌词待校对】噢，你吹牛喝酒耍活宝！真有种就不要跑！</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart did swagger and brandish his blade, as he told of bold battles and gold he had made!</Source>
+      <Dest>【歌词待校对】他气势汹汹挥舞着他的剑，吹嘘英勇事迹神气活现！</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll drive out the Empire from this land that we own. With our blood and our steel we will take back our home.</Source>
+      <Dest>【歌词待校对】驱逐帝国并找回自我，用铁和血重建家国。</Dest>
+    </String>
+    <String List="2">
+      <Source>All hail to Ulfric! You are the High King! In your great honor we drink and we sing.</Source>
+      <Dest>【歌词待校对】啊，至高王是你！啊，对乌弗瑞克致敬！我们为你的荣耀举杯欢庆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.</Source>
+      <Dest>谢谢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
+      <Dest>很好。你会庆幸你做出了这个英明的决定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you change your mind, you know where to find me.</Source>
+      <Dest>如果你改变主意，你知道到哪儿找我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why not?</Source>
+      <Dest>为什么不呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Has the store made any money?</Source>
+      <Dest>商店有赚钱吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="0">
+      <Source>Anything else?</Source>
+      <Dest>还有其他事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得移动到别的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. What is it?</Source>
+      <Dest>好吧。那是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Still need me to do something?</Source>
+      <Dest>还要我做什么事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's get going.</Source>
+      <Dest>我们走吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye, my love.</Source>
+      <Dest>再见，我的宝贝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anything else?</Source>
+      <Dest>还有其他事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>哈啰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe some other time.</Source>
+      <Dest>也许改天吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You lead, I'll follow.</Source>
+      <Dest>你带路，我跟着你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>We heading out?</Source>
+      <Dest>我们启程吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm right behind you.</Source>
+      <Dest>我紧随在后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still here.</Source>
+      <Dest>还在这里。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not so tough now, are you?</Source>
+      <Dest>嘴没那么硬了吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead the way.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Get him!</Source>
+      <Dest>抓住他！</Dest>
+    </String>
+    <String List="2">
+      <Source>Fight! Fight!</Source>
+      <Dest>打啊！打！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to take this from the likes of you.</Source>
+      <Dest>我没必要照着你的喜好来办事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Get him!</Source>
+      <Dest>抓住他！</Dest>
+    </String>
+    <String List="0">
+      <Source>Never mind.</Source>
+      <Dest>不用介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(继续维持隐形状态)</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, got this note. You've got friends in high places.</Source>
+      <Dest>嘿，这信拿去。这是一个身处高位的朋友给你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph.</Source>
+      <Dest>哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>A letter... not sure who from. He wouldn't say. Just that he was a friend of yours.</Source>
+      <Dest>一封信...不知道是谁寄来的。他似乎有意隐瞒。只是自称是你的一个朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, Arch-Mage.</Source>
+      <Dest>幸会，首席法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are your thoughts on all this?</Source>
+      <Dest>你对这一切怎么看？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, be careful!</Source>
+      <Dest>嘿，小心点！</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you doing?</Source>
+      <Dest>你在做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm on your side!</Source>
+      <Dest>我是帮你的啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart named Ragnar was boastful no moooooree... when his ugly red head rolled around on the floor!</Source>
+      <Dest>【歌词待校对】牛皮王拉格纳不能再自夸……他的红脑袋摔成了一堆渣！</Dest>
+    </String>
+    <String List="2">
+      <Source>And so then came the clashing and slashing of steel, as the brave lass Matilda charged in full of zeal!</Source>
+      <Dest>【歌词待校对】刀剑碰撞叮当响，勇敢的少女玛提尔达不可挡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you talk and you lie and you drink all our mead! Now I think it's high time that you lie down and bleed!</Source>
+      <Dest>【歌词待校对】噢，你吹牛喝酒耍活宝！真有种就不要跑！</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart did swagger and brandish his blade, as he told of bold battles and gold he had made!</Source>
+      <Dest>【歌词待校对】他气势汹汹挥舞着他的剑，吹嘘英勇事迹神气活现！</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain Silent)</Source>
+      <Dest>(保持沉默)</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm here to rescue you.</Source>
+      <Dest>我来这里营救你。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the problem?</Source>
+      <Dest>怎么啦？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the problem?</Source>
+      <Dest>怎么啦？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the problem?</Source>
+      <Dest>怎么啦？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the problem?</Source>
+      <Dest>怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>So be it.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.</Source>
+      <Dest>不。</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What have you got for sale?</Source>
+      <Dest>你都卖些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Looking to protect yourself, or deal some damage?</Source>
+      <Dest>你想自卫保命还是进攻至上？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're out of your league!</Source>
+      <Dest>你根本不是我对手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take a look.</Source>
+      <Dest>随便看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink for the thirsty, food for the hungry.</Source>
+      <Dest>渴了畅饮美酒，饿了大啖美食。</Dest>
+    </String>
+    <String List="2">
+      <Source>Easily blocked!</Source>
+      <Dest>分分钟挡住！</Dest>
+    </String>
+    <String List="2">
+      <Source>I can take you!</Source>
+      <Dest>你完了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Gah!</Source>
+      <Dest>嘎！</Dest>
+    </String>
+    <String List="2">
+      <Source>Gah!</Source>
+      <Dest>嘎！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're nothing!</Source>
+      <Dest>你这无名小卒！</Dest>
+    </String>
+    <String List="2">
+      <Source>Give up while you still can!</Source>
+      <Dest>趁你还有反悔的机会，投降吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Argh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't win this!</Source>
+      <Dest>就你这两下子还想获胜？！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyargh!</Source>
+      <Dest>嘿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not impressed!</Source>
+      <Dest>没啥了不起的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, damn you!</Source>
+      <Dest>去死吧，混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh...</Source>
+      <Dest>呃……</Dest>
+    </String>
+    <String List="2">
+      <Source>Mercy!</Source>
+      <Dest>饶命啊！我祈求你的怜悯</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, vampire!</Source>
+      <Dest>去死吧，吸血鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've had enough of you!</Source>
+      <Dest>我受够你了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, beast!</Source>
+      <Dest>去死吧，畜生！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, dragon!</Source>
+      <Dest>去死吧，巨龙！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh!</Source>
+      <Dest>啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have your head!</Source>
+      <Dest>我要剁你的脑袋！</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn you!</Source>
+      <Dest>混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>Be careful!</Source>
+      <Dest>小心点！</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>哈？</Dest>
+    </String>
+    <String List="2">
+      <Source>Do your worst!</Source>
+      <Dest>你还是做好最坏的打算吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on!</Source>
+      <Dest>上啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>No!</Source>
+      <Dest>不！</Dest>
+    </String>
+    <String List="2">
+      <Source>That the best you can do?</Source>
+      <Dest>这就是你的极限了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're as good as dead!</Source>
+      <Dest>你死定了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="0">
+      <Source>Imperial.</Source>
+      <Dest>帝国人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, watch it!</Source>
+      <Dest>嘿！小心！</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand.</Source>
+      <Dest>我明白了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nah. I don't think so.</Source>
+      <Dest>不要，我没兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, did you need something?</Source>
+      <Dest>哦，你需要些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.</Source>
+      <Dest>当然了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll teach you to talk to me that way!</Source>
+      <Dest>让我来教教你怎么说人话</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>What can I do for you?</Source>
+      <Dest>有什么可以效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I argue with that?</Source>
+      <Dest>我怎能不同意呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear a three-Piece version of Ragnar the Red.  </Source>
+      <Dest>我想听三重奏的红衣拉格纳。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Age of Oppression.</Source>
+      <Dest>压迫年代</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn Comes.  Flute, Vocals, and Drums.</Source>
+      <Dest>《龙裔归来》。以笛子、歌声和鼓演奏。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can I make a request?</Source>
+      <Dest>我能点首曲子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to make a request.</Source>
+      <Dest>我想要点歌。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tale of the Tongues.  Flute, vocal, and drum version please.</Source>
+      <Dest>来一首《声音传奇》，笛子腰鼓加伴唱的版本谢谢！</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dragonborn Comes.  Vocals with a bit of drum.</Source>
+      <Dest>《龙裔归来》。人声，再来点鼓。</Dest>
+    </String>
+    <String List="0">
+      <Source>Greetings.  A song, please.</Source>
+      <Dest>你好。点一首歌，谢谢。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Age of Aggression.</Source>
+      <Dest>侵略时代。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to make a request.</Source>
+      <Dest>我来点一首曲子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to make a request.</Source>
+      <Dest>我来点一首曲子。</Dest>
+    </String>
+    <String List="0">
+      <Source>A Warrior's Life.</Source>
+      <Dest>《战士的一生》</Dest>
+    </String>
+    <String List="0">
+      <Source>The Tale of the Tongues.  All of you on vocals and lute.</Source>
+      <Dest>[声音传奇]，各位一起歌唱并弹奏吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Portraiture, a three piece instrumental.</Source>
+      <Dest>肖像，一支分成三部分的器乐演奏曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>You never know what you'll find in a crate or barrel.  People toss the darndest things in them.  Coins and weapons!</Source>
+      <Dest>你很难想象会在箱子和桶里找到些什么。人们都放些糟糕的东西在里面。金币和武器！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.  What can I do for you?</Source>
+      <Dest>当然了。我能为你做些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.  What can I do for you?</Source>
+      <Dest>当然了。我能为你做些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>My voice could use a rest.</Source>
+      <Dest>我可以借机休息一下我的嗓子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly!  It's a fine tune and a good request!</Source>
+      <Dest>当然！这个要求挺不错的！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know where to start.  Helgen attacked...by a dragon.</Source>
+      <Dest>我不知道从哪里开始说起。海尔根被攻击了...被一条龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>Some very bad things happened here...But I think that the Legion is Skyrim's only real hope for peace right now.</Source>
+      <Dest>这里的情况确实很糟……可我觉得现在帝国才是天际唯一的希望。</Dest>
+    </String>
+    <String List="2">
+      <Source>H-Help me!  Do something!</Source>
+      <Dest>救...救我！做点儿什么啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello friend.  What can I do for you?</Source>
+      <Dest>你好啊朋友，我能为妳做些什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>You must be a Stormcloak through and through to request that one.</Source>
+      <Dest>你一定是风暴斗篷的人吧，不然不会点这首歌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only true Imperials request that one.</Source>
+      <Dest>只有帝国人才点这首歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you here to save me?  Thank the Divines!</Source>
+      <Dest>你是来这里救我的吗？感谢圣灵！</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh...</Source>
+      <Dest>呃……</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm ready for anything.</Source>
+      <Dest>我准备好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Dancing)</Source>
+      <Dest>(跳舞)</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm ever so grateful.</Source>
+      <Dest>我将永远感谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.  I thought that beast would be the end of me.</Source>
+      <Dest>谢谢你！我以为我快死了！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, what can I do for you?  Song?  Lute playing?  Poetry?</Source>
+      <Dest>好吧，我能为你做些什么？唱歌？弹鲁特琴？还是吟诗？</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I'm sorry I said anything then.</Source>
+      <Dest>哦，我为刚刚所说的话道歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know some nights, when I close my eyes...I'm composing a new song.  A ballad.  For my love.</Source>
+      <Dest>你知道吗，在某几个晚上, 当我合上眼睛的时候...我会构思出一首新的歌曲，一首民谣，献给我的爱人。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>【歌词待校对】发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>【歌词待校对】可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>Down with Ulfric!</Source>
+      <Dest>打倒乌弗瑞克！</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【歌词待校对】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever wonder if maybe...we should call a truce, and join forces for just a little while to take care of some of these dragons.</Source>
+      <Dest>有没有想过是否有可能...我们应该休战，齐心协力哪怕一小会儿，来对付这些龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a local favorite, and one of the first songs I ever learned.  "Ragnar the Red."</Source>
+      <Dest>这是本地人最喜爱，也是我学会的第一首歌：“红衣拉格纳”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some very bad things happened here...But I think that the Legion is Skyrim's only real hope for peace right now.</Source>
+      <Dest>这里的情况确实很糟...可我觉得现在帝国才是天际唯一的希望。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are your thoughts on all this?</Source>
+      <Dest>你对这一切怎么看？</Dest>
+    </String>
+    <String List="2">
+      <Source>And so then came the clashing and slashing of steel, as the brave lass Matilda charged in full of zeal!</Source>
+      <Dest>【歌词待校对】刀剑碰撞叮当响，勇敢的少女玛提尔达不可挡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there once was a hero named Ragnar the Red who came riding to Whiterun from ole Rorikstead!</Source>
+      <Dest>【歌词待校对】曾经有位名叫“红衣拉格纳”的英雄，他从美丽的洛利克镇一路骑马来到白漫城！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you talk and you lie and you drink all our mead! Now I think it's high time that you lie down and bleed!</Source>
+      <Dest>【歌词待校对】噢，你吹牛喝酒耍活宝！真有种就不要跑！</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart did swagger and brandish his blade, as he told of bold battles and gold he had made!</Source>
+      <Dest>【歌词待校对】他气势汹汹挥舞着他的剑，吹嘘英勇事迹神气活现！</Dest>
+    </String>
+    <String List="2">
+      <Source>But then he went quiet, did Ragnar the Red, when he met the shield-maiden Matilda who said;</Source>
+      <Dest>【歌词待校对】红衣拉格纳后来变了哑巴，全因他遇到盾牌女仆玛提尔达，她说……</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart named Ragnar was boastful no moooooree...when his ugly red head rolled around on the floor!</Source>
+      <Dest>【歌词待校对】牛皮王拉格纳不能再自夸……他的红脑袋摔成了一堆渣！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I'm sorry I said anything then.</Source>
+      <Dest>哦，我为刚刚所说的话道歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, huh?  Was it Ma or Pa that was the dragon?</Source>
+      <Dest>“龙裔”呃？你父亲是龙，还是你母亲是？</Dest>
+    </String>
+    <String List="2">
+      <Source>Men ran and they cowered and they fought and they died; They burned and they bled as they issued their cries;</Source>
+      <Dest>【歌词待校对】人类退缩、逃跑，战斗、死亡。他们受伤、流血，痛哭、哀嚎。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>【歌词待校对】奥杜因的永恒，已然不在。他的故事已经终结，龙也消失天外。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Play a lute medley.</Source>
+      <Dest>来一给我唱首歌.</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear some drums.</Source>
+      <Dest>我想听鼓演奏。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm in the mood for a flute solo.</Source>
+      <Dest>我正好有心情用长笛独奏一曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know some nights, when I close my eyes...I'm composing a new song.  A ballad.  For my love.</Source>
+      <Dest>你知道吗，在某几个晚上, 当我合上眼睛的时候...我会构思出一首新的歌曲，一首民谣，献给我的爱人。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so the Tongues freed us from Alduin's rage; Gave the gift of the Voice, ushered in a new age;</Source>
+      <Dest>【歌词待校对】发声者从奥杜因的愤怒之中解救了我们，龙吼的天赐，引领我们进入新的时代。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>But then came the Tongues on that terrible day; Steadfast as winter they entered the fray;</Source>
+      <Dest>【歌词待校对】可怕的岁月里，发声者们加入战斗，踏着坚定的步伐，凯歌高奏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know where to start.  Helgen attacked...by a dragon.</Source>
+      <Dest>我不知道哪里开始。海尔根被攻击了……被一条龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>And all heard the music of Alduin's doom; The sweet song of Skyrim, sky-shattering Thu'um;</Source>
+      <Dest>【歌词待校对】奥杜因拉下了的命运之幕，那是天际的赞歌，是响彻天际的吐目。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, it's probably not a good idea to walk around naked like that.</Source>
+      <Dest>啊，这样光着身子到处逛可不是个明智的举动。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever wonder if maybe...we should call a truce, and join forces for just a little while to take care of some of these dragons.</Source>
+      <Dest>有没有想过是否有可能...我们应该休战，齐心协力哪怕一小会儿，来对付这些龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  Jarl's been looking for someone who ain't superstitious though.  Been looking for a fool if you ask me.</Source>
+      <Dest>真的？领主想找个不迷信的人，要我说，就是找个笨蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.  Someday Camilla will know my affections.  Someday.</Source>
+      <Dest>我知道。总有一天卡米拉会明白我的爱意的。总有一天。</Dest>
+    </String>
+    <String List="2">
+      <Source>You look like an explorer.  Someone who has seen far away places.</Source>
+      <Dest>你看着像个探险家...像个走南闯北的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are your thoughts on all this?</Source>
+      <Dest>你对这一切怎么看？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I don't think so.  Perhaps someday.  Someday.</Source>
+      <Dest>不，我完全不这么想。或许有朝一日吧。有朝一日。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ed!  Uh, you startled me!  Did you need something?</Source>
+      <Dest>哎呦，你到吓我了！你需要什么东西吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly my good man.  How may I help you?</Source>
+      <Dest>当然啦我的好先生。我该怎么帮你？</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, huh?  Was it Ma or Pa that was the dragon?</Source>
+      <Dest>“龙裔”呃？你父亲是龙，还是你母亲是？</Dest>
+    </String>
+    <String List="2">
+      <Source>Men ran and they cowered and they fought and they died; They burned and they bled as they issued their cries;</Source>
+      <Dest>【歌词待校对】人类退缩、逃跑，战斗、死亡。他们受伤、流血，痛哭、哀嚎。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Alduin's eternal then eternity's done; For his story is over and the dragons are gone.</Source>
+      <Dest>【歌词待校对】奥杜因的永恒，已然不在。他的故事已经终结，龙也消失天外。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...yes...you do raise a good point.  No...not now.</Source>
+      <Dest>嗯...不错...你的点子不错。不...不是现在。</Dest>
+    </String>
+    <String List="2">
+      <Source>What can I do for you?</Source>
+      <Dest>有什么可以效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{stop}</Source>
+      <Dest>{停下}</Dest>
+    </String>
+    <String List="2">
+      <Source>{End}</Source>
+      <Dest>{结束}</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a local favorite, and one of the first songs I ever learned.  "Ragnar the Red."</Source>
+      <Dest>这是本地人最喜爱,也是我学会的第一首歌：“红衣拉格纳”。</Dest>
+    </String>
+    <String List="2">
+      <Source>My time at the Bard's College was brief.  A prodigy has little need for formal education.</Source>
+      <Dest>我在吟遊诗人学院学习的时间很短。一个天才才不需要正式的教育呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so then came the clashing and slashing of steel, as the brave lass Matilda charged in full of zeal!</Source>
+      <Dest>【歌词待校对】刀剑碰撞叮当响，勇敢的少女玛提尔达不可挡！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there once was a hero named Ragnar the Red who came riding to Whiterun from ole Rorikstead!</Source>
+      <Dest>【歌词待校对】曾经有位名叫“红衣拉格纳”的英雄，他从美丽的洛利克镇一路骑马来到白漫城！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragonborn, huh.  Was it Ma or Pa that was the dragon?</Source>
+      <Dest>“龙裔”呃？你父亲是龙，还是你母亲是？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you talk and you lie and you drink all our mead! Now I think it's high time that you lie down and bleed!</Source>
+      <Dest>【歌词待校对】噢，你吹牛喝酒耍活宝！真有种就不要跑！</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart did swagger and brandish his blade, as he told of bold battles and gold he had made!</Source>
+      <Dest>【歌词待校对】他气势汹汹挥舞着他的剑，吹嘘英勇事迹神气活现！</Dest>
+    </String>
+    <String List="2">
+      <Source>But then he went quiet, did Ragnar the Red, when he met the shield-maiden Matilda who said;</Source>
+      <Dest>【歌词待校对】红衣拉格纳后来变了哑巴，全因他遇到盾牌女仆玛提尔达，她说……</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm ever so grateful.</Source>
+      <Dest>我将永远感谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the braggart named Ragnar was boastful no moooooree...when his ugly red head rolled around on the floor!</Source>
+      <Dest>【歌词待校对】牛皮王拉格纳不能再自夸……他的红脑袋摔成了一堆渣！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Stop}</Source>
+      <Dest>{停止}</Dest>
+    </String>
+    <String List="2">
+      <Source>Thanks again for saving my life.</Source>
+      <Dest>感谢你又救了我一次。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
