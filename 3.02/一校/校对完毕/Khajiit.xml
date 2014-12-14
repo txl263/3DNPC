@@ -10,485 +10,441 @@
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    <String List="0">
+      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
+      <Dest>没事，先放我出来我们再谈吧。</Dest>
     </String>
     <String List="0">
-      <Source>I rather enjoyed fighting in the pit. After we get Zora, I may come back.</Source>
-      <Dest>我比较享受在斗兽场战斗。当我们得到佐拉之后，我可能会回来。</Dest>
-    </String>
-    <String List="2">
-      <Source>J'Sharr is pleased you are not angry with him. Your friend does not see J'Sharr's intentions were good, but it is his hope that you can convince him.</Source>
-      <Dest>洁莎很高兴你没生他的气。你的朋友看不清洁莎的意图是个好事，但洁莎希望你能说服他。</Dest>
+      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
+      <Dest>没事，先放我出来我们再谈吧。</Dest>
     </String>
     <String List="0">
-      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
-      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) Then J'Sharr must make arrangements for another match. However, this time, the odds will not be in your favor.</Source>
-      <Dest>(Laughs) Then J'Sharr must make arrangements for another match. However, this time, the odds will not be in your favor.</Dest>
-    </String>
-    <String List="0">
-      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
-      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
-    </String>
-    <String List="2">
-      <Source>Many will say it is foolish to bet on one's opponent, for the dead cannot spend gold. However, there is always a way to cheat even death.</Source>
-      <Dest>大多数人会说下注给自己的对手是愚蠢的，自己死了赢钱也没用。不过，死亡也是可以作弊的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
-      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
-    </String>
-    <String List="2">
-      <Source>But you must be worried about your friend. You will find her, and you will find her safe, at the Skytemple Ruins in Winterhold.</Source>
-      <Dest>But you must be worried about your friend. You will find her, and you will find her safe, at the Skytemple Ruins in Winterhold.</Dest>
-    </String>
-    <String List="0">
-      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
-      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) Then J'Sharr must make arrangements for another match. However, this time, the odds will not be in your favor.</Source>
-      <Dest>(Laughs) Then J'Sharr must make arrangements for another match. However, this time, the odds will not be in your favor.</Dest>
-    </String>
-    <String List="0">
-      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
-      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
-    </String>
-    <String List="2">
-      <Source>Many will say it is foolish to bet on one's opponent, for the dead cannot spend gold. However, there is always a way to cheat even death.</Source>
-      <Dest>大多数人会说下注给自己的对手是愚蠢的，自己死了赢钱也没用。不过，死亡也是可以作弊的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
-      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
-    </String>
-    <String List="2">
-      <Source>But you must be worried about your friend. You will find her, and you will find her safe, at the Skytemple Ruins in Winterhold.</Source>
-      <Dest>But you must be worried about your friend. You will find her, and you will find her safe, at the Skytemple Ruins in Winterhold.</Dest>
-    </String>
-    <String List="0">
-      <Source>Me and J'Sharr aren't a team. We aren't even friends.</Source>
-      <Dest>我和杰夏尔不是一个团队。我们甚至不是朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is a shame, but J'Sharr understands.  He often forgets others do not like coin as much as he does.</Source>
-      <Dest>真是一种耻辱，但洁莎可以理解 。他总是会遗忘别人不会想他对金钱的喜爱一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Me and J'Sharr aren't a team. We aren't even friends.</Source>
-      <Dest>我和杰夏尔不是一个团队。我们甚至不是朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>As for your friend, you will find her at Skytemple Ruins, to the north of Winterhold. J'Sharr assures you she is safe.</Source>
-      <Dest>至于你的朋友，你会在空寺废墟找到她，那地方就在冬堡的北面。洁莎会向你保证她的安全的。</Dest>
-    </String>
-    <String List="0">
-      <Source>We're finished with the pits. Just tell me where to find Zora.</Source>
-      <Dest>斗兽场的事结束了。快告诉我到哪儿去找佐拉。</Dest>
-    </String>
-    <String List="2">
-      <Source>Unfortunately, J'Sharr still has business here, but you will find your friend to the north, at the peak of the SkyTemple Ruins.</Source>
-      <Dest>很不幸啊，杰夏尔在这儿还走不哎，不过你可以去北方找到你的朋友，在 SkyTemple Ruins 的山顶上。</Dest>
-    </String>
-    <String List="0">
-      <Source>We're finished with the pits. Just tell me where to find Zora.</Source>
-      <Dest>斗兽场的事结束了。快告诉我到哪儿去找佐拉。</Dest>
-    </String>
-    <String List="2">
-      <Source>Trust J'Sharr when he tells you she is safe.</Source>
-      <Dest>当洁莎告诉你她安全的时候要相信她。</Dest>
-    </String>
-    <String List="0">
-      <Source>Let's just get on with it and find Zora.</Source>
-      <Dest>我们快点继续去找佐拉吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>You are quite generous to let J'Sharr keep all the profits. He must buy you a drink when it is time to celebrate.</Source>
-      <Dest>把所有的利润都交给杰夏尔？你真是太大方了。庆祝的时候他一定会请你喝酒的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Here. 500 gold. Place my bet.</Source>
-      <Dest>给你。500金币。给我下注。</Dest>
-    </String>
-    <String List="2">
-      <Source>Excellent. Both you and J'Sharr will be much wealthier by night's end.</Source>
-      <Dest>干得漂亮。暗夜结束之时，你和洁莎都会变得更加富有。</Dest>
+      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
+      <Dest>没事，先放我出来我们再谈吧。</Dest>
     </String>
     <String List="0">
       <Source>I would bet, but I don't have that kind of coin.</Source>
       <Dest>我会（和你？）赌博的，但是我没有那种硬币。</Dest>
     </String>
-    <String List="2">
-      <Source>That is too bad, but J'Sharr understands. He will have to make do with the full share.</Source>
-      <Dest>这可真够糟糕的 不过杰·沙尔会明白的. 这回的所得他怕是要让大家雨露均沾了。</Dest>
+    <String List="0">
+      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
+      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
     </String>
     <String List="0">
-      <Source>Then should I die, my possessions will go to those I love.</Source>
-      <Dest>当我死了之后，我的财产都会被转交到我爱的人手中。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course. Nothing in the pits is ever guaranteed, although if you are not a fighter, then stay behind J'Sharr.</Source>
-      <Dest>当然.在斗兽场里没有东西可以打包票的，你不是一个战士，就站在洁莎后面。</Dest>
+      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
+      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
     </String>
     <String List="0">
-      <Source>Then should I die, my possessions will go to those I love.</Source>
-      <Dest>当我死了之后，我的财产都会被转交到我爱的人手中。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your friends will not forgive him if he let you perish.</Source>
-      <Dest>如果他让你消失的话，你的朋友一定无法原谅他。</Dest>
+      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
+      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
     </String>
     <String List="0">
-      <Source>Fine. If I'm going to fight in this arena, I might as well earn some coin.</Source>
-      <Dest>好吧。要是我去打这个擂台，说不定也能赚点金币。</Dest>
-    </String>
-    <String List="2">
-      <Source>Exactly. And J'Sharr is experienced enough to handle most of the fighting. It will be the easiest coin you ever made.</Source>
-      <Dest>完全正确。洁莎的经验足够应付大多数战斗了。这将是你赚到的第一桶金。</Dest>
+      <Source>Me and J'Sharr aren't a team. We aren't even friends.</Source>
+      <Dest>我和杰夏尔不是一个团队。我们甚至不是朋友。</Dest>
     </String>
     <String List="0">
-      <Source>I'm not a gambler, and I don't want any of this tainted gold.</Source>
-      <Dest>我不是赌徒，对这些脏钱也不感兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is a shame. But this will provide J'Sharr a full share of the profits, so he is not unhappy with this development.</Source>
-      <Dest>这真让人羞愧，不过这会保证洁夏尔分到足够的好处，够多到让他满意的了。</Dest>
+      <Source>Me and J'Sharr aren't a team. We aren't even friends.</Source>
+      <Dest>我和杰夏尔不是一个团队。我们甚至不是朋友。</Dest>
     </String>
     <String List="0">
       <Source>500 gold at 3 to 1 makes 1500, not 1200.</Source>
       <Dest>一个500金币的东西，三个是1500金币而不是1200金币。</Dest>
     </String>
-    <String List="2">
-      <Source>Did J'Sharr say 1200? My mistake. J'Sharr is uneducated and very poor at arithmetic.</Source>
-      <Dest>我说的是1200吗？是我的错。洁莎没有受过教育，算数也很差。</Dest>
-    </String>
     <String List="0">
-      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
-      <Dest>没事，先放我出来我们再谈吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) This cat was not born yesterday. Still, J'Sharr will let you out of the cage soon enough, just give him a chance to explain.</Source>
-      <Dest>(笑声) 这只猫又不是三岁小孩。不过，洁莎能尽快把你从笼子里放出来的，给他个解释的机会吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
-      <Dest>没事，先放我出来我们再谈吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was never his intent for you or the girl to get involved, but you will be pleased to know it will only mean more profits for all of us.</Source>
-      <Dest>我从来就没打算让你和那姑娘掺和进来，但是你会很高兴的，因为这只会给我们大家带来更多的利益。</Dest>
-    </String>
-    <String List="0">
-      <Source>No harm, no foul. Just let me out of the cage and we'll talk.</Source>
-      <Dest>没事，先放我出来我们再谈吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>The four of us will bring much prestige to the fights. In fact, the first match is about to begin. We must hurry or we will miss it.</Source>
-      <Dest>我们四个人会在战斗中名扬天下。事实上，第一场比赛快开始了，我们得快点不然我们就错过了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
-      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
-    </String>
-    <String List="2">
-      <Source>J'Sharr is pleased to see your sense of humor remains. He will let you out of the cage in a moment.</Source>
-      <Dest>洁莎很高兴你的幽默感还健在。他会在合适的时间放你出笼子的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
-      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was never his intent to take you three forcefully. Had our friend simply agreed to join the fights, there would be no need for force of any kind.</Source>
-      <Dest>他的目的从来也不是强硬的带走你们三个。要是我们的朋友爽快的同意参战，那就没必要强迫任何人了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I politely ask you free me from this cage so I may strangle you.</Source>
-      <Dest>我很有礼貌的请你将我从这个笼子里放出去，这样我才能掐死你。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Redguard does not understand the amount of coin he leaves on the table. J'Sharr is merely looking out for all your best interests.</Source>
-      <Dest>红卫人无法理解他在桌上留下的那些数量金币的意义。洁莎只是留心着你所有的最大兴趣。 </Dest>
+      <Source>I rather enjoyed fighting in the pit. After we get Zora, I may come back.</Source>
+      <Dest>我比较享受在鬥獸場战斗。當我们得到佐拉之后，我可能会回来。</Dest>
     </String>
     <String List="0">
       <Source>What have you done with Gorr and Zora?</Source>
-      <Dest>你对戈尔和佐拉做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>The Redguard fights in the pit as we speak. He will no doubt crush the poor sap that is up against him. We must hurry if we are to watch.</Source>
-      <Dest>红卫人在斗兽场里战斗，就在我们说话的时候。他将毫无疑问地粉碎与他搏斗的可怜虫。如果我们想看的话，就必须快点了。</Dest>
+      <Dest>你对勾尔和佐拉做了什么？</Dest>
     </String>
     <String List="0">
       <Source>What have you done with Gorr and Zora?</Source>
-      <Dest>你对戈尔和佐拉做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>The girl has her own match, but somewhere else. They will take us to her when our match is done.</Source>
-      <Dest>那女孩有她自己的比赛，不过是在别的什么地方。在我们的比赛结束之后他们会带我们去见她的。</Dest>
+      <Dest>你对勾尔和佐拉做了什么？</Dest>
     </String>
     <String List="0">
       <Source>What have you done with Gorr and Zora?</Source>
-      <Dest>你对戈尔和佐拉做了什么？</Dest>
+      <Dest>你对勾尔和佐拉做了什么？</Dest>
     </String>
-    <String List="2">
-      <Source>You will notice you have all your belongings. This is to prove to you J'Sharr did not poison you out of malice.</Source>
-      <Dest>你会注意到你的所有物一样都没有少，这就证明了洁莎并非蓄意毒害你的。</Dest>
+    <String List="0">
+      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
+      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
+    </String>
+    <String List="0">
+      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
+      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
+    </String>
+    <String List="0">
+      <Source>Profits are my second name. Hunts-for-Profits, they call me.</Source>
+      <Dest>利润是我的第二生命，所以他们都称我为“追逐利润的狩猎者”。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then should I die, my possessions will go to those I love.</Source>
+      <Dest>当我死了之后，我的财产都会被转交到我爱的人手中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then should I die, my possessions will go to those I love.</Source>
+      <Dest>当我死了之后，我的财产都会被转交到我爱的人手中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. 500 gold. Place my bet.</Source>
+      <Dest>给你。500金币。给我下注。</Dest>
     </String>
     <String List="0">
       <Source>I ought to kill you right now, traitor.</Source>
       <Dest>我应该现在就杀了你，叛徒。</Dest>
     </String>
-    <String List="2">
-      <Source>Let us not be hasty, friend. You may not have noticed, but J'Sharr has left you all your belongings.</Source>
-      <Dest>不要心急，朋友。你可能没注意到，但洁莎留下了你所有的财物。</Dest>
-    </String>
     <String List="0">
       <Source>I ought to kill you right now, traitor.</Source>
       <Dest>我应该现在就杀了你，叛徒。</Dest>
     </String>
-    <String List="2">
-      <Source>J'Sharr only wishes to make us all rich. Besides, your anger is based saved for the pit. Come, we must hurry, or we will miss the Redguard's fight.</Source>
-      <Dest>洁莎只是希望我们能富裕起来。而且，你的怒气也应该留在斗兽场上发泄。来吧，我们要错过红卫人的战斗了。</Dest>
+    <String List="0">
+      <Source>Let's just get on with it and find Zora.</Source>
+      <Dest>我们快点继续去找佐拉吧。</Dest>
     </String>
-    <String List="2">
-      <Source>Hello there, stranger. What can J'Sharr do for you?</Source>
-      <Dest>欢迎光临，陌生人。洁莎能为你做什么?</Dest>
+    <String List="0">
+      <Source>Fine. If I'm going to fight in this arena, I might as well earn some coin.</Source>
+      <Dest>好吧。要是我去打这个擂台，说不定也能赚点金币。</Dest>
     </String>
-    <String List="2">
-      <Source>You've made it. Wonderful. J'Sharr will have at least three voices to rally him when he is struggling. This way. </Source>
-      <Dest>你已经做到了。漂亮。在他挣扎时，洁莎将会用至少三种声音激励他。这边走。</Dest>
+    <String List="0">
+      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
+      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
     </String>
-    <String List="2">
-      <Source>You're up. Good. J'Sharr was worried the poison might have been too much, considering it was made for that mammoth of a Redguard.</Source>
-      <Dest>你醒了。很好。考虑到这药是为一个红卫高大个儿准备的，洁莎还担心你吃多了呢。</Dest>
+    <String List="0">
+      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
+      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
     </String>
-    <String List="2">
-      <Source>Would you like to place a wager on yourself? You can bet up to 500 gold. That comes to a return of 1200 septims. </Source>
-      <Dest>你有兴趣下自己一注吗？最多能下500块。赢了就有1200啦。</Dest>
+    <String List="0">
+      <Source>Profits are my Argonian name. Hunts-for-Profits, they call me.</Source>
+      <Dest>我的亚龙人名字叫“利润”。他们管我叫“猎-取-利润”。</Dest>
     </String>
-    <String List="2">
-      <Source>It would be foolish not to, unless you plan on leaving your gold to your kin.</Source>
-      <Dest>不会那么蠢的，除非你打算把你的金子交给你的亲戚保管。</Dest>
+    <String List="0">
+      <Source>I'm not a gambler, and I don't want any of this tainted gold.</Source>
+      <Dest>我不是赌徒，对这些脏钱也不感兴趣。</Dest>
     </String>
-    <String List="2">
-      <Source>After all, the pit is no place for thieves. The wishes of the dead are respected here.</Source>
-      <Dest>毕竟，斗兽场并非盗贼之所。死者之愿在这里被尊重。</Dest>
+    <String List="0">
+      <Source>We're finished with the pits. Just tell me where to find Zora.</Source>
+      <Dest>斗兽场的事结束了。快告诉我到哪儿去找佐拉。</Dest>
     </String>
-    <String List="2">
-      <Source>J'Sharr is very pleased with this victory. He will put this gold to good use.</Source>
-      <Dest>这场胜利让洁莎感到很高兴。他会善用这些钱的。</Dest>
-    </String>
-    <String List="2">
-      <Source>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Source>
-      <Dest>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Dest>
-    </String>
-    <String List="2">
-      <Source>Here is your share. A handsome sum and well deserved.</Source>
-      <Dest>这是你的份儿。1500金。这一大笔钱是你应得的。</Dest>
-    </String>
-    <String List="2">
-      <Source>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Source>
-      <Dest>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Dest>
-    </String>
-    <String List="2">
-      <Source>Here is your share. 1200 gold. A handsome sum and well deserved.</Source>
-      <Dest>这是你的。1200大洋。一份漂亮的报酬.</Dest>
-    </String>
-    <String List="2">
-      <Source>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Source>
-      <Dest>You and J'Sharr make for an excellent team. This could be the beginning of a very profitable relationship.</Dest>
-    </String>
-    <String List="2">
-      <Source>(Sigh) J'Sharr still hopes you will choose a third option, but he understands. He will take his beating when you return.</Source>
-      <Dest>(叹气) 洁莎还是希望你能有第三种选择，但是他能理解。他在你回来的时候会大吃一惊的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was a lucky win for J'Sharr. His partner did all of the work.</Source>
-      <Dest>洁莎全凭运气。他的搭档干了所有的活，他自己什么都没干。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ready yourself. There is no announcer here. The battle begins when the weapons are drawn!</Source>
-      <Dest>做好准备。这里可没有发令员。战斗在抽出武器的瞬间就开始了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do not worry. J'Sharr has crossed blades with this type many times. Fortune smiles upon us both.</Source>
-      <Dest>别担心，洁莎已经穿过这种刀剑密布的地方许多次了。幸运在对我们两人微笑。</Dest>
+    <String List="0">
+      <Source>We're finished with the pits. Just tell me where to find Zora.</Source>
+      <Dest>斗兽场的事结束了。快告诉我到哪儿去找佐拉。</Dest>
     </String>
     <String List="2">
       <Source>It will likely be another hour or so before the fight begins. Do not worry, this is all going according to plan.</Source>
       <Dest>看来开打还要再等上一个小时. 别担心，一切在计划之内。</Dest>
     </String>
     <String List="2">
-      <Source>J'Sharr suggests the two of you grab a drink, or mingle. When the others arrive, the Fair Lady will let you know.</Source>
-      <Dest>杰夏尔建议你们两个喝一杯，要么就稍微交流一番。其他人到了的时候，窈窕淑女会让你知道的。</Dest>
+      <Source>That is a shame. But this will provide J'Sharr a full share of the profits, so he is not unhappy with this development.</Source>
+      <Dest>这真让人羞愧，不过这会保证洁夏尔分到足够的好处，够多到让他满意的了。</Dest>
     </String>
     <String List="2">
-      <Source>Alas, J'Sharr's reputation precedes himself.</Source>
-      <Dest>唉, 洁莎就靠自己赚取了名声。</Dest>
+      <Source>Let us not be hasty, friend. You may not have noticed, but J'Sharr has left you all your belongings.</Source>
+      <Dest>不要心急，朋友。你可能没注意到，但洁莎留下了你所有的财物。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will notice you have all your belongings. This is to prove to you J'Sharr did not poison you out of malice.</Source>
+      <Dest>你会注意到你的所有物一样都没有少，这就证明了洁莎并非蓄意毒害你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you like to place a wager on yourself? You can bet up to 500 gold. That comes to a return of 1200 septims. </Source>
+      <Dest>你有兴趣下自己一注吗？最多能下500块。赢了就有1200啦。</Dest>
     </String>
     <String List="2">
       <Source>How unfortunate! What does this mean for J'Sharr's bets?</Source>
       <Dest>多么不幸啊！洁莎的赌注是什么意思？</Dest>
     </String>
     <String List="2">
-      <Source>Even a victory today will seem like a fluke against a weak opponent. We will have good action for a few more fights before their opinion sways.</Source>
-      <Dest>即使今天的胜利就像是侥幸战胜了一个战五渣的对手。我们也会在他们的意见摇摆不定之前在几场战斗中打得更好。</Dest>
+      <Source>Ready yourself. There is no announcer here. The battle begins when the weapons are drawn!</Source>
+      <Dest>做好准备。这里可没有发令员。战斗在抽出武器的瞬间就开始了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Many will say it is foolish to bet on one's opponent, for the dead cannot spend gold. However, there is always a way to cheat even death.</Source>
+      <Dest>大多数人会说下注给自己的对手是愚蠢的，自己死了赢钱也没用。不过，死亡也是可以作弊的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many will say it is foolish to bet on one's opponent, for the dead cannot spend gold. However, there is always a way to cheat even death.</Source>
+      <Dest>大多数人会说下注给自己的对手是愚蠢的，自己死了赢钱也没用。不过，死亡也是可以作弊的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course. Nothing in the pits is ever guaranteed, although if you are not a fighter, then stay behind J'Sharr.</Source>
+      <Dest>当然.在斗兽场里没有东西可以打包票的，你不是一个战士，就站在洁莎后面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your friends will not forgive him if he let you perish.</Source>
+      <Dest>如果他让你消失的话，你的朋友一定无法原谅他。</Dest>
+    </String>
+    <String List="2">
+      <Source>After all, the pit is no place for thieves. The wishes of the dead are respected here.</Source>
+      <Dest>毕竟，斗兽场并非盗贼之所。死者之愿在这里被尊重。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Redguard does not understand the amount of coin he leaves on the table. J'Sharr is merely looking out for all your best interests.</Source>
+      <Dest>红卫人无法理解他在桌上留下的那些数量金币的意义。洁莎只是留心着你所有的最大兴趣。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is a shame, but J'Sharr understands.  He often forgets others do not like coin as much as he does.</Source>
+      <Dest>真是一种耻辱，但洁莎可以理解 。他总是会遗忘别人不会想他对金钱的喜爱一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>J'Sharr suggests the two of you grab a drink, or mingle. When the others arrive, the Fair Lady will let you know.</Source>
+      <Dest>杰夏尔建议你们两个喝一杯，要么就稍微交流一番。其他人到了的时候，窈窕淑女会让你知道的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. Both you and J'Sharr will be much wealthier by night's end.</Source>
+      <Dest>干得漂亮。暗夜结束之时，你和洁莎都会变得更加富有。</Dest>
+    </String>
+    <String List="2">
+      <Source>J'Sharr is pleased to see your sense of humor remains. He will let you out of the cage in a moment.</Source>
+      <Dest>洁莎很高兴你的幽默感还健在。他会在合适的时间放你出笼子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a lucky win for J'Sharr. His partner did all of the work.</Source>
+      <Dest>洁莎全凭运气。他的搭档干了所有的活，他自己什么都没干。</Dest>
     </String>
     <String List="2">
       <Source>J'Sharr has spent many moons bad-mouthing our friend, saying he is a pit dog and a drinker of milk.</Source>
       <Dest>洁莎花了好几个月各种诋毁我们的朋友，说他是只斗犬还说是个吃奶的货。</Dest>
     </String>
     <String List="2">
-      <Source>Do not worry, J'Sharr would not cross you. Nor does he want to be called two-tails.</Source>
-      <Dest>不要担心，洁莎不会超越你。他也不希望被叫作双尾。</Dest>
+      <Source>As for your friend, you will find her at Skytemple Ruins, to the north of Winterhold. J'Sharr assures you she is safe.</Source>
+      <Dest>至于你的朋友，你会在空寺废墟找到她，那地方就在冬堡的北面。洁莎会向你保证她的安全的。</Dest>
     </String>
     <String List="2">
       <Source>In fact, as a measure of good faith, your companion and I are fighting together.</Source>
       <Dest>事实上，为了诚信，你的同伴和我一起战斗。</Dest>
     </String>
     <String List="2">
-      <Source>And as fortune would have it, our opponents are favored three to one.</Source>
-      <Dest>幸运的一方会拥有它，我们的对手似乎喜欢三对一。</Dest>
+      <Source>J'Sharr only wishes to make us all rich. Besides, your anger is based saved for the pit. Come, we must hurry, or we will miss the Redguard's fight.</Source>
+      <Dest>洁莎只是希望我们能富裕起来。而且，你的怒气也应该留在斗兽场上发泄。来吧，我们要错过红卫人的战斗了。</Dest>
     </String>
     <String List="2">
-      <Source>Nothing. It was a poor choice of words. The girl is not a prisoner, no more than you.</Source>
-      <Dest>没事。语言真是苍白无力。你够了，那个女孩不是罪犯。</Dest>
+      <Source>J'Sharr is pleased you are not angry with him. Your friend does not see J'Sharr's intentions were good, but it is his hope that you can convince him.</Source>
+      <Dest>洁莎很高兴你没生他的气。你的朋友看不清洁莎的意图是个好事，但洁莎希望你能说服他。</Dest>
     </String>
     <String List="2">
-      <Source>She has her own fight, but J'Sharr could not risk the three of you strong-arming your way out of here. He has debts to pay.</Source>
-      <Dest>She has her own fight, but J'Sharr could not risk the three of you strong-arming your way out of here. He has debts to pay.</Dest>
+      <Source>The girl has her own match, but somewhere else. They will take us to her when our match is done.</Source>
+      <Dest>那女孩有她自己的比赛，不过是在别的什么地方。在我们的比赛结束之后他们会带我们去见她的。</Dest>
     </String>
     <String List="2">
-      <Source>(Sigh) If you dislike gold that much, it cannot be helped. But here is your share. 500 septims.</Source>
-      <Dest>（叹气）就算你不喜欢那么多金子，这也无可避免啊。这是你那份儿。500金币。</Dest>
+      <Source>Here is your share. 1200 gold. A handsome sum and well deserved.</Source>
+      <Dest>这是你的。1200大洋。一份漂亮的报酬.</Dest>
     </String>
     <String List="2">
-      <Source>However, your friend and the girl are committed to at least one more fight. Bowing out now will cost us all of that and more.</Source>
-      <Dest>无论如何，你的朋友和这个女孩儿得保证至少去打一场战斗。现在退出使我们付出的代价比这可多多了。</Dest>
+      <Source>Hello there, stranger. What can J'Sharr do for you?</Source>
+      <Dest>欢迎光临，陌生人。洁莎能为你做什么?</Dest>
     </String>
     <String List="2">
-      <Source>Now, this is when J'Sharr's hard work pays off.</Source>
-      <Dest>现在，杰夏尔的努力获得了回报。</Dest>
+      <Source>The four of us will bring much prestige to the fights. In fact, the first match is about to begin. We must hurry or we will miss it.</Source>
+      <Dest>我们四个人会在战斗中名扬天下。事实上，第一场比赛快开始了，我们得快点不然我们就错过了。</Dest>
     </String>
     <String List="2">
-      <Source>(Sigh) Do you not see J'Sharr is on your side? But we will see how angry you are when your pockets are overflowing with gold.</Source>
-      <Dest>（叹）你还没看出洁夏尔是站在你那一边吗？我们倒想看看等你的口袋里装满金币的时候还有多生气。</Dest>
+      <Source>Do not worry. J'Sharr has crossed blades with this type many times. Fortune smiles upon us both.</Source>
+      <Dest>别担心，洁莎已经穿过这种刀剑密布的地方许多次了。幸运在对我们两人微笑。</Dest>
     </String>
     <String List="2">
-      <Source>Of course, the bigger the title, the more adept one must be outside the arena.  His choice to leave may have saved his life.</Source>
-      <Dest>当然，头衔越大说明竞技场里面那位来头越大，他选择离开说不定正让他捡了一条命。</Dest>
+      <Source>Here is your share. A handsome sum and well deserved.</Source>
+      <Dest>这是你的份儿。1500金。这一大笔钱是你应得的。</Dest>
     </String>
     <String List="2">
-      <Source>Here, in the pits, I will handle the politics and keep us all safe.</Source>
-      <Dest>这边，在斗兽场里。让我来保证我们的安全。</Dest>
+      <Source>Exactly. And J'Sharr is experienced enough to handle most of the fighting. It will be the easiest coin you ever made.</Source>
+      <Dest>完全正确。洁莎的经验足够应付大多数战斗了。这将是你赚到的第一桶金。</Dest>
     </String>
     <String List="2">
-      <Source>If not for his strange affinity for lesser creatures, he would have been Grand Champion.</Source>
-      <Dest>如果不是他对小动物的奇特吸引力，他会是伟大的冠军。</Dest>
+      <Source>That is too bad, but J'Sharr understands. He will have to make do with the full share.</Source>
+      <Dest>这可真够糟糕的 不过杰·沙尔会明白的. 这回的所得他怕是要让大家雨露均沾了。</Dest>
     </String>
     <String List="2">
-      <Source>In his prime, our friend was a great arena fighter. Few can last so long without playing the politics. </Source>
-      <Dest>在他年富力强的时候，我们的朋友曾是位伟大的竞技场斗士。能做到一直与政治绝缘的人非常少。</Dest>
+      <Source>Alas, J'Sharr's reputation precedes himself.</Source>
+      <Dest>唉, 洁莎就靠自己赚取了名声。</Dest>
     </String>
     <String List="2">
-      <Source>There is our Gladiator now. J'Sharr prefers this environment to the Arena. It is far more...intimate.</Source>
-      <Dest>现在这是我们的角斗士。洁莎喜欢这里的环境。这样显得很……亲密。</Dest>
+      <Source>It would be foolish not to, unless you plan on leaving your gold to your kin.</Source>
+      <Dest>不会那么蠢的，除非你打算把你的金子交给你的亲戚保管。</Dest>
     </String>
     <String List="2">
-      <Source>J'Sharr is sorry. This was the only way.  But in the end you will all thank him.</Source>
-      <Dest>杰沙感到很抱歉。但除此之外别无他法。而且到最后你会十分感谢他的。</Dest>
+      <Source>Unfortunately, J'Sharr still has business here, but you will find your friend to the north, at the peak of the SkyTemple Ruins.</Source>
+      <Dest>很不幸啊，杰夏尔在这儿还走不哎，不过你可以去北方找到你的朋友，在 SkyTemple Ruins 的山顶上。</Dest>
     </String>
     <String List="2">
-      <Source>Ah, but J'Sharr knows all the angles. He knows that an innocent pat on the back, can carry with it a needle of poison.</Source>
-      <Dest>啊，但洁莎精通所有的伎俩。他知道如何虚与委蛇，绵里藏针。</Dest>
+      <Source>You've made it. Wonderful. J'Sharr will have at least three voices to rally him when he is struggling. This way. </Source>
+      <Dest>你已经做到了。漂亮。在他挣扎时，洁莎将会用至少三种声音激励他。这边走。</Dest>
     </String>
     <String List="2">
-      <Source>In fact, it should be taking effect right about now. The archers, they are only here to buy it more time.</Source>
-      <Dest>In fact, it should be taking effect right about now. The archers, they are only here to buy it more time.</Dest>
+      <Source>The Redguard fights in the pit as we speak. He will no doubt crush the poor sap that is up against him. We must hurry if we are to watch.</Source>
+      <Dest>红卫人在斗兽场里战斗，就在我们说话的时候。他将毫无疑问地粉碎与他搏斗的可怜虫。如果我们想看的话，就必须快点了。</Dest>
     </String>
     <String List="2">
-      <Source>(Laughs) J'Sharr always did like to take his time. That is why he is a crowd favorite.</Source>
-      <Dest>(笑声) 洁莎总喜欢从从容容。这就是为什么他最受人群喜爱的原因。</Dest>
+      <Source>Do not worry, J'Sharr would not cross you. Nor does he want to be called two-tails.</Source>
+      <Dest>不要担心，洁莎不会超越你。他也不希望被叫作双尾。</Dest>
     </String>
     <String List="2">
-      <Source>So if it pleases you, he will mark the location of his next fight on the map. It changes from week to week you see.</Source>
-      <Dest>所以要是你喜欢这个，以后他会帮你把下一场比赛在地图上做个标记。要知道每星期的地方都不一样呢。</Dest>
+      <Source>(Laughs) This cat was not born yesterday. Still, J'Sharr will let you out of the cage soon enough, just give him a chance to explain.</Source>
+      <Dest>(笑声) 这只猫又不是三岁小孩。不过，洁莎能尽快把你从笼子里放出来的，给他个解释的机会吧。</Dest>
     </String>
     <String List="2">
-      <Source>They say the fights are held in cages, in barracks, on islands and in cellars.  As crowds are thin, it is dependent on a handful of sponsors.</Source>
-      <Dest>笼子、营房、岛、地窖，到处都有格斗比赛。至于观众的多少，要看主办方的手段了。</Dest>
+      <Source>Did J'Sharr say 1200? My mistake. J'Sharr is uneducated and very poor at arithmetic.</Source>
+      <Dest>我说的是1200吗？是我的错。洁莎没有受过教育，算数也很差。</Dest>
+    </String>
+    <String List="2">
+      <Source>You are quite generous to let J'Sharr keep all the profits. He must buy you a drink when it is time to celebrate.</Source>
+      <Dest>把所有的利润都交给杰夏尔？你真是太大方了。庆祝的时候他一定会请你喝酒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was never his intent to take you three forcefully. Had our friend simply agreed to join the fights, there would be no need for force of any kind.</Source>
+      <Dest>他的目的从来也不是强硬的带走你们三个。要是我们的朋友爽快的同意参战，那就没必要强迫任何人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're up. Good. J'Sharr was worried the poison might have been too much, considering it was made for that mammoth of a Redguard.</Source>
+      <Dest>你醒了。很好。考虑到这药是为一个红卫高大个儿准备的，洁莎还担心你吃多了呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>J'Sharr is very pleased with this victory. He will put this gold to good use.</Source>
+      <Dest>这场胜利让洁莎感到很高兴。他会善用这些钱的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) J'Sharr still hopes you will choose a third option, but he understands. He will take his beating when you return.</Source>
+      <Dest>(叹气) 洁莎还是希望你能有第三种选择，但是他能理解。他在你回来的时候会大吃一惊的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even a victory today will seem like a fluke against a weak opponent. We will have good action for a few more fights before their opinion sways.</Source>
+      <Dest>即使今天的胜利就像是侥幸战胜了一个战五渣的对手。我们也会在他们的意见摇摆不定之前在几场战斗中打得更好。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Trust J'Sharr when he tells you she is safe.</Source>
+      <Dest>当洁莎告诉你她安全的时候要相信她。</Dest>
     </String>
     <String List="2">
       <Source>Soon, as the coin flows and the crowds grow, there will be enough to build an Arena to rival Cyrodiil's. But for J'Sharr, this will have to do.</Source>
       <Dest>很快，随着资金和人力的增长，会有足够的资源建起能与赛瑞迪尔相匹敌的竞技场。不过对于洁沙来说，这也是不得不去做的。</Dest>
     </String>
     <String List="2">
-      <Source>That is unfortunate, but J'Sharr knows better than to argue with you. Perhaps though, you will do him a favor and watch his first match?</Source>
-      <Dest>那太不幸了，但洁莎不想和你一般见识。不过也许，你会帮他一个忙并去看他的第一场比赛？》</Dest>
+      <Source>Here, in the pits, I will handle the politics and keep us all safe.</Source>
+      <Dest>这边，在斗兽场里。让我来保证我们的安全。</Dest>
     </String>
     <String List="2">
-      <Source>J'Sharr is a stranger in these lands, and he will be more comfortable if he knows he is amongst friends.</Source>
-      <Dest>洁莎是初来这里，如果他知道周围的人都可以算是朋友那他大概会放松一些。</Dest>
+      <Source>They say the fights are held in cages, in barracks, on islands and in cellars.  As crowds are thin, it is dependent on a handful of sponsors.</Source>
+      <Dest>笼子、营房、岛、地窖，到处都有格斗比赛。至于观众的多少，要看主办方的手段了。</Dest>
     </String>
     <String List="2">
-      <Source>It is not J'Sharr's choice. He ran into much trouble with the Blademaster. There were accusations of gambling, bribery, and throwing fights.</Source>
-      <Dest>杰夏尔根本没有选择. 他最近撞到了剑圣手下. 赌博，行贿和暴力执法，这些指控够他受的.</Dest>
+      <Source>May you walk on warm sands.</Source>
+      <Dest>愿你的前路是温暖的沙地。</Dest>
     </String>
     <String List="2">
-      <Source>You know J'Sharr to be a cat of integrity, but this Blademaster had an agenda.</Source>
-      <Dest>你知道的，洁莎是个诚实的喵人, 但是这个剑术大师有个计划。</Dest>
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
     </String>
     <String List="2">
-      <Source>In any case, this new Arena, they are willing to look past J'Sharr's previous transgressions.</Source>
-      <Dest>无论如何，在这个新地方，他们愿意去看洁莎过去的罪行。</Dest>
+      <Source>So if it pleases you, he will mark the location of his next fight on the map. It changes from week to week you see.</Source>
+      <Dest>所以要是你喜欢这个，以后他会帮你把下一场比赛在地图上做个标记。要知道每星期的地方都不一样呢。</Dest>
     </String>
     <String List="2">
       <Source>It is fledgling, but it has promise. It just needs more fighters like yourself to join its ranks.</Source>
       <Dest>虽然才刚刚起步，但它已前景广阔。它需要的仅仅是更多像你一样的战士加入其中。</Dest>
     </String>
     <String List="2">
-      <Source>Is that why you're here? By the moons, you never change. J'Sharr assumed you were here for the same reason as he. For this new underground Arena.</Source>
-      <Dest>这就是为什么你在这里？月神在上，你从未变过。杰夏尔因为同样的理由而假设你在这里，就为这个新的地下竞技场。</Dest>
+      <Source>There is our Gladiator now. J'Sharr prefers this environment to the Arena. It is far more...intimate.</Source>
+      <Dest>现在这是我们的角斗士。洁莎喜欢这里的环境。这样显得很……亲密。</Dest>
     </String>
     <String List="2">
-      <Source>You misunderstand J'Sharr. It is a term of endearment. We started out as pit dogs, and it is a reminder of how far we have come.</Source>
-      <Dest>你误解洁莎了。这是一种表达亲昵的方式。我们以斗犬开始，这会让我们回想起我们曾是从遥远的地方来到这儿。</Dest>
+      <Source>J'Sharr is a stranger in these lands, and he will be more comfortable if he knows he is amongst friends.</Source>
+      <Dest>洁莎是初来这里，如果他知道周围的人都可以算是朋友那他大概会放松一些。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, this is when J'Sharr's hard work pays off.</Source>
+      <Dest>现在，杰夏尔的努力获得了回报。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is unfortunate, but J'Sharr knows better than to argue with you. Perhaps though, you will do him a favor and watch his first match?</Source>
+      <Dest>那太不幸了，但洁莎不想和你一般见识。不过也许，你会帮他一个忙并去看他的第一场比赛？》</Dest>
+    </String>
+    <String List="2">
+      <Source>You know J'Sharr to be a cat of integrity, but this Blademaster had an agenda.</Source>
+      <Dest>你知道的，洁莎是个诚实的喵人, 但是这个剑术大师有个计划。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, your friend and the girl are committed to at least one more fight. Bowing out now will cost us all of that and more.</Source>
+      <Dest>无论如何，你的朋友和这个女孩儿得保证至少去打一场战斗。现在退出使我们付出的代价比这可多多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If not for his strange affinity for lesser creatures, he would have been Grand Champion.</Source>
+      <Dest>如果不是他对小动物的奇特吸引力，他会是伟大的冠军。</Dest>
     </String>
     <String List="2">
       <Source>Gorr! So you are in Skyrim after all. J'Sharr would ask you to sit down, but there isn't enough room for one of your size.</Source>
       <Dest>噢！你到底还是在天际省。洁莎会让你坐下，可惜你的身子太大了，这里没地儿。</Dest>
     </String>
     <String List="2">
+      <Source>And as fortune would have it, our opponents are favored three to one.</Source>
+      <Dest>幸运的一方会拥有它，我们的对手似乎喜欢三对一。</Dest>
+    </String>
+    <String List="2">
       <Source>Not to mention it would be rude to your lady friend.</Source>
       <Dest>更不用说它会对你的女性朋友不客气了。</Dest>
     </String>
     <String List="2">
-      <Source>Yes?</Source>
-      <Dest>什么？</Dest>
+      <Source>(Laughs) J'Sharr always did like to take his time. That is why he is a crowd favorite.</Source>
+      <Dest>(笑声) 洁莎总喜欢从从容容。这就是为什么他最受人群喜爱的原因。</Dest>
     </String>
     <String List="2">
       <Source>Safe journeys.</Source>
       <Dest>一路顺风！</Dest>
     </String>
     <String List="2">
-      <Source>May you walk on warm sands.</Source>
-      <Dest>祝你一路顺风。</Dest>
+      <Source>In any case, this new Arena, they are willing to look past J'Sharr's previous transgressions.</Source>
+      <Dest>无论如何，在这个新地方，他们愿意去看洁莎过去的罪行。</Dest>
     </String>
     <String List="2">
-      <Source>Until next time.</Source>
-      <Dest>下回见。</Dest>
+      <Source>J'Sharr is sorry. This was the only way.  But in the end you will all thank him.</Source>
+      <Dest>杰沙感到很抱歉。但除此之外别无他法。而且到最后你会十分感谢他的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not J'Sharr's choice. He ran into much trouble with the Blademaster. There were accusations of gambling, bribery, and throwing fights.</Source>
+      <Dest>杰夏尔根本没有选择. 他最近撞到了剑圣手下. 赌博，行贿和暴力执法，这些指控够他受的.</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing. It was a poor choice of words. The girl is not a prisoner, no more than you.</Source>
+      <Dest>没事。语言真是苍白无力。你够了，那个女孩不是罪犯。</Dest>
+    </String>
+    <String List="2">
+      <Source>In his prime, our friend was a great arena fighter. Few can last so long without playing the politics. </Source>
+      <Dest>在他年富力强的时候，我们的朋友曾是位伟大的竞技场斗士。能做到一直与政治绝缘的人非常少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, the bigger the title, the more adept one must be outside the arena.  His choice to leave may have saved his life.</Source>
+      <Dest>当然，头衔越大说明竞技场里面那位来头越大，他选择离开说不定正让他捡了一条命。</Dest>
+    </String>
+    <String List="2">
+      <Source>You misunderstand J'Sharr. It is a term of endearment. We started out as pit dogs, and it is a reminder of how far we have come.</Source>
+      <Dest>你误解洁莎了。这是一种表达亲昵的方式。我们以斗犬开始，这会让我们回想起我们曾是从遥远的地方来到这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but J'Sharr knows all the angles. He knows that an innocent pat on the back, can carry with it a needle of poison.</Source>
+      <Dest>啊，但洁莎精通所有的伎俩。他知道如何虚与委蛇，绵里藏针。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) If you dislike gold that much, it cannot be helped. But here is your share. 500 septims.</Source>
+      <Dest>（叹气）就算你不喜欢那么多金子，这也无可避免啊。这是你那份儿。500金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that why you're here? By the moons, you never change. J'Sharr assumed you were here for the same reason as he. For this new underground Arena.</Source>
+      <Dest>这就是为什么你在这里？月神在上，你从未变过。杰夏尔因为同样的理由而假设你在这里，就为这个新的地下竞技场。</Dest>
     </String>
     <String List="2">
       <Source>Until next we meet.</Source>

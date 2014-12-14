@@ -6,681 +6,661 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>Wow.  You got bricks in your gloves?  Because you punch like it.  You win this round.  Here.  Gold's yours.</Source>
-      <Dest>哇。你在你的手套里塞砖头了吗？简直跟砖头一样硬。这一轮你赢了。这是你的金币。</Dest>
-    </String>
     <String List="0">
-      <Source>I think I've earned that 100 gold.</Source>
-      <Dest>我想你该付我那100金币了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn.  Here I thought that old Haakon was the toughest son of a bitch I ever fought.  But you're a cut above.</Source>
-      <Dest>该死的。我以为老哈根是我遇过最棘手的浑蛋，没想到你比他更行。</Dest>
-    </String>
-    <String List="0">
-      <Source>Maybe you just need to find a mirror.  Then you'll see.</Source>
-      <Dest>也许你只是需要找一面镜子，那样你就会看见了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh?  I don't get it.  I'll just see myself.</Source>
-      <Dest>嗯？我不大明白。我会亲眼去看看。</Dest>
-    </String>
-    <String List="0">
-      <Source>My name is &lt;Alias=Player&gt;.  I wanted to meet you.</Source>
-      <Dest>我的名字是 &lt;Alias=Player&gt;。我是想见你的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Why? Did Angrenor send you? Or was it the Captain?  But if you've come to brawl, the joke's on you.</Source>
-      <Dest>Why? Did Angrenor send you? Or was it the Captain?  But if you've come to brawl, the joke's on you.</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't you think beating people to a pulp is a bit excessive?</Source>
-      <Dest>你不觉得把人打个半死有点过分吗?</Dest>
-    </String>
-    <String List="2">
-      <Source>No way.  My Da taught me that words can hit as hard as any fist, so don't feel bad for punching them back.</Source>
-      <Dest>没门儿！我爹告诉我，以语言伤人可比用拳头砸人还狠，所以毫不留情地还击他们吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you a brawler?</Source>
-      <Dest>你是一个拳手?</Dest>
-    </String>
-    <String List="2">
-      <Source>I am. One of the best in all of Skyrim. Got a punch that will break iron, and a chin like Skyforge Steel.</Source>
-      <Dest>我，是全天际省最强的拳手之一。只要挥一拳就能打穿铁甲，干碎天空熔炉做的钢下巴。</Dest>
-    </String>
-    <String List="0">
-      <Source>No, I was just being sarcastic. Something you're incapable of understanding.</Source>
-      <Dest>不，我只是讽刺而已。有些东西是你没法理解的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I knew it. You're having a laugh, aren't you?  Figures.  All the new folks show up and the first thing they do is pick on Valla.</Source>
-      <Dest>I knew it. You're having a laugh, aren't you?  Figures.  All the new folks show up and the first thing they do is pick on Valla.</Dest>
-    </String>
-    <String List="0">
-      <Source>No, I was just being sarcastic. Something you're incapable of understanding.</Source>
-      <Dest>不，我只是讽刺而已。有些东西是你没法理解的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I don't need any of your company.  Valla doesn't need anything but her fists.</Source>
-      <Dest>呃，我不需要由你来作伴。瓦拉除了她的拳头以外什么也不需要。</Dest>
+      <Source>I saw a big Nord cow having a drink and I wanted to meet her.</Source>
+      <Dest>我看见过一只硕大的诺德奶牛在喝东西，我很想见见她。</Dest>
     </String>
     <String List="0">
       <Source>I just wanted to talk.</Source>
       <Dest>我只是想谈谈。</Dest>
     </String>
-    <String List="2">
-      <Source>All right.  Speak.  I'll take on any challenger.  All I need is a name.</Source>
-      <Dest>好吧，请讲。我会接受任何挑战。只要你报上名来。</Dest>
+    <String List="0">
+      <Source>How did it turn out?</Source>
+      <Dest>结果如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did it turn out?</Source>
+      <Dest>结果如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did it turn out?</Source>
+      <Dest>结果如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem rather guarded.</Source>
+      <Dest>你看起来相当谨慎。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you aren't as strong as you think.</Source>
+      <Dest>也许你没有你想象的那么厉害。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the brawl with the soldier.</Source>
+      <Dest>告诉我，你跟那士兵吵了些什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the brawl with the soldier.</Source>
+      <Dest>告诉我，你跟那士兵吵了些什么。</Dest>
     </String>
     <String List="0">
       <Source>What if I said you intrigue me.  Would you like that?</Source>
       <Dest>如果我说你陷害我又怎么样？你会喜欢吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I...I don't know what you mean.  Are you angling for a fight?  Got a strange way of showing it.</Source>
-      <Dest>我...我不明白你什么意思，你想打架？表现的方式还真奇怪。</Dest>
+    <String List="0">
+      <Source>Don't you think beating people to a pulp is a bit excessive?</Source>
+      <Dest>你不觉得把人打个半死有点过分吗?</Dest>
     </String>
     <String List="0">
       <Source>Then what happened?</Source>
       <Dest>那么发生了什么事情？</Dest>
     </String>
-    <String List="2">
-      <Source>The brawl part was easy. Too easy. I caught him good on the chin, and he dropped to a knee.</Source>
-      <Dest>打架那部分很轻松。太轻松了。我在他下巴上狠狠来了一拳，然后他就双膝跪地了。</Dest>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
     </String>
     <String List="0">
       <Source>Then what happened?</Source>
       <Dest>那么发生了什么事情？</Dest>
     </String>
-    <String List="2">
-      <Source>When it was over, Stenvar said keep the gold, 'cause teaching me was a waste of time.  I was better off without a weapon.</Source>
-      <Dest>结果到最后，斯顿伐拒绝收钱，说教导我完全是浪费时间，于是我只能空着手离开。</Dest>
+    <String List="0">
+      <Source>I wasn't laughing at you.  I was laughing with you.</Source>
+      <Dest>我没在嘲笑你，只是看着你笑我也笑了。</Dest>
     </String>
     <String List="0">
-      <Source>Then what happened?</Source>
-      <Dest>那么发生了什么事情？</Dest>
-    </String>
-    <String List="2">
-      <Source>I told him I wanted to learn anyway, but he didn't get it.  Men are so stupid.</Source>
-      <Dest>我告诉过他我不管以何种方式都还要继续学习，但他就是不懂。男人真是愚蠢。</Dest>
+      <Source>It's funny how people who get mocked always blame others for their stupidity.</Source>
+      <Dest>可笑的是，人们总是将自己被嘲笑这件事怪罪于别人，明明就是因为他们自己太蠢。</Dest>
     </String>
     <String List="0">
-      <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
+      <Source>You're on. (Brawl - 100 gold)</Source>
+      <Dest>来吧。(打架 - 100金币)</Dest>
     </String>
-    <String List="2">
-      <Source>It was with Stenvar, and it wasn't supposed to be a brawl.  I just wanted to talk to him.  You know, to ask him how to fight with a weapon.</Source>
-      <Dest>那是在跟斯顿伐对战，这不该被称作为打斗。我只是想跟他聊聊天，你知道的，只是想向他讨教下如何用武器来战斗。</Dest>
+    <String List="0">
+      <Source>You're on. (Brawl - 100 gold)</Source>
+      <Dest>来吧。(打架 - 100金币)</Dest>
     </String>
     <String List="0">
       <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn sellsword told me he doesn't do anything for free.  So I challenged him to a brawl.</Source>
-      <Dest>该死的佣兵跟我说没报酬的事儿他不干，于是我狠狠跟他打了场拳赛。</Dest>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
     </String>
     <String List="0">
       <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
-    </String>
-    <String List="2">
-      <Source>If he won, he'd get 500 gold for doing nothing.  If he lost, I'd have the money to hire him.  Either way, he gets paid.</Source>
-      <Dest>如果他赢了，他能白拿500个金币。如果他输了，我就必须花钱雇他。无论哪种情况，都是他赚。</Dest>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
     </String>
     <String List="0">
       <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was with Stenvar, before he died.  I just wanted to talk to him.  You know, ask him how to fight with a weapon.</Source>
-      <Dest>是和斯顿伐，在他去世之前。我只想跟他谈谈。你知道的，问他该如何使用武器战斗。</Dest>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
     </String>
     <String List="0">
       <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn sellsword told me he doesn't do anything for free.  So I challenged him to a brawl.</Source>
-      <Dest>该死的佣兵跟我说没报酬的事儿他不干，于是我狠狠跟他打了场拳赛。</Dest>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
     </String>
     <String List="0">
       <Source>I'm interested in the brawl with the Sellsword.</Source>
-      <Dest>我对与佣兵对战挺有兴趣的。</Dest>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
     </String>
-    <String List="2">
-      <Source>If he won, he'd get 500 gold for doing nothing.  If he lost, I'd have the money to hire him.  Either way, he gets paid.</Source>
-      <Dest>如果他赢了，他能白拿500个金币。如果他输了，我就必须花钱雇他。无论哪种情况，都是他赚。</Dest>
+    <String List="0">
+      <Source>I'm interested in the brawl with the Sellsword.</Source>
+      <Dest>我对与佣兵干架还挺有兴趣的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem like a capable fighter.  You'd make a good soldier.</Source>
+      <Dest>你看起来是个有能力的战士. 你是个好战士。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's an impressive chin.  It's bigger than your whole face.</Source>
+      <Dest>那下巴还真让人印象深刻，它比你的整张脸还大。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's an impressive chin.  It's bigger than your whole face.</Source>
+      <Dest>那下巴还真让人印象深刻，它比你的整张脸还大。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you a brawler?</Source>
+      <Dest>你是一个拳手?</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you're just difficult to talk to.</Source>
+      <Dest>也许只是难以与你交流。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?  What do they have to say?</Source>
+      <Dest>你是怎么个意思？他们有什么非说不可的话？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?  What do they have to say?</Source>
+      <Dest>你是怎么个意思？他们有什么非说不可的话？</Dest>
+    </String>
+    <String List="0">
+      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
+      <Dest>我知道你就是个没幽默感的，丑得要死的家伙，估计蛤蟆人都喊你亲娘吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
+      <Dest>我知道你就是个没幽默感的，丑得要死的家伙，估计蛤蟆人都喊你亲娘吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
+      <Dest>我知道你就是个没幽默感的，丑得要死的家伙，估计蛤蟆人都喊你亲娘吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
+      <Dest>我知道你就是个没幽默感的，丑得要死的家伙，估计蛤蟆人都喊你亲娘吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can we brawl for less than 100?</Source>
+      <Dest>我们可以至少押100金币来打一架吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe you just need to find a mirror.  Then you'll see.</Source>
+      <Dest>也许你只是需要找一面镜子，那样你就会看见了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not at all. I just think you need to speak with someone who respects you.</Source>
+      <Dest>也不全是那样。我只是觉得你应该与尊重你的人对话。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think I've earned that 100 gold.</Source>
+      <Dest>我想你该付我那100金币了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any decent brawling stories?</Source>
+      <Dest>你有没有一些像样的关于拳赛的故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any decent brawling stories?</Source>
+      <Dest>你有没有一些像样的关于拳赛的故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any decent brawling stories?</Source>
+      <Dest>你有没有一些像样的关于拳赛的故事？</Dest>
     </String>
     <String List="0">
       <Source>Oh, I apologize, I mistook you for someone important.</Source>
       <Dest>噢，我很抱歉。我还以为你是什么重要人物来着。</Dest>
     </String>
-    <String List="2">
-      <Source>What's that supposed to mean, soft-gut?  You telling me I ain't worth talking to?  I'll crack your head open like an egg.</Source>
-      <Dest>你什么意思，窝囊废？你说我不配和你说话？我会像砸蛋一样打烂你的脑袋。</Dest>
+    <String List="0">
+      <Source>If you're so tough, what are you doing here?  There's a war going on, you know.</Source>
+      <Dest>如果你这么强壮，那你还留在这里做什么？外面还在打仗呢, 你知道的。</Dest>
     </String>
     <String List="0">
-      <Source>Do you have any decent brawling stories?</Source>
-      <Dest>你有没有一些像样的争吵的故事？</Dest>
+      <Source>My name is &lt;Alias=Player&gt;.  I wanted to meet you.</Source>
+      <Dest>我的名字是 &lt;Alias=Player&gt;。我是很想会会你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Um...I...uh...</Source>
+      <Dest>嗯…我…呃……</Dest>
+    </String>
+    <String List="0">
+      <Source>No, I was just being sarcastic. Something you're incapable of understanding.</Source>
+      <Dest>不，我只是讽刺而已。有些东西是你没法理解的。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, I was just being sarcastic. Something you're incapable of understanding.</Source>
+      <Dest>不，我只是讽刺而已。有些东西是你没法理解的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Impressive.  Beaten anyone I know?</Source>
+      <Dest>厉害啊，有我认识的人败在你手下吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You just need more interesting topics.  Like the mating habits of mudcrabs.</Source>
+      <Dest>你们只是需要一点有趣的话题...比如螃蟹的交配习惯什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You just need more interesting topics.  Like the mating habits of mudcrabs.</Source>
+      <Dest>你们只是需要一点有趣的话题...比如螃蟹的交配习惯什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've got better things to do.</Source>
+      <Dest>我有更重要的事情要做。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's jealousy, pure and simple.</Source>
+      <Dest>这就是嫉妒，赤裸裸的嫉妒。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's why I'm talking to you now.</Source>
+      <Dest>所以现在我来找你谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's why I'm talking to you now.</Source>
+      <Dest>所以现在我来找你谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he won, he'd get 500 gold for doing nothing.  If he lost, I'd have the money to hire him.  Either way, he gets paid.</Source>
+      <Dest>如果他赢了，他能白拿500个金币。如果他输了，我就必须花钱雇他。无论哪种情况，都是他赚。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he won, he'd get 500 gold for doing nothing.  If he lost, I'd have the money to hire him.  Either way, he gets paid.</Source>
+      <Dest>如果他赢了，他能白拿500个金币。如果他输了，我就必须花钱雇他。无论哪种情况，都是他赚。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am. One of the best in all of Skyrim. Got a punch that will break iron, and a chin like Skyforge Steel.</Source>
+      <Dest>我，是全天际省最强的拳手之一。只要挥一拳就能打穿铁甲，干碎天空熔炉做的钢下巴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph. You got trouble with someone, settle it with fists, not catapults.</Source>
+      <Dest>哼。你和某人起纠纷了，正面上用拳头解决吧，不要暗箭伤人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. Fists only. You use magic, I break your neck.</Source>
+      <Dest>很好，只准用拳头。你要是敢用魔法，我就一拳打断你脖子。</Dest>
+    </String>
+    <String List="2">
+      <Source>No way.  My Da taught me that words can hit as hard as any fist, so don't feel bad for punching them back.</Source>
+      <Dest>没门儿！我爹告诉我，以语言伤人可比用拳头砸人还狠，所以毫不留情地还击他们吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyone in this inn is a bloody jester.  Always picking on Valla.  Well, we'll see how well they giggle, when I stomp on their throats.</Source>
+      <Dest>这家酒馆的每个人都是一个血腥的小丑。他们总是作弄瓦拉。好极了，让我们瞧瞧当我把他们的喉咙踩在脚下时，他们还怎么咯咯地笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course you do.</Source>
+      <Dest>你当然需要。</Dest>
+    </String>
+    <String List="2">
+      <Source>You got a knot in your throat, mudcrab?  Out with it!</Source>
+      <Dest>你还是个男人吗，软脚虾？快点儿说！</Dest>
+    </String>
+    <String List="2">
+      <Source>I told him I wanted to learn anyway, but he didn't get it.  Men are so stupid.</Source>
+      <Dest>我告诉过他我不管以何种方式都还要继续学习，但他就是不懂。男人真是愚蠢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're all talk, knife ears.  Those aren't fighting words.  They're cries for help.</Source>
+      <Dest>你就吹吧，尖耳朵。那不是在挑衅，那是他们在求救。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?  I don't get it.  I'll just see myself.</Source>
+      <Dest>嗯？我不大明白。我会亲眼去看看。</Dest>
     </String>
     <String List="2">
       <Source>You should ask your friend.  He punches like an ox.  But yeah, I got a story or two worth telling.</Source>
       <Dest>你应该问问你的朋友。他打起架来就像头公牛。不过，没错，我这里还有一两个不错的故事可以讲。</Dest>
     </String>
-    <String List="0">
-      <Source>Do you have any decent brawling stories?</Source>
-      <Dest>你有没有一些像样的争吵的故事？</Dest>
+    <String List="2">
+      <Source>When it was over, Stenvar said keep the gold, 'cause teaching me was a waste of time.  I was better off without a weapon.</Source>
+      <Dest>结果到最后，斯顿伐拒绝收钱，说教导我完全是浪费时间，于是我只能空着手离开。</Dest>
     </String>
     <String List="2">
       <Source>I've fought all sorts. Soldiers, miners, sellswords, and even a priest.</Source>
       <Dest>我跟什么人都打过架。士兵，矿工， 佣兵，甚至是牧师。</Dest>
     </String>
-    <String List="0">
-      <Source>Do you have any decent brawling stories?</Source>
-      <Dest>你有没有一些像样的争吵的故事？</Dest>
+    <String List="2">
+      <Source>Well, I don't need any of your company.  Valla doesn't need anything but her fists.</Source>
+      <Dest>呃，我不需要由你来作伴。瓦拉除了她的拳头以外什么也不需要。</Dest>
     </String>
     <String List="2">
-      <Source>Yeah, I got a story or two worth telling.  I've fought all sorts. Soldiers, miners, sellswords, and even a priest.</Source>
-      <Dest>是的, 我也是个有故事的人呐。我经历过很多战斗，也从事过许多职业，士兵、 旷工、佣兵、甚至是牧师，这些我都做过。</Dest>
+      <Source>He was a better fighter, but I wore him out. I was about to drop him to a knee, when Galmar called his dogs back to the pen.</Source>
+      <Dest>他是一个不错的战士，但我让他筋疲力尽了。当加尔玛让他的狗们返回笼子的时候，我正准备让他和我的膝盖来一次亲密接触。</Dest>
     </String>
-    <String List="0">
-      <Source>Maybe you're just difficult to talk to.</Source>
-      <Dest>也许只是难以与你交流。</Dest>
+    <String List="2">
+      <Source>You're all talk, sand-licker.  Those aren't fighting words.  They're cries for help.</Source>
+      <Dest>你就瞎说吧，舔沙子的。那听起来可不像是战斗的声音，他们在哭喊着寻求帮助呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>He wanted to keep going.  But I told him forget it.  He could keep the name.  His fists punched harder than mine ever could.</Source>
+      <Dest>他想继续来。但我告诉他忘了这件事儿吧。他可以继续保留这个名字。他的拳头打的可比我猛力多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're all talk, scaleback.  Those aren't fighting words.  They're cries for help.</Source>
+      <Dest>你就瞎说吧，小蜥蜴。那不是在挑衅，那是他们在哭喊着求救呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>True to his word, he punched like iron.  But on that day, my chin could chip steel.</Source>
+      <Dest>他真的那么做了，他的拳头像铁那么硬。但那天，我的下巴连钢都能震碎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh...well, I knew that.  I was just talking about everyone else.  You're okay, as far as jesters go.</Source>
+      <Dest>哦，我知道。我只是在说其他人。你没问题，只要小丑能走人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn.  Here I thought that old Haakon was the toughest son of a bitch I ever fought.  But you're a cut above.</Source>
+      <Dest>该死的。我以为老哈康是我遇过最棘手的浑蛋，没想到你比他更行。</Dest>
+    </String>
+    <String List="2">
+      <Source>What people?  Who are you talking about?  I don't get it.</Source>
+      <Dest>什么样的人？你在说谁呢？我都搞糊涂了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It ain't nothing I can put my finger on.  Just seems like the more I get to know someone, the more they're having a laugh. Only I ain't laughing.</Source>
+      <Dest>我自己都无法认清我自己了。每当我愈发深入地了解某个人，他们就会笑得愈烈。而我，是唯一不笑的那个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?  Mudcrabs?  That sounds boring.  And why are you smiling like that?  Are you laughing at me?</Source>
+      <Dest>嗯？螃蟹？听起来真无聊。你为什么那么笑？你在嘲笑我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was with Stenvar, and it wasn't supposed to be a brawl.  I just wanted to talk to him.  You know, to ask him how to fight with a weapon.</Source>
+      <Dest>那是在跟斯顿伐对战，这不该被称作为打斗。我只是想跟他聊聊天，你知道的，只是想向他讨教下如何用武器来战斗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not just any soldier.  Some high ranking Stormcloak.  They called him Iron-Fist.  That's what they used to call me.  Valla the Iron-Fist.</Source>
+      <Dest>不只是普通的士兵。而是一个高级别的风暴斗篷。他们叫他铁腕。他们以前是那么叫我的。铁腕瓦拉。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, that ain't it.  Not one person here will say I ain't tough.  It's something else they don't respect.  Hmph.  As if I care what they think.</Source>
+      <Dest>不，不是这个。这里的人个个都说我是个铁血真汉子。他们不尊重的是其他东西。哼。就跟我在乎他们怎么想似的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow.  You got bricks in your gloves?  Because you punch like it.  You win this round.  Here.  Gold's yours.</Source>
+      <Dest>哇。你在你的手套里塞砖头了吗？简直跟砖头一样硬。这一轮你赢了。这是你的金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know what you're doing.  Adonato does it all the time.  He calls it a left-handed compliment, I think.</Source>
+      <Dest>我知道你在干什么。阿多纳托终其一生都在干这件事。我想，他把这称作毫无诚意的恭维。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're all talk, thumb-drinker.  Those aren't fighting words.  They're cries for help.</Source>
+      <Dest>你就瞎说吧，奶瓶嘴儿。那不是在挑衅，那是他们在哭喊着求救呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph. Don't have the coin, huh. I figured as much.</Source>
+      <Dest>哼。没有钱，是吧。我也这么想。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I don't know what you mean.  Are you angling for a fight?  Got a strange way of showing it.</Source>
+      <Dest>我...我不明白你什么意思，你想打架？表现的方式还真奇怪。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought so.  That or they're too intimidated by me.  Most Nord men want a woman who can fight, but one they can best.  No one can best me.</Source>
+      <Dest>我也这么想。或许他们太害怕我了。大多数的诺德男人都想要一个战斗力很强，但却打不过自己的女人。但是没人能打败我。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's that supposed to mean, soft-gut?  You telling me I ain't worth talking to?  I'll crack your head open like an egg.</Source>
+      <Dest>你什么意思，窝囊废？你说我不配和你说话？我会像砸蛋一样打烂你的脑袋。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right.  Speak.  I'll take on any challenger.  All I need is a name.</Source>
+      <Dest>好吧，请讲。我会接受任何挑战。只要你报上名来。</Dest>
     </String>
     <String List="2">
       <Source>No I'm not.  You don't know what you're talking about.  You don't know me.</Source>
       <Dest>不，不是你说的那样。你肯定不知道你在说些什么。你不了解我。</Dest>
     </String>
     <String List="2">
-      <Source>What?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?  What do they have to say?</Source>
-      <Dest>你是怎么个意思？他们有什么非说不可的话？</Dest>
+      <Source>The brawl part was easy. Too easy. I caught him good on the chin, and he dropped to a knee.</Source>
+      <Dest>打架那部分很轻松。太轻松了。我在他下巴上狠狠来了一拳，然后他就双膝跪地了。</Dest>
     </String>
     <String List="2">
-      <Source>It ain't nothing I can put my finger on.  Just seems like the more I get to know someone, the more they're having a laugh. Only I ain't laughing.</Source>
-      <Dest>我自己都无法认清我自己了。每当我愈发深入地了解某个人，他们就会笑得愈烈。而我，是唯一不笑的那个人。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?  What do they have to say?</Source>
-      <Dest>你是怎么个意思？他们有什么非说不可的话？</Dest>
+      <Source>Most of it sounds like insults to me.  My Da taught me that words can hit as hard as any fist, so don't feel bad for punching them back.</Source>
+      <Dest>大多数时候那些听起来就像是在羞辱我。我爹告诉我，以语言伤人可比用拳头砸人还狠，所以毫不留情地还击他们吧。</Dest>
     </String>
     <String List="2">
-      <Source>I don't get it.  I'm a strong Nord woman.  I don't see what's so funny.</Source>
-      <Dest>I don't get it.  I'm a strong Nord woman.  I don't see what's so funny.</Dest>
-    </String>
-    <String List="0">
-      <Source>It's funny how people who get mocked always blame others for their stupidity.</Source>
-      <Dest>这是多么有趣的人谁得到嘲笑总是责怪别人为他们的愚蠢。</Dest>
+      <Source>I know you're trying, but it ain't like you talk.  It's more you're telling me what you think.  That's what everyone does, and they call it advice.</Source>
+      <Dest>我知道你在试着说服我，但这并不像你说的那样。你只是在表达你的想法，就像其他人做的那样，他们还将其称为建议。</Dest>
     </String>
     <String List="2">
-      <Source>What people?  Who are you talking about?  I don't get it.</Source>
-      <Dest>什么样的人？你在说谁呢？我都搞糊涂了。</Dest>
+      <Source>Well, if that's what that was, then I've got some knuckle pie for you, and you better believe it's bad for your teeth.</Source>
+      <Dest>好吧，如果真如他所说，那我能给你嘴里塞几记铁饼，你最好清楚它可是对你的牙口一点好处都没有。</Dest>
     </String>
-    <String List="0">
-      <Source>You seem like a capable fighter.  You'd make a good soldier.</Source>
-      <Dest>你看起来是个有能力的战士. 你是个好战士。</Dest>
+    <String List="2">
+      <Source>Is this some sort of trick?  No one's this nice.  But I...I don't need your respect.  It'd just make me a soft-belly.</Source>
+      <Dest>这是什么新的捉弄人的方法吗？哪有这样的好心人。不过我...我不需要你的尊重。这会成为我的软肋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn sellsword told me he doesn't do anything for free.  So I challenged him to a brawl.</Source>
+      <Dest>该死的佣兵跟我说没报酬的事儿他不干，于是我狠狠跟他打了场拳赛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn sellsword told me he doesn't do anything for free.  So I challenged him to a brawl.</Source>
+      <Dest>该死的佣兵跟我说没报酬的事儿他不干，于是我狠狠跟他打了场拳赛。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was with Stenvar, before he died.  I just wanted to talk to him.  You know, ask him how to fight with a weapon.</Source>
+      <Dest>是和斯顿伐，在他去世之前。我只想跟他谈谈。你知道的，问他该如何使用武器战斗。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't like company.  Never amounted to anything.  Most people talk, and I don't like what they have to say.</Source>
+      <Dest>我不喜欢同伴。他们往往一无是处，话还非常多，说的还不是我喜欢听的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, I got a story or two worth telling.  I've fought all sorts. Soldiers, miners, sellswords, and even a priest.</Source>
+      <Dest>是的, 我也是个有故事的人呐。我经历过很多战斗，也从事过许多职业，士兵、 旷工、佣兵、甚至是牧师，这些我都做过。</Dest>
     </String>
     <String List="2">
       <Source>I know I'd make a good soldier.  Just don't want to be one is all.  Prefer to fight man to man, with the tools the Gods gave us.</Source>
       <Dest>我知道我是个好士兵。但我想要的并不是扬名立万，我只求能以神予之神器，与神赐之对手快意情仇。</Dest>
     </String>
     <String List="0">
-      <Source>You just need more interesting topics.  Like the mating habits of mudcrabs.</Source>
-      <Dest>你们只是需要一点有趣的话题……比如螃蟹的交配习惯什么的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh?  Mudcrabs?  That sounds boring.  And why are you smiling like that?  Are you laughing at me?</Source>
-      <Dest>嗯？螃蟹？听起来真无聊。你为什么那么笑？你在嘲笑我吗？</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
-      <Source>You just need more interesting topics.  Like the mating habits of mudcrabs.</Source>
-      <Dest>你们只是需要一点有趣的话题……比如螃蟹的交配习惯什么的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Everyone in this inn is a bloody jester.  Always picking on Valla.  Well, we'll see how well they giggle, when I stomp on their throats.</Source>
-      <Dest>这家酒馆的每个人都是一个血腥的小丑。他们总是作弄瓦拉。好极了，让我们瞧瞧当我把他们的喉咙踩在脚下时，他们还怎么咯咯地笑。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem rather guarded.</Source>
-      <Dest>你看起来相当谨慎。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't like company.  Never amounted to anything.  Most people talk, and I don't like what they have to say.</Source>
-      <Dest>我不喜欢同伴。他们往往一无是处，话还非常多，说的还不是我喜欢听的话。</Dest>
-    </String>
-    <String List="0">
-      <Source>If you're so tough, what are you doing here?  There's a war going on, you know.</Source>
-      <Dest>如果你这么强壮 , 你留在这里做什么? 战争还在继续, 你知道的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmph. You got trouble with someone, settle it with fists, not catapults.</Source>
-      <Dest>哼。你和某人起纠纷了，正面上用拳头解决吧，不要暗箭伤人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Um...I...uh...</Source>
-      <Dest>嗯…我…呃……</Dest>
-    </String>
-    <String List="2">
-      <Source>You got a knot in your throat, mudcrab?  Out with it!</Source>
-      <Dest>你还是个男人吗，软脚虾？快点儿说！</Dest>
-    </String>
-    <String List="0">
-      <Source>I saw a big Nord cow having a drink and I wanted to meet her.</Source>
-      <Dest>我看见过一只硕大的诺德奶牛在喝东西，我很想见见她。</Dest>
-    </String>
-    <String List="2">
-      <Source>And my fists want to meet you.  Keep insulting me and I'll introduce you to them.</Source>
-      <Dest>And my fists want to meet you.  Keep insulting me and I'll introduce you to them.</Dest>
-    </String>
-    <String List="0">
-      <Source>That's an impressive chin.  It's bigger than your whole face.</Source>
-      <Dest>那是个令人印象深刻的下巴，比你的整个脸还大。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know what you're doing.  Adonato does it all the time.  He calls it a left-handed compliment, I think.</Source>
-      <Dest>我知道你在干什么。阿多纳托终其一生都在干这件事。我想，他把这称作毫无诚意的恭维。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's an impressive chin.  It's bigger than your whole face.</Source>
-      <Dest>那是个令人印象深刻的下巴，比你的整个脸还大。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, if that's what that was, then I've got some knuckle pie for you, and you better believe it's bad for your teeth.</Source>
-      <Dest>好吧，如果真如他所说，那我能给你嘴里塞几记铁饼，你最好清楚它可是对你的牙口一点好处都没有。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's why I'm talking to you now.</Source>
-      <Dest>所以现在我来找你谈。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know you're trying, but it ain't like you talk.  It's more you're telling me what you think.  That's what everyone does, and they call it advice.</Source>
-      <Dest>我知道你在试着说服我，但这并不像你说的那样。你只是在表达你的想法，就像其他人做的那样，他们还将其称为建议。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's why I'm talking to you now.</Source>
-      <Dest>所以现在我来找你谈。</Dest>
-    </String>
-    <String List="2">
-      <Source>Most of it sounds like insults to me.  My Da taught me that words can hit as hard as any fist, so don't feel bad for punching them back.</Source>
-      <Dest>大多数时候那些听起来就像是在羞辱我。我爹告诉我，以语言伤人可比用拳头砸人还狠，所以毫不留情地还击他们吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I wasn't laughing at you.  I was laughing with you.</Source>
-      <Dest>我没在嘲笑你，只是看着你笑我也笑了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh...well, I knew that.  I was just talking about everyone else.  You're okay, as far as jesters go.</Source>
-      <Dest>哦，我知道。我只是在说其他人。你没问题，只要小丑能走人。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
-      <Dest>我知道你这家伙就是个没幽默感的，丑得要死的蛤蟆人的亲娘。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're all talk, scaleback.  Those aren't fighting words.  They're cries for help.</Source>
-      <Dest>你就瞎说吧，小蜥蜴。那不是在挑衅，那是他们在哭喊着求救呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
-      <Dest>我知道你这家伙就是个没幽默感的，丑得要死的蛤蟆人的亲娘。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're all talk, knife ears.  Those aren't fighting words.  They're cries for help.</Source>
-      <Dest>你就吹吧，尖耳朵。那不是在挑衅，那是他们在求救。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
-      <Dest>我知道你这家伙就是个没幽默感的，丑得要死的蛤蟆人的亲娘。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're all talk, sand-licker.  Those aren't fighting words.  They're cries for help.</Source>
-      <Dest>你就瞎说吧，舔沙子的。那听起来可不像是战斗的声音，他们在哭喊着寻求帮助呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know you're a humorless, ugly, mother of a Sload.</Source>
-      <Dest>我知道你这家伙就是个没幽默感的，丑得要死的蛤蟆人的亲娘。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're all talk, thumb-drinker.  Those aren't fighting words.  They're cries for help.</Source>
-      <Dest>你就瞎说吧，奶瓶嘴儿。那不是在挑衅，那是他们在哭喊着求救呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>Impressive.  Beaten anyone I know?</Source>
-      <Dest>牛啊，有我认识的人败在你手下吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Definitely.  I've beaten everyone you know, and people you've only heard of.  </Source>
-      <Dest>Definitely.  I've beaten everyone you know, and people you've only heard of.  </Dest>
-    </String>
-    <String List="0">
-      <Source>How did it turn out?</Source>
-      <Dest>结果如何?</Dest>
-    </String>
-    <String List="2">
-      <Source>True to his word, he punched like iron.  But on that day, my chin could chip steel.</Source>
-      <Dest>他真的那么做了，他的拳头像铁那么硬。但那天，我的下巴连钢都能震碎。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did it turn out?</Source>
-      <Dest>结果如何?</Dest>
-    </String>
-    <String List="2">
-      <Source>He was a better fighter, but I wore him out. I was about to drop him to a knee, when Galmar called his dogs back to the pen.</Source>
-      <Dest>他是一个不错的战士，但我让他筋疲力尽了。当加尔玛让他的狗们返回笼子的时候，我正准备让他和我的膝盖来一次亲密接触。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did it turn out?</Source>
-      <Dest>结果如何?</Dest>
-    </String>
-    <String List="2">
-      <Source>He wanted to keep going.  But I told him forget it.  He could keep the name.  His fists punched harder than mine ever could.</Source>
-      <Dest>他想继续来。但我告诉他忘了这件事儿吧。他可以继续保留这个名字。他的拳头打的可比我猛力多了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the brawl with the soldier.</Source>
-      <Dest>告诉我，跟那士兵吵了些什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not just any soldier.  Some high ranking Stormcloak.  They called him Iron-Fist.  That's what they used to call me.  Valla the Iron-Fist.</Source>
-      <Dest>不只是普通的士兵。而是一个高级别的风暴斗篷。他们叫他铁腕。他们以前是那么叫我的。铁腕瓦拉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the brawl with the soldier.</Source>
-      <Dest>告诉我，跟那士兵吵了些什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>I thought that wasn't fair to either of us.  I didn't want people getting us confused.  So I came here to fight him.  Winner kept the name.</Source>
-      <Dest>I thought that wasn't fair to either of us.  I didn't want people getting us confused.  So I came here to fight him.  Winner kept the name.</Dest>
-    </String>
-    <String List="0">
-      <Source>Not at all. I just think you need to speak with someone who respects you.</Source>
-      <Dest>也不全是那样。我只是觉得你应该与尊重你的人对话。</Dest>
-    </String>
-    <String List="2">
-      <Source>Is this some sort of trick?  No one's this nice.  But I...I don't need your respect.  It'd just make me a soft-belly.</Source>
-      <Dest>这是什么新的捉弄人的方法吗？哪有这样的好心人。不过我...我不需要你的尊重。这会成为我的软肋。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's jealousy, pure and simple.</Source>
-      <Dest>这就是嫉妒，赤裸裸的嫉妒。</Dest>
-    </String>
-    <String List="2">
-      <Source>I thought so.  That or they're too intimidated by me.  Most Nord men want a woman who can fight, but one they can best.  No one can best me.</Source>
-      <Dest>我也这么想。或许他们太害怕我了。大多数的诺德男人都想要一个战斗力很强，但却打不过自己的女人。但是没人能打败我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps you aren't as strong as you think.</Source>
-      <Dest>也许你没有你想象的那么厉害。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, that ain't it.  Not one person here will say I ain't tough.  It's something else they don't respect.  Hmph.  As if I care what they think.</Source>
-      <Dest>不，不是这个。这里的人个个都说我是个铁血真汉子。他们不尊重的是其他东西。哼。就跟我在乎他们怎么想似的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've got better things to do.</Source>
-      <Dest>我有更重要的事情要做。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course you do.</Source>
-      <Dest>你当然需要。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're on. (Brawl - 100 gold)</Source>
-      <Dest>来吧。(打架 - 100金币)</Dest>
-    </String>
-    <String List="2">
-      <Source>Good. Fists only. You use magic, I break your neck.</Source>
-      <Dest>很好，只准用拳头。你要是敢用魔法，我就一拳打断你脖子。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're on. (Brawl - 100 gold)</Source>
-      <Dest>来吧。(打架 - 100金币)</Dest>
-    </String>
-    <String List="0">
-      <Source>Can we brawl for less than 100?</Source>
-      <Dest>我们可以至少压100金币来打一架吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmph. Don't have the coin, huh. I figured as much.</Source>
-      <Dest>哼。没有钱，是吧。我也这么想。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
       <Source>How about we brawl then?</Source>
-      <Dest>我们待会儿来打一架怎么样？</Dest>
+      <Dest>那我们来打一架怎么样？</Dest>
     </String>
-    <String List="2">
-      <Source>It's a date.  100 gold.  Winner take all.</Source>
-      <Dest>就这么说定了。一人100金币。赢家通吃 。</Dest>
+    <String List="0">
+      <Source>What about the fight with the miner?</Source>
+      <Dest>跟矿工干架的结果怎样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the fight with the miner?</Source>
+      <Dest>跟矿工干架的结果怎样了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the fight with the miner?</Source>
+      <Dest>跟矿工干架的结果怎样了？</Dest>
     </String>
     <String List="0">
       <Source>Care for a rematch?</Source>
-      <Dest>有兴趣复赛一场吗？</Dest>
+      <Dest>有兴趣再赛一场吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I thought you'd never ask.  100 Gold.  Put it up, and I shut you down.</Source>
-      <Dest>我还以为你不会开口了呢。100金，来赛一场。我会让你闭嘴的。</Dest>
+    <String List="0">
+      <Source>I want to hear about your brawl with the healer.</Source>
+      <Dest>我想听听你与那位医者的拳赛结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with the healer.</Source>
+      <Dest>我想听听你与那位医者的拳赛结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with the healer.</Source>
+      <Dest>我想听听你与那位医者的拳赛结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with the healer.</Source>
+      <Dest>我想听听你与那位医者的拳赛结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
     </String>
     <String List="0">
       <Source>You're beautiful and brawny.  A deadly combination.</Source>
-      <Dest>你既美丽又健壮，一种极致的结合。</Dest>
+      <Dest>你既美丽又健壮，这两个词放在一块简直就能让男人们吓破胆。</Dest>
     </String>
-    <String List="2">
-      <Source>Are you making fun of me?  I...I can't tell. Well, if you are, I've got some knuckle pie for you, and you better believe it's bad for your teeth.</Source>
-      <Dest>你在取笑我？我...我分辨不出来。好吧，如果你确实在笑话我，那我能给你嘴里塞几记铁饼，你最好清楚它可是对你的牙口一点好处都没有。</Dest>
+    <String List="0">
+      <Source>I want to hear about your brawl with Valgus.</Source>
+      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with Valgus.</Source>
+      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with Valgus.</Source>
+      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear about your brawl with Valgus.</Source>
+      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
     </String>
     <String List="0">
       <Source>Somehow I don't see Eorlund Gray-Mane forging something so lumpy.</Source>
-      <Dest>我可从没见过厄林迪尔·灰鬃手里造出过这么糙的货。</Dest>
-    </String>
-    <String List="2">
-      <Source>Maybe not, but when it comes to lumpy faces, I'm a master blacksmith, so shut your mouth before I give you the hammer.</Source>
-      <Dest>也许不是，但你知道那些疙疙瘩瘩的脸是咋搞的吗，我可是个铁匠大师。所以在我给你一锤子之前闭上你的嘴。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>He gets up real close, but I don't smell any mead on his breath. Then he looks me straight in the eye and puts his coin purse on the counter.</Source>
-      <Dest>他靠的可真够近的，但我没在他的呼吸中闻到一丁点儿的蜜酒味儿。然后他用眼睛盯着我，把自己的钱包放在了柜台上。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>100 septims, he says.  Next thing I know, chairs are being cleared on the second floor, and the old priest's rolled up his sleeves.</Source>
-      <Dest>100 septims, he says.  Next thing I know, chairs are being cleared on the second floor, and the old priest's rolled up his sleeves.</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>We went at it for a good ten minutes.  I kept waiting for him to cheat me with his fancy magic.  But the old Imperial took his beating like a Nord.</Source>
-      <Dest>我们到了有十分钟。我想见见他的华丽的魔法，但是这个老帝国人像个诺德人一样开打了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with Valgus.</Source>
-      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hasn't told you about me, has he?  You can tell that cotton belly he's got nothing to be ashamed of, losing to me.</Source>
-      <Dest>他还没跟你谈起过我，是吗？你可以告诉那个棉花肚子，输给了我他也没什么好羞愧的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with Valgus.</Source>
-      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
+      <Dest>我可从没觉得从厄伦德·灰鬃手里会造出这么糙的货。</Dest>
     </String>
     <String List="2">
       <Source>I found him in my seat one night, whining about the clouds.  Something about not being able to see the stars at night.</Source>
       <Dest>我有天晚上看见他在我的位置上，在抱怨天上的云彩。说挡着他看星星什么的。</Dest>
     </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with Valgus.</Source>
-      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>I said, "You want to see some stars?  You keep crying like a thumb-drinker, and I'll show you some stars."</Source>
-      <Dest>我说，“你想看星星吗，只要你跟个龟孙子似的哭给老娘我看，我就给你看些星星。”</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with Valgus.</Source>
-      <Dest>我想听听你跟威尔格斯打架的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>He stood up, but he didn't walk away.  I didn't expect that.  I said, "Door's that way, grand-da."  But he never took the offer.</Source>
-      <Dest>他站了起来，但是他没有走开。我没有意料到这点。“门在那边，老大爷”，我说道。但是他没听。</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with the healer.</Source>
-      <Dest>我想听听你与医生的争执。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some old Imperial priest.  A cotton belly from Cyrodiil come here to preach against the war.</Source>
-      <Dest>Some old Imperial priest.  A cotton belly from Cyrodiil come here to preach against the war.</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with the healer.</Source>
-      <Dest>我想听听你与医生的争执。</Dest>
-    </String>
     <String List="2">
       <Source>I found him in my seat one night, whining about the clouds.  Something about not being able to see the stars at night.</Source>
       <Dest>我有天晚上看见他在我的位置上，在抱怨天上的云彩。说挡着他看星星什么的。</Dest>
     </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with the healer.</Source>
-      <Dest>我想听听你与医生的争执。</Dest>
-    </String>
     <String List="2">
-      <Source>I said, "You want to see some stars?  You keep crying like a thumb-drinker, and I'll show you some stars."</Source>
-      <Dest>我说，“你想看星星吗，只要你跟个龟孙子似的哭给老娘我看，我就给你看些星星。”</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to hear about your brawl with the healer.</Source>
-      <Dest>我想听听你与医生的争执。</Dest>
-    </String>
-    <String List="2">
-      <Source>He stood up, but he didn't walk away.  I didn't expect that.  I said, "Door's that way, grand-da."  But he never took the offer.</Source>
-      <Dest>他站了起来，但是他没有走开。我没有意料到这点。“门在那边，老大爷”，我说道。但是他没听。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Usually I let everyone hit me a couple times, just to get the blood flowing. But this old miner, his knees were wobbling when he got off the chair.</Source>
-      <Dest>我让别人打到我几下一般只是为了让血液运转起来。但是这个老矿工，他从椅子上起身的时候膝盖都在打晃。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Reminded me of my Da.  Stubborn bastard had one good leg and still tried to join the Cloaks.  This Orc wanted the same.  One last hurrah.</Source>
-      <Dest>这让我想起了我的父亲。一个顽固的混蛋，只有一条好用的腿却仍然试图加入风暴斗篷。这只兽人和他想法一样，希望得到最后一次疯狂的机会。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>So I let him hit me once more, and I dropped.  Let him keep his pride and his gold.  But don't get me wrong, I ain't no cotton heart.</Source>
-      <Dest>所以我让他再打我一次，然后我倒下了。让他继续保有尊严和他的金子。但别误会，我可不是软心肠。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
+      <Source>All right.</Source>
+      <Dest>好吧。</Dest>
     </String>
     <String List="2">
       <Source>Only reason I'm telling you is so you know I didn't lose.  But not every fight is worth winning.</Source>
       <Dest>我跟你说这些的唯一原因是要让你知道，我并没有输。不是每场战斗都是值得去赢的。</Dest>
     </String>
-    <String List="0">
-      <Source>What about the fight with the miner?</Source>
-      <Dest>跟矿工的冲突怎样了？</Dest>
+    <String List="2">
+      <Source>We went at it for a good ten minutes.  I kept waiting for him to cheat me with his fancy magic.  But the old Imperial took his beating like a Nord.</Source>
+      <Dest>我们到了有十分钟。我想见见他的华丽的魔法，但是这个老帝国人像个诺德人一样开打了。</Dest>
     </String>
     <String List="2">
-      <Source>A stubborn old Orc.  Was in here half drunk, looking to pick a fight.  He wanted the best, and he heard that was me.</Source>
-      <Dest>一个顽固的老兽人。在这儿半醉不醉的，想故意找茬儿打架。他想跟最强的那个打，然后他听说最强的人就是我。</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the fight with the miner?</Source>
-      <Dest>跟矿工的冲突怎样了？</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="2">
-      <Source>So he says, "You Valla the Iron-Fist?  Well, I break iron for a living, and I can break you."</Source>
-      <Dest>所以他说：“你就是铁腕瓦拉？哈，我是天天打铁为生，所以也能打扁你。”</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the fight with the miner?</Source>
-      <Dest>跟矿工的冲突怎样了？</Dest>
+      <Source>It's a date.  100 gold.  Winner take all.</Source>
+      <Dest>就这么说定了。一人100金币。赢家通吃 。</Dest>
     </String>
     <String List="2">
-      <Source>It was stupid.  I could've breathed on the old tusk-mouth and he would've tipped over.  And he punched like a newborn babe.</Source>
-      <Dest>那真是愚蠢。我直接对他那张翻着獠牙的嘴吐了口气，然后他就倒下了。接着他就跟个新生的婴儿一样倒在地上乱挥着拳头。</Dest>
+      <Source>I thought you'd never ask.  100 Gold.  Put it up, and I shut you down.</Source>
+      <Dest>我还以为你不会开口了呢。100金，来赛一场。我会让你闭嘴的。</Dest>
     </String>
     <String List="2">
-      <Source>Wow.  You got bricks in your gloves?  Because you punch like it.  You win this round.  Here.  Gold's yours.</Source>
-      <Dest>哇。你在你的手套里塞砖头了吗？简直跟砖头一样硬。这一轮你赢了。这是你的金币。</Dest>
-    </String>
-    <String List="2">
-      <Source>Here I thought that old Haakon was the toughest son of a bitch I ever fought.  But you're a cut above.</Source>
-      <Dest>我以为老哈根是我遇过最棘手的浑蛋，没想到你比他更行。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're no fluke.  You have my respect.</Source>
-      <Dest>该死的。我输得心服口服。你已经赢得我的尊重了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmph.</Source>
-      <Dest>哼。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right.</Source>
-      <Dest>好的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Speak.</Source>
-      <Dest>说。</Dest>
+      <Source>So I let him hit me once more, and I dropped.  Let him keep his pride and his gold.  But don't get me wrong, I ain't no cotton heart.</Source>
+      <Dest>所以我让他再打我一次，然后我倒下了。让他继续保有尊严和他的金子。但别误会，我可不是软心肠。</Dest>
     </String>
     <String List="2">
       <Source>Make it quick.</Source>
-      <Dest>快点好吗？</Dest>
+      <Dest>有话快说。</Dest>
     </String>
     <String List="2">
-      <Source>Hm?</Source>
-      <Dest>嗯？</Dest>
+      <Source>He stood up, but he didn't walk away.  I didn't expect that.  I said, "Door's that way, grand-da."  But he never took the offer.</Source>
+      <Dest>他站了起来，但是他没有走开。我没有意料到这点。“门在那边，老大爷”，我说道。但是他没听。</Dest>
+    </String>
+    <String List="2">
+      <Source>He stood up, but he didn't walk away.  I didn't expect that.  I said, "Door's that way, grand-da."  But he never took the offer.</Source>
+      <Dest>他站了起来，但是他没有走开。我没有意料到这点。“门在那边，老大爷”，我说道。但是他没听。</Dest>
+    </String>
+    <String List="2">
+      <Source>I said, "You want to see some stars?  You keep crying like a thumb-drinker, and I'll show you some stars."</Source>
+      <Dest>我说，“你想看星星吗，只要你跟个龟孙子似的哭给老娘我看，我就给你看些星星。”</Dest>
+    </String>
+    <String List="2">
+      <Source>I said, "You want to see some stars?  You keep crying like a thumb-drinker, and I'll show you some stars."</Source>
+      <Dest>我说，“你想看星星吗，只要你跟个龟孙子似的哭给老娘我看，我就给你看些星星。”</Dest>
     </String>
     <String List="2">
       <Source>You got some nice meat hooks there.  Makes for a damn good punch.</Source>
       <Dest>这儿有些上好的挂肉钩，去好好地打一架吧。</Dest>
     </String>
     <String List="2">
+      <Source>Wow.  You got bricks in your gloves?  Because you punch like it.  You win this round.  Here.  Gold's yours.</Source>
+      <Dest>哇。你在你的手套里塞砖头了吗？简直跟砖头一样硬。这一轮你赢了。这是你的金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>He gets up real close, but I don't smell any mead on his breath. Then he looks me straight in the eye and puts his coin purse on the counter.</Source>
+      <Dest>他靠的可真够近的，但我没在他的呼吸中闻到一丁点儿的蜜酒味儿。然后他用眼睛盯着我，把自己的钱包放在了柜台上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe not, but when it comes to lumpy faces, I'm a master blacksmith, so shut your mouth before I give you the hammer.</Source>
+      <Dest>也许不是，但你知道那些疙疙瘩瘩的脸是咋搞的吗，我可是个铁匠大师。所以在我给你一锤子之前闭上你的嘴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph.</Source>
+      <Dest>哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>So he says, "You Valla the Iron-Fist?  Well, I break iron for a living, and I can break you."</Source>
+      <Dest>所以他说：“你就是铁腕瓦拉？哈，我是天天打铁为生，所以也能打扁你。”</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was stupid.  I could've breathed on the old tusk-mouth and he would've tipped over.  And he punched like a newborn babe.</Source>
+      <Dest>那真是愚蠢。我直接对他那张翻着獠牙的嘴吐了口气，然后他就倒下了。接着他就跟个新生的婴儿一样倒在地上乱挥着拳头。</Dest>
+    </String>
+    <String List="2">
       <Source>Hail, brawler.</Source>
       <Dest>你好啊，拳手。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说吧。</Dest>
     </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>Usually I let everyone hit me a couple times, just to get the blood flowing. But this old miner, his knees were wobbling when he got off the chair.</Source>
+      <Dest>我让别人打到我几下一般只是为了让血液运转起来。但是这个老矿工，他从椅子上起身的时候膝盖都在打晃。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>A stubborn old Orc.  Was in here half drunk, looking to pick a fight.  He wanted the best, and he heard that was me.</Source>
+      <Dest>一个顽固的老兽人。在这儿半醉不醉的，想故意找茬儿打架。他想跟最强的那个打，然后他听说最强的人就是我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hasn't told you about me, has he?  You can tell that cotton belly he's got nothing to be ashamed of, losing to me.</Source>
+      <Dest>他还没跟你谈起过我，是吗？你可以告诉那个棉花肚子，输给了我他也没什么好羞愧的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're no fluke.  You have my respect.</Source>
+      <Dest>该死的。我输得心服口服。你已经赢得我的尊重了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here I thought that old Haakon was the toughest son of a bitch I ever fought.  But you're a cut above.</Source>
+      <Dest>我以为老哈康是我遇过最棘手的浑蛋，没想到你比他更行。</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you making fun of me?  I...I can't tell. Well, if you are, I've got some knuckle pie for you, and you better believe it's bad for your teeth.</Source>
+      <Dest>你在取笑我？我...我分辨不出来。好吧，如果你确实在笑话我，那我能给你嘴里塞几记铁饼，你最好清楚它可是对你的牙口一点好处都没有。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Reminded me of my Da.  Stubborn bastard had one good leg and still tried to join the Cloaks.  This Orc wanted the same.  One last hurrah.</Source>
+      <Dest>这让我想起了我的父亲。一个顽固的混蛋，只有一条好用的腿却仍然试图加入风暴斗篷。这只兽人和他想法一样，希望得到最后一次疯狂的机会。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

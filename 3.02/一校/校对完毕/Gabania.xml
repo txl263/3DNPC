@@ -6,29 +6,13 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>As have I, boy. Don't disappoint me now.</Source>
-      <Dest>这是因为有我，孩子。现在别让我失望了。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
-    <String List="2">
-      <Source>Ha! Don't be absurd. I haven't the slightest idea what you're talking about.</Source>
-      <Dest>哈！简直荒谬！我不知道你在说什么！</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know who you are, but I know what you are, and what you are not.</Source>
-      <Dest>我不知道你是谁。但我却知道你是怎样的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>In my time, I have challenged Jarls and Kings, armies and Empires.</Source>
-      <Dest>想当年，领主、国王、军队和帝国我都挑战过。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have been targeted by everyone from the Brotherhood to the remnants of old the Morag Tong.</Source>
-      <Dest>因为是莫拉格帮会的残余我已经被兄弟会的每一个人追杀过了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I challenged the Gods themselves, and neither Daedric Prince nor the makers of the realm could fell me.</Source>
-      <Dest>我对神灵本身发起了挑战，不管是魔神还是创世者都不是我的对手。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
     <String List="2">
       <Source>Of course it was you, boy. The others were not so foolish. Nor were they as brave.</Source>
@@ -39,20 +23,36 @@
       <Dest>我当然会与你在一起。</Dest>
     </String>
     <String List="2">
-      <Source>I told you idiots I didn't want to be disturbed!</Source>
-      <Dest>我告诉你，白痴，我不想被打扰！</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>I challenged the Gods themselves, and neither Daedric Prince nor the makers of the realm could fell me.</Source>
+      <Dest>我对神灵本身发起了挑战，不管是魔神还是创世者都不是我的对手。</Dest>
     </String>
     <String List="2">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>As have I, boy. Don't disappoint me now.</Source>
+      <Dest>这是因为有我，孩子。现在别让我失望了。</Dest>
+    </String>
+    <String List="2">
+      <Source>In my time, I have challenged Jarls and Kings, armies and Empires.</Source>
+      <Dest>想当年，领主、国王、军队和帝国我都挑战过。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told you idiots I didn't want to be disturbed!</Source>
+      <Dest>我告诉你，白痴，我不想被打扰！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha! Don't be absurd. I haven't the slightest idea what you're talking about.</Source>
+      <Dest>哈！简直荒谬！我不知道你在说什么！</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know who you are, but I know what you are, and what you are not.</Source>
+      <Dest>我不知道你是谁。但我却知道你是怎样的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have been targeted by everyone from the Brotherhood to the remnants of old the Morag Tong.</Source>
+      <Dest>因为是莫拉格帮会的残余我已经被兄弟会的每一个人追杀过了。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>

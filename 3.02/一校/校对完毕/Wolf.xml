@@ -6,453 +6,433 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>The wolf understands. But what if the sacrifice was not yours? Perhaps another dragon, one whose blood was as full as it is strong.</Source>
-      <Dest>狼很理解。但如果这牺牲不是你的呢？或许是另一头龙，另一头血液如同它的力量一般充盈的龙。</Dest>
-    </String>
-    <String List="2">
-      <Source>A dragon's blood flows like any other. It can still be done. The problem is the amount of blood.</Source>
-      <Dest>一条龙的血流出来的时候，和其他生物的血一样，它也会干涸。问题是出血量略大啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>The master's companion has no fear, but she is fearful.</Source>
-      <Dest>主人的同伴无所畏惧，她却吓破了胆。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you plan to use it, wait until the dragon is near death to cast the spell. When a good portion of its blood, it has lost.</Source>
-      <Dest>如果你打算使用这个魔法的话，耐住性子，直到龙死去的前一刻再念出咒语。那时，它的血液已不再鲜活。</Dest>
+    <String List="0">
+      <Source>Interesting. I would like to see this transformation take place.</Source>
+      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
     </String>
     <String List="0">
-      <Source>If mortal blood will make the beast, why choose Larsdon?</Source>
-      <Dest>如果凡人之血会诞生野兽，为什么选劳斯登？</Dest>
-    </String>
-    <String List="2">
-      <Source>The strength of the king's blood is needed to survive the ritual. This is also why to save him, will come at the cost of one's life.</Source>
-      <Dest>国王之血的力量需要从仪式中幸存下来。这也是为什么需要以一个人的生命为代价来救他的原因。</Dest>
+      <Source>Interesting. I would like to see this transformation take place.</Source>
+      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
     </String>
     <String List="0">
-      <Source>If mortal blood will make the beast, why choose Larsdon?</Source>
-      <Dest>如果凡人之血会诞生野兽，为什么选劳斯登？</Dest>
-    </String>
-    <String List="2">
-      <Source>The tome will exchange blood for blood. But know that whoever takes the beast form will not survive.</Source>
-      <Dest>底座上的书会订立血契，但是要知道任何承受野兽形态的人都不会幸存。</Dest>
+      <Source>Interesting. I would like to see this transformation take place.</Source>
+      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
     </String>
     <String List="0">
-      <Source>Who was the war-teacher?</Source>
-      <Dest>那个战争教头是谁？</Dest>
-    </String>
-    <String List="2">
-      <Source>A master of blood. One who was given the beast blood at a young age, and became slave to its power.</Source>
-      <Dest>血之主。那些家伙在年幼时被给予了野兽之血，然后成了野兽之力的俘虏。</Dest>
+      <Source>Tell me what you know about the ritual.</Source>
+      <Dest>告诉我你对这个仪式的了解。</Dest>
     </String>
     <String List="0">
-      <Source>Who was the war-teacher?</Source>
-      <Dest>那个战争教头是谁？</Dest>
+      <Source>Tell me what you know about the ritual.</Source>
+      <Dest>告诉我你对这个仪式的了解。</Dest>
     </String>
-    <String List="2">
-      <Source>But it is Ysgramor, and not the wolf, that he worshipped. The Kingsmoot was theft, and if you acknowledged it, you bent the knee to thieves.</Source>
-      <Dest>但他崇拜的是伊斯格拉谟，不是狼。如果你承认众王议会就是偷窃，那就代表你向匪徒们屈膝了。</Dest>
+    <String List="0">
+      <Source>With these books burned, we need another source of information.</Source>
+      <Dest>这些书被烧了，我们需要其他的信息来源。</Dest>
+    </String>
+    <String List="0">
+      <Source>With these books burned, we need another source of information.</Source>
+      <Dest>这些书被烧了，我们需要其他的信息来源。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolves are fierce creatures. Can you fight?</Source>
+      <Dest>狼是很凶悍的动物。你能对付吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolves are fierce creatures. Can you fight?</Source>
+      <Dest>狼是很凶悍的动物。你能对付吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
+      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
+      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
+      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
     </String>
     <String List="0">
       <Source>That's terrible news. Maybe killing the messenger will make me feel better.</Source>
       <Dest>这真是个可怕的信息。可能把来报信的那人杀了会让我好受点。</Dest>
     </String>
-    <String List="2">
-      <Source>This wolf is but a spirit. It can be slain, and it can be hailed. All the master needs to do is find the other tome.</Source>
-      <Dest>这狼不过是个灵魂，它可以被杀死，也可以被称颂。大师所需要做的只是找到其他的书。</Dest>
+    <String List="0">
+      <Source>By Lorkhan's eyes! A talking ghost wolf!</Source>
+      <Dest>洛克汗之眼啊！这有一只会说话的幽灵狼！</Dest>
+    </String>
+    <String List="0">
+      <Source>So which story is the truth?</Source>
+      <Dest>那么哪个故事才是真相？</Dest>
+    </String>
+    <String List="0">
+      <Source>So which story is the truth?</Source>
+      <Dest>那么哪个故事才是真相？</Dest>
+    </String>
+    <String List="0">
+      <Source>So which story is the truth?</Source>
+      <Dest>那么哪个故事才是真相？</Dest>
+    </String>
+    <String List="0">
+      <Source>So which story is the truth?</Source>
+      <Dest>那么哪个故事才是真相？</Dest>
+    </String>
+    <String List="0">
+      <Source>The beast who cannot be slain.</Source>
+      <Dest>无法杀死的野兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>The beast who cannot be slain.</Source>
+      <Dest>无法杀死的野兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>The beast who cannot be slain.</Source>
+      <Dest>无法杀死的野兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>The beast who cannot be slain.</Source>
+      <Dest>无法杀死的野兽。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I know you aren't another one Eldritch's tricks?</Source>
+      <Dest>我怎么知道你不是另一个艾卓曲的把戏？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I know you aren't another one Eldritch's tricks?</Source>
+      <Dest>我怎么知道你不是另一个艾卓曲的把戏？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you remember of your prior existence?</Source>
+      <Dest>你对你的过去还有一些什么样的记忆？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you remember of your prior existence?</Source>
+      <Dest>你对你的过去还有一些什么样的记忆？</Dest>
+    </String>
+    <String List="0">
+      <Source>Its master would like its new pet to sit and be a good boy.</Source>
+      <Dest>它的主人会喜欢上它这样乖巧听话的新宠物的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Its master would like its new pet to sit and be a good boy.</Source>
+      <Dest>它的主人会喜欢上它这样乖巧听话的新宠物的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've seen stranger things. From whence have you come?</Source>
+      <Dest>我看到了诡异的事情。你是从哪里来的？</Dest>
+    </String>
+    <String List="0">
+      <Source>I've seen stranger things. From whence have you come?</Source>
+      <Dest>我看到了诡异的事情。你是从哪里来的？</Dest>
     </String>
     <String List="0">
       <Source>I thank you for your help. Is there a way I can call upon you again?</Source>
       <Dest>多谢你的帮助。有什么办法让我再次召唤你吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Yes. There is another book. Find it, and I will heed your call.</Source>
-      <Dest>是的，还有另外一本书，找到它，我会留意到你的呼唤的。</Dest>
+    <String List="0">
+      <Source>I'm sorry, I didn't understand a word you just said.</Source>
+      <Dest>不好意思，你说的话我一个字都没听懂。</Dest>
     </String>
     <String List="0">
-      <Source>Interesting. I would like to see this transformation take place.</Source>
-      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
-    </String>
-    <String List="2">
-      <Source>No. The master's jaws should clamp at its throat and never let go. Or perhaps, like the vampire, drink its blood instead.</Source>
-      <Dest>不。大师的牙齿会紧紧地咬住它的喉咙并且永不放松。又或者，就像吸血鬼一样，以吸它的血来替代。</Dest>
+      <Source>I'm sorry, I didn't understand a word you just said.</Source>
+      <Dest>不好意思，你说的话我一个字都没听懂。</Dest>
     </String>
     <String List="0">
-      <Source>Interesting. I would like to see this transformation take place.</Source>
-      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
-    </String>
-    <String List="2">
-      <Source>The blood is the poison. To save him, it must be transferred, blood for blood, with a spell.</Source>
-      <Dest>他的血液里充满了剧毒。为了救他，这些血液必须被替换掉，通过法术以血易血。</Dest>
+      <Source>I'm sorry, I didn't understand a word you just said.</Source>
+      <Dest>不好意思，你说的话我一个字都没听懂。</Dest>
     </String>
     <String List="0">
-      <Source>Interesting. I would like to see this transformation take place.</Source>
-      <Dest>真有意思。我很想看看这种变化到底是怎样发生的。</Dest>
-    </String>
-    <String List="2">
-      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
-      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
+      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
     </String>
     <String List="0">
-      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
-      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
-    </String>
-    <String List="2">
-      <Source>It will not do enough to warn him. One must remove the blood from his body.</Source>
-      <Dest>这还不足以引起他的警觉。得给他来点狠的。</Dest>
+      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
+      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
     </String>
     <String List="0">
-      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
-      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
-    </String>
-    <String List="2">
-      <Source>There is a way to do so, and save his life. But one must trade blood for blood, with a spell.</Source>
-      <Dest>有一种方法可以做到那样，也可以救下他的命。但是那魔法奉行的就是等价交换的原则，以血来换血。</Dest>
+      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
+      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
     </String>
     <String List="0">
-      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
-      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
-    </String>
-    <String List="2">
-      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
-      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+      <Source>A mudcrab with tentacle claws.</Source>
+      <Dest>有触手一样的爪子的泥蟹。</Dest>
     </String>
     <String List="0">
-      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
-      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, perhaps he should be slain before he cannot. The king's blood is strong, as is the beast's poison.</Source>
-      <Dest>是的，也许该有人在他成为不死之身以前杀了他。国王之血很强大，于野兽来说是味致命的毒药。</Dest>
+      <Source>A mudcrab with tentacle claws.</Source>
+      <Dest>有触手一样的爪子的泥蟹。</Dest>
     </String>
     <String List="0">
-      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
-      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
-    </String>
-    <String List="2">
-      <Source>But perhaps there is another way. Use the spell, trade blood for blood.</Source>
-      <Dest>但或许还有另一种方式。用上这魔法吧。以血易血。</Dest>
+      <Source>A mudcrab with tentacle claws.</Source>
+      <Dest>有触手一样的爪子的泥蟹。</Dest>
     </String>
     <String List="0">
-      <Source>So Larsdon is the beast, and the axe cursed his blood. He must die.</Source>
-      <Dest>所以劳斯登是只野兽，那斧头诅咒了他的血液。他必须死。</Dest>
-    </String>
-    <String List="2">
-      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
-      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+      <Source>A mudcrab with tentacle claws.</Source>
+      <Dest>有触手一样的爪子的泥蟹。</Dest>
     </String>
     <String List="0">
-      <Source>With these books burned, we need another source of information.</Source>
-      <Dest>这些书烧了，我们需要其他的信息来源。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fret not, for the answers to your questions sits before you.</Source>
-      <Dest>不公平，因为答案就在你面前坐着。</Dest>
+      <Source>If mortal blood will make the beast, why choose Larsdon?</Source>
+      <Dest>如果凡人之血会诞生野兽，为什么选劳斯登？</Dest>
     </String>
     <String List="0">
-      <Source>With these books burned, we need another source of information.</Source>
-      <Dest>这些书烧了，我们需要其他的信息来源。</Dest>
-    </String>
-    <String List="2">
-      <Source>To dead ones the former master spoke, and spoke loudly. The ritual is not what it seems. It is certain death for all.</Source>
-      <Dest>上任大师告诉过这些现在已死的人，并且说的很大声。这个仪式不是它看起来的那个样子，它对所有人都意味着注定的死亡。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wolves are fierce creatures. Can you fight?</Source>
-      <Dest>狼是很中二的动物。少年可否一战？</Dest>
-    </String>
-    <String List="2">
-      <Source>Alas, it is weak. It runs in fear at the first sign of danger, and quivers at the sight of blood.</Source>
-      <Dest>啊，有人说它咆哮，但那只不过是谎言而已。事实上它一瞄到危险便撒腿就跑，一看到鲜血就浑身哆嗦。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wolves are fierce creatures. Can you fight?</Source>
-      <Dest>狼是很中二的动物。少年可否一战？</Dest>
-    </String>
-    <String List="2">
-      <Source>But when the master bears the ring, it becomes a beastman once more, and loses its temperance.</Source>
-      <Dest>而一旦主人戴上那枚戒指，它就会再次变成兽人，失去它的理智。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you remember of your prior existence?</Source>
-      <Dest>你对你的过去还有一些什么样的记忆？</Dest>
-    </String>
-    <String List="2">
-      <Source>That would depend on what its current existence is. Is it a man tainted by the beast blood, or an animal freed from the man?</Source>
-      <Dest>这将取决于我当前的存在是什么。是一个被野兽之血玷污的男人，还是一只从人体内得以释放的动物？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you remember of your prior existence?</Source>
-      <Dest>你对你的过去还有一些什么样的记忆？</Dest>
-    </String>
-    <String List="2">
-      <Source>It remembers building, but whose memories they are it does not know.</Source>
-      <Dest>还有些许的记忆，但是这些记忆到底来自于谁我也不知道了。</Dest>
+      <Source>If mortal blood will make the beast, why choose Larsdon?</Source>
+      <Dest>如果凡人之血会诞生野兽，为什么选劳斯登？</Dest>
     </String>
     <String List="0">
       <Source>How did the war-teacher use you?</Source>
       <Dest>战争导师是怎么指使你的？</Dest>
     </String>
-    <String List="2">
-      <Source>It is through the summoning that it is called to the earth plane. When the ring is worn, the blood of Hircine stirs.</Source>
-      <Dest>It is through the summoning that it is called to the earth plane. When the ring is worn, the blood of Hircine stirs.</Dest>
-    </String>
     <String List="0">
       <Source>How did the war-teacher use you?</Source>
       <Dest>战争导师是怎么指使你的？</Dest>
     </String>
-    <String List="2">
-      <Source>When the ring is removed, the rage subsides, waters are stilled, and its mind returns, but its body is weak.</Source>
-      <Dest>当戒指被褪下之时，那狂躁不已的愤怒终于平息，潮水平静了下来，而它的神智也清醒了，但身体却变得虚弱不堪。</Dest>
+    <String List="0">
+      <Source>Who was the war-teacher?</Source>
+      <Dest>那个战争导师是谁？</Dest>
     </String>
     <String List="0">
-      <Source>I'm sorry, I didn't understand a word you just said.</Source>
-      <Dest>不好意思，你说的话我一个字都没听懂</Dest>
-    </String>
-    <String List="2">
-      <Source>It apologizes to its master. It speaks in howls. It howls to warn.</Source>
-      <Dest>它对它的主人道歉。 它嗥叫着讲话。 它嗥叫来警告。</Dest>
+      <Source>Who was the war-teacher?</Source>
+      <Dest>那个战争导师是谁？</Dest>
     </String>
     <String List="0">
-      <Source>I'm sorry, I didn't understand a word you just said.</Source>
-      <Dest>不好意思，你说的话我一个字都没听懂</Dest>
-    </String>
-    <String List="2">
-      <Source>One of the books burned here, was a man's confession, and another, written centuries later, warned of its consequences.</Source>
-      <Dest>在这堆被烧毁的书里面，有一本是一个人的自白书，而另一本，成书时间比第一本晚了几个世纪，警示了前一本中的后果。</Dest>
+      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
+      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
     </String>
     <String List="0">
-      <Source>I'm sorry, I didn't understand a word you just said.</Source>
-      <Dest>不好意思，你说的话我一个字都没听懂</Dest>
+      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
+      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
     </String>
-    <String List="2">
-      <Source>The axe will poison mortal blood. A king, the ritual does not crown.  A king, it devours.</Source>
-      <Dest>The axe will poison mortal blood. A king, the ritual does not crown.  A king, it devours.</Dest>
+    <String List="0">
+      <Source>Then we should hurry and warn Larsdon before the curse takes him.</Source>
+      <Dest>那我们得赶快去警告劳斯登 ，赶在他受到诅咒之前。</Dest>
     </String>
     <String List="0">
       <Source>Why can't you be like other talking animals and shut up?</Source>
       <Dest>你能不能像别的会说话的动物一样把嘴闭上？</Dest>
     </String>
     <String List="2">
-      <Source>Silence is not its best trait. It prefers to howl, and scratch, but not in that order.</Source>
-      <Dest>沉默并不是它最好的品质。它更喜欢嚎叫，抓挠，不过不是像那样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
-      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, the axe, forged from beast bone, and quenched in blood, creates a new monster.</Source>
-      <Dest>不，这把斧子，锻之以兽骨，淬之以鲜血，创造出一个新的怪物。</Dest>
-    </String>
-    <String List="0">
-      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
-      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
-    </String>
-    <String List="2">
-      <Source>One of the books burned here, was a man's confession, and another, written centuries later, warned of its consequences.</Source>
-      <Dest>在这堆被烧毁的书里面，有一本是一个人的自白书，而另一本，成书时间比第一本晚了几个世纪，警示了前一本中的后果。</Dest>
-    </String>
-    <String List="0">
-      <Source>Great. If the axe is fake, the whole ritual is a lie, just like my love life.</Source>
-      <Dest>太好了。要是这斧头是假的，那整个仪式都是场骗局，跟我的爱情一样假。</Dest>
-    </String>
-    <String List="2">
-      <Source>The beast is not slain. It is born.  A king, the ritual does not crown.  A king, it devours.</Source>
-      <Dest>野兽不是被杀了，而是出生了。仪式不是加冕了一位国王，而是吞噬了一位国王。</Dest>
-    </String>
-    <String List="0">
-      <Source>So which story is the truth?</Source>
-      <Dest>那么哪个故事才是真相？</Dest>
-    </String>
-    <String List="2">
-      <Source>The war-teacher, he knew. The axe was not made of King's bone, but rather, the beast that consumed him.</Source>
-      <Dest>战争导师，他知道。斧子没能要了国王的命，但是更甚，野兽把他吞得一干二净。</Dest>
-    </String>
-    <String List="0">
-      <Source>So which story is the truth?</Source>
-      <Dest>那么哪个故事才是真相？</Dest>
-    </String>
-    <String List="2">
-      <Source>One of the books burned here was a man's confession, and another, written centuries later, warned of its consequences.</Source>
-      <Dest>其中一本书被埋藏在这里，内容则是某人的忏悔。而另一本完成于几个世纪之后的书就警示了世人关于此事的后果。</Dest>
-    </String>
-    <String List="0">
-      <Source>So which story is the truth?</Source>
-      <Dest>那么哪个故事才是真相？</Dest>
-    </String>
-    <String List="2">
-      <Source>When the bone is quenched in mortal blood, it takes on a new form. Thus a beast is not slain. It is born.</Source>
-      <Dest>当兽骨被凡人之血淬炼之时，而是呈现出一个新的形式。因此，野兽不是被杀掉了。而是重获新生。</Dest>
-    </String>
-    <String List="0">
-      <Source>So which story is the truth?</Source>
-      <Dest>那么哪个故事才是真相？</Dest>
-    </String>
-    <String List="2">
-      <Source>A king, the ritual does not crown.  A king, it devours.</Source>
-      <Dest>无冕之王，它却吞噬一切。</Dest>
-    </String>
-    <String List="0">
-      <Source>A mudcrab with tentacle claws.</Source>
-      <Dest>有触手一样的爪子的泥蟹。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, a beast so vicious it could not be slain, until the day the Axe of a Forgotten King is wielded by a forgotten son.</Source>
-      <Dest>不，如此凶猛的野兽是无法被杀死的，直到被遗忘国王的巨斧被那遗忘之子挥舞的那一天。</Dest>
-    </String>
-    <String List="0">
-      <Source>A mudcrab with tentacle claws.</Source>
-      <Dest>有触手一样的爪子的泥蟹。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, but there is a second story. It tells another tale, of a man asked to fetch Borgas' remains.</Source>
-      <Dest>啊，但还有第二个故事。这是另一个传说，主旨是一个男人被要求寻找包嘎斯的残留物。</Dest>
-    </String>
-    <String List="0">
-      <Source>A mudcrab with tentacle claws.</Source>
-      <Dest>有触手一样的爪子的泥蟹。</Dest>
-    </String>
-    <String List="2">
-      <Source>A bone is missing. This man, he fears what his master will tell him if the corpse is incomplete.</Source>
-      <Dest>一块骨头丢了。这个男人害怕如果这具尸体不完整的话，他的主人会骂他。</Dest>
-    </String>
-    <String List="0">
-      <Source>A mudcrab with tentacle claws.</Source>
-      <Dest>有触手一样的爪子的泥蟹。</Dest>
-    </String>
-    <String List="2">
-      <Source>And so, without another thought, he picks up another to put in its place. A cursed bone. The bone of a beast.</Source>
-      <Dest>然后，他毫不犹豫地拿起另一根骨头来作为替代。那被诅咒的骨头，那属于某头野兽的被诅咒的骨头。</Dest>
-    </String>
-    <String List="0">
-      <Source>The beast who cannot be slain.</Source>
-      <Dest>无法杀死的野兽。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes. So the poem goes, the beast would be slain when the Axe of a Forgotten King is wielded by a forgotten son.</Source>
-      <Dest>Yes. So the poem goes, the beast would be slain when the Axe of a Forgotten King is wielded by a forgotten son.</Dest>
-    </String>
-    <String List="0">
-      <Source>The beast who cannot be slain.</Source>
-      <Dest>无法杀死的野兽。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, but there is a second story. It tells another tale, of a man asked to fetch Borgas' remains.</Source>
-      <Dest>啊，但还有第二个故事。这是另一个传说，主旨是一个男人被要求寻找包嘎斯的残留物。</Dest>
-    </String>
-    <String List="0">
-      <Source>The beast who cannot be slain.</Source>
-      <Dest>无法杀死的野兽。</Dest>
-    </String>
-    <String List="2">
-      <Source>A bone is missing. This man, he fears what his master will tell him if the corpse is incomplete.</Source>
-      <Dest>一块骨头丢了。这个男人害怕如果这具尸体不完整的话，他的主人会骂他。</Dest>
-    </String>
-    <String List="0">
-      <Source>The beast who cannot be slain.</Source>
-      <Dest>无法杀死的野兽。</Dest>
-    </String>
-    <String List="2">
-      <Source>And so, without another thought, he picks up another to put in its place. A cursed bone. The bone of a beast.</Source>
-      <Dest>然后，他毫不犹豫地拿起另一根骨头来作为替代。那被诅咒的骨头，那属于某头野兽的被诅咒的骨头。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me what you know about the ritual.</Source>
-      <Dest>告诉我你对这个仪式的了解.</Dest>
-    </String>
-    <String List="2">
-      <Source>The first story tells of Borgas consumed, and an axe made from his bone.</Source>
-      <Dest>第一个故事是关于鬼迷心窍的包嘎斯，以及一把由他骨头做的斧头。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me what you know about the ritual.</Source>
-      <Dest>告诉我你对这个仪式的了解.</Dest>
-    </String>
-    <String List="2">
-      <Source>The bone is vengeance, meant to slay the beast of the Wild Hunt. The immortal one that consumed him.</Source>
-      <Dest>那骨头是一个复仇之魂，意在杀死那荒野狩猎的野兽，那只把吃掉了的不死之身。</Dest>
-    </String>
-    <String List="0">
-      <Source>Its master would like its new pet to sit and be a good boy.</Source>
-      <Dest>它的主人会喜欢上它这样乖巧听话的新宠物的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It finds the second half of the request...redundant, but its best it will do, for its soul is bound to the ring, and the bearer it serves.</Source>
-      <Dest>看来那个请求的后半部分是……多余的，可最好还是能够完成，因为它的灵魂绑定在那戒指上，服从于它的持有者。</Dest>
-    </String>
-    <String List="0">
-      <Source>Its master would like its new pet to sit and be a good boy.</Source>
-      <Dest>它的主人会喜欢上它这样乖巧听话的新宠物的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps it was once a man, but it now lives through its spirit, which wears the face of a wolf.</Source>
-      <Dest>或许它曾经是有个人样，但现在不过是个放纵着自己的灵魂，狼面兽心的野兽罢了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I know you aren't another one Eldritch's tricks?</Source>
-      <Dest>我怎么知道你不是另一个艾卓曲的把戏？</Dest>
-    </String>
-    <String List="2">
-      <Source>It has no proof, but choice it had neither. A master it serves, from one to the next. Before it was him, now it is you.</Source>
-      <Dest>没有什么证据，却也没有其他选择的可能。它侍奉一个又一个主人，上一个是他，现在轮到你了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I know you aren't another one Eldritch's tricks?</Source>
-      <Dest>我怎么知道你不是另一个艾卓曲的把戏？</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps it was once a man, but it now through spirit lives, wearing the face of a wolf.</Source>
-      <Dest>也许他曾经是人，但如今唯有灵魂仍旧存在着，披着张狼的面具。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've seen stranger things. From whence have you come?</Source>
-      <Dest>我看到了诡异的事情。你是从哪里来的？</Dest>
+      <Source>It remembers building, but whose memories they are it does not know.</Source>
+      <Dest>还有些许的记忆，但是这些记忆到底来自于谁我也不知道了。</Dest>
     </String>
     <String List="2">
       <Source>From death itself. It does not remember much, save that it is ring bound, forced to serve a master and denied eternity.</Source>
       <Dest>从死者自身来说，不需要记得太多。那只是种无尽的束缚，使他们被迫服从他们的主人并无法转世。</Dest>
     </String>
-    <String List="0">
-      <Source>I've seen stranger things. From whence have you come?</Source>
-      <Dest>我看到了诡异的事情。你是从哪里来的？</Dest>
+    <String List="2">
+      <Source>If you plan to use it, wait until the dragon is near death to cast the spell. When a good portion of its blood, it has lost.</Source>
+      <Dest>如果你打算使用这个魔法的话，耐住性子，直到龙死去的前一刻再念出咒语。那时，它的血液已不再鲜活。</Dest>
+    </String>
+    <String List="2">
+      <Source>But it is Ysgramor, and not the wolf, that he worshipped. The Kingsmoot was theft, and if you acknowledged it, you bent the knee to thieves.</Source>
+      <Dest>但他崇拜的是伊斯格拉谟，不是狼。如果你承认众王议会就是偷窃，那就代表你向匪徒们屈膝了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That would depend on what its current existence is. Is it a man tainted by the beast blood, or an animal freed from the man?</Source>
+      <Dest>这将取决于我当前的存在是什么。是一个被野兽之血玷污的男人，还是一只从人体内得以释放的动物？</Dest>
+    </String>
+    <String List="2">
+      <Source>The strength of the king's blood is needed to survive the ritual. This is also why to save him, will come at the cost of one's life.</Source>
+      <Dest>国王之血的力量需要从仪式中幸存下来。这也是为什么需要以一个人的生命为代价来救他的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>The blood is the poison. To save him, it must be transferred, blood for blood, with a spell.</Source>
+      <Dest>他的血液里充满了剧毒。为了救他，这些血液必须被替换掉，通过法术以血易血。</Dest>
+    </String>
+    <String List="2">
+      <Source>The first story tells of Borgas consumed, and an axe made from his bone.</Source>
+      <Dest>第一个故事是关于鬼迷心窍的包嘎斯，以及一把由他骨头做的斧头。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will not do enough to warn him. One must remove the blood from his body.</Source>
+      <Dest>这还不足以引起他的警觉。得给他来点狠的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It apologizes to its master. It speaks in howls. It howls to warn.</Source>
+      <Dest>它对它的主人道歉。 它嗥叫着讲话。 它嗥叫来警告。</Dest>
+    </String>
+    <String List="2">
+      <Source>A dragon's blood flows like any other. It can still be done. The problem is the amount of blood.</Source>
+      <Dest>一条龙的血流出来的时候，和其他生物的血一样，它也会干涸。问题是出血量略大啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fret not, for the answers to your questions sits before you.</Source>
+      <Dest>不公平，因为答案就在你面前坐着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but there is a second story. It tells another tale, of a man asked to fetch Borgas' remains.</Source>
+      <Dest>啊，但还有第二个故事。这是另一个传说，主旨是一个男人被要求寻找包嘎斯的残留物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but there is a second story. It tells another tale, of a man asked to fetch Borgas' remains.</Source>
+      <Dest>啊，但还有第二个故事。这是另一个传说，主旨是一个男人被要求寻找包嘎斯的残留物。</Dest>
+    </String>
+    <String List="2">
+      <Source>A king, the ritual does not crown.  A king, it devours.</Source>
+      <Dest>无冕之王，它却吞噬一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the ring is removed, the rage subsides, waters are stilled, and its mind returns, but its body is weak.</Source>
+      <Dest>当戒指被褪下之时，那狂躁不已的愤怒终于平息，潮水平静了下来，而它的神智也清醒了，但身体却变得虚弱不堪。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bone is missing. This man, he fears what his master will tell him if the corpse is incomplete.</Source>
+      <Dest>一块骨头丢了。这个男人害怕如果这具尸体不完整的话，他的主人会骂他。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bone is missing. This man, he fears what his master will tell him if the corpse is incomplete.</Source>
+      <Dest>一块骨头丢了。这个男人害怕如果这具尸体不完整的话，他的主人会骂他。</Dest>
+    </String>
+    <String List="2">
+      <Source>The beast is not slain. It is born.  A king, the ritual does not crown.  A king, it devours.</Source>
+      <Dest>野兽不是被杀了，而是出生了。仪式不是加冕了一位国王，而是吞噬了一位国王。</Dest>
+    </String>
+    <String List="2">
+      <Source>The wolf understands. But what if the sacrifice was not yours? Perhaps another dragon, one whose blood was as full as it is strong.</Source>
+      <Dest>狼很理解。但如果这牺牲不是你的呢？或许是另一头龙，另一头血液如同它的力量一般充盈的龙。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, the axe, forged from beast bone, and quenched in blood, creates a new monster.</Source>
+      <Dest>不，这把斧子，锻之以兽骨，淬之以鲜血，创造出一个新的怪物。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so, without another thought, he picks up another to put in its place. A cursed bone. The bone of a beast.</Source>
+      <Dest>然后，他毫不犹豫地拿起另一根骨头来作为替代。那被诅咒的骨头，那属于某头野兽的被诅咒的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>And so, without another thought, he picks up another to put in its place. A cursed bone. The bone of a beast.</Source>
+      <Dest>然后，他毫不犹豫地拿起另一根骨头来作为替代。那被诅咒的骨头，那属于某头野兽的被诅咒的骨头。</Dest>
+    </String>
+    <String List="2">
+      <Source>This wolf is but a spirit. It can be slain, and it can be hailed. All the master needs to do is find the other tome.</Source>
+      <Dest>这狼不过是个灵魂，它可以被杀死，也可以被称颂。大师所需要做的只是找到其他的书。</Dest>
+    </String>
+    <String List="2">
+      <Source>To dead ones the former master spoke, and spoke loudly. The ritual is not what it seems. It is certain death for all.</Source>
+      <Dest>上任大师告诉过这些现在已死的人，并且说的很大声。这个仪式不是它看起来的那个样子，它对所有人都意味着注定的死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alas, it is weak. It runs in fear at the first sign of danger, and quivers at the sight of blood.</Source>
+      <Dest>啊，有人说它咆哮，但那只不过是谎言而已。事实上它一瞄到危险便撒腿就跑，一看到鲜血就浑身哆嗦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Silence is not its best trait. It prefers to howl, and scratch, but not in that order.</Source>
+      <Dest>沉默并不是它最好的品质。它更喜欢嚎叫，抓挠，不过不是像那样。</Dest>
     </String>
     <String List="2">
       <Source>Perhaps it was once a man, but it now through spirit lives, wearing the face of a wolf.</Source>
       <Dest>也许他曾经是人，但如今唯有灵魂仍旧存在着，披着张狼的面具。</Dest>
     </String>
-    <String List="0">
-      <Source>By Lorkhan's eyes! A talking ghost wolf!</Source>
-      <Dest>洛克汗之眼阿！这有一只会说话的幽灵狼！</Dest>
+    <String List="2">
+      <Source>Perhaps it was once a man, but it now through spirit lives, wearing the face of a wolf.</Source>
+      <Dest>也许他曾经是人，但如今唯有灵魂仍旧存在着，披着张狼的面具。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, perhaps he should be slain before he cannot. The king's blood is strong, as is the beast's poison.</Source>
+      <Dest>是的，也许该有人在他成为不死之身以前杀了他。国王之血很强大，于野兽来说是味致命的毒药。</Dest>
+    </String>
+    <String List="2">
+      <Source>The war-teacher, he knew. The axe was not made of King's bone, but rather, the beast that consumed him.</Source>
+      <Dest>战争导师，他知道。斧子没能要了国王的命，但是更甚，野兽把他吞得一干二净。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the books burned here was a man's confession, and another, written centuries later, warned of its consequences.</Source>
+      <Dest>其中一本书被埋藏在这里，内容则是某人的忏悔。而另一本完成于几个世纪之后的书就警示了世人关于此事的后果。</Dest>
+    </String>
+    <String List="2">
+      <Source>It finds the second half of the request...redundant, but its best it will do, for its soul is bound to the ring, and the bearer it serves.</Source>
+      <Dest>看来那个请求的后半部分是……多余的，可最好还是能够完成，因为它的灵魂绑定在那戒指上，服从于它的持有者。</Dest>
+    </String>
+    <String List="2">
+      <Source>The bone is vengeance, meant to slay the beast of the Wild Hunt. The immortal one that consumed him.</Source>
+      <Dest>那骨头是一个复仇之魂，意在杀死那荒野狩猎的野兽，那只把吃掉了的不死之身。</Dest>
     </String>
     <String List="2">
       <Source>Yes. Although it is not sure how. It remembers defying Hircine, and its soul to ring bound.</Source>
       <Dest>是啊。虽然不知到底怎么回事。它还能记得挑战海尔辛的事，还有自己的灵魂被戒指所束缚。</Dest>
     </String>
+    <String List="2">
+      <Source>Perhaps it was once a man, but it now lives through its spirit, which wears the face of a wolf.</Source>
+      <Dest>或许它曾经是有个人样，但现在不过是个放纵着自己的灵魂，狼面兽心的野兽罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A master of blood. One who was given the beast blood at a young age, and became slave to its power.</Source>
+      <Dest>血之主。那些家伙在年幼时被给予了野兽之血，然后成了野兽之力的俘虏。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the books burned here, was a man's confession, and another, written centuries later, warned of its consequences.</Source>
+      <Dest>在这堆被烧毁的书里面，有一本是一个人的自白书，而另一本，成书时间比第一本晚了几个世纪，警示了前一本中的后果。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the books burned here, was a man's confession, and another, written centuries later, warned of its consequences.</Source>
+      <Dest>在这堆被烧毁的书里面，有一本是一个人的自白书，而另一本，成书时间比第一本晚了几个世纪，警示了前一本中的后果。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. The master's jaws should clamp at its throat and never let go. Or perhaps, like the vampire, drink its blood instead.</Source>
+      <Dest>不。大师的牙齿会紧紧地咬住它的喉咙并且永不放松。又或者，就像吸血鬼一样，以吸它的血来替代。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a way to do so, and save his life. But one must trade blood for blood, with a spell.</Source>
+      <Dest>有一种方法可以做到那样，也可以救下他的命。但是那魔法奉行的就是等价交换的原则，以血来换血。</Dest>
+    </String>
+    <String List="2">
+      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
+      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+    </String>
+    <String List="2">
+      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
+      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+    </String>
+    <String List="2">
+      <Source>But know this. If you are not of king's blood, you will not survive the transfer.</Source>
+      <Dest>但记住这点。如果你没有王者之血，你将死于这易血。</Dest>
+    </String>
+    <String List="2">
+      <Source>But when the master bears the ring, it becomes a beastman once more, and loses its temperance.</Source>
+      <Dest>而一旦主人戴上那枚戒指，它就会再次变成兽人，失去它的理智。</Dest>
+    </String>
+    <String List="2">
+      <Source>The master's companion has no fear, but she is fearful.</Source>
+      <Dest>主人的同伴无所畏惧，她却吓破了胆。</Dest>
+    </String>
+    <String List="2">
+      <Source>It has no proof, but choice it had neither. A master it serves, from one to the next. Before it was him, now it is you.</Source>
+      <Dest>没有什么证据，却也没有其他选择的可能。它侍奉一个又一个主人，上一个是他，现在轮到你了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the bone is quenched in mortal blood, it takes on a new form. Thus a beast is not slain. It is born.</Source>
+      <Dest>当兽骨被凡人之血淬炼之时，而是呈现出一个新的形式。因此，野兽不是被杀掉了。而是重获新生。</Dest>
+    </String>
+    <String List="2">
+      <Source>But perhaps there is another way. Use the spell, trade blood for blood.</Source>
+      <Dest>但或许还有另一种方式。用上这魔法吧。以血易血。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, a beast so vicious it could not be slain, until the day the Axe of a Forgotten King is wielded by a forgotten son.</Source>
+      <Dest>不，如此凶猛的野兽是无法被杀死的，直到被遗忘国王的巨斧被那遗忘之子挥舞的那一天。</Dest>
+    </String>
+    <String List="2">
+      <Source>The tome will exchange blood for blood. But know that whoever takes the beast form will not survive.</Source>
+      <Dest>底座上的书会订立血契，但是要知道任何承受野兽形态的人都不会幸存。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. There is another book. Find it, and I will heed your call.</Source>
+      <Dest>是的，还有另外一本书，找到它，我会留意到你的呼唤的。</Dest>
+    </String>
     <String List="0">
       <Source>By Lorkhan's eyes! A talking ghost wolf!</Source>
-      <Dest>洛克汗之眼阿！这有一只会说话的幽灵狼！</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps it was once a man, but it now through spirit lives, wearing the face of a wolf.</Source>
-      <Dest>也许他曾经是人，但如今唯有灵魂仍旧存在着，披着张狼的面具。</Dest>
-    </String>
-    <String List="2">
-      <Source>So the ring has gained a new owner. What does its master ask of it?</Source>
-      <Dest>So the ring has gained a new owner. What does its master ask of it?</Dest>
-    </String>
-    <String List="2">
-      <Source>Hm...you do not appear to have the ring. That leaves one other.</Source>
-      <Dest>额...你看起来好像没有那枚戒指。那一定在别人手里。</Dest>
+      <Dest>洛克汗之眼啊！这有一只会说话的幽灵狼！</Dest>
     </String>
     <String List="2">
       <Source>It apologizes for frightening you.</Source>
       <Dest>它对吓到了你感到抱歉。</Dest>
     </String>
     <String List="2">
-      <Source>The battle is won, and the pack feasts on the spoils. You have earned this day.</Source>
-      <Dest>The battle is won, and the pack feasts on the spoils. You have earned this day.</Dest>
+      <Source>Hm...you do not appear to have the ring. That leaves one other.</Source>
+      <Dest>额...你看起来好像没有那枚戒指。那一定在别人手里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps it was once a man, but it now through spirit lives, wearing the face of a wolf.</Source>
+      <Dest>也许他曾经是人，但如今唯有灵魂仍旧存在着，披着张狼的面具。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

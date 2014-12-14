@@ -7,1081 +7,996 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>You're dead anyway. Just show her the bloody stance.</Source>
-      <Dest>You're dead anyway. Just show her the bloody stance.</Dest>
-    </String>
-    <String List="2">
-      <Source>The Stance of Arkay is based on instinct and flow.  It is not something that can be taught by mimicry and instruction.</Source>
-      <Dest>阿尔凯的姿势是天性使然.  这可不是模仿或者学的来的.</Dest>
-    </String>
-    <String List="0">
-      <Source>You're dead anyway. Just show her the bloody stance.</Source>
-      <Dest>You're dead anyway. Just show her the bloody stance.</Dest>
-    </String>
-    <String List="2">
-      <Source>That flow requires a deep meditative understanding of how Arkay governs life and death, for that is the current upon which it is derived.</Source>
-      <Dest>那条河需要一次深度的思考才能理解阿尔凯是如何掌管生死的，而激流就是由此而诞生的。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're dead anyway. Just show her the bloody stance.</Source>
-      <Dest>You're dead anyway. Just show her the bloody stance.</Dest>
-    </String>
-    <String List="2">
-      <Source>Then, and only then is the mind able to see.  I can show you the principles of its movement, but without faith, your eyes will be closed.</Source>
-      <Dest>然后，只有心灵才能够看到。我可以告诉你它运动的基本规律，但如果没有信念，你将什么也看不到。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is she right?</Source>
-      <Dest>她说得对吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, and no.  Technically, it will grant her the opportunity she desires.  Yet without faith, even a million opportunities are as good as none.</Source>
-      <Dest>是的，也不是。理论上讲，它会给予她她想要的机会。然而，如果没有信仰，即便上百万次机会也一样等同于没有。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is she right?</Source>
-      <Dest>她说得对吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>The Stance of Arkay is based on instinct and flow, and the rivers of life and death. It cannot be understood without first understanding the Gods.</Source>
-      <Dest>阿尔凯之势基于在生与死的河流之中的本能和流动。如果不能先理解众神的话，就不能领会到阿尔凯之势的玄妙。</Dest>
-    </String>
-    <String List="0">
-      <Source>And if she fails again?</Source>
-      <Dest>如果她又失败了？</Dest>
-    </String>
-    <String List="2">
-      <Source>Then she very well may end her life and follow me to the void.  Such is her determination, and her temerity.</Source>
-      <Dest>那她很有可能结束自己的生命，追随我去虚空。这就是她的决心，也是她的鲁莽。</Dest>
-    </String>
-    <String List="0">
-      <Source>And if she fails again?</Source>
-      <Dest>如果她又失败了？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet, it is her lack of faith that is her downfall, for the Stance of Arkay is based on flow, and that flow is channeled from the spirit of Arkay.</Source>
-      <Dest>然而，缺乏信心是她的败因，因为阿尔凯之势基于流动，而那种流动由阿尔凯的精神引导的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What exactly is this place?</Source>
-      <Dest>这儿到底是什么地方？</Dest>
-    </String>
-    <String List="2">
-      <Source>Who can say? It belonged to the Nedes at one point, and the Akavir at another.</Source>
-      <Dest>Who can say? It belonged to the Nedes at one point, and the Akavir at another.</Dest>
-    </String>
-    <String List="0">
-      <Source>What exactly is this place?</Source>
-      <Dest>这儿到底是什么地方？</Dest>
-    </String>
-    <String List="2">
-      <Source>As such, the ghosts of Atmora and Akavir roam these halls.  It is the latter with which my pupil has quarrel.</Source>
-      <Dest>就这样，Atmora 和 Akavir 的幽灵们徜徉在这些厅堂之间。那是我的徒弟之间起了纷争之后的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>What exactly is this place?</Source>
-      <Dest>这儿到底是什么地方？</Dest>
-    </String>
-    <String List="2">
-      <Source>She thinks that facing me once more will afford her a second opportunity to learn the Stance of Arkay.</Source>
-      <Dest>她认为再见我一次就能给她提供第二次学习阿尔凯立场的机会。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>The Eight came easily enough.  It is the Ninth that eludes her, and it is of little mystery why.</Source>
-      <Dest>前八位圣灵的要求对她来说很容易就做到了。没有回应她的是第九位圣灵，而这也在意料之中。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>Contrary to her belief, it is not about whether one can overcome their fear of death, nor is it about embracing fear in order to value one's life.</Source>
-      <Dest>违背了她的信仰，不是关于能否克服对死亡的恐惧。也不是为了珍惜生命而拥抱恐惧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>If it were derived from such platitudes, no doubt she would have long since mastered it already.</Source>
-      <Dest>如果它是那么简单的话，她早就掌握了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>No, the Stance of Arkay is a technique that requires and understanding of the Divines.</Source>
-      <Dest>不， 阿凯之势是种需要理解圣灵的技巧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>You see, everything from the air we breathe to the ground under our feet is governed by Arkay's influence.</Source>
-      <Dest>要知道，从我们呼吸的空气到我们脚下的土地，一切都在阿尔凯的庇佑之下。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>In combat, the rivers of life and death flow into a single current, and only one who yields to Arkay's will can know where they part.</Source>
-      <Dest>在战斗中，生与死的河流将相互激荡，交汇到一起，而只有服从阿尔凯之意志的人，才能挥剑斩出生与死的界线，把握自己的命运。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
-      <Dest>斯维雪妮为啥没能传承九圣灵之道?</Dest>
-    </String>
-    <String List="2">
-      <Source>S'vashni thinks of the religious and the practical as two separate blades.  At no point did she consider they can be wielded as one.</Source>
-      <Dest>斯维雪妮把宗教和实用性视为两个互不相干的方面。她从来没有想过它们可以被融为一体。</Dest>
+      <Source>(Lie) I had a vision from the Divines. The ritual must be held at Winter's Peak.</Source>
+      <Dest>(撒谎)我看到了圣灵传达给我的幻觉。仪式一定是在冽冬之巅进行。</Dest>
     </String>
     <String List="0">
       <Source>(Lie) I had a vision from the Divines. The ritual must be held at Winter's Peak.</Source>
       <Dest>(撒谎)我看到了圣灵传达给我的幻觉。仪式一定是在冽冬之巅进行。</Dest>
     </String>
-    <String List="2">
-      <Source>Winter's peak...where Kynareth sheds no tears...</Source>
-      <Dest>冽冬之巅...凯娜瑞斯的泪无之地...</Dest>
-    </String>
     <String List="0">
       <Source>(Lie) I had a vision from the Divines. The ritual must be held at Winter's Peak.</Source>
       <Dest>(撒谎)我看到了圣灵传达给我的幻觉。仪式一定是在冽冬之巅进行。</Dest>
-    </String>
-    <String List="2">
-      <Source>It snowed that day, when it should've rained.  It dressed the trees in helms of white.</Source>
-      <Dest>本该下雨的那天下起了大雪，给大树换上了雪白的新衣。</Dest>
-    </String>
-    <String List="0">
-      <Source>(Lie) I had a vision from the Divines. The ritual must be held at Winter's Peak.</Source>
-      <Dest>(撒谎)我看到了圣灵传达给我的幻觉。仪式一定是在冽冬之巅进行。</Dest>
-    </String>
-    <String List="2">
-      <Source>The forests south of Dawnstar. If the Divines will it, then that is where we will perform the ritual.</Source>
-      <Dest>晨星城南边的森林。如果圣灵志在于此，那我们就在那儿开始仪式吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>How does a ghost possess the living?</Source>
-      <Dest>鬼魂如何能控制活着的人？</Dest>
-    </String>
-    <String List="2">
-      <Source>It may sound impossible, and to my pupil that made it so.</Source>
-      <Dest>这听起来不太可能，这是我的徒弟造的孽。</Dest>
-    </String>
-    <String List="0">
-      <Source>How does a ghost possess the living?</Source>
-      <Dest>鬼魂如何能控制活着的人？</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, one who understands how Arkay commands life and death, knows the two states are nearly identical.</Source>
-      <Dest>此外,一个明白阿尔凯是怎么控制生与死的人，会明白这两种状态其实是差不多的。.</Dest>
-    </String>
-    <String List="0">
-      <Source>How does a ghost possess the living?</Source>
-      <Dest>鬼魂如何能控制活着的人？</Dest>
-    </String>
-    <String List="2">
-      <Source>However, the gap between us cannot be crossed by one side alone.  It requires two willing partners to bridge.</Source>
-      <Dest>无论如何，我们之间的间隙不能通过单单一方而弥合。那得双方都有合作意愿才行。</Dest>
     </String>
     <String List="0">
       <Source>I am ready for the trial.</Source>
-      <Dest>我准备好面对试炼了.</Dest>
-    </String>
-    <String List="2">
-      <Source>Then let us proceed.</Source>
-      <Dest>那么让我们继续。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can defeat her without performing your pilgrimage.</Source>
-      <Dest>没有你的祭拜仪式我也能祭拜她。</Dest>
-    </String>
-    <String List="2">
-      <Source>I do not doubt the veracity of your strength.  However, you would do well to recognize hers.</Source>
-      <Dest>我并不怀疑你的强悍。但是, 你最好去会一会她的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can defeat her without performing your pilgrimage.</Source>
-      <Dest>没有你的祭拜仪式我也能祭拜她。</Dest>
-    </String>
-    <String List="2">
-      <Source>You will also be doing me a favor, as I would like to see the Stance of Arkay once more, in the hands of a true heir.</Source>
-      <Dest>请你帮我个忙，因为我想再一次从一个真正的继承者手里看到阿尔凯之势。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is wishful thinking on behalf of my pupil. She wishes to believe she is close, when she couldn't be more far.</Source>
-      <Dest>这是我学生的痴心妄想。她越想要相信她能接近，她就越是无法靠近。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>My hope was that in our fateful battle, she would experience a Divine Intervention, as these pilgrims do when the end draws near.</Source>
-      <Dest>我的希望是在我们的宿命之战里她会经历一次神圣干涉，就像那些朝圣者面临终局时所做的一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>If she failed to embrace the Divines' teachings, she would die by my hand.  Such is her skill that this is the outcome we endure.</Source>
-      <Dest>如果她没能贯彻圣灵们的教诲的话，我就亲自杀了她。可以说她的技艺是我们忍耐和坚持的结果。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>You too will face a similar test, but you do not have to do it alone.  I need you to receive the blessing of 8 warriors of the Divines.</Source>
-      <Dest>你还要面对一个类似的测试，但是你不必一个人解决，我需要你去接受八个神职勇士的赐福。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>Together, you will be able to see the rivers of life and death flow through your stance, but only as long as the 9 of us are bound to your will.</Source>
-      <Dest>我们一起，你将会看见生命之河，并且感受到死亡流过你的脚下。不过，只有当我们九个的意志都与你同在才行。</Dest>
-    </String>
-    <String List="0">
-      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
-      <Dest>当我跟她说话时，斯维雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
-    </String>
-    <String List="2">
-      <Source>Such is the consequence of shortcuts, but we do not have the time for the long road.</Source>
-      <Dest>抄近道当然得有代价，但是我们也没时间走正道了。</Dest>
-    </String>
-    <String List="0">
-      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
-      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, life and death, the duality of nature, all is expressed in a fateful battle between master and pupil.</Source>
-      <Dest>是的，生与死，自然的两面，都在这师徒间重要的争斗中体现出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
-      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
-    </String>
-    <String List="2">
-      <Source>This is a road you too must walk, but you do not have to walk it alone. There is a way to hasten the process.</Source>
-      <Dest>这也是你要走的路，不过你不用独自前行。这里有种可以加快这一过程的方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
-      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
-    </String>
-    <String List="2">
-      <Source>It involves receiving the blessing of 8 warriors, who embody the spirit of the remaining 8 Divines.</Source>
-      <Dest>八位圣灵勇士会陪伴在你身边，他们就是八圣灵之精神的具现化。</Dest>
-    </String>
-    <String List="0">
-      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
-      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Together, you will be able to see the rivers of life and death flow through your stance, but only as long as the 9 of us are bound to your will.</Source>
-      <Dest>我们一起，你将会看见生命之河，并且感受到死亡流过你的脚下。不过，只有当我们九个的意志都与你同在才行。</Dest>
-    </String>
-    <String List="0">
-      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
-      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Such is the consequence of shortcuts, but we do not have the time for the long road.</Source>
-      <Dest>抄近道当然得有代价，但是我们也没时间走正道了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>First, you must find a Brute of Talos.  A warrior whose very breath is a declaration of war.</Source>
-      <Dest>首先，你必须找到塔洛斯之野蛮。勇士即以战斗的宣告为呼吸。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Second, the Embrace of Mara.   Only one who fights for love will burn the embers.</Source>
-      <Dest>第二，玛拉的拥抱。任何为爱而战之人都会燃烧这余烬。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Third, the Mercy of Stendarr.  Claim the warrior's whose very weapon is forbearance.</Source>
-      <Dest>第三个，代表斯丹达尔的怜悯。这名勇士须以宽容为刃。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Fourth, a Tear of Kynareth.  Seek the one who walks amongst the beasts, and gives life to the soil.</Source>
-      <Dest>第四个，是凯娜瑞斯的一滴眼泪。找到那在野兽中行走的人，给予大地生命。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Fifth, a Mind of Julianos.  Only one whose intellect is a sharp as my blade will pass this test.</Source>
-      <Dest>第五，尤里安诺思的智慧。只有那些智慧如我的刀刃般锋利的人才能通过这个考验。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Sixth, a Mark of Dibella.  Find one whose beauty is profound enough to melt a heart of steel.</Source>
-      <Dest>第六个，是迪贝拉之印记。找到那拥有足以融化钢铁之心的美丽之人。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Seventh, a Scale of Zenithar.  Seek the aid of one who fights for coin, and tip the scales toward your victory.</Source>
-      <Dest>第七个，泽尼萨尔之圣骸。向为金钱而战的人寻求帮助，然后将胜利的天枰偏向于你。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Lastly, the Judge of Akatosh.  Only a warrior who claims lordship over the realm of time will light the path.</Source>
-      <Dest>最后，阿卡托什的审判。唯有支配了时间之领域的勇士，才能点亮征途。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>When you have been blessed by Eight who are worthy, and the 8 flames are lit, then I will stand as the ninth.  </Source>
-      <Dest>当你已经被可敬的八圣灵祝福，并且那八簇火焰已经被点燃，那么我会争取去做第九个的。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I walk the supplicant's road?</Source>
-      <Dest>我该怎么去走祈求者之路？</Dest>
-    </String>
-    <String List="2">
-      <Source>Now go, my young disciple, and keep the Gods in your heart.</Source>
-      <Dest>现在走吧，年轻的信徒，时刻记着神在你心中。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then I will be your sword in life, and her guide to death.</Source>
-      <Dest>然后我会做你的守护之剑，做她的死亡向导。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well said, young disciple.  Now, on to the matter of the pilgrimage itself.</Source>
-      <Dest>说的好，年轻的信徒。现在,是朝圣本身的问题。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your disciple is no enemy of mine.  What if I refuse?</Source>
-      <Dest>你的门徒不是我的敌人，所以如果我拒绝呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>If you side with her, then you may receive the ire of the Gods, or perhaps, even worse, their indifference.</Source>
-      <Dest>如果你支持她，那圣灵或许会愤怒。或者，更糟的是，他们也可能会漠不关心。</Dest>
+      <Dest>我准备好面对试炼了。</Dest>
     </String>
     <String List="0">
       <Source>I apologize, but I am no swordsman.</Source>
       <Dest>抱歉，但我不是剑士。</Dest>
     </String>
-    <String List="2">
-      <Source>It matters not.  All one needs is a belief in the Divines, and they will guide your hands.</Source>
-      <Dest>这都不是问题。我们所需的仅仅是对圣灵的信仰，然后他们会指引你的双手。</Dest>
+    <String List="0">
+      <Source>Your disciple is no enemy of mine.  What if I refuse?</Source>
+      <Dest>你的门徒不是我的敌人，所以如果我拒绝呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does a ghost possess the living?</Source>
+      <Dest>鬼魂如何能控制活着的人？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does a ghost possess the living?</Source>
+      <Dest>鬼魂如何能控制活着的人？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does a ghost possess the living?</Source>
+      <Dest>鬼魂如何能控制活着的人？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did S'vashni fail to inherit the Way of the Nine?</Source>
+      <Dest>斯維雪妮为啥没能传承九圣灵之道呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I spoke with her, S'vashni thought she detected a pattern in the stance.</Source>
+      <Dest>当我跟她说话时，斯維雪妮觉得她从言谈举止中看出了一些端倪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can defeat her without performing your pilgrimage.</Source>
+      <Dest>没有你的祭拜仪式我也能祭拜她。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can defeat her without performing your pilgrimage.</Source>
+      <Dest>没有你的祭拜仪式我也能祭拜她。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I will be your sword in life, and her guide to death.</Source>
+      <Dest>然后我会做你的守护之剑，做她的死亡向导。</Dest>
+    </String>
+    <String List="0">
+      <Source>And if she fails again?</Source>
+      <Dest>如果她又失败了呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>And if she fails again?</Source>
+      <Dest>如果她又失败了呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly is this place?</Source>
+      <Dest>这儿到底是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly is this place?</Source>
+      <Dest>这儿到底是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly is this place?</Source>
+      <Dest>这儿到底是什么地方？</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no more questions.  What is it you ask of me?</Source>
+      <Dest>我没别的问题了，这就是你的全部要求吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no more questions.  What is it you ask of me?</Source>
+      <Dest>我没别的问题了，这就是你的全部要求吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I have no more questions.  What is it you ask of me?</Source>
+      <Dest>我没别的问题了，这就是你的全部要求吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is she right?</Source>
+      <Dest>她说得对吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is she right?</Source>
+      <Dest>她说得对吗？</Dest>
     </String>
     <String List="0">
       <Source>So your goal is to humiliate her.</Source>
       <Dest>所以你的目标是要羞辱她。</Dest>
     </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>我该怎么去走祈求者之路？</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说阿尔凯之势一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do not doubt the veracity of your strength.  However, you would do well to recognize hers.</Source>
+      <Dest>我并不怀疑你的强悍。但是, 你最好去会一会她的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Winter's peak...where Kynareth sheds no tears...</Source>
+      <Dest>冽冬之巅...凯娜瑞斯的泪无之地...</Dest>
+    </String>
+    <String List="2">
+      <Source>You will also be doing me a favor, as I would like to see the Stance of Arkay once more, in the hands of a true heir.</Source>
+      <Dest>请你帮我个忙，因为我想再一次从一个真正的继承者手里看到阿尔凯之势。</Dest>
+    </String>
+    <String List="2">
+      <Source>It may sound impossible, and to my pupil that made it so.</Source>
+      <Dest>这听起来不太可能，这是我的徒弟造的孽。</Dest>
+    </String>
+    <String List="2">
+      <Source>When you have been blessed by Eight who are worthy, and the 8 flames are lit, then I will stand as the ninth.  </Source>
+      <Dest>当你已经被可敬的八圣灵祝福，并且那八簇火焰已经被点燃，那么我会争取去做第九个的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well said, young disciple.  Now, on to the matter of the pilgrimage itself.</Source>
+      <Dest>说的好，年轻的信徒。现在,是朝圣本身的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Together, you will be able to see the rivers of life and death flow through your stance, but only as long as the 9 of us are bound to your will.</Source>
+      <Dest>我们一起，你将会看见生命之河，并且感受到死亡流过你的脚下。不过，只有当我们九个的意志都与你同在才行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Together, you will be able to see the rivers of life and death flow through your stance, but only as long as the 9 of us are bound to your will.</Source>
+      <Dest>我们一起，你将会看见生命之河，并且感受到死亡流过你的脚下。不过，只有当我们九个的意志都与你同在才行。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you side with her, then you may receive the ire of the Gods, or perhaps, even worse, their indifference.</Source>
+      <Dest>如果你支持她，那圣灵或许会愤怒。或者，更糟的是，他们也可能会漠不关心。</Dest>
+    </String>
+    <String List="2">
+      <Source>My hope was that in our fateful battle, she would experience a Divine Intervention, as these pilgrims do when the end draws near.</Source>
+      <Dest>我的希望是在我们的宿命之战里她会经历一次神圣干涉，就像那些朝圣者面临终局时所做的一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, life and death, the duality of nature, all is expressed in a fateful battle between master and pupil.</Source>
+      <Dest>是的，生与死，自然的两面，都在这师徒间重要的争斗中体现出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a road you too must walk, but you do not have to walk it alone. There is a way to hasten the process.</Source>
+      <Dest>这也是你要走的路，不过你不用独自前行。这里有种可以加快这一过程的方法。</Dest>
+    </String>
     <String List="2">
       <Source>She humiliates herself with her refusal of the Gods.  This is their retribution.</Source>
       <Dest>她对神灵的拒绝使自己蒙羞。这就是他们的报复。</Dest>
     </String>
-    <String List="0">
-      <Source>I have no more questions.  What is it you ask of me?</Source>
-      <Dest>我没别的问题了，那你有什么要问我的？</Dest>
+    <String List="2">
+      <Source>Fourth, a Tear of Kynareth.  Seek the one who walks amongst the beasts, and gives life to the soil.</Source>
+      <Dest>第四个，是凯娜瑞斯的一滴眼泪。找到那在野兽中行走的人，给予大地生命。</Dest>
     </String>
     <String List="2">
-      <Source>To end the life of my disciple.  And to demonstrate to her the power of the Divines.</Source>
-      <Dest>To end the life of my disciple.  And to demonstrate to her the power of the Divines.</Dest>
-    </String>
-    <String List="0">
-      <Source>I have no more questions.  What is it you ask of me?</Source>
-      <Dest>我没别的问题了，那你有什么要问我的？</Dest>
+      <Source>Second, the Embrace of Mara.   Only one who fights for love will burn the embers.</Source>
+      <Dest>其次，是玛拉的拥抱。唯有那为爱而战的勇士才能燃尽那灰烬。</Dest>
     </String>
     <String List="2">
-      <Source>To accomplish that, you must endure what she would not.  Only through the pilgrimage of the Divines can you prove your worth.</Source>
-      <Dest>为了实现这个目标，你得忍受她不能忍受的东西。只有向圣灵的朝圣之旅能够证明你的价值。</Dest>
+      <Source>That is wishful thinking on behalf of my pupil. She wishes to believe she is close, when she couldn't be more far.</Source>
+      <Dest>这是我徒弟的痴心妄想。她越想要相信她能接近，她就越是无法靠近。</Dest>
     </String>
-    <String List="0">
-      <Source>I have no more questions.  What is it you ask of me?</Source>
-      <Dest>我没别的问题了，那你有什么要问我的？</Dest>
+    <String List="2">
+      <Source>That flow requires a deep meditative understanding of how Arkay governs life and death, for that is the current upon which it is derived.</Source>
+      <Dest>那条河需要一次深度的思考才能理解阿尔凯是如何掌管生死的，而激流就是由此而诞生的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is what my pupil effectively did to the Nine Divines, without whom she would not have been half the warrior she was.</Source>
+      <Dest>这就是我的学生实际上是怎么对九圣灵的，没有他们的话她连如今自己成就的一半都达不到。</Dest>
+    </String>
+    <String List="2">
+      <Source>The forests south of Dawnstar. If the Divines will it, then that is where we will perform the ritual.</Source>
+      <Dest>晨星城南边的森林。如果圣灵志在于此，那我们就在那儿开始仪式吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, one who understands how Arkay commands life and death, knows the two states are nearly identical.</Source>
+      <Dest>此外,一个明白阿尔凯是怎么控制生与死的人，会明白这两种状态其实是差不多的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Seventh, a Scale of Zenithar.  Seek the aid of one who fights for coin, and tip the scales toward your victory.</Source>
+      <Dest>第七个，泽尼萨尔之圣骸。向为金钱而战的人寻求帮助，然后将胜利的天枰偏向于你。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Eight came easily enough.  It is the Ninth that eludes her, and it is of little mystery why.</Source>
+      <Dest>前八位圣灵的要求对她来说很容易就做到了。没有回应她的是第九位圣灵，而这也在意料之中。</Dest>
+    </String>
+    <String List="2">
+      <Source>You too will face a similar test, but you do not have to do it alone.  I need you to receive the blessing of 8 warriors of the Divines.</Source>
+      <Dest>你还要面对一个类似的测试，但是你不必一个人解决，我需要你去接受八位圣灵勇士的赐福。</Dest>
+    </String>
+    <String List="2">
+      <Source>In combat, the rivers of life and death flow into a single current, and only one who yields to Arkay's will can know where they part.</Source>
+      <Dest>在战斗中，生与死的河流将相互激荡，交汇到一起，而只有服从阿尔凯之意志的人，才能挥剑斩出生与死的界线，把握自己的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fifth, a Mind of Julianos.  Only one whose intellect is a sharp as my blade will pass this test.</Source>
+      <Dest>第五，尤里安诺思的智慧。只有那些智慧如我的刀刃般锋利的人才能通过这个考验。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stance of Arkay is based on instinct and flow, and the rivers of life and death. It cannot be understood without first understanding the Gods.</Source>
+      <Dest>阿尔凯之势基于在生与死的河流之中的本能和流动。如果不能先理解众神的话，就不能领会到阿尔凯之势的玄妙。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, the Stance of Arkay is a technique that requires and understanding of the Divines.</Source>
+      <Dest>不， 阿尔凯之势是一种只有充分理解圣灵，才能领会的技巧。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it were derived from such platitudes, no doubt she would have long since mastered it already.</Source>
+      <Dest>如果它是那么简单的话，她早就掌握了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now go, my young disciple, and keep the Gods in your heart.</Source>
+      <Dest>现在走吧，年轻的信徒，时刻记着神在你心中。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, the gap between us cannot be crossed by one side alone.  It requires two willing partners to bridge.</Source>
+      <Dest>无论如何，我们之间的间隙不能通过单单一方而弥合。那得双方都有合作意愿才行。</Dest>
+    </String>
+    <String List="2">
+      <Source>It snowed that day, when it should've rained.  It dressed the trees in helms of white.</Source>
+      <Dest>本该下雨的那天下起了大雪，给大树换上了雪白的新衣。</Dest>
+    </String>
+    <String List="2">
+      <Source>It matters not.  All one needs is a belief in the Divines, and they will guide your hands.</Source>
+      <Dest>这都不是问题。我们所需的仅仅是对圣灵的信仰，然后他们会指引你的行动。</Dest>
     </String>
     <String List="2">
       <Source>When you have walked the supplicant's road, then you will be ready to inherit the Stance of Arkay.</Source>
       <Dest>当你涉足了祈求者之路，然后你就可以继承阿尔凯之势了。</Dest>
     </String>
-    <String List="0">
-      <Source>I wasn't aware the Gods were so sensitive.</Source>
-      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    <String List="2">
+      <Source>As such, the ghosts of Atmora and Akavir roam these halls.  It is the latter with which my pupil has quarrel.</Source>
+      <Dest>就这样，阿特莫拉和阿卡维尔的幽灵们徜徉在这些厅堂之间。那是我的徒弟之间起了纷争之后的事。</Dest>
     </String>
     <String List="2">
-      <Source>It is not arrogance to provide everything in one's power to help another achieve, only to have the person spit in your face.</Source>
-      <Dest>It is not arrogance to provide everything in one's power to help another achieve, only to have the person spit in your face.</Dest>
-    </String>
-    <String List="0">
-      <Source>I wasn't aware the Gods were so sensitive.</Source>
-      <Dest>我没想到做神灵的也这么敏感。</Dest>
+      <Source>S'vashni thinks of the religious and the practical as two separate blades.  At no point did she consider they can be wielded as one.</Source>
+      <Dest>斯维雪妮把宗教和实用性视为两个互不相干的方面。她从来没有想过它们可以被融为一体。</Dest>
     </String>
     <String List="2">
-      <Source>That is what my pupil effectively did to the Nine Divines, without whom she would not have been half the warrior she was.</Source>
-      <Dest>【这就是我的学生实际上是怎么对九圣灵的，没有他们的话她连如今自己成就的一半儿都达不到。】</Dest>
-    </String>
-    <String List="0">
-      <Source>I wasn't aware the Gods were so sensitive.</Source>
-      <Dest>我没想到做神灵的也这么敏感。</Dest>
+      <Source>Then, and only then is the mind able to see.  I can show you the principles of its movement, but without faith, your eyes will be closed.</Source>
+      <Dest>然后，只有心灵才能够看到。我可以告诉你它运动的基本规律，但如果没有信念，你将什么也看不到。</Dest>
     </String>
     <String List="2">
-      <Source>Some see the Divines as lending a helping hand, pulling us up from the well.</Source>
-      <Dest>一些人看到了圣灵伸出了援手，把我们从井中拉了上来。</Dest>
+      <Source>Yes, and no.  Technically, it will grant her the opportunity she desires.  Yet without faith, even a million opportunities are as good as none.</Source>
+      <Dest>是的，也不是。理论上讲，它会给予她她想要的机会。然而，如果没有信仰，即便上百万次机会也一样等同于没有。</Dest>
+    </String>
+    <String List="2">
+      <Source>It involves receiving the blessing of 8 warriors, who embody the spirit of the remaining 8 Divines.</Source>
+      <Dest>八位圣灵勇士会陪伴在你身边，他们就是八圣灵之精神的具现化。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lastly, the Judge of Akatosh.  Only a warrior who claims lordship over the realm of time will light the path.</Source>
+      <Dest>最后，阿卡托什的审判。唯有支配了时间之领域的勇士，才能点亮征途。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, everything from the air we breathe to the ground under our feet is governed by Arkay's influence.</Source>
+      <Dest>要知道，从我们呼吸的空气到我们脚下的土地，一切都在阿尔凯的庇佑之下。</Dest>
+    </String>
+    <String List="2">
+      <Source>To accomplish that, you must endure what she would not.  Only through the pilgrimage of the Divines can you prove your worth.</Source>
+      <Dest>为了实现这个目标，你得忍受她不能忍受的东西。只有向圣灵的朝圣之旅能够证明你的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Third, the Mercy of Stendarr.  Claim the warrior's whose very weapon is forbearance.</Source>
+      <Dest>第三个，是斯丹达尔的怜悯。这名勇士应以宽容为刃。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then she very well may end her life and follow me to the void.  Such is her determination, and her temerity.</Source>
+      <Dest>那她很有可能结束自己的生命，追随我去虚空。这就是她的决心，也是她的鲁莽。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet, it is her lack of faith that is her downfall, for the Stance of Arkay is based on flow, and that flow is channeled from the spirit of Arkay.</Source>
+      <Dest>然而，缺乏信心是她的败因，因为阿尔凯之势基于流动，而那种流动由阿尔凯的精神引导的。</Dest>
+    </String>
+    <String List="2">
+      <Source>First, you must find a Brute of Talos.  A warrior whose very breath is a declaration of war.</Source>
+      <Dest>首先，你必须找到塔洛斯之野蛮。勇士即以战斗的宣告为呼吸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Contrary to her belief, it is not about whether one can overcome their fear of death, nor is it about embracing fear in order to value one's life.</Source>
+      <Dest>违背了她的信仰，不是关于能否克服对死亡的恐惧。也不是为了珍惜生命而拥抱恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stance of Arkay is based on instinct and flow.  It is not something that can be taught by mimicry and instruction.</Source>
+      <Dest>阿尔凯的姿势是天性使然。这可不是模仿或者学得来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such is the consequence of shortcuts, but we do not have the time for the long road.</Source>
+      <Dest>抄近道当然得有代价，但是我们也没时间走正道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such is the consequence of shortcuts, but we do not have the time for the long road.</Source>
+      <Dest>抄近道当然得有代价，但是我们也没时间走正道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then let us proceed.</Source>
+      <Dest>那么让我们继续。</Dest>
+    </String>
+    <String List="2">
+      <Source>She thinks that facing me once more will afford her a second opportunity to learn the Stance of Arkay.</Source>
+      <Dest>她认为再见我一次就能给她提供第二次学习阿尔凯之势的机会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, I think the person you want is over there somewhere.</Source>
+      <Dest>抱歉，我想你要找的那个人就在那附近。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, I think the person you want is over there somewhere.</Source>
+      <Dest>抱歉，我想你要找的那个人就在那附近。</Dest>
+    </String>
+    <String List="0">
+      <Source>She was a strong warrior, and a worthy foe.</Source>
+      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>She was a strong warrior, and a worthy foe.</Source>
+      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>She was a strong warrior, and a worthy foe.</Source>
+      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>She was a strong warrior, and a worthy foe.</Source>
+      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>She was a strong warrior, and a worthy foe.</Source>
+      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
+      <Dest>她身上带的阿卡维尔之刃可是值不少钱啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
+      <Dest>她身上带的阿卡维尔之刃可是值不少钱啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
+      <Dest>她身上带的阿卡维尔之刃可是值不少钱啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
+      <Dest>她身上带的阿卡维尔之刃可是值不少钱啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
+      <Dest>她身上带的阿卡维尔之刃可是值不少钱啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
+      <Dest>所以我不会去学习九圣灵之道的。我只是利用它的知识而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
+      <Dest>所以我不会去学习九圣灵之道的。我只是利用它的知识而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
+      <Dest>所以我不会去学习九圣灵之道的。我只是利用它的知识而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
+      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引至湮灭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
+      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引至湮灭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
+      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引至湮灭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. I detest actual training. This way works far better.</Source>
+      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. I detest actual training. This way works far better.</Source>
+      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. I detest actual training. This way works far better.</Source>
+      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems to me the Gods didn't care much for his service.</Source>
+      <Dest>我看圣灵们对他的侍奉没怎么在意。</Dest>
+    </String>
+    <String List="0">
+      <Source>Seems to me the Gods didn't care much for his service.</Source>
+      <Dest>我看圣灵们对他的侍奉没怎么在意。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
+      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
+      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
+      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
+      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, he gave his body?</Source>
+      <Dest>你是什么意思，他献出了自己的身体吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, he gave his body?</Source>
+      <Dest>你是什么意思，他献出了自己的身体吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt his desire was to die in this place.</Source>
+      <Dest>我看他是想死在这里。</Dest>
+    </String>
+    <String List="0">
+      <Source>I doubt his desire was to die in this place.</Source>
+      <Dest>我看他是想死在这里。</Dest>
+    </String>
+    <String List="0">
+      <Source>You said I "arrived at last."  Were you expecting me?</Source>
+      <Dest>你说我“终于来了。"你很期待我的到来吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You said I "arrived at last."  Were you expecting me?</Source>
+      <Dest>你说我“终于来了。"你很期待我的到来吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Just don't get too comfortable. It's a bit crowded in my head already.</Source>
+      <Dest>只是不要太感觉良好了，我感觉脑袋有点堵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just don't get too comfortable. It's a bit crowded in my head already.</Source>
+      <Dest>只是不要太感觉良好了，我感觉脑袋有点堵。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
+      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
+      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
+    </String>
+    <String List="0">
+      <Source>Bless his soul and guide it to Aetherius.</Source>
+      <Dest>祝福他的灵魂并引导它去往艾瑟瑞斯吧。</Dest>
     </String>
     <String List="0">
       <Source>I wasn't aware the Gods were so sensitive.</Source>
       <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0">
+      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
+      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
+      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
+      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're going to possess me like that pilgrim?</Source>
+      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're going to possess me like that pilgrim?</Source>
+      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're going to possess me like that pilgrim?</Source>
+      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Her prowess, her talent, her skill in battle could not stand up to the might of the Gods as they drowned her in the tide of fate.</Source>
+      <Dest>她的勇敢，她的才华和她的作战技能都不足以对抗神灵之力，它们已经把她淹没在命运的洪流中。</Dest>
+    </String>
+    <String List="2">
+      <Source>For that is the true test of faith, to believe that all things great are forged by the Gods, and to avoid the temptation to make a god of yourself.</Source>
+      <Dest>这是对于信仰的真正考验：不仅要相信神铸造的一切皆是伟大的，还要限制引诱自己成神的欲望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>It speaks to my pupil's desperation and stubbornness that she humbles herself by blaming her tools rather than humble herself before the Gods.</Source>
+      <Dest>我学生的绝望和固执表现在她自省的方式是抱怨自己的工具不行而不是在神灵面前反省。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is no coincidence.  Truly, the Gods are great.</Source>
+      <Dest>这绝对不是巧合。真的，神灵们太棒了！</Dest>
+    </String>
+    <String List="2">
+      <Source>That is not a person who is strong. Nor is it one who is worthy. Remember that, when next you judge one's character.</Source>
+      <Dest>一个不坚强的人，也不会是一个值得尊敬的人。在你未来判断一个人的性格的时候，记住这句话吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood, but do not worry, I will not take control of your mind.  I will be like a memory, a source of information you can access at will.</Source>
+      <Dest>我明白了，但是不要担心，我不会控制你的思想。我像是一个存储器，你可以随意访问信息的来源。</Dest>
     </String>
     <String List="2">
       <Source>Others see them as a footstool to step on, a tool to be discarded once they have escaped the struggles of the womb.</Source>
       <Dest>别人把它们视为垫脚石，一旦脱离困境就该扔了的工具。</Dest>
     </String>
-    <String List="0">
-      <Source>I wasn't aware the Gods were so sensitive.</Source>
-      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    <String List="2">
+      <Source>It would appear so, but he and I are not one in the same.  I merely used his body to conceal my spirit from my pupil.</Source>
+      <Dest>表面看起来是，可他和我并不是同一个人。我只是用他的身体来藏匿我的精神，为了不让我徒弟发现。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, we must all show deference for to our makers.  It is the cardinal mistake of mortals to assume that all achievement is their own doing.</Source>
+      <Dest>是的，我们必须展示出与我们创造者的差别来。凡人认为所有成就都是他们的杰作是个原则性的错误。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until then, I will be at your side, as will the Gods.  Farewell.</Source>
+      <Dest>到那时，我会与诸神一样与你相伴。再会吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until then, I will be at your side, as will the Gods.  Farewell.</Source>
+      <Dest>到那时，我会与诸神一样与你相伴。再会吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are no coincidences. The Divines forever aid us, and do everything in their power to make it appear that we have not been aided.</Source>
+      <Dest>没有什么偶然。圣灵永远与我们同在，永远在我们最需要帮助的时候用他们的力量来让奇迹出现。</Dest>
+    </String>
+    <String List="2">
+      <Source>Worry not, your mind will be clear. You will simply be able to call upon my knowledge and the spirit of those who blessed you, much like a spell.</Source>
+      <Dest>不用担心，你的思想将变得清晰。你就可以召唤我的知识和精神，让它们祝福于你。就像魔法一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some see the Divines as lending a helping hand, pulling us up from the well.</Source>
+      <Dest>一些人看到了圣灵伸出了援手，把我们从井中拉了上来。</Dest>
+    </String>
+    <String List="2">
+      <Source>By remaining a humble servant, and giving yourself to faith, you achieved more than my pupil ever could.</Source>
+      <Dest>像一个仆人一样保持谦逊，给予自己一个信仰，你会达到比我的徒弟们更高的高度。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have.  Ever since my death I have been waiting for you to come...waiting for a sign.  Then today, you enter on the heels of my pupil.</Source>
+      <Dest>是的。从我死的那天起我就在等你...等着神迹发生。今天，你终于追随着我徒弟的脚步而来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet the wisdom of the Gods goes beyond mortal conventions, and I submit myself to their governance.</Source>
+      <Dest>然而，众神的智慧超越了凡人的认知。而我服从他们的支配。</Dest>
+    </String>
+    <String List="2">
+      <Source>It will effectively end my legacy, for you will not possess the knowledge to teach it either.  Yet the alternative is far worse.</Source>
+      <Dest>那样会有效地处理掉我的遗产，因为你也无法掌握足以教学的知识。即便如此替代方案实在是差了很多。</Dest>
     </String>
     <String List="2">
       <Source>It is not a matter of sensitivity.  Such an insult cannot be pardoned.</Source>
       <Dest>这不是什么敏不敏感的事，这样的羞辱不能被原谅。</Dest>
     </String>
-    <String List="0">
-      <Source>I wasn't aware the Gods were so sensitive.</Source>
-      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    <String List="2">
+      <Source>Such piddling tools will not serve you against one who serves the Divines.  The sharpest blade is rusted away by Kynareth's rain.</Source>
+      <Dest>这种微不足道的小人物不会助你对抗一名侍神者。即使是最锋利的刀也会因凯娜瑞斯之雨而生锈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and the steward of The Way of the Nine.</Source>
+      <Dest>原谅我吧.....我的礼貌尽失。我的名字叫加勒特，我是斯维雪妮的前主人，九大领地的管家。</Dest>
+    </String>
+    <String List="2">
+      <Source>May he find peace in the immortal coil.  Thank you for the prayer. I am pleased to see the messenger I have been given is a person of faith.</Source>
+      <Dest>也许他在永生之盘里找到了宁静。谢谢你的祈祷。我很高兴我所托付的信使是个有信仰的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps.  Yet while it is convenient for those on their deathbed to renew their faith, do not confuse his death with divine judgment.</Source>
+      <Dest>或许吧。但对于将死之人来说，临时变更他们的信仰实在是轻而易举。不要误以为是圣灵的审判致其死亡。</Dest>
     </String>
     <String List="2">
       <Source>So my parting advice to you is this.  Honor the gods.  Fear them.  For those who do not, find themselves on the wrong side of history.  Farewell.</Source>
       <Dest>临别时再奉劝你一句。赞美诸神。敬畏他们。因为那些没有这样做的人，都发现自己站在了历史的对立面。后会有期。</Dest>
     </String>
-    <String List="0">
-      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
-      <Dest>她身上带的阿卡维里之刃是个不错的奖品。</Dest>
+    <String List="2">
+      <Source>They offer their bodies to the ghosts that haunt these halls, so together they may find absolution.</Source>
+      <Dest>他们为游荡在这些大厅中的鬼魂献出了自己的身体，因此他们可能已经被宽恕了。</Dest>
     </String>
     <String List="2">
-      <Source>Such piddling tools will not serve you against one who serves the Divines.  The sharpest blade is rusted away by Kynareth's rain.</Source>
-      <Dest>这种微不足道的小人物不会助你对抗一名侍神者。即使是最锋利的刀也会因凯娜瑞斯之雨而生锈。</Dest>
+      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
+      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
     </String>
-    <String List="0">
-      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
-      <Dest>她身上带的阿卡维里之刃是个不错的奖品。</Dest>
+    <String List="2">
+      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
+      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
+      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
+      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
+      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It snowed that day, when it should've rained.  It dressed the trees in helms of white.</Source>
+      <Dest>本该下雨的那天下起了大雪，给大树换上了雪白的新衣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even if you wield not a sword, or even care to use the Way of the Nine, the trial prepared you to face one trained in the art.</Source>
+      <Dest>即使你没有使用武力，甚至都未使用九圣灵之道，饱经试练的你也要做好接受面前考验的准备。</Dest>
+    </String>
+    <String List="2">
+      <Source>So she seeks to replicate our final duel, to finish the lesson she began that day.</Source>
+      <Dest>所以她想要效仿我们巅峰之战的做法，去完成她自那天起就未完成的工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must not fight the tide.  You must use it to your advantage by giving glory to the makers.</Source>
+      <Dest>你不能抗拒这股浪潮。你必须通过将荣誉归于你的创造者，而将此变为你的优势。</Dest>
+    </String>
+    <String List="2">
+      <Source>In truth, this is the only way you can utilize the stances without proper training.</Source>
+      <Dest>事实上，这是使你得以利用这种能力而无需适当训练的唯一方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fire of Julianos is lit, and yet you still lack wisdom and patience.  This will come, when the trial ends, but it will not be permanent.</Source>
+      <Dest>尤里安诺斯之火已经点燃，然而你仍然缺乏智慧和耐心。当试炼结束时，这些都会出现的，但是不是永久的。</Dest>
+    </String>
+    <String List="2">
+      <Source>For it is your faith, and your faith alone, that proves you to be more than a hero. With that, I bid you farewell. Divines guide you on your travels.</Source>
+      <Dest>因为你有信心，只凭这份信心，就证明你胜于英雄。为此，我向你衷心道别。愿圣灵指引你的旅途！</Dest>
+    </String>
+    <String List="2">
+      <Source>In their final days, many pilgrims come to sacred crypts such as this one, in hopes of redeeming themselves from a life of sin.  </Source>
+      <Dest>在他们最后的日子里，许多朝圣者都会来到这样的圣室里，盼望着能将自己赎离充满罪业的生命。</Dest>
+    </String>
+    <String List="2">
+      <Source>What you will gain will suffice for this task.  My pupil will no longer be able to pass on my teachings without the guiding principles of faith.</Source>
+      <Dest>你所学的技能已经足以完成这项任务。没有忠贞信仰的引导，我的学生将无法传承我所教授的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Strength and worthiness are not the measure of a mortal.  Your victory is proof enough that faith overcomes all.</Source>
+      <Dest>力量和价值不是衡量一个凡人的标尺。你的胜利已经很好地证明了信念能克服一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was predetermined.  What happens when his soul reaches Aetherius, that is beyond our fragile wisdom.</Source>
+      <Dest>那些事冥冥中早已注定。不管他的英灵去往艾瑟瑞斯的时候会如何，这已经超出了我们的浅薄智慧所及。</Dest>
+    </String>
+    <String List="2">
+      <Source>If all our desires were granted, none of us would ever die, and then the world itself would cease living.</Source>
+      <Dest>如果所有人的所有欲望都得到了满足，就不会有人死亡，这个世界也将迎来终焉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. Unfortunately, my connection to this plane is faint, and I have not the time to train you properly.  Even so, it would take decades.</Source>
+      <Dest>是啊。很不幸，我与这个领域的联系已经很弱了，我也没有时间来好好地训练你了，所以说，或许需要几十年吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust his death was beyond his control.  That is why he came and why he allowed me to possess.  To find absolution in the next life.</Source>
+      <Dest>我相信他无法控制自己的生死，这就是为什么他来到我的面前并对我唯命是从，他这是在为他的下辈子寻求宽恕。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is the mortal arrogance, the poison that killed my first pupil.  Young disciple, it seems you have much to learn.</Source>
+      <Dest>人类的傲慢是味毒药，正是它杀死了我第一个徒弟。年轻的弟子啊，看来你要学的还很多。</Dest>
+    </String>
+    <String List="2">
+      <Source>The forests south of Dawnstar.  That's likely where you will find her.  Where we will find her.  And where this will all end.</Source>
+      <Dest>在南晨星城的森林。那是她最可能出现的地方，或许我们能在那里找到她。到那时这一切都会结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>He is one of many pilgrims who offered his body to the ghosts of this hall.  I accepted his bargain.  Now I must find my absolution, as he found his.</Source>
+      <Dest>他是把自己身体献给这座大厅灵魂的众多朝圣者之一。我接受他的条件。现在我必须寻求自我救赎，就像他那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Carry that knowledge with you, and with the Divines in your heart, perhaps you may one day wield the Way of the Nine without my aid.</Source>
+      <Dest>带走那些知识，伴随着圣灵的庇佑，也许有一天你可以无需我的帮助运用九圣灵之道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Carry that knowledge with you, and with the Divines in your heart, perhaps you may one day wield the Way of the Nine without my aid.</Source>
+      <Dest>带走那些知识，伴随着圣灵的庇佑，也许有一天你可以无需我的帮助运用九圣灵之道。</Dest>
     </String>
     <String List="2">
       <Source>The heartiest warrior is withered to bones by Akatosh's time.</Source>
       <Dest>再活跃的战士也会在阿卡托什的时间长河中化为枯骨。</Dest>
     </String>
     <String List="0">
-      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
-      <Dest>她身上带的阿卡维里之刃是个不错的奖品。</Dest>
-    </String>
-    <String List="2">
-      <Source>It speaks to my pupil's desperation and stubbornness that she humbles herself by blaming her tools rather than humble herself before the Gods.</Source>
-      <Dest>我学生的绝望和固执表现在她自省的方式是抱怨自己的工具不行而不是在神灵面前反省。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
     <String List="0">
-      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
-      <Dest>她身上带的阿卡维里之刃是个不错的奖品。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is not a person who is strong. Nor is it one who is worthy. Remember that, when next you judge one's character.</Source>
-      <Dest>一个不坚强的人，也不会是一个值得尊敬的人。在你未来判断一个人的性格的时候，记住这句话吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>And the Akaviri blades she had on her made for a fine prize.</Source>
-      <Dest>她身上带的阿卡维里之刃是个不错的奖品。</Dest>
-    </String>
-    <String List="2">
-      <Source>For it is your faith, and your faith alone, that proves you to be more than a hero. With that, I bid you farewell. Divines guide you on your travels.</Source>
-      <Dest>因为你有信心，只凭这份信心，就证明你胜于英雄。为此，我向你衷心道别。愿圣灵指引你的旅途！</Dest>
-    </String>
-    <String List="0">
-      <Source>She was a strong warrior, and a worthy foe.</Source>
-      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Strength and worthiness are not the measure of a mortal.  Your victory is proof enough that faith overcomes all.</Source>
-      <Dest>力量和价值不是衡量一个凡人的标尺。你的胜利已经很好地证明了信念能克服一切。</Dest>
-    </String>
-    <String List="0">
-      <Source>She was a strong warrior, and a worthy foe.</Source>
-      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Her prowess, her talent, her skill in battle could not stand up to the might of the Gods as they drowned her in the tide of fate.</Source>
-      <Dest>她的勇敢，她的才华和她的作战技能都不足以对抗神灵之力，祂们已经把她淹没在命运的洪流中。</Dest>
-    </String>
-    <String List="0">
-      <Source>She was a strong warrior, and a worthy foe.</Source>
-      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
-    </String>
-    <String List="2">
-      <Source>You must not fight the tide.  You must use it to your advantage by giving glory to the makers.</Source>
-      <Dest>你不能抗拒这股浪潮。你必须通过将荣誉归于你的创造者，而将此变为你的优势。</Dest>
-    </String>
-    <String List="0">
-      <Source>She was a strong warrior, and a worthy foe.</Source>
-      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Carry that knowledge with you, and with the Divines in your heart, perhaps you may one day wield the Way of the Nine without my aid.</Source>
-      <Dest>带走那些知识，伴随着圣灵的庇佑，也许有一天你可以无需我的帮助运用九圣灵之道。</Dest>
-    </String>
-    <String List="0">
-      <Source>She was a strong warrior, and a worthy foe.</Source>
-      <Dest>她是个强壮的战士，也是个可敬的敌人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until then, I will be at your side, as will the Gods.  Farewell.</Source>
-      <Dest>到那时，我会与诸神一样[与你相伴]。再会吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>To be honest, I went through the trial just to humor you. I used my own power.</Source>
-      <Dest>To be honest, I went through the trial just to humor you. I used my own power.</Dest>
-    </String>
-    <String List="2">
-      <Source>That is the mortal arrogance, the poison that killed my first pupil.  Young disciple, it seems you have much to learn.</Source>
-      <Dest>人类的傲慢是味毒药，正是它杀死了我的第一个学生。年轻的弟子啊，看来你要学的还很多。</Dest>
-    </String>
-    <String List="0">
-      <Source>To be honest, I went through the trial just to humor you. I used my own power.</Source>
-      <Dest>To be honest, I went through the trial just to humor you. I used my own power.</Dest>
-    </String>
-    <String List="2">
-      <Source>Even if you wield not a sword, or even care to use the Way of the Nine, the trial prepared you to face one trained in the art.</Source>
-      <Dest>即使你没有使用武力，甚至经历过九圣灵之路，饱经试练的你也要做好接受面前已经准备好的考验。</Dest>
-    </String>
-    <String List="0">
-      <Source>To be honest, I went through the trial just to humor you. I used my own power.</Source>
-      <Dest>To be honest, I went through the trial just to humor you. I used my own power.</Dest>
-    </String>
-    <String List="2">
-      <Source>There are no coincidences. The Divines forever aid us, and do everything in their power to make it appear that we have not been aided.</Source>
-      <Dest>没有什么偶然。圣灵永远与我们同在，永远在我们最需要帮助的时候用他们的力量来让奇迹出现。</Dest>
-    </String>
-    <String List="0">
-      <Source>To be honest, I went through the trial just to humor you. I used my own power.</Source>
-      <Dest>To be honest, I went through the trial just to humor you. I used my own power.</Dest>
-    </String>
-    <String List="2">
-      <Source>For that is the true test of faith, to believe that all things great are forged by the Gods, and to avoid the temptation to make a god of yourself.</Source>
-      <Dest>这是对于信仰的真正考验：不仅要相信神铸造的一切皆是伟大的，还要限制引诱自己成神的欲望。</Dest>
-    </String>
-    <String List="0">
-      <Source>To be honest, I went through the trial just to humor you. I used my own power.</Source>
-      <Dest>To be honest, I went through the trial just to humor you. I used my own power.</Dest>
-    </String>
-    <String List="2">
-      <Source>That is my parting advice to you.  Honor the gods.  Fear them.  For those who challenge them find themselves on the wrong side of history.  Farewell.</Source>
-      <Dest>That is my parting advice to you.  Honor the gods.  Fear them.  For those who challenge them find themselves on the wrong side of history.  Farewell.</Dest>
-    </String>
-    <String List="0">
-      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
-      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, we must all show deference for to our makers.  It is the cardinal mistake of mortals to assume that all achievement is their own doing.</Source>
-      <Dest>是的，我们必须展示出与我们创造者的差别来。凡人认为所有成就都是他们的杰作是个原则性的错误。</Dest>
-    </String>
-    <String List="0">
-      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
-      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
-    </String>
-    <String List="2">
-      <Source>By remaining a humble servant, and giving yourself to faith, you achieved more than my pupil ever could.</Source>
-      <Dest>像一个仆人一样保持谦逊，给予自己一个信仰，你会达到比我的徒弟们更高的高度。</Dest>
-    </String>
-    <String List="0">
-      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
-      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
-    </String>
-    <String List="2">
-      <Source>Carry that knowledge with you, and with the Divines in your heart, perhaps you may one day wield the Way of the Nine without my aid.</Source>
-      <Dest>带走那些知识，伴随着圣灵的庇佑，也许有一天你可以无需我的帮助运用九圣灵之道。</Dest>
-    </String>
-    <String List="0">
-      <Source>I am pleased I was able to serve the Gods in this capacity.</Source>
-      <Dest>我很庆幸我用自己的才能来为神效力。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until then, I will be at your side, as will the Gods.  Farewell.</Source>
-      <Dest>到那时，我会与诸神一样[与你相伴]。再会吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
-      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>So she seeks to replicate our final duel, to finish the lesson she began that day.</Source>
-      <Dest>所以她想要效仿我们巅峰之战的做法，去完成她那天开始的工作。</Dest>
-    </String>
-    <String List="0">
-      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
-      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>It snowed that day, when it should've rained.  It dressed the trees in helms of white.</Source>
-      <Dest>本该下雨的那天下起了大雪，给大树换上了雪白的新衣。</Dest>
-    </String>
-    <String List="0">
-      <Source>She said to meet at Winter's peak, where Kynareth sheds no tears.</Source>
-      <Dest>她说要在冽冬之巅碰头，那个凯娜瑞斯也不会流泪的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>The forests south of Dawnstar.  That's likely where you will find her.  Where we will find her.  And where this will all end.</Source>
-      <Dest>在南晨星城的森林。那是她最可能出现的地方，或许我们能在那里找到她。到那时这一切都会结束。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hold on. Give me more time to consider this.</Source>
-      <Dest>Hold on. Give me more time to consider this.</Dest>
-    </String>
-    <String List="2">
-      <Source>Understood.</Source>
-      <Dest>了解。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just don't get too comfortable. It's a bit crowded in my head already.</Source>
-      <Dest>只是不要感觉良好，这真塞满我的脑袋了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Understood, but do not worry, I will not take control of your mind.  I will be like a memory, a source of information you can access at will.</Source>
-      <Dest>我明白了,但是不要担心,我不会控制你的思想。我像是一个存储器 ,您可以随意访问信息的来源。
-</Dest>
-    </String>
-    <String List="0">
-      <Source>Just don't get too comfortable. It's a bit crowded in my head already.</Source>
-      <Dest>只是不要感觉良好，这真塞满我的脑袋了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
-      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Good. I detest actual training. This way works far better.</Source>
-      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>What you will gain will suffice for this task.  My pupil will no longer be able to pass on my teachings without the guiding principles of faith.</Source>
-      <Dest>你所学的技能已经足以完成这项任务。没有忠贞信仰的引导，我的学生将无法传承我所教授的东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>Good. I detest actual training. This way works far better.</Source>
-      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>It will effectively end my legacy, for you will not possess the knowledge to teach it either.  Yet the alternative is far worse.</Source>
-      <Dest>那样会有效的处理掉我的遗产，因为你也无法掌握足以教学的知识。即便如此替代方案实在是差了很多。</Dest>
-    </String>
-    <String List="0">
-      <Source>Good. I detest actual training. This way works far better.</Source>
-      <Dest>很好，我讨厌场地训练，这样的方法好太多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
-      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
-    </String>
-    <String List="0">
-      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
-      <Dest>所以我不会去学习九圣灵之道。我只是利用它的知识而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes. Unfortunately, my connection to this plane is faint, and I have not the time to train you properly.  Even so, it would take decades.</Source>
-      <Dest>是啊。很不幸，我与这个领域的联系已经很弱了，我也没有时间来好好地训练你了，所以说，或许需要几十年吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
-      <Dest>所以我不会去学习九圣灵之道。我只是利用它的知识而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, however temporary, you will be able to utilize the full breadth of the technique.  True knowledge will have to be gained on your own. </Source>
-      <Dest>虽然就这么一会儿，你还是能利用到这种技术的全部力量。真正的知识将由你自己去领悟了。</Dest>
-    </String>
-    <String List="0">
-      <Source>So I won't learn the Way of the Nine. I will merely summon its knowledge.</Source>
-      <Dest>所以我不会去学习九圣灵之道。我只是利用它的知识而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
-      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
-      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引致湮灭。</Dest>
-    </String>
-    <String List="2">
-      <Source>The fire of Julianos is lit, and yet you still lack wisdom and patience.  This will come, when the trial ends, but it will not be permanent.</Source>
-      <Dest>尤里安诺斯之火已经点燃，然而你仍然缺乏智慧和耐心。当试炼结束时，这些都会出现的，但是不是永久的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
-      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引致湮灭。</Dest>
-    </String>
-    <String List="2">
-      <Source>You will call upon my knowledge like a spell, and with it, the ability to use the Way of the Nine.</Source>
-      <Dest>You will call upon my knowledge like a spell, and with it, the ability to use the Way of the Nine.</Dest>
-    </String>
-    <String List="0">
-      <Source>Enough talk. Summon these ghosts and I'll slay them.</Source>
-      <Dest>说得够多了。召唤这些鬼魂吧。我将会把他们引致湮灭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
-      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're going to possess me like that pilgrim?</Source>
-      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Worry not, your mind will be clear. You will simply be able to call upon my knowledge and the spirit of those who blessed you, much like a spell.</Source>
-      <Dest>不用担心,你的思想将变得清晰。你就可以召唤我的知识和精神，让它们祝福于你。就像魔法一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're going to possess me like that pilgrim?</Source>
-      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>In truth, this is the only way you can utilize the stances without proper training.</Source>
-      <Dest>事实上，这是使你得以利用这种能力而无需适当训练的唯一方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're going to possess me like that pilgrim?</Source>
-      <Dest>你想像支配那个朝圣者那样支配我吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you are ready, I would like to begin the ritual.</Source>
-      <Dest>现在，如果你准备好了，我要开始仪式了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Bless his soul and guide it to Aetherius.</Source>
-      <Dest>祝福他的灵魂并引导它去往艾瑟瑞斯吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>May he find peace in the immortal coil.  Thank you for the prayer. I am pleased to see the messenger I have been given is a person of faith.</Source>
-      <Dest>也许他在永生之盘里找到了宁静。谢谢你的祈祷。我很高兴我所托付的信使是个有信仰的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Seems to me the Gods didn't care much for his service.</Source>
-      <Dest>我看圣灵们对他的侍奉没怎么在意。</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps.  Yet while it is convenient for those on their deathbed to renew their faith, do not confuse his death with divine judgment.</Source>
-      <Dest>或许吧。但对于将死之人来说，临时变更他们的信仰实在是轻而易举。不要误以为是圣灵的审判致其死亡。</Dest>
-    </String>
-    <String List="0">
-      <Source>Seems to me the Gods didn't care much for his service.</Source>
-      <Dest>我看圣灵们对他的侍奉没怎么在意。</Dest>
-    </String>
-    <String List="2">
-      <Source>That was predetermined.  What happens when his soul reaches Aetherius, that is beyond our fragile wisdom.</Source>
-      <Dest>那些事冥冥中早已注定。不管他的英灵去往艾瑟瑞斯的时候会如何，这已经超出了我们的浅薄智慧所及。</Dest>
-    </String>
-    <String List="0">
-      <Source>I doubt his desire was to die in this place.</Source>
-      <Dest>我看他是想死在这里。</Dest>
-    </String>
-    <String List="2">
-      <Source>If all our desires were granted, none of us would ever die, and then the world itself would cease living.</Source>
-      <Dest>如果所有人的所有欲望都得到了满足，就不会有人死亡，这个世界也将迎来终焉。</Dest>
-    </String>
-    <String List="0">
-      <Source>I doubt his desire was to die in this place.</Source>
-      <Dest>我看他是想死在这里。</Dest>
-    </String>
-    <String List="2">
-      <Source>I trust his death was beyond his control.  That is why he came and why he allowed me to possess.  To find absolution in the next life.</Source>
-      <Dest>我相信他无法控制自己的生死. 这就是为什么他来对我唯命是从.来为他将来的生活寻求宽恕.</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, he gave his body?</Source>
-      <Dest>你是什么意思，他献出了自己的身体吗?</Dest>
-    </String>
-    <String List="2">
-      <Source>In their final days, many pilgrims come to sacred crypts such as this one, in hopes of redeeming themselves from a life of sin.  </Source>
-      <Dest>在他们最后的日子里，许多朝圣者都会来到这样的圣室里，盼望着能将自己赎离充满罪业的生命。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, he gave his body?</Source>
-      <Dest>你是什么意思，他献出了自己的身体吗?</Dest>
-    </String>
-    <String List="2">
-      <Source>They offer their bodies to the ghosts that haunt these halls, so together they may find absolution.</Source>
-      <Dest>他们为游荡在这些大厅中的鬼魂献出了自己的身体，因此他们可能已经被宽恕了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Too late. I'm alarmed. And talking to the ghost of a man who just died.</Source>
-      <Dest>Too late. I'm alarmed. And talking to the ghost of a man who just died.</Dest>
-    </String>
-    <String List="2">
-      <Source>It would appear so, but he and I are not one in the same.  I merely used his body to conceal my spirit from my pupil.</Source>
-      <Dest>表面看起来是，可他和我并不是同一个人。我只是用他的身体来对我的学生【pupil】隐瞒意图【spirit】。</Dest>
-    </String>
-    <String List="0">
-      <Source>Too late. I'm alarmed. And talking to the ghost of a man who just died.</Source>
-      <Dest>Too late. I'm alarmed. And talking to the ghost of a man who just died.</Dest>
-    </String>
-    <String List="2">
-      <Source>He is one of many pilgrims who offered his body to the ghosts of this hall.  I accepted his bargain.  Now I must find my absolution, as he found his.</Source>
-      <Dest>他是把自己身体献给这座大厅灵魂的众多朝圣者之一。我接受他的条件。现在我必须寻求自我救赎，就像他那样。</Dest>
-    </String>
-    <String List="0">
-      <Source>You said I "arrived at last."  Were you expecting me?</Source>
-      <Dest>你说我“终于来了。"你很期待我吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I have.  Ever since my death I have been waiting for you to come...waiting for a sign.  Then today, you enter on the heels of my pupil.</Source>
-      <Dest>对。从我死的那天起我就在等你……等一个标记。今天，你带着我的学生来了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You said I "arrived at last."  Were you expecting me?</Source>
-      <Dest>你说我“终于来了。"你很期待我吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>This is no coincidence.  Truly, the Gods are great.</Source>
-      <Dest>这绝对不是巧合。真的，神灵们太棒了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Sorry, I think the person you want is over there somewhere.</Source>
-      <Dest>抱歉，我想你要找的那个人就在那附近。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, it can only be you.  Someone who has encountered my pupil and lived to tell the tale.  A person worthy of her fear, and my respect.</Source>
-      <Dest>No, it can only be you.  Someone who has encountered my pupil and lived to tell the tale.  A person worthy of her fear, and my respect.</Dest>
-    </String>
-    <String List="0">
-      <Source>Sorry, I think the person you want is over there somewhere.</Source>
-      <Dest>抱歉，我想你要找的那个人就在那附近。</Dest>
-    </String>
-    <String List="2">
-      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and the steward of The Way of the Nine.</Source>
-      <Dest>原谅我吧.....我的礼貌尽失。我的名字叫加勒特，我是斯维雪妮的前主人，九大领地的管家。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
-      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
-    </String>
-    <String List="2">
-      <Source>It appears the Divines have a sense of humor after all, sending a drunkard to be the shovel with which I dig myself out of this prison.</Source>
-      <Dest>看来圣灵也不乏幽默感，他们送来的醉鬼居然成了助我挖出一条生路的铲子。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
-      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet the wisdom of the Gods goes beyond mortal conventions, and I submit myself to their governance.</Source>
-      <Dest>然而，众神的智慧超越了凡人的认知。而我服从他们的支配。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
-      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
-    </String>
-    <String List="2">
-      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and the steward of The Way of the Nine.</Source>
-      <Dest>原谅我吧.....我的礼貌尽失。我的名字叫加勒特，我是斯维雪妮的前主人，九大领地的管家。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then let us both fulfill our service to the Divines.</Source>
-      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well said, my young disciple.  For when we ignore the teachings of the Divines, we throw ourselves in a pit of despair.</Source>
-      <Dest>说得好，我年轻的信徒。当我们忘记圣灵的教诲时，我们就会掉入绝望的深渊中。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then let us both fulfill our service to the Divines.</Source>
-      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>In life, I made one such mistake.  And while the Gods will not rescue me, in you they offer a rope, so that I may climb the walls of redemption.</Source>
-      <Dest>这一生中，我曾犯过一个类似的错误。虽然神不会屈尊拯救我，但是他们给了一条绳子，好让我可以用它来攀登救赎的高墙。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then let us both fulfill our service to the Divines.</Source>
-      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and steward of The Way of the Nine.</Source>
-      <Dest>原谅我...刚才我真是失礼了。我叫加勒特。我是斯维雪妮的前任主人，九圣灵之路的管理者。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
     <String List="0">
       <Source>The Gods had nothing to do with it, ghost.  I came here on my own.</Source>
       <Dest>上帝也对此无能为力，幽灵。我是凭借一己之力来到这里的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gods had nothing to do with it, ghost.  I came here on my own.</Source>
+      <Dest>上帝也对此无能为力，幽灵。我是凭借一己之力来到这里的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Gods had nothing to do with it, ghost.  I came here on my own.</Source>
+      <Dest>上帝也对此无能为力，幽灵。我是凭借一己之力来到这里的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's right.  I'm here.  So now what?  Got any ale or mead?</Source>
+      <Dest>那就对啦。我来了。然后呢？你有麦芽酒还是蜂蜜酒？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then let us both fulfill our service to the Divines.</Source>
+      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then let us both fulfill our service to the Divines.</Source>
+      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then let us both fulfill our service to the Divines.</Source>
+      <Dest>那就让我们共同完成对圣灵的义务吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, your presence must be the will of the Divines.  For with you here to represent the 8 stances, I need not summon another.</Source>
+      <Dest>事实上，你的到來想必是圣灵们的旨意。既然你已经作为八位圣灵的代表而在这里了，那我也就不需要召來其他人了。</Dest>
     </String>
     <String List="2">
       <Source>That is where you are mistaken, young disciple.  The Gods have a hand in all things, for all things were made by the hands of the Gods.</Source>
       <Dest>这就是你的错误所在，年轻的信徒。神能掌握一切事物，所有事物都经由神之手诞生。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Gods had nothing to do with it, ghost.  I came here on my own.</Source>
-      <Dest>上帝也对此无能为力，幽灵。我是凭借一己之力来到这里的。</Dest>
-    </String>
-    <String List="2">
-      <Source>You remind me of her.  She did not heed the teachings of the Divines, and now she pays the price.</Source>
-      <Dest>你让我想起了她。她从不在意圣灵们的教诲，现在她付出代价了。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Gods had nothing to do with it, ghost.  I came here on my own.</Source>
-      <Dest>上帝也对此无能为力，幽灵。我是凭借一己之力来到这里的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and steward of The Way of the Nine.</Source>
-      <Dest>原谅我...刚才我真是失礼了。我叫加勒特。我是斯维雪妮的前任主人，九圣灵之路的管理者。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, stay quiet and follow me.</Source>
-      <Dest>嘿，安静点儿，跟我来。</Dest>
-    </String>
-    <String List="2">
-      <Source>You have arrived at last.  Do not be alarmed.  This pilgrim gave his body in service to the Gods, as was his desire.</Source>
-      <Dest>你终于到了。不要慌。这个圣徒早已经把他的身心连同欲求都献给了诸神。</Dest>
-    </String>
-    <String List="2">
-      <Source>You have returned, young disciple.  The bonfires have been lit.  The stage is set.  Now, all that is left is your trial.</Source>
-      <Dest>你回来了啊，年轻人。篝火已被点燃。时机已成熟。现在，万事皆备，就差你的测试了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Using the blessings you have garnered, I will summon 8 ghosts of Akavir and bind them to my will.  I will stand as the ninth.</Source>
-      <Dest>使用你得到的祝福, 我将会召唤8个阿卡维尔的鬼魂，并把他们住入我的意志之中。而我将会是第九个。</Dest>
-    </String>
-    <String List="2">
-      <Source>When you vanquish them, you will absorb part of my spirit, and as such, part of my knowledge.</Source>
-      <Dest>当你击败它们时，你将会获得我的部分灵魂，以及，我的部分知识。</Dest>
-    </String>
-    <String List="2">
-      <Source>And it is imperative that you vanquish all of them.</Source>
-      <Dest>而你必须把他们全部击败。</Dest>
-    </String>
-    <String List="2">
-      <Source>Contrary to what Svashni told you, the Stance of Arkay is not the master technique.  It is merely the last step in a staircase of 9.</Source>
-      <Dest>和斯维雪妮告诉你的恰恰相反，阿尔凯之势不是可以掌握的技巧。它仅仅是通往九圣灵之梯的最后一步。</Dest>
-    </String>
-    <String List="2">
-      <Source>Meaning, it is the knowledge of all 9 stances, and faith in all 9 Divines, that grants you the knowledge to be a true master.</Source>
-      <Dest>有意思，这些知识包含了所有九圣灵之势，以及对九圣灵的信仰。授予你这些知识的一定是个真正的大师。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your trial is over, young disciple.  Yet you are a disciple no more.</Source>
-      <Dest>你的试验结束了，年轻的学生。而你也只能是个学生。</Dest>
-    </String>
-    <String List="2">
-      <Source>You should now be able to summon the Way of the Nine.  My thoughts and Arkay's spirit will flow into your blades.</Source>
-      <Dest>你现在马上可以召唤九圣之道了。我的思维与阿尔凯的精神会涌入你的刀刃之中。</Dest>
-    </String>
-    <String List="2">
-      <Source>All that is left is to find my pupil, and show her the extent of the Gods' wrath for those who walk without faith.</Source>
-      <Dest>只剩下找到我的学生，然后让她看到，众神对那些无信仰之人的愤怒已经到达那种程度了。</Dest>
-    </String>
-    <String List="2">
-      <Source>So my pupil is dead.  This is a glorious day.  No longer will she debase the teachings I have given her. </Source>
-      <Dest>所以我的徒弟已经死了。这是光荣的一天。她再也不会玷污我所教授她的东西了。</Dest>
-    </String>
-    <String List="2">
-      <Source>For one should not take from the Gods and not show appreciation for their gifts.  Such an offense cannot be forgiven.</Source>
-      <Dest>因为人不可以从神灵那里获取好处而丝毫没有感激之情。这样的冒犯无法容忍。</Dest>
-    </String>
-    <String List="2">
-      <Source>Warriors of the Akavir! Divines of Aetherius! I call upon your sevice, so that we may test this champion, in a crucible of Blades!</Source>
-      <Dest>阿卡维尔的勇士啊！艾瑟瑞斯的圣灵啊！我需要你的服务，这样我们也许就能测试这个战士了，通过刀锋战士的严酷考验！</Dest>
-    </String>
-    <String List="2">
-      <Source>Come forth, come all, and with every cup let our minds and our faith be sharpened!</Source>
-      <Dest>出来，都给我出来，这酒喝上每一杯都会让我们的思想和信仰变的尖锐起来！</Dest>
-    </String>
-    <String List="2">
-      <Source>Warriors of the Akavir! Divines of Aetherius! I call upon your service, so that we may test this champion in a crucible of blades!</Source>
-      <Dest>阿卡维尔的战士！光界的神明！我呼唤你们的护佑，让我们能在刀光剑影中考验我们的勇士！</Dest>
-    </String>
-    <String List="2">
-      <Source>Then you are truly a fool, my pupil, as is your accomplice.  </Source>
-      <Dest>那你就是一个真正的蠢货，我的徒弟，因为你即是帮凶。</Dest>
-    </String>
-    <String List="2">
-      <Source>For I have the strength of Nine Divines, and no weapon is as powerful as faith!</Source>
-      <Dest>因为我有九圣灵的力量，而世界上没有任何比信念更强大的武器！</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>I am not your opponent.  I already gave you your chance, my pupil.  I need not give you another.</Source>
-      <Dest>我不是你的对手。我已经给了你机会，我的学生。我不需要给你另一个。 </Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, your presence must be the will of the Divines.  For with you here to represent the 8 stances, I need not summon another.</Source>
-      <Dest>事实上，你的到来想必是圣灵们的旨意。　既然你已经在这代表八位圣灵，我也就不需要召来其他人了。</Dest>
-    </String>
-    <String List="2">
-      <Source>The champion will undergo the ritual, and it will culminate with your death.</Source>
-      <Dest>守护者将经历这个仪式，这个仪式将以你的死亡作为高潮。</Dest>
-    </String>
-    <String List="2">
-      <Source>Come forth, come all, and with every cut, let our minds and our faith be sharpened!</Source>
-      <Dest>出来，全都出来，带着每一处伤口，让我们的思想和我们的信仰变的更加坚定！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hnnngh!</Source>
-      <Dest>呵啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Those blades are sacred!</Source>
-      <Dest>那些剑是神圣的！！</Dest>
-    </String>
-    <String List="2">
-      <Source>Curse you grave robber!  Arkay take your soul!</Source>
-      <Dest>我诅咒你，该死的盗墓贼！阿尔凯会带走你的灵魂！</Dest>
     </String>
     <String List="2">
       <Source>Bloody heathen!  The ghosts here are benevolent spirits!</Source>
       <Dest>该死的异教徒！这里的幽灵的都是友善的灵魂！</Dest>
     </String>
     <String List="2">
+      <Source>And it is imperative that you vanquish all of them.</Source>
+      <Dest>而你必须把他们全部击败。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your trial is over, young disciple.  Yet you are a disciple no more.</Source>
+      <Dest>你的试验结束了，年轻的学生。而你也只能是个学生。</Dest>
+    </String>
+    <String List="2">
+      <Source>When you vanquish them, you will absorb part of my spirit, and as such, part of my knowledge.</Source>
+      <Dest>当你击败它们时，你将会获得我的部分灵魂，以及，我的部分知识。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come forth, come all, and with every cup let our minds and our faith be sharpened!</Source>
+      <Dest>出来，都给我出来，这酒喝上每一杯都会让我们的思想和信仰变的尖锐起来！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, stay quiet and follow me.</Source>
+      <Dest>嘿，安静点儿，跟我来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not your opponent.  I already gave you your chance, my pupil.  I need not give you another.</Source>
+      <Dest>我不是你的对手。我已经给了你机会，我的徒弟。我不需要给你另一个。 </Dest>
+    </String>
+    <String List="2">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>Hnnngh!</Source>
+      <Dest>呵啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Meaning, it is the knowledge of all 9 stances, and faith in all 9 Divines, that grants you the knowledge to be a true master.</Source>
+      <Dest>有意思，这些知识包含了所有九圣灵之势，以及对九圣灵的信仰。授予你这些知识的一定是个真正的大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Warriors of the Akavir! Divines of Aetherius! I call upon your sevice, so that we may test this champion, in a crucible of Blades!</Source>
+      <Dest>阿卡维尔的战士！光界的神明！我呼唤你们的护佑，让我们能在刀光剑影中考验我们的勇士！</Dest>
+    </String>
+    <String List="2">
+      <Source>For I have the strength of Nine Divines, and no weapon is as powerful as faith!</Source>
+      <Dest>因为我有九圣灵的力量，而世界上没有任何比信念更强大的武器！</Dest>
+    </String>
+    <String List="2">
+      <Source>All that is left is to find my pupil, and show her the extent of the Gods' wrath for those who walk without faith.</Source>
+      <Dest>只剩下找到我的徒弟，然后让她看到，众神对那些无信仰之人的愤怒已经到达哪种程度了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Forgive me...where are my manners.  My name is Garrett.  I am S'vashni's former master, and the steward of The Way of the Nine.</Source>
+      <Dest>原谅我吧...我的礼貌尽失。我的名字叫加勒特，我是斯维雪妮的前主人，九大领地的管家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Warriors of the Akavir! Divines of Aetherius! I call upon your service, so that we may test this champion in a crucible of blades!</Source>
+      <Dest>阿卡维尔的战士！光界的神明！我呼唤你们的护佑，让我们能在刀光剑影中考验我们的勇士！</Dest>
+    </String>
+    <String List="2">
+      <Source>The champion will undergo the ritual, and it will culminate with your death.</Source>
+      <Dest>守护者将经历这个仪式，这个仪式将以你的死亡作为高潮。</Dest>
+    </String>
+    <String List="2">
+      <Source>Those blades are sacred!</Source>
+      <Dest>那些剑是神圣的！！</Dest>
+    </String>
+    <String List="2">
+      <Source>For one should not take from the Gods and not show appreciation for their gifts.  Such an offense cannot be forgiven.</Source>
+      <Dest>因为人不可以从神灵那里获取好处而丝毫没有感激之情。这样的冒犯无法容忍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Contrary to what Svashni told you, the Stance of Arkay is not the master technique.  It is merely the last step in a staircase of 9.</Source>
+      <Dest>和斯維雪妮告诉你的恰恰相反，阿尔凯之势不是可以掌握的技巧。它仅仅是通往九圣灵之梯的最后一步。</Dest>
+    </String>
+    <String List="2">
+      <Source>In life, I made one such mistake.  And while the Gods will not rescue me, in you they offer a rope, so that I may climb the walls of redemption.</Source>
+      <Dest>这一生中，我曾犯过一个类似的错误。虽然神不会屈尊拯救我，但是他们给了一条绳子，好让我可以用它来攀登救赎的高墙。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have returned, young disciple.  The bonfires have been lit.  The stage is set.  Now, all that is left is your trial.</Source>
+      <Dest>你回来了啊，年轻人。篝火已被点燃。时机已成熟。现在，万事皆备，就差你的测试了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Curse you grave robber!  Arkay take your soul!</Source>
+      <Dest>我诅咒你，该死的盗墓贼！阿尔凯会带走你的灵魂！</Dest>
+    </String>
+    <String List="2">
+      <Source>You have arrived at last.  Do not be alarmed.  This pilgrim gave his body in service to the Gods, as was his desire.</Source>
+      <Dest>你终于到了。不要慌。这个圣徒早已经把他的身心连同欲求都献给了诸神。</Dest>
+    </String>
+    <String List="2">
+      <Source>Using the blessings you have garnered, I will summon 8 ghosts of Akavir and bind them to my will.  I will stand as the ninth.</Source>
+      <Dest>使用你得到的祝福, 我将会召唤8个阿卡维尔的鬼魂，并把他们住入我的意志之中。而我将会是第九个。</Dest>
+    </String>
+    <String List="2">
+      <Source>So my pupil is dead.  This is a glorious day.  No longer will she debase the teachings I have given her. </Source>
+      <Dest>所以我的徒弟已经死了。这是光荣的一天。她再也不会玷污我所教授她的东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you are truly a fool, my pupil, as is your accomplice.  </Source>
+      <Dest>那你就是一个真正的蠢货，我的徒弟，因为你即是帮凶。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should now be able to summon the Way of the Nine.  My thoughts and Arkay's spirit will flow into your blades.</Source>
+      <Dest>你现在马上可以召唤九圣灵之道了。我的思维与阿尔凯的精神会涌入你的刀刃之中。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>You remind me of her.  She did not heed the teachings of the Divines, and now she pays the price.</Source>
+      <Dest>你让我想起了她。她从不在意圣灵们的教诲，现在她付出代价了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come forth, come all, and with every cut, let our minds and our faith be sharpened!</Source>
+      <Dest>出来，全都出来，带着每一处伤口，让我们的思想和我们的信仰变的更加坚定！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well said, my young disciple.  For when we ignore the teachings of the Divines, we throw ourselves in a pit of despair.</Source>
+      <Dest>说得好，我年轻的信徒。当我们忘记圣灵的教诲时，我们就会掉入绝望的深渊中。</Dest>
+    </String>
+	    <String List="2">
+      <Source>Sixth, a Mark of Dibella.  Find one whose beauty is profound enough to melt a heart of steel.</Source>
+      <Dest>第六个，是迪贝拉之印记。找到那拥有足以融化钢铁之心的美丽之人。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

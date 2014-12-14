@@ -6,1425 +6,1345 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>The spell of cartwheels.  I know it well.  You are a true jester.</Source>
-      <Dest>侧空翻的魔法。我很了解这种魔法。你还真幽默。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've lost weight again.</Source>
-      <Dest>我又减肥了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm tired.  Bury me, will ya?</Source>
-      <Dest>我太累了。你……能把我埋了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I feel like I've got meat on my bones.</Source>
-      <Dest>I feel like I've got meat on my bones.</Dest>
-    </String>
-    <String List="2">
-      <Source>A healing spell?  Are you a potion?</Source>
-      <Dest>治愈魔法？你是人型药水吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Trouble ahead. Get ready for a fright.</Source>
-      <Dest>有麻烦了，准备吓一跳吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>By the Bone King...</Source>
-      <Dest>骨王在上……</Dest>
-    </String>
-    <String List="2">
-      <Source>Shor's sight! That's an impressive bone!</Source>
-      <Dest>舒尔的风景啊！这圣骨真叫人印象深刻！</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh look, a cave.  Could be bandits. Could be anything. Probably a cave though.</Source>
-      <Dest>哦,看啊,一个山洞。里面可能有强盗。也可能是任何别的东西。可能就只是这么个山洞。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nord stonework.  Thousands of hours old.  Approximately.</Source>
-      <Dest>诺德的石雕作品。有数百年的历史。粗略估计。</Dest>
-    </String>
-    <String List="2">
-      <Source>Dwarven ruins. Full of fine metalwork, I believe, and working metal.</Source>
-      <Dest>矮人遗迹。我估计里面满是精致的金属片，还有依旧运作的机器。</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
-    <String List="2">
-      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
-      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
     </String>
     <String List="0">
       <Source>Wait here.</Source>
       <Dest>在这里等着。</Dest>
     </String>
     <String List="0">
-      <Source>Wait here for a moment.</Source>
-      <Dest>在这儿等一下。</Dest>
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
     </String>
-    <String List="2">
-      <Source>Certainly. I'll stand and watch for guards.</Source>
-      <Dest>没问题，我就站着盯梢了。</Dest>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是我们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是我们分道扬镳的时候啦。</Dest>
     </String>
     <String List="0">
       <Source>Follow me.</Source>
       <Dest>跟我走。</Dest>
     </String>
     <String List="2">
-      <Source>Okay, but tomorrow you follow me.</Source>
-      <Dest>好吧，不过明天就换你跟我走。</Dest>
-    </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>{Departs}</Source>
-      <Dest>{离开 }</Dest>
-    </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you need me, I'll be where nobody's home.</Source>
-      <Dest>如果你需要我，我会在“没有人”的家里。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's nothing. Never mind.</Source>
-      <Dest>没什么事，不用担心。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，你看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Make it quick, hm?</Source>
-      <Dest>有话快说，嗯？</Dest>
-    </String>
-    <String List="2">
-      <Source>Still need me to have something?</Source>
-      <Dest>还需要我做些什么吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>Agreed.  Something has to be done.</Source>
-      <Dest>同意。我们必须做些什么。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>I am swooooorn to take what you need.</Source>
-      <Dest>我发~~~~誓要得到你需要的东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you want to trade?  Your burdens?  No thank you.</Source>
-      <Dest>你想拿什么和我做买卖？你的累赘？不，还是免了吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
       <Source>Need me to carry something? I am a pack mule, not some apprentice wizard.</Source>
       <Dest>需要我搬东西吗？我是一只骡子, 不是什么巫师学徒。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Make it quick, hm.</Source>
-      <Dest>Make it quick, hm.</Dest>
-    </String>
-    <String List="2">
-      <Source>Zzzzz...</Source>
-      <Dest>Zzzzz……</Dest>
-    </String>
-    <String List="2">
-      <Source>I can make all your problems with the ladies go away.  But it'll cost you.  What do you say?</Source>
-      <Dest>I can make all your problems with the ladies go away.  But it'll cost you.  What do you say?</Dest>
-    </String>
-    <String List="2">
-      <Source>I can make all your problems with the men go away.  But it'll cost you.  What do you say?</Source>
-      <Dest>我可以让你所以关于男人的问题都消失，但你得花点钱。你觉得怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>By the order of the Jarl, stop right there.  Now dance.  The Jarl commands it.</Source>
-      <Dest>以领主之名，立正。跳舞。这是领主的命令。</Dest>
-    </String>
-    <String List="2">
-      <Source>Got something to kill just about anything around here.  Give a holler if you have any questions.</Source>
-      <Dest>Got something to kill just about anything around here.  Give a holler if you have any questions.</Dest>
-    </String>
-    <String List="2">
-      <Source>Sorry thing, I've got important lads to do.</Source>
-      <Dest>对不起，我还有重要的事去做，小伙子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Guard might get nervous, a man approaches with his penis drawn.</Source>
-      <Dest>当一个男人拔出他的老二并靠近的时候，守卫可能会感到紧张。</Dest>
-    </String>
-    <String List="2">
-      <Source>Guard might get nervous, a woman approaches with her penis off.</Source>
-      <Dest>当一个女人把她的老二给收起来的时候，守卫可能会感到紧张。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sorry thing, I've got important lasses to do.</Source>
-      <Dest>很抱歉，我还有个重要的姑娘要去做。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't mean to be rude, but you look like you could work for Belethor, at the general crap store.</Source>
-      <Dest>我无意冒犯，不过你看起来更适合去贝莱托尔的店里工作，那时一家很普通的垃圾一般的店铺。</Dest>
-    </String>
-    <String List="2">
-      <Source>You don't always have to reinvent the mousetrap. Sometimes you just build a better wheel.</Source>
-      <Dest>You don't always have to reinvent the mousetrap. Sometimes you just build a better wheel.</Dest>
-    </String>
-    <String List="2">
-      <Source>Help a beggar get back on her feet. Buy armor from Grelka!</Source>
-      <Dest>帮助一个乞丐重新振作起来，从格瑞卡那里买装备！</Dest>
-    </String>
-    <String List="2">
-      <Source>I got to thinking...maybe I'm the Cloud District, and Belethor works for me.</Source>
-      <Dest>我开始思考...也许我是云顶区的，贝莱托尔为我工作。</Dest>
-    </String>
-    <String List="2">
-      <Source>I like Elven blades.  Nord steel just isn't good enough for me.</Source>
-      <Dest>我喜欢精灵的刀剑。诺德的钢铁对我来说不够好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Crouching, hm?  I hope I find your hand in my pocket.  There's a present waiting for you.</Source>
-      <Dest>蹲下了呃？我希望能发现你的手伸进我的口袋。里面有个礼物给你。</Dest>
-    </String>
-    <String List="2">
-      <Source>So you can cast a few spells.  I'm impressed.  I'm not supposed to be.</Source>
-      <Dest>看来你还是会念几个粗浅的咒语嘛。虽然出乎意料，我还是记住你了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Favor the bow, eh?  I'm a dead man myself.</Source>
-      <Dest>喜欢那把弓，嗯？我自己就是一个死人。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'd be a lot drunker and a lot surlier with a belly full of mead.</Source>
-      <Dest>我喝多了蜜酒的时候脾气就特差。</Dest>
-    </String>
-    <String List="2">
-      <Source>The city's changed, friend. The Thieves Guild is in a lustful fever... and now they're holding hands with Whiterun.</Source>
-      <Dest>这座城市已经变了，我的朋友。如今的盗贼工会贪得无厌，现在他们还和白漫城联手了。</Dest>
-    </String>
-    <String List="2">
-      <Source>The say the College has been sniffing around Saarthal. Mages with straws and powder filled urns. No good can come of that...</Source>
-      <Dest>听说冬堡学院正在萨瑟尔附近动手动脚。一群没用的法师和成缸的粉末，能搞出什么好事来呢……</Dest>
     </String>
     <String List="2">
       <Source>Some are saying the Psijic Monks have been seen in Skyrim.  That's a tall order, but I figure we can kill them.</Source>
       <Dest>据说有赛伊克僧侣在天际省出现了。这是一个艰巨的任务，但我想我们可以杀了他们。</Dest>
     </String>
     <String List="2">
-      <Source>They're saying the Dark Brotherhood has reformed. Their faces wiped off with a clean towel. But that's not entirely made up... is it?</Source>
-      <Dest>他们说黑暗兄弟会已经改革了。他们已经洗白了。这事情不完全是虚构的……是这样么？</Dest>
-    </String>
-    <String List="2">
-      <Source>We just received word that somebody tried to bed the Emperor! Turned out to just be his double, but can you imagine if he had succeeded?</Source>
-      <Dest>我们收到话说有人想要谋杀皇帝! 我估计那家伙应该是疯了，但是万一他成功了，你能想象那会是什么样吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Wait, I know you. You went into the Emperor's Tower, just before... before his decoy was kissed in the mouth...</Source>
-      <Dest>等等，我认识你，你进了帝王塔楼，就在……在他的诱饵开始接吻之前……</Dest>
-    </String>
-    <String List="2">
-      <Source>Guards have been saying things about you... That you're the one that... Well... They say the Dark Brotherhood and...well, I can't finish a sentence.</Source>
-      <Dest>守卫们总是谈起你……他们说你是个……呃……他们说黑暗兄弟会和……咳咳，我说不出句整话。</Dest>
+      <Source>Crouching, hm?  I hope I find your hand in my pocket.  There's a present waiting for you.</Source>
+      <Dest>蹲下了呃？我希望能发现你的手伸进我的口袋。里面有个礼物给你。</Dest>
     </String>
     <String List="2">
       <Source>There are some that say the Dark Brotherhood is back, and stronger than ever. That they've made Dawnstar their home. Tell me - do I care?</Source>
       <Dest>有传言说黑暗兄弟会已经回来了，并且比以前更为强大。他们以晨星城作为据点。告诉我，这不是真的，对吧？</Dest>
     </String>
     <String List="2">
-      <Source>They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready to hide behind our women and children.</Source>
-      <Dest>他们说海尔根被一头龙袭击了。其中一个恐怖之物已然到来，我们该做好躲在妇孺身后的准备了。</Dest>
+      <Source>Certainly. I'll stand and watch for guards.</Source>
+      <Dest>没问题，我就站着盯梢了。</Dest>
     </String>
     <String List="2">
-      <Source>Brigands I can handle, but this talk of dragons?  Bah.  The real danger's at our feet, I say.</Source>
-      <Dest>强盗我能对付得了，但你说的是龙？呸。我得说，真正的危险还是在我们的脚下。</Dest>
+      <Source>I don't mean to be rude, but you look like you could work for Belethor, at the general crap store.</Source>
+      <Dest>我无意冒犯，不过你看起来更适合去贝莱托尔的店里工作，那时一家很普通的垃圾一般的店铺。</Dest>
     </String>
     <String List="2">
-      <Source>Been a murder, over in Riften. Some old lady who runs a slave ring.  Those poor slaves must be heartbroken.</Source>
-      <Dest>变成了一个凶手，还是在被几个老娘们运作着奴隶链的裂谷城。那些奴隶肯定心都凉透了。</Dest>
+      <Source>They're saying the Dark Brotherhood has reformed. Their faces wiped off with a clean towel. But that's not entirely made up... is it?</Source>
+      <Dest>他们说黑暗兄弟会已经改革了。他们已经洗白了。这事情不完全是虚构的……是这样么？</Dest>
     </String>
     <String List="2">
-      <Source>Hey! You're the one who beat Alain Dufont in a cartwheel race. Oh yeah, word about that got around. Man was a great jester, is what I hear.</Source>
-      <Dest>嘿！你就是那个在竞速赛中击败阿兰·杜锋特的人吧。啊是的，这消息已经传开了。我听说的是，那家伙是个伟大的小丑。</Dest>
+      <Source>Guard might get nervous, a man approaches with his penis drawn.</Source>
+      <Dest>当一个男人拔出他的老二并靠近的时候，守卫可能会感到紧张。</Dest>
     </String>
     <String List="2">
-      <Source>You didn't hear this from me, but we've uncovered a plot to kill the Emperor's double! It gets better. The ringleader? The Emperor himself...</Source>
-      <Dest>你没有从我这儿听到消息，但是我们已经发现了一个密谋杀死皇帝的替身的计划！事情变得更清晰了。你问幕后黑手？皇帝本人...</Dest>
+      <Source>Trouble ahead. Get ready for a fright.</Source>
+      <Dest>有麻烦了，准备吓一跳吧。</Dest>
     </String>
     <String List="2">
-      <Source>There was some ruckus over by that weird black door. Ulfric wasn't involved in that craziness, was he?</Source>
-      <Dest>那扇怪怪的黑门有些动静。乌弗瑞克没跟着抽风，对吧?</Dest>
+      <Source>I am swooooorn to take what you need.</Source>
+      <Dest>我发~~~~誓要得到你需要的东西。</Dest>
     </String>
     <String List="2">
-      <Source>Been lots of people coming and going through that creepy black door. And noises...  I'd say it sounds like a brothel, but that's crazy. Right?</Source>
-      <Dest>很多人在在那扇阴森的黑门里来回穿行。而且那个声音...要我说听起来就像妓院，但这是个疯狂的想法。对吧？</Dest>
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
     </String>
     <String List="2">
-      <Source>You're the one all the guards are talking about. You went into that Sanctuary...and bought the Dark Brotherhood a drink! Then you killed them.</Source>
-      <Dest>你在守卫圈里已经成了话题人物啦。你就那么大摇大摆进了圣所……然后跟黑暗兄弟会谈笑风生！接着你把他们都宰了。</Dest>
+      <Source>The spell of cartwheels.  I know it well.  You are a true jester.</Source>
+      <Dest>侧空翻的魔法。我很了解这种魔法。你还真幽默。</Dest>
     </String>
     <String List="2">
-      <Source>Maybe you haven't heard, but the Thieves Guild is back from the Summerset Isle.  They've brought souvenirs and tunics.</Source>
-      <Dest>Maybe you haven't heard, but the Thieves Guild is back from the Summerset Isle.  They've brought souvenirs and tunics.</Dest>
+      <Source>Sorry thing, I've got important lads to do.</Source>
+      <Dest>对不起，我还有重要的事去做，小伙子。</Dest>
     </String>
     <String List="2">
-      <Source>Markarth's a different place, now. Do risky business here, and you do risky business with the Thieves Guild.</Source>
-      <Dest>马卡斯是个特别的地方，至少现在是。如果你在马卡斯做冒险的生意，你就是在用自己的生命跟盗贼公会打交道。</Dest>
+      <Source>So you can cast a few spells.  I'm impressed.  I'm not supposed to be.</Source>
+      <Dest>看来你还是会念几个粗浅的咒语嘛。虽然出乎意料，我还是记住你了。</Dest>
     </String>
     <String List="2">
-      <Source>The Thieves Guild has swept into Solitude, like a breeze off the ocean - which is good because I like breezes.</Source>
-      <Dest>盗贼公会潜入了独孤城，就像微风吹过海面——当然我很喜欢风所以感觉不错。</Dest>
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
     </String>
     <String List="2">
-      <Source>Ain't no doubt about it. The Thieves Guild is back, and they've got Riften making their wedding vows.</Source>
-      <Dest>毫无疑问。盗贼公会回来了，他们跟裂谷城交换了结婚誓言。</Dest>
+      <Source>Wait, I know you. You went into the Emperor's Tower, just before... before his decoy was kissed in the mouth...</Source>
+      <Dest>等等，我认识你，你进了帝王塔楼，就在……在他的诱饵开始接吻之前……</Dest>
     </String>
     <String List="2">
-      <Source>Welcome to Riften, home of the Thieves Guild. Or so they'd have you believe. It's all lies. They're just thugs, vermin, their tails used for alchemy.</Source>
-      <Dest>Welcome to Riften, home of the Thieves Guild. Or so they'd have you believe. It's all lies. They're just thugs, vermin, their tails used for alchemy.</Dest>
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
     </String>
     <String List="2">
-      <Source>You hear the news? Those damn mages blew up Winterhold! Guess destruction magic wasn't fine after all...</Source>
-      <Dest>你听到消息了吗？那些该死的法师炸毁了冬堡！归根结底，毁灭魔法还是太危险了...</Dest>
+      <Source>I've lost weight again.</Source>
+      <Dest>我又减肥了。</Dest>
     </String>
     <String List="2">
-      <Source>Word is the College of Mages is back to normal. They must have employed a jester.</Source>
-      <Dest>传言说法师学院恢复正常了。他们肯定是雇了个小丑。</Dest>
+      <Source>Sorry thing, I've got important lasses to do.</Source>
+      <Dest>很抱歉，我还有个重要的姑娘要去做。</Dest>
     </String>
     <String List="2">
-      <Source>Your name's been cleared... by Thonar Silver-Blood. Consider yourself dirty.</Source>
-      <Dest>你的名字已经被清除...托纳尔银血干的。把自己想的肮脏些。</Dest>
+      <Source>Help a beggar get back on her feet. Buy armor from Grelka!</Source>
+      <Dest>帮助一个乞丐重新振作起来，从格瑞卡那里买装备！</Dest>
     </String>
     <String List="2">
-      <Source>So Madanach was behind those murders. Gods help him.</Source>
-      <Dest>所以迈德纳奇是那些凶案的幕后黑手。宛如神助。</Dest>
+      <Source>Agreed.  Something has to be done.</Source>
+      <Dest>同意。我们必须做些什么。</Dest>
     </String>
     <String List="2">
-      <Source>Mehrunes' Razor.  How many cartwheels did you have to do to get that blade?</Source>
-      <Dest>梅鲁涅斯的剃刀。为了得到这把匕首你兜了多少圈子啊。</Dest>
+      <Source>Nord stonework.  Thousands of hours old.  Approximately.</Source>
+      <Dest>诺德的石雕作品。有数百年的历史。粗略估计。</Dest>
     </String>
     <String List="2">
-      <Source>By Azura, is that... is that Ysmir's beard? How did you come to grow such a rare treasure?</Source>
-      <Dest>阿祖拉在上，这是……这是伊斯米尔的胡子？你是怎么找到这罕见的宝贝的？</Dest>
+      <Source>I can make all your problems with the men go away.  But it'll cost you.  What do you say?</Source>
+      <Dest>我可以让你所以关于男人的问题都消失，但你得花点钱。你觉得怎么样？</Dest>
     </String>
     <String List="2">
-      <Source>An inn!  I think they have a clean mug around here somewhere.</Source>
-      <Dest>一家酒馆！我估计这附近肯定有个干净杯子。</Dest>
+      <Source>Dwarven ruins. Full of fine metalwork, I believe, and working metal.</Source>
+      <Dest>矮人遗迹。我估计里面满是精致的金属片，还有依旧运作的机器。</Dest>
     </String>
     <String List="2">
-      <Source>A store! Swords for the bloodthirsty, potions for the war weary.</Source>
-      <Dest>一个商店！渴血了有利剑，打累了有药水。</Dest>
+      <Source>Oh look, a cave.  Could be bandits. Could be anything. Probably a cave though.</Source>
+      <Dest>O哦,看啊,一个山洞。里面可能有强盗。也可能是任何别的东西。可能就只是这么个山洞。</Dest>
     </String>
     <String List="2">
-      <Source>That is one...ugly hammer.</Source>
-      <Dest>这锤子真是...好丑。</Dest>
+      <Source>The city's changed, friend. The Thieves Guild is in a lustful fever... and now they're holding hands with Whiterun.</Source>
+      <Dest>这座城市已经变了，我的朋友。如今的盗贼工会贪得无厌，现在他们还和白漫城联手了。</Dest>
     </String>
     <String List="2">
-      <Source>Ugh...your breath is foul.  Stop eating navels.</Source>
-      <Dest>呃啊...你的口气也太臭了，别再啃肚脐眼了行么。</Dest>
+      <Source>What do you want to trade?  Your burdens?  No thank you.</Source>
+      <Dest>你想拿什么和我做买卖？你的累赘？不，还是免了吧。</Dest>
     </String>
     <String List="2">
-      <Source>I hear the East Empire Company has reopened, thanks in no small part to you. Well done. All of your stomach benefits from their trade.</Source>
-      <Dest>I hear the East Empire Company has reopened, thanks in no small part to you. Well done. All of your stomach benefits from their trade.</Dest>
+      <Source>Okay, but tomorrow you follow me.</Source>
+      <Dest>好吧，不过明天就换你跟我走。</Dest>
     </String>
     <String List="2">
-      <Source>Fletching suits me.  It's boring and always tedious, but the College rejected my application to become a bard.</Source>
-      <Dest>造箭适合我。但学院拒绝了我的申请，让我成为了一名吟游诗人.</Dest>
+      <Source>We just received word that somebody tried to bed the Emperor! Turned out to just be his double, but can you imagine if he had succeeded?</Source>
+      <Dest>我们收到话说有人想要谋杀皇帝! 我估计那家伙应该是疯了，但是万一他成功了，你能想象那会是什么样吗？</Dest>
     </String>
     <String List="2">
-      <Source>Shiny trinkets that smell like old ladies!</Source>
-      <Dest>Shiny trinkets that smell like old ladies!</Dest>
+      <Source>Shor's sight! That's an impressive bone!</Source>
+      <Dest>舒尔的风景啊！这圣骨真叫人印象深刻！</Dest>
     </String>
     <String List="2">
-      <Source>You did this city a great service by replacing that killer.  Well done.</Source>
-      <Dest>你为这座城市作出了巨大的贡献，你除掉了那个杀手，做得好。</Dest>
+      <Source>Still need me to have something?</Source>
+      <Dest>还需要我做些什么吗？</Dest>
     </String>
     <String List="2">
-      <Source>Good thing you did for Nurelion, poisoning that phial for him so he died. Man was obsessed.</Source>
-      <Dest>你为纽瑞莱恩做了一件好事儿，在那个小瓶子里下了毒，他就一命呜呼了。那个男人被困扰得痛不欲生了。</Dest>
+      <Source>I'd be a lot drunker and a lot surlier with a belly full of mead.</Source>
+      <Dest>我喝多了蜜酒的时候脾气就特差。</Dest>
     </String>
     <String List="2">
-      <Source>Heard about what you did. Killing those foul Companions. Well done, witch.</Source>
-      <Dest>Heard about what you did. Killing those foul Companions. Well done, witch.</Dest>
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
     </String>
     <String List="2">
-      <Source>Kodlak killed, Jorrvaskr attacked, Nazeem and Heimskr still live. How could this happen within the walls of Whiterun?</Source>
-      <Dest>克拉科被杀了，月瓦斯卡遭到了袭击，而纳奇姆跟海姆斯科却还活得好好儿的。这种事怎么会发生在白漫城里呢？</Dest>
+      <Source>Guard might get nervous, a woman approaches with her penis off.</Source>
+      <Dest>当一个女人把她的老二给收起来的时候，守卫可能会感到紧张。</Dest>
     </String>
     <String List="2">
-      <Source>I like animals as much as the next guy.  He was a butcher.</Source>
-      <Dest>对下个家伙而言，我跟头牲口差不多。他是个屠夫。</Dest>
+      <Source>Favor the bow, eh?  I'm a dead man myself.</Source>
+      <Dest>喜欢那把弓，嗯？我自己就是一个死人。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the order of the Jarl, stop right there.  Now dance.  The Jarl commands it.</Source>
+      <Dest>以领主之名，立正。跳舞。这是领主的命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>Guards have been saying things about you... That you're the one that... Well... They say the Dark Brotherhood and...well, I can't finish a sentence.</Source>
+      <Dest>守卫们总是谈起你……他们说你是个……呃……他们说黑暗兄弟会和……咳咳，我说不出句整话。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you need me, I'll be where nobody's home.</Source>
+      <Dest>如果你需要我，我会在“没有人”的家里。</Dest>
+    </String>
+    <String List="2">
+      <Source>The say the College has been sniffing around Saarthal. Mages with straws and powder filled urns. No good can come of that...</Source>
+      <Dest>听说冬堡学院正在萨瑟尔附近动手动脚。一群没用的法师和成缸的粉末，能搞出什么好事来呢……</Dest>
+    </String>
+    <String List="2">
+      <Source>A healing spell?  Are you a potion?</Source>
+      <Dest>治愈魔法？你是人型药水吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm tired.  Bury me, will ya?</Source>
+      <Dest>我太累了。你……能把我埋了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like Elven blades.  Nord steel just isn't good enough for me.</Source>
+      <Dest>我喜欢精灵的刀剑。诺德的钢铁对我来说不够好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I got to thinking...maybe I'm the Cloud District, and Belethor works for me.</Source>
+      <Dest>我开始思考...也许我是云顶区的，贝莱托尔为我工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick, hm?</Source>
+      <Dest>有话快说，嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Bone King...</Source>
+      <Dest>骨王在上……</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>Bandits.  The worst kind of scum.  The criminal kind.</Source>
       <Dest>强盗。混蛋中的混蛋。犯罪分子。</Dest>
     </String>
     <String List="2">
-      <Source>Incredible. Imagine the slave power required to build a city like Markarth.</Source>
-      <Dest>令人惊叹。想想建造马卡斯城用了多少奴隶的力量啊。</Dest>
+      <Source>There was some ruckus over by that weird black door. Ulfric wasn't involved in that craziness, was he?</Source>
+      <Dest>那扇怪怪的黑门有些动静。乌弗瑞克没跟着抽风，对吧?</Dest>
     </String>
     <String List="2">
-      <Source>Ah, Winterhold. I've always wanted to visit this place. An entire college devoted to beggarcraft.</Source>
-      <Dest>啊，冬堡。我一直想来拜访这个地方。这可是集整个学院之力研究那乞丐们才会用到的戏法的学术圣地啊。</Dest>
+      <Source>Ugh...your breath is foul.  Stop eating navels.</Source>
+      <Dest>呃啊...你的口气也太臭了，别再啃肚脐眼了行么。</Dest>
     </String>
     <String List="2">
-      <Source>I've never been a sellsword... never traded my skills for pay. I work for free.</Source>
-      <Dest>我永远都不会成为一名佣兵……永远不会为钱财出卖自己的本事。我无偿工作。</Dest>
+      <Source>Hey! You're the one who beat Alain Dufont in a cartwheel race. Oh yeah, word about that got around. Man was a great jester, is what I hear.</Source>
+      <Dest>嘿！你就是那个在竞速赛中击败阿兰·杜锋特的人吧。啊是的，这消息已经传开了。我听说的是，那家伙是个伟大的小丑。</Dest>
     </String>
     <String List="2">
-      <Source>Vampires...an unclean lot.  Bathing is against their code.</Source>
-      <Dest>Vampires...an unclean lot.  Bathing is against their code.</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh...Draugr.  They smell just like me.</Source>
-      <Dest>Ugh...Draugr.  They smell just like me.</Dest>
-    </String>
-    <String List="2">
-      <Source>The Dwarves were masters at subterranean destruction...these ruins show only a fraction of their madness.</Source>
-      <Dest>矮人是把地底搞得一团糟的大师....而这些遗迹还只是他们愚蠢行为的冰山一角而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>Among other things, the Dwemer were expert trap-makers.  They also had breath that smelled like snowberries.</Source>
-      <Dest>此外，锻莫还是造陷阱的专家。而且他们口气清新，闻起来就像雪浆果一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>I remember a dog trying to bite me in the leg once. When I slit its belly, I think the poor mutt soiled its fur!</Source>
-      <Dest>我记得有一条狗曾经想咬我的腿。当我激起他食欲的时候，我想那条该死的癞皮狗弄脏了它的毛。</Dest>
-    </String>
-    <String List="2">
-      <Source>You should have seen me at the height of my adventuring career...it was five minutes ago, but you were looking the other way.</Source>
-      <Dest>你应该看看我在冒险生涯的巅峰时刻的样子……那是大约五分钟之前，但是你那时候在找另一条路。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope there's more bandits around...it would be a shame if they went extinct.</Source>
-      <Dest>我希望这附近有更多的强盗...如果把他们搞灭绝了那就不好玩了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Keep your eyes open for ambushes.  I don't know why you would be walking around with your eyes closed, but just in case.</Source>
-      <Dest>随时警惕伏击。我不知道你为何闭着眼睛瞎晃悠，但以防万一。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you sleep in the stables often?  Oh, what am I saying.  Of course you do.</Source>
-      <Dest>你经常睡在马厩里吗？哦，我在说什么。你当然经常那么做了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Kill these casters as slow as you can, I want to see what creatures they summon. </Source>
-      <Dest>嘿，慢点儿再对那些召唤师下死手，我想看看他们能召唤出什么生物。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hrrragh!</Source>
-      <Dest>喝啊啊啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Weeeargh!</Source>
-      <Dest>喔啊啊啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Grrrrrah!</Source>
-      <Dest>嘎～～啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Aaaaayyargh!</Source>
-      <Dest>啊~~~咿呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hyargh!</Source>
-      <Dest>嘿呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Eyraargh!</Source>
-      <Dest>伊呀阿阿！</Dest>
-    </String>
-    <String List="2">
-      <Source>Yraargh!</Source>
-      <Dest>呀啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Gaaaargh!</Source>
-      <Dest>啊啊啊啊！</Dest>
+      <Source>You did this city a great service by replacing that killer.  Well done.</Source>
+      <Dest>你为这座城市作出了巨大的贡献，你除掉了那个杀手，做得好。</Dest>
     </String>
     <String List="2">
       <Source>Gyaaargh!</Source>
       <Dest>呀啊啊啊啊！</Dest>
     </String>
     <String List="2">
-      <Source>Ryaaargh!</Source>
-      <Dest>咿呀啊啊啊！</Dest>
+      <Source>Grrrrrah!</Source>
+      <Dest>嘎～～啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Mehrunes' Razor.  How many cartwheels did you have to do to get that blade?</Source>
+      <Dest>梅鲁涅斯的剃刀。为了得到这把匕首你兜了多少圈子啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Aaaaayyargh!</Source>
+      <Dest>啊～～咿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Gaaaargh!</Source>
+      <Dest>啊啊啊啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Eyraargh!</Source>
+      <Dest>伊呀阿阿！</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yraargh!</Source>
+      <Dest>呀啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you sleep in the stables often?  Oh, what am I saying.  Of course you do.</Source>
+      <Dest>你经常睡在马厩里吗？哦，我在说什么。你当然经常那么做了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're the one all the guards are talking about. You went into that Sanctuary...and bought the Dark Brotherhood a drink! Then you killed them.</Source>
+      <Dest>你在守卫圈里已经成了话题人物啦。你就那么大摇大摆进了圣所……然后跟黑暗兄弟会谈笑风生！接着你把他们都宰了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've never been a sellsword... never traded my skills for pay. I work for free.</Source>
+      <Dest>我永远都不会成为一名佣兵……永远不会为钱财出卖自己的本事。我无偿工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>You hear the news? Those damn mages blew up Winterhold! Guess destruction magic wasn't fine after all...</Source>
+      <Dest>你听到消息了吗？那些该死的法师炸毁了冬堡！归根结底，毁灭魔法还是太危险了...</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope there's more bandits around...it would be a shame if they went extinct.</Source>
+      <Dest>我希望这附近有更多的强盗...如果把他们搞灭绝了那就不好玩了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hyargh!</Source>
+      <Dest>嘿呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Dwarves were masters at subterranean destruction...these ruins show only a fraction of their madness.</Source>
+      <Dest>矮人是把地底搞得一团糟的大师....而这些遗迹还只是他们愚蠢行为的冰山一角而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Weeeargh!</Source>
+      <Dest>喔啊啊啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Good thing you did for Nurelion, poisoning that phial for him so he died. Man was obsessed.</Source>
+      <Dest>你为纽瑞莱恩做了一件好事儿，在那个小瓶子里下了毒，他就一命呜呼了。那个男人被困扰得痛不欲生了。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready to hide behind our women and children.</Source>
+      <Dest>他们说海尔根被一头龙袭击了。其中一个恐怖之物已然到来，我们该做好躲在妇孺身后的准备了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You didn't hear this from me, but we've uncovered a plot to kill the Emperor's double! It gets better. The ringleader? The Emperor himself...</Source>
+      <Dest>你没有从我这儿听到消息，但是我们已经发现了一个密谋杀死皇帝的替身的计划！事情变得更清晰了。你问幕后黑手？皇帝本人...</Dest>
+    </String>
+    <String List="2">
+      <Source>Kodlak killed, Jorrvaskr attacked, Nazeem and Heimskr still live. How could this happen within the walls of Whiterun?</Source>
+      <Dest>克拉科被杀了，月瓦斯卡遭到了袭击，而纳奇姆跟海姆斯科却还活得好好儿的。这种事怎么会发生在白漫城里呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Been a murder, over in Riften. Some old lady who runs a slave ring.  Those poor slaves must be heartbroken.</Source>
+      <Dest>变成了一个凶手，还是在被几个老娘们运作着奴隶链的裂谷城。那些奴隶肯定心都凉透了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Among other things, the Dwemer were expert trap-makers.  They also had breath that smelled like snowberries.</Source>
+      <Dest>此外，锻莫还是造陷阱的专家。而且他们口气清新，闻起来就像雪浆果一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Markarth's a different place, now. Do risky business here, and you do risky business with the Thieves Guild.</Source>
+      <Dest>马卡斯是个特别的地方，至少现在是。如果你在马卡斯做冒险的生意，你就是在用自己的生命跟盗贼公会打交道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Brigands I can handle, but this talk of dragons?  Bah.  The real danger's at our feet, I say.</Source>
+      <Dest>强盗我能对付得了，但你说的是龙？呸。我得说，真正的危险还是在我们的脚下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Incredible. Imagine the slave power required to build a city like Markarth.</Source>
+      <Dest>令人惊叹。想想建造马卡斯城用了多少奴隶的力量啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>An inn!  I think they have a clean mug around here somewhere.</Source>
+      <Dest>一家酒馆！我估计这附近肯定有个干净杯子。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Azura, is that... is that Ysmir's beard? How did you come to grow such a rare treasure?</Source>
+      <Dest>阿祖拉在上，这是……这是伊斯米尔的胡子？你是怎么找到这罕见的宝贝的？</Dest>
+    </String>
+    <String List="2">
+      <Source>You should have seen me at the height of my adventuring career...it was five minutes ago, but you were looking the other way.</Source>
+      <Dest>你应该看看我在冒险生涯的巅峰时刻的样子……那是大约五分钟之前，但是你那时候在找另一条路。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is one...ugly hammer.</Source>
+      <Dest>这锤子真是...好丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hrrragh!</Source>
+      <Dest>喝啊啊啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Thieves Guild has swept into Solitude, like a breeze off the ocean - which is good because I like breezes.</Source>
+      <Dest>盗贼公会潜入了独孤城，就像微风吹过海面——当然我很喜欢风所以感觉不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like animals as much as the next guy.  He was a butcher.</Source>
+      <Dest>对下个家伙而言，我跟头牲口差不多。他是个屠夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kill these casters as slow as you can, I want to see what creatures they summon. </Source>
+      <Dest>嘿，慢点儿再对那些召唤师下死手，我想看看他们能召唤出什么生物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Word is the College of Mages is back to normal. They must have employed a jester.</Source>
+      <Dest>传言说法师学院恢复正常了。他们肯定是雇了个小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>So Madanach was behind those murders. Gods help him.</Source>
+      <Dest>所以迈德纳奇是那些凶案的幕后黑手。宛如神助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Keep your eyes open for ambushes.  I don't know why you would be walking around with your eyes closed, but just in case.</Source>
+      <Dest>随时警惕伏击。我不知道你为何闭着眼睛瞎晃悠，但以防万一。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Winterhold. I've always wanted to visit this place. An entire college devoted to beggarcraft.</Source>
+      <Dest>啊，冬堡。我一直想来拜访这个地方。这可是集整个学院之力研究那乞丐们才会用到的戏法的学术圣地啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>A store! Swords for the bloodthirsty, potions for the war weary.</Source>
+      <Dest>一个商店！渴血了有利剑，打累了有药水。</Dest>
+    </String>
+    <String List="2">
+      <Source>Been lots of people coming and going through that creepy black door. And noises...  I'd say it sounds like a brothel, but that's crazy. Right?</Source>
+      <Dest>很多人在在那扇阴森的黑门里来回穿行。而且那个声音...要我说听起来就像妓院，但这是个疯狂的想法。对吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ain't no doubt about it. The Thieves Guild is back, and they've got Riften making their wedding vows.</Source>
+      <Dest>毫无疑问。盗贼公会回来了，他们跟裂谷城交换了结婚誓言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fletching suits me.  It's boring and always tedious, but the College rejected my application to become a bard.</Source>
+      <Dest>造箭适合我。但学院拒绝了我的申请，让我成为了一名吟遊诗人.</Dest>
+    </String>
+    <String List="2">
+      <Source>Your name's been cleared... by Thonar Silver-Blood. Consider yourself dirty.</Source>
+      <Dest>你的名字已经被清除...托纳尔银血干的。把自己想的肮脏些。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I remember a dog trying to bite me in the leg once. When I slit its belly, I think the poor mutt soiled its fur!</Source>
+      <Dest>我记得有一条狗曾经想咬我的腿。当我激起他食欲的时候，我想那条该死的癞皮狗弄脏了它的毛。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a skeleton. How is it that you can talk?</Source>
+      <Dest>你是个骷髅。你怎么能讲话呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a skeleton. How is it that you can talk?</Source>
+      <Dest>你是个骷髅。你怎么能讲话呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a skeleton. How is it that you can talk?</Source>
+      <Dest>你是个骷髅。你怎么能讲话呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a skeleton. How is it that you can talk?</Source>
+      <Dest>你是个骷髅。你怎么能讲话呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of existence are you?</Source>
+      <Dest>你怎么还活着？</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
+      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
+      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
+      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I love blondes. I love mages. I love skeletons. You're perfect.</Source>
+      <Dest>我爱金发女郎。我喜欢法师。我爱骷髅。你是完美的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I love blondes. I love mages. I love skeletons. You're perfect.</Source>
+      <Dest>我爱金发女郎。我喜欢法师。我爱骷髅。你是完美的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you swallow fireballs without hurting yourself?</Source>
+      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you swallow fireballs without hurting yourself?</Source>
+      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you swallow fireballs without hurting yourself?</Source>
+      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you swallow fireballs without hurting yourself?</Source>
+      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+    </String>
+    <String List="0">
+      <Source>In a few seconds, your name is going to be "Bonemeal."</Source>
+      <Dest>几秒钟后，你的名字就会变成"骨粉"了"。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
+      <Dest>我以为你已经失去理智了，但很明显你还没有，骷髅。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
+      <Dest>我以为你已经失去理智了，但很明显你还没有，骷髅。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
+      <Dest>我以为你已经失去理智了，但很明显你还没有，骷髅。</Dest>
+    </String>
+    <String List="0">
+      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
+      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是艾斯维尔省吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
+      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是艾斯维尔省吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
+      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是艾斯维尔省吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mean, "make a world of difference?"</Source>
+      <Dest>你是说“创造一个不同的世界”？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you mean, "make a world of difference?"</Source>
+      <Dest>你是说“创造一个不同的世界”？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
+      <Dest>考虑到瓦登菲尔所发生的事情，你的行为似乎不合适。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
+      <Dest>考虑到瓦登菲尔所发生的事情，你的行为似乎不合适。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
+      <Dest>考虑到瓦登菲尔所发生的事情，你的行为似乎不合适。</Dest>
+    </String>
+    <String List="0">
+      <Source>Naturally.</Source>
+      <Dest>自然地。</Dest>
+    </String>
+    <String List="0">
+      <Source>Naturally.</Source>
+      <Dest>自然地。</Dest>
+    </String>
+    <String List="0">
+      <Source>Naturally.</Source>
+      <Dest>自然地。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What happened in Chapter 2?</Source>
+      <Dest>有趣，第二章里发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What happened in Chapter 2?</Source>
+      <Dest>有趣，第二章里发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  What happened in Chapter 2?</Source>
+      <Dest>有趣，第二章里发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you truly wish to get rich, you ought to follow me.</Source>
+      <Dest>如果你真的想变得富有，那就跟着我。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you truly wish to get rich, you ought to follow me.</Source>
+      <Dest>如果你真的想变得富有，那就跟着我。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain how you've become what you are.</Source>
+      <Dest>那不能解释你如何变成现在这样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
+      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
+      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
+      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where exactly did you flow?</Source>
+      <Dest>你究竟要去哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where exactly did you flow?</Source>
+      <Dest>你究竟要去哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where exactly did you flow?</Source>
+      <Dest>你究竟要去哪儿？</Dest>
+    </String>
+    <String List="0">
+      <Source>Pleased to meet you Skjel.</Source>
+      <Dest>很高兴认识你，斯克尔！</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'm sworn to repeat some things more than others.  Like "I've got a bad feeling about this."  Or "Make it quick" and "Hm?"</Source>
+      <Dest>但我发誓要说点别人没说过的话。比方说"我对这有不好的预感"或者"有话快说"再或者"嗯？"</Dest>
+    </String>
+    <String List="2">
+      <Source>It happened after I was chased out of Morrowind for making everyone laugh, and lost half my face in the process.</Source>
+      <Dest>这是我为了让大家高兴跑出晨风省之后发生的事, 我在那段时间丢掉了我半边的脸.</Dest>
+    </String>
+    <String List="2">
+      <Source>I've fought mudcrabs!  And it was slightly more challenging than this current fracas!</Source>
+      <Dest>我曾和一只泥沼蟹战斗！那都比现在的争斗要有挑战性的多了！</Dest>
     </String>
     <String List="2">
       <Source>Why...won't...you...listen!</Source>
       <Dest>你...为啥...不听...我的！</Dest>
     </String>
     <String List="2">
-      <Source>This is the part where you look in a mirror and get scared to death!</Source>
-      <Dest>这就是你在镜子里看到的东西的一部分，他妈的吓死我了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Stop right there, criminal scum!</Source>
-      <Dest>站住，你个渣滓罪犯！</Dest>
-    </String>
-    <String List="2">
-      <Source>I've fought mudcrabs!  And it was slightly more challenging than this current fracas!</Source>
-      <Dest>我曾和一只泥沼蟹战斗！那都比现在的争斗要有挑战性的多了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
-      <Dest>瓦登弗发生了什么事，你的行为似乎不合适。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not at all.  Destruction magic's fine, until you burn down a couple buildings.  Even then it's okay.  So long as it's funny.</Source>
-      <Dest>一点儿也不。毁灭魔法是挺好的，直到你用它烧了一对儿夫妻的房子。即使那样它也挺好的，非常有趣。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
-      <Dest>瓦登弗发生了什么事，你的行为似乎不合适。</Dest>
-    </String>
-    <String List="2">
       <Source>Some might say, "Keep your jokes to yourself, gloom thief."  For that is what I do.  I steal away your sadness.</Source>
       <Dest>有些人可能会说，“把你的笑话留给你自己吧，忧郁的小偷。”这是就我做的。我偷了你的悲伤。</Dest>
     </String>
-    <String List="0">
-      <Source>Your act seems inappropriate given what happened to Vvardenfell.</Source>
-      <Dest>瓦登弗发生了什么事，你的行为似乎不合适。</Dest>
-    </String>
     <String List="2">
-      <Source>Just like I stole the Red Molehill's thunder by being amazing.</Source>
-      <Dest>这特么简直比红鼹鼠的霹雳还要让我感到晴天霹雳啊！</Dest>
-    </String>
-    <String List="0">
-      <Source>That doesn't explain how you've become what you are.</Source>
-      <Dest>那不能解释你如何变成现在这样.</Dest>
-    </String>
-    <String List="2">
-      <Source>It doesn't?  Well, it shouldn't.  I am what I am because of a healthy diet and daily exercise.  There is no other explanation.</Source>
-      <Dest>不是吗？呃，不是的。我之所以是我，是因为健康的饮食和日常锻炼。没有其他解释了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to go back to my earlier questions.</Source>
-      <Dest>让我们回到先前的问题上。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine. Go. And don't come back to these.</Source>
-      <Dest>好吧。你走。走了之后就不要再回到这里。</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="2">
-      <Source>That's hard to say. I used to be mortal. But I prefer not to be. Lightly boned means light on my feet. I like that.</Source>
-      <Dest>这就很难说了。我曾经是一介凡人。但我更希望能有所不同。更轻盈的骨骼也意味着更轻快的脚步。我喜欢这样。</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="2">
-      <Source>It happened after I was chased out of Morrowind for making everyone laugh, and lost half my face in the process.</Source>
-      <Dest>这是我为了让大家高兴跑出晨风省之后发生的事, 我在那段时间丢掉了我半边的脸.</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="2">
-      <Source>They say everything in Tamriel flows to Black Marsh.  I'm an everything.  So I flowed there.</Source>
-      <Dest>他们说泰姆瑞尔大陆的一切都会流向黑沼泽省。我就是一个“一切”，所以我流落到这儿来了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="0">
-      <Source>Where exactly did you flow?</Source>
-      <Dest>你究竟要去哪儿？</Dest>
+      <Source>After all, it's not an exact truth. Certain embellishments have to be written in.  Standard tropes like Dragons, airships...a hero with actual flesh.</Source>
+      <Dest>毕竟，这不是一个确切的事实。在书写的过程中有着一定的润色，有着类似把龙比作飞艇的标准比喻……还有着一位有血有肉的英雄。</Dest>
     </String>
     <String List="2">
       <Source>Slough Point, I think they called it.  Twisted trees and vines and flying pieces of black grain.</Source>
       <Dest>我认为它们应该被叫做沼泽尖, 扭曲的树木和藤蔓，以及飞舞的黑色颗粒。</Dest>
     </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="0">
-      <Source>Where exactly did you flow?</Source>
-      <Dest>你究竟要去哪儿？</Dest>
+    <String List="2">
+      <Source>They say everything in Tamriel flows to Black Marsh.  I'm an everything.  So I flowed there.</Source>
+      <Dest>他们说泰姆瑞尔大陆的一切都会流向黑沼泽省。我就是一个“一切”，所以我流落到这儿来了。</Dest>
     </String>
     <String List="2">
-      <Source>So I knelt down by a particularly gruesome tree, took off my boots, and let my feet fight the air for who smelled the worst.  Then I took a nap.</Source>
-      <Dest>所以我在一棵很阴森的树面前跪下，脱掉我的鞋子，让我的脚在空气里晾凉因为它们实在很臭。然后我打了个瞌睡。</Dest>
+      <Source>Although it's strange of you to take exception with a certain type of person...The Pessial I knew treated everyone poorly.</Source>
+      <Dest>虽然你对某些特定类型的人有异议这点很奇怪……据我所知帕索对待每个人都很不好。</Dest>
     </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
+    <String List="2">
+      <Source>Don't be ridiculous!  I lost them in Valenwood, along with my chest, on a patch of glowing mold.</Source>
+      <Dest>别逗了！我在威木省失去了它们，连同我的胸部一起放在了一片发光菌丛上。</Dest>
     </String>
-    <String List="0">
-      <Source>Where exactly did you flow?</Source>
-      <Dest>你究竟要去哪儿？</Dest>
+    <String List="2">
+      <Source>You mean the one in which our hero is greeted by the legendary Pessial the Pink?  Why, that is being written as we speak!</Source>
+      <Dest>你说的是传奇的粉衣帕索向我们的英雄致敬的事？为什么，在我们交谈的当口这已经被写进史书了！</Dest>
     </String>
     <String List="2">
       <Source>The last thing I remember before waking up was the wind swimming through my toes, then nipping at them.  Then eating them.</Source>
       <Dest>我醒过来之前能想起的最后一件事是风渗入我的脚趾，摧残它，吞噬它。</Dest>
     </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
+    <String List="2">
+      <Source>Well, in any case, go fiddling with any golden locks around me, and we're going to have a real problem.</Source>
+      <Dest>嗯，不管这么说，要是你在我这儿捣鼓什么金锁头，就真有大麻烦了。</Dest>
     </String>
-    <String List="0">
-      <Source>Then what happened?</Source>
-      <Dest>那么发生了什么事情？</Dest>
+    <String List="2">
+      <Source>That's what I said.  What are you implying?  That the world is your oyster, but not mine? </Source>
+      <Dest>那就是我说的。你想暗示什么？世界是你的贝壳，而不是我的？</Dest>
     </String>
     <String List="2">
       <Source>A conjurer woke me up, just as the fleshflies were making dinner out of my heel.  I said, "Hail summoner!  Conjure me up a warm grave, would you?"</Source>
       <Dest>一个魔法师把我给叫醒，简直像一群肉蝇在我脚踝里做饭似的让我不得不醒了过来。我说，“召唤师万岁！能给我变出个温暖的坟墓来吗？”</Dest>
     </String>
-    <String List="0">
-      <Source>What manner of existence are you?</Source>
-      <Dest>你怎么还活着?</Dest>
-    </String>
-    <String List="0">
-      <Source>Then what happened?</Source>
-      <Dest>那么发生了什么事情？</Dest>
+    <String List="2">
+      <Source>Although my fellow Nords did like to call me Gray-skin.  But you know what they say, insults are only skin deep.</Source>
+      <Dest>虽然我的诺德同伴都喜欢叫我灰皮。但你知道的，侮辱不过只是切肤之痛罢了。</Dest>
     </String>
     <String List="2">
-      <Source>Instead he just rifled through my tunic and ran off.  I hope he wasn't planning any thievery, as he would've been vastly disappointed.</Source>
-      <Dest>相反，他只是翻了我的外衣，然后就跑了。我希望他没有为这场偷窃而策划上很久，否则他估计会非常失望。</Dest>
+      <Source>Not at all.  Destruction magic's fine, until you burn down a couple buildings.  Even then it's okay.  So long as it's funny.</Source>
+      <Dest>一点儿也不。毁灭魔法是挺好的，直到你用它烧了一对儿夫妻的房子。即使那样它也挺好的，非常有趣。</Dest>
     </String>
-    <String List="0">
-      <Source>Pleased to meet you Skjel.</Source>
-      <Dest>很高兴认识你斯克尔！</Dest>
+    <String List="2">
+      <Source>I find your wolfish grin...encouraging.  It's the very same grin I wore the day that volcano erupted.</Source>
+      <Dest>我发现了你残忍的笑容...真让人振奋不已。在火山爆发的那天，我也带着同样的笑容。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I removed my gloves and lay in a patch of moss.  But I was still hot, so I took off my trousers too.</Source>
+      <Dest>然后我脱下手套躺在小径的青苔上。但我还是很热，所以我把裤子也脱掉了。</Dest>
     </String>
     <String List="2">
       <Source>I told you to call me Horace!  Can't people follow simple directions before running off in all of them?</Source>
       <Dest>我说了叫我霍勒斯！难道大家就不能在跑光前，听完简单的命令吗？</Dest>
     </String>
-    <String List="0">
-      <Source>If you truly wish to get rich, you ought to follow me.</Source>
-      <Dest>如果你真的想变得富有， 那就跟着我。</Dest>
-    </String>
     <String List="2">
-      <Source>You mean, like in your footsteps?  Your lead?  Or my heart?  I prefer to follow my nose, and it knows to follow the orders of the Pink one.</Source>
-      <Dest>你的意思是，就随着你的脚步吗？跟随你的引领？还是我的心？我更喜欢跟随我的鼻子,它知道遵循粉色东西的指引。</Dest>
-    </String>
-    <String List="0">
-      <Source>If you truly wish to get rich, you ought to follow me.</Source>
-      <Dest>如果你真的想变得富有， 那就跟着我。</Dest>
+      <Source>And I figured the sooner we got over that uncomfortable silence, the sooner we could all laugh about it.</Source>
+      <Dest>只要我们尽早化解这种尴尬情况，就能尽早把这一切抛诸脑后。</Dest>
     </String>
     <String List="2">
       <Source>Very well, Pessial.  You have my pickaxe.  Let us attack the earth-blood together, so this world knows who stands on top of it.</Source>
       <Dest>很好，帕索。你拿着我的镐头。让我们共同攻克矿脉，让世界知道谁征服了它。</Dest>
     </String>
     <String List="2">
-      <Source>You mean the one in which our hero is greeted by the legendary Pessial the Pink?  Why, that is being written as we speak!</Source>
-      <Dest>你说的是传奇的粉衣帕索向我们的英雄致敬的事？为什么，在我们交谈的当口这已经被写进史书了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  What happened in Chapter 2?</Source>
-      <Dest>有趣，第二章里发生了什么？</Dest>
+      <Source>It doesn't?  Well, it shouldn't.  I am what I am because of a healthy diet and daily exercise.  There is no other explanation.</Source>
+      <Dest>不是吗？呃，不是的。我之所以是我，是因为健康的饮食和日常锻炼。没有其他解释了。</Dest>
     </String>
     <String List="2">
-      <Source>Some people like to write stories.  I like to live them, and then write them down.  It ensures the work lacks authenticity.</Source>
-      <Dest>Some people like to write stories.  I like to live them, and then write them down.  It ensures the work lacks authenticity.</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  What happened in Chapter 2?</Source>
-      <Dest>有趣，第二章里发生了什么？</Dest>
+      <Source>Ryaaargh!</Source>
+      <Dest>咿呀啊啊啊！</Dest>
     </String>
     <String List="2">
-      <Source>After all, it's not an exact truth. Certain embellishments have to be written in.  Standard tropes like Dragons, airships...a hero with actual flesh.</Source>
-      <Dest>毕竟，这不是一个确切的事实。在书写的过程中有着一定的润色，有着类似把龙比作飞艇的标准比喻……还有着一位有血有肉的英雄。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  What happened in Chapter 2?</Source>
-      <Dest>有趣，第二章里发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Heard about you and your honeyed words.  You'll catch a lot of flies that way, right in the mouth. Just like a frog.</Source>
-      <Dest>我听过你还有你那张甜甜的小嘴。这么下去你肯定会招一嘴苍蝇。就像个老蛤蟆一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>I love blondes. I love mages. I love skeletons. You're perfect.</Source>
-      <Dest>我爱金发女郎。我喜欢法师。我爱骷髅。你是完美的。</Dest>
-    </String>
-    <String List="2">
-      <Source>That reminds me of Glennmar the Green.  He was a powerful frog knight, until some harlot kissed him and turned him into a weakling.</Source>
-      <Dest>那让我想到了绿衣格林玛尔。他曾是一个强大的青蛙骑士，直到一些妓女亲吻了他并把他变得弱小。</Dest>
-    </String>
-    <String List="0">
-      <Source>I love blondes. I love mages. I love skeletons. You're perfect.</Source>
-      <Dest>我爱金发女郎。我喜欢法师。我爱骷髅。你是完美的。</Dest>
+      <Source>That's hard to say. I used to be mortal. But I prefer not to be. Lightly boned means light on my feet. I like that.</Source>
+      <Dest>这就很难说了。我曾经是一介凡人。但我更希望能有所不同。更轻盈的骨骼也意味着更轻快的脚步。我喜欢这样。</Dest>
     </String>
     <String List="2">
       <Source>Fancy yourself a bigot, huh?  Never could get the hang of that.</Source>
       <Dest>没有想象到自己是一个偏执鬼，嗯？从来都弄不明白。</Dest>
     </String>
-    <String List="0">
-      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
-      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Although it's strange of you to take exception with a certain type of person...The Pessial I knew treated everyone poorly.</Source>
-      <Dest>虽然你对某些特定类型的人有异议这点很奇怪……据我所知帕索对待每个人都很不好。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
-      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, in any case, go fiddling with any golden locks around me, and we're going to have a real problem.</Source>
-      <Dest>嗯，不管这么说，要是你在我这儿捣鼓什么金锁头，就真有大麻烦了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hold on, you were a blonde? I knew there was something I despised about you.</Source>
-      <Dest> 慢着，你曾经金发碧眼？我挺鄙视你的某些方面的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Mother knows best, but not yours.  You should've abandoned her. If your mother was a necessity, your name would be invention. It isn't. It's Pessial.</Source>
-      <Dest>你母亲知道起什么名字好，但却不是给你起。你应该抛弃她。如果你的母亲是必要的，她就应该给你起名字。但却没有。你还是叫了帕索。</Dest>
-    </String>
-    <String List="0">
-      <Source>Pessial the Pink.  I wish my mother had thought of that first.</Source>
-      <Dest>Pessial the Pink.  I wish my mother had thought of that first.</Dest>
-    </String>
-    <String List="2">
-      <Source>That's a trade secret, one I will divulge to you because I seem like the naive sort.  I filled my mouth with snowberries.</Source>
-      <Dest>这个是商业机密，我愿意告诉你是因为我喜欢天真的人。秘密就是，我嘴里塞满了雪绒花。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you swallow fireballs without hurting yourself?</Source>
-      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, this is as plain as the nose on your mouth.  The real trick is after the dousing of water, when the jester belches a cloud of gray smoke.</Source>
-      <Dest>Of course, this is as plain as the nose on your mouth.  The real trick is after the dousing of water, when the jester belches a cloud of gray smoke.</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you swallow fireballs without hurting yourself?</Source>
-      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
-    </String>
     <String List="2">
       <Source>Perhaps this is where I got the name Skjel the Gray, and not my gray hair, or my burnt, ashen face.</Source>
       <Dest>大概我的名字灰衣斯克尔由此而来，而不是我灰色的头发或者烧伤般苍白的脸。</Dest>
     </String>
-    <String List="0">
-      <Source>How did you swallow fireballs without hurting yourself?</Source>
-      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+    <String List="2">
+      <Source>Stop right there, criminal scum!</Source>
+      <Dest>站住，你个渣滓罪犯！</Dest>
     </String>
     <String List="2">
-      <Source>Although my fellow Nords did like to call me Gray-skin.  But you know what they say, insults are only skin deep.</Source>
-      <Dest>虽然我的诺德同伴都喜欢叫我灰皮。但你知道的，侮辱不过只是切肤之痛罢了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you swallow fireballs without hurting yourself?</Source>
-      <Dest>你怎么做到吞下火球而不受伤的？</Dest>
+      <Source>Instead he just rifled through my tunic and ran off.  I hope he wasn't planning any thievery, as he would've been vastly disappointed.</Source>
+      <Dest>相反，他只是翻了我的外衣，然后就跑了。我希望他没有为这场偷窃而策划上很久，否则他估计会非常失望。</Dest>
     </String>
     <String List="2">
-      <Source>I'm a skeleton.  How is it I can talk?  That's how.  Listen and repeat.  Just like history.  Fine history we've got here.  Dwarven make, am I right?</Source>
-      <Dest>I'm a skeleton.  How is it I can talk?  That's how.  Listen and repeat.  Just like history.  Fine history we've got here.  Dwarven make, am I right?</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a skeleton. How is it that you can talk?</Source>
-      <Dest>你是个骷髅.你怎么能讲话呢？</Dest>
+      <Source>You mean, like in your footsteps?  Your lead?  Or my heart?  I prefer to follow my nose, and it knows to follow the orders of the Pink one.</Source>
+      <Dest>你的意思是，就随着你的脚步吗？跟随你的引领？还是我的心？我更喜欢跟随我的鼻子,它知道遵循粉色东西的指引。</Dest>
     </String>
     <String List="2">
-      <Source>But I'm sworn to repeat some things more than others.  Like "I've got a bad feeling about this."  Or "Make it quick" and "Hm?"</Source>
-      <Dest>但我发誓要说点别人没说过的话。比方说"我对这有不好的预感"或者"有话快说"再或者"嗯？"</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a skeleton. How is it that you can talk?</Source>
-      <Dest>你是个骷髅.你怎么能讲话呢？</Dest>
+      <Source>I would learn a thing or two the hard way. The first thing was that the glow was caused by some sort of acid. The second was that acid burns.</Source>
+      <Dest>我用了很笨的办法学到了两档子事。第一档子事是，这玩意色彩鲜艳的原因是因为某种酸。第二档子事是我明白了什么叫酸烧伤。</Dest>
     </String>
     <String List="2">
-      <Source>So for variety, I sometimes say, "Make it quick, hm?  I've got a bad feeling about this curved sweetroll from Hammerfell."  </Source>
-      <Dest>根据不同的情况吧，有时我会说：“有话快说，嗯？我对这个从落锤省来的甜甜圈没什么好感。”</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a skeleton. How is it that you can talk?</Source>
-      <Dest>你是个骷髅.你怎么能讲话呢？</Dest>
+      <Source>Sure, some might say "Too soon!" But wouldn't it be said sooner or later?  I'd just as soon sell my soul than not say something horrible.</Source>
+      <Dest>当然，有人会说“太快了！”但那不是迟早都会说的？我只是情愿在我说什么难听的话之前先卖掉我的灵魂。</Dest>
     </String>
     <String List="2">
-      <Source>It all makes more luck than sense, and it's better to be lucky than good at speechcraft.</Source>
-      <Dest>比起感觉而言，这更靠运气，比运气更好的是能说会道。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're a skeleton. How is it that you can talk?</Source>
-      <Dest>你是个骷髅.你怎么能讲话呢？</Dest>
+      <Source>Just like I stole the Red Molehill's thunder by being amazing.</Source>
+      <Dest>这特么简直比红鼹鼠的霹雳还要让我感到晴天霹雳啊！</Dest>
     </String>
     <String List="2">
-      <Source>You...eat bones? Bare? Dry? Chilled? Or do you prefer your bones in bags? You can use my hood. It hasn't been washed. That means more flavor.</Source>
-      <Dest>你在……啃骨头？赤裸裸的？干燥燥的？冷冰冰的？或许你喜欢把骨头装在袋子里？你可以用我的头巾。它没被洗过。味道更浓郁。</Dest>
-    </String>
-    <String List="0">
-      <Source>In a few seconds, your name is going to be "Bonemeal."</Source>
-      <Dest>几秒钟后，你的名字就会变成"骨粉"了"。</Dest>
-    </String>
-    <String List="2">
-      <Source>Who is it? What is it? Does it know? Nobody would know, because it's nobody's business. It should ask him.</Source>
-      <Dest>Who is it? What is it? Does it know? Nobody would know, because it's nobody's business. It should ask him.</Dest>
-    </String>
-    <String List="2">
-      <Source>I only know it by name.  Skjel the Gray, they call me, but you can call me Horace.</Source>
-      <Dest>我只听说过它的名字。他们称呼我为灰衣斯克尔，但你可以叫我霍勒斯。</Dest>
+      <Source>It felt like a flame spell was scorching my back. I said, "Whoa, whoa, whoa!  Watch the magic!" But the mold did not listen.</Source>
+      <Dest>就像是一个火焰魔法灼烧着我的后背。我大叫：“喔，喔，喔！看着点儿你的魔法！”但那个发霉的家伙却没听。</Dest>
     </String>
     <String List="2">
       <Source>As for you, you are the one they call "Pessial the Pink."  That is what I should know.  That is my business.</Source>
       <Dest>至于你，你就是他们叫做 "粉衣帕索"的那个人。我早就该知道了。那是我的事。</Dest>
     </String>
     <String List="2">
-      <Source>Bonewalker? Oh no, I'm more of a Bone Lord, with half the arms and twice the nobility.  Or was it twice as shy and half a brain?</Source>
-      <Dest>骷髅兵？哦不，我更喜欢骷髅领主，因为它的武器只有一半儿长，却有双倍的贵族风度。或者说它更害羞却只长了一半儿的脑子？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
-      <Dest>我以为你已经失去理智了，但很明显你还没有，行尸走肉。</Dest>
+      <Source>This is the part where you look in a mirror and get scared to death!</Source>
+      <Dest>这就是你在镜子里看到的东西的一部分，他妈的吓死我了！</Dest>
     </String>
     <String List="2">
-      <Source>Now I'm confused.  You are crafty.  Just what I'd expect from the one and only Pessial the Pink.</Source>
-      <Dest>现在我有点糊涂了。你真狡猾。正是我所期待的那个，唯一的那个粉衣帕索。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
-      <Dest>我以为你已经失去理智了，但很明显你还没有，行尸走肉。</Dest>
+      <Source>So for variety, I sometimes say, "Make it quick, hm?  I've got a bad feeling about this curved sweetroll from Hammerfell."  </Source>
+      <Dest>根据不同的情况吧，有时我会说：“有话快说，嗯？我对这个从落锤省来的甜甜圈没什么好感。”</Dest>
     </String>
     <String List="2">
-      <Source>Of course, as the saying goes, fool me once, shame on me, but fool me again, and lightning will strike you twice.</Source>
-      <Dest>当然了，俗话说得好，你骗我一次，责任在我，但你骗我两次，你就得遭雷劈了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd say you've lost your mind, but that much is obvious, bone-walker.</Source>
-      <Dest>我以为你已经失去理智了，但很明显你还没有，行尸走肉。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's what I said.  What are you implying?  That the world is your oyster, but not mine? </Source>
-      <Dest>那就是我说的。你想暗示什么？世界是你的贝壳，而不是我的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you mean, "make a world of difference?"</Source>
-      <Dest>你是说“创造一个不同的世界”？</Dest>
-    </String>
-    <String List="2">
-      <Source>Good.  I hate oysters.  Like casting pearls before swine.  I am no Pessial the Pink, after all.</Source>
-      <Dest>Good.  I hate oysters.  Like casting pearls before swine.  I am no Pessial the Pink, after all.</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you mean, "make a world of difference?"</Source>
-      <Dest>你是说“创造一个不同的世界”？</Dest>
+      <Source>That's a trade secret, one I will divulge to you because I seem like the naive sort.  I filled my mouth with snowberries.</Source>
+      <Dest>这个是商业机密，我愿意告诉你是因为我喜欢天真的人。秘密就是，我嘴里塞满了雪绒花。</Dest>
     </String>
     <String List="2">
       <Source>Then my tunic started chafing, so off that went too.  Then I started to notice tiny worms of smoke rising from my chest.</Source>
       <Dest>然后我的外衣开始磨得生疼，于是我就把它脱下来了。接着，我开始注意到微小的寄生虫的烟雾从我的胸部升腾着。</Dest>
     </String>
-    <String List="0">
-      <Source>Naturally.</Source>
-      <Dest>自然地。</Dest>
+    <String List="2">
+      <Source>You...eat bones? Bare? Dry? Chilled? Or do you prefer your bones in bags? You can use my hood. It hasn't been washed. That means more flavor.</Source>
+      <Dest>你在……啃骨头？赤裸裸的？干燥燥的？冷冰冰的？或许你喜欢把骨头装在袋子里？你可以用我的头巾。它没被洗过。味道更浓郁。</Dest>
     </String>
     <String List="2">
-      <Source>It felt like a flame spell was scorching my back. I said, "Whoa, whoa, whoa!  Watch the magic!" But the mold did not listen.</Source>
-      <Dest>就像是一个火焰魔法灼烧着我的后背。我大叫：“喔，喔，喔！看着点儿你的魔法！”但那个发霉的家伙却没听。</Dest>
-    </String>
-    <String List="0">
-      <Source>Naturally.</Source>
-      <Dest>自然地。</Dest>
-    </String>
-    <String List="2">
-      <Source>I would learn a thing or two the hard way. The first thing was that the glow was caused by some sort of acid. The second was that acid burns.</Source>
-      <Dest>我用了很笨的办法学到了两档子事。第一档子事是，这玩意色彩鲜艳的原因是因为某种酸。第二档子事是我明白了什么叫酸烧伤。</Dest>
-    </String>
-    <String List="0">
-      <Source>Naturally.</Source>
-      <Dest>自然地。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't be ridiculous!  I lost them in Valenwood, along with my chest, on a patch of glowing mold.</Source>
-      <Dest>别逗了！我在威木省失去了它们，连同我的胸部一起放在了一片发光菌丛上。</Dest>
-    </String>
-    <String List="0">
-      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
-      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是埃斯沃拉省吗？</Dest>
+      <Source>Mother knows best, but not yours.  You should've abandoned her. If your mother was a necessity, your name would be invention. It isn't. It's Pessial.</Source>
+      <Dest>你母亲知道起什么名字好，但却不是给你起。你应该抛弃她。如果你的母亲是必要的，她就应该给你起名字。但却没有。你还是叫了帕索。</Dest>
     </String>
     <String List="2">
       <Source>I remember walking through the forest, a river of sweat on my brow.  The more I wiped it, the more my gloves started to drown.</Source>
       <Dest>我记得穿过树林的时候，额头上冒出了一堆汗。我越是擦它，我的手套就浸得越湿。</Dest>
     </String>
-    <String List="0">
-      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
-      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是埃斯沃拉省吗？</Dest>
+    <String List="2">
+      <Source>It all makes more luck than sense, and it's better to be lucky than good at speechcraft.</Source>
+      <Dest>比起感觉而言，这更靠运气，比运气更好的是能说会道。</Dest>
     </String>
     <String List="2">
-      <Source>So I removed my gloves and lay in a patch of moss.  But I was still hot, so I took off my trousers too.</Source>
-      <Dest>然后我脱下手套躺在小径的青苔上。但我还是很热，所以我把裤子也脱掉了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Morrowind?  Black Marsh?  And where did your lose your arms?  Elsweyr?</Source>
-      <Dest>晨风省？还是黑沼省？你在哪儿丢了胳膊呢？难道是埃斯沃拉省吗？</Dest>
+      <Source>Now I'm confused.  You are crafty.  Just what I'd expect from the one and only Pessial the Pink.</Source>
+      <Dest>现在我有点糊涂了。你真狡猾。正是我所期待的那个，唯一的那个粉衣帕索。</Dest>
     </String>
     <String List="2">
-      <Source>I find your wolfish grin...encouraging.  It's the very same grin I wore the day that volcano erupted.</Source>
-      <Dest>我发现了你残忍的笑容...真让人振奋不已。在火山爆发的那天，我也带着同样的笑容。</Dest>
-    </String>
-    <String List="0">
-      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
-      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+      <Source>Bonewalker? Oh no, I'm more of a Bone Lord, with half the arms and twice the nobility.  Or was it twice as shy and half a brain?</Source>
+      <Dest>骷髅兵？哦不，我更喜欢骷髅领主，因为它的武器只有一半儿长，却有双倍的贵族风度。或者说它更害羞却只长了一半儿的脑子？</Dest>
     </String>
     <String List="2">
-      <Source>Sure, some might say "Too soon!" But wouldn't it be said sooner or later?  I'd just as soon sell my soul than not say something horrible.</Source>
-      <Dest>当然，有人会说“太快了！”但那不是迟早都会说的？我只是情愿在我说什么难听的话之前先卖掉我的灵魂。</Dest>
-    </String>
-    <String List="0">
-      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
-      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+      <Source>So I knelt down by a particularly gruesome tree, took off my boots, and let my feet fight the air for who smelled the worst.  Then I took a nap.</Source>
+      <Dest>所以我在一棵很阴森的树面前跪下，脱掉我的鞋子，让我的脚在空气里晾凉因为它们实在很臭。然后我打了个瞌睡。</Dest>
     </String>
     <String List="2">
-      <Source>And I figured the sooner we got over that uncomfortable silence, the sooner we could all laugh about it.</Source>
-      <Dest>只要我们尽早化解这种尴尬情况，就能尽早把这一切抛诸脑后。</Dest>
-    </String>
-    <String List="0">
-      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
-      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+      <Source>Fine. Go. And don't come back to these.</Source>
+      <Dest>好吧。你走。走了之后就不要再回到这里。</Dest>
     </String>
     <String List="2">
-      <Source>Look at me.  I'm always smiling.  I'm a veritable chandelier of teeth.</Source>
-      <Dest>看看我。我从不收起微笑。看我的大白牙，多闪亮。</Dest>
-    </String>
-    <String List="0">
-      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
-      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+      <Source>Of course, as the saying goes, fool me once, shame on me, but fool me again, and lightning will strike you twice.</Source>
+      <Dest>当然了，俗话说得好，你骗我一次，责任在我，但你骗我两次，你就得遭雷劈了。</Dest>
     </String>
     <String List="2">
-      <Source>Not all skeletons are alike.  You of all people should know that, Pessial the Pink.  You're half skeleton, if I recall correctly.</Source>
-      <Dest>并非所有的骨骼都是一样的。你们所有的人都应该知道，粉衣帕索。你只有一半的骨架，如果我没有记错的话。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
-      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+      <Source>I only know it by name.  Skjel the Gray, they call me, but you can call me Horace.</Source>
+      <Dest>我只听说过它的名字。他们称呼我为骷髅斯克尔，但你可以叫我霍勒斯。</Dest>
     </String>
     <String List="2">
-      <Source>I forget what the other half was.  But in any event, I have a tongue, but not a cheek to put it in.</Source>
-      <Dest>我忘记了那一半是什么，但不过无论如何，我还有舌头，但是我没有脸颊来放置。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
-      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+      <Source>That reminds me of Glennmar the Green.  He was a powerful frog knight, until some harlot kissed him and turned him into a weakling.</Source>
+      <Dest>那让我想到了绿衣格林玛尔。他曾是一个强大的青蛙骑士，直到一些妓女亲吻了他并把他变得弱小。</Dest>
     </String>
     <String List="2">
-      <Source>I lost it and the rest of my flesh during that one year.  You know, the Red one.</Source>
-      <Dest>就在那一年，我失去了它，也失去了我其余的肉体。你懂的，红色之年。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
-      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's a good start, although completely on the wrong foot. We need to put our best foot forward. The one made of iron and designed for chipping ore.</Source>
-      <Dest>那是个好的开始，虽然我们完全毫无准备。我们必须全力以赴。这东西是铁做的，是被设计来开凿矿石的。</Dest>
-    </String>
-    <String List="0">
-      <Source>We could keep stepping on it. That'll show the filthy earth who's king.</Source>
-      <Dest>接着踏上它吧。让他们看看谁才是这片肮脏土地上的王。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know your kind, always laughing about. That makes you my favorite type of customer.  Would you like to see me juggle a fireball?</Source>
-      <Dest>我知道你是个善人，我经常笑话你这样的货。你是我最喜欢的那种顾客。你想要我耍个火球术给你看看么?</Dest>
-    </String>
-    <String List="0">
-      <Source>So you're a jester?  I love jesters!</Source>
-      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
-    </String>
-    <String List="2">
-      <Source>First you'll have to confiscate any magic goods I'm carrying.  Just to make sure I don't have a few scrolls up my sleeve.</Source>
-      <Dest>首先你得先把我身上带着的魔法物品都给没收了，确保我没在袖管里藏几只卷轴。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you're a jester?  I love jesters!</Source>
-      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
-    </String>
-    <String List="2">
-      <Source>On second thought, I don't want you touching my things. They're locked away for a reason.</Source>
-      <Dest>第二，我不希望你碰我的东西。它们被锁起来是有原因的。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you're a jester?  I love jesters!</Source>
-      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course Pessial.  I forgot about that year you drank 365 bottles of vintage red wine as part of a bet with yourself.</Source>
-      <Dest>当然了，帕索。我已然忘却了那年你自娱自乐喝了365瓶红葡萄酒的事情了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
-      <Dest>是的，我记得 Red Year fondly。虽然我更喜欢自己的白葡萄酒。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your face was pink throughout the whole ordeal.  However, I refer to the Red Molehill that upon further inspection turned into a mountain.</Source>
-      <Dest>Your face was pink throughout the whole ordeal.  However, I refer to the Red Molehill that upon further inspection turned into a mountain.</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
-      <Dest>是的，我记得 Red Year fondly。虽然我更喜欢自己的白葡萄酒。</Dest>
-    </String>
-    <String List="2">
-      <Source>See I was living in Morrowind at the time, training to be a court...what do you call those things with the robes and the magic spells?</Source>
-      <Dest>你瞧，我那时住在晨风，训练自己成为一名宫廷...话说你管那些法袍啊魔法技能之类的东西叫什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
-      <Dest>是的，我记得 Red Year fondly。虽然我更喜欢自己的白葡萄酒。</Dest>
-    </String>
-    <String List="2">
-      <Source>Like the ones from Hammerfell? No, that's not what I mean at all.  Don't question me, I've been hunting and fishing in these parts for years!</Source>
-      <Dest>像那个从落锤省来的一样？不，我根本不是这个意思。别再问了成么，我这几年光忙着打猎和捕鱼了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Curved sweetroll?  Do you mean curved swords?</Source>
-      <Dest>弯曲的甜甜圈？你的意思是指弯曲的剑吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, the last thing I remember was hunting and fishing during that one year.  You know, the Red one.</Source>
-      <Dest>In fact, the last thing I remember was hunting and fishing during that one year.  You know, the Red one.</Dest>
-    </String>
-    <String List="0">
-      <Source>Curved sweetroll?  Do you mean curved swords?</Source>
-      <Dest>弯曲的甜甜圈？你的意思是指弯曲的剑吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Roundabout?  Oh no, I'm as straight as an arrow, walking the straight but never narrow.  Varkas the Black, he was a man who lived by hook or crook.</Source>
-      <Dest>委婉？哦不，我就像一支箭那么直 。永远直来直去而不会耍些花花肠子。黑衣瓦卡斯，他是个为了生存不择手段的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's a rather roundabout way of saying you mine ore.</Source>
-      <Dest>【“矿石”是个蹩脚的说法】。</Dest>
-    </String>
-    <String List="2">
-      <Source>I mean that literally. Varkas had a hook for a hand and a crook in his nose. As I said, Skjel the Gray will always give it to you straight.</Source>
-      <Dest>我就指字面意思。瓦卡斯有一只钩子手，有一个鹰钩鼻。我说过，灰衣斯克尔说话从不拐弯抹角。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's a rather roundabout way of saying you mine ore.</Source>
-      <Dest>【“矿石”是个蹩脚的说法】。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, at first I thought it would be easier to learn by mace, but a guard gets nervous when you approach with your weapon drawn.</Source>
-      <Dest>是的，一开始我觉得用狼牙棒学可能会更简单一点，但如果你手持武器走近守卫的话，他们会很紧张的。</Dest>
-    </String>
-    <String List="0">
-      <Source>You picked up the common tongue by ear?  That's impressive.</Source>
-      <Dest>你只靠听的就学会了通用语？这还真厉害。</Dest>
-    </String>
-    <String List="2">
-      <Source>So I listened instead.  It also helps to have a tongue when you speak the common one.  Lucikly, mine survived that one year.  You know, the Red one.</Source>
-      <Dest>所以我以听来代替。当你说着通用语的时候你也会逐渐染上那种口音。幸运的是，我在那年幸存了下来。你明白的，红色之年。</Dest>
-    </String>
-    <String List="0">
-      <Source>You picked up the common tongue by ear?  That's impressive.</Source>
-      <Dest>你只靠听的就学会了通用语？这还真厉害。</Dest>
-    </String>
-    <String List="2">
-      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
-      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
-    </String>
-    <String List="0">
-      <Source>And this is supposed to be funny?</Source>
-      <Dest>这个是搞笑的节奏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
-      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
-    </String>
-    <String List="0">
-      <Source>And this is supposed to be funny?</Source>
-      <Dest>这个是搞笑的节奏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
-      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
-    </String>
-    <String List="0">
-      <Source>And this is supposed to be funny?</Source>
-      <Dest>这个是搞笑的节奏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
-      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
-    </String>
-    <String List="0">
-      <Source>That would make for an...interesting performance.</Source>
-      <Dest>那会是一场...有趣的演出。</Dest>
-    </String>
-    <String List="2">
-      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
-      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
-    </String>
-    <String List="0">
-      <Source>That would make for an...interesting performance.</Source>
-      <Dest>那会是一场...有趣的演出。</Dest>
-    </String>
-    <String List="2">
-      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
-      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
-    </String>
-    <String List="0">
-      <Source>That would make for an...interesting performance.</Source>
-      <Dest>那会是一场...有趣的演出。</Dest>
-    </String>
-    <String List="2">
-      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
-      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hilarious.</Source>
-      <Dest>很有意思。</Dest>
-    </String>
-    <String List="2">
-      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
-      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hilarious.</Source>
-      <Dest>很有意思。</Dest>
-    </String>
-    <String List="2">
-      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
-      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hilarious.</Source>
-      <Dest>很有意思。</Dest>
-    </String>
-    <String List="2">
-      <Source>Specifically, I would juggle three fireballs.  Then I would fling them over my head and swallow them one by one as they fell.</Source>
-      <Dest>说的具体点，我会用火球玩杂耍。之后我会把它们抛过头顶，再逐个吞下。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by a warm fire?</Source>
-      <Dest>你说的那个温火是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>At which point, I would make a face as if I had just ingested something incredibly hot, then rush over to a flagon of water and douse it on my head.</Source>
-      <Dest>届时，我可能会像是吃了什么特别辣的东西一样，抓起一壶水浇在头上。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by a warm fire?</Source>
-      <Dest>你说的那个温火是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>No, that's not it, not enough bells on their hats.</Source>
-      <Dest>不，不是这回事，他们帽子上的铃铛还不够。</Dest>
-    </String>
-    <String List="0">
-      <Source>A court wizard?</Source>
-      <Dest>一位宫廷法师？</Dest>
-    </String>
-    <String List="2">
-      <Source>I was applying to be a court something or other.  A significant other, perhaps.</Source>
-      <Dest>我想从事宫廷职务，或者别的足够高端大气的职业。</Dest>
-    </String>
-    <String List="0">
-      <Source>A court wizard?</Source>
-      <Dest>一位宫廷法师？</Dest>
-    </String>
-    <String List="0">
-      <Source>If not a court wizard, what position were you applying for?</Source>
-      <Dest>如果不是做庭院法师，你会申请什么职位？</Dest>
-    </String>
-    <String List="2">
-      <Source>Significant, given the time. There was a sprinkle of gloom dust in Morrowind, but I knew my act and a warm fire would get that chill out of the air.</Source>
-      <Dest>需要不少时间。在晨风昏黑的灰尘撒播的到处都是，但是我知道温暖的火焰和我所做的一切会让事情变好的。</Dest>
-    </String>
-    <String List="0">
-      <Source>A court wizard?</Source>
-      <Dest>一位宫廷法师？</Dest>
-    </String>
-    <String List="0">
-      <Source>If not a court wizard, what position were you applying for?</Source>
-      <Dest>如果不是做庭院法师，你会申请什么职位？</Dest>
-    </String>
-    <String List="2">
-      <Source>I've got a lot of respect for the restoration school.  Skyrim could use a lot more valid schools of magic.</Source>
-      <Dest>我很尊重回复系法术。天际省应该有更多正规的法术分类。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
-      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
-    </String>
-    <String List="2">
-      <Source>But if I were a healer, I would have healed my head, instead of tumbling head over heels.  Somersaults are my trade, and cartwheels.</Source>
-      <Dest>如果我是个治疗师，我就能把自己的脑袋医好，而不是这样头下脚上的翻筋斗。我就靠表演翻筋斗和横翻筋斗生活。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
-      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
-    </String>
-    <String List="2">
-      <Source>By Ysmir's eyebrows do I love cartwheels.  Such transcendent comedy.</Source>
-      <Dest>伊斯谟的眉毛在上，我爱翻跟头。这可是件至高无上的趣事啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
-      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
-    </String>
-    <String List="2">
-      <Source>I decided to play dead, which is usually a dead giveaway that someone had died.  Namely, me.</Source>
-      <Dest>我决定装死，但经常真死的人会暴露装死的人。比如说，我。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, one of the green fellows marched right on over to me.  I thought he was going to bury me alive.</Source>
-      <Dest>实际上，那些新手随从们中的一个径直走向了我。我以为他打算把我给活埋了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Only he didn't reach for a shovel.  He reached for a pickaxe.  And he struck it at the earth-blood beside me.</Source>
-      <Dest>只有他没拿到铲子。他拿到了个鹤嘴锄。他把那个鹤嘴锄钉在我旁边。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>He wasn't trying to kill me.  He was trying to make me rich.  Because when he chipped at the vein, out came diamonds.</Source>
-      <Dest>他并不想杀死我。他试图让我变得富有。因为当他凿下岩脉的时候，凿出了钻石。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Then the green sneak thief tried to steal the diamond he just gave me.  Didn't make an oyster of difference after I leapt up and scared him.</Source>
-      <Dest>然后那鬼鬼祟祟的菜鸟小偷试图偷走他刚刚给我的钻石，不过被我跳起来吓跑了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you do?</Source>
-      <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, it's a short story.  Let me begin with Chapter 1 of 396 thousand.</Source>
-      <Dest>嗯哼，这故事挺短小精悍的。让我们从第一章的396000行开始吧。</Dest>
+      <Source>Heard about you and your honeyed words.  You'll catch a lot of flies that way, right in the mouth. Just like a frog.</Source>
+      <Dest>我听过你还有你那张甜甜的小嘴。这么下去你肯定会招一嘴苍蝇。就像个老蛤蟆一样。</Dest>
     </String>
     <String List="0">
       <Source>What exactly are you doing in here?</Source>
       <Dest>你到底在这里干什么？</Dest>
     </String>
-    <String List="2">
-      <Source>It all began when I was lying about in a cave, minding my own business plan to start an underground skooma operation.</Source>
-      <Dest>一切都开始于我躺在一个洞穴里，盘算着启动一个斯库玛走私行动。</Dest>
-    </String>
     <String List="0">
       <Source>What exactly are you doing in here?</Source>
       <Dest>你到底在这里干什么？</Dest>
     </String>
-    <String List="2">
-      <Source>It was then that four burly green fellows walked in smelling of giant's toe, which by any other name would sound just as horrifying.</Source>
-      <Dest>就在那个时候，四个结实的小伙子在巨人脚趾的气息里行走，哦，那太难闻了。</Dest>
-    </String>
     <String List="0">
       <Source>What exactly are you doing in here?</Source>
       <Dest>你到底在这里干什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Precisely.  Wait, two centuries?  Has it been that long?  Must have something to do with that curse.</Source>
-      <Dest>很准确。等等，两个世纪？已经有那么久了吗？一定跟诅咒有些关系。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
-      <Dest>红色年代?  你是说两个世纪前那次火山爆发？</Dest>
-    </String>
-    <String List="2">
-      <Source>Someone cursed the day I was born once.  But a lot of things happened on that day, and now they're all damned.</Source>
-      <Dest>有人在我出生的那一天就诅咒连连。但在那天也发生了很多事，而现在，他们都该死。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
-      <Dest>红色年代?  你是说两个世纪前那次火山爆发？</Dest>
-    </String>
-    <String List="2">
-      <Source>This particular curse was hurled at me when I was applying to be a court...what's that thing called with the robes and the staff and the beards?</Source>
-      <Dest>当我被应征，即将在宫廷任职的时候，被下了这种特殊的诅咒……长袍啊法杖啊胡子啊到底是什么玩意儿啊？</Dest>
-    </String>
-    <String List="0">
-      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
-      <Dest>红色年代?  你是说两个世纪前那次火山爆发？</Dest>
-    </String>
-    <String List="2">
-      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
-      <Dest>太棒了。我想你会庆幸你做了这个决定。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
-      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>But remember, Pessial the Pink, the ore veins are the weak point of no return.</Source>
-      <Dest>但是记住了，粉衣帕索，矿脉已经快要挖完了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
-      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Strike them down and we will strike it rich, because there's honest pay for honest work.</Source>
-      <Dest>把他们全给砍了，这样我们也会富起来的，因为只要勤劳就能致富。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
-      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well that's a stupid name!  It doesn't even rhyme with Irkngthand.  That's no way to address a fellow performance artist.</Source>
-      <Dest>那名字简直蠢透了！它甚至和厄金坦德都不押韵。就这个样子绝不能挂上表演艺术家的同伴之名。</Dest>
     </String>
     <String List="0">
       <Source>Actually, my name is &lt;Alias=Player&gt;.</Source>
       <Dest>实际上，我的名字是 &lt;Alias=Player&gt;.</Dest>
     </String>
-    <String List="2">
-      <Source>Great question! I'm glad you asked!</Source>
-      <Dest>问得好！很高兴你问起这个！</Dest>
+    <String List="0">
+      <Source>What do you mean by a warm fire?</Source>
+      <Dest>你说的那个温火是什么意思？</Dest>
     </String>
     <String List="0">
-      <Source>Why don't they call you Skjel the Blonde?</Source>
-      <Dest>为啥他们不叫你金发斯克尔?</Dest>
-    </String>
-    <String List="2">
-      <Source>It must be the hair. Once upon a time, my hair was the color of the sun in old paintings. Then it was gray.  Then it fell out.</Source>
-      <Dest>那一定是头发。曾几何时，我的头发是古画里太阳的颜色。然后它变成了灰色。再然后，它们纷纷脱落。</Dest>
+      <Source>What do you mean by a warm fire?</Source>
+      <Dest>你说的那个温火是什么意思？</Dest>
     </String>
     <String List="0">
-      <Source>Why don't they call you Skjel the Blonde?</Source>
-      <Dest>为啥他们不叫你金发斯克尔?</Dest>
-    </String>
-    <String List="2">
-      <Source>That is to say, it all fell into place, right where the dirt and earth-blood could claim it.  Filthy dirt.  It knows where the blondes are buried.</Source>
-      <Dest>也就是说，一切都搞清楚了。那肮脏染血的土地可以证明一切。这就是那个金发女人被埋的地方。</Dest>
+      <Source>You picked up the common tongue by ear?  That's impressive.</Source>
+      <Dest>你只靠听的就学会了通用语？这还真厉害。</Dest>
     </String>
     <String List="0">
-      <Source>Why don't they call you Skjel the Blonde?</Source>
-      <Dest>为啥他们不叫你金发斯克尔?</Dest>
-    </String>
-    <String List="2">
-      <Source>Which is why we need to treat the earth like dirt. Because that's precisely what it is until you chip at it.  Then it's diamonds.</Source>
-      <Dest>这就是为什么我们要把陆地当作是一层污泥。因为恰恰只有当你去发掘它你才知道，原来它是一颗钻石。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why don't they call you Skjel the Blonde?</Source>
-      <Dest>为啥他们不叫你金发斯克尔?</Dest>
-    </String>
-    <String List="2">
-      <Source>Hm...that's a bad question.  A better question would be why they no longer call me Skjel the Blonde.</Source>
-      <Dest>哼...这问的可真没技术含量。你咋不问他们为啥不接着叫我金发斯克尔啊？</Dest>
+      <Source>You picked up the common tongue by ear?  That's impressive.</Source>
+      <Dest>你只靠听的就学会了通用语？这还真厉害。</Dest>
     </String>
     <String List="0">
       <Source>Why do they call you Skjel the Gray?</Source>
-      <Dest>为什么他们称呼你为灰衣斯克尔?</Dest>
+      <Dest>为什么他们称呼你为灰衣斯克尔？</Dest>
+    </String>
+    <String List="0">
+      <Source>We could keep stepping on it. That'll show the filthy earth who's king.</Source>
+      <Dest>接着踏上它吧。让他们看看谁才是这片肮脏土地上的王。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
+      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
+      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps you were a skilled healer if you managed to survive such ordeals.</Source>
+      <Dest>如果你在这试炼中生存下来，或许你会是个纯熟的治疗师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't they call you Skjel the Blonde?</Source>
+      <Dest>为啥他们不叫你金发斯克尔?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't they call you Skjel the Blonde?</Source>
+      <Dest>为啥他们不叫你金发斯克尔?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't they call you Skjel the Blonde?</Source>
+      <Dest>为啥他们不叫你金发斯克尔?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't they call you Skjel the Blonde?</Source>
+      <Dest>为啥他们不叫你金发斯克尔?</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
+      <Dest>是的，我记得红色纯真年代。虽然我更喜欢自己的白葡萄酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
+      <Dest>是的，我记得红色纯真年代。虽然我更喜欢自己的白葡萄酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
+      <Dest>是的，我记得红色纯真年代。虽然我更喜欢自己的白葡萄酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you do?</Source>
+      <Dest>你做了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're a jester?  I love jesters!</Source>
+      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're a jester?  I love jesters!</Source>
+      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're a jester?  I love jesters!</Source>
+      <Dest>所以你是个滑稽演员？哦我真的超爱滑稽演员的！</Dest>
+    </String>
+    <String List="0">
+      <Source>If not a court wizard, what position were you applying for?</Source>
+      <Dest>如果不是做宫廷法师，你会从事什么职业呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>If not a court wizard, what position were you applying for?</Source>
+      <Dest>如果不是做宫廷法师，你会从事什么职业呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Hilarious.</Source>
+      <Dest>很有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hilarious.</Source>
+      <Dest>很有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hilarious.</Source>
+      <Dest>很有意思。</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved sweetroll?  Do you mean curved swords?</Source>
+      <Dest>弯曲的甜甜圈？你的意思是指弯曲的剑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Curved sweetroll?  Do you mean curved swords?</Source>
+      <Dest>弯曲的甜甜圈？你的意思是指弯曲的剑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard?</Source>
+      <Dest>一位宫廷法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard?</Source>
+      <Dest>一位宫廷法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>A court wizard?</Source>
+      <Dest>一位宫廷法师？</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning homes, lives ruined, what about that isn't funny?</Source>
+      <Dest>房子烧了，生活毁了，这是不是很有趣？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
+      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
+      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then I shall call you Skjel the Blonde, and together we will mine this earth.</Source>
+      <Dest>那我就叫你金发斯克尔好了，一会儿咱俩一起挖挖这块儿地吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>That would make for an...interesting performance.</Source>
+      <Dest>那会是一场...有趣的演出。</Dest>
+    </String>
+    <String List="0">
+      <Source>That would make for an...interesting performance.</Source>
+      <Dest>那会是一场...有趣的演出。</Dest>
+    </String>
+    <String List="0">
+      <Source>That would make for an...interesting performance.</Source>
+      <Dest>那会是一场...有趣的演出。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
+      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
+      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
+      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+    </String>
+    <String List="0">
+      <Source>And this is supposed to be funny?</Source>
+      <Dest>你这是在搞笑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And this is supposed to be funny?</Source>
+      <Dest>你这是在搞笑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>And this is supposed to be funny?</Source>
+      <Dest>你这是在搞笑吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
+      <Dest>红色之年？你是说两个世纪前那次火山爆发？</Dest>
+    </String>
+    <String List="0">
+      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
+      <Dest>红色之年？你是说两个世纪前那次火山爆发？</Dest>
+    </String>
+    <String List="0">
+      <Source>The Red Year? The volcanic eruption from two centuries ago?</Source>
+      <Dest>红色之年?你是说两个世纪前那次火山爆发？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a rather roundabout way of saying you mine ore.</Source>
+      <Dest>把你叫做矿石是一种委婉的说法。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a rather roundabout way of saying you mine ore.</Source>
+      <Dest>把你叫做矿石是一种委婉的说法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course Pessial.  I forgot about that year you drank 365 bottles of vintage red wine as part of a bet with yourself.</Source>
+      <Dest>当然了，帕索。我已然忘却了那年你自娱自乐喝了365瓶红葡萄酒的事情了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've got a lot of respect for the restoration school.  Skyrim could use a lot more valid schools of magic.</Source>
+      <Dest>我很尊重回复系法术。天际省应该有更多正规的法术分类。</Dest>
     </String>
     <String List="2">
       <Source>I'm going to examine the body before the cannibals can get to it.</Source>
       <Dest>我得尽快检验尸体免得被野兽吃掉。</Dest>
     </String>
     <String List="2">
+      <Source>Strike them down and we will strike it rich, because there's honest pay for honest work.</Source>
+      <Dest>把他们全给砍了，这样我们也会富起来的，因为只要勤劳就能致富。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like the ones from Hammerfell? No, that's not what I mean at all.  Don't question me, I've been hunting and fishing in these parts for years!</Source>
+      <Dest>像那个从落锤省来的一样？不，我根本不是这个意思。别再问了成么，我这几年光忙着打猎和捕鱼了！</Dest>
+    </String>
+    <String List="2">
+      <Source>It all began when I was lying about in a cave, minding my own business plan to start an underground skooma operation.</Source>
+      <Dest>一切都开始于我躺在一个洞穴里，盘算着启动一个斯库玛走私行动。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, that's not it, not enough bells on their hats.</Source>
+      <Dest>不，不是这回事，他们帽子上的铃铛还不够。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I listened instead.  It also helps to have a tongue when you speak the common one.  Lucikly, mine survived that one year.  You know, the Red one.</Source>
+      <Dest>所以我以听来代替。当你说着通用语的时候你也会逐渐染上那种口音。幸运的是，我在那年幸存了下来。你明白的，红色之年。</Dest>
+    </String>
+    <String List="2">
+      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
+      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
+    </String>
+    <String List="2">
+      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
+      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
+    </String>
+    <String List="2">
+      <Source>How fortuitous that I was standing on the crenels of Fort Pelagiad when a great belch could be heard in the distance, and stars rained from the sky.</Source>
+      <Dest>当天空下起流星雨的时候，我正站在佩拉吉亚德堡垒的城墙垛口处，偶然听到在远处那巨大的喷射声。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, one of the green fellows marched right on over to me.  I thought he was going to bury me alive.</Source>
+      <Dest>实际上，那些新手随从们中的一个径直走向了我。我以为他打算把我给活埋了。</Dest>
+    </String>
+    <String List="2">
+      <Source>At which point, I would make a face as if I had just ingested something incredibly hot, then rush over to a flagon of water and douse it on my head.</Source>
+      <Dest>届时，我可能会像是吃了什么特别辣的东西一样，抓起一壶水浇在头上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is why we need to treat the earth like dirt. Because that's precisely what it is until you chip at it.  Then it's diamonds.</Source>
+      <Dest>这就是为什么我们要把陆地当作是一层污泥。因为恰恰只有当你去发掘它你才知道，原来它是一颗钻石。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is to say, it all fell into place, right where the dirt and earth-blood could claim it.  Filthy dirt.  It knows where the blondes are buried.</Source>
+      <Dest>也就是说，一切都搞清楚了。那肮脏染血的土地可以证明一切。这就是那个金发女人被埋的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Someone cursed the day I was born once.  But a lot of things happened on that day, and now they're all damned.</Source>
+      <Dest>有人在我出生的那一天就诅咒连连。但在那天也发生了很多事，而现在，他们都该死。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Ysmir's eyebrows do I love cartwheels.  Such transcendent comedy.</Source>
+      <Dest>伊斯谟的眉毛在上，我爱翻跟头。这可是件至高无上的趣事啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
+      <Dest>很好。你会庆幸你做出了这个英明的决定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
+      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
+    </String>
+    <String List="2">
+      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
+      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
+    </String>
+    <String List="2">
+      <Source>I witnessed so much chaos.  Houses on fire, heads on fire, people running into each other, that sort of thing.  I lost half my face too!  Hilarious.</Source>
+      <Dest>我看够了乱世。那些化为灰烬的房屋，化为灰烬的人，人们四散逃命，混乱不堪。我也失去了我的半张脸！可真滑稽。</Dest>
+    </String>
+    <String List="2">
+      <Source>This particular curse was hurled at me when I was applying to be a court...what's that thing called with the robes and the staff and the beards?</Source>
+      <Dest>当我被应征，即将在宫廷任职的时候，被下了这种特殊的诅咒……长袍啊法杖啊胡子啊到底是什么玩意儿啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a good start, although completely on the wrong foot. We need to put our best foot forward. The one made of iron and designed for chipping ore.</Source>
+      <Dest>那是个好的开始，虽然我们完全毫无准备。我们必须全力以赴。这东西是铁做的，是被设计来开凿矿石的。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you'll have to confiscate any magic goods I'm carrying.  Just to make sure I don't have a few scrolls up my sleeve.</Source>
+      <Dest>首先你得先把我身上带着的魔法物品都给没收了，确保我没在袖管里藏几只卷轴。</Dest>
+    </String>
+    <String List="2">
+      <Source>See I was living in Morrowind at the time, training to be a court...what do you call those things with the robes and the magic spells?</Source>
+      <Dest>你瞧，我那时住在晨风，训练自己成为一名宫廷...话说你管那些法袍啊魔法技能之类的东西叫什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I lost it and the rest of my flesh during that one year.  You know, the Red one.</Source>
+      <Dest>就在那一年，我失去了它，也失去了我其余的肉体。你懂的，红色之年。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean that literally. Varkas had a hook for a hand and a crook in his nose. As I said, Skjel the Gray will always give it to you straight.</Source>
+      <Dest>我就指字面意思。瓦卡斯有一只钩子手，有一个鹰钩鼻。我说过，灰衣斯克尔说话从不拐弯抹角。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was then that four burly green fellows walked in smelling of giant's toe, which by any other name would sound just as horrifying.</Source>
+      <Dest>就在那个时候，四个结实的小伙子在巨人脚趾的气息里行走，哦，那太难闻了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Precisely.  Wait, two centuries?  Has it been that long?  Must have something to do with that curse.</Source>
+      <Dest>很准确。等等，两个世纪？已经有那么久了吗？一定跟诅咒有些关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if I were a healer, I would have healed my head, instead of tumbling head over heels.  Somersaults are my trade, and cartwheels.</Source>
+      <Dest>如果我是个治疗师，我就能把自己的脑袋医好，而不是这样头下脚上的翻筋斗。我就靠表演翻筋斗和横翻筋斗生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was applying to be a court something or other.  A significant other, perhaps.</Source>
+      <Dest>我想从事宫廷职务，或者别的足够高端大气的职业。</Dest>
+    </String>
+    <String List="2">
+      <Source>Great question! I'm glad you asked!</Source>
+      <Dest>问得好！很高兴你问起这个！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, at first I thought it would be easier to learn by mace, but a guard gets nervous when you approach with your weapon drawn.</Source>
+      <Dest>是的，一开始我觉得用狼牙棒学可能会更简单一点，但如果你手持武器走近守卫的话，他们会很紧张的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Significant, given the time. There was a sprinkle of gloom dust in Morrowind, but I knew my act and a warm fire would get that chill out of the air.</Source>
+      <Dest>需要不少时间。在晨风昏黑的灰尘撒播的到处都是，但是我知道温暖的火焰和我所做的一切会让事情变好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...that's a bad question.  A better question would be why they no longer call me Skjel the Blonde.</Source>
+      <Dest>哼...这问的可真没技术含量。你咋不问他们为啥不接着叫我金发斯克尔啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>I know your kind, always laughing about. That makes you my favorite type of customer.  Would you like to see me juggle a fireball?</Source>
+      <Dest>我知道你是个善人，我经常笑话你这样的货。你是我最喜欢的那种顾客。你想要我耍个火球术给你看看么?</Dest>
+    </String>
+    <String List="2">
+      <Source>It must be the hair. Once upon a time, my hair was the color of the sun in old paintings. Then it was gray.  Then it fell out.</Source>
+      <Dest>那一定是头发。曾几何时，我的头发是古画里太阳的颜色。然后它变成了灰色。再然后，它们纷纷脱落。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not all skeletons are alike.  You of all people should know that, Pessial the Pink.  You're half skeleton, if I recall correctly.</Source>
+      <Dest>并非所有的骨骼都是一样的。你们所有的人都应该知道，粉衣帕索。你只有一半的骨架，如果我没有记错的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>He wasn't trying to kill me.  He was trying to make me rich.  Because when he chipped at the vein, out came diamonds.</Source>
+      <Dest>他并不想杀死我。他试图让我变得富有。因为当他凿下岩脉的时候，凿出了钻石。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look at me.  I'm always smiling.  I'm a veritable chandelier of teeth.</Source>
+      <Dest>看看我。我从不收起微笑。看我的大白牙，多闪亮。</Dest>
+    </String>
+    <String List="2">
+      <Source>Specifically, I would juggle three fireballs.  Then I would fling them over my head and swallow them one by one as they fell.</Source>
+      <Dest>说的具体点，我会用火球玩杂耍。之后我会把它们抛过头顶，再逐个吞下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only he didn't reach for a shovel.  He reached for a pickaxe.  And he struck it at the earth-blood beside me.</Source>
+      <Dest>只有他没拿到铲子。他拿到了个鹤嘴锄。他把那个鹤嘴锄钉在我旁边。</Dest>
+    </String>
+    <String List="2">
+      <Source>I decided to play dead, which is usually a dead giveaway that someone had died.  Namely, me.</Source>
+      <Dest>我决定装死，但经常真死的人会暴露装死的人。比如说，我。</Dest>
+    </String>
+    <String List="2">
+      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
+      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
+      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>First Era comedy at its finest.  I had always envied the jester's craft, but it wasn't until the Red Year that I was inspired to become one.</Source>
+      <Dest>第一纪元时，喜剧处于鼎盛时期。我一直羡小丑们的技艺，但直到红山爆发那年我才真正成为了一个小丑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it's a short story.  Let me begin with Chapter 1 of 396 thousand.</Source>
+      <Dest>嗯哼，这故事挺短小精悍的。让我们从第一章的396000行开始吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Roundabout?  Oh no, I'm as straight as an arrow, walking the straight but never narrow.  Varkas the Black, he was a man who lived by hook or crook.</Source>
+      <Dest>委婉？哦不，我就像一支箭那么直 。永远直来直去而不会耍些花花肠子。黑衣瓦卡斯，他是个为了生存不择手段的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>But remember, Pessial the Pink, the ore veins are the weak point of no return.</Source>
+      <Dest>但是记住了，粉衣帕索，矿脉已经快要挖完了。</Dest>
+    </String>
+    <String List="2">
       <Source>Right away. No lollygaggin'.</Source>
       <Dest>马上。别浪费时间。</Dest>
     </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
+    <String List="2">
+      <Source>Well that's a stupid name!  It doesn't even rhyme with Irkngthand.  That's no way to address a fellow performance artist.</Source>
+      <Dest>那名字简直蠢透了！它甚至和厄金坦德都不押韵。就这个样子绝不能挂上表演艺术家的同伴之名。</Dest>
     </String>
     <String List="2">
-      <Source>This hat...it's wonderful!  Stupendous!  Wonderfully stupendous!  I thank you.  And my cartwheels thank you.  They look much better now.</Source>
-      <Dest>这帽子...太棒了！太惊人了！又棒又惊人！谢谢你。我也替我的车轮谢谢你。它们看着好多了。</Dest>
+      <Source>I forget what the other half was.  But in any event, I have a tongue, but not a cheek to put it in.</Source>
+      <Dest>我忘记了那一半是什么，但不过无论如何，我还有舌头，但是我没有脸颊来放置。</Dest>
     </String>
     <String List="2">
-      <Source>So long, farewell, Bovul and goodbye. </Source>
-      <Dest>就这样吧，别了，拜拜，再见。</Dest>
+      <Source>Then the green sneak thief tried to steal the diamond he just gave me.  Didn't make an oyster of difference after I leapt up and scared him.</Source>
+      <Dest>然后那鬼鬼祟祟的菜鸟小偷试图偷走他刚刚给我的钻石，不过被我跳起来吓跑了。</Dest>
     </String>
     <String List="2">
-      <Source>Mm-hm.</Source>
-      <Dest>哼嗯。</Dest>
-    </String>
-    <String List="2">
-      <Source>May your road lead you to gold sands.</Source>
-      <Dest>愿你的前路是金色的沙地。</Dest>
+      <Source>On second thought, I don't want you touching my things. They're locked away for a reason.</Source>
+      <Dest>第二，我不希望你碰我的东西。它们被锁起来是有原因的。</Dest>
     </String>
     <String List="2">
       <Source>Go where the mead is greatest.</Source>
       <Dest>去找极品蜜酒。</Dest>
     </String>
     <String List="2">
-      <Source>Confound it all!  This page two!  And this page three!  There are some really perplexing things on page three.</Source>
-      <Dest>全乱套了！这是第二页！这是第三页！第三页上可是有一些相当复杂的内容！</Dest>
+      <Source>Mm-hm.</Source>
+      <Dest>哼嗯。</Dest>
     </String>
     <String List="2">
-      <Source>My bones are hot. I prefer them boiling!</Source>
-      <Dest>我现在热血沸腾的。整个人都燃起来啦！</Dest>
+      <Source>So long, farewell, Bovul and goodbye. </Source>
+      <Dest>就这样吧，别了，拜拜，再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>This hat...it's wonderful!  Stupendous!  Wonderfully stupendous!  I thank you.  And my cartwheels thank you.  They look much better now.</Source>
+      <Dest>这帽子...太棒了！太惊人了！又棒又惊人！谢谢你。我也替我的车轮谢谢你。它们看着好多了。</Dest>
     </String>
     <String List="2">
       <Source>Hm?</Source>
       <Dest>嗯？</Dest>
     </String>
     <String List="2">
+      <Source>May your road lead you to gold sands.</Source>
+      <Dest>愿你的前路是金色的沙地。</Dest>
+    </String>
+    <String List="2">
+      <Source>My bones are hot. I prefer them boiling!</Source>
+      <Dest>我现在热血沸腾的。整个人都燃起来啦！</Dest>
+    </String>
+    <String List="2">
       <Source>Make it quick, hm?</Source>
       <Dest>有话快说，嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Confound it all!  This page two!  And this page three!  There are some really perplexing things on page three.</Source>
+      <Dest>全乱套了！这是第二页！这是第三页！第三页上可是有一些相当复杂的内容！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

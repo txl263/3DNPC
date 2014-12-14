@@ -6,189 +6,85 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>Sister...I...I'll see you in Riverwood.</Source>
-      <Dest>妹妹……我…我们溪木镇见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Three of us?</Source>
-      <Dest>我们三个？</Dest>
-    </String>
-    <String List="2">
-      <Source>Sister, I think I'm ready to leave now.</Source>
-      <Dest>妹妹，我想现在我可以离开了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Marigoth!  Zora, what's going on?</Source>
-      <Dest>玛丽葛斯！佐拉，这是怎么回事？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm fine sister.  Thank you.</Source>
-      <Dest>我没事的妹妹。谢谢你。</Dest>
-    </String>
-    <String List="2">
-      <Source>Give me a moment...I can take us home.  Our real home.</Source>
-      <Dest>给我点时间……我能带大家一起回家。我们真正的家.</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm so sorry.</Source>
-      <Dest>太对不起了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Zora?</Source>
-      <Dest>佐拉？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm sure. It doesn't hurt when I'm here.</Source>
-      <Dest>我确定。我留在这儿没什么不好。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know.</Source>
-      <Dest>我知道。</Dest>
-    </String>
-    <String List="2">
-      <Source>You stopped it!  You stopped the fire!</Source>
-      <Dest>你让它停止了！你熄灭了火焰！</Dest>
-    </String>
-    <String List="2">
-      <Source>No!  You can't leave!  This is our place!  Our home!  I built this for you!</Source>
-      <Dest>不！你不能走！这是我们的地方！我们的家！是我专门为你建造的啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you see it sister?  Do you see the snow?</Source>
-      <Dest>看见了吗妹妹？你看见那雪了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>No!  I'm not leaving!  You aren't leaving!  You're not my real sister!  You're someone else!</Source>
-      <Dest>不！我不走！你也走不了！你不是我妹妹！你是谁扮的！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you see it sister?  Do you see the snow?</Source>
-      <Dest>看见了吗妹妹？你看见那雪了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on, sister!  Let's go play!</Source>
-      <Dest>来啊，妹妹！一起去玩吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, here we are Zora.  This is our home.  We never have to leave.  We never have to cry.</Source>
-      <Dest>嘿，佐拉我们到啦。这就是我们的家。我们再也不用离开，再也不必哭啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Remember that time mother said it was too warm to go sledding?</Source>
-      <Dest>还记得那次妈妈说这天太热没法滑雪的事么？</Dest>
-    </String>
-    <String List="2">
-      <Source>And I cried and you cried, and then father got the idea to throw cotton all over the house instead?</Source>
-      <Dest>你哭了我也哭了，结果爸爸想出个办法改用棉花铺满了整个房间？</Dest>
-    </String>
-    <String List="2">
-      <Source>Then you said we should plant cotton all over the tundra, so that we'd never have a day without snow.</Source>
-      <Dest>然后你说我们要在苔原上种满棉花，这样我们每天都能在雪地里玩了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Welcome to Zora's field, sister.</Source>
-      <Dest>欢迎来到佐拉的田园，妹妹。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你怎么能确保现在看到的场景没有被刻意摆设过。</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Dest>你怎么能确保现在看到的场景没有被刻意摆设过。</Dest>
     </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>Goodbye.</Source>
-      <Dest>再见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alright.</Source>
-      <Dest>好吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Keep Zora safe.</Source>
-      <Dest>保证佐拉的安全啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Um...hello.  Thank you...for the other day.</Source>
-      <Dest>呃……你好。谢谢啊……前两天的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>G-greetings.</Source>
-      <Dest>你-好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you need something?</Source>
-      <Dest>你要什么？</Dest>
+      <Source>Fire burns so hot, but it feels so empty.  I...I wish I didn't need it...but living out in the wilderness, you don't have a choice.</Source>
+      <Dest>火烧得这么旺，感觉上却又这么空虚。我……我希望我不需要这个……但是当在野外求生时，却别无选择。</Dest>
     </String>
     <String List="2">
       <Source>Can I help you?</Source>
       <Dest>我能为你效劳吗？</Dest>
     </String>
     <String List="2">
-      <Source>I...I'm sorry, I'd like some time alone.</Source>
-      <Dest>对…对不起，我需要点独处的时间。</Dest>
+      <Source>I enjoy this cabin.  It was my place away from Riverwood.</Source>
+      <Dest>我喜欢这座小屋。我离开溪木镇后曾经住在里面。</Dest>
     </String>
     <String List="2">
-      <Source>In a potion, tundra cotton can make fire hotter, and flesh stronger.  My sister and I, we...(sigh).  The Gods toy with us all.</Source>
-      <Dest>用上这种药剂，苔原棉可以让火烧的更旺，肉体也能变得更强壮。我妹妹和我，我们……（叹息）神灵弄人啊。</Dest>
+      <Source>Um...hello.  Thank you...for the other day.</Source>
+      <Dest>呃……你好。谢谢啊……前两天的事儿。</Dest>
     </String>
     <String List="2">
-      <Source>Can I truly move on, living in Riverwood?  I'm not so sure.</Source>
-      <Dest>我真的能放下过去，安心在溪木镇生活吗？很难说啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I still feel like everyone is watching me.  Maybe I should change clothes.</Source>
-      <Dest>我还是觉得大家都在盯着我。也许我该换身衣服。</Dest>
-    </String>
-    <String List="2">
-      <Source>Zora asked me about the man I traveled with.  She thought he was a lover.  He was a mercenary.</Source>
-      <Dest>佐拉问那个跟我同行的男人是谁。她以为是我的情人。其实是雇佣兵。</Dest>
-    </String>
-    <String List="2">
-      <Source>You and Zora are married...I wish you both well.</Source>
-      <Dest>你和佐拉结婚了……祝你俩一切都好。</Dest>
-    </String>
-    <String List="2">
-      <Source>This town.  It never changes...</Source>
-      <Dest>这镇子。永远不会变……</Dest>
-    </String>
-    <String List="2">
-      <Source>This inn is nice.  Orgnar doesn't bother me. I wish the new boy would do the same.</Source>
-      <Dest>这个小旅馆很不错。奥格那不会来打扰我。希望那新来的男孩也一样。</Dest>
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
     </String>
     <String List="2">
       <Source>Anise said I had talent.  I never thought...I...I never meant to hurt her.  It just happened.</Source>
       <Dest>安妮斯以前说我很有天赋。没想到……我…我从没想要伤害她。可就这样发生了。 </Dest>
     </String>
     <String List="2">
-      <Source>The food here is better than I remember.</Source>
-      <Dest>这里的食物比我记忆中的还要好。</Dest>
+      <Source>Sister...I...I'll see you in Riverwood.</Source>
+      <Dest>妹妹……我…我们溪木镇见。</Dest>
     </String>
     <String List="2">
-      <Source>Zora and I used to wash our feet in the White River, and watch the clouds over Bleak Falls.  The view is the same as it ever was.</Source>
-      <Dest>佐拉和我过去常常在白河洗洗脚，看看天上的云朵缓缓飘过寒落山峰。这道风景从未改变啊。</Dest>
+      <Source>You and Zora are married...I wish you both well.</Source>
+      <Dest>你和佐拉结婚了……祝你俩一切都好。</Dest>
     </String>
     <String List="2">
-      <Source>I enjoy this cabin.  It was my place away from Riverwood.</Source>
-      <Dest>我喜欢这座小屋。我离开溪木镇后曾经住在里面。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没几个人能找到这个地方。因为那里在任何地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm so sorry.</Source>
+      <Dest>太对不起了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You stopped it!  You stopped the fire!</Source>
+      <Dest>你让它停止了！你熄灭了火焰！</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you said we should plant cotton all over the tundra, so that we'd never have a day without snow.</Source>
+      <Dest>然后你说我们要在苔原上种满棉花，这样我们每天都能在雪地里玩了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.</Source>
+      <Dest>我知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I'm sorry, I'd like some time alone.</Source>
+      <Dest>对…对不起，我需要点独处的时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>This inn is nice.  Orgnar doesn't bother me. I wish the new boy would do the same.</Source>
+      <Dest>这个小旅馆很不错。奥格尔不会来打扰我。希望那新来的男孩也一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't make it across the Jerall Mountains. I...I ended up following someone back across the border, but I lost her tracks the night they came.</Source>
+      <Dest>我未能穿越【杰哈尔山脉。我……不得不找个人跟着穿越边境回去，结果他们到来的那个晚上我跟丢了她。</Dest>
     </String>
     <String List="2">
       <Source>Anise never told me she was a witch.  But I knew.</Source>
       <Dest>安妮斯从没跟我说过她是女巫。但我知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>In a potion, tundra cotton can make fire hotter, and flesh stronger.  My sister and I, we...(sigh).  The Gods toy with us all.</Source>
+      <Dest>用上这种药剂，苔原棉可以让火烧的更旺，肉体也能变得更强壮。我妹妹和我，我们……（叹息）神灵弄人啊。</Dest>
     </String>
     <String List="2">
       <Source>Zora says I should join the College.  I don't know...</Source>
@@ -199,24 +95,128 @@
       <Dest>你觉得这个冬天溪木镇会下雪吗？</Dest>
     </String>
     <String List="2">
-      <Source>I didn't make it across the Jerall Mountains. I...I ended up following someone back across the border, but I lost her tracks the night they came.</Source>
-      <Dest>我未能穿越【杰哈尔山脉。我……不得不找个人跟着穿越边境回去，结果他们到来的那个晚上我跟丢了她。</Dest>
+      <Source>Some sisters would ask that I no longer practice witchcraft.  But Zora knows...I'm not a child.</Source>
+      <Dest>一些姐妹会要我别再练习巫术。但佐拉知道……我不是个孩子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No!  You can't leave!  This is our place!  Our home!  I built this for you!</Source>
+      <Dest>不！你不能走！这是我们的地方！我们的家！是我专门为你建造的啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Three of us?</Source>
+      <Dest>我们三个？</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you see it sister?  Do you see the snow?</Source>
+      <Dest>看见了吗妹妹？你看见那雪了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you see it sister?  Do you see the snow?</Source>
+      <Dest>看见了吗妹妹？你看见那雪了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember that time mother said it was too warm to go sledding?</Source>
+      <Dest>还记得那次妈妈说这天太热没法滑雪的事么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Zora and I used to wash our feet in the White River, and watch the clouds over Bleak Falls.  The view is the same as it ever was.</Source>
+      <Dest>佐拉和我过去常常在白河洗洗脚，看看天上的云朵缓缓飘过寒落山峰。这道风景从未改变啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The food here is better than I remember.</Source>
+      <Dest>这里的食物比我记忆中的还要好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sister, I think I'm ready to leave now.</Source>
+      <Dest>妹妹，我想现在我可以离开了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No!  I'm not leaving!  You aren't leaving!  You're not my real sister!  You're someone else!</Source>
+      <Dest>不！我不走！你也走不了！你不是我妹妹！你是谁扮的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Zora asked me about the man I traveled with.  She thought he was a lover.  He was a mercenary.</Source>
+      <Dest>佐拉问那个跟我同行的男人是谁。她以为是我的情人。其实是雇佣兵。</Dest>
+    </String>
+    <String List="2">
+      <Source>This town.  It never changes...</Source>
+      <Dest>这镇子。永远不会变……</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm fine sister.  Thank you.</Source>
+      <Dest>我没事的妹妹。谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on, sister!  Let's go play!</Source>
+      <Dest>来啊，妹妹！一起去玩吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Zora?</Source>
+      <Dest>佐拉？</Dest>
+    </String>
+    <String List="2">
+      <Source>Keep Zora safe.</Source>
+      <Dest>保证佐拉的安全啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I truly move on, living in Riverwood?  I'm not so sure.</Source>
+      <Dest>我真的能放下过去，安心在溪木镇生活吗？很难说啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I still feel like everyone is watching me.  Maybe I should change clothes.</Source>
+      <Dest>我还是觉得大家都在盯着我。也许我该换身衣服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, here we are Zora.  This is our home.  We never have to leave.  We never have to cry.</Source>
+      <Dest>嘿，佐拉我们到啦。这就是我们的家。我们再也不用离开，再也不必哭啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I cried and you cried, and then father got the idea to throw cotton all over the house instead?</Source>
+      <Dest>你哭了我也哭了，结果爸爸想出个办法改用棉花铺满了整个房间？</Dest>
+    </String>
+    <String List="2">
+      <Source>Marigoth!  Zora, what's going on?</Source>
+      <Dest>玛丽卡！佐拉，这是怎么回事？</Dest>
     </String>
     <String List="2">
       <Source>The witches believe in the old magic.  Blood is potent.  And the Gods demand sacrifice.</Source>
       <Dest>女巫们信仰古代魔法。鲜血中有强大的力量。神灵需要牺牲品。</Dest>
     </String>
     <String List="2">
-      <Source>Some sisters would ask that I no longer practice witchcraft.  But Zora knows...I'm not a child.</Source>
-      <Dest>一些姐妹会要我别再练习巫术。但佐拉知道……我不是个孩子了。</Dest>
+      <Source>Welcome to Zora's field, sister.</Source>
+      <Dest>欢迎来到佐拉的田园，妹妹。</Dest>
     </String>
     <String List="2">
-      <Source>Fire burns so hot, but it feels so empty.  I...I wish I didn't need it...but living out in the wilderness, you don't have a choice.</Source>
-      <Dest>火烧得这么旺，感觉上却又这么空虚。我……我希望我不需要这个……但是当在野外求生时，却别无选择。</Dest>
+      <Source>Give me a moment...I can take us home.  Our real home.</Source>
+      <Dest>给我点时间……我能带大家一起回家。我们真正的家.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由是他非自愿不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>G-greetings.</Source>
+      <Dest>你-好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure. It doesn't hurt when I'm here.</Source>
+      <Dest>我确定。我留在这儿没什么不好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you need something?</Source>
+      <Dest>你需要些什么吗？</Dest>
     </String>
     <String List="2">
       <Source>Marigoth...that coven...they did horrible things.  It was a mistake to join them.</Source>
-      <Dest>玛丽葛斯……那聚会……她们做了很可怕的事。加入那里完全是个错误。</Dest>
+      <Dest>梅利卡……那聚会……她们做了很可怕的事。加入那里完全是个错误。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

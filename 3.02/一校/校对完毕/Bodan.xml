@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,764 +7,728 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    <String List="0">
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever get your revenge?</Source>
+      <Dest>你曾经复仇过吗？</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to her?</Source>
+      <Dest>她遭遇了什么?</Dest>
     </String>
     <String List="0">
       <Source>Then Gods willing, I hope you both find it.</Source>
       <Dest>老天保佑，我希望你们两个都能找到它。</Dest>
     </String>
-    <String List="2">
-      <Source>Thank you, Companion.  Nevertheless, it's still presumptuous to say this assassin is connected in any way to those mourners.</Source>
-      <Dest>谢谢你，战友。尽管如此，说这个刺客和那些哀悼者有某种关联也未免太武断了。</Dest>
+    <String List="0">
+      <Source>Then Gods willing, I hope you both find it.</Source>
+      <Dest>老天保佑，我希望你们两个都能找到它。</Dest>
     </String>
     <String List="0">
       <Source>Then Gods willing, I hope you both find it.</Source>
       <Dest>老天保佑，我希望你们两个都能找到它。</Dest>
     </String>
-    <String List="2">
-      <Source>Although in the eyes of the Gods, that may not matter.</Source>
-      <Dest>尽管在众神的眼中，这大概是无关紧要的。</Dest>
-    </String>
     <String List="0">
       <Source>Then Gods willing, I hope you both find it.</Source>
       <Dest>老天保佑，我希望你们两个都能找到它。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you.  Nevertheless, it's still presumptuous to say this assassin is connected in any way to those mourners.</Source>
-      <Dest>谢谢。尽管如此，说这个刺客和那些哀悼者有某种关联也未免太武断了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Then Gods willing, I hope you both find it.</Source>
-      <Dest>老天保佑，我希望你们两个都能找到它。</Dest>
-    </String>
-    <String List="2">
-      <Source>Although in the eyes of the Gods, that may not matter.</Source>
-      <Dest>尽管在众神的眼中，这大概是无关紧要的。</Dest>
     </String>
     <String List="0">
       <Source>Get over it.  Bad things happen in war.  It's no one's fault.</Source>
       <Dest>忘了它吧。战争中总有不好的事情发生，这不是某个人的错。</Dest>
     </String>
-    <String List="2">
-      <Source>We can all claim good intentions, but that won't undo the harm we've done.  Maybe this assassin is related, maybe it isn't.</Source>
-      <Dest>We can all claim good intentions, but that won't undo the harm we've done.  Maybe this assassin is related, maybe it isn't.</Dest>
-    </String>
     <String List="0">
       <Source>Get over it.  Bad things happen in war.  It's no one's fault.</Source>
       <Dest>忘了它吧。战争中总有不好的事情发生，这不是某个人的错。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Gods have a way of seeking penance through instruments that are unaware as to why they act.</Source>
-      <Dest>The Gods have a way of seeking penance through instruments that are unaware as to why they act.</Dest>
-    </String>
-    <String List="0">
-      <Source>So if it was someone related to these mourners, you would just give up?</Source>
-      <Dest>这么说如果有人跟那些哀悼者有关联的话，你就会放弃了？</Dest>
-    </String>
-    <String List="2">
-      <Source>No.  I would fight them, and let them feel as if their vengeance was earned.  I would do everything in my power to give them the satisfaction.</Source>
-      <Dest>不。我会去迎战，让他们觉得大仇得报。我会尽我所能让他们满意的。</Dest>
-    </String>
-    <String List="0">
-      <Source>So if it was someone related to these mourners, you would just give up?</Source>
-      <Dest>这么说如果有人跟那些哀悼者有关联的话，你就会放弃了？</Dest>
-    </String>
-    <String List="2">
-      <Source>That is, if it were just me.  They can have my soul, but I have a soft spot for the girl.  I soldier on for her.</Source>
-      <Dest>换句话说，如果只针对我一个的话。我就算被他们夺走灵魂都无所谓，但那女孩儿是我心底最柔软的地方。我会为她而战。</Dest>
-    </String>
-    <String List="0">
-      <Source>What of the child you found?  Perhaps this is his doing.</Source>
-      <Dest>你找到的那个孩子呢？也许就是他干的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's possible.  While the child himself is too young to have committed these acts, it could be someone working on his behalf.</Source>
-      <Dest>这是有可能的。那个孩子太小，他是无法做出这些行为来的。或许是某人冒充了他。</Dest>
-    </String>
-    <String List="0">
-      <Source>What of the child you found?  Perhaps this is his doing.</Source>
-      <Dest>你找到的那个孩子呢？也许就是他干的。</Dest>
-    </String>
-    <String List="2">
-      <Source>A friend, a loved one, even the Dark Brotherhood.  What happened was certainly motive enough.</Source>
-      <Dest>朋友，爱人，甚至黑暗兄弟会。无论发生什么都需要足够的动机。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know what happened with the mourners.</Source>
-      <Dest>我知道哀悼者发生了什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes.  Black robes.  Mourners.  We never would have guessed.</Source>
-      <Dest>是啊，黑色的衣袍。哀悼者们。我们可想不到会是这般景象。</Dest>
-    </String>
-    <String List="0">
-      <Source>I know what happened with the mourners.</Source>
-      <Dest>我知道哀悼者发生了什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know what it's like to lose someone you love.  If this assassin is one of their kin, then I understand their motives better than anyone.</Source>
-      <Dest>I know what it's like to lose someone you love.  If this assassin is one of their kin, then I understand their motives better than anyone.</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I did, in a matter of speaking, although I don't know when.</Source>
-      <Dest>要说的话，我确实干过，只是我不知道是什么时候。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>For those who would murder a wife and an unborn child, corruption is part of their very soul.</Source>
-      <Dest>对于那些会谋杀一个妻子和一个未出生的孩子的人来说，堕落是他们灵魂的一部分。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>As part of the Honorable Eight, Dalum-Ei assured me we would catch them for the next crime, if only to convict them of the previous one.</Source>
-      <Dest>作为荣光八人众的一员，达卢姆‧艾向我保证，一定能在他们下次作案的时候把他们统统抓住，只要能证明他们上一次的罪行就行了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>There were about a dozen mortals I suspected of the deed, and together we killed them all.</Source>
-      <Dest>我怀疑当时有十几个人有那个打算，我们就把他们都杀了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>The last one though, something about his scales...they were bright green, as if he had stolen my beloved's light.</Source>
-      <Dest>而最后一个家伙，他的鳞片简直……绿得发亮，就好像他偷了我的爱人的明亮目光。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you ever get your revenge?</Source>
-      <Dest>你曾经复仇过吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>If you were to ask me which one was the culprit, I would stake my life on it being him.</Source>
-      <Dest>要是你当初问我哪个才是罪魁祸首，我一定敢用我的脑袋打赌就是那个家伙。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did Dalum-Ei trust you?</Source>
-      <Dest>达卢姆‧艾为什么信任你？</Dest>
-    </String>
-    <String List="2">
-      <Source>He knew me to be a man of integrity, and he knew the tribal chieftain was not.</Source>
-      <Dest>他知道我是个正直的人，而且他还知道部落的酋长不是一个正直的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why did Dalum-Ei trust you?</Source>
-      <Dest>达卢姆‧艾为什么信任你？</Dest>
-    </String>
-    <String List="2">
-      <Source>In all my years I have never met a more honorable person, nor one who could better identify that virtue in others.</Source>
-      <Dest>在我整个人生中我从未遇到一个非常值得尊敬人，没有一个人能够很好的鉴别其他人身上的这种特质。</Dest>
-    </String>
-    <String List="0">
-      <Source>Was there a motive?  Who would want your wife dead?</Source>
-      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
-    </String>
-    <String List="2">
-      <Source>It wasn't her they wanted to hurt.  They took away the one person who meant more to me than anything.</Source>
-      <Dest>他们想伤害的不是她，是我。于是他们夺走了对我来说无比重要的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Was there a motive?  Who would want your wife dead?</Source>
-      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
-    </String>
-    <String List="2">
-      <Source>Maybe, once upon a time, I did the same.  There were many titles I claimed in my years in Black Marsh.</Source>
-      <Dest>或许吧，很久以前，我也做过同样的事。我在黑沼泽省那些年得到的头衔多得很。</Dest>
-    </String>
-    <String List="0">
-      <Source>Was there a motive?  Who would want your wife dead?</Source>
-      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
-    </String>
-    <String List="2">
-      <Source>I had the ears of tribal chiefs, and the friendship of a legendary hero.  Jealousy...envy, these are powerful emotions.</Source>
-      <Dest>我得到了当地酋长的认可，赢得了和传奇英雄的友谊。羡慕……嫉恨，这些都是太过强烈的情感。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you don't know if she was poisoned at all.</Source>
-      <Dest>所以你完全不知道她到底是不是被毒死的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know.  I've never been more sure of anything in my life. </Source>
-      <Dest>我知道的。在我的生命中，我从未像这件事这么确定。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>They say it was an illness that claimed her and my child.  I know it was poison.</Source>
-      <Dest>他们说她和我的孩子是患病而死的。但我知道其实他们是被毒死的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>When I met her, the first thing I noticed was her eyes.  A Redguard with green eyes was curious thing.</Source>
-      <Dest>当我见到她的时候，我第一个注意到的细节就是她的眼睛。拥有绿色眼睛的红卫人可不怎么常见。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>They were brighter than any gem, and when they smiled, all the dolor of the swamp was washed away by their light.</Source>
-      <Dest>那双眼睛比任何宝石都明亮，当它们露出笑意的时候，沼泽里所有的悲伤都会被那双眼睛散发的光亮冲洗干净。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>They say when a person is poisoned, the blacks of their eyes widen, like a curtain drawn to block out the sun.</Source>
-      <Dest>他们说当一个人被毒死，他们眼中的黑色部分会扩大，像帘子一样遮住太阳。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>That's how I knew.   For those last few days, she was still alive.   But the light...from those brilliant green eyes.  Gone.</Source>
-      <Dest>这就是为什么我会知道。在最后的几天里，她依然活着。但那双璀璨的绿色的眼眸……终于还是失去了神采。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to her?</Source>
-      <Dest>她遭遇了什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Dalum-Ei was the only one who believed me.  He was the only one who cared about the honor of broken bard.</Source>
-      <Dest>达卢姆‧艾才是唯一一个相信我的人，他才是唯一一个在乎一个受伤的吟游诗人的荣耀的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Strange how it's always at that moment that the Gods strip it away.</Source>
-      <Dest>奇怪的是，总有那样一些时刻，诸神会将它夺走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, they say it's always darkest before the dawn, but never does one imagine the reverse.</Source>
-      <Dest>是啊，人常说最深的黑暗都是在黎明前，可从没有人反过来想。</Dest>
-    </String>
-    <String List="0">
-      <Source>Strange how it's always at that moment that the Gods strip it away.</Source>
-      <Dest>奇怪的是，总有那样一些时刻，诸神会将它夺走。</Dest>
-    </String>
-    <String List="2">
-      <Source>My love was torn from me like darkness swallowing the midday sun.</Source>
-      <Dest>我的爱人从我身边被夺走，就如同黑暗吞噬了正午的太阳。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's like being the prettiest Falmer.  You weren't actually any good.</Source>
-      <Dest>就跟最漂亮的雪精灵一样，你也不是什么好人。</Dest>
-    </String>
-    <String List="2">
-      <Source>In this world, not all things are fair, and not everyone is judged by merit.  You need more than skill.  You need luck, timing, and opportunity.</Source>
-      <Dest>在这个世界上，不是所有的事情都是公平的，而且不是谁都可以人尽其才。你需要的不仅仅是本领。还需要运气，时机和机遇。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's like being the prettiest Falmer.  You weren't actually any good.</Source>
-      <Dest>就跟最漂亮的雪精灵一样，你也不是什么好人。</Dest>
-    </String>
-    <String List="2">
-      <Source>As I told my beloved so many years ago, that opportunity was in Black Marsh.  Never could I have foreseen the consequences of that decision.</Source>
-      <Dest>我曾在许多年前告诉我的爱人，那个机会在黑沼泽省。 但我完全没有预见到做这个决定的后果。</Dest>
     </String>
     <String List="0">
       <Source>I want to go back to my earlier questions.</Source>
       <Dest>让我们回到先前的问题上。</Dest>
     </String>
-    <String List="2">
-      <Source>Indeed.</Source>
-      <Dest>没错。</Dest>
+    <String List="0">
+      <Source>So you don't know if she was poisoned at all.</Source>
+      <Dest>所以你完全不知道她到底是不是被毒死的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did the others try to teach her?</Source>
+      <Dest>其他人想试着教她些什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did the others try to teach her?</Source>
+      <Dest>其他人想试着教她些什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did the others try to teach her?</Source>
+      <Dest>其他人想试着教她些什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did the others try to teach her?</Source>
+      <Dest>其他人想试着教她些什么?</Dest>
+    </String>
+    <String List="0">
+      <Source>That's like being the prettiest Falmer.  You weren't actually any good.</Source>
+      <Dest>就跟最漂亮的雪精灵一样，你也不是什么好人。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's like being the prettiest Falmer.  You weren't actually any good.</Source>
+      <Dest>就跟最漂亮的雪精灵一样，你也不是什么好人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what happened with the mourners.</Source>
+      <Dest>我知道哀悼者发生了什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know what happened with the mourners.</Source>
+      <Dest>我知道哀悼者发生了什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was there a motive?  Who would want your wife dead?</Source>
+      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was there a motive?  Who would want your wife dead?</Source>
+      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
+    </String>
+    <String List="0">
+      <Source>Was there a motive?  Who would want your wife dead?</Source>
+      <Dest>有什么动机吗？什么人会希望你妻子死掉？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did Dalum-Ei trust you?</Source>
+      <Dest>达卢姆艾为什么信任你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did Dalum-Ei trust you?</Source>
+      <Dest>达卢姆艾为什么信任你？</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La has told me much about you.</Source>
+      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La has told me much about you.</Source>
+      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La has told me much about you.</Source>
+      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>She also mentioned you lost your wife.</Source>
+      <Dest>她还说你失去了你的妻子。</Dest>
+    </String>
+    <String List="0">
+      <Source>She also mentioned you lost your wife.</Source>
+      <Dest>她还说你失去了你的妻子。</Dest>
+    </String>
+    <String List="0">
+      <Source>She also mentioned you lost your wife.</Source>
+      <Dest>她还说你失去了你的妻子。</Dest>
+    </String>
+    <String List="0">
+      <Source>She also mentioned you lost your wife.</Source>
+      <Dest>她还说你失去了你的妻子。</Dest>
+    </String>
+    <String List="0">
+      <Source>She also mentioned you lost your wife.</Source>
+      <Dest>她还说你失去了你的妻子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Strange how it's always at that moment that the Gods strip it away.</Source>
+      <Dest>奇怪的是，总有那样一些时刻，诸神会将它夺走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Strange how it's always at that moment that the Gods strip it away.</Source>
+      <Dest>奇怪的是，总有那样一些时刻，诸神会将它夺走。</Dest>
+    </String>
+    <String List="0">
+      <Source>You never thought it odd she was asked to join your group?</Source>
+      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You never thought it odd she was asked to join your group?</Source>
+      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You never thought it odd she was asked to join your group?</Source>
+      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You never thought it odd she was asked to join your group?</Source>
+      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
     </String>
     <String List="0">
       <Source>Do you have a story from the old days you'd like to share?</Source>
       <Dest>你有没有什么古老的故事愿意分享一下？</Dest>
     </String>
-    <String List="2">
-      <Source>I have many.  But I apologize for my rudeness sera, as they are jovial tales, and our friend is not in the mood to hear them.</Source>
-      <Dest>我有不少呢。我为自己鲁莽的天性感到抱歉，这些其实都仅仅是用来逗人一笑的故事而已，但我们的朋友没有心情听这些。</Dest>
-    </String>
     <String List="0">
       <Source>Do you miss being part of the Honorable Eight?</Source>
       <Dest>你怀念身为八圣灵之荣一份子的日子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you miss being part of the Honorable Eight?</Source>
+      <Dest>你怀念身为荣光八人众一份子的日子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>So if it was someone related to these mourners, you would just give up?</Source>
+      <Dest>这么说如果有人跟那些哀悼者有关联的话，你就会放弃了？</Dest>
+    </String>
+    <String List="0">
+      <Source>So if it was someone related to these mourners, you would just give up?</Source>
+      <Dest>这么说如果有人跟那些哀悼者有关联的话，你就会放弃了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What of the child you found?  Perhaps this is his doing.</Source>
+      <Dest>你找到的那个孩子呢？也许就是他干的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What of the child you found?  Perhaps this is his doing.</Source>
+      <Dest>你找到的那个孩子呢？也许就是他干的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.  Nevertheless, it's still presumptuous to say this assassin is connected in any way to those mourners.</Source>
+      <Dest>谢谢。尽管如此，说这个刺客和那些哀悼者有某种关联也未免太武断了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe, once upon a time, I did the same.  There were many titles I claimed in my years in Black Marsh.</Source>
+      <Dest>或许吧，很久以前，我也做过同样的事。我在黑沼泽省那些年得到的头衔多得很。</Dest>
+    </String>
+    <String List="2">
+      <Source>There were about a dozen mortals I suspected of the deed, and together we killed them all.</Source>
+      <Dest>我怀疑当时有十几个人有那个打算，我们就把他们都杀了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how I knew.   For those last few days, she was still alive.   But the light...from those brilliant green eyes.  Gone.</Source>
+      <Dest>这就是为什么我会知道。在最后的几天里，她依然活着。但那双璀璨的绿色的眼眸……终于还是失去了神采。</Dest>
+    </String>
+    <String List="2">
+      <Source>He knew me to be a man of integrity, and he knew the tribal chieftain was not.</Source>
+      <Dest>他知道我是个正直的人，而且他还知道部落的酋长不是一个正直的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's possible.  While the child himself is too young to have committed these acts, it could be someone working on his behalf.</Source>
+      <Dest>这是有可能的。那个孩子太小，他是无法做出这些行为来的。或许是某人冒充了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one though, something about his scales...they were bright green, as if he had stolen my beloved's light.</Source>
+      <Dest>而最后一个家伙，他的鳞片简直……绿得发亮，就好像他偷了我的爱人的明亮目光。</Dest>
+    </String>
+    <String List="2">
+      <Source>For those who would murder a wife and an unborn child, corruption is part of their very soul.</Source>
+      <Dest>对于那些会谋杀一个妻子和一个未出生的孩子的人来说，堕落是他们灵魂的一部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>As part of the Honorable Eight, Dalum-Ei assured me we would catch them for the next crime, if only to convict them of the previous one.</Source>
+      <Dest>作为荣光八人众的一员，达卢姆艾向我保证，一定能在他们下次作案的时候把他们统统抓住，只要能证明他们上一次的罪行就行了。</Dest>
     </String>
     <String List="2">
       <Source>I was always a bit detached, to be honest.  I joined for different reasons than the others.</Source>
       <Dest>我一直有点不合群，说真的。我加入的原因跟别人都不一样。</Dest>
     </String>
-    <String List="0">
-      <Source>Do you miss being part of the Honorable Eight?</Source>
-      <Dest>你怀念身为八圣灵之荣一份子的日子吗？</Dest>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>As the youngest of our group, we all tried to influence her in our own way.</Source>
+      <Dest>她是我们之中最年轻的那个，我们都试着用自己的方式影响她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  Black robes.  Mourners.  We never would have guessed.</Source>
+      <Dest>是啊，黑色的衣袍。哀悼者们。我们可想不到会是这般景象。</Dest>
+    </String>
+    <String List="2">
+      <Source>In time, through her deeds, she would come to represent what the Honorable Eight aspired to be.  She was, in the end, a clean slate.</Source>
+      <Dest>最后，通过她的事迹，她会成为荣光八人众的成员所渴望成为的模范。她会的，在最后，她会有着清白的名声。</Dest>
     </String>
     <String List="2">
       <Source>That isn't to say I didn't enjoy the glory.  Under different circumstances, I may have been consumed by it.</Source>
       <Dest>这并不是说我不享受荣誉。有些情况下，我可能会被其冲昏头脑。</Dest>
     </String>
-    <String List="0">
-      <Source>You never thought it odd she was asked to join your group?</Source>
-      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    <String List="2">
+      <Source>Indrel...well, she ignored her, but Indrel ignored everyone.</Source>
+      <Dest>英卓尔……呃，她是忽视了她，不过英卓尔也忽视其他人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I imagine it wasn't much of a secret why I joined the company.  Dalum-Ei promised me vengeance, and he was never one to break a promise.</Source>
+      <Dest>啊，我想我加入组织的理由并不需要保密。达卢姆艾说能让我完成复仇，他是那种从来不会食言的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say it was an illness that claimed her and my child.  I know it was poison.</Source>
+      <Dest>他们说她和我的孩子是患病而死的。但我知道其实他们是被毒死的。</Dest>
     </String>
     <String List="2">
       <Source>We all did.  Greener than pondscum, I believe is what Moon-Tail called her.</Source>
       <Dest>我们都那么做了。比水藻更绿，我相信这就是月尾对她的称呼。</Dest>
     </String>
-    <String List="0">
-      <Source>You never thought it odd she was asked to join your group?</Source>
-      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    <String List="2">
+      <Source>I know.  I've never been more sure of anything in my life. </Source>
+      <Dest>我知道的。在我的生命中，我从未像这件事这么确定。</Dest>
     </String>
     <String List="2">
-      <Source>Dalum-Ei, however, said he chose her for a reason.  He never said what that reason was.</Source>
-      <Dest>Dalum-Ei, however, said he chose her for a reason.  He never said what that reason was.</Dest>
+      <Source>Dalum-Ei was the only one who believed me.  He was the only one who cared about the honor of broken bard.</Source>
+      <Dest>达卢姆艾才是唯一一个相信我的人，他才是唯一一个在乎一个受伤的吟游诗人的荣耀的人。</Dest>
     </String>
-    <String List="0">
-      <Source>You never thought it odd she was asked to join your group?</Source>
-      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
+    <String List="2">
+      <Source>Moon-Tail enjoyed teasing her, although it was always in jest.</Source>
+      <Dest>月尾喜欢和她开玩笑，虽然它总是在开玩笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>In this world, not all things are fair, and not everyone is judged by merit.  You need more than skill.  You need luck, timing, and opportunity.</Source>
+      <Dest>在这个世界上，不是所有的事情都是公平的，而且不是谁都可以人尽其才。你需要的不仅仅是本领。还需要运气，时机和机遇。</Dest>
+    </String>
+    <String List="2">
+      <Source>My love was torn from me like darkness swallowing the midday sun.</Source>
+      <Dest>我的爱人从我身边被夺走，就如同黑暗吞噬了正午的太阳。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I was younger, I cared only for status.   I wanted fame and glory, which is precisely why I moved to Black Marsh.</Source>
+      <Dest>我年轻气盛的时候，满脑子想的是地位，名誉，荣耀这些事。这也是我移居黑沼省的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say when a person is poisoned, the blacks of their eyes widen, like a curtain drawn to block out the sun.</Source>
+      <Dest>他们说当一个人被毒死，他们眼中的黑色部分会扩大，像帘子一样遮住太阳。</Dest>
+    </String>
+    <String List="2">
+      <Source>As I told my beloved so many years ago, that opportunity was in Black Marsh.  Never could I have foreseen the consequences of that decision.</Source>
+      <Dest>我曾在许多年前告诉我的爱人，那个机会在黑沼泽省。 但我完全没有预见到做这个决定的后果。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is, if it were just me.  They can have my soul, but I have a soft spot for the girl.  I soldier on for her.</Source>
+      <Dest>换句话说，如果只针对我一个的话。我就算被他们夺走灵魂都无所谓，但那女孩儿是我心底最柔软的地方。我会为她而战。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you were to ask me which one was the culprit, I would stake my life on it being him.</Source>
+      <Dest>要是你当初问我哪个才是罪魁祸首，我一定敢用我的脑袋打赌就是那个家伙。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I met her, the first thing I noticed was her eyes.  A Redguard with green eyes was curious thing.</Source>
+      <Dest>当我见到她的时候，我第一个注意到的细节就是她的眼睛。拥有绿色眼睛的红卫人可不怎么常见。</Dest>
+    </String>
+    <String List="2">
+      <Source>They were brighter than any gem, and when they smiled, all the dolor of the swamp was washed away by their light.</Source>
+      <Dest>那双眼睛比任何宝石都明亮，当它们露出笑意的时候，沼泽里所有的悲伤都会被那双眼睛散发的光亮冲洗干净。</Dest>
+    </String>
+    <String List="2">
+      <Source>And of peers, I had none.  Soon tribes from Thorn to Soulrest knew of the Redguard with the golden lute and the silver tongue.</Source>
+      <Dest>至于我看得上的同行，一个也没有。从索恩前往魂栖城的人们很快就认识了我这个做的一手好生意的红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have many.  But I apologize for my rudeness sera, as they are jovial tales, and our friend is not in the mood to hear them.</Source>
+      <Dest>我有不少呢。我为自己鲁莽的天性感到抱歉，这些其实都仅仅是用来逗人一笑的故事而已，但我们的朋友没有心情听这些。</Dest>
+    </String>
+    <String List="2">
+      <Source>Indeed.</Source>
+      <Dest>没错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you, Companion.  Nevertheless, it's still presumptuous to say this assassin is connected in any way to those mourners.</Source>
+      <Dest>谢谢你，战友。尽管如此，说这个刺客和那些哀悼者有某种关联也未免太武断了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't her they wanted to hurt.  They took away the one person who meant more to me than anything.</Source>
+      <Dest>他们想伤害的不是她，是我。于是他们夺走了对我来说无比重要的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>A friend, a loved one, even the Dark Brotherhood.  What happened was certainly motive enough.</Source>
+      <Dest>朋友，爱人，甚至黑暗兄弟会。无论发生什么都需要足够的动机。</Dest>
+    </String>
+    <String List="2">
+      <Source>Arnwulf tried to get her to drink with him, but conversely, she developed a distaste for mead.</Source>
+      <Dest>阿恩武夫想叫她跟他一块儿喝酒，但她不喜欢蜂蜜酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, they say it's always darkest before the dawn, but never does one imagine the reverse.</Source>
+      <Dest>是啊，人常说最深的黑暗都是在黎明前，可从没有人反过来想。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although in the eyes of the Gods, that may not matter.</Source>
+      <Dest>尽管在众神的眼中，这大概是无关紧要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although in the eyes of the Gods, that may not matter.</Source>
+      <Dest>尽管在众神的眼中，这大概是无关紧要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>No.  I would fight them, and let them feel as if their vengeance was earned.  I would do everything in my power to give them the satisfaction.</Source>
+      <Dest>不。我会去迎战，让他们觉得大仇得报。我会尽我所能让他们满意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even in Skyrim, there are more bards than flakes of snow, but in the Marsh, I could ply my trade without peer.</Source>
+      <Dest>就算在天际省，吟游诗人也多如雪尘，但在黑泽省，我可以做一辈子营生却不见同行。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tried to teach her the arts and poetry, but while at times she speaks as eloquently as a king's blade, I could never truly cure her of the swamp.</Source>
+      <Dest>我教过她艺术和诗歌，但同时她的口才又像国王之剑一样好，在这片沼泽地里，我从没真正治的好她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Life couldn't have been grander.  I had achieved the success I craved, and at home, my wife was pregnant with our first child.</Source>
+      <Dest>我的人生已经圆满无比。事业有成，娇妻傍身，而且她正怀着我们的第一个孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had the ears of tribal chiefs, and the friendship of a legendary hero.  Jealousy...envy, these are powerful emotions.</Source>
+      <Dest>我得到了当地酋长的认可，赢得了和传奇英雄的友谊。羡慕……嫉恨，这些都是太过强烈的情感。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did, in a matter of speaking, although I don't know when.</Source>
+      <Dest>要说的话，我确实干过，只是我不知道是什么时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Elia tried to teach her about men, and Dalum-Ei wanted to groom her to be a master swordsman like him.</Source>
+      <Dest>埃利亚想要教给她男性相关的事宜，而达卢姆艾则想要将她培养成为一个像他一样的剑术大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>In all my years I have never met a more honorable person, nor one who could better identify that virtue in others.</Source>
+      <Dest>在我整个人生中我从未遇到一个非常值得尊敬人，没有一个人能够很好的鉴别其他人身上的这种特质。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="2">
       <Source>If I were to guess, I would say she was a symbol of purity.  She bore none of the scars that the rest of us had.</Source>
       <Dest>我想，她是个纯洁的象征。和我们其余人的不同之处在于，她没有一丁点儿的创伤。</Dest>
     </String>
     <String List="0">
-      <Source>You never thought it odd she was asked to join your group?</Source>
-      <Dest>你不觉得她被邀请加入你的团队很奇怪吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>In time, through her deeds, she would come to represent what the Honorable Eight aspired to be.  She was, in the end, a clean slate.</Source>
-      <Dest>最后，通过她的事迹，她会成为荣光八人众的成员所渴望成为的模范。她会的，在最后，她会有着清白的名声。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did the others try to teach her?</Source>
-      <Dest>其他人想试着教她些什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Arnwulf tried to get her to drink with him, but conversely, she developed a distaste for mead.</Source>
-      <Dest>阿恩武夫想叫她跟他一块儿喝酒，但她不喜欢蜂蜜酒。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did the others try to teach her?</Source>
-      <Dest>其他人想试着教她些什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Moon-Tail enjoyed teasing her, although it was always in jest.</Source>
-      <Dest>月尾喜欢和她开玩笑，虽然它总是在开玩笑。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did the others try to teach her?</Source>
-      <Dest>其他人想试着教她些什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Elia tried to teach her about men, and Dalum-Ei wanted to groom her to be a master swordsman like him.</Source>
-      <Dest>埃利亚想要教给她男性相关的事宜，而达卢姆‧艾则想要将她培养成为一个像他一样的剑术大师。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did the others try to teach her?</Source>
-      <Dest>其他人想试着教她些什么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Indrel...well, she ignored her, but Indrel ignored everyone.</Source>
-      <Dest>英卓尔……呃，她是忽视了她，不过英卓尔也忽视其他人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La has told me much about you.</Source>
-      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm sure she has.  She likes to romanticize the old days, a disease which I myself inflicted her with.</Source>
-      <Dest>I'm sure she has.  She likes to romanticize the old days, a disease which I myself inflicted her with.</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La has told me much about you.</Source>
-      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>As the youngest of our group, we all tried to influence her in our own way.</Source>
-      <Dest>她是我们之中最年轻的那个，我们都试着用自己的方式影响她。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La has told me much about you.</Source>
-      <Dest>阿努姆拉告诉了我许多关于你的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>I tried to teach her the arts and poetry, but while at times she speaks as eloquently as a king's blade, I could never truly cure her of the swamp.</Source>
-      <Dest>我教过她艺术和诗歌，但同时她的口才又像国王之剑一样好，在这片沼泽地里，我从没真正治的好她。</Dest>
-    </String>
-    <String List="0">
-      <Source>She also mentioned you lost your wife.</Source>
-      <Dest>她还说你失去了你的妻子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, I imagine it wasn't much of a secret why I joined the company.  Dalum-Ei promised me vengeance, and he was never one to break a promise.</Source>
-      <Dest>啊，我想我加入组织的理由并不需要保密。达卢姆‧艾说能让我完成复仇，他是那种从来不会食言的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>She also mentioned you lost your wife.</Source>
-      <Dest>她还说你失去了你的妻子。</Dest>
-    </String>
-    <String List="2">
-      <Source>When I was younger, I cared only for status.   I wanted fame and glory, which is precisely why I moved to Black Marsh.</Source>
-      <Dest>我年轻气盛的时候，满脑子想的是地位，名誉，荣耀这些事。这也是我移居黑沼省的原因。</Dest>
-    </String>
-    <String List="0">
-      <Source>She also mentioned you lost your wife.</Source>
-      <Dest>她还说你失去了你的妻子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even in Skyrim, there are more bards than flakes of snow, but in the Marsh, I could ply my trade without peer.</Source>
-      <Dest>就算在天际省，吟游诗人也多如雪尘，但在黑泽省，我可以做一辈子营生却不见同行。</Dest>
-    </String>
-    <String List="0">
-      <Source>She also mentioned you lost your wife.</Source>
-      <Dest>她还说你失去了你的妻子。</Dest>
-    </String>
-    <String List="2">
-      <Source>And of peers, I had none.  Soon tribes from Thorn to Soulrest knew of the Redguard with the golden lute and the silver tongue.</Source>
-      <Dest>至于我看得上的同行，一个也没有。从索恩前往魂栖城的人们很快就认识了我这个做的一手好生意的红卫人。</Dest>
-    </String>
-    <String List="0">
-      <Source>She also mentioned you lost your wife.</Source>
-      <Dest>她还说你失去了你的妻子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Life couldn't have been grander.  I had achieved the success I craved, and at home, my wife was pregnant with our first child.</Source>
-      <Dest>我的人生已经圆满无比。事业有成，娇妻傍身，而且她正怀着我们的第一个孩子。</Dest>
+      <Source>Right.  Just know that I don't trust you.  You're a suspect as well.</Source>
+      <Dest>对。知道我不相信你就成。你也有嫌疑。</Dest>
     </String>
     <String List="0">
       <Source>Right.  Just know that I don't trust you.  You're a suspect as well.</Source>
       <Dest>对。知道我不相信你就成。你也有嫌疑。</Dest>
     </String>
-    <String List="2">
-      <Source>Good.  She needs someone by her side that isn't clouded by emotion.  If I were the assassin, she would never see it coming.</Source>
-      <Dest>很好，她需要一个沉着稳重的人在身边。如果我是这个刺客，她绝不会看到我情绪化的一面。</Dest>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
     </String>
     <String List="0">
-      <Source>Right.  Just know that I don't trust you.  You're a suspect as well.</Source>
-      <Dest>对。知道我不相信你就成。你也有嫌疑。</Dest>
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
     </String>
-    <String List="2">
-      <Source>But you would, and hopefully, if it comes to that, that will be enough to save her.</Source>
-      <Dest>而你愿意，也有希望，如果事情成了那样，也足以救她出来。</Dest>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
+      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
     </String>
     <String List="0">
       <Source>I value her company.  Thank you for warning us.</Source>
       <Dest>我很珍惜她的陪伴，谢谢你提醒我们。</Dest>
     </String>
-    <String List="2">
-      <Source>It's the least I could do, considering everything that happened.  It's a shame I was too late to save Elia.</Source>
-      <Dest>发生了这么多事情，我至少也应该这么做。没来得及救伊利亚，我惭愧至极。</Dest>
-    </String>
     <String List="0">
       <Source>I value her company.  Thank you for warning us.</Source>
       <Dest>我很珍惜她的陪伴，谢谢你提醒我们。</Dest>
     </String>
-    <String List="2">
-      <Source>Although it remains to be seen if any of us will survive this assassin's blade.</Source>
-      <Dest>如果我们任何人从这个刺客的剑下幸存的话，那它还有待观察。</Dest>
+    <String List="0">
+      <Source>What information do you have regarding the other deaths?</Source>
+      <Dest>对其他死亡事件你有什么消息吗？</Dest>
     </String>
     <String List="0">
-      <Source>I will do my best to validate your words.</Source>
-      <Dest>我会尽力守护你的诺言。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your words are as graceful as any bard's.  It's good to see dignity has not been felled by the headsman's axe.</Source>
-      <Dest>你的用词如其他吟游诗人一样优雅。看到高尚并未被刽子手的斧钺一同砍倒真是让人高兴。</Dest>
+      <Source>What information do you have regarding the other deaths?</Source>
+      <Dest>对其他死亡事件你有什么消息吗？</Dest>
     </String>
     <String List="0">
-      <Source>I will do my best to validate your words.</Source>
-      <Dest>我会尽力守护你的诺言。</Dest>
-    </String>
-    <String List="2">
-      <Source>I can only hope your blade is just as graceful, lest our lives, if not our manners, find their way to the void.</Source>
-      <Dest>我只希望你能剑下留情，否则我们的命就等不到老死那一天了。</Dest>
+      <Source>What information do you have regarding the other deaths?</Source>
+      <Dest>对其他死亡事件你有什么消息吗？</Dest>
     </String>
     <String List="0">
-      <Source>I'm more than just resourceful.  By the Gods, I'm Dragonborn.</Source>
-      <Dest>我不只是足智多谋。诸神在上，我是龙裔。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) So I've heard.  It seems even now the Swamp Knight chooses her companions wisely.</Source>
-      <Dest> (笑声)我也听说了。看来就算现在沼泽骑士在挑选她的同伴时也很明智。</Dest>
+      <Source>What information do you have regarding the other deaths?</Source>
+      <Dest>对其他死亡事件你有什么消息吗？</Dest>
     </String>
     <String List="0">
-      <Source>I'm more than just resourceful.  By the Gods, I'm Dragonborn.</Source>
-      <Dest>我不只是足智多谋。诸神在上，我是龙裔。</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps someone of your stature will do for her what I could not, for the people I've lost.</Source>
-      <Dest>或许像你这种大人物能为她，还有我已经失去的人做到我所不能做到的事情。</Dest>
+      <Source>What information do you have regarding the other deaths?</Source>
+      <Dest>对其他死亡事件你有什么消息吗？</Dest>
     </String>
     <String List="0">
       <Source>I'm more than just resourceful.</Source>
       <Dest>我不仅仅是足智多谋。</Dest>
     </String>
-    <String List="2">
-      <Source>(Laughs) So I've heard.  It seems even now the Swamp Knight chooses her companions wisely.</Source>
-      <Dest> (笑声)我也听说了。看来就算现在沼泽骑士在挑选她的同伴时也很明智。</Dest>
-    </String>
     <String List="0">
       <Source>I'm more than just resourceful.</Source>
       <Dest>我不仅仅是足智多谋。</Dest>
     </String>
-    <String List="2">
-      <Source>Perhaps someone of your stature will do for her what I could not, for the people I've lost.</Source>
-      <Dest>或许像你这种大人物能为她，还有我已经失去的人做到我所不能做到的事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you for bringing her here.  If there's one thing Anum-La values, it's friends.  I'm glad she's found a resourceful one.</Source>
-      <Dest>感谢你把她带到这里。如果有什么是安努姆菈最看重的东西，那就是朋友。我很高兴她找到了一个出色的朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>The three of us have some catching up to do.  Get some rest, Companion. We'll talk tomorrow.</Source>
-      <Dest>我们三个可在有活儿要干了。休息下吧，战友。我们明天再谈。</Dest>
-    </String>
-    <String List="2">
-      <Source>The three of us have some catching up to do.  Get some rest, we'll talk tomorrow.</Source>
-      <Dest>我们三个可有事要做了。休息一下，我们明天再谈。</Dest>
+    <String List="0">
+      <Source>I will do my best to validate your words.</Source>
+      <Dest>我会尽力守护你的诺言。</Dest>
     </String>
     <String List="0">
-      <Source>What information do you have regarding the other deaths?</Source>
-      <Dest>对其他死亡事件你有什么消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>What I know has more to do with the victims than the killer.</Source>
-      <Dest>我所知道的东西比起杀手来说对受害者们更有用。</Dest>
+      <Source>I will do my best to validate your words.</Source>
+      <Dest>我会尽力守护你的诺言。</Dest>
     </String>
     <String List="0">
-      <Source>What information do you have regarding the other deaths?</Source>
-      <Dest>对其他死亡事件你有什么消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Ula-Wei was a master assassin.  Arnwulf was a bear in single combat.  Elia and Moon-Tail were both accomplished mages.</Source>
-      <Dest>乌拉卫是个刺客大师。阿恩武夫在近身战中简直就是狂暴巨熊。艾拉和月尾则是经验丰富的法师。</Dest>
+      <Source>I'm more than just resourceful.  By the Gods, I'm Dragonborn.</Source>
+      <Dest>我不只是足智多谋。诸神在上，我是龙裔。</Dest>
     </String>
     <String List="0">
-      <Source>What information do you have regarding the other deaths?</Source>
-      <Dest>对其他死亡事件你有什么消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>To kill them all, one would have to adapt to their weaknesses, or be of such skill that such measures were unnecessary.</Source>
-      <Dest>想把他们全杀了，你得非常熟悉他们的弱点，或者开TGM。</Dest>
-    </String>
-    <String List="0">
-      <Source>What information do you have regarding the other deaths?</Source>
-      <Dest>对其他死亡事件你有什么消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>This assassin...he has studied us.  No doubt he knows what we are all capable of, and what we are not.</Source>
-      <Dest>这个刺客……他调查过我们。我们会什么不会什么他肯定都了若指掌的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What information do you have regarding the other deaths?</Source>
-      <Dest>对其他死亡事件你有什么消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>That is why, for my dear swamp knight, your presence may be key to her survival.</Source>
-      <Dest>That is why, for my dear swamp knight, your presence may be key to her survival.</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Have you ever heard the story of the 4 Daedric Princes?</Source>
-      <Dest>你听过关于4个魔族领主的故事么?</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>4 Princes set out to play a game.  They would choose a mortal, and each tempt him with one wish.</Source>
-      <Dest>4 Princes set out to play a game.  They would choose a mortal, and each tempt him with one wish.</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nocturnal offered riches.  Hermaeus Mora offered wisdom.  Sanguine offered pleasure, and Molag Bal offered power.</Source>
-      <Dest>诺克图娜尔承诺会带给他财富。麦尤斯‧莫拉承诺会赋予他智慧。桑吉恩承诺会馈赠他欢愉，而莫拉格·巴尔承诺会赐予他力量。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet the man was simple.  He had no desire for the trivialness of gold, the pain of wisdom, the fleeting nature of pleasure, or the pressure of power.</Source>
-      <Dest>但男人是个简单的人。他不渴望拥有财富带来的繁琐，智慧超群的痛苦，稍纵即逝的快乐，亦或是力量背后的压力。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>So he turned not to a Daedric Prince, but to Sithis, and was granted the one wish he desired above all others.  Death.</Source>
-      <Dest>所以他哪个魔族领主都没选，而是选择了西帝斯， 并得到了他最强烈渴望的东西——死亡。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's a convenient tale.  Not all things in life are as temporary or trivial as riches and pleasure.  Some things are eternal.</Source>
-      <Dest>挺应景的故事，不是吗。但在我们的生命中，不是每样东西都像财富和快乐一样转瞬即逝和微不足道。还是有那么几种东西是永恒的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Anum-La seemed concerned.  She said you were almost resigned to die.</Source>
-      <Dest>安努姆菈似乎很担心。她说你差点儿任由自己死去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>The friendship she shares with you, and I with her, those are worth living for.  So I beg my love to wait just a little longer.  My work is not done.</Source>
-      <Dest>她与你之间的友谊，以及我与她之间的友谊，便是活下去的意义。于是我向我的爱人请求，求她再稍微等一等。我的工作还没有完成。</Dest>
-    </String>
-    <String List="2">
-      <Source>Is everything alright?</Source>
-      <Dest>一切都还好吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>{Tears of the Hist}</Source>
-      <Dest>{希斯特的眼泪}</Dest>
-    </String>
-    <String List="2">
-      <Source>Dalum-Ei, you're the one who gave me peace.  For you, I'll play, and pray the Gods answer.</Source>
-      <Dest>达卢姆‧艾，你给于我平静。因为你，我会弹奏一曲。向诸神祈求答案。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope I'm not interrupting, but our dear Swamp Knight nearly burst through the door waiting for you to return.</Source>
-      <Dest>希望我没有打搅你，但我们亲爱的沼泽骑士几乎是破门而入，就等你回来呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>The day we met...I didn't want to come.  But you insisted.  You were always right.</Source>
-      <Dest>我们相遇的那天……我本不想来的。但你坚持要来。你总是对的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hear any news on Indrel?</Source>
-      <Dest>想听听关于英卓尔的消息么?</Dest>
-    </String>
-    <String List="2">
-      <Source>Indeed.  He should be arriving at the Moorside Inn any moment now.</Source>
-      <Dest>Indeed.  He should be arriving at the Moorside Inn any moment now.</Dest>
-    </String>
-    <String List="2">
-      <Source>Although it's occurred to me I don't know this marsh as well as you two.  Companion, do you mind leading the way?</Source>
-      <Dest>这让我意识到其实我也像你们一样不太了解这片沼泽。战友，你能带路么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Although it's occurred to me I don't know this marsh as well as you two. Do you mind leading the way?</Source>
-      <Dest>虽然这是发生在我身上的事，但我和你俩一样对这片沼泽所知甚少。你不介意带路吧？</Dest>
-    </String>
-    <String List="2">
-      <Source>That, my friend, is for Dalum-Ei to decide.</Source>
-      <Dest>That, my friend, is for Dalum-Ei to decide.</Dest>
-    </String>
-    <String List="2">
-      <Source>If these are Gabania's men, then that means the assassin is not.</Source>
-      <Dest>他们要是卡贝尼亚的人，那个刺客就铁定不是。</Dest>
-    </String>
-    <String List="2">
-      <Source>There you are, Swamp Knight, just in time to help me clean up.</Source>
-      <Dest>There you are, Swamp Knight, just in time to help me clean up.</Dest>
-    </String>
-    <String List="2">
-      <Source>Be safe, old friend.</Source>
-      <Dest>小心点儿，老兄。</Dest>
-    </String>
-    <String List="2">
-      <Source>You were always his favorite.  And in this case, you aren't in the wrong.  Aggression may be what is needed.</Source>
-      <Dest>你一直是他最喜欢的人。在这种情况下，你没有错。也许攻击的行为正是被需要的。</Dest>
-    </String>
-    <String List="2">
-      <Source>However, our best weapon at this point is our wits, not our blades.</Source>
-      <Dest>不过，此时我们最好的武器不是我们的剑，而是我们的头脑。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've done some research on our past jobs, and it appears there is one unscrupulous lord we managed to thwart far more often than the others.</Source>
-      <Dest>我对我们过去的工作做了点儿研究，看来似乎我们一直设法阻挠一个无耻的领主，跟他对着干的次数远比其他人要多得多。</Dest>
-    </String>
-    <String List="2">
-      <Source>A Baron, in fact, by the name of Gabania.</Source>
-      <Dest>以卡贝尼亚之名，实际上，那是个男爵。</Dest>
-    </String>
-    <String List="2">
-      <Source>As it so happens, it seems one of his agents is in Falkreath, attempting to secure a fur deal with the local hunters.</Source>
-      <Dest>巧合的是，看起来他的代理人中正好有一位就在佛克瑞斯，正试图跟当地的猎人们达成毛皮交易的协议呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have other leads as well, which I myself will attend to.  If you can vet this one, perhaps we can narrow down our suspects.</Source>
-      <Dest>我还有其他的线索得亲自调查。如果你能调查好这一个，也许我们就能缩小嫌疑人的范围了。</Dest>
-    </String>
-    <String List="2">
-      <Source>My friend, I see time hasn't frayed your passion.  The problem is, our enemy has naught a face.</Source>
-      <Dest>看来时间已经磨平了你的热忱，我的朋友。其实重点是，我们的敌人根本就没露头啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>A question without an answer, or perhaps, far too many.</Source>
-      <Dest>一个无解的问题，或者说，没有唯一的答案。</Dest>
-    </String>
-    <String List="2">
-      <Source>When we were a company, there were no shortage of people who wanted us dead.</Source>
-      <Dest>我们还是伙伴时，希望我们去死的人不在少数。</Dest>
-    </String>
-    <String List="2">
-      <Source>Together, we could always fend them off.  Apart, we are at their mercy.</Source>
-      <Dest>我们如果待在一起，就一定可以抵挡他们。但若是彼此分来，我们将会任其宰割。</Dest>
-    </String>
-    <String List="2">
-      <Source>They're fine, as far as I know.  The first thing I did was seek Dalum-Ei's counsel.  He was surprised to see me, but gracious as always.</Source>
-      <Dest>就我所知他们很好。我首先去寻求达卢姆‧艾的建议。他看到我很惊讶，但仍然一如既往的亲切。</Dest>
-    </String>
-    <String List="2">
-      <Source>When I told him of what happened, he asked that I warn you and Elia, whereas he would stay and search for Indrel.</Source>
-      <Dest>当我告诉他所发生的事情之后，他要我来警告你和伊利亚，而与此同时他则打算留下来并搜寻英卓尔的踪迹。</Dest>
-    </String>
-    <String List="2">
-      <Source>Although to be honest, the Bosmer did not concern me as much as you two.</Source>
-      <Dest>虽然说句实话，木精灵并不如你们俩这样让我担忧。</Dest>
+      <Source>I'm more than just resourceful.  By the Gods, I'm Dragonborn.</Source>
+      <Dest>我不只是足智多谋。诸神在上，我是龙裔。</Dest>
     </String>
     <String List="2">
       <Source>You know as well as I do that no one will ever find her, so long as she doesn't want to be found.</Source>
       <Dest>只要她不想被找到，那就没有人能够找到她，你我都很清楚这一点。</Dest>
     </String>
     <String List="2">
-      <Source>True, but there's a reason I sought her, the same reason I'm here with you now.  Elia isn't the only one.</Source>
-      <Dest>确实，但是我找她是有原因的，和你为什么在这的原因是相同的，艾拉不是唯一的一个。</Dest>
+      <Source>But you would, and hopefully, if it comes to that, that will be enough to save her.</Source>
+      <Dest>而你愿意，也有希望，如果事情成了那样，也足以救她出来。</Dest>
     </String>
     <String List="2">
-      <Source>It started with Ula-Wei.  At the time, I was disheartened, yet I was far from surprised.</Source>
-      <Dest>一切从乌拉卫开始. 那个时候我总是灰心丧气，对什么事情都很冷漠。</Dest>
+      <Source>Although it's occurred to me I don't know this marsh as well as you two. Do you mind leading the way?</Source>
+      <Dest>虽然这是发生在我身上的事，但我和你俩一样对这片沼泽所知甚少。你不介意带路吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>The three of us have some catching up to do.  Get some rest, Companion. We'll talk tomorrow.</Source>
+      <Dest>我们三个可在有活儿要干了。休息下吧，战友。我们明天再谈。</Dest>
     </String>
     <String List="2">
       <Source>A Shadowscale builds a ledger of enemies that runs longer than a leviathan's tail.</Source>
       <Dest>一只影鳞把那些能躲过他尾巴攻击的敌人都记录到了一份总账里。</Dest>
     </String>
     <String List="2">
+      <Source>You were always his favorite.  And in this case, you aren't in the wrong.  Aggression may be what is needed.</Source>
+      <Dest>你一直是他最喜欢的人。在这种情况下，你没有错。也许攻击的行为正是被需要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It started with Ula-Wei.  At the time, I was disheartened, yet I was far from surprised.</Source>
+      <Dest>它始于乌拉卫。在那时，我心灰意冷却并不感到惊讶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet the man was simple.  He had no desire for the trivialness of gold, the pain of wisdom, the fleeting nature of pleasure, or the pressure of power.</Source>
+      <Dest>但男人是个简单的人。他不渴望拥有财富带来的繁琐，智慧超群的痛苦，稍纵即逝的快乐，亦或是力量背后的压力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hear any news on Indrel?</Source>
+      <Dest>听到什么有关英卓尔的消息了吗</Dest>
+    </String>
+    <String List="2">
+      <Source>Dalum-Ei, you're the one who gave me peace.  For you, I'll play, and pray the Gods answer.</Source>
+      <Dest>达卢姆艾，你给于我平静。因为你，我会弹奏一曲。向诸神祈求答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>This assassin...he has studied us.  No doubt he knows what we are all capable of, and what we are not.</Source>
+      <Dest>这个刺客……他调查过我们。我们会什么不会什么他肯定都了若指掌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The three of us have some catching up to do.  Get some rest, we'll talk tomorrow.</Source>
+      <Dest>我们三个可有事要做了。休息一下，我们明天再谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>To kill them all, one would have to adapt to their weaknesses, or be of such skill that such measures were unnecessary.</Source>
+      <Dest>想把他们全杀了，你得非常熟悉他们的弱点，或者开TGM。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have other leads as well, which I myself will attend to.  If you can vet this one, perhaps we can narrow down our suspects.</Source>
+      <Dest>我还有其他的线索得亲自调查。如果你能调查好这一个，也许我们就能缩小嫌疑人的范围了。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I know has more to do with the victims than the killer.</Source>
+      <Dest>我所知道的东西比起杀手来说对受害者们更有用。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a convenient tale.  Not all things in life are as temporary or trivial as riches and pleasure.  Some things are eternal.</Source>
+      <Dest>挺应景的故事，不是吗。但在我们的生命中，不是每样东西都像财富和快乐一样转瞬即逝和微不足道。还是有那么几种东西是永恒的。</Dest>
+    </String>
+    <String List="2">
+      <Source>As it so happens, it seems one of his agents is in Falkreath, attempting to secure a fur deal with the local hunters.</Source>
+      <Dest>巧合的是，看起来他的代理人中正好有一位就在佛克瑞斯，正试图跟当地的猎人们达成毛皮交易的协议呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although it remains to be seen if any of us will survive this assassin's blade.</Source>
+      <Dest>如果我们任何人从这个刺客的剑下幸存的话，那它还有待观察。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you for bringing her here.  If there's one thing Anum-La values, it's friends.  I'm glad she's found a resourceful one.</Source>
+      <Dest>感谢你把她带到这里。如果有什么是阿努姆拉最看重的东西，那就是朋友。我很高兴她找到了一个出色的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>The day we met...I didn't want to come.  But you insisted.  You were always right.</Source>
+      <Dest>我们相遇的那天……我本不想来的。但你坚持要来。你总是对的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be safe, old friend.</Source>
+      <Dest>小心点儿，老兄。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope I'm not interrupting, but our dear Swamp Knight nearly burst through the door waiting for you to return.</Source>
+      <Dest>希望我没有打搅你，但我们亲爱的沼泽骑士几乎是破门而入，就等你回来呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've done some research on our past jobs, and it appears there is one unscrupulous lord we managed to thwart far more often than the others.</Source>
+      <Dest>我对我们过去的工作做了点儿研究，看来似乎我们一直设法阻挠一个无耻的领主，跟他对着干的次数远比其他人要多得多。</Dest>
+    </String>
+    <String List="2">
+      <Source>If these are Gabania's men, then that means the assassin is not.</Source>
+      <Dest>他们要是卡贝尼亚的人，那个刺客就铁定不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.  She needs someone by her side that isn't clouded by emotion.  If I were the assassin, she would never see it coming.</Source>
+      <Dest>很好，她需要一个沉着稳重的人在身边。如果我是这个刺客，她绝不会看到我情绪化的一面。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're fine, as far as I know.  The first thing I did was seek Dalum-Ei's counsel.  He was surprised to see me, but gracious as always.</Source>
+      <Dest>就我所知他们很好。我首先去寻求达卢姆艾的建议。他看到我很惊讶，但仍然一如既往的亲切。</Dest>
+    </String>
+    <String List="2">
+      <Source>My friend, I see time hasn't frayed your passion.  The problem is, our enemy has naught a face.</Source>
+      <Dest>看来时间已经磨平了你的热忱，我的朋友。其实重点是，我们的敌人根本就没露头啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although to be honest, the Bosmer did not concern me as much as you two.</Source>
+      <Dest>虽然说句实话，木精灵并不如你们俩这样让我担忧。</Dest>
+    </String>
+    <String List="2">
+      <Source>True, but there's a reason I sought her, the same reason I'm here with you now.  Elia isn't the only one.</Source>
+      <Dest>确实，但是我找她是有原因的，和你为什么在这的原因是相同的，艾拉不是唯一的一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>When we were a company, there were no shortage of people who wanted us dead.</Source>
+      <Dest>我们还是伙伴时，希望我们去死的人不在少数。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can only hope your blade is just as graceful, lest our lives, if not our manners, find their way to the void.</Source>
+      <Dest>我只希望你能剑下留情，否则我们的命就等不到老死那一天了。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, our best weapon at this point is our wits, not our blades.</Source>
+      <Dest>不过，此时我们最好的武器不是我们的剑，而是我们的头脑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps someone of your stature will do for her what I could not, for the people I've lost.</Source>
+      <Dest>或许像你这种大人物能为她，还有我已经失去的人做到我所不能做到的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps someone of your stature will do for her what I could not, for the people I've lost.</Source>
+      <Dest>或许像你这种大人物能为她，还有我已经失去的人做到我所不能做到的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>So he turned not to a Daedric Prince, but to Sithis, and was granted the one wish he desired above all others.  Death.</Source>
+      <Dest>所以他哪个魔族领主都没选，而是选择了西帝斯， 并得到了他最强烈渴望的东西——死亡。</Dest>
+    </String>
+    <String List="2">
+      <Source>Together, we could always fend them off.  Apart, we are at their mercy.</Source>
+      <Dest>我们如果待在一起，就一定可以抵挡他们。但若是彼此分来，我们将会任其宰割。</Dest>
+    </String>
+    <String List="2">
+      <Source>{Tears of the Hist}</Source>
+      <Dest>{希斯特的眼泪}</Dest>
+    </String>
+    <String List="2">
+      <Source>The friendship she shares with you, and I with her, those are worth living for.  So I beg my love to wait just a little longer.  My work is not done.</Source>
+      <Dest>她与你之间的友谊，以及我与她之间的友谊，便是活下去的意义。于是我向我的爱人请求，求她再稍微等一等。我的工作还没有完成。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's the least I could do, considering everything that happened.  It's a shame I was too late to save Elia.</Source>
+      <Dest>发生了这么多事情，我至少也应该这么做。没来得及救伊利亚，我惭愧至极。</Dest>
+    </String>
+    <String List="2">
+      <Source>A Baron, in fact, by the name of Gabania.</Source>
+      <Dest>以卡贝尼亚之名，实际上，那是个男爵。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I told him of what happened, he asked that I warn you and Elia, whereas he would stay and search for Indrel.</Source>
+      <Dest>当我告诉他所发生的事情之后，他要我来警告你和伊利亚，而与此同时他则打算留下来并搜寻英卓尔的踪迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nocturnal offered riches.  Hermaeus Mora offered wisdom.  Sanguine offered pleasure, and Molag Bal offered power.</Source>
+      <Dest>诺克图娜尔承诺会带给他财富。麦尤斯‧莫拉承诺会赋予他智慧。桑吉恩承诺会馈赠他欢愉，而莫拉格·巴尔承诺会赐予他力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is everything alright?</Source>
+      <Dest>一切都还好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So I've heard.  It seems even now the Swamp Knight chooses her companions wisely.</Source>
+      <Dest> (笑声)我也听说了。看来就算现在沼泽骑士在挑选她的同伴时也很明智。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) So I've heard.  It seems even now the Swamp Knight chooses her companions wisely.</Source>
+      <Dest> (笑声)我也听说了。看来就算现在沼泽骑士在挑选她的同伴时也很明智。</Dest>
+    </String>
+    <String List="2">
       <Source>However, while mourning one friend, there came news of two more. Arnwulf and Moon-Tail had perished as well.</Source>
       <Dest>然而，就在我替一位朋友哀悼时，又传来了另外两位的噩耗。阿恩武夫和月尾也殒命了。</Dest>
+    </String>
+    <String List="2">
+      <Source>A question without an answer, or perhaps, far too many.</Source>
+      <Dest>一个无解的问题，或者说，没有唯一的答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although it's occurred to me I don't know this marsh as well as you two.  Companion, do you mind leading the way?</Source>
+      <Dest>这让我意识到其实我也像你们一样不太了解这片沼泽。战友，你能带路么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you ever heard the story of the 4 Daedric Princes?</Source>
+      <Dest>你听过关于4个魔族领主的故事么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Your words are as graceful as any bard's.  It's good to see dignity has not been felled by the headsman's axe.</Source>
+      <Dest>你的用词如其他吟游诗人一样优雅。看到高尚并未被刽子手的斧钺一同砍倒真是让人高兴。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the Swamp Knight lives...Thank Arkay.</Source>
+      <Dest>这么说沼泽骑士还活着……感谢阿凯。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Looking for you and Elia.  I searched east and west, high and low.  </Source>
+      <Dest>为了找到你和伊利亚，我东奔西走，翻山越岭。  </Dest>
     </String>
     <String List="2">
       <Source>I don't know.  She was found dead in her room, at the Oak and Crosier in Chorrol.</Source>
@@ -779,16 +743,8 @@
       <Dest>我很抱歉，朋友。她……死了。</Dest>
     </String>
     <String List="2">
-      <Source>Looking for you and Elia.  I searched east and west, high and low.  </Source>
-      <Dest>为了找到你和伊利亚，我东奔西走，翻山越岭。  </Dest>
-    </String>
-    <String List="2">
       <Source>The sands of time flowed for many months, but I managed to find you both.</Source>
       <Dest>时光之沙已静静流淌了许多个月，但我终于找到了你们。</Dest>
-    </String>
-    <String List="2">
-      <Source>So the Swamp Knight lives...Thank Arkay.</Source>
-      <Dest>这么说沼泽骑士还活着……感谢阿凯。.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

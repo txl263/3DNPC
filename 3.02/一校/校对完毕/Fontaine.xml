@@ -7,304 +7,320 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Consider yourself hired. (500 Gold)</Source>
-      <Dest>你被雇佣了！（500金币）</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
-    <String List="2">
-      <Source>You're short on gold. I don't work for anything less.</Source>
-      <Dest>你没钱，我从不白干。</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
     </String>
     <String List="0">
       <Source>I want to go back to my earlier questions.</Source>
       <Dest>让我们回到先前的问题上。</Dest>
     </String>
-    <String List="2">
-      <Source>All right. But keep it short.</Source>
-      <Dest>好吧。不过要简短。</Dest>
-    </String>
     <String List="0">
-      <Source>What manner of beasts can you conjure?</Source>
-      <Dest>你能召唤出哪种野兽？</Dest>
-    </String>
-    <String List="2">
-      <Source>Atronachs. Flame and Frost. But if I'm low on magicka, I can spit out a wolf. Know a little destruction magic too, and I can heal myself.</Source>
-      <Dest>元素精灵。火焰和冰霜。但如果我的法力不高，我可以唤出一只狼。我也知道一点点的破坏魔法，同时我还可以医治自己。</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of beasts can you conjure?</Source>
-      <Dest>你能召唤出哪种野兽？</Dest>
-    </String>
-    <String List="2">
-      <Source>Most conjurers don't have any need for restoration. They let the atronachs do the work. But I don't mind getting hit.</Source>
-      <Dest>一般召唤师都不需要什么回复系法术。都靠召唤兽在前面扛。不过我是不介意挨几下的。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have developed your magical abilities somewhere.</Source>
-      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah. I used to be a sword and shield man. Never much for reading. Just learnt enough to read the bounty letters.</Source>
-      <Dest>是啊。我曾经是个只知道打仗的大老粗。识的字充其量够看个通缉令。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have developed your magical abilities somewhere.</Source>
-      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then a couple years back a necromancer caught me in a rune trap. He was gonna lock me up, but his cages were all full.</Source>
-      <Dest>两年前一个亡灵法师用魔法阵抓住了我。他想把我关起来，但他的笼子已经满了.</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have developed your magical abilities somewhere.</Source>
-      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
-    </String>
-    <String List="2">
-      <Source>So he throws me in this library full of spell tomes while he clears one of the cages. I grab the first book I see. It's a Frost Atronach spell.</Source>
-      <Dest>所以在他清理一个笼子的时候，就把我扔进了这个充满了魔法书的图书馆。我抓了一本来看。那是个冰霜元素的魔法。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must have developed your magical abilities somewhere.</Source>
-      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
-    </String>
-    <String List="2">
-      <Source>That necromancer...you should've seen his face when it busted down the door. That was my first spell. Haven't used a shield since.</Source>
-      <Dest>那个亡灵术士...他撞开门的时候你不该看他的脸。那是我第一个法术，还没开盾牌呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>Where did you train as a swordsman?</Source>
-      <Dest>你在哪受训成为一名剑士的？</Dest>
-    </String>
-    <String List="2">
-      <Source>My old man taught me the basics, just to help him fend off horse thieves. But most of what I know I learned from a passing adventurer.</Source>
-      <Dest>我家老爷子教了我一点儿基础知识，但这知识只能拿来帮他踢飞那些盗马贼。我知道的大多数东西都是来自一个路过的冒险者。</Dest>
-    </String>
-    <String List="0">
-      <Source>Where did you train as a swordsman?</Source>
-      <Dest>你在哪受训成为一名剑士的？</Dest>
-    </String>
-    <String List="2">
-      <Source>He gave me lessons, and in exchange, we let him sleep in the stables.</Source>
-      <Dest>He gave me lessons, and in exchange, we let him sleep in the stables.</Dest>
-    </String>
-    <String List="0">
-      <Source>What kind of skills do you possess?</Source>
-      <Dest>你拥有什么样的技能？</Dest>
-    </String>
-    <String List="2">
-      <Source>I trained as a swordsman. But my talent is with conjuring. You hire me, you get an army.</Source>
-      <Dest>我被训成一名军人，但我在召唤术上更有天赋。你雇佣了我，你得到了一支军队。.</Dest>
-    </String>
-    <String List="0">
-      <Source>I agree. At some point, you just get tired of the fighting.</Source>
-      <Dest>我同意。某种程度上，你只是厌倦了战斗。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, it's not that I don't like a fight. But there's always a chance you can die, and you can't take your gold with you.</Source>
-      <Dest>不，这不是我喜欢的战斗。但你总有可能会死的，只要别把金子留着给你陪葬就行了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Not me. I'll die with my weapon in my hand.</Source>
-      <Dest>不是我。我死也不会放下手中武器。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's the difference between a hero and a merc. Your rewards are waiting in the next life. Ours are back in town.</Source>
-      <Dest>这就是英雄和雇佣兵的区别。你的名声只有后世才能听闻，你的奖赏要下辈子才能领到，而我们的，一回城镇就能拿到手了。</Dest>
-    </String>
-    <String List="0">
-      <Source>A lot of adventurers say that, but we weren't meant for a quiet life.</Source>
-      <Dest>很多冒险家都是那样说的，但我们无心去追寻平静的生活。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't do this because I enjoy it. I do it for the money.</Source>
-      <Dest>我不干因为我乐意。我干呢就为了钱。</Dest>
-    </String>
-    <String List="0">
-      <Source>A farm is a lot of work.</Source>
-      <Dest>经营一个农场有很多事要做。</Dest>
-    </String>
-    <String List="2">
-      <Source>Didn't say I'd be good at it. Probably won't grow anything more than a few potatoes and leeks. It'll just be something to do.</Source>
-      <Dest>我可没说会擅长这个。说不定我要做的不过是种一点土豆和韭菜什么的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do once you make your fortune?</Source>
-      <Dest>你要是发了财，有什么打算？</Dest>
-    </String>
-    <String List="2">
-      <Source>Settle down, buy a farm maybe. When I put down my sword, it'll be for good.</Source>
-      <Dest>也许我会安顿下来，然后再买个农场。当我放下我的剑的时候，就没问题了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to your eye?</Source>
-      <Dest>你眼睛怎么了？</Dest>
-    </String>
-    <String List="2">
-      <Source>Got in a fight with a Wood Elf. He sent an eagle to pluck out my eye. So I had my atronach bring me his skull.</Source>
-      <Dest>和一个木精灵战斗。他让一只鹰啄出了我的眼睛，所以我让我的侍灵拿了他的头盖骨。</Dest>
-    </String>
-    <String List="0">
-      <Source>I work alone.</Source>
-      <Dest>我独自工作。</Dest>
-    </String>
-    <String List="2">
-      <Source>And I work for coin. So now that we know where we stand, there's no need for us to talk any further.</Source>
-      <Dest>而我为钱卖力。所以现在我们知道自己的立场是什么了，已经没有必要再谈下去了。</Dest>
-    </String>
-    <String List="0">
-      <Source>And after I pay you, that's when you introduce me to this professional?</Source>
-      <Dest>一旦付你钱，你就会把我引荐给这个专家吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmph. Jokes. In here, everyone's a jester. Out there, no one's laughing.</Source>
-      <Dest>哼。笑话。在这里，每个人都是小丑。而在那里，却连一个大笑的人也没有。</Dest>
-    </String>
-    <String List="0">
-      <Source>As a matter of fact, I'm looking for some help.</Source>
-      <Dest>现实的情况是，我正在找人帮忙。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then put the coin on the counter, and you'll have all the help you need.</Source>
-      <Dest>那就快把钱放到柜台上，你就能得到任何你想要的帮助。</Dest>
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
     </String>
     <String List="0">
       <Source>I'm looking for a fight, actually. You want a brawl?</Source>
       <Dest>我正想找人打一架，你要来跟我打吗？</Dest>
     </String>
-    <String List="2">
-      <Source>No. It'd be a bad investment. Either you'd win, or I'd lose a client.</Source>
-      <Dest>不。这会是个糟糕的投资。要么你赢，要么我失去一个客户。</Dest>
-    </String>
-    <String List="2">
-      <Source>You looking for a merc, ask around. You looking for a professional, then you pay my fee.</Source>
-      <Dest>如果你是在找个佣兵，那去周围问问看，但如果你是在找一个战斗专家，那你找我就对了。</Dest>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
     </String>
     <String List="0">
-      <Source>What brings you to this tavern?</Source>
-      <Dest>什么风把你吹来了？</Dest>
-    </String>
-    <String List="2">
-      <Source>Work. I came to Skyrim to make my fortune. I've got a skill set that's hard to find.</Source>
-      <Dest>工作。我到天际省来是为了发财。我已经掌握了一些常人发现不了的技巧。</Dest>
+      <Source>And after I pay you, that's when you introduce me to this professional?</Source>
+      <Dest>一旦付你钱，你就会把我引荐给这个专家吗？</Dest>
     </String>
     <String List="0">
-      <Source>What brings you to this tavern?</Source>
-      <Dest>什么风把你吹来了？</Dest>
-    </String>
-    <String List="2">
-      <Source>The average Nord doesn't know much about magic. And what they don't know, they fear. The more they fear, the scarier I look.</Source>
-      <Dest>一般的诺德人并不怎么太知道魔法。而且他们很惧怕他们不知道的东西。他们越是害怕，我看上去就越是恐怖。</Dest>
+      <Source>Where did you train as a swordsman?</Source>
+      <Dest>你在哪受训成为一名剑士的？</Dest>
     </String>
     <String List="0">
-      <Source>What brings you to this tavern?</Source>
-      <Dest>什么风把你吹来了？</Dest>
+      <Source>Where did you train as a swordsman?</Source>
+      <Dest>你在哪受训成为一名剑士的？</Dest>
     </String>
-    <String List="2">
-      <Source>And the scarier I look, the more they'll pay to have me by their side.</Source>
-      <Dest>我的外貌越吓人，他们愿意开出的把我拉拢到他们一边的价码就越高。</Dest>
+    <String List="0">
+      <Source>You must have developed your magical abilities somewhere.</Source>
+      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have developed your magical abilities somewhere.</Source>
+      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have developed your magical abilities somewhere.</Source>
+      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
+    </String>
+    <String List="0">
+      <Source>You must have developed your magical abilities somewhere.</Source>
+      <Dest>你必须在一些地方展示你的魔法才能。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do once you make your fortune?</Source>
+      <Dest>你要是发了财，有什么打算？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some items with you.</Source>
+      <Dest>我要和你交易些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some items with you.</Source>
+      <Dest>我要和你交易些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some items with you.</Source>
+      <Dest>我要和你交易些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I work alone.</Source>
+      <Dest>我独自工作。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Not me. I'll die with my weapon in my hand.</Source>
+      <Dest>不是我。我死也不会放下手中武器。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of beasts can you conjure?</Source>
+      <Dest>你能召唤出哪种野兽？</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of beasts can you conjure?</Source>
+      <Dest>你能召唤出哪种野兽？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to your eye?</Source>
+      <Dest>你的眼睛怎么了？</Dest>
     </String>
     <String List="0">
       <Source>Wait here.</Source>
       <Dest>在这里等着。</Dest>
     </String>
     <String List="0">
-      <Source>Wait here for a moment.</Source>
-      <Dest>在这儿等一下。</Dest>
+      <Source>A lot of adventurers say that, but we weren't meant for a quiet life.</Source>
+      <Dest>很多冒险家都是那样说的，但我们无心去追寻平静的生活。</Dest>
     </String>
-    <String List="2">
-      <Source>Sure. I'll stand guard until you get back.</Source>
-      <Dest>当然。我会一直守卫这里直到你回来。</Dest>
+    <String List="0">
+      <Source>I agree. At some point, you just get tired of the fighting.</Source>
+      <Dest>我同意。某种程度上，你只是厌倦了战斗。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Go ahead.</Source>
+      <Dest>继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>Anything else?</Source>
+      <Dest>还有其他事吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>A farm is a lot of work.</Source>
+      <Dest>经营一个农场有很多事要做。</Dest>
+    </String>
+    <String List="0">
+      <Source>Consider yourself hired. (500 Gold)</Source>
+      <Dest>你被雇佣了！（500金币）</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是我们该分道扬镳的时候啦。</Dest>
     </String>
     <String List="0">
       <Source>Follow me.</Source>
       <Dest>跟我走。</Dest>
     </String>
-    <String List="2">
-      <Source>Lead the way.</Source>
-      <Dest>带路吧。</Dest>
+    <String List="0">
+      <Source>What brings you to this tavern?</Source>
+      <Dest>什么风把你吹来了？</Dest>
     </String>
     <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine. I'll be back at Robber's Refuge if you need me.</Source>
-      <Dest>好吧，我会回劫匪庇护所去，如果需要我帮忙就来找我。</Dest>
+      <Source>What brings you to this tavern?</Source>
+      <Dest>什么风把你吹来了？</Dest>
     </String>
     <String List="0">
-      <Source>It's nothing. Never mind.</Source>
-      <Dest>没什么事，不用担心。</Dest>
-    </String>
-    <String List="2">
-      <Source>Think nothing of it.</Source>
-      <Dest>还好啦。</Dest>
+      <Source>What brings you to this tavern?</Source>
+      <Dest>什么风把你吹来了？</Dest>
     </String>
     <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，你看看。</Dest>
+      <Source>As a matter of fact, I'm looking for some help.</Source>
+      <Dest>现实的情况是，我正在找人帮忙。</Dest>
+    </String>
+    <String List="0">
+      <Source>What kind of skills do you possess?</Source>
+      <Dest>你拥有什么样的技能？</Dest>
     </String>
     <String List="2">
-      <Source>Go ahead.</Source>
-      <Dest>前进。</Dest>
+      <Source>That necromancer...you should've seen his face when it busted down the door. That was my first spell. Haven't used a shield since.</Source>
+      <Dest>那个亡灵术士...他撞开门的时候你不该看他的脸。那是我第一个法术，还没开盾牌呢。</Dest>
     </String>
     <String List="2">
-      <Source>Go ahead.</Source>
-      <Dest>继续。</Dest>
+      <Source>I don't do this because I enjoy it. I do it for the money.</Source>
+      <Dest>我不干因为我乐意。我干呢就为了钱。</Dest>
     </String>
     <String List="2">
-      <Source>You still need something?</Source>
-      <Dest>你还需要什么吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
+      <Source>Then a couple years back a necromancer caught me in a rune trap. He was gonna lock me up, but his cages were all full.</Source>
+      <Dest>两年前一个亡灵法师用魔法阵抓住了我。他想把我关起来，但他的笼子已经满了.</Dest>
     </String>
     <String List="2">
-      <Source>So be it.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some items with you.</Source>
-      <Dest>我要和你交易些东西。</Dest>
+      <Source>You looking for a merc, ask around. You looking for a professional, then you pay my fee.</Source>
+      <Dest>如果你是在找个佣兵，那去周围问问看，但如果你是在找一个战斗专家，那你找我就对了。</Dest>
     </String>
     <String List="2">
-      <Source>Fine. Let's trade.</Source>
-      <Dest>好啊。来做生意吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some items with you.</Source>
-      <Dest>我要和你交易些东西。</Dest>
+      <Source>Hmph. Jokes. In here, everyone's a jester. Out there, no one's laughing.</Source>
+      <Dest>哼。笑话。在这里，每个人都是小丑。而在那里，却连一个大笑的人也没有。</Dest>
     </String>
     <String List="2">
-      <Source>Best to keep it light.</Source>
-      <Dest>最好让它亮着。</Dest>
+      <Source>Sure. I'll stand guard until you get back.</Source>
+      <Dest>当然。我会一直守卫这里直到你回来。</Dest>
     </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some items with you.</Source>
-      <Dest>我要和你交易些东西。</Dest>
+    <String List="2">
+      <Source>Can you also give me directions to Riften from here?</Source>
+      <Dest>你还能给我指个路去裂谷城吗？</Dest>
     </String>
     <String List="2">
       <Source>Too bad I can't conjure a pack mule.</Source>
       <Dest>我无法召唤出驮骡实在是太糟了。</Dest>
     </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
+    <String List="2">
+      <Source>No. Don't think I can.</Source>
+      <Dest>不，别认为我办的到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here you go, my good man.</Source>
+      <Dest>就是这样，我的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>Settle down, buy a farm maybe. When I put down my sword, it'll be for good.</Source>
+      <Dest>也许我会安顿下来，然后再买个农场。当我放下我的剑的时候，就没问题了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fair enough.</Source>
+      <Dest>很公平。</Dest>
+    </String>
+    <String List="2">
+      <Source>No. It'd be a bad investment. Either you'd win, or I'd lose a client.</Source>
+      <Dest>不。这会是个糟糕的投资。要么你赢，要么我失去一个客户。</Dest>
+    </String>
+    <String List="2">
+      <Source>You still need something?</Source>
+      <Dest>你还需要什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood. Here you are.</Source>
+      <Dest>明白。这儿是你想要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trained as a swordsman. But my talent is with conjuring. You hire me, you get an army.</Source>
+      <Dest>我被训成一名军人，但我在召唤术上更有天赋。你雇佣了我，你得到了一支军队。.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like to rent a room.</Source>
+      <Dest>我想租一间房。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever you say, chief.</Source>
+      <Dest>你说了算，长官。</Dest>
+    </String>
+    <String List="2">
+      <Source>So he throws me in this library full of spell tomes while he clears one of the cages. I grab the first book I see. It's a Frost Atronach spell.</Source>
+      <Dest>所以在他清理一个笼子的时候，就把我扔进了这个充满了魔法书的图书馆。我抓了一本来看。那是个冰霜元素的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think nothing of it.</Source>
+      <Dest>还好啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Best to keep it light.</Source>
+      <Dest>最好让它亮着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead the way.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Work. I came to Skyrim to make my fortune. I've got a skill set that's hard to find.</Source>
+      <Dest>工作。我到天际省来是为了发财。我已经掌握了一些常人发现不了的技巧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do I need to tip you?</Source>
+      <Dest>我需要给你小费？</Dest>
+    </String>
+    <String List="2">
+      <Source>And I work for coin. So now that we know where we stand, there's no need for us to talk any further.</Source>
+      <Dest>而我为钱卖力。所以现在我们知道自己的立场是什么了，已经没有必要再谈下去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. Let's trade.</Source>
+      <Dest>好啊。来做生意吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're short on gold. I don't work for anything less.</Source>
+      <Dest>你没钱，我从不白干。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah. I used to be a sword and shield man. Never much for reading. Just learnt enough to read the bounty letters.</Source>
+      <Dest>是啊。我曾经是个只知道打仗的大老粗。识的字充其量够看个通缉令。</Dest>
+    </String>
+    <String List="2">
+      <Source>My old man taught me the basics, just to help him fend off horse thieves. But most of what I know I learned from a passing adventurer.</Source>
+      <Dest>我家老爷子教了我一点儿基础知识，但这知识只能拿来帮他踢飞那些盗马贼。我知道的大多数东西都是来自一个路过的冒险者。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the scarier I look, the more they'll pay to have me by their side.</Source>
+      <Dest>我的外貌越吓人，他们愿意开出的把我拉拢到他们一边的价码就越高。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. But keep it short.</Source>
+      <Dest>好吧。不过要简短。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most conjurers don't have any need for restoration. They let the atronachs do the work. But I don't mind getting hit.</Source>
+      <Dest>一般召唤师都不需要什么回复系法术。都靠召唤兽在前面扛。不过我是不介意挨几下的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Atronachs. Flame and Frost. But if I'm low on magicka, I can spit out a wolf. Know a little destruction magic too, and I can heal myself.</Source>
+      <Dest>元素精灵。火焰和冰霜。但如果我的法力不高，我可以唤出一只狼。我也知道一点点的破坏魔法，同时我还可以医治自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then put the coin on the counter, and you'll have all the help you need.</Source>
+      <Dest>那就快把钱放到柜台上，你就能得到任何你想要的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Didn't say I'd be good at it. Probably won't grow anything more than a few potatoes and leeks. It'll just be something to do.</Source>
+      <Dest>我可没说会擅长这个。说不定我要做的不过是种一点土豆和韭菜什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mind throwing in a drink on the house?</Source>
+      <Dest>你介意请屋子里的大家来一杯么？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the difference between a hero and a merc. Your rewards are waiting in the next life. Ours are back in town.</Source>
+      <Dest>这就是英雄和雇佣兵的区别。你的名声只有后世才能听闻，你的奖赏要下辈子才能领到，而我们的，一回城镇就能拿到手了。</Dest>
     </String>
     <String List="2">
       <Source>Go ahead.</Source>
-      <Dest>前进。</Dest>
+      <Dest>继续。</Dest>
     </String>
     <String List="2">
       <Source>Go ahead.</Source>
@@ -315,268 +331,64 @@
       <Dest>还有其他事吗？</Dest>
     </String>
     <String List="2">
-      <Source>No. Don't think I can.</Source>
-      <Dest>不，别认为我办的到。</Dest>
+      <Source>So be it.</Source>
+      <Dest>那就这样吧。</Dest>
     </String>
     <String List="2">
-      <Source>No. Don't think I want to do that.</Source>
-      <Dest>不！别想让我干那个！</Dest>
-    </String>
-    <String List="2">
-      <Source>Whatever you say, chief.</Source>
-      <Dest>你说了算，长官。</Dest>
-    </String>
-    <String List="2">
-      <Source>Show me.</Source>
-      <Dest>让我看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do I need to tip you?</Source>
-      <Dest>我需要给你小费？</Dest>
-    </String>
-    <String List="2">
-      <Source>You mind throwing in a drink on the house?</Source>
-      <Dest>你介意请屋子里的大家来一杯么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Can you also give me directions to Riften from here?</Source>
-      <Dest>你还能给我指个路去裂谷城吗？</Dest>
+      <Source>No, it's not that I don't like a fight. But there's always a chance you can die, and you can't take your gold with you.</Source>
+      <Dest>不，这不是我喜欢的战斗。但你总有可能会死的，只要别把金子留着给你陪葬就行了。</Dest>
     </String>
     <String List="2">
       <Source>Aren't you going to show me to my room?</Source>
       <Dest>你不打算让我看看我的房间吗？</Dest>
     </String>
     <String List="2">
-      <Source>Fair enough.</Source>
-      <Dest>有道理。</Dest>
+      <Source>Got in a fight with a Wood Elf. He sent an eagle to pluck out my eye. So I had my atronach bring me his skull.</Source>
+      <Dest>和一个木精灵战斗。他让一只鹰啄出了我的眼睛，所以我让我的侍灵拿了他的头盖骨。</Dest>
     </String>
     <String List="2">
-      <Source>Here you go, my good man.</Source>
-      <Dest>就是这样，我的朋友。</Dest>
+      <Source>Show me.</Source>
+      <Dest>让我看看。</Dest>
     </String>
     <String List="2">
-      <Source>Don't worry, I've got it right here.</Source>
-      <Dest>Don't worry, I've got it right here.</Dest>
+      <Source>Fine. I'll be back at Robber's Refuge if you need me.</Source>
+      <Dest>好吧，我会回劫匪庇护所去，如果需要我帮忙就来找我。</Dest>
     </String>
     <String List="2">
-      <Source>Understood. Here you are.</Source>
-      <Dest>明白。这儿是你想要的。</Dest>
+      <Source>The average Nord doesn't know much about magic. And what they don't know, they fear. The more they fear, the scarier I look.</Source>
+      <Dest>一般的诺德人并不怎么太知道魔法。而且他们很惧怕他们不知道的东西。他们越是害怕，我看上去就越是恐怖。</Dest>
     </String>
     <String List="2">
-      <Source>I'd like to rent a room.</Source>
-      <Dest>我想租一间房。</Dest>
+      <Source>No. Don't think I want to do that.</Source>
+      <Dest>不！别想让我干那个！</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Umph!</Source>
-      <Dest>哇哦！</Dest>
-    </String>
-    <String List="2">
-      <Source>I didn't feel a thing!</Source>
-      <Dest>我一点感觉都没有！</Dest>
-    </String>
-    <String List="2">
-      <Source>This ends now!</Source>
-      <Dest>你的末日到了！</Dest>
-    </String>
-    <String List="2">
-      <Source>You can't best me!</Source>
-      <Dest>你不是我的对手！</Dest>
-    </String>
-    <String List="2">
-      <Source>Umph!</Source>
-      <Dest>哇哦！</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh!</Source>
-      <Dest>呃！</Dest>
-    </String>
-    <String List="2">
-      <Source>Like the pinch of a mudcrab!</Source>
-      <Dest>就像一只跳蚤咬的!</Dest>
-    </String>
-    <String List="2">
-      <Source>There's more than one way to skin a cat!</Source>
-      <Dest>方法还多着呢！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, beast!</Source>
-      <Dest>去死吧，畜生！</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn, we're routed!</Source>
-      <Dest>该死，我们被击溃了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Fall back, fall back!</Source>
-      <Dest>撤退，撤退！</Dest>
-    </String>
-    <String List="2">
-      <Source>Is that all you got?</Source>
-      <Dest>你就这点本事？</Dest>
-    </String>
-    <String List="2">
-      <Source>Try again!</Source>
-      <Dest>再试一次！</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't make me laugh!</Source>
-      <Dest>别逗了！</Dest>
-    </String>
-    <String List="2">
-      <Source>I can block whatever you throw at me!</Source>
-      <Dest>不管你扔什么我都能挡开！</Dest>
-    </String>
-    <String List="2">
-      <Source>Your gold is my gold, fool!</Source>
-      <Dest>你的钱就是我的钱，蠢货！</Dest>
-    </String>
-    <String List="2">
-      <Source>Can't wait to count your coin!</Source>
-      <Dest>等不及要数你的钱了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Time to end this!</Source>
-      <Dest>是时候结束这一切了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on!</Source>
-      <Dest>上啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's move.</Source>
-      <Dest>出发吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Right behind you.</Source>
-      <Dest>我紧随在后。</Dest>
-    </String>
-    <String List="2">
-      <Source>So this is an Orc Stronghold. I've seen worse places to live.</Source>
-      <Dest>所以说这是一处兽人山寨。我见过比这更烂的住所。</Dest>
-    </String>
-    <String List="2">
-      <Source>Being a bandit is a bad way to live, and an easy way to die.</Source>
-      <Dest>做强盗是个糟糕的活法，也是个简单的死法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Mages got a reputation for being soft. You know, book-worms and thumb-drinkers. That's because they haven't met me.</Source>
-      <Dest>法师都被说成是软柿子。你知道的，书呆子还有一杯就倒什么的。他们会这么说是因为他们从没遇见过我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gold ain't the only currency, but it's the only one that matters. Everything else is a lie.</Source>
-      <Dest>金子不是唯一的硬通货，但它是唯一的实实在在的东西，除了它以外的一切都是谎言罢了。</Dest>
-    </String>
-    <String List="2">
-      <Source>A good drink is like an old wound. It's better when it burns.</Source>
-      <Dest>一杯好酒就像一块旧疤。感到灼烧的时候才痛快。</Dest>
-    </String>
-    <String List="2">
-      <Source>Magic reminds us the Gods are real. I'm here to remind them that pain is real too.</Source>
-      <Dest>Magic reminds us the Gods are real. I'm here to remind them that pain is real too.</Dest>
-    </String>
-    <String List="2">
-      <Source>People who say gold isn't everything are usually the folks who already have it.</Source>
-      <Dest>那些说“金钱不是万能的”的家伙们，往往腰缠万贯。</Dest>
-    </String>
-    <String List="2">
-      <Source>I feel like having a slaughterfish for dinner. A real nasty one.</Source>
-      <Dest>晚饭我想吃点儿食人鱼。杀伤力超强的那种食人鱼。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's not the size of the atronach that matters. It's the element.</Source>
-      <Dest>It's not the size of the atronach that matters. It's the element.</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't ever buy vegetables at the market. Farmers in Skyrim let you pick it off their land for free. Don't ask me why.</Source>
-      <Dest>要蔬菜千万别在市场上买。天际的农场主是允许你在他们地里免费随便摘的。别问我为什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't ever buy a war dog. You're just paying gold to be annoyed.</Source>
-      <Dest>千万别去买什么战犬。那只是花钱买闹心而已。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, it's late. We should find somewhere to sleep.</Source>
-      <Dest>嘿，已经很晚了。我们应该找个地方睡觉。</Dest>
-    </String>
-    <String List="2">
-      <Source>In life, all you need is gold. It'll buy you everything else.</Source>
-      <Dest>在生活中，你需要的是金子。这能帮你买到其他所有的一切。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's not the size of the atronach that matters. It's the element.</Source>
-      <Dest>It's not the size of the atronach that matters. It's the element.</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't lead, and I don't follow. I'm a merc. I work for gold.</Source>
-      <Dest>我不当领导者，也不当跟随者。我是一个雇佣兵。我为钱干活。</Dest>
-    </String>
-    <String List="2">
-      <Source>The more friends you take on the road, the weaker you become. As a merc, you don't have to worry if I live or die. That benefits the both of us.</Source>
-      <Dest>在你前进的路上，朋友越多，你就会变得越弱。我是一个雇佣兵，你不必担心我是死是活。这对我们两个都有好处。</Dest>
-    </String>
-    <String List="2">
-      <Source>There's only so many hours in a day. The more efficient you are, the more work you can cram into it.</Source>
-      <Dest>一天不过这么几个小时。你效率越高，就越能填塞进更多的工作。</Dest>
     </String>
     <String List="2">
       <Source>The difference between being paranoid and scared is knowing who's out to get you.</Source>
       <Dest>被妄想或者恐惧折磨的区别在于是否知道折磨你的人是谁。</Dest>
     </String>
     <String List="2">
-      <Source>Some people are loyal to Skyrim. Others are loyal to the people who rule it.</Source>
-      <Dest>一些人忠于天际，其他人忠于统治这里的人。</Dest>
+      <Source>There's only so many hours in a day. The more efficient you are, the more work you can cram into it.</Source>
+      <Dest>一天不过这么几个小时。你效率越高，就越能填塞进更多的工作。</Dest>
     </String>
     <String List="2">
-      <Source>Some say all you need is love. But I can go for years without a lover. Try going a week without food.</Source>
-      <Dest>有些人说要活下去只要有爱陪伴就可以了。我可以忍受一年没有伴侣，但你到去试试看一周不吃东西啊。</Dest>
+      <Source>Being a bandit is a bad way to live, and an easy way to die.</Source>
+      <Dest>做强盗是个糟糕的活法，也是个简单的死法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh!</Source>
+      <Dest>啊！</Dest>
     </String>
     <String List="2">
       <Source>You can't fight well if you don't sleep well. You can't sleep well if you don't eat well. So don't forget the basics.</Source>
       <Dest>睡不好觉就没精神战斗。没吃饱饭也就睡不好觉。所以别忘了最基本的东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes a silver tongue is worth more than a bar of silver. Remember that.</Source>
-      <Dest>记住。如簧巧舌有时比一块银锭还值钱。</Dest>
-    </String>
-    <String List="2">
-      <Source>You paid my fee, so here's a tip. Armor made of hide is best for looting. It's light in the sack and fetches a hefty price. </Source>
-      <Dest>您已经付费，以下是信息：用毛皮制造的盔甲最值得搜刮。带着又轻便又值钱。</Dest>
-    </String>
-    <String List="2">
-      <Source>Here's another tip. It's always good idea to raid caves in the morning. Bandits don't wake up till noon. Vampires even later than that.</Source>
-      <Dest>这是另一个提示。在早晨突袭洞穴。强盗会睡到中午。吸血鬼甚至起得更晚。</Dest>
-    </String>
-    <String List="2">
-      <Source>You can keep any tomes you find. I need a new spell like I need an extra nipple. The ones I got do the job.</Source>
-      <Dest>You can keep any tomes you find. I need a new spell like I need an extra nipple. The ones I got do the job.</Dest>
-    </String>
-    <String List="2">
-      <Source>Adventurers spend half their lives in caves like this, and the other half in taverns. Is it worth it? You tell me.</Source>
-      <Dest>冒险者把生命中的一半儿花费在这样的山洞里，而另一半儿则用在酒馆里。你告诉我，这值得吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Frost or flame, there's an atronach to fit the situation, or in some cases, the size of the cave.</Source>
-      <Dest>Frost or flame, there's an atronach to fit the situation, or in some cases, the size of the cave.</Dest>
-    </String>
-    <String List="2">
-      <Source>Nord ruins are basically graveyards. Only most of the corpses didn't come here dead, and the ones that did come out alive.</Source>
-      <Dest>诺德遗迹基本上都是墓穴。只不过大多数尸体不是死后埋进来的，还有些能活着走出来呢。</Dest>
     </String>
     <String List="2">
       <Source>Some sellswords won't work in Dwemer ruins. Not worth it. Too many clients die. And it's never good to lose steady customers.</Source>
@@ -587,24 +399,204 @@
       <Dest>记得搜下骨灰盒。一些认为死人需要金币的傻子会留些金子在这。</Dest>
     </String>
     <String List="2">
-      <Source>I once had a client who was in love with a bandit. He offered 1000 gold to kill everyone but her. But his father offered me double to kill them all.</Source>
-      <Dest>我曾经有个主顾，他爱上了一个女强盗。他出1000金币让我去杀掉其他强盗，除了她。但他的父亲给了我双份儿钱，要我把所有人都杀掉。</Dest>
-    </String>
-    <String List="2">
-      <Source>An alchemist client taught me it's always a good idea to keep some pieces of fresh honeycomb on the road. Restores the stamina.</Source>
-      <Dest>一个炼金术士客人教我，把几块新鲜蜂窝放在路上是个好主意。它能让人恢复耐力。</Dest>
+      <Source>Damn, we're routed!</Source>
+      <Dest>该死，我们被击溃了！</Dest>
     </String>
     <String List="2">
       <Source>I had a client in Windhelm once. A Redguard who had the shakes. That guy would make skooma nervous.</Source>
       <Dest>我以前有个风舵城的客户。一个总是哆哆嗦嗦的红卫人。那家伙每次买斯库玛都显得特别紧张。</Dest>
     </String>
     <String List="2">
-      <Source>Markarth's a good place to get work. Wars and vendettas are always nice for business.</Source>
-      <Dest>Markarth's a good place to get work. Wars and vendettas are always nice for business.</Dest>
+      <Source>The more friends you take on the road, the weaker you become. As a merc, you don't have to worry if I live or die. That benefits the both of us.</Source>
+      <Dest>在你前进的路上，朋友越多，你就会变得越弱。我是一个雇佣兵，你不必担心我是死是活。这对我们两个都有好处。</Dest>
     </String>
     <String List="2">
-      <Source>You'll find more gold in caves than in the Blue Palace. The people pay their taxes to the Jarl. Adventurers pay them to the Gods.</Source>
-      <Dest>在山洞里你能找到的金子比在蓝宫里能找到的更多。人民向领主上缴税金，而冒险者们则付钱给众神。</Dest>
+      <Source>Try again!</Source>
+      <Dest>再试一次！</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord ruins are basically graveyards. Only most of the corpses didn't come here dead, and the ones that did come out alive.</Source>
+      <Dest>诺德遗迹基本上都是墓穴。只不过大多数尸体不是死后埋进来的，还有些能活着走出来呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You paid my fee, so here's a tip. Armor made of hide is best for looting. It's light in the sack and fetches a hefty price. </Source>
+      <Dest>您已经付费，以下是信息：用毛皮制造的盔甲最值得搜刮。带着又轻便又值钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>An alchemist client taught me it's always a good idea to keep some pieces of fresh honeycomb on the road. Restores the stamina.</Source>
+      <Dest>一个炼金术士客人教我，把几块新鲜蜂窝放在路上是个好主意。它能让人恢复耐力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some people are loyal to Skyrim. Others are loyal to the people who rule it.</Source>
+      <Dest>一些人忠于天际，其他人忠于统治这里的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right behind you.</Source>
+      <Dest>就在你身后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mages got a reputation for being soft. You know, book-worms and thumb-drinkers. That's because they haven't met me.</Source>
+      <Dest>法师都被说成是软柿子。你知道的，书呆子还有一杯就倒什么的。他们会这么说是因为他们从没遇见过我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Time to end this!</Source>
+      <Dest>是时候结束这一切了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on!</Source>
+      <Dest>上啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>I once had a client who was in love with a bandit. He offered 1000 gold to kill everyone but her. But his father offered me double to kill them all.</Source>
+      <Dest>我曾经有个主顾，他爱上了一个女强盗。他出1000金币让我去杀掉其他强盗，除了她。但他的父亲给了我双份儿钱，要我把所有人都杀掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here's another tip. It's always good idea to raid caves in the morning. Bandits don't wake up till noon. Vampires even later than that.</Source>
+      <Dest>这是另一个提示。在早晨突袭洞穴。强盗会睡到中午。吸血鬼甚至起得更晚。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't best me!</Source>
+      <Dest>你不是我的对手！</Dest>
+    </String>
+    <String List="2">
+      <Source>Adventurers spend half their lives in caves like this, and the other half in taverns. Is it worth it? You tell me.</Source>
+      <Dest>冒险者把生命中的一半儿花费在这样的山洞里，而另一半儿则用在酒馆里。你告诉我，这值得吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't lead, and I don't follow. I'm a merc. I work for gold.</Source>
+      <Dest>我不当领导者，也不当跟随者。我是一个雇佣兵。我为钱干活。</Dest>
+    </String>
+    <String List="2">
+      <Source>In life, all you need is gold. It'll buy you everything else.</Source>
+      <Dest>在生活中，你需要的是金子。这能帮你买到其他所有的一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't ever buy a war dog. You're just paying gold to be annoyed.</Source>
+      <Dest>千万别去买什么战犬。那只是花钱买闹心而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that all you got?</Source>
+      <Dest>你就这点本事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't feel a thing!</Source>
+      <Dest>我一点感觉都没有！</Dest>
+    </String>
+    <String List="2">
+      <Source>People who say gold isn't everything are usually the folks who already have it.</Source>
+      <Dest>那些说“金钱不是万能的”的家伙们，往往腰缠万贯。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, it's late. We should find somewhere to sleep.</Source>
+      <Dest>嘿，已经很晚了。我们应该找个地方睡觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Umph!</Source>
+      <Dest>哇哦！</Dest>
+    </String>
+    <String List="2">
+      <Source>Umph!</Source>
+      <Dest>哇哦！</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't ever buy vegetables at the market. Farmers in Skyrim let you pick it off their land for free. Don't ask me why.</Source>
+      <Dest>要蔬菜千万别在市场上买。天际的农场主是允许你在他们地里免费随便摘的。别问我为什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>A good drink is like an old wound. It's better when it burns.</Source>
+      <Dest>一杯好酒就像一块旧疤。感到灼烧的时候才痛快。</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, beast!</Source>
+      <Dest>去死吧，畜生！</Dest>
+    </String>
+    <String List="2">
+      <Source>I can block whatever you throw at me!</Source>
+      <Dest>不管你扔什么我都能挡开！</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say all you need is love. But I can go for years without a lover. Try going a week without food.</Source>
+      <Dest>有些人说要活下去只要有爱陪伴就可以了。我可以忍受一年没有伴侣，但你到去试试看一周不吃东西啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gold ain't the only currency, but it's the only one that matters. Everything else is a lie.</Source>
+      <Dest>金子不是唯一的硬通货，但它是唯一的实实在在的东西，除了它以外的一切都是谎言罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes a silver tongue is worth more than a bar of silver. Remember that.</Source>
+      <Dest>记住。如簧巧舌有时比一块银锭还值钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't make me laugh!</Source>
+      <Dest>别逗了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Your gold is my gold, fool!</Source>
+      <Dest>你的钱就是我的钱，蠢货！</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's move.</Source>
+      <Dest>我们走。</Dest>
+    </String>
+    <String List="2">
+      <Source>I feel like having a slaughterfish for dinner. A real nasty one.</Source>
+      <Dest>晚饭我想吃点儿食人鱼。杀伤力超强的那种食人鱼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like the pinch of a mudcrab!</Source>
+      <Dest>简直就像跳蚤咬的一样！</Dest>
+    </String>
+    <String List="2">
+      <Source>There's more than one way to skin a cat!</Source>
+      <Dest>方法还多着呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't wait to count your coin!</Source>
+      <Dest>等不及要数你的钱了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Fall back, fall back!</Source>
+      <Dest>撤退，撤退！</Dest>
+    </String>
+    <String List="2">
+      <Source>This ends now!</Source>
+      <Dest>结束了！</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need a magic lesson? Go to the College. Need someone to thrash your enemies, come to me.</Source>
+      <Dest>需要上魔法课程？去趟冬堡学院吧。需要有人来帮你打倒敌人，就来找我。</Dest>
+    </String>
+    <String List="2">
+      <Source>We've stopped. What is it?</Source>
+      <Dest>我们停下了。怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you gave me a choice between fortune and glory, I'd take the money.</Source>
+      <Dest>如果你给我个机会选择财富还是光荣。那我选择拿了钱就走。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had a client in Solitude whose one rule was not to dress better than him. So I lent him my clothes, and he gave me his gold.</Source>
+      <Dest>我的一个孤独城的客户有个规矩，别人穿的不能比他好。所以我把我的衣服借给他，而他则给了我金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flame, frost, and fists. You run out of the first two, you better damn be ready to use the third.</Source>
+      <Dest>火焰、寒霜、拳。前两个你都用完了，你他妈的最好准备好用第三个。</Dest>
+    </String>
+    <String List="2">
+      <Source>A lot of innkeepers will tell you stay away from mages. Glad you didn't take their advice.</Source>
+      <Dest>很多老板会告诉你远离法师。很高兴你没有听取他们的劝告。</Dest>
+    </String>
+    <String List="2">
+      <Source>Love's fickle. Friends come and go. Money stays.</Source>
+      <Dest>爱情易变，友情易逝。只有金钱是永恒的。</Dest>
     </String>
     <String List="2">
       <Source>Spent a month in a cave once. Broke my leg and had to live off the mushrooms. I stunk worse than the corpses around me.</Source>
@@ -615,60 +607,32 @@
       <Dest>在这停下你很快就会被杀死。我们快点走。</Dest>
     </String>
     <String List="2">
-      <Source>Is that a chill in the air? Nope, it's just me.</Source>
-      <Dest>空气中透着一股寒气？才没有呢，只有我站在这儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>The world needs ugly bastards.</Source>
-      <Dest>世界需要丑陋的混蛋。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's late. We should find somewhere to sleep.</Source>
-      <Dest>很晚了。我们应该找个地方睡觉。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ever have something on the tip of your tongue, but you just can't remember what it is? I hate it when that happens.</Source>
-      <Dest>话就在你嘴边，但你却不记得该怎么说了？我很讨厌这样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Flame, frost, and fists. You run out of the first two, you better damn be ready to use the third.</Source>
-      <Dest>火焰、寒霜、拳。前两个你都用完了，你他妈的最好准备好用第三个。</Dest>
-    </String>
-    <String List="2">
       <Source>Farm work's honest labor. But the pay isn't.</Source>
       <Dest>农场的工作需要老老实实的劳动。但薪水却不是。</Dest>
-    </String>
-    <String List="2">
-      <Source>We heading out?</Source>
-      <Dest>我们启程吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>We've stopped. What is it?</Source>
-      <Dest>我们停下来了。怎么回事？</Dest>
-    </String>
-    <String List="2">
-      <Source>Everything's an investment. Even your friends.</Source>
-      <Dest>一切都是投资。即使是你的朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>Need a magic lesson? Go to the College. Need someone to thrash your enemies, come to me.</Source>
-      <Dest>需要上魔法课程？去趟冬堡学院吧。需要有人来帮你打倒敌人，就来找我。</Dest>
-    </String>
-    <String List="2">
-      <Source>I had a client in Solitude whose one rule was not to dress better than him. So I lent him my clothes, and he gave me his gold.</Source>
-      <Dest>我的一个孤独城的客户有个规矩，别人穿的不能比他好。所以我把我的衣服借给他，而他则给了我金币。</Dest>
-    </String>
-    <String List="2">
-      <Source>As strong as potions are these days, sometimes it's better to be a fast drinker than a quick draw.</Source>
-      <Dest>现在药水也很强，有时候做一个喝东西快的人比做个快枪手更好。</Dest>
     </String>
     <String List="2">
       <Source>The people who say gold doesn't matter are usually the people who have it.</Source>
       <Dest>那些说着自己不在乎钱的家伙多半就是口袋里装满钱的。</Dest>
     </String>
     <String List="2">
-      <Source>If you gave me a choice between fortune and glory, I'd take the money.</Source>
-      <Dest>如果你给我个机会选择财富还是光荣。那我选择拿了钱就走。</Dest>
+      <Source>You'll find more gold in caves than in the Blue Palace. The people pay their taxes to the Jarl. Adventurers pay them to the Gods.</Source>
+      <Dest>在山洞里你能找到的金子比在蓝宫里能找到的更多。人民向领主上缴税金，而冒险者们则付钱给众神。</Dest>
+    </String>
+    <String List="2">
+      <Source>The world needs ugly bastards.</Source>
+      <Dest>世界需要丑陋的混蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Another client called me Eagle-Eye. He's not a client anymore.</Source>
+      <Dest>另一个主顾叫我鹰眼。他不再是我的主顾了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Everything's an investment. Even your friends.</Source>
+      <Dest>一切都是投资。即使是你的朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>I got a bone to pick with you Ros.</Source>
+      <Dest>我给你和罗斯找了一个临时的工作。</Dest>
     </String>
     <String List="2">
       <Source>People in the city tend to fear conjurers. The smart ones, anyway.</Source>
@@ -683,36 +647,36 @@
       <Dest>如果我们要留在这儿的话，我不需要房间（来休息）。我可以站着睡觉的。</Dest>
     </String>
     <String List="2">
-      <Source>The inn's a good place to get work. Some are better than others.</Source>
-      <Dest>酒店是一个找工作的好地方。有些人比别人更好找到。</Dest>
-    </String>
-    <String List="2">
-      <Source>A lot of innkeepers will tell you stay away from mages. Glad you didn't take their advice.</Source>
-      <Dest>很多老板会告诉你远离法师。很高兴你没有听取他们的劝告。</Dest>
-    </String>
-    <String List="2">
-      <Source>Love's fickle. Friends come and go. Money stays.</Source>
-      <Dest>爱情易变，友情易逝。只有金钱是永恒的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Another client called me Eagle-Eye. He's not a client anymore.</Source>
-      <Dest>另一个主顾叫我鹰眼。他不再是我的主顾了。</Dest>
+      <Source>As strong as potions are these days, sometimes it's better to be a fast drinker than a quick draw.</Source>
+      <Dest>现在药水也很强，有时候做一个喝东西快的人比做个快枪手更好。</Dest>
     </String>
     <String List="2">
       <Source>You've got it all wrong. There's nothing easy about magic.</Source>
       <Dest>你完全搞错了。魔法和艰深是同义词。</Dest>
     </String>
     <String List="2">
+      <Source>Is that a chill in the air? Nope, it's just me.</Source>
+      <Dest>空气中透着一股寒气？才没有呢，只有我站在这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>We heading out?</Source>
+      <Dest>我们启程吗？</Dest>
+    </String>
+    <String List="2">
       <Source>Laugh it up. But I know you've been spreading lies about me, and it's hurting my business. </Source>
       <Dest>尽管笑吧。但我知道是你一直在散布关于我的谣言，而它打击了我的生意。</Dest>
     </String>
     <String List="2">
-      <Source>And when you take food off my table, I take the head off your neck.</Source>
-      <Dest>And when you take food off my table, I take the head off your neck.</Dest>
+      <Source>It's late. We should find somewhere to sleep.</Source>
+      <Dest>很晚了。我们应该找个地方睡觉。</Dest>
     </String>
     <String List="2">
-      <Source>I got a bone to pick with you Ros.</Source>
-      <Dest>我给你和罗斯找了一个临时的工作。</Dest>
+      <Source>The inn's a good place to get work. Some are better than others.</Source>
+      <Dest>酒店是一个找工作的好地方。有些人比别人更好找到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever have something on the tip of your tongue, but you just can't remember what it is? I hate it when that happens.</Source>
+      <Dest>话就在你嘴边，但你却不记得该怎么说了？我很讨厌这样。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

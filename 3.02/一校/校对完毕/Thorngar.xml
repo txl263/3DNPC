@@ -7,564 +7,304 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>What happened to your father?</Source>
-      <Dest>你父亲怎么了？</Dest>
+      <Source>Are you sure his story is accurate? What if the evidence says otherwise?</Source>
+      <Dest>你确定他的故事都是真的？ 如果与证据相矛盾那该如何？</Dest>
     </String>
-    <String List="2">
-      <Source>A few nobles from Solitude were out hunting and trespassed on my father's land. He mistook them for thieves, and well...things got bloody.</Source>
-      <Dest>从孤独城来的几个贵族外出狩猎并擅自闯入我父亲的土地。他误以为他们是小偷，然后...事情就变得血腥了。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll head on over as soon as I can.</Source>
+      <Dest>我会尽快赶到的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, let's proceed then.</Source>
+      <Dest>好吧，让我们继续。</Dest>
+    </String>
+    <String List="0">
+      <Source>How does the document help his case?</Source>
+      <Dest>文件是怎么帮到他的？</Dest>
     </String>
     <String List="0">
       <Source>What happened to your father?</Source>
       <Dest>你父亲怎么了？</Dest>
     </String>
-    <String List="2">
-      <Source>One of the men was gravely injured. Now the other wants my father punished.</Source>
-      <Dest>那些人中的一个伤得挺重。现在他们中的其他人想要惩罚我的父亲。</Dest>
+    <String List="0">
+      <Source>What happened to your father?</Source>
+      <Dest>你父亲怎么了？</Dest>
     </String>
     <String List="0">
       <Source>What happened to your father?</Source>
       <Dest>你父亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened to your father?</Source>
+      <Dest>你父亲怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who is Yngrid Far-Sky?</Source>
+      <Dest>谁是Y银丽德·远天？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who is Yngrid Far-Sky?</Source>
+      <Dest>谁是银丽德·远天？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who is Yngrid Far-Sky?</Source>
+      <Dest>谁是银丽德·远天？</Dest>
     </String>
     <String List="0">
       <Source>Who attacked first?</Source>
       <Dest>谁先动的手？</Dest>
     </String>
-    <String List="2">
-      <Source>That's up for debate. But if these men were trespassing, it will certainly help his case.</Source>
-      <Dest>这事还需要进一步地讨论。但如果那些人确实是加害者，那当然会对他的案子产生积极的影响。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened to your father?</Source>
-      <Dest>你父亲怎么了？</Dest>
-    </String>
-    <String List="0">
-      <Source>How does the document help his case?</Source>
-      <Dest>文件是怎么帮到他的？是怎么帮到他的？</Dest>
-    </String>
-    <String List="2">
-      <Source>It proves my father had a right to be on the land. He signed a lease with one of the Jarl's old Thanes, back when she was in court.</Source>
-      <Dest>它证明了我父亲在此地立足的权利。他和领主手下的老爵绅之一签了份租约，加背书于她在法庭上的时候。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't have time for that.</Source>
-      <Dest>我没那个闲时间。</Dest>
-    </String>
-    <String List="2">
-      <Source>I understand. You've already done enough. Should you change your mind, I'll be waiting over at Winterfrost Cottage.</Source>
-      <Dest>我懂。你已经做得够多的了。你应该改变一下想法，我会在冬霜小屋那等你。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't have time for that.</Source>
-      <Dest>我没那个闲时间。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now if you'll excuse me, I must be on my way.</Source>
-      <Dest>现在请你原谅，我必须上路了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll head on over as soon as I can.</Source>
-      <Dest>我将尽快赶到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you, salvager. Hopefully, having another set of eyes will help.</Source>
-      <Dest>谢谢你，好心人。但愿吧，多一双眼睛总多一份希望嘛。</Dest>
-    </String>
-    <String List="0">
-      <Source>Here's the lease agreement.</Source>
-      <Dest>这里是契约书。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then there's still hope, but it might not be enough. I was wondering, perhaps, if I could loan your services. </Source>
-      <Dest>那么说还有一线希望，但这远远不够。我恳请，能否请您借我一臂之力？</Dest>
-    </String>
-    <String List="0">
-      <Source>Here's the lease agreement.</Source>
-      <Dest>这里是契约书。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm on my way to the site of the altercation to see if I can find more evidence. It would help to have another set of eyes.</Source>
-      <Dest>我正要去争执现场看看能否能找到更多的证据。如果能多一双眼睛的话，这会很有帮助的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Quit whining. Any Nord should be proud to die with a sword in hand.</Source>
-      <Dest>Quit whining. Any Nord should be proud to die with a sword in hand.</Dest>
-    </String>
-    <String List="2">
-      <Source>True. This is a better fate for my father than the executioner's block. </Source>
-      <Dest>True. This is a better fate for my father than the executioner's block. </Dest>
-    </String>
-    <String List="0">
-      <Source>Quit whining. Any Nord should be proud to die with a sword in hand.</Source>
-      <Dest>Quit whining. Any Nord should be proud to die with a sword in hand.</Dest>
-    </String>
-    <String List="2">
-      <Source>But I can't shake the feeling that I failed him as a son.</Source>
-      <Dest>But I can't shake the feeling that I failed him as a son.</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize. I clearly didn't study the cottage well enough.</Source>
-      <Dest>I apologize. I clearly didn't study the cottage well enough.</Dest>
-    </String>
-    <String List="2">
-      <Source>No, it's my own fault. I myself walked over that cottage hundreds of times, and I still couldn't find fault with Foromir's story.</Source>
-      <Dest>No, it's my own fault. I myself walked over that cottage hundreds of times, and I still couldn't find fault with Foromir's story.</Dest>
-    </String>
-    <String List="0">
-      <Source>Worry not, I will take your father's place in this trial.</Source>
-      <Dest>Worry not, I will take your father's place in this trial.</Dest>
-    </String>
-    <String List="2">
-      <Source>My father would not agree to something so cowardly. He will face his death like a man.</Source>
-      <Dest>My father would not agree to something so cowardly. He will face his death like a man.</Dest>
-    </String>
-    <String List="0">
-      <Source>Can your father fight?</Source>
-      <Dest>Can your father fight?</Dest>
-    </String>
-    <String List="2">
-      <Source>Maybe if he hadn't spent the last week in the dungeon eating stale bread. But now? No...</Source>
-      <Dest>Maybe if he hadn't spent the last week in the dungeon eating stale bread. But now? No...</Dest>
-    </String>
-    <String List="0">
-      <Source>Can your father fight?</Source>
-      <Dest>Can your father fight?</Dest>
-    </String>
-    <String List="2">
-      <Source>A trial by combat is pretty much a death sentence. But at least my father will die with a sword in his hand.</Source>
-      <Dest>A trial by combat is pretty much a death sentence. But at least my father will die with a sword in his hand.</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你现在有什么打算？</Dest>
-    </String>
-    <String List="2">
-      <Source>We celebrate! I'm sure the first night outside of the dungeon, even the tavern will feel like Sovngarde itself!</Source>
-      <Dest>We celebrate! I'm sure the first night outside of the dungeon, even the tavern will feel like Sovngarde itself!</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你现在有什么打算？</Dest>
-    </String>
-    <String List="2">
-      <Source>As for you, here. It's a piece of armor that's saved my own life more times than I care to count. </Source>
-      <Dest>As for you, here. It's a piece of armor that's saved my own life more times than I care to count. </Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你现在有什么打算？</Dest>
-    </String>
-    <String List="2">
-      <Source>It may not be better than what you have, but it's important to me that you have it.</Source>
-      <Dest>It may not be better than what you have, but it's important to me that you have it.</Dest>
-    </String>
-    <String List="0">
-      <Source>I did nothing. It was the truth that won the day.</Source>
-      <Dest>I did nothing. It was the truth that won the day.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet without people to defend the truth, it withers away like a flower in the dark.</Source>
-      <Dest>Yet without people to defend the truth, it withers away like a flower in the dark.</Dest>
-    </String>
-    <String List="0">
-      <Source>Just make sure to include my name in his will.</Source>
-      <Dest>Just make sure to include my name in his will.</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah yes, a reward is it? I will do my best to compensate you for your trouble.</Source>
-      <Dest>Ah yes, a reward is it? I will do my best to compensate you for your trouble.</Dest>
-    </String>
-    <String List="0">
-      <Source>For now. Foromir doesn't seem like he will let this go.</Source>
-      <Dest>For now. Foromir doesn't seem like he will let this go.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, and the fact that the Jarl never made a decree means there will be no record of this trial.</Source>
-      <Dest>Yes, and the fact that the Jarl never made a decree means there will be no record of this trial.</Dest>
-    </String>
-    <String List="0">
-      <Source>For now. Foromir doesn't seem like he will let this go.</Source>
-      <Dest>For now. Foromir doesn't seem like he will let this go.</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, it will be a while before it's forgotten. And time will only weaken his case. </Source>
-      <Dest>Still, it will be a while before it's forgotten. And time will only weaken his case. </Dest>
-    </String>
-    <String List="0">
-      <Source>Lies. Everything that man said is a lie.</Source>
-      <Dest>Lies. Everything that man said is a lie.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, but rumors have a way of influencing decisions, even if they are groundless.</Source>
-      <Dest>Yes, but rumors have a way of influencing decisions, even if they are groundless.</Dest>
-    </String>
-    <String List="0">
-      <Source>Oh right, I forgot to mention what a horrible person I am.</Source>
-      <Dest>Oh right, I forgot to mention what a horrible person I am.</Dest>
-    </String>
-    <String List="2">
-      <Source>And you agreed to be a witness? By Stuhn, just whose side are you on?</Source>
-      <Dest>And you agreed to be a witness? By Stuhn, just whose side are you on?</Dest>
-    </String>
-    <String List="0">
-      <Source>The behavior of my associates does not reflect my own personal principles.</Source>
-      <Dest>The behavior of my associates does not reflect my own personal principles.</Dest>
-    </String>
-    <String List="2">
-      <Source>It doesn't matter. The court won't see it that way.</Source>
-      <Dest>It doesn't matter. The court won't see it that way.</Dest>
-    </String>
-    <String List="0">
-      <Source>Actually, I've seen enough. I'm ready for the trial.</Source>
-      <Dest>确实，我已经看得够多，为接受考验（审讯?）做好了准备。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alright, then your next stop should be the Blue Palace in Solitude. I'll be heading there myself to deliver this document.</Source>
-      <Dest>好吧，那么你的下一站应该是孤独城的蓝色宫殿。我会自己去那里交付这个文件。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Actually, I've seen enough. I'm ready for the trial.</Source>
-      <Dest>确实，我已经看得够多，为接受考验（审讯?）做好了准备。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hopefully with your testimony, we'll be able to clear my father of any wrongdoing.</Source>
-      <Dest>希望有了你的证据以后，我们就可以把我的父亲从不法行为的指控中解救出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll do my best to remain objective.</Source>
-      <Dest>我会尽力保持客观公正的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you. I'll make my way to Solitude and inform the court you'll be serving as a witness.</Source>
-      <Dest>Thank you. I'll make my way to Solitude and inform the court you'll be serving as a witness.</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll do my best to remain objective.</Source>
-      <Dest>我会尽力保持客观公正的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hopefully with your testimony, we'll be able to clear my father of any wrongdoing.</Source>
-      <Dest>希望有了你的证据以后，我们就可以把我的父亲从不法行为的指控中解救出来。</Dest>
-    </String>
     <String List="0">
       <Source>I don't care.</Source>
       <Dest>我不在乎。</Dest>
     </String>
-    <String List="2">
-      <Source>I'm sorry you feel that way. I realize my father's life means nothing to you, but justice for the innocent is something we should all care about.</Source>
-      <Dest>你会那样想我感到遗憾。我很清楚我父亲的生命对你来说毫无意义，但这愚蠢的正义是我们都该关心的。</Dest>
-    </String>
     <String List="0">
       <Source>I don't care.</Source>
       <Dest>我不在乎。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm going to head back to Solitude to deliver the document. Hopefully you'll change your mind by then.</Source>
-      <Dest>我要往回赶，到独孤城送文件去。但愿到时候你能改变主意。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, let's proceed then.</Source>
-      <Dest>好吧，让我们继续进行。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.</Source>
-      <Dest>当然。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.</Source>
-      <Dest>当然了。</Dest>
     </String>
     <String List="0">
       <Source>What happened to the house?</Source>
       <Dest>那房子怎么了？</Dest>
     </String>
-    <String List="2">
-      <Source>During the fight, a candlehorn got knocked over. By the time the snow came, half the place was burned down, along with much of the evidence.</Source>
-      <Dest>在战斗中，一只烛台被撞倒了。那正是下雪之时，大部分的证据和一半儿地方都被烧毁了。</Dest>
+    <String List="0">
+      <Source>Of course.</Source>
+      <Dest>当然。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>I'll do my best to remain objective.</Source>
+      <Dest>我会尽力保持客观公正的。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>I'll do my best to remain objective.</Source>
+      <Dest>我会尽力保持客观公正的。</Dest>
     </String>
     <String List="0">
-      <Source>Are you sure his story is accurate? What if the evidence says otherwise?</Source>
-      <Dest>你确定他的故事都是准确的？ 要是证据是以其他方式呈现的会怎样？</Dest>
+      <Source>Here's the lease agreement.</Source>
+      <Dest>这里是契约书。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here's the lease agreement.</Source>
+      <Dest>这里是契约书。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have time for that.</Source>
+      <Dest>我没那个闲时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't have time for that.</Source>
+      <Dest>我没那个闲时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你接下来打算做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I've seen enough. I'm ready for the trial.</Source>
+      <Dest>实际上，我已经看够了，对于那官司我已经做好准备了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I've seen enough. I'm ready for the trial.</Source>
+      <Dest>实际上，我已经看够了，对于那官司我已经做好准备了。</Dest>
     </String>
     <String List="2">
       <Source>That's partly why you're here. I need an objective witness with no stake in either side.</Source>
       <Dest>那也是你在这里的原因之一。我需要一个不偏向任何一方的客观证人。</Dest>
     </String>
     <String List="2">
-      <Source>Well, is it true? Do you have the document? Is it signed by Yngrid?</Source>
-      <Dest>噢？真的？你有文书么？是安格瑞德签过名的么？</Dest>
+      <Source>During the fight, a candlehorn got knocked over. By the time the snow came, half the place was burned down, along with much of the evidence.</Source>
+      <Dest>在战斗中，一只烛台被撞倒了。那正是下雪之时，大部分的证据和一半儿地方都被烧毁了。</Dest>
     </String>
     <String List="2">
-      <Source>Good, you came. There's a lot going on here, but we need to find things that corroborate with my father's version of what happened.</Source>
-      <Dest>很好，你来了。这里发生了很多事，但我们需要找到能证实我父亲说法的证据。</Dest>
+      <Source>I'm sorry you feel that way. I realize my father's life means nothing to you, but justice for the innocent is something we should all care about.</Source>
+      <Dest>你会那样想我感到遗憾。我很清楚我父亲的生命对你来说毫无意义，但这愚蠢的正义是我们都该关心的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, then your next stop should be the Blue Palace in Solitude. I'll be heading there myself to deliver this document.</Source>
+      <Dest>好吧，那么你的下一站应该是孤独城的蓝色宫殿。我会自己去那里交付这个文件。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It proves my father had a right to be on the land. He signed a lease with one of the Jarl's old Thanes, back when she was in court.</Source>
+      <Dest>它证明了我父亲在此地立足的权利。他和领主手下的老爵绅之一签了份租约，加背书于她在法庭上的时候。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="2">
       <Source>Given how detailed my father was, I wouldn't be surprised if your findings match his story. </Source>
       <Dest>既然已经给我详细地描述了我的父亲，那你的发现与他的故事相吻合这点也没什么好惊讶的了。</Dest>
     </String>
     <String List="2">
-      <Source>You may also find some things about him that may help in the trial.</Source>
-      <Dest>你也可以找一些别的东西，可能会对官司有所帮助的关于他的东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>That was amazing! You buried him with his own lies. It was fun watching him try and dig his way out.</Source>
-      <Dest>That was amazing! You buried him with his own lies. It was fun watching him try and dig his way out.</Dest>
-    </String>
-    <String List="2">
-      <Source>Barring any surprises, I'm sure Elisif will rule in our favor.</Source>
-      <Dest>Barring any surprises, I'm sure Elisif will rule in our favor.</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I'm not sure who won that battle. You made some good points, but he was able to squirm away unscathed.</Source>
-      <Dest>Well, I'm not sure who won that battle. You made some good points, but he was able to squirm away unscathed.</Dest>
-    </String>
-    <String List="2">
-      <Source>At this point, I don't know what Elisif will say. Let's hope there aren't any more surprises.</Source>
-      <Dest>At this point, I don't know what Elisif will say. Let's hope there aren't any more surprises.</Dest>
-    </String>
-    <String List="2">
-      <Source>(Sigh) That could've gone better. At this rate, we might be better off demanding a trial by combat.</Source>
-      <Dest>(Sigh) That could've gone better. At this rate, we might be better off demanding a trial by combat.</Dest>
-    </String>
-    <String List="2">
-      <Source>Because Elisif is certainly going to rule in Foromir's favor.</Source>
-      <Dest>Because Elisif is certainly going to rule in Foromir's favor.</Dest>
-    </String>
-    <String List="2">
-      <Source>What? Is this true? Why didn't you tell me sooner?</Source>
-      <Dest>What? Is this true? Why didn't you tell me sooner?</Dest>
-    </String>
-    <String List="2">
-      <Source>By Julianos, you did it! You saved my father's life!</Source>
-      <Dest>By Julianos, you did it! You saved my father's life!</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn, I feel like a fool. This is what he wanted from the beginning.</Source>
-      <Dest>Damn, I feel like a fool. This is what he wanted from the beginning.</Dest>
-    </String>
-    <String List="0">
-      <Source>Who is Yngrid Far-Sky?</Source>
-      <Dest>Who is Yngrid Far-Sky?</Dest>
-    </String>
-    <String List="2">
-      <Source>A respected Thane who moved to Hammerfell to help push back the Dominion.</Source>
-      <Dest>那是一位曾回到落锤省去抵御先祖神州侵略的受人尊敬的男爵。</Dest>
-    </String>
-    <String List="0">
-      <Source>Who is Yngrid Far-Sky?</Source>
-      <Dest>Who is Yngrid Far-Sky?</Dest>
-    </String>
-    <String List="2">
-      <Source>She owned the farm and the plot of land my father leased. But they never made a contract, as a Nord's word is as strong as steel.</Source>
-      <Dest>She owned the farm and the plot of land my father leased. But they never made a contract, as a Nord's word is as strong as steel.</Dest>
-    </String>
-    <String List="0">
-      <Source>Who is Yngrid Far-Sky?</Source>
-      <Dest>Who is Yngrid Far-Sky?</Dest>
-    </String>
-    <String List="2">
       <Source>But that isn't good enough in a trial. Thus we had to send word to Hammerfell to have her sign the papers.</Source>
       <Dest>但不能指望它总是应验。因此我们得带个话到落锤省，让她在契约上签个字。</Dest>
     </String>
     <String List="2">
-      <Source>Ugh...You're right. Fine. You have a deal.</Source>
-      <Dest>Ugh...You're right. Fine. You have a deal.</Dest>
+      <Source>One of the men was gravely injured. Now the other wants my father punished.</Source>
+      <Dest>那些人中的一个伤得挺重。现在他们中的其他人想要惩罚我的父亲。</Dest>
     </String>
     <String List="2">
-      <Source>Then it's a trial by combat. Foromir, you dog, you know damn well my father can't win!</Source>
-      <Dest>Then it's a trial by combat. Foromir, you dog, you know damn well my father can't win!</Dest>
+      <Source>That's up for debate. But if these men were trespassing, it will certainly help his case.</Source>
+      <Dest>这事还需要进一步地讨论。但如果那些人确实是加害者，那当然会对他的案子产生积极的影响。</Dest>
     </String>
     <String List="2">
-      <Source>I swear Foromir, I knew nothing of this. But it doesn't matter now. Clearly this trial has been tainted.</Source>
-      <Dest>I swear Foromir, I knew nothing of this. But it doesn't matter now. Clearly this trial has been tainted.</Dest>
+      <Source>I'm going to head back to Solitude to deliver the document. Hopefully you'll change your mind by then.</Source>
+      <Dest>我要往回赶，到独孤城送文件去。但愿到时候你能改变主意。</Dest>
     </String>
     <String List="2">
-      <Source>Now, I'm off to meet my father. I didn't have anything specific planned, but I I'll just order a pint of mead and let it take care of the rest.</Source>
-      <Dest>Now, I'm off to meet my father. I didn't have anything specific planned, but I I'll just order a pint of mead and let it take care of the rest.</Dest>
+      <Source>I understand. You've already done enough. Should you change your mind, I'll be waiting over at Winterfrost Cottage.</Source>
+      <Dest>我懂。你已经做得够多的了。你应该改变一下想法，我会在冬霜小屋那等你。</Dest>
     </String>
     <String List="2">
-      <Source>Now, I must go see him. I am responsible for this outcome, so I must bear the news. </Source>
-      <Dest>Now, I must go see him. I am responsible for this outcome, so I must bear the news. </Dest>
+      <Source>Well, is it true? Do you have the document? Is it signed by Yngrid?</Source>
+      <Dest>噢？真的？你有文书么？是安格瑞德签过名的么？</Dest>
     </String>
     <String List="2">
-      <Source>At the very least, he will sleep soundly tonight, as a free man.</Source>
-      <Dest>At the very least, he will sleep soundly tonight, as a free man.</Dest>
+      <Source>I don't care.</Source>
+      <Dest>我不在乎。</Dest>
     </String>
     <String List="2">
-      <Source>Now what?</Source>
-      <Dest>Now what?</Dest>
+      <Source>I don't care.</Source>
+      <Dest>我不在乎。</Dest>
     </String>
     <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
+      <Source>Thank you, salvager. Hopefully, having another set of eyes will help.</Source>
+      <Dest>谢谢你，好心人。但愿吧，多一双眼睛总多一份希望嘛。</Dest>
     </String>
     <String List="2">
-      <Source>Liar!</Source>
-      <Dest>骗子！</Dest>
+      <Source>A few nobles from Solitude were out hunting and trespassed on my father's land. He mistook them for thieves, and well...things got bloody.</Source>
+      <Dest>从孤独城来的几个贵族外出狩猎并擅自闯入我父亲的土地。他误以为他们是小偷，然后...事情就变得血腥了。</Dest>
     </String>
     <String List="2">
-      <Source>Foromir, there's still time to end this folly. The lease agreement proves you were trespassing.</Source>
-      <Dest>法拉莫，你还有机会来停止你那愚蠢的行为。这份合同证明是你在私闯民宅。</Dest>
+      <Source>Hopefully with your testimony, we'll be able to clear my father of any wrongdoing.</Source>
+      <Dest>希望有了你的证据以后，我们就可以把我的父亲从不法行为的指控中解救出来。</Dest>
     </String>
     <String List="2">
-      <Source>I had the Captain of the Guard vet him, just as he did with your apothecary.</Source>
-      <Dest>我已经让守卫队长去照看他了，就像以前和你们这些药剂师一同做的事情一样。</Dest>
+      <Source>Hopefully with your testimony, we'll be able to clear my father of any wrongdoing.</Source>
+      <Dest>希望有了你的证据以后，我们就可以把我的父亲从不法行为的指控中解救出来。</Dest>
     </String>
     <String List="2">
-      <Source>I had the Captain of the Guard vet her, just as he did with your apothecary.</Source>
-      <Dest>I had the Captain of the Guard vet her, just as he did with your apothecary.</Dest>
+      <Source>Then there's still hope, but it might not be enough. I was wondering, perhaps, if I could loan your services. </Source>
+      <Dest>那么说还有一线希望，但这远远不够。我恳请，能否请您借我一臂之力？</Dest>
     </String>
     <String List="2">
-      <Source>Praise the Divines, you're here. Come on, let me introduce you.</Source>
-      <Dest>Praise the Divines, you're here. Come on, let me introduce you.</Dest>
+      <Source>Now if you'll excuse me, I must be on my way.</Source>
+      <Dest>现在请你原谅，我必须上路了。</Dest>
     </String>
     <String List="2">
-      <Source>I think it's clear to both you and the court that he cannot be held accountable for your injuries.</Source>
-      <Dest>我觉得很明显不管是你还是宫廷都无法为你的伤势负责。</Dest>
+      <Source>Of course.</Source>
+      <Dest>当然了。</Dest>
     </String>
     <String List="2">
-      <Source>My Jarl, if I may, the witness I spoke of earlier has arrived.</Source>
-      <Dest>我的领主，容我插上一句，刚才提到的证人到了。</Dest>
+      <Source>You may also find some things about him that may help in the trial.</Source>
+      <Dest>你也可以找一些关于他的事情，可能会对实验有所帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good, you came. There's a lot going on here, but we need to find things that corroborate with my father's version of what happened.</Source>
+      <Dest>很好，你来了。这里发生了很多事，但我们需要找到能证实我父亲说法的证据。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm on my way to the site of the altercation to see if I can find more evidence. It would help to have another set of eyes.</Source>
+      <Dest>我正要去争执现场看看能否能找到更多的证据。如果能多一双眼睛的话，这会很有帮助的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>A respected Thane who moved to Hammerfell to help push back the Dominion.</Source>
+      <Dest>那是一位曾回到落锤省去抵御先祖神州侵略的受人尊敬的男爵。</Dest>
     </String>
     <String List="2">
       <Source>Given he's examined the scene of the altercation, I'd like to have him cross-examine Foromir's testimony.</Source>
       <Dest>鉴于他目睹了整场争执的经过，我想就法拉莫的证词与他对质。</Dest>
     </String>
     <String List="2">
-      <Source>My Jarl, if I may, the witness I spoke of earlier has arrived.</Source>
-      <Dest>我的领主，容我插上一句，刚才提到的证人到了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Given she's examined the scene of the altercation, I'd like to have her cross-examine Foromir's testimony.</Source>
-      <Dest>Given she's examined the scene of the altercation, I'd like to have her cross-examine Foromir's testimony.</Dest>
-    </String>
-    <String List="2">
-      <Source>Eventually, things got heated, and shots were fired. These arrows are proof of that.</Source>
-      <Dest>Eventually, things got heated, and shots were fired. These arrows are proof of that.</Dest>
-    </String>
-    <String List="2">
-      <Source>My father ran inside and got his axe. There was fight near the hearth, when one of them knocked over a candlehorn.</Source>
-      <Dest>我父亲冲进去提起斧子。战斗是在炉火边发生的，他们中的一个还打翻了烛台。</Dest>
-    </String>
-    <String List="2">
       <Source>When the fire started, everyone, including my father, fled.</Source>
       <Dest>当大火降临的时候，每个人，包括我的父亲，他们四下逃窜。</Dest>
     </String>
     <String List="2">
-      <Source>But out here, you can never be too careful. My father demanded the strangers to leave the property and take the deer with them.</Source>
-      <Dest>但在这里，你再怎么小心也不过分。我父亲让那些人放下东西，还把他们打获的鹿给拿走了。</Dest>
+      <Source>Foromir, there's still time to end this folly. The lease agreement proves you were trespassing.</Source>
+      <Dest>法拉莫，你还有机会来停止你那愚蠢的行为。这份合同证明是你在私闯民宅。</Dest>
     </String>
     <String List="2">
-      <Source>The strangers were insulted. In hindsight, my father should have shown more tact. Nobody likes to be called a thief.</Source>
-      <Dest>那些陌生人感到被侮辱了。回想起来，我的父亲应该更机智一些。没人喜欢被当作小偷。</Dest>
+      <Source>My Jarl, if I may, the witness I spoke of earlier has arrived.</Source>
+      <Dest>我的领主，容我插上一句，刚才提到的证人到了。</Dest>
     </String>
     <String List="2">
-      <Source>Smelling my father's dinner, they offered to share the venison in exchange for a drink and a warm fire. On this much, both sides agree.</Source>
-      <Dest>闻到我父亲晚餐的香气，他们愿意用饮料和温暖的炉火为交换和我们共享野味。皆大欢喜，于是双方都同意了。</Dest>
-    </String>
-    <String List="2">
-      <Source>My father said he was cooking dinner when he heard a commotion outside. The trespassers must have shot down the deer.</Source>
-      <Dest>我父亲说他听到外面的骚乱之声时正在做晚饭。那些入侵者一定是射中了那头鹿。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine. Once my father's name is cleared you'll be paid in full. Just bill me with the details.</Source>
-      <Dest>好吧。由我父亲的名字做保，你就能拿到所有钱。现在快把详细的账目给我吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>But first I want to verify the document.</Source>
-      <Dest>但首先我想核实一下那份文件。</Dest>
+      <Source>My Jarl, if I may, the witness I spoke of earlier has arrived.</Source>
+      <Dest>我的领主，容我插上一句，刚才提到的证人到了。</Dest>
     </String>
     <String List="2">
       <Source>You greedy son of a bitch! I'm going to tear the skin off your skull!</Source>
       <Dest>你这个婊子养的蠢货！我要把你的头砍下来当夜壶！</Dest>
     </String>
     <String List="2">
-      <Source>And how are you going to refund my father's life? There is no amount of gold that can compensate me for that!</Source>
-      <Dest>你打算拿什么来偿还我父亲的命？这绝对不是钱的问题！</Dest>
+      <Source>Liar!</Source>
+      <Dest>骗子！</Dest>
+    </String>
+    <String List="2">
+      <Source>But out here, you can never be too careful. My father demanded the strangers to leave the property and take the deer with them.</Source>
+      <Dest>但在这里，你再怎么小心也不过分。我父亲让那些人放下东西，还把他们打获的鹿给拿走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My father ran inside and got his axe. There was fight near the hearth, when one of them knocked over a candlehorn.</Source>
+      <Dest>父亲冲进去提起斧子。战斗是在炉火边发生的，他们中的一个还打翻了烛台。</Dest>
+    </String>
+    <String List="2">
+      <Source>The strangers were insulted. In hindsight, my father should have shown more tact. Nobody likes to be called a thief.</Source>
+      <Dest>那些陌生人感到被侮辱了。回想起来，我的父亲应该更机智一些。没人喜欢被当作小偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>My father said he was cooking dinner when he heard a commotion outside. The trespassers must have shot down the deer.</Source>
+      <Dest>我父亲说他听到外面的骚乱之声时正在做晚饭。那些入侵者一定射中了那头鹿。</Dest>
+    </String>
+    <String List="2">
+      <Source>But first I want to verify the document.</Source>
+      <Dest>但首先我想核实一下那份文件。</Dest>
     </String>
     <String List="2">
       <Source>The Autumn Gale is at the bottom of the ocean. Who's to say the documents are even legible?</Source>
       <Dest>秋风号在海底，谁他妈说的这文件这么好找？</Dest>
     </String>
     <String List="2">
-      <Source>It's already decided, father. May our ancestors be witness to your glory.</Source>
-      <Dest>It's already decided, father. May our ancestors be witness to your glory.</Dest>
+      <Source>And how are you going to refund my father's life? There is no amount of gold that can compensate me for that!</Source>
+      <Dest>你打算拿什么来偿还我父亲的命？这绝对不是钱的问题！</Dest>
     </String>
     <String List="2">
-      <Source>A trial by combat? That's absurd!</Source>
-      <Dest>A trial by combat? That's absurd!</Dest>
+      <Source>Smelling my father's dinner, they offered to share the venison in exchange for a drink and a warm fire. On this much, both sides agree.</Source>
+      <Dest>闻到我父亲晚餐的香气，他们愿意用饮料和温暖的炉火为交换和我们共享野味。皆大欢喜，于是双方都同意了。</Dest>
     </String>
     <String List="2">
-      <Source>I don't think I'm ready for this. Fighting out in the wild is one thing...but formal combat is another thing entirely.</Source>
-      <Dest>I don't think I'm ready for this. Fighting out in the wild is one thing...but formal combat is another thing entirely.</Dest>
+      <Source>I think it's clear to both you and the court that he cannot be held accountable for your injuries.</Source>
+      <Dest>我觉得很明显不管是你还是宫廷都无法为你的伤势负责。</Dest>
     </String>
     <String List="2">
-      <Source>Divines protect me...this will not end well.</Source>
-      <Dest>Divines protect me...this will not end well.</Dest>
+      <Source>I had the Captain of the Guard vet him, just as he did with your apothecary.</Source>
+      <Dest>我已经让守卫队长去照看他了，就像以前和你们这些药剂师一同做的事情一样。</Dest>
     </String>
     <String List="2">
-      <Source>I'm proud of my son. He did his best. But that doesn't make this any easier.</Source>
-      <Dest>I'm proud of my son. He did his best. But that doesn't make this any easier.</Dest>
-    </String>
-    <String List="2">
-      <Source>I've lost so much strength from being in that dungeon. There's no way I can win.</Source>
-      <Dest>I've lost so much strength from being in that dungeon. There's no way I can win.</Dest>
-    </String>
-    <String List="2">
-      <Source>I think it's time my father moved back to the city. The wilds are too treacherous for someone his age.</Source>
-      <Dest>I think it's time my father moved back to the city. The wilds are too treacherous for someone his age.</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll be back hunting and fishing soon, friend. You never appreciate the open sky until it's taken away from you.</Source>
-      <Dest>I'll be back hunting and fishing soon, friend. You never appreciate the open sky until it's taken away from you.</Dest>
-    </String>
-    <String List="2">
-      <Source>My father will face Foromir in battle like a true Nord.</Source>
-      <Dest>My father will face Foromir in battle like a true Nord.</Dest>
-    </String>
-    <String List="2">
-      <Source>If he does fall, I know our ancestors will watch over him, just as watched over me in this life.</Source>
-      <Dest>If he does fall, I know our ancestors will watch over him, just as watched over me in this life.</Dest>
-    </String>
-    <String List="2">
-      <Source>I'd like some time alone with my Da. Please, leave us.</Source>
-      <Dest>I'd like some time alone with my Da. Please, leave us.</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you again for helping secure my Da's freedom.</Source>
-      <Dest>Thank you again for helping secure my Da's freedom.</Dest>
-    </String>
-    <String List="2">
-      <Source>You're more than welcome to upgrade that armor I gave you, but it's enchanted, so you'll need to know how to forge magical items.</Source>
-      <Dest>You're more than welcome to upgrade that armor I gave you, but it's enchanted, so you'll need to know how to forge magical items.</Dest>
-    </String>
-    <String List="2">
-      <Source>Tell the innkeeper to send us another pint! My son and I are celebrating!</Source>
-      <Dest>Tell the innkeeper to send us another pint! My son and I are celebrating!</Dest>
-    </String>
-    <String List="2">
-      <Source>Those hunters had no business being at the cottage. How did I know they weren't bandits?</Source>
-      <Dest>Those hunters had no business being at the cottage. How did I know they weren't bandits?</Dest>
-    </String>
-    <String List="2">
-      <Source>I hear I have you to thank for my freedom! And what better way to repay you then with a bottle of mead!</Source>
-      <Dest>I hear I have you to thank for my freedom! And what better way to repay you then with a bottle of mead!</Dest>
+      <Source>Fine. Once my father's name is cleared you'll be paid in full. Just bill me with the details.</Source>
+      <Dest>好吧。由我父亲的名字做保，你就能拿到所有钱。现在快把详细的账目给我吧。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

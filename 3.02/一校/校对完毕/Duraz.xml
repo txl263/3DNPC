@@ -6,321 +6,557 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>Looks like I'm about to collect on my pay.  Don't bother trying to keep up.</Source>
-      <Dest>看来自己的钱得自己赚了，别管了跟上来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Times like now I wish I was a painter.  Scene like this could be worth a fortune.</Source>
-      <Dest>此时此刻我真想当个画家。如此美景价值连城啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Is this one of those ancient Snow Elf cities?  No wait, don't tell me.  I'll figure it out.</Source>
-      <Dest>这就是那些古老的雪精灵城市中的其中一座么？不，别告诉我答案。我会自己找出答案来的。</Dest>
-    </String>
-    <String List="2">
-      <Source>A cave.  Well, don't just stand there looking stupid, let's go.  Treasure's waiting.</Source>
-      <Dest>一个山洞。好了，别戳在那傻儿看着了，走吧。宝藏在等着我们呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>What's this?  Looks like some sort of temple.  I know I said I keep what I kill, but I'm not sure there's anything in here that isn't already dead.</Source>
-      <Dest>What's this?  Looks like some sort of temple.  I know I said I keep what I kill, but I'm not sure there's anything in here that isn't already dead.</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
-      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
       <Source>Wait here for a moment.</Source>
       <Dest>在这儿等一下。</Dest>
     </String>
-    <String List="2">
-      <Source>Fine. You get into trouble, I'll just follow the screaming.</Source>
-      <Dest>好。如果你惹上了麻烦，我就循着你的尖叫来找你。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
     <String List="0">
       <Source>Wait here for a moment.</Source>
       <Dest>在这儿等一下。</Dest>
     </String>
-    <String List="2">
-      <Source>All right then.</Source>
-      <Dest>那好吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
     <String List="0">
       <Source>Wait here for a moment.</Source>
       <Dest>在这儿等一下。</Dest>
-    </String>
-    <String List="2">
-      <Source>Uh-huh.</Source>
-      <Dest>嗯哼。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Lead on then.</Source>
-      <Dest>带路吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>{Departs}</Source>
-      <Dest>{离开 }</Dest>
-    </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was getting sick of your face anyway.</Source>
-      <Dest>不管怎么说，我有点看厌你这张脸了。</Dest>
     </String>
     <String List="0">
       <Source>It's nothing. Never mind.</Source>
       <Dest>没什么事，不用担心。</Dest>
     </String>
-    <String List="2">
-      <Source>About time.</Source>
-      <Dest>是时候了。</Dest>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
     </String>
     <String List="0">
       <Source>Yes. Let me show you.</Source>
       <Dest>不错，你看看。</Dest>
     </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的</Dest>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
     </String>
-    <String List="2">
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
       <Source>Okay.</Source>
       <Dest>好的。</Dest>
     </String>
-    <String List="2">
-      <Source>Hurry up.</Source>
-      <Dest>快点儿。</Dest>
+    <String List="0">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
     </String>
     <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟我走。</Dest>
     </String>
     <String List="0">
       <Source>Duraz, I need you to do something for me.</Source>
       <Dest>杜菈兹，我需要你帮个忙。</Dest>
     </String>
     <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>So be it.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just remember our bargain.</Source>
-      <Dest>只要记住我们的契约。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just remember our bargain.</Source>
-      <Dest>只要记住我们的契约。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Uh-huh.</Source>
-      <Dest>嗯哼。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's impossible.</Source>
-      <Dest>这不可能。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nope, can't do it.</Source>
-      <Dest>不，别这样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not for you, not for nobody.</Source>
-      <Dest>我不能为你那么做，谁也不能要我那么做。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.</Source>
-      <Dest>好的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Zzzzz...</Source>
-      <Dest>Zzzzz……</Dest>
-    </String>
-    <String List="2">
-      <Source>I didn't get a traditional childhood.  No one taught me how to ride a horse, or how babies are made.  So what.  I think I turned out pretty well.</Source>
-      <Dest>我的童年不平常，没人告诉我怎样骑马，或者孩子是从哪里来的。那又怎样，我觉得我过的还不错。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Stronghold taught me how to fight and how to forge.  The first one I took to quickly, the second hasn't really taken.</Source>
-      <Dest>据点教会了我如何战斗和如何熔炼。第一个我学的很快，第二个学的还不是太好。</Dest>
-    </String>
-    <String List="2">
-      <Source>One day my father's horse broke down, and I carried the cart and the dead corpse all the way back to Kynesgrove. So I can hold your stuff if need be.</Source>
-      <Dest>有一天我父亲的马挂掉了，于是我独自把马车和尸体一路运回基耐森林。所以，如果你需要的话，我能帮你拿东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>In the Stronghold they taught us how to keep only what we needed to survive.  They taught us a lot of crap, but that much was true.</Source>
-      <Dest>在要塞里他们只教我们生存的必要技能。他们对我们说了很多废话，但那些话一点都不假。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was wondering...do the Khajiits really call their home "Elsewhere?" Or is that some cat joke I'm not getting?</Source>
-      <Dest>我在想...虎人真的管他们的家叫“别的什么地方”？或者这是什么我不懂的猫咪玩笑？</Dest>
-    </String>
-    <String List="2">
-      <Source>Garakh once said she envied the rivalry Ugor and I had. Said without someone to push you, you never reach your potential. Lucky for you, you got me.</Source>
-      <Dest>加拉卡说过她羡慕我有个乌戈尔跟自己竞争。要是没有人逼你的话，你永远也发挥不了自己的潜能。你真走运，因为你有我了。</Dest>
-    </String>
-    <String List="2">
-      <Source>They say the forge-wife is the most important member of any Stronghold.  Yet not important enough to have a husband to herself.</Source>
-      <Dest>他们说铁匠有个老婆在任何要塞都很重要. 但是她们觉得有老公更重要。</Dest>
-    </String>
-    <String List="2">
-      <Source>You made the best choice of your life, hiring me.  Might as well kill yourself since it's all downhill from here.  Just leave me the gold if you do.</Source>
-      <Dest>雇我是你这辈子最好的选择。从这里到山下的路的危险程度对你可能也是致命的，如果你想开始，准备好钱就行了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes, I don't get these insults people throw at me, even when I use them myself. Like "horn blower." What the hell's wrong with blowing a horn?</Source>
-      <Dest>很多时候，都搞不懂那些人骂我什么，就算我自己也用那话骂别人。比如说“吹号角的”。你说吹个号角有什么可丢人的呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>I think I've figured out why humans and Elves touch their lips together.  It must be some type of grooming ritual, like cats who lick their behind.</Source>
-      <Dest>我想我解释通了为什么人类和精灵要摸嘴唇。那一定是一种仪容礼节，就像猫儿舔后背一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>In a dream, I once saw my mother.  I asked her when she first realized something was wrong with the tribal laws.  She said, "Birth."</Source>
-      <Dest>在梦里，我见过我妈妈了。我问她，她什么时候开始觉得部落法律这事情不对劲的。她说：“从你出生开始。”</Dest>
-    </String>
-    <String List="2">
-      <Source>They say the Skyforge is like magic.  Any blade touched by its fire gains a third edge or can cut air or something like that.  </Source>
-      <Dest>他们说天空熔炉具有魔力。任何炉火接触过的剑锋似乎拥有了第三刃，彷佛连空气都能劈开。</Dest>
-    </String>
-    <String List="2">
-      <Source>Riften.  The first thief that tries to steal my coin I'm going to shove my mace down his throat.  That'll make the second thief lose his nerve.</Source>
-      <Dest>裂谷城。第一个盗贼想偷我的硬币，我用钉头锤砸断他了的喉咙。而第二个盗贼就失去了他的勇气。</Dest>
-    </String>
-    <String List="2">
-      <Source>Man, you can smell that old person scent all the way up from Helgen. They say it's the incense they burn at the Temple of Arkay. Might be the priest.</Source>
-      <Dest>嘿，你从海尔根来的这一路上一定能闻到从那老家伙身上散发的气味吧。他们说这气味是阿尔凯神庙里熏香的气味。他一定是个祭司。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yikes, I just noticed all the name's here.  Did we just stumble into some ghost town?  Are these people even alive?</Source>
-      <Dest>呀，我只是注意到了这里的这些名字。我们是撞进鬼城了么？这些人还活着么？</Dest>
+      <Source>Can you imagine if they painted the whole palace blue?  It'd be practically invisible at twilight.</Source>
+      <Dest>你能想象要是他们把整个宫殿都漆成蓝色会如何呢？到了黄昏那宫殿就会会和天色融为一体。</Dest>
     </String>
     <String List="2">
       <Source>Markarth.  Where there's ore, you'll find Orcs.  Like flies to a latrine.</Source>
       <Dest>马卡斯城。哪里有矿石，哪儿就有兽人。就像苍蝇老往厕所里钻。</Dest>
     </String>
     <String List="2">
-      <Source>They say the butcher's meat here is bloody.  I prefer mine charred.</Source>
-      <Dest>他们说这里屠夫卖的肉鲜血淋漓。我情愿我的那份干成焦炭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Did the Nords build all this?  It looks different from the other holds.</Source>
-      <Dest>Did the Nords build all this?  It looks different from the other holds.</Dest>
-    </String>
-    <String List="2">
-      <Source>Can you imagine if they painted the whole palace blue?  It'd be practically invisible at twilight.</Source>
-      <Dest>你能想象要是他们把整个宫殿都漆成蓝色会如何呢？到了黄昏那宫殿就会会和天色融为一体。</Dest>
+      <Source>Yikes, I just noticed all the name's here.  Did we just stumble into some ghost town?  Are these people even alive?</Source>
+      <Dest>呀，我只是注意到了这里的这些名字。我们是撞进鬼城了么？这些人还活着么？</Dest>
     </String>
     <String List="2">
       <Source>Windhelm.  You'd think I'd know this city like the back of my hand.  That's pretty much all I have for Ulfric, the way he treats outsiders.</Source>
       <Dest>风舵城。你会以为我对这座城了若指掌。要说对乌佛瑞克的了解还差不多，对于他对待外地人的态度了如指掌。</Dest>
     </String>
     <String List="2">
-      <Source>This store has everything...I wonder if they have a dress my size...Huh?  What are you looking at?  I meant armor!  Where's the blacksmith!</Source>
-      <Dest>这家店什么都有……我想知道他们是否有适合我尺寸的……嗯？你在看什么？我的意思是盔甲！铁匠呢！</Dest>
-    </String>
-    <String List="2">
       <Source>I wonder if growing a beard makes you wiser, or if wise men grow beards.  That must be why so many males are clean shaven.</Source>
       <Dest>我想知道长胡子使你更明智，当然这仅限智者。这大概也是大多数男人急于把胡子刮得干干净净的原因吧。</Dest>
     </String>
     <String List="2">
-      <Source>I don't feel sorry for the Elves in this town. A carriage will take you to Riften for the price of three mammoth steaks.  Nothing's keeping you here.</Source>
-      <Dest>I don't feel sorry for the Elves in this town. A carriage will take you to Riften for the price of three mammoth steaks.  Nothing's keeping you here.</Dest>
+      <Source>Sometimes, I don't get these insults people throw at me, even when I use them myself. Like "horn blower." What the hell's wrong with blowing a horn?</Source>
+      <Dest>很多时候，都搞不懂那些人骂我什么，就算我自己也用那话骂别人。比如说“吹号角的”。你说吹个号角有什么可丢人的呢？</Dest>
     </String>
     <String List="2">
-      <Source>I heard this city has an orphanage.  Why couldn't my father have dumped me here instead of that torture chamber of a Stronghold?</Source>
-      <Dest>I heard this city has an orphanage.  Why couldn't my father have dumped me here instead of that torture chamber of a Stronghold?</Dest>
+      <Source>Just remember our bargain.</Source>
+      <Dest>只要记住我们的契约。</Dest>
     </String>
     <String List="2">
-      <Source>My father should have been happy living here in Kynesgrove.  He had a beautiful daughter and a steady job.  I just don't get it.</Source>
-      <Dest>我父亲本可以在基耐森林这儿幸福地生活下去。他有一个漂亮的女儿和一份稳定的工作。我想不明白。</Dest>
+      <Source>Just remember our bargain.</Source>
+      <Dest>只要记住我们的契约。</Dest>
+    </String>
+    <String List="2">
+      <Source>This store has everything...I wonder if they have a dress my size...Huh?  What are you looking at?  I meant armor!  Where's the blacksmith!</Source>
+      <Dest>这家店什么都有……我想知道他们是否有适合我尺寸的……嗯？你在看什么？我的意思是盔甲！铁匠呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>{Departs}</Source>
+      <Dest>{离开 }</Dest>
+    </String>
+    <String List="2">
+      <Source>Riften.  The first thief that tries to steal my coin I'm going to shove my mace down his throat.  That'll make the second thief lose his nerve.</Source>
+      <Dest>裂谷城。第一个盗贼想偷我的硬币，我用钉头锤砸断他了的喉咙。而第二个盗贼就失去了他的勇气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Zzzzz...</Source>
+      <Dest>Zzzzz……</Dest>
+    </String>
+    <String List="2">
+      <Source>I was getting sick of your face anyway.</Source>
+      <Dest>不管怎么说，我有点看厌你这张脸了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't get a traditional childhood.  No one taught me how to ride a horse, or how babies are made.  So what.  I think I turned out pretty well.</Source>
+      <Dest>我的童年不平常，没人告诉我怎样骑马，或者孩子是从哪里来的。那又怎样，我觉得我过的还不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hurry up.</Source>
+      <Dest>快点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the Skyforge is like magic.  Any blade touched by its fire gains a third edge or can cut air or something like that.  </Source>
+      <Dest>他们说天空熔炉具有魔力。任何炉火接触过的剑锋似乎拥有了第三刃，彷佛连空气都能劈开。</Dest>
+    </String>
+    <String List="2">
+      <Source>Garakh once said she envied the rivalry Ugor and I had. Said without someone to push you, you never reach your potential. Lucky for you, you got me.</Source>
+      <Dest>加拉卡说过她羡慕我有个乌戈尔跟自己竞争。要是没有人逼你的话，你永远也发挥不了自己的潜能。你真走运，因为你有我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nope, can't do it.</Source>
+      <Dest>不，别这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>In a dream, I once saw my mother.  I asked her when she first realized something was wrong with the tribal laws.  She said, "Birth."</Source>
+      <Dest>在梦里，我见过我妈妈了。我问她，她什么时候开始觉得部落法律这事情不对劲的。她说：“从你出生开始。”</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stronghold taught me how to fight and how to forge.  The first one I took to quickly, the second hasn't really taken.</Source>
+      <Dest>据点教会了我如何战斗和如何熔炼。第一个我学的很快，第二个学的还不是太好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Looks like I'm about to collect on my pay.  Don't bother trying to keep up.</Source>
+      <Dest>看来自己的钱得自己赚了，别管了跟上来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead on then.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>A cave.  Well, don't just stand there looking stupid, let's go.  Treasure's waiting.</Source>
+      <Dest>一个山洞。好了，别戳在那傻儿看着了，走吧。宝藏在等着我们呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You made the best choice of your life, hiring me.  Might as well kill yourself since it's all downhill from here.  Just leave me the gold if you do.</Source>
+      <Dest>雇我是你这辈子最好的选择。从这里到山下的路的危险程度对你可能也是致命的，如果你想开始，准备好钱就行了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was wondering...do the Khajiits really call their home "Elsewhere?" Or is that some cat joke I'm not getting?</Source>
+      <Dest>我在想...虎人真的管他们的家叫“别的什么地方”？或者这是什么我不懂的猫咪玩笑？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. You get into trouble, I'll just follow the screaming.</Source>
+      <Dest>好。如果你惹上了麻烦，我就循着你的尖叫来找你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Man, you can smell that old person scent all the way up from Helgen. They say it's the incense they burn at the Temple of Arkay. Might be the priest.</Source>
+      <Dest>嘿，你从海尔根来的这一路上一定能闻到从那老家伙身上散发的气味吧。他们说这气味是阿尔凯神庙里熏香的气味。他一定是个祭司。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this one of those ancient Snow Elf cities?  No wait, don't tell me.  I'll figure it out.</Source>
+      <Dest>这就是那些古老的雪精灵城市中的其中一座么？不，别告诉我答案。我会自己找出答案来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>One day my father's horse broke down, and I carried the cart and the dead corpse all the way back to Kynesgrove. So I can hold your stuff if need be.</Source>
+      <Dest>有一天我父亲的马挂掉了，于是我独自把马车和尸体一路运回基耐森林。所以，如果你需要的话，我能帮你拿东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the butcher's meat here is bloody.  I prefer mine charred.</Source>
+      <Dest>他们说这里屠夫卖的肉鲜血淋漓。我情愿我的那份干成焦炭。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think I've figured out why humans and Elves touch their lips together.  It must be some type of grooming ritual, like cats who lick their behind.</Source>
+      <Dest>我想我解释通了为什么人类和精灵要摸嘴唇。那一定是一种仪容礼节，就像猫儿舔后背一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the Stronghold they taught us how to keep only what we needed to survive.  They taught us a lot of crap, but that much was true.</Source>
+      <Dest>在要塞里他们只教我们生存的必要技能。他们对我们说了很多废话，但那些话一点都不假。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's impossible.</Source>
+      <Dest>这不可能。</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the forge-wife is the most important member of any Stronghold.  Yet not important enough to have a husband to herself.</Source>
+      <Dest>他们说铁匠有个老婆在任何要塞都很重要. 但是她们觉得有老公更重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>So be it.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not for you, not for nobody.</Source>
+      <Dest>我不能为你那么做，谁也不能要我那么做。</Dest>
+    </String>
+    <String List="2">
+      <Source>Times like now I wish I was a painter.  Scene like this could be worth a fortune.</Source>
+      <Dest>此时此刻我真想当个画家。如此美景价值连城啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you charge a flat fee like other mercs?</Source>
+      <Dest>你为什么不像其它佣兵一样收取费用？</Dest>
+    </String>
+    <String List="0">
+      <Source>There are no stupid questions.  Only stupid answers.</Source>
+      <Dest>没有蠢问题，只有傻答案。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are no stupid questions.  Only stupid answers.</Source>
+      <Dest>没有蠢问题，只有傻答案。</Dest>
+    </String>
+    <String List="0">
+      <Source>Didn't you say you grew up in an Orc Stronghold?</Source>
+      <Dest>你难道没说过你成长于一个兽人要塞吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you worried people won't hire you if your rates are higher?</Source>
+      <Dest>你不怕要价更高人们就不雇佣你了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Aren't you worried people won't hire you if your rates are higher?</Source>
+      <Dest>你不怕要价更高人们就不雇佣你了吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's a decent business strategy, provided you know what's valuable.</Source>
+      <Dest>我想这是个相当好的商业策略，给予你所知道的贵重的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>That isn't a good sales approach. Talking up someone else.</Source>
+      <Dest>这个兜售方法并不好，你还是去找别人吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your mother leave the Stronghold?</Source>
+      <Dest>你母亲为什么离开了要塞？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your mother leave the Stronghold?</Source>
+      <Dest>你母亲为什么离开了要塞？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your mother leave the Stronghold?</Source>
+      <Dest>你母亲为什么离开了要塞？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your mother leave the Stronghold?</Source>
+      <Dest>你母亲为什么离开了要塞？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your mother leave the Stronghold?</Source>
+      <Dest>你母亲为什么离开了要塞？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's like two slaughterfish wrestling in a swamp.</Source>
+      <Dest>这就像两只食人鱼在沼泽摔跤。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is this negotiable? Would you accept more gold?</Source>
+      <Dest>你为什么不像其他佣兵一样收取一些费用？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is this negotiable? Would you accept more gold?</Source>
+      <Dest>你为什么不像其他佣兵一样收取一些费用？</Dest>
+    </String>
+    <String List="0">
+      <Source>Weird. The Orcs I talk to are more concerned about having enough beasts to kill.</Source>
+      <Dest>真奇怪。跟我谈过的兽人都只关心有没有足够的野兽让他们杀。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>你为什么那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>你为什么那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>你为什么那样想？</Dest>
+    </String>
+    <String List="0">
+      <Source>How much do you charge for your services?</Source>
+      <Dest>当然。那你的酬劳怎么算？</Dest>
+    </String>
+    <String List="0">
+      <Source>How much do you charge for your services?</Source>
+      <Dest>当然。那你的酬劳怎么算？</Dest>
+    </String>
+    <String List="0">
+      <Source>The tribe looks like it could use our help.</Source>
+      <Dest>那个部落好像需要我们的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>The tribe looks like it could use our help.</Source>
+      <Dest>那个部落好像需要我们的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>The tribe looks like it could use our help.</Source>
+      <Dest>那个部落好像需要我们的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can trust me.</Source>
+      <Dest>你可以信任我。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can trust me.</Source>
+      <Dest>你可以信任我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
+      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
+      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
+      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>The city folk still treat me like some backwards Stronghold Orc.  For the last time, I'm not a blacksmith, and I don't have an opinion on your steel.</Source>
+      <Dest>市民仍然认为我是一个顽固保守的兽人。最后说一遍，我不是一个铁匠，我也对你那钢铁家伙没有想法。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm proud of the faces in this stronghold.  I like to think my mace had something to do with them being so lumpy.</Source>
+      <Dest>我为这座要塞中的每一张面孔感到骄傲。我时常想，他们变的这么厉害跟我的狼牙棒肯定有些关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>I spent my childhood in Kynesgrove, and when I was big enough, I went down to Largarshbur to train.</Source>
+      <Dest>我在基耐森林度过了童年，长大一点后，我顺着拉加施布尔开始流浪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gross!  And people find this...fun?  My opinion of humans lessens every day.</Source>
+      <Dest>啊！而且人们还觉得这...很有趣？我认为人类不该那么做。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, you asked me a question, and I answered it.  Besides, ain't like you can just go to Rorikstead in the blink of an eye.</Source>
+      <Dest>嗯，我只是回答了你的问题。此外，我可不像你，一眨眼功夫就能跑到千里之外的洛利克镇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seems to me that's the stupidest reason I ever heard in my entire life.</Source>
+      <Dest>这简直是我这辈子听过最最白痴的原因了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm going to smash every one of these vampires and slice off their ears.  Vampire ears are extremely valuable with alchemists.</Source>
+      <Dest>我要粉碎每一只吸血鬼，并切下他们的耳朵。吸血鬼的耳朵对炼金术士来说都是极其珍贵的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, an inn.  This time let's make sure to spend more time smashing heads and less time drinking ale.</Source>
+      <Dest>啊哈，一个旅馆。狠狠爆头顺便喝点小酒的时候到了。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first, I wasn't sure if they'd take me.  Then they asked me to brawl this real skinny female named Ugor.</Source>
+      <Dest>起初，我并不确定他们是否懂我的意思。然后他们要我去跟那个皮包骨头的名叫乌戈尔的女人打上一架。</Dest>
+    </String>
+    <String List="2">
+      <Source>They respected my will though.  Kept getting up and asking for seconds. Long story short, they took me in, trained me, made me the warrior I am.</Source>
+      <Dest>然后他们尊重我的意愿。让我立正、稍息...之类的。一言以蔽之，他们接受我，训练我，让我成为一名真正的战士。.</Dest>
+    </String>
+    <String List="2">
+      <Source>There's plenty of that too.  I just didn't want to bore you with the obvious.</Source>
+      <Dest>是没错，只是这些事太显而易见所以我不想再讲而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>My mother was a proud woman, and she wasn't gonna abide by their stupid traditions.  She was nobody's third wife.</Source>
+      <Dest>我的母亲是一个高傲的女人，她是不会遵守他们的愚蠢传统，她不会做别人第三个妻子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugor's as ugly as ever.  Even when she had hair, no one would ever mistake her for a female.</Source>
+      <Dest>乌戈尔永远都是那么丑。就算她留了头发，也没一个人会“误以为”她是个姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>What, you saying someone can't grow up in two different places?</Source>
+      <Dest>怎么？你的意思是人不能在两个完全不同的地方长大吗？</Dest>
     </String>
     <String List="2">
       <Source>I thought finally, here's a chief that wasn't obsessed with hoarding wives.  Turns out the only reason he has no wives is because he killed them.</Source>
       <Dest>后来我想到，这位族长是不热衷于多娶妻子的。结果他没有妻子的唯一原因竟然是因为他把她们都杀了。</Dest>
     </String>
     <String List="2">
+      <Source>What would a sellsword do if the Divines hadn't invented bandits?  Probably have to sell something else entirely.</Source>
+      <Dest>如果圣灵没有创造强盗的话，佣兵靠什么过活？也许要卖完全不一样的东西了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The night after her "wedding" she escaped.  Had a cousin who stood guard and was willing to die for her.  Probably did. </Source>
+      <Dest>在她"婚礼"的夜上她逃走了，她有一个表弟愿意为她死守，我想他大概真的死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And has Gularzob allowed other tribesman to marry?  Has he refused to take more than one wife?</Source>
+      <Dest>古拉佐伯允许他部落里的人结婚么？他拒绝纳妾？</Dest>
+    </String>
+    <String List="2">
+      <Source>I know what's valuable!  Jewels...orichalchum...nirnroot...in any case, I'll know it when I see it.</Source>
+      <Dest>我知道什么是有价值的！珠宝...秘银..奈恩根...无论何物，我一看便知其价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, well don't laugh.  I was wondering if like, a wolf got bitten by a werewolf or something, would...would he become a person?</Source>
+      <Dest>哦好吧，我说出来你可别笑喔。我一直在想，如果某一天一只狼被一个狼人或者别的什么给咬了，那它...它会变成人类吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this some kind of joke?  What are we doing here?  I thought I told you I never wanted to see this flaming sack of manure ever again.</Source>
+      <Dest>这是开玩笑吗？我们在这里做什么？我得告诉你，我不想再看到那袋儿烧着了的粪便了。</Dest>
+    </String>
+    <String List="2">
       <Source>I heard if Draugr shout at the ground, they can sort of fly.  I know it's ridiculous, I just thought maybe you'd believe it.</Source>
       <Dest>我听说如果尸鬼对着地面吼的话，他们可以飞起来。我知道这很可笑，我只是想也许你会相信。</Dest>
     </String>
     <String List="2">
-      <Source>Ah, an inn.  This time let's make sure to spend more time smashing heads and less time drinking ale.</Source>
-      <Dest>啊哈，一个旅馆。狠狠爆头顺便喝点小酒的时候到了。</Dest>
+      <Source>Seems like the same old slavehold to me, only with an uglier chief.</Source>
+      <Dest>看起来就像原来那个蓄奴场，只是现在换了个更丑陋的奴隶主。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't care if Malacath himself comes down to save them.  Orc Strongholds are doomed.</Source>
+      <Dest>我不在乎玛拉凯斯是否要亲自拯救他们。兽人要塞是注定难逃一劫的。</Dest>
+    </String>
+    <String List="2">
+      <Source>She settled down in Kynesgrove. That's where she met my father, one of the Orcs who worked the farms. She died giving birth to her first child.  Me.</Source>
+      <Dest>她在基耐森林安顿下来，在那里她遇到我父亲，一个在农场工作的兽人。她在生下第一个孩子后就死了，那孩子就是我。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you want to help them, fine. There ought to be some coin in it.  Just don't expect them to show any appreciation for an outsider.</Source>
+      <Dest>但如果你想帮助他们的话，随便你。应该有点报酬。就是别以为他们欢迎外来者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I don't plan on keeping everything, mind you.  Just the valuable stuff.</Source>
+      <Dest>但记住咯，我可没打算把一切都保住。我只留那些有价值的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I knew Chief Yamarz, so I've heard some stupid things come out of an Orc's mouth.</Source>
+      <Dest>而且我知道酋长亚马兹，我们从一个兽人之口听到了些蠢事。</Dest>
+    </String>
+    <String List="2">
+      <Source>If Yamarz raises a stink, they ought to kill the fool and elect a new chief.  Of course, what do I know, I'm just some city Orc.</Source>
+      <Dest>如果亚马兹变得发臭了，他们可能会杀了那呆瓜然后选举出一位新酋长。当然，我又懂得些什么呢，我只是某个城市的兽人罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, you live in this dump?  Must get awful lonely.</Source>
+      <Dest>等等，你住在这种狗窝里？那你肯定很孤独啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>A mine.  I'll bet you two to one you'll find an Orc down here somewhere.  Three to one he has his shirt off.</Source>
+      <Dest>一个矿井。我敢和你打赌二赔一，你会在下面发现一个兽人。三赔一他光着膀子呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Never mind, it sounds stupid just coming out of my mouth.</Source>
+      <Dest>别在意，这话我刚一脱嘴就觉得自己在犯傻。。。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Strongholds bring back a lot of memories. The kind that make you wince like you just saw Ogol naked.</Source>
+      <Dest>要塞带回了许多的回忆。你这畏畏缩缩的样子活像是见了欧格尔的裸体似的。</Dest>
     </String>
     <String List="2">
       <Source>Do you know how to work one of those saw things?  Looks complicated, like you have to be part Dwarf just to pull the lever.</Source>
@@ -331,708 +567,304 @@
       <Dest>所以这些矮人用来造机器的金属骨骼...他们很值钱对不？我已经知道答案了，我就是想确认一下你也知道。</Dest>
     </String>
     <String List="2">
-      <Source>The city folk still treat me like some backwards Stronghold Orc.  For the last time, I'm not a blacksmith, and I don't have an opinion on your steel.</Source>
-      <Dest>市民仍然认为我是一个顽固保守的兽人。最后说一遍，我不是一个铁匠，我也对你那钢铁家伙没有想法。</Dest>
+      <Source>Which wouldn't be so bad, if they didn't have the morals of a Chaurus too.</Source>
+      <Dest>其实也没有那么糟，只要他们的行为也没有像巢螋一样。</Dest>
     </String>
     <String List="2">
-      <Source>I'm going to smash every one of these vampires and slice off their ears.  Vampire ears are extremely valuable with alchemists.</Source>
-      <Dest>我要粉碎每一只吸血鬼，并切下他们的耳朵。吸血鬼的耳朵对炼金术士来说都是极其珍贵的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wait, was it Falmer ears that were used for alchemy?  I thought it was vampire ears and Falmer toes.  Someone should write this all down.</Source>
-      <Dest>等等，这是用来炼金的雪精灵耳朵？我认为这是吸血鬼的耳朵和雪精灵的脚趾，应该有人把这些记下来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just make sure you don't bleed the merchant dry.  Still has to buy my junk too.</Source>
-      <Dest>Just make sure you don't bleed the merchant dry.  Still has to buy my junk too.</Dest>
-    </String>
-    <String List="2">
-      <Source>What would a sellsword do if the Divines hadn't invented bandits?  Probably have to sell something else entirely.</Source>
-      <Dest>如果圣灵没有创造强盗的话，佣兵靠什么过活？也许要卖完全不一样的东西了。</Dest>
-    </String>
-    <String List="2">
-      <Source>A bandit tried to hire me once, thought I'd treat him like a chief and "polish his weapon," whatever that means. In the end, his blood polished mine.</Source>
-      <Dest>A bandit tried to hire me once, thought I'd treat him like a chief and "polish his weapon," whatever that means. In the end, his blood polished mine.</Dest>
-    </String>
-    <String List="2">
-      <Source>A mine.  I'll bet you two to one you'll find an Orc down here somewhere.  Three to one he has his shirt off.</Source>
-      <Dest>一个矿井。我敢和你打赌二赔一，你会在下面发现一个兽人。三赔一他光着膀子呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wait, you live in this dump?  Must get awful lonely.</Source>
-      <Dest>等等，你住在这种狗窝里？那你肯定很孤独啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wow. How many mudcrab shells did you have to sell to buy yourself this castle?</Source>
-      <Dest>哇哦！买下这座城堡，你到底得卖多少泥螃蟹壳儿啊？</Dest>
-    </String>
-    <String List="2">
-      <Source>Strongholds bring back a lot of memories. The kind that make you wince like you just saw Ogol naked.</Source>
-      <Dest>要塞带回了许多的回忆。你这畏畏缩缩的样子活像是见了欧格尔的裸体似的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugor's as ugly as ever.  Even when she had hair, no one would ever mistake her for a female.</Source>
-      <Dest>乌戈尔永远都是那么丑。就算她留了头发，也没一个人会“误以为”她是个姑娘。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm proud of the faces in this stronghold.  I like to think my mace had something to do with them being so lumpy.</Source>
-      <Dest>我为这座要塞中的每一张面孔感到骄傲。我时常想，他们变的这么厉害跟我的狼牙棒肯定有些关系。</Dest>
-    </String>
-    <String List="2">
-      <Source>Funny.  I spent nearly all my life in Kynesgrove and Largashbur, but I never once visited the Eldergleam. Just seemed like a tourist thing.</Source>
-      <Dest>真好笑。我一生中几乎所有时间都花在基耐森林和拉加施布尔，但我从来没有一次参观过古藤圣所。只是似乎是一个旅游的事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>I thought I was clear I wanted nothing to do with places like this.  Finish your business and let's get out.  Just breathing the air here is poison.</Source>
-      <Dest>我觉得我清楚地表达了我不想在这种地方做任何事情。把你的事做完，然后我们出去。仅仅是呼吸这里的空气都像是毒气一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't care if Malacath himself comes down to save them.  Orc Strongholds are doomed.</Source>
-      <Dest>我不在乎玛拉凯斯是否要亲自拯救他们。兽人要塞是注定难逃一劫的。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's like two slaughterfish wrestling in a swamp.</Source>
-      <Dest>这就像两只食人鱼在沼泽摔跤。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gross!  And people find this...fun?  My opinion of humans lessens every day.</Source>
-      <Dest>啊！而且人们还觉得这...很有趣？我认为人类不该那么做。</Dest>
-    </String>
-    <String List="0">
-      <Source>There are no stupid questions.  Only stupid answers.</Source>
-      <Dest>没有蠢问题，只有傻答案。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay, well don't laugh.  I was wondering if like, a wolf got bitten by a werewolf or something, would...would he become a person?</Source>
-      <Dest>哦好吧，我说出来你可别笑喔。我一直在想，如果某一天一只狼被一个狼人或者别的什么给咬了，那它...它会变成人类吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>There are no stupid questions.  Only stupid answers.</Source>
-      <Dest>没有蠢问题，只有傻答案。</Dest>
-    </String>
-    <String List="2">
-      <Source>Never mind, it sounds stupid just coming out of my mouth.</Source>
-      <Dest>别在意，这话我刚一脱嘴就觉得自己在犯傻。。。.</Dest>
-    </String>
-    <String List="0">
-      <Source>That isn't a good sales approach. Talking up someone else.</Source>
-      <Dest>这个兜售方法并不好，你还是去找别人吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, you asked me a question, and I answered it.  Besides, ain't like you can just go to Rorikstead in the blink of an eye.</Source>
-      <Dest>嗯，我只是回答了你的问题。此外，我可不像你，一眨眼功夫就能跑到千里之外的洛利克镇。</Dest>
-    </String>
-    <String List="0">
-      <Source>You can trust me.</Source>
-      <Dest>你可以信任我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmm, well, I guess it's better to ask a stranger...</Source>
-      <Dest>唔…好吧，我想也许问一些基耐森林或要塞以外的人比较好。</Dest>
-    </String>
-    <String List="0">
-      <Source>You can trust me.</Source>
-      <Dest>你可以信任我。</Dest>
+      <Source>Maybe because I ain't stupid.  You see these mercs take a job for 500 septims flat. </Source>
+      <Dest>或许是因为我不笨，你看那些佣兵接活儿就只知道傻傻地收500金币。</Dest>
     </String>
     <String List="2">
       <Source>So I've noticed there's this thing the humans and Elves do where they press their lips together, usually with someone they like.</Source>
       <Dest>我留意到人类和精灵会吻对方的嘴唇，通常是和他们所喜欢的人做。</Dest>
     </String>
     <String List="2">
-      <Source>Is this some kind of joke?  What are we doing here?  I thought I told you I never wanted to see this flaming sack of manure ever again.</Source>
-      <Dest>这是开玩笑吗？我们在这里做什么？我得告诉你，我不想再看到那袋儿烧着了的粪便了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did your mother leave the Stronghold?</Source>
-      <Dest>你母亲为什么离开了要塞？</Dest>
-    </String>
-    <String List="2">
-      <Source>My mother was a proud woman, and she wasn't gonna abide by their stupid traditions.  She was nobody's third wife.</Source>
-      <Dest>我的母亲是一个高傲的女人，她是不会遵守他们的愚蠢传统，她不会做别人第三个妻子。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did your mother leave the Stronghold?</Source>
-      <Dest>你母亲为什么离开了要塞？</Dest>
-    </String>
-    <String List="2">
-      <Source>Only the chief wasn't the type who takes "No" for an answer.  Got brains as thick as Chaurus shells, these Stronghold Orcs.</Source>
-      <Dest>只是那个首领不是那种会接受"不"这种答案的。那些顽固的兽人的脑袋就像巢螋的壳一样硬。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did your mother leave the Stronghold?</Source>
-      <Dest>你母亲为什么离开了要塞？</Dest>
-    </String>
-    <String List="2">
-      <Source>Which wouldn't be so bad, if they didn't have the morals of a Chaurus too.</Source>
-      <Dest>其实也没有那么糟，只要他们的行为也没有像巢螋一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did your mother leave the Stronghold?</Source>
-      <Dest>你母亲为什么离开了要塞？</Dest>
-    </String>
-    <String List="2">
-      <Source>The night after her "wedding" she escaped.  Had a cousin who stood guard and was willing to die for her.  Probably did. </Source>
-      <Dest>在她"婚礼"的夜上她逃走了，她有一个表弟愿意为她死守，我想他大概真的死了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did your mother leave the Stronghold?</Source>
-      <Dest>你母亲为什么离开了要塞？</Dest>
-    </String>
-    <String List="2">
-      <Source>She settled down in Kynesgrove. That's where she met my father, one of the Orcs who worked the farms. She died giving birth to her first child.  Me.</Source>
-      <Dest>她在基耐森林安顿下来，在那里她遇到我父亲，一个在农场工作的兽人。她在生下第一个孩子后就死了，那孩子就是我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
-      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>And has Gularzob allowed other tribesman to marry?  Has he refused to take more than one wife?</Source>
-      <Dest>古拉佐伯允许他部落里的人结婚么？他拒绝纳妾？</Dest>
-    </String>
-    <String List="0">
-      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
-      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Seems like the same old slavehold to me, only with an uglier chief.</Source>
-      <Dest>看起来就像原来那个蓄奴场，只是现在换了个更丑陋的奴隶主。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yamarz is dead.  Gularzob is the new chief.   I thought you'd be pleased.</Source>
-      <Dest>亚马兹死了，古拉佐伯做了新首领。这下你满意了吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>But hey, I'm not unreasonable.  If you got business here, take care of it.  Just don't expect me to help.</Source>
-      <Dest>但是，嘿，我又不是不讲理。如果你在这儿有事要做，那就放手去做吧。就是别指望我会帮你。</Dest>
-    </String>
-    <String List="0">
-      <Source>The tribe looks like it could use our help.</Source>
-      <Dest>那个部落好像需要我们的帮助。</Dest>
+      <Source>Wait, was it Falmer ears that were used for alchemy?  I thought it was vampire ears and Falmer toes.  Someone should write this all down.</Source>
+      <Dest>等等，这是用来炼金的雪精灵耳朵？我认为这是吸血鬼的耳朵和雪精灵的脚趾，应该有人把这些记下来。</Dest>
     </String>
     <String List="2">
       <Source>That's funny, because it seems to me the answer is simple.  If the tribe has a problem, they should do like I did and leave.</Source>
       <Dest>有意思啊，因为对我来说答案很简单。如果部落里出了问题，他们就应该像我一样行事，然后就走掉。</Dest>
     </String>
-    <String List="0">
-      <Source>The tribe looks like it could use our help.</Source>
-      <Dest>那个部落好像需要我们的帮助。</Dest>
+    <String List="2">
+      <Source>I thought I was clear I wanted nothing to do with places like this.  Finish your business and let's get out.  Just breathing the air here is poison.</Source>
+      <Dest>我觉得我清楚地表达了我不想在这种地方做任何事情。把你的事做完，然后我们出去。仅仅是呼吸这里的空气都像是毒气一样。</Dest>
     </String>
     <String List="2">
-      <Source>If Yamarz raises a stink, they ought to kill the fool and elect a new chief.  Of course, what do I know, I'm just some city Orc.</Source>
-      <Dest>如果亚马兹变得发臭了，他们可能会杀了那呆瓜然后选举出一位新酋长。当然，我又懂得些什么呢，我只是某个城市的兽人罢了。</Dest>
-    </String>
-    <String List="0">
-      <Source>The tribe looks like it could use our help.</Source>
-      <Dest>那个部落好像需要我们的帮助。</Dest>
+      <Source>Hmm, well, I guess it's better to ask a stranger...</Source>
+      <Dest>唔…好吧，我想也许问一些凯娜之林或要塞以外的人比较好。</Dest>
     </String>
     <String List="2">
-      <Source>But if you want to help them, fine. There ought to be some coin in it.  Just don't expect them to show any appreciation for an outsider.</Source>
-      <Dest>但如果你想帮助他们的话，随便你。应该有点报酬。就是别以为他们欢迎外来者。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you got the boon, put it up, and you'll have the fiercest warrior in all of Skyrim.</Source>
-      <Dest>如果你有金币给我，你会得到天际省最凶悍的战士。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>I spent my childhood in Kynesgrove, and when I was big enough, I went down to Largarshbur to train.</Source>
-      <Dest>我在基耐森林度过了童年，长大一点后，我顺着拉加施布尔开始流浪。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>At first, I wasn't sure if they'd take me.  Then they asked me to brawl this real skinny female named Ugor.</Source>
-      <Dest>起初，我并不确定他们是否懂我的意思。然后他们要我去跟那个皮包骨头的名叫乌戈尔的女人打上一架。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>With the broomsticks she called arms, I thought she was a maid. The egg was on my face when she knocked me from Frostfall to Sun's Dusk.</Source>
-      <Dest>因为她说的武器是把扫帚柄，我觉得她是个女仆。她从霜落月一直打我到日暮月的时候，我脸上满是鸡蛋。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>They respected my will though.  Kept getting up and asking for seconds. Long story short, they took me in, trained me, made me the warrior I am.</Source>
-      <Dest>然后他们尊重我的意愿。让我立正、稍息...之类的。一言以蔽之，他们接受我，训练我，让我成为一名真正的战士。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Didn't you say you grew up in an Orc Stronghold?</Source>
-      <Dest>你难道没说过你成长于一个兽人要塞吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>What, you saying someone can't grow up in two different places?</Source>
-      <Dest>怎么？你的意思是人不能在两个完全不同的地方长大吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Weird. The Orcs I talk to are more concerned about having enough beasts to kill.</Source>
-      <Dest>真奇怪。跟我谈过的兽人都只关心有没有足够的野兽让他们杀。</Dest>
-    </String>
-    <String List="2">
-      <Source>There's plenty of that too.  I just didn't want to bore you with the obvious.</Source>
-      <Dest>是没错，只是这些事太显而易见所以我不想再讲而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>I think it's a decent business strategy, provided you know what's valuable.</Source>
-      <Dest>我想这是个相当好的商业策略，给予你所知道的贵重的东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know what's valuable!  Jewels...orichalchum...nirnroot...in any case, I'll know it when I see it.</Source>
-      <Dest>我知道什么是有价值的！珠宝...秘银..奈恩根...无论何物，我一看便知其价值。</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't you worried people won't hire you if your rates are higher?</Source>
-      <Dest>你不怕要价更高人们就不雇佣你了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Not at all. Those other sellswords, you pay everything up front and there's no guarantee they'll even stick around.</Source>
-      <Dest>（他们）才不会呢。其他的佣兵，你就算付了所有的身家财产来雇佣他们，他们也不见得会一直在你身边保护你。</Dest>
-    </String>
-    <String List="0">
-      <Source>Aren't you worried people won't hire you if your rates are higher?</Source>
-      <Dest>你不怕要价更高人们就不雇佣你了吗？</Dest>
+      <Source>I don't take coin. I just have one rule. I get to keep what I kill. If that works for you, then you have my steel.</Source>
+      <Dest>我不要钱。但我有个原则，我杀的敌人东西都归我。要是你接受，我就帮忙。</Dest>
     </String>
     <String List="2">
       <Source>Me, if I don't kill anything, I don't get anything. So you know I won't run at the first sign of trouble.</Source>
       <Dest>我呢，要是我什么也不杀，就没什么瓜葛。所以说遇见什么麻烦我都不会第一时间冲上去的。</Dest>
     </String>
-    <String List="0">
-      <Source>Is this negotiable? Would you accept more gold?</Source>
-      <Dest>你为什么不像其他佣兵一样收取一些费用？</Dest>
+    <String List="2">
+      <Source>Not at all. Those other sellswords, you pay everything up front and there's no guarantee they'll even stick around.</Source>
+      <Dest>（他们）才不会呢。其他的佣兵，你就算付了所有的身家财产来雇佣他们，他们也不见得会一直在你身边保护你。</Dest>
     </String>
     <String List="2">
       <Source>No, I keep what I kill.  You can have whatever other treasure you can get your hands on.  That's the deal.</Source>
       <Dest>不，我杀即我得。你可以拿走其他你能拿到的所有宝贝。就是这样。</Dest>
     </String>
-    <String List="0">
-      <Source>Is this negotiable? Would you accept more gold?</Source>
-      <Dest>你为什么不像其他佣兵一样收取一些费用？</Dest>
+    <String List="2">
+      <Source>Only the chief wasn't the type who takes "No" for an answer.  Got brains as thick as Chaurus shells, these Stronghold Orcs.</Source>
+      <Dest>只是那个首领不是那种会接受"不"这种答案的。那些顽固的兽人的脑袋就像巢螋的壳一样硬。</Dest>
     </String>
     <String List="2">
-      <Source>Although I don't plan on keeping everything, mind you.  Just the valuable stuff.</Source>
-      <Dest>但记住咯，我可没打算把一切都保住。我只留那些有价值的东西。</Dest>
+      <Source>If you got the boon, put it up, and you'll have the fiercest warrior in all of Skyrim.</Source>
+      <Dest>如果你有金币给我，你会得到天际省最凶悍的战士。</Dest>
     </String>
-    <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>为什么你会那样想？</Dest>
+    <String List="2">
+      <Source>With the broomsticks she called arms, I thought she was a maid. The egg was on my face when she knocked me from Frostfall to Sun's Dusk.</Source>
+      <Dest>因为她说的武器是把扫帚柄，我觉得她是个女仆。她从霜落月一直打我到日暮月的时候，我脸上满是鸡蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>But hey, I'm not unreasonable.  If you got business here, take care of it.  Just don't expect me to help.</Source>
+      <Dest>但是，嘿，我又不是不讲理。如果你在这儿有事要做，那就放手去做吧。就是别指望我会帮你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow. How many mudcrab shells did you have to sell to buy yourself this castle?</Source>
+      <Dest>哇哦！买下这座城堡，你到底得卖多少泥螃蟹壳儿啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Funny.  I spent nearly all my life in Kynesgrove and Largashbur, but I never once visited the Eldergleam. Just seemed like a tourist thing.</Source>
+      <Dest>真好笑。我一生中几乎所有时间都花在凯娜之林和拉加施布尔，但我从来没有一次参观过古藤圣所。只是似乎是一个旅游的事情。</Dest>
     </String>
     <String List="2">
       <Source>Don't know. When I ask why, they tell me to shut my apple piehole.  It's 500 gold 'cause that's the way it's always been.</Source>
       <Dest>不知道. 我问为什么的时候, 他们叫我闭上我的鸟嘴.  一直是500金这个价.</Dest>
     </String>
     <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>为什么你会那样想？</Dest>
-    </String>
-    <String List="2">
-      <Source>Seems to me that's the stupidest reason I ever heard in my entire life.</Source>
-      <Dest>这简直是我这辈子听过最最白痴的原因了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>为什么你会那样想？</Dest>
-    </String>
-    <String List="2">
-      <Source>And I knew Chief Yamarz, so I've heard some stupid things come out of an Orc's mouth.</Source>
-      <Dest>而且我知道酋长亚马兹，我们从一个兽人之口听到了些蠢事。</Dest>
-    </String>
-    <String List="0">
-      <Source>How much do you charge for your services?</Source>
-      <Dest>当然。那你的收费怎么算？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't take coin. I just have one rule. I get to keep what I kill. If that works for you, then you have my steel.</Source>
-      <Dest>我不要钱。但我有个原则，我杀的敌人东西都归我。要是你接受，我就帮忙。</Dest>
-    </String>
-    <String List="0">
-      <Source>How much do you charge for your services?</Source>
-      <Dest>当然。那你的收费怎么算？</Dest>
+      <Source>Why don't you charge a flat fee like other mercs?</Source>
+      <Dest>你为什么不像其它佣兵一样收取费用？</Dest>
     </String>
     <String List="0">
       <Source>Why don't you charge a flat fee like other mercs?</Source>
       <Dest>你为什么不像其它佣兵一样收取费用？</Dest>
     </String>
-    <String List="2">
-      <Source>Maybe because I ain't stupid.  You see these mercs take a job for 500 septims flat. </Source>
-      <Dest>或许是因为我不笨，你看那些佣兵接活儿就只知道傻傻地收500金币。</Dest>
+    <String List="0">
+      <Source>I imagine he didn't react well.</Source>
+      <Dest>我想象一下，他没有很好的应对。</Dest>
     </String>
     <String List="0">
-      <Source>How much do you charge for your services?</Source>
-      <Dest>当然。那你的收费怎么算？</Dest>
+      <Source>I imagine he didn't react well.</Source>
+      <Dest>我想象一下，他没有很好的应对。</Dest>
     </String>
     <String List="0">
-      <Source>Why don't you charge a flat fee like other mercs?</Source>
-      <Dest>你为什么不像其它佣兵一样收取费用？</Dest>
-    </String>
-    <String List="2">
-      <Source>Then they go out and risk their lives for these milk-drinkers who end up collecting enough loot to buy the Blue Palace.</Source>
-      <Dest>然后就冲出去，为那些最后会拿走所有战利品后回到的独孤城买屋子的渣滓卖命。</Dest>
+      <Source>I imagine he didn't react well.</Source>
+      <Dest>我想象一下，他没有很好的应对。</Dest>
     </String>
     <String List="0">
-      <Source>How much do you charge for your services?</Source>
-      <Dest>当然。那你的收费怎么算？</Dest>
+      <Source>I imagine he didn't react well.</Source>
+      <Dest>我想象一下，他没有很好的应对。</Dest>
     </String>
     <String List="0">
-      <Source>Why don't you charge a flat fee like other mercs?</Source>
-      <Dest>你为什么不像其它佣兵一样收取费用？</Dest>
+      <Source>How is life in the Stronghold different from Kynesgrove?</Source>
+      <Dest>与在基耐树林的生活比起来，在要塞生活有哪些区别？</Dest>
     </String>
-    <String List="2">
-      <Source>Some of these mammoth-brains even do a second job on the house.</Source>
-      <Dest>有些脑大弱智的甚至还让他们可以买第二间房子。</Dest>
+    <String List="0">
+      <Source>Tell me more about Kynesgrove.</Source>
+      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynesgrove.</Source>
+      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about Kynesgrove.</Source>
+      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yamarz is dead.  I killed him.</Source>
+      <Dest>亚马兹已经死了，是我杀了他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've changed my mind.  I don't need to know about your life.  Just your steel.</Source>
+      <Dest>我改变了想法。我不需要了解你的生活，了解你的钢就足够了。</Dest>
+    </String>
+    <String List="0">
+      <Source>And yet none of those things are actually in Kynesgrove.</Source>
+      <Dest>然而那些东西没有一样确实在基耐树林。</Dest>
     </String>
     <String List="0">
       <Source>We were wandering.  It wasn't my intention to come here.</Source>
       <Dest>我们只是在随便散散步，不是故意到这里来的。</Dest>
     </String>
-    <String List="2">
-      <Source>But apparently you do intend to stay.  Look, if you got business here, take care of it.  Just don't expect me to help.</Source>
-      <Dest>但显然你更倾向于留下来。听着，如果你在这儿还有事要处理，那你就去处理吧。只要别指望我来帮忙就好。</Dest>
+    <String List="0">
+      <Source>Why can't Yamarz be replaced?</Source>
+      <Dest>为什么亚马兹是不可替代的？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I hear Markarth has this mine that's worked on by inmates.  I don't get that. Seems to me all they'd do is dig a hole right to the surface.</Source>
-      <Dest>我听过马卡斯城有个由当地住民工作的矿场，我不明白，就我看来他们做的事就只是在地面上挖出一个洞。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Anywhere it's warm.  Except Morrowind.  That place is a damn lava pit.  Not the kind of warm I'm talking about.</Source>
-      <Dest>还有哪里是温暖的。除了晨风省以外。那个地方就像个该死的熔岩坑，不是我在说的那种温暖。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I wanna see Riften.  Maybe a thief will try to pick my pocket.  Ever smash a hand with a mace?  Like taking a hammer to apple pie. Bits everywhere.</Source>
-      <Dest>我想看看裂谷城。也许会有小偷偷我的钱，甚至用棒打我一顿，就像用锤子打一个苹果派，粉身碎骨。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I heard there's plenty of wrecks to salvage on the coast near Haafinger.  If that's your sort of thing.  I prefer a fight, though.</Source>
-      <Dest>我听说在海芬加领附近的海岸有很多沉船可以打捞。但这是你的事。我还是更喜欢打架。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Let's go to a Giant camp.  Always wanted to test my mettle against one of those things.  </Source>
-      <Dest>去找个巨人营地吧。我一直想试试我对那些东西的身手</Dest>
-    </String>
-    <String List="2">
-      <Source>Anywhere but an Orc Slavehold.  </Source>
-      <Dest>满脑子都是那个兽人要塞。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>People keep telling me about this Shrine of Azura.  They say it's way more impressive than any tribute to Malacath. But not everything's about size.</Source>
-      <Dest>老有人跟我提起这个阿祖拉祭坛。说它比玛拉凯斯的任何贡品都壮观得多。但大小不能代表一切。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I'd like to go to the hot springs, but not if there's people already there.  It's just...awkward.</Source>
-      <Dest>我想去温泉那儿，不过如果已经有人的话就还是算了。总感觉有点......羞射。</Dest>
+    <String List="0">
+      <Source>Is there any place in Skyrim you want to explore?</Source>
+      <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>If it's got a cave and it's got things to smash, then maybe some other time. I feel like going to a tavern.  A good one.</Source>
-      <Dest>就算这儿还有个洞穴需要挖，还有什么东西需要砸碎，也得等会儿了。我现在就要去个酒馆，然后好好喝一杯。</Dest>
-    </String>
     <String List="0">
       <Source>Is there any place in Skyrim you want to explore?</Source>
       <Dest>你想探索天际的什么地方吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Ever been inside a Dwarven ruin?  They say even the forks are worth more than a Nord shield.</Source>
-      <Dest>你在矮人遗迹冒险过吗？他们说就算是那里的一只叉子也比诺德盾牌值钱多了呢。</Dest>
-    </String>
     <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know about today, but I was thinking we should go to Solitude during the New Life Festival.  Never seen one outside of Kynesgrove.</Source>
-      <Dest>I don't know about today, but I was thinking we should go to Solitude during the New Life Festival.  Never seen one outside of Kynesgrove.</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Um...what?  Sorry, I was thinking. Maybe...no, it's a stupid question.</Source>
-      <Dest>嗯...什么？抱歉，我在想事情。或许...不，这是个蠢问题。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I heard Eorlund Gray-Mane forges steel from the back of great eagle in the sky as it circles Dragonsreach.  Now that I want to see.</Source>
-      <Dest>我听说厄仑德·灰鬃在一头环绕着龙临堡的巨鹰背上打铁。我挺想看看的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Anywhere it isn't cold.  So I guess to answer your question, no.</Source>
-      <Dest>任何地方都不寒冷. 所以我想要回答你的问题, 不.</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I hear those Elves with bad skin, what are they called?  Farmers?  Yeah, they like to kidnap people and take them to caves.  We should find them.</Source>
-      <Dest>我听说过那些“皮肤有问题”的精灵们，他们叫什么来着？农民伯伯？哦对，他们喜欢把人绑架到山洞里去，我们得找到他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm tired of figuring out where to go next.   Grow a spine and lead!</Source>
-      <Dest>我已经找出我们下一步该往哪里走了。把腰板挺直了然后带路！</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any place in Skyrim you want to explore?</Source>
-      <Dest>你想探索天际的什么地方吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Alright, alright.  If you want the truth, I didn't go to Largashbur out of choice.  My father forced me to.</Source>
-      <Dest>好吧，好吧。如果你想知道真相，我去拉加施布尔是因为没有别的选择，是我的父亲逼我去的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
-      <Dest>有些事情好像兜不起来。你为什么离开基耐森林？</Dest>
-    </String>
-    <String List="2">
-      <Source>He didn't want me to grow up some milk-drinker like him, and he started getting this idea in his head that the Orc way was the only way.</Source>
-      <Dest>他不希望我像他一样，像个只会喝奶的渣滓。他便认为把我送给兽人是唯一的解决方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
-      <Dest>有些事情好像兜不起来。你为什么离开基耐森林？</Dest>
-    </String>
-    <String List="2">
-      <Source>After everything my mother did to get our family out of that backwards mess, he goes and screws it all up.</Source>
-      <Dest>在我母亲为了帮家庭摆脱那堆麻烦所做的一切后，他走了和把事情全搞得一团糟。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
-      <Dest>有些事情好像兜不起来。你为什么离开基耐森林？</Dest>
-    </String>
-    <String List="2">
-      <Source>What?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you want me to?</Source>
-      <Dest>你真的想要？</Dest>
-    </String>
-    <String List="2">
-      <Source>What are you, entering some tournament or something?  Think some Giant is gonna kneel before the Jarl before sending you to the moons?</Source>
-      <Dest>你想怎样？参加些比赛或之类的东西？打算在巨人把你踢到月球前，让他们在领主面前对你下跪？</Dest>
-    </String>
-    <String List="0">
-      <Source>A pity. I was looking for the "finest" warrior in Skyrim, not the fiercest.</Source>
-      <Dest>太可惜了。我一直在寻找天际省的“最优秀的”战士，而不是凶猛的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Out in the real world you need to be fierce.  Trust me, I know.  So are you hiring or what?</Source>
-      <Dest>在现实中，你需要变得凶猛。相信我，我了解的。所以你到底要不要？</Dest>
-    </String>
-    <String List="0">
-      <Source>A pity. I was looking for the "finest" warrior in Skyrim, not the fiercest.</Source>
-      <Dest>太可惜了。我一直在寻找天际省的“最优秀的”战士，而不是凶猛的。</Dest>
-    </String>
-    <String List="2">
-      <Source>So you're saying you don't know.  Figured as much, but thought I'd ask anyway.</Source>
-      <Dest>所以你说你也不清楚？我想也是这样，但我想我总该问一下。</Dest>
+      <Source>Where may I ask do you come from?</Source>
+      <Dest>我能问你来自哪里吗？</Dest>
     </String>
     <String List="0">
       <Source>It's hard to put into words.</Source>
       <Dest>很难用言语表达。</Dest>
     </String>
-    <String List="2">
-      <Source>Yeah, well I was planning on staying in Rorikstead.  Place like that got people going east and west.  'Cept there was already a sellsword there.</Source>
-      <Dest>是啊，洛利克镇，一个可以让人四处游走的地方，要不是因为那里已经有个佣兵，我都打算留在那儿了。</Dest>
+    <String List="0">
+      <Source>Old Hroldan seems like a bad place for a mercenary to set up.</Source>
+      <Dest>古赫洛登看起来不像是一个佣兵该来的地方。</Dest>
     </String>
     <String List="0">
       <Source>Old Hroldan seems like a bad place for a mercenary to set up.</Source>
       <Dest>古赫洛登看起来不像是一个佣兵该来的地方。</Dest>
     </String>
-    <String List="2">
-      <Source>Some guy by the name of "Killer" or "Slaughter" or something. Guy with a nickname like that must've slain hundreds, no, thousands of men.</Source>
-      <Dest>有些家伙被称"杀手"或"屠夫"之类的名字，他们都是已经杀了上百，不，上千个人了。</Dest>
-    </String>
     <String List="0">
       <Source>Old Hroldan seems like a bad place for a mercenary to set up.</Source>
       <Dest>古赫洛登看起来不像是一个佣兵该来的地方。</Dest>
     </String>
-    <String List="2">
-      <Source>Where I come from, people don't call you "Killer" unless you have a reputation.  For, you know, killing people.</Source>
-      <Dest>在我来自的地方，没人会叫你"杀手"除非你有名望。因为，你懂的，杀人。</Dest>
+    <String List="0">
+      <Source>Sit on your lap.</Source>
+      <Dest>坐在你腿上。</Dest>
     </String>
     <String List="0">
-      <Source>Old Hroldan seems like a bad place for a mercenary to set up.</Source>
-      <Dest>古赫洛登看起来不像是一个佣兵该来的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>I grew up in an Orc Stronghold.  That good enough for you?</Source>
-      <Dest>我在一个兽人据点中长大，你满意了吗？</Dest>
+      <Source>It depends, but the best are soft without being weak, wet without being sloppy.</Source>
+      <Dest>看情况，最好的是软而不稀（weak 稀薄），潮而不黏（sloppy 泥泞的）（吐槽 这是便便么）。</Dest>
     </String>
     <String List="0">
-      <Source>What are your qualifications?</Source>
-      <Dest>你有什么资格？</Dest>
+      <Source>I thought I'd help you reconcile with your clan.</Source>
+      <Dest>我本想我可以调解你和你的家族之间的关系。</Dest>
     </String>
-    <String List="2">
-      <Source>Yeah, there is.  There's something that's been bothering me for some time now.  It's kind of embarrassing to ask though...</Source>
-      <Dest>是啊确实。有些事已经困扰了我一段时间，可要问的话还是有点尴尬。。。</Dest>
+    <String List="0">
+      <Source>I thought I'd help you reconcile with your clan.</Source>
+      <Dest>我本想我可以调解你和你的家族之间的关系。</Dest>
     </String>
     <String List="0">
       <Source>Something on your mind?</Source>
       <Dest>你有什么心事吗？</Dest>
     </String>
     <String List="0">
-      <Source>Something on your mind?</Source>
-      <Dest>有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Be serious.</Source>
-      <Dest>严肃。</Dest>
+      <Source>How did he deal with it?</Source>
+      <Dest>他是如何处理它的？</Dest>
     </String>
     <String List="0">
-      <Source>Sit on your lap.</Source>
-      <Dest>坐在你腿上。</Dest>
-    </String>
-    <String List="2">
-      <Source>Better to ask how it's not. Go ahead, ask me.</Source>
-      <Dest>你最好问怎样不会不小心死了。来吧，问我。</Dest>
-    </String>
-    <String List="0">
-      <Source>How is life in the Stronghold different from Kynesgrove?</Source>
-      <Dest>与在基耐森林的生活比起来，在要塞生活有哪些区别？</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, they both got people living in it. That's pretty much it.</Source>
-      <Dest>嗯，他们都有人陪伴着，差不多就是这样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Um, okay.  How are they not different?</Source>
-      <Dest>嗯，好吧。他们有什么不同？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah? I stepped on a worm the other day, you don't see me bragging about it.  But you did the tribe a favor all the same.</Source>
-      <Dest>是吗？你不会见到我吹嘘自己某天踏死了一条虫吧，但你卖了部落一个人情是真的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yamarz is dead.  I killed him.</Source>
-      <Dest>亚马兹已经死了，是我杀了他的。</Dest>
-    </String>
-    <String List="2">
-      <Source>He can.  All it takes is someone to challenge him, but it has to be a male, or else I'd be chief myself.</Source>
-      <Dest>他能。所有他获得的，都是曾经挑战他的人的东西。但是他必须做一个男人。或者，我会做我自己的首领。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why can't Yamarz be replaced?</Source>
-      <Dest>为什么亚马兹是不可替代的？</Dest>
-    </String>
-    <String List="2">
-      <Source>I...I may have overstepped my bounds there.  If you'll have me, I promise to keep the insults to a minimum.</Source>
-      <Dest>我...我可能太超过了。如果你雇用我，我不会让这样的状况发生。</Dest>
+      <Source>How did he deal with it?</Source>
+      <Dest>他是如何处理它的？</Dest>
     </String>
     <String List="0">
       <Source>You have a strange way of treating a potential employer.</Source>
       <Dest>你对待准雇主的态度真奇怪啊。</Dest>
     </String>
-    <String List="2">
-      <Source>The best place you'll never see.  You got all the convenience of the city with none of the hassle.</Source>
-      <Dest>你从未看过的好地方。都市机能很方便的。</Dest>
+    <String List="0">
+      <Source>Um, okay.  How are they not different?</Source>
+      <Dest>嗯，好吧。他们有什么不同？</Dest>
     </String>
     <String List="0">
-      <Source>Tell me more about Kynesgrove.</Source>
-      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
-    </String>
-    <String List="2">
-      <Source>You got the ocean to the east, waterfalls to the west, and hot springs to the south. </Source>
-      <Dest>你在东边可以找到海洋，西边找到瀑布，南边还有温泉。</Dest>
+      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
+      <Dest>有些事情好像兜不起来。你为什么离开基耐树林？</Dest>
     </String>
     <String List="0">
-      <Source>Tell me more about Kynesgrove.</Source>
-      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
-    </String>
-    <String List="2">
-      <Source>I tell you, soaking in those pools is better than any healing spell.</Source>
-      <Dest>告诉你，泡那里的温度比任何治疗法术都来得有效。</Dest>
+      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
+      <Dest>有些事情好像兜不起来。你为什么离开基耐树林？</Dest>
     </String>
     <String List="0">
-      <Source>Tell me more about Kynesgrove.</Source>
-      <Dest>再告诉我一些关于基耐树林的事情.</Dest>
-    </String>
-    <String List="2">
-      <Source>What does it look like?  I'm a sellsword.  You hiring?</Source>
-      <Dest>那你觉得是怎样？我是个佣兵。你在招人吗？</Dest>
+      <Source>Why would you leave Kynesgrove for the Stronghold?</Source>
+      <Dest>有些事情好像兜不起来。你为什么离开基耐树林？</Dest>
     </String>
     <String List="0">
       <Source>What brings you to Old Hroldan?</Source>
       <Dest>是什么风把你吹来古赫洛登?</Dest>
     </String>
-    <String List="2">
-      <Source>Kynesgrove. Little town in Eastmarch. You probably never heard of it, but it's practically in Ulfric's kitchen.</Source>
-      <Dest>基耐森林，在东陲领的一个小镇。你可能从未听过它，但它已经是乌佛瑞克的囊中之物。</Dest>
-    </String>
-    <String List="0">
-      <Source>Where may I ask do you come from?</Source>
-      <Dest>我能问你来自哪里吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I carry around a mace, but any one-handed weapon will do.  Short of that, I got fists like orichalchum.</Source>
-      <Dest>我随身带着一支钉锤，但其实任何单手武器也可以。没有的时候，我用我那双像兽人的铁拳。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've changed my mind.  I don't need to know about your life.  Just your steel.</Source>
-      <Dest>我改变了想法。我不需要了解你的生活，了解你的钢就足够了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You know why.  And I ain't here for your amusement.  If you got business here, take care of it.  Just don't expect me to help.</Source>
-      <Dest>你知道为什么。我在这儿可不是供你消遣的。如果你在这儿有事要做，那就放手去做吧。就是别指望我会帮你。</Dest>
-    </String>
     <String List="0">
       <Source>Yes, it is.  Why aren't you laughing?</Source>
       <Dest>是的没错，你笑什么啊？</Dest>
     </String>
-    <String List="2">
-      <Source>Oh, that's your face? I thought that was your ass.</Source>
-      <Dest>噢，那是你的脸吗？我以为那是你的屁股呢。</Dest>
+    <String List="0">
+      <Source>It's like a light tap on the shoulder, only on your mouth.</Source>
+      <Dest>就像是轻碰你的肩膀一样，只是用的是嘴巴。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your qualifications?</Source>
+      <Dest>你有什么资格？</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want me to?</Source>
+      <Dest>你真的想要？</Dest>
+    </String>
+    <String List="0">
+      <Source>How much do you charge for your services?</Source>
+      <Dest>当然。那你的收费怎么算？</Dest>
+    </String>
+    <String List="0">
+      <Source>How much do you charge for your services?</Source>
+      <Dest>当然。那你的收费怎么算？</Dest>
+    </String>
+    <String List="0">
+      <Source>A pity. I was looking for the "finest" warrior in Skyrim, not the fiercest.</Source>
+      <Dest>太可惜了。我一直在寻找天际省的“最优秀的”战士，而不是凶猛的。</Dest>
+    </String>
+    <String List="0">
+      <Source>A pity. I was looking for the "finest" warrior in Skyrim, not the fiercest.</Source>
+      <Dest>太可惜了。我一直在寻找天际省的“最优秀的”战士，而不是凶猛的。</Dest>
     </String>
     <String List="0">
       <Source>How preposterous!  I trimmed them this morning.</Source>
@@ -1042,305 +874,437 @@
       <Source>So? You're not exactly sitting in my lap, but I can still see your nose hairs could use a trim.</Source>
       <Dest>所以呢？你还没坐在我的腿上，我就可以看到你的鼻毛需要修剪。</Dest>
     </String>
-    <String List="0">
-      <Source>And yet none of those things are actually in Kynesgrove.</Source>
-      <Dest>然而那些东西没有一样确实在基耐森林。</Dest>
+    <String List="2">
+      <Source>Where I come from, people don't call you "Killer" unless you have a reputation.  For, you know, killing people.</Source>
+      <Dest>在我来自的地方，没人会叫你"杀手"除非你有名望。因为，你懂的，杀人。</Dest>
     </String>
     <String List="2">
-      <Source>My clan?  These savages are no kin of mine.  I'd tell you to get that through your thick skull, but it's like trying to chip a diamond with a tongue.</Source>
-      <Dest>我的部落？  我和这些野蛮人半点关系都没有。我一直让你记住这点，看来我白费力气了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I thought I'd help you reconcile with your clan.</Source>
-      <Dest>我本想我可以调解你和你的家族之间的关系。</Dest>
+      <Source>The best place you'll never see.  You got all the convenience of the city with none of the hassle.</Source>
+      <Dest>你从未看过的好地方。都市机能很方便的。</Dest>
     </String>
     <String List="2">
-      <Source>Look, if you got business here, take care of it.  Just don't expect me to help.</Source>
-      <Dest>听着，你要是有事，就自己解决。别指望我帮什么忙。</Dest>
-    </String>
-    <String List="0">
-      <Source>I thought I'd help you reconcile with your clan.</Source>
-      <Dest>我本想我可以调解你和你的家族之间的关系。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sounds like you read that in a book somewhere.  I'll ask someone with a little more real life experience.</Source>
-      <Dest>听起来就像你在读某本书的内容，也许我应该问一些有更多真实经验的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>It depends, but the best are soft without being weak, wet without being sloppy.</Source>
-      <Dest>看情况，最好的是软而不稀（weak 稀薄），潮而不黏（sloppy 泥泞的）（吐槽 这是便便么）。</Dest>
+      <Source>What does it look like?  I'm a sellsword.  You hiring?</Source>
+      <Dest>那你觉得是怎样？我是个佣兵。你在招人吗？</Dest>
     </String>
     <String List="2">
       <Source>Sounds boring the way you describe it.  Maybe you're doing it wrong.</Source>
       <Dest>你描述的方式听起来很无聊，或者是你做的方式错了。</Dest>
     </String>
-    <String List="0">
-      <Source>It's like a light tap on the shoulder, only on your mouth.</Source>
-      <Dest>就像是轻碰你的肩膀一样，只是用的是嘴巴。</Dest>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
     </String>
     <String List="2">
-      <Source>At first, he tried to make himself a warrior.  Spent all our savings on blunted swords and worthless piece of armor.  </Source>
-      <Dest>起初，他试着想让自己成为一名战士。就花光了我的所有积蓄去买了一把钝剑和一剑一文不值的盔甲。 </Dest>
-    </String>
-    <String List="0">
-      <Source>I imagine he didn't react well.</Source>
-      <Dest>我想象一下，他没有很好的应对。</Dest>
+      <Source>Um...what?  Sorry, I was thinking. Maybe...no, it's a stupid question.</Source>
+      <Dest>嗯...什么？抱歉，我在想事情。或许...不，这是个蠢问题。</Dest>
     </String>
     <String List="2">
-      <Source>Eventually he realized he was better off putting his energy into me.  But the Stormcloaks ain't exactly opening doors to those who ain't their kind.</Source>
-      <Dest>最终他发现还是别在我身上白费功夫了。可风暴斗篷是不会随便给异己开门的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I imagine he didn't react well.</Source>
-      <Dest>我想象一下，他没有很好的应对。</Dest>
+      <Source>So you're saying you don't know.  Figured as much, but thought I'd ask anyway.</Source>
+      <Dest>所以你说你也不清楚？我想也是这样，但我想我总该问一下。</Dest>
     </String>
     <String List="2">
-      <Source>Orcs don't exactly live long lives, and he was running out of time. </Source>
-      <Dest>确切地说，兽人们不能被称作长寿，毕竟他们可是一直在蹉跎岁月。</Dest>
-    </String>
-    <String List="0">
-      <Source>I imagine he didn't react well.</Source>
-      <Dest>我想象一下，他没有很好的应对。</Dest>
-    </String>
-    <String List="2">
-      <Source>So he drops me off in that cursed stronghold, like some piece of scrap meat for the hounds.</Source>
-      <Dest>所以，他把丢在了那个该死的要塞，真像把碎肉丢到一群野狗中间。</Dest>
-    </String>
-    <String List="0">
-      <Source>I imagine he didn't react well.</Source>
-      <Dest>我想象一下，他没有很好的应对。</Dest>
-    </String>
-    <String List="2">
-      <Source>At first, he tried to make himself a warrior.  Spent all our savings on blunted swords and worthless piece of armor.  </Source>
-      <Dest>起初，他试着想让自己成为一名战士。就花光了我的所有积蓄去买了一把钝剑和一剑一文不值的盔甲。 </Dest>
-    </String>
-    <String List="0">
-      <Source>How did he deal with it?</Source>
-      <Dest>他是如何处理它的？</Dest>
+      <Source>I grew up in an Orc Stronghold.  That good enough for you?</Source>
+      <Dest>我在一个兽人据点中长大，你满意了吗？</Dest>
     </String>
     <String List="2">
       <Source>Eventually he realized he was better off putting his energy into me.  But the Stormcloaks ain't exactly opening doors to those who ain't their kind.</Source>
       <Dest>最终他发现还是别在我身上白费功夫了。可风暴斗篷是不会随便给异己开门的。</Dest>
     </String>
-    <String List="0">
-      <Source>How did he deal with it?</Source>
-      <Dest>他是如何处理它的？</Dest>
+    <String List="2">
+      <Source>Eventually he realized he was better off putting his energy into me.  But the Stormcloaks ain't exactly opening doors to those who ain't their kind.</Source>
+      <Dest>最终他发现还是别在我身上白费功夫了。可风暴斗篷是不会随便给异己开门的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, there is.  There's something that's been bothering me for some time now.  It's kind of embarrassing to ask though...</Source>
+      <Dest>是啊确实。有些事已经困扰了我一段时间，可要问的话还是有点尴尬。。。</Dest>
+    </String>
+    <String List="2">
+      <Source>He didn't want me to grow up some milk-drinker like him, and he started getting this idea in his head that the Orc way was the only way.</Source>
+      <Dest>他不希望我像他一样，像个只会喝奶的渣滓。他便认为把我送给兽人是唯一的解决方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anywhere but an Orc Slavehold.  </Source>
+      <Dest>满脑子都是那个兽人要塞。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some guy by the name of "Killer" or "Slaughter" or something. Guy with a nickname like that must've slain hundreds, no, thousands of men.</Source>
+      <Dest>有些家伙被称"杀手"或"屠夫"之类的名字，他们都是已经杀了上百，不，上千个人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sounds like you read that in a book somewhere.  I'll ask someone with a little more real life experience.</Source>
+      <Dest>听起来就像你在读某本书的内容，也许我应该问一些有更多真实经验的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ever been inside a Dwarven ruin?  They say even the forks are worth more than a Nord shield.</Source>
+      <Dest>你在矮人遗迹冒险过吗？他们说就算是那里的一只叉子也比诺德盾牌值钱多了呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wanna see Riften.  Maybe a thief will try to pick my pocket.  Ever smash a hand with a mace?  Like taking a hammer to apple pie. Bits everywhere.</Source>
+      <Dest>我想看看裂谷城。也许会有小偷偷我的钱，甚至用棒打我一顿，就像用锤子打一个苹果派，粉身碎骨。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's go to a Giant camp.  Always wanted to test my mettle against one of those things.  </Source>
+      <Dest>去找个巨人营地吧。我一直想试试我对那些东西的身手</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I may have overstepped my bounds there.  If you'll have me, I promise to keep the insults to a minimum.</Source>
+      <Dest>我...我可能太超过了。如果你雇用我，我不会让这样的状况发生。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard Eorlund Gray-Mane forges steel from the back of great eagle in the sky as it circles Dragonsreach.  Now that I want to see.</Source>
+      <Dest>我听说厄仑德·灰鬃在一头环绕着龙临堡的巨鹰背上打铁。我挺想看看的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hear those Elves with bad skin, what are they called?  Farmers?  Yeah, they like to kidnap people and take them to caves.  We should find them.</Source>
+      <Dest>我听说过那些“皮肤有问题”的精灵们，他们叫什么来着？农民伯伯？哦对，他们喜欢把人绑架到山洞里去，我们得找到他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>At first, he tried to make himself a warrior.  Spent all our savings on blunted swords and worthless piece of armor.  </Source>
+      <Dest>起初，他试着想让自己成为一名战士。就花光了我的所有积蓄去买了一把钝剑和一剑一文不值的盔甲。 </Dest>
+    </String>
+    <String List="2">
+      <Source>At first, he tried to make himself a warrior.  Spent all our savings on blunted swords and worthless piece of armor.  </Source>
+      <Dest>起初，他试着想让自己成为一名战士。就花光了我的所有积蓄去买了一把钝剑和一剑一文不值的盔甲。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Anywhere it's warm.  Except Morrowind.  That place is a damn lava pit.  Not the kind of warm I'm talking about.</Source>
+      <Dest>还有哪里是温暖的。除了晨风省以外。那个地方就像个该死的熔岩坑，不是我在说的那种温暖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like to go to the hot springs, but not if there's people already there.  It's just...awkward.</Source>
+      <Dest>我想去温泉那儿，不过如果已经有人的话就还是算了。总感觉有点......羞射。</Dest>
+    </String>
+    <String List="2">
+      <Source>Look, if you got business here, take care of it.  Just don't expect me to help.</Source>
+      <Dest>听着，你要是有事，就自己解决。别指望我帮什么忙。</Dest>
+    </String>
+    <String List="2">
+      <Source>People keep telling me about this Shrine of Azura.  They say it's way more impressive than any tribute to Malacath. But not everything's about size.</Source>
+      <Dest>老有人跟我提起这个阿祖拉祭坛。说它比玛拉凯斯的任何贡品都壮观得多。但大小不能代表一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>After everything my mother did to get our family out of that backwards mess, he goes and screws it all up.</Source>
+      <Dest>在我母亲为了帮家庭摆脱那堆麻烦所做的一切后，他走了和把事情全搞得一团糟。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tell you, soaking in those pools is better than any healing spell.</Source>
+      <Dest>告诉你，泡那里的温度比任何治疗法术都来得有效。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anywhere it isn't cold.  So I guess to answer your question, no.</Source>
+      <Dest>任何地方都不寒冷. 所以我想要回答你的问题, 不.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, they both got people living in it. That's pretty much it.</Source>
+      <Dest>嗯，他们都有人陪伴着，差不多就是这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Better to ask how it's not. Go ahead, ask me.</Source>
+      <Dest>你最好问怎样不会不小心死了。来吧，问我。</Dest>
     </String>
     <String List="2">
       <Source>Orcs don't exactly live long lives, and he was running out of time. </Source>
       <Dest>确切地说，兽人们不能被称作长寿，毕竟他们可是一直在蹉跎岁月。</Dest>
     </String>
-    <String List="0">
-      <Source>How did he deal with it?</Source>
-      <Dest>他是如何处理它的？</Dest>
+    <String List="2">
+      <Source>You got the ocean to the east, waterfalls to the west, and hot springs to the south. </Source>
+      <Dest>你在东边可以找到海洋，西边找到瀑布，南边还有温泉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then they go out and risk their lives for these milk-drinkers who end up collecting enough loot to buy the Blue Palace.</Source>
+      <Dest>然后就冲出去，为那些最后会拿走所有战利品后回到的独孤城买屋子的渣滓卖命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Kynesgrove. Little town in Eastmarch. You probably never heard of it, but it's practically in Ulfric's kitchen.</Source>
+      <Dest>基耐森林，在东陲领的一个小镇。你可能从未听过它，但它已经是乌佛瑞克的囊中之物。</Dest>
     </String>
     <String List="2">
       <Source>So he drops me off in that cursed stronghold, like some piece of scrap meat for the hounds.</Source>
       <Dest>所以，他把丢在了那个该死的要塞，真像把碎肉丢到一群野狗中间。</Dest>
     </String>
+    <String List="2">
+      <Source>But apparently you do intend to stay.  Look, if you got business here, take care of it.  Just don't expect me to help.</Source>
+      <Dest>但显然你更倾向于留下来。听着，如果你在这儿还有事要处理，那你就去处理吧。只要别指望我来帮忙就好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, well I was planning on staying in Rorikstead.  Place like that got people going east and west.  'Cept there was already a sellsword there.</Source>
+      <Dest>是啊，洛利克镇，一个可以让人四处遊走的地方，要不是因为那里已经有个佣兵，我都打算留在那儿了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hear Markarth has this mine that's worked on by inmates.  I don't get that. Seems to me all they'd do is dig a hole right to the surface.</Source>
+      <Dest>我听过马卡斯城有个由当地住民工作的矿场，我不明白，就我看来他们做的事就只是在地面上挖出一个洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm tired of figuring out where to go next.   Grow a spine and lead!</Source>
+      <Dest>我已经找出我们下一步该往哪里走了。把腰板挺直了然后带路！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, that's your face? I thought that was your ass.</Source>
+      <Dest>噢，那是你的脸吗？我以为那是你的屁股呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, alright.  If you want the truth, I didn't go to Largashbur out of choice.  My father forced me to.</Source>
+      <Dest>好吧，好吧。如果你想知道真相，我去拉加施布尔是因为没有别的选择，是我的父亲逼我去的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some of these mammoth-brains even do a second job on the house.</Source>
+      <Dest>有些脑大弱智的甚至还让他们可以买第二间房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard there's plenty of wrecks to salvage on the coast near Haafinger.  If that's your sort of thing.  I prefer a fight, though.</Source>
+      <Dest>我听说在海芬加领附近的海岸有很多沉船可以打捞。但这是你的事。我还是更喜欢打架。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know why.  And I ain't here for your amusement.  If you got business here, take care of it.  Just don't expect me to help.</Source>
+      <Dest>你知道为什么。我在这儿可不是供你消遣的。如果你在这儿有事要做，那就放手去做吧。就是别指望我会帮你。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you, entering some tournament or something?  Think some Giant is gonna kneel before the Jarl before sending you to the moons?</Source>
+      <Dest>你想怎样？参加些比赛或之类的东西？打算在巨人把你踢到月球前，让他们在领主面前对你下跪？</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's got a cave and it's got things to smash, then maybe some other time. I feel like going to a tavern.  A good one.</Source>
+      <Dest>就算这儿还有个洞穴需要挖，还有什么东西需要砸碎，也得等会儿了。我现在就要去个酒馆，然后好好喝一杯。</Dest>
+    </String>
+    <String List="2">
+      <Source>He can.  All it takes is someone to challenge him, but it has to be a male, or else I'd be chief myself.</Source>
+      <Dest>他能。所有他获得的，都是曾经挑战他的人的东西。但是他必须做一个男人。或者，我会做我自己的首领。</Dest>
+    </String>
+    <String List="2">
+      <Source>My clan?  These savages are no kin of mine.  I'd tell you to get that through your thick skull, but it's like trying to chip a diamond with a tongue.</Source>
+      <Dest>我的部落？  我和这些野蛮人半点关系都没有。我一直让你记住这点，看来我白费力气了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Out in the real world you need to be fierce.  Trust me, I know.  So are you hiring or what?</Source>
+      <Dest>在现实中，你需要变得凶猛。相信我，我了解的。所以你到底要不要？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah? I stepped on a worm the other day, you don't see me bragging about it.  But you did the tribe a favor all the same.</Source>
+      <Dest>是吗？你不会见到我吹嘘自己某天踏死了一条虫吧，但你卖了部落一个人情是真的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Be serious.</Source>
+      <Dest>严肃。</Dest>
+    </String>
+    <String List="2">
+      <Source>I carry around a mace, but any one-handed weapon will do.  Short of that, I got fists like orichalchum.</Source>
+      <Dest>我随身带着一支钉锤，但其实任何单手武器也可以。没有的时候，我用我那双像兽人的铁拳。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mean kissing?</Source>
+      <Dest>你是指亲吻？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you didn't get along with the chief.</Source>
+      <Dest>我估摸着你跟首领相处得并不融洽。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you didn't get along with the chief.</Source>
+      <Dest>我估摸着你跟首领相处得并不融洽。</Dest>
+    </String>
+    <String List="0">
+      <Source>You father was a traditionalist?</Source>
+      <Dest>你的父亲是传统主义者吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You father was a traditionalist?</Source>
+      <Dest>你的父亲是传统主义者吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You father was a traditionalist?</Source>
+      <Dest>你的父亲是传统主义者吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Some things are best discovered on your own.</Source>
+      <Dest>你亲自寻得的东西才是最好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
+      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
+      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
+      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
+      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
     <String List="0">
       <Source>How did he deal with it?</Source>
       <Dest>他是如何处理它的？</Dest>
     </String>
-    <String List="2">
-      <Source>That's one way of putting it.  I say he was obsessed.  Like he lost a part of his heritage by growing up a farmer.</Source>
-      <Dest>就是这样。我说他还念念不忘，就像他因为做农夫而失去他传统的一部份。</Dest>
+    <String List="0">
+      <Source>How did he deal with it?</Source>
+      <Dest>他是如何处理它的？</Dest>
     </String>
     <String List="0">
-      <Source>You father was a traditionalist?</Source>
-      <Dest>你的父亲是传统主义者吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>You can almost tell how embarrassed he was when some Orc sellsword came by the inn.  Or even worse, someone from the Stronghold.   </Source>
-      <Dest>你可以想像到当一个兽人佣兵来到酒馆时他是有多么的尴尬，更糟糕的还是一个来自要塞的兽人。</Dest>
+      <Source>I prefer you keep them coming.</Source>
+      <Dest>我喜欢你一直让他们来。</Dest>
     </String>
     <String List="0">
-      <Source>You father was a traditionalist?</Source>
-      <Dest>你的父亲是传统主义者吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Actually, almost isn't the right word.  It was written all over his face.  The shame.</Source>
-      <Dest>事实上，应该这样说吧，在他的脸上写的是，耻辱。</Dest>
+      <Source>Oh boy, where is this going?</Source>
+      <Dest>喔~小男孩，你想去哪啊？</Dest>
     </String>
     <String List="0">
-      <Source>You father was a traditionalist?</Source>
-      <Dest>你的父亲是传统主义者吗？</Dest>
+      <Source>Oh boy, where is this going?</Source>
+      <Dest>喔~小男孩，你想去哪啊？</Dest>
     </String>
-    <String List="2">
-      <Source>If you want a guy known as "The Killer" at your backside, be my guest.</Source>
-      <Dest>如果你想有个被称为"杀手"的人跟在你背后，那随便你。</Dest>
+    <String List="0">
+      <Source>Oh boy, where is this going?</Source>
+      <Dest>喔~小男孩，你想去哪啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh boy, where is this going?</Source>
+      <Dest>喔~小男孩，你想去哪啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>That certainly clears things up for me.</Source>
+      <Dest>那肯定是为我清理东西的。</Dest>
     </String>
     <String List="0">
       <Source>I should go to Rorikstead and hire that guy. He sounds fearsome.</Source>
       <Dest>我应该去洛利克镇聘请那个家伙。他听起来挺厉害的。</Dest>
     </String>
     <String List="2">
-      <Source>What, you think I should file off my tusks?  Sounds like an awful lot of trouble.</Source>
-      <Dest>什么？你的意思是我应该拔去我的獠牙？这听起来麻烦得要命。</Dest>
-    </String>
-    <String List="0">
-      <Source>Some things are best discovered on your own.</Source>
-      <Dest>你亲自寻得的东西才是最好的。</Dest>
+      <Source>I was just hoping you could tell me what it's like, or at least knew someone who told you.</Source>
+      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。 </Dest>
     </String>
     <String List="2">
-      <Source>No you fungus-licker, I ain't no Dibellan whore. I was just curious is all, seeing that neither of us can do the same. Our tusks get in the way.</Source>
-      <Dest>不！你这个讨厌的家伙。我才不是什么信奉迪贝拉的妓女。我只是好奇而已，因为我们做不到啊，有獠牙碍事的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Oh boy, where is this going?</Source>
-      <Dest>喔~小男孩，你想去哪啊？</Dest>
+      <Source>I was hoping you could describe it to me, or at least knew someone who described it to you.</Source>
+      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。</Dest>
     </String>
     <String List="2">
-      <Source>I was just thinking maybe you knew someone who told you.</Source>
-      <Dest>我希望你可以告诉我那是什么感觉，或至少是你从别人那听来的也可以。</Dest>
-    </String>
-    <String List="0">
-      <Source>Oh boy, where is this going?</Source>
-      <Dest>喔~小男孩，你想去哪啊？</Dest>
+      <Source>I was hoping you could describe it to me, or at least knew someone who described it to you.</Source>
+      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。</Dest>
     </String>
     <String List="2">
       <Source>No you fungus-licker, I ain't no Dibellan whore. I was just curious is all, seeing that I can't exactly do the same, not with these tusks in the way.</Source>
       <Dest>我并非真菌舔食者，我也并不是迪贝拉的妓女。我只是好奇罢了， 鉴于我不能做同样的事情，无法和这些挡道的象牙在一起.</Dest>
-    </String>
-    <String List="0">
-      <Source>Oh boy, where is this going?</Source>
-      <Dest>喔~小男孩，你想去哪啊？</Dest>
-    </String>
-    <String List="2">
-      <Source>I was just hoping you could tell me what it's like, or at least knew someone who told you.</Source>
-      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Oh boy, where is this going?</Source>
-      <Dest>喔~小男孩，你想去哪啊？</Dest>
-    </String>
-    <String List="2">
-      <Source>Is that what it's called?  Well, in any case, I was wondering what that was like. </Source>
-      <Dest>是这样叫吧？好吧，不管怎样，我都想知道那是什么感觉。</Dest>
-    </String>
-    <String List="0">
-      <Source>You mean kissing?</Source>
-      <Dest>你是指亲吻？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yamarz?  Yeah, I don't know if he was chief when mother left, but if he was anything like that coward, I can see why she did.</Source>
-      <Dest>Yamarz?  Yeah, I don't know if he was chief when mother left, but if he was anything like that coward, I can see why she did.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you didn't get along with the chief.</Source>
-      <Dest>我估摸着你跟首领相处得并不融洽。</Dest>
-    </String>
-    <String List="2">
-      <Source>That poor fool didn't even bother to stop me as I walked out of the front gate.  He was too scared I'd actually fight back.</Source>
-      <Dest>那个可怜的傻瓜甚至没有阻止我走出大门，他太害怕我真的会还手。</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you didn't get along with the chief.</Source>
-      <Dest>我估摸着你跟首领相处得并不融洽。</Dest>
-    </String>
-    <String List="2">
-      <Source>I said I was a sellsword, not a songbird.</Source>
-      <Dest>我说过我是佣兵，而不是一只音乐鸟。</Dest>
-    </String>
-    <String List="0">
-      <Source>That certainly clears things up for me.</Source>
-      <Dest>那肯定是为我清理东西的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, that's the thing. We have these tusks, and well, it just ain't possible, not the way the humans do it.</Source>
-      <Dest>嗯，这有点问题。你知道兽人都有獠牙，所以啦，是不可能的以人类的方式来做。</Dest>
-    </String>
-    <String List="0">
-      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
-      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was hoping you could describe it to me, or at least knew someone who described it to you.</Source>
-      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。</Dest>
-    </String>
-    <String List="0">
-      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
-      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, that's the thing.  Orcs have these tusks, and well, it just ain't possible, not the way the humans do it.</Source>
-      <Dest>哇，就是这事。兽人拥有这些獠牙，水井，这不可能。这不是人类的行为方式。</Dest>
-    </String>
-    <String List="0">
-      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
-      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was hoping you could describe it to me, or at least knew someone who described it to you.</Source>
-      <Dest>我希望你可以形容给我听，或至少是你从别人那听来的也可以。</Dest>
-    </String>
-    <String List="0">
-      <Source>You should practice with someone.  I know someone who'd be interested.</Source>
-      <Dest>你应该跟别人一起练习，我想我知道有谁会感兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then may I say you have the keen look of a mudcrab with ataxia, sera.</Source>
-      <Dest>那我能说你看起来超像一只病重的螃蟹吗，老兄。</Dest>
-    </String>
-    <String List="0">
-      <Source>I prefer you keep them coming.</Source>
-      <Dest>我喜欢你一直让他们来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Lead on then.  My mace hand's getting twitchy.</Source>
-      <Dest>前面带路的干活。我的狼牙大棒饥渴难耐了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
-    </String>
-    <String List="2">
-      <Source>Uh-huh.</Source>
-      <Dest>嗯哼。</Dest>
-    </String>
-    <String List="2">
-      <Source>You drag me to a Stronghold, I roll your head.</Source>
-      <Dest>你要敢拖着我去一个要塞.，我就敢把你的头砍下来。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right, then.</Source>
-      <Dest>那就这样吧。</Dest>
     </String>
     <String List="2">
       <Source>Yeah?</Source>
       <Dest>啊?</Dest>
     </String>
     <String List="2">
-      <Source>Need something?</Source>
-      <Dest>有事吗？</Dest>
+      <Source>That's one way of putting it.  I say he was obsessed.  Like he lost a part of his heritage by growing up a farmer.</Source>
+      <Dest>就是这样。我说他还念念不忘，就像他因为做农夫而失去他传统的一部份。</Dest>
+    </String>
+    <String List="2">
+      <Source>No you fungus-licker, I ain't no Dibellan whore. I was just curious is all, seeing that neither of us can do the same. Our tusks get in the way.</Source>
+      <Dest>不！你这个讨厌的家伙。我才不是什么信奉迪贝拉的妓女。我只是好奇而已，因为我们做不到啊，有獠牙碍事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That poor fool didn't even bother to stop me as I walked out of the front gate.  He was too scared I'd actually fight back.</Source>
+      <Dest>那个可怜的傻瓜甚至没有阻止我走出大门，他太害怕我真的会还手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="2">
       <Source>To the next fight.</Source>
-      <Dest>朝下一场战斗前进。</Dest>
+      <Dest>前往下个战场。</Dest>
+    </String>
+    <String List="2">
+      <Source>What, you think I should file off my tusks?  Sounds like an awful lot of trouble.</Source>
+      <Dest>什么？你的意思是我应该拔去我的獠牙？这听起来麻烦得要命。</Dest>
+    </String>
+    <String List="2">
+      <Source>An Orc follows to the death.  Just don't make a habit of inviting it.</Source>
+      <Dest>一个追随着死亡的兽人，不要出于习惯而邀请他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, almost isn't the right word.  It was written all over his face.  The shame.</Source>
+      <Dest>事实上，应该这样说吧，在他的脸上写的是，耻辱。</Dest>
+    </String>
+    <String List="2">
+      <Source>You drag me to a Stronghold, I roll your head.</Source>
+      <Dest>你要敢拖着我去一个要塞.，我就敢把你的头砍下来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I said I was a sellsword, not a songbird.</Source>
+      <Dest>我说过我是佣兵，而不是一只音乐鸟。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead on then.  My mace hand's getting twitchy.</Source>
+      <Dest>前面带路的干活。我的狼牙大棒饥渴难耐了！</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was just thinking maybe you knew someone who told you.</Source>
+      <Dest>我希望你可以告诉我那是什么感觉，或至少是你从别人那听来的也可以。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that's the thing. We have these tusks, and well, it just ain't possible, not the way the humans do it.</Source>
+      <Dest>嗯，这有点问题。你知道兽人都有獠牙，所以啦，是不可能的以人类的方式来做。</Dest>
     </String>
     <String List="2">
       <Source>My blood is boiling. I prefer it that way.</Source>
       <Dest>我热血沸腾了。我就那样选择了。.</Dest>
     </String>
     <String List="2">
-      <Source>An Orc follows to the death.  Just don't make a habit of inviting it.</Source>
-      <Dest>一个追随着死亡的兽人，不要出于习惯而邀请他。</Dest>
+      <Source>Well, that's the thing.  Orcs have these tusks, and well, it just ain't possible, not the way the humans do it.</Source>
+      <Dest>哇，就是这事。兽人拥有这些獠牙，水井，这不可能。这不是人类的行为方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that what it's called?  Well, in any case, I was wondering what that was like. </Source>
+      <Dest>是这样叫吧？好吧，不管怎样，我都想知道那是什么感觉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Orcs don't exactly live long lives, and he was running out of time. </Source>
+      <Dest>确切地说，兽人们不能被称作长寿，毕竟他们可是一直在蹉跎岁月。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then may I say you have the keen look of a mudcrab with ataxia, sera.</Source>
+      <Dest>那我能说你看起来超像一只病重的螃蟹吗，老兄。</Dest>
+    </String>
+    <String List="2">
+      <Source>So he drops me off in that cursed stronghold, like some piece of scrap meat for the hounds.</Source>
+      <Dest>所以，他把丢在了那个该死的要塞，真像把碎肉丢到一群野狗中间。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you want a guy known as "The Killer" at your backside, be my guest.</Source>
+      <Dest>如果你想有个被称为"杀手"的人跟在你背后，那随便你。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can almost tell how embarrassed he was when some Orc sellsword came by the inn.  Or even worse, someone from the Stronghold.   </Source>
+      <Dest>你可以想像到当一个兽人佣兵来到酒馆时他是有多么的尴尬，更糟糕的还是一个来自要塞的兽人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Uh-huh.</Source>
+      <Dest>嗯哼。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

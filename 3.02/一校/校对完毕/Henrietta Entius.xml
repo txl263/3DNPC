@@ -6,45 +6,45 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>Why don't people want to talk to you?</Source>
-      <Dest>人们为什么就不愿意和你说话呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Why not?  She's nice.</Source>
-      <Dest>为什么不呢？她人很好的。</Dest>
-    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't like it here.  There's too many bugs.</Source>
-      <Dest>我不喜欢这里，这里有太多虫子了。</Dest>
     </String>
     <String List="2">
       <Source>Mom says I'm getting a new Mommy and Daddy.  So I'll have two of each now.</Source>
       <Dest>妈妈说我会有个新的妈妈和爸爸，所以到时候我会有两个妈妈。</Dest>
     </String>
     <String List="2">
+      <Source>I really like your robe.</Source>
+      <Dest>我真的很喜欢你的法袍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't like it here.  There's too many bugs.</Source>
+      <Dest>我不喜欢这里，这里有太多虫子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why not?  She's nice.</Source>
+      <Dest>为什么不呢？她人很好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why don't people want to talk to you?</Source>
+      <Dest>人们为什么就不愿意和你说话呢？</Dest>
+    </String>
+    <String List="2">
       <Source>Narri's funny.  She tells everyone how handsome and pretty they are. Mom says she does it for tips.</Source>
       <Dest>纳里她很有趣。她不断说别人他们是多么的帅气和可爱，妈妈说她这样做是为了拿小费。</Dest>
     </String>
     <String List="2">
-      <Source>I really like your robe.</Source>
-      <Dest>我真的很喜欢你的法袍。</Dest>
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

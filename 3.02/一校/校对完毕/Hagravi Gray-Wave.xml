@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,712 +7,180 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>No, I'm talking about a real hagraven. I got drunk and things happened.</Source>
-      <Dest>No, I'm talking about a real hagraven. I got drunk and things happened.</Dest>
+      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
+      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
     </String>
-    <String List="2">
-      <Source>Then let's hold off on the drinks, lest we both end up in bed with Spriggans.</Source>
-      <Dest>我们晚点再喝这些酒吧，免得醉醒后发现我们和树精上床了。</Dest>
+    <String List="0">
+      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
+      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
     </String>
     <String List="0">
       <Source>What did you do?</Source>
       <Dest>你做了什么？</Dest>
     </String>
-    <String List="2">
-      <Source>I froze. I was intoxicated by beauty and fear. I thought I'd surely be dead. I wondered if there was a better way to die.  </Source>
-      <Dest>I froze. I was intoxicated by beauty and fear. I thought I'd surely be dead. I wondered if there was a better way to die.  </Dest>
-    </String>
     <String List="0">
       <Source>What did you do?</Source>
       <Dest>你做了什么？</Dest>
     </String>
-    <String List="2">
-      <Source>Then a voice came cutting through the silence. It said, "You can shoot him in the neck, but he won't bleed. The blood's all below the waist!"</Source>
-      <Dest>这时，一把声音打破了沉默。它说："你可以射他的脖子，但他可不会流血。他的血全都流到去跨下了。"</Dest>
-    </String>
     <String List="0">
       <Source>What did you do?</Source>
       <Dest>你做了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>And just like that, I was saved by peals of laughter. The heartiest of which came from the man who saved me. A man who called himself King.  </Source>
-      <Dest>And just like that, I was saved by peals of laughter. The heartiest of which came from the man who saved me. A man who called himself King.  </Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to earn enough for food and shelter?</Source>
-      <Dest>How did you manage to earn enough for food and shelter?</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I bought so many potions the local alchemist took pity on me. She gave me a recipe on how to make new ones.</Source>
-      <Dest>Well, I bought so many potions the local alchemist took pity on me. She gave me a recipe on how to make new ones.</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to earn enough for food and shelter?</Source>
-      <Dest>How did you manage to earn enough for food and shelter?</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, idiot that I was, instead of learning how to make the potions, I sold the recipe.  </Source>
-      <Dest>Of course, idiot that I was, instead of learning how to make the potions, I sold the recipe.  </Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to earn enough for food and shelter?</Source>
-      <Dest>How did you manage to earn enough for food and shelter?</Dest>
-    </String>
-    <String List="2">
-      <Source>Then I went back to the tavern to brawl, and lost it all to some big Nord cow! Ha, I was such a fool.</Source>
-      <Dest>Then I went back to the tavern to brawl, and lost it all to some big Nord cow! Ha, I was such a fool.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it your desire to be descriptive is what helps you craft stories.</Source>
-      <Dest>I take it your desire to be descriptive is what helps you craft stories.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, but wanting to, and knowing how, are two separate things.</Source>
-      <Dest>Yes, but wanting to, and knowing how, are two separate things.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it your desire to be descriptive is what helps you craft stories.</Source>
-      <Dest>I take it your desire to be descriptive is what helps you craft stories.</Dest>
-    </String>
-    <String List="2">
-      <Source>When I was young, a beggar in the Ratways, a former explorer, used to tell me tales of his travels.</Source>
-      <Dest>When I was young, a beggar in the Ratways, a former explorer, used to tell me tales of his travels.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it your desire to be descriptive is what helps you craft stories.</Source>
-      <Dest>I take it your desire to be descriptive is what helps you craft stories.</Dest>
-    </String>
-    <String List="2">
-      <Source>Knowing my history, he always made an effort to be as descriptive as possible, to use his words like a painter uses a brush.</Source>
-      <Dest>Knowing my history, he always made an effort to be as descriptive as possible, to use his words like a painter uses a brush.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it your desire to be descriptive is what helps you craft stories.</Source>
-      <Dest>I take it your desire to be descriptive is what helps you craft stories.</Dest>
-    </String>
-    <String List="0">
-      <Source>So he taught you how to read and write?</Source>
-      <Dest>So he taught you how to read and write?</Dest>
-    </String>
-    <String List="2">
-      <Source>Neither. He taught me how to paint.</Source>
-      <Dest>Neither. He taught me how to paint.</Dest>
-    </String>
-    <String List="0">
-      <Source>Names are short because it's convenient. </Source>
-      <Dest>Names are short because it's convenient. </Dest>
-    </String>
-    <String List="2">
-      <Source>That's the problem. Everyone is in a rush to save time. I don't really care what's convenient. I want to know the whole story.</Source>
-      <Dest>That's the problem. Everyone is in a rush to save time. I don't really care what's convenient. I want to know the whole story.</Dest>
-    </String>
-    <String List="0">
-      <Source>True, but when we hear the word Riften, we picture everything else.</Source>
-      <Dest>True, but when we hear the word Riften, we picture everything else.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, but only if you've been there. Otherwise, it means nothing.</Source>
-      <Dest>Yes, but only if you've been there. Otherwise, it means nothing.</Dest>
-    </String>
-    <String List="0">
-      <Source>Unless you're an Argonian. Those names are often literal.</Source>
-      <Dest>Unless you're an Argonian. Those names are often literal.</Dest>
-    </String>
-    <String List="2">
-      <Source>Not really. If my name was Blue-Eyes, sure, it wouldn't be wrong, but it wouldn't tell you much about me.</Source>
-      <Dest>Not really. If my name was Blue-Eyes, sure, it wouldn't be wrong, but it wouldn't tell you much about me.</Dest>
-    </String>
-    <String List="0">
-      <Source>How do names fail to describe things?</Source>
-      <Dest>How do names fail to describe things?</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, take Riften, for example. Does the name tell you about its people, its culture, its history?</Source>
-      <Dest>Well, take Riften, for example. Does the name tell you about its people, its culture, its history?</Dest>
-    </String>
-    <String List="0">
-      <Source>How do names fail to describe things?</Source>
-      <Dest>How do names fail to describe things?</Dest>
-    </String>
-    <String List="2">
-      <Source>Does it describe the dampness of the air as it wafts in from the canals, or the leaves that roll down the sky like autumn tears?</Source>
-      <Dest>难道名字能形容那些从河道那里吹来的湿气，或者那些像天空落泪般随风帘卷的秋叶？</Dest>
-    </String>
-    <String List="0">
-      <Source>How do names fail to describe things?</Source>
-      <Dest>How do names fail to describe things?</Dest>
-    </String>
-    <String List="2">
-      <Source>Names do not make a city, and they do not make the man.</Source>
-      <Dest>名字无法成就一座城市，也不会成就一个男人。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>Inside one of the cells is the most beautiful damsel you will ever lay your eyes upon, but her voice is dirty with pain.</Source>
-      <Dest>在一个房间内有一个你永远都不想闭上眼，永远直视着，最美丽的少女，但她的话却是狠毒得像带刺一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>She had been beaten and tortured, yet through it all she faces those who greet her with dignity and pride.  </Source>
-      <Dest>她一直被殴打和折磨着，但当这一切过去后，她找到了那些会对她尊敬和自豪的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet I sensed beneath her tough veneer that there was a twinge of sorrow.  Not for herself, but for those on the battlefield she cannot save.</Source>
-      <Dest>Yet I sensed beneath her tough veneer that there was a twinge of sorrow.  Not for herself, but for those on the battlefield she cannot save.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting stories from your travels?</Source>
-      <Dest>告诉我来自您的旅行的另一个故事。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have a few, if you'll indulge me. In my journeys to the north, for instance, I found a palace with domes painted like the night sky.</Source>
-      <Dest>有些吧，如果你会容许我的话。比如说，在我到北方的旅途中，发现了一个宫殿。殿中的穹顶画得如同夜空一般。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting stories from your travels?</Source>
-      <Dest>告诉我来自您的旅行的另一个故事。</Dest>
-    </String>
-    <String List="2">
-      <Source>There were towers that touched the stars overlooking oceans as blue as sapphire. Yet the true jewel lies in the pits of the city dungeon.</Source>
-      <Dest>There were towers that touched the stars overlooking oceans as blue as sapphire. Yet the true jewel lies in the pits of the city dungeon.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>Sure thing, friend. Let me tell you about my days as a brawler. It was Sun's Dusk, and I had spent my last coin on a bottle of cheap swill. </Source>
-      <Dest>Sure thing, friend. Let me tell you about my days as a brawler. It was Sun's Dusk, and I had spent my last coin on a bottle of cheap swill. </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>I was still young and foolish then, and spent gold like a skeever eats cheese. </Source>
-      <Dest>I was still young and foolish then, and spent gold like a skeever eats cheese. </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>To earn some money I took to brawling in the taverns. The gold barely paid for the healing potions I needed to cure my broken bones.  </Source>
-      <Dest>To earn some money I took to brawling in the taverns. The gold barely paid for the healing potions I needed to cure my broken bones.  </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't have a tale off hand, but I can tell you how I learned to craft them.</Source>
-      <Dest>I don't have a tale off hand, but I can tell you how I learned to craft them.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>You see, early in my childhood, I had a dislike of names. They never really described anything.</Source>
-      <Dest>You see, early in my childhood, I had a dislike of names. They never really described anything.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. I will tell you of the far west, where there are mountain peaks striped with rivers of stone. </Source>
-      <Dest>Very well. I will tell you of the far west, where there are mountain peaks striped with rivers of stone. </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>The air is thicker than a Jarl's waistline, and the wind rumbles like the breath of a dragon.  </Source>
-      <Dest>那气氛就好比贵族的腰围一般粗厚，那阵风也好像巨龙的气息一样隆隆地响。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>I was lost in the clutches of night, with only the blood moon to guide me. That is, until I saw a fire and a circle of tents tucked below the rock.</Source>
-      <Dest>我在黑夜的魔掌中迷了路，只剩下血红色的月亮引导着我。直到我看到了在岩石缝隙之下的营火与帐篷。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>Imagine my surprise when I approached the camp, and found three women in furs no larger than a hair's breadth, training their arrows at my throat. </Source>
-      <Dest>Imagine my surprise when I approached the camp, and found three women in furs no larger than a hair's breadth, training their arrows at my throat. </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>This isn't a story, but some information.</Source>
-      <Dest>This isn't a story, but some information.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>To the west, at the source of a river, I found a mast jutting out from the surface.  If I knew how to swim, I'd see what's attached to it.</Source>
-      <Dest>在西边，我在一条河流的源头处见到一枝桅杆从河面上伸出来。如果我懂得游泳，我真想看看它到底是连接着些什么东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>I once visited Rorikstead, because I fancy the song about Ragnar.  Strange to find the town named after a still living person! Rorik of Rorikstead.  </Source>
-      <Dest>I once visited Rorikstead, because I fancy the song about Ragnar.  Strange to find the town named after a still living person! Rorik of Rorikstead.  </Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me another story from your travels.</Source>
-      <Dest>Tell me another story from your travels.</Dest>
-    </String>
-    <String List="2">
-      <Source>I guess that's why they call it "ole" Rorikstead.  Must have had another name, unless the song isn't as old as I think. </Source>
-      <Dest>我想这就是为什么他们会叫这个城镇做"古"洛利克镇。它一定有别的名字，除非这首歌不如我想像中那么古老。</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry. I swear on Grelod's life she will be just fine.</Source>
-      <Dest>别担心。我拿桂罗的命发誓，她很好。</Dest>
-    </String>
-    <String List="2">
-      <Source>That doesn't raise my confidence, but I suppose we all have our own fate.  Good luck, traveler.  May all your adventures be worthy of a song.</Source>
-      <Dest>你这句话并没有给予我更大的信心，但我想我们每个人都有自己的命运吧。祝你好运，旅行者。愿您的冒险精彩得可换来一首赞歌。</Dest>
-    </String>
-    <String List="0">
-      <Source>As an orphan myself, I can sympathize.</Source>
-      <Dest>As an orphan myself, I can sympathize.</Dest>
-    </String>
-    <String List="2">
-      <Source>No need to feel sorry for me, cousin. Yes, we had it tough, but I truly believe it was all for the best.</Source>
-      <Dest>No need to feel sorry for me, cousin. Yes, we had it tough, but I truly believe it was all for the best.</Dest>
     </String>
     <String List="0">
       <Source>Any stories from your days in the Orphanage?</Source>
       <Dest>说说你在孤儿院时候的事。</Dest>
     </String>
-    <String List="2">
-      <Source>I prefer not to talk about those days. I appreciate the hard lessons Grelod taught me, yet I'm in no hurry to revisit them.</Source>
-      <Dest>I prefer not to talk about those days. I appreciate the hard lessons Grelod taught me, yet I'm in no hurry to revisit them.</Dest>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
     </String>
     <String List="0">
-      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
-      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry. I swear on Grelod's life she will be just fine.</Source>
+      <Dest>别担心。我拿桂罗的命发誓，她会很好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you're another pilgrim on your way to High Hrothgar.</Source>
+      <Dest>我猜你是另一个在前往高吼峰上的朝圣者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting stories from your travels?</Source>
+      <Dest>您的旅行有沒有一些有趣的事?</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting stories from your travels?</Source>
+      <Dest>您的旅行有沒有一些有趣的事?</Dest>
+    </String>
+    <String List="2">
+      <Source>She had been beaten and tortured, yet through it all she faces those who greet her with dignity and pride.  </Source>
+      <Dest>她一直被殴打和折磨着，但当这一切过去后，她找到了那些会对她尊敬和自豪的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The air is thicker than a Jarl's waistline, and the wind rumbles like the breath of a dragon.  </Source>
+      <Dest>那气氛就好比贵族的腰围一般粗厚，那阵风也好像巨龙的气息一样隆隆地响。</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a few, if you'll indulge me. In my journeys to the north, for instance, I found a palace with domes painted like the night sky.</Source>
+      <Dest>有些吧，如果你会容许我的话。比如说，在我到北方的旅途中，发现了一个宫殿。殿中的穹顶画得如同夜空一般。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess that's why they call it "ole" Rorikstead.  Must have had another name, unless the song isn't as old as I think. </Source>
+      <Dest>我想这就是为什么他们会叫这个城镇做"古"洛利克镇。它一定有别的名字，除非这首歌不如我想像中那么古老。</Dest>
+    </String>
+    <String List="2">
+      <Source>That doesn't raise my confidence, but I suppose we all have our own fate.  Good luck, traveler.  May all your adventures be worthy of a song.</Source>
+      <Dest>你这句话并没有给予我更大的信心，但我想我们每个人都有自己的命运吧。祝你好运，旅行者。愿您的冒险精彩得可换来一首赞歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, I have enjoyed our talk.  May you craft your own stories as you continue your travels.</Source>
+      <Dest>不管怎样，我很高兴和你聊天。希望你在之后的旅途中创造出属于自己的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, I'm thankful the guard didn't turn me in right then.  How foolish a child I was, to think I could convince an adult to commit murder.</Source>
+      <Dest>最终，我很感激那名守卫没有举报我。多么地愚蠢，我在想我一个小孩可以说服一个成年人去谋杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Inside one of the cells is the most beautiful damsel you will ever lay your eyes upon, but her voice is dirty with pain.</Source>
+      <Dest>在一个房间内有一个你永远都不想闭上眼，永远直视着，最美丽的少女，但她的话却是狠毒得像带刺一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Names do not make a city, and they do not make the man.</Source>
+      <Dest>名字无法成就一座城市，也不会成就一个男人。</Dest>
+    </String>
+    <String List="2">
+      <Source>To the west, at the source of a river, I found a mast jutting out from the surface.  If I knew how to swim, I'd see what's attached to it.</Source>
+      <Dest>在西边，我在一条河流的源头处见到一枝桅杆从河面上伸出来。如果我懂得游泳，我真想看看它到底是连接着些什么东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then a voice came cutting through the silence. It said, "You can shoot him in the neck, but he won't bleed. The blood's all below the waist!"</Source>
+      <Dest>这时，一把声音打破了沉默。它说："你可以射他的脖子，但他可不会流血。他的血全都流到去跨下了。"</Dest>
+    </String>
+    <String List="2">
+      <Source>I was lost in the clutches of night, with only the blood moon to guide me. That is, until I saw a fire and a circle of tents tucked below the rock.</Source>
+      <Dest>我在黑夜的魔掌中迷了路，只剩下血红色的月亮引导着我。直到我看到了在岩石縫隙之下的营火与帐篷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Does it describe the dampness of the air as it wafts in from the canals, or the leaves that roll down the sky like autumn tears?</Source>
+      <Dest>难道名字能形容那些从河道那里吹来的湿气，或者那些像天空落泪般随风帘卷的秋叶？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then let's hold off on the drinks, lest we both end up in bed with Spriggans.</Source>
+      <Dest>我们晚点再喝这些酒吧，免得醉醒后发现我们和树精上床了。</Dest>
     </String>
     <String List="2">
       <Source>Ha! You are either a very funny person, or a very disturbed one.  I dare not ask which.  </Source>
       <Dest>哈！你要不是一个有趣的人，就是个令人烦厌的家伙。嘿！你不用回答我你是哪一个。</Dest>
     </String>
     <String List="0">
-      <Source>I'm an adult and I killed her. A child told me to do it.</Source>
-      <Dest>作为一个成年人，我杀了她。一个小孩让我这么干的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Either way, I have enjoyed our talk.  May you craft your own stories as you continue your travels.</Source>
-      <Dest>不管怎样，我很高兴和你聊天。希望你在之后的旅途中创造出属于自己的故事。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
-      <Source>I happened upon this place by chance.</Source>
-      <Dest>I happened upon this place by chance.</Dest>
-    </String>
-    <String List="2">
-      <Source>Then we've got something in common. Believe it or not, I left Riften when I was but a pup, and got a little lost along the way.</Source>
-      <Dest>Then we've got something in common. Believe it or not, I left Riften when I was but a pup, and got a little lost along the way.</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
-      <Source>I happened upon this place by chance.</Source>
-      <Dest>I happened upon this place by chance.</Dest>
-    </String>
-    <String List="2">
-      <Source>I still have a lot to learn about the world, including how to stick to the roads!</Source>
-      <Dest>I still have a lot to learn about the world, including how to stick to the roads!</Dest>
-    </String>
-    <String List="0">
-      <Source>It's unlike a Nord to not know how many steps there are.</Source>
-      <Dest>It's unlike a Nord to not know how many steps there are.</Dest>
-    </String>
-    <String List="2">
-      <Source>Right as Rain's Hand. I may be old in years, but I don't know much of the world outside Rfiten.</Source>
-      <Dest>Right as Rain's Hand. I may be old in years, but I don't know much of the world outside Rfiten.</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, that's precisely why I've come.</Source>
-      <Dest>Yes, that's precisely why I've come.</Dest>
-    </String>
-    <String List="2">
-      <Source>Are you the one the Greybeards called? It must be quite an honor, or so I've heard. I don't know much about the world outside Riften.</Source>
-      <Dest>Are you the one the Greybeards called? It must be quite an honor, or so I've heard. I don't know much about the world outside Riften.</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, that's precisely why I've come.</Source>
-      <Dest>Yes, that's precisely why I've come.</Dest>
-    </String>
-    <String List="2">
-      <Source>You must love climbing then, because the Greybeards don't see anyone, or so I've heard. I don't know much about the world outside Riften.</Source>
-      <Dest>You must love climbing then, because the Greybeards don't see anyone, or so I've heard. I don't know much about the world outside Riften.</Dest>
-    </String>
-    <String List="0">
-      <Source>It's seven thousand steps, oaf.</Source>
-      <Dest>It's seven thousand steps, oaf.</Dest>
-    </String>
-    <String List="2">
-      <Source>Ha, you're right, my mistake. To be honest, it was more than a guess than anything.</Source>
-      <Dest>Ha, you're right, my mistake. To be honest, it was more than a guess than anything.</Dest>
-    </String>
-    <String List="0">
-      <Source>It's seven thousand steps, oaf.</Source>
-      <Dest>It's seven thousand steps, oaf.</Dest>
-    </String>
-    <String List="2">
-      <Source>I never actually learned how many steps there are. In fact, I don't know much about the world outside Riften.</Source>
-      <Dest>I never actually learned how many steps there are. In fact, I don't know much about the world outside Riften.</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you're another pilgrim on your way to High Hrothgar.</Source>
-      <Dest>我猜你是另一个在通往高吼峰上的朝圣者。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, a fellow traveler. Have you come to climb the 10,000 steps?</Source>
-      <Dest>Ah, a fellow traveler. Have you come to climb the 10,000 steps?</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you been away from home?</Source>
-      <Dest>How long have you been away from home?</Dest>
-    </String>
-    <String List="2">
-      <Source>Ten long years, pilgrim. I left the city to deliver a letter, of all things, and I got a little lost along the way.</Source>
-      <Dest>Ten long years, pilgrim. I left the city to deliver a letter, of all things, and I got a little lost along the way.</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you been away from home?</Source>
-      <Dest>How long have you been away from home?</Dest>
-    </String>
-    <String List="2">
-      <Source>Somehow, I don't think poor Agnus is going to make it to the wedding!</Source>
-      <Dest>Somehow, I don't think poor Agnus is going to make it to the wedding!</Dest>
-    </String>
-    <String List="0">
-      <Source>How long have you been away from home?</Source>
-      <Dest>How long have you been away from home?</Dest>
-    </String>
-    <String List="0">
-      <Source>When do you plan on returning?</Source>
-      <Dest>When do you plan on returning?</Dest>
-    </String>
-    <String List="2">
-      <Source>Actually, I hope to make this my final detour. I've been told the city is just a stone's throw to the east. Of course, I've never had the best aim.</Source>
-      <Dest>Actually, I hope to make this my final detour. I've been told the city is just a stone's throw to the east. Of course, I've never had the best aim.</Dest>
-    </String>
-    <String List="0">
-      <Source>That's an interesting take. There are orphans who want her dead. Literally.</Source>
-      <Dest>That's an interesting take. There are orphans who want her dead. Literally.</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, I've no doubt about that. You have to remember that these are children, and children take to discipline poorly.  </Source>
-      <Dest>Oh, I've no doubt about that. You have to remember that these are children, and children take to discipline poorly.  </Dest>
-    </String>
-    <String List="0">
-      <Source>That's an interesting take. There are orphans who want her dead. Literally.</Source>
-      <Dest>That's an interesting take. There are orphans who want her dead. Literally.</Dest>
-    </String>
-    <String List="2">
-      <Source>When I was little there were many times I wanted to do Grelod harm.</Source>
-      <Dest>When I was little there were many times I wanted to do Grelod harm.</Dest>
-    </String>
-    <String List="0">
-      <Source>That's an interesting take. There are orphans who want her dead. Literally.</Source>
-      <Dest>That's an interesting take. There are orphans who want her dead. Literally.</Dest>
-    </String>
-    <String List="2">
-      <Source>I even tried to bribe a guard into killing her by offering one of the orphan girls as payment.</Source>
-      <Dest>I even tried to bribe a guard into killing her by offering one of the orphan girls as payment.</Dest>
-    </String>
-    <String List="0">
-      <Source>That's an interesting take. There are orphans who want her dead. Literally.</Source>
-      <Dest>That's an interesting take. There are orphans who want her dead. Literally.</Dest>
-    </String>
-    <String List="2">
-      <Source>In the end, I'm thankful the guard didn't turn me in right then.  How foolish a child I was, to think I could convince an adult to commit murder.</Source>
-      <Dest>最终，我很感激那名守卫没有举报我。多么地愚蠢，我在想我一个小孩可以说服一个成年人去谋杀。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're more than green, fool. You're practically a foreigner.</Source>
-      <Dest>You're more than green, fool. You're practically a foreigner.</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, I may not know a Greybeard from a greyhound, but I bet I can slam my fist down the throat of your world.</Source>
-      <Dest>Hey, I may not know a Greybeard from a greyhound, but I bet I can slam my fist down the throat of your world.</Dest>
-    </String>
-    <String List="0">
-      <Source>How's everything?</Source>
-      <Dest>How's everything?</Dest>
-    </String>
-    <String List="2">
-      <Source>Just fine. My belly is full of mead and my heart is full of song.   </Source>
-      <Dest>Just fine. My belly is full of mead and my heart is full of song.   </Dest>
-    </String>
-    <String List="0">
-      <Source>How's everything?</Source>
-      <Dest>How's everything?</Dest>
-    </String>
-    <String List="2">
-      <Source>Feeling a bit nostalgic. Ten long years I've been on this journey. I want to return to Riften, but at the same time, I don't want to see it end.</Source>
-      <Dest>Feeling a bit nostalgic. Ten long years I've been on this journey. I want to return to Riften, but at the same time, I don't want to see it end.</Dest>
-    </String>
-    <String List="0">
-      <Source>How's everything?</Source>
-      <Dest>How's everything?</Dest>
-    </String>
-    <String List="2">
-      <Source>Good. My feet are sore from travel, but pain is proof of life.</Source>
-      <Dest>Good. My feet are sore from travel, but pain is proof of life.</Dest>
-    </String>
-    <String List="0">
-      <Source>How's everything?</Source>
-      <Dest>How's everything?</Dest>
-    </String>
-    <String List="2">
-      <Source>Shame what happened to the Khajiit. A hard truth can be too much for a weak heart.</Source>
-      <Dest>Shame what happened to the Khajiit. A hard truth can be too much for a weak heart.</Dest>
-    </String>
-    <String List="0">
-      <Source>I too prefer teaching through discipline.</Source>
-      <Dest>I too prefer teaching through discipline.</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course. She's strict, mean, and has little patience for noisy children. Everything a parent wants in a teacher.  </Source>
-      <Dest>Of course. She's strict, mean, and has little patience for noisy children. Everything a parent wants in a teacher.  </Dest>
-    </String>
-    <String List="0">
-      <Source>I too prefer teaching through discipline.</Source>
-      <Dest>I too prefer teaching through discipline.</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally, I didn't always think so. When I was little there were many times I wanted to do Grelod harm. </Source>
-      <Dest>Naturally, I didn't always think so. When I was little there were many times I wanted to do Grelod harm. </Dest>
-    </String>
-    <String List="0">
-      <Source>I too prefer teaching through discipline.</Source>
-      <Dest>I too prefer teaching through discipline.</Dest>
-    </String>
-    <String List="2">
-      <Source>I even tried to bribe a guard into killing her by offering one of the orphan girls as payment.</Source>
-      <Dest>I even tried to bribe a guard into killing her by offering one of the orphan girls as payment.</Dest>
-    </String>
-    <String List="0">
-      <Source>I too prefer teaching through discipline.</Source>
-      <Dest>I too prefer teaching through discipline.</Dest>
-    </String>
-    <String List="2">
-      <Source>In the end, I'm thankful the guard didn't turn me in right then. How foolish a child I was, to think I could convince an adult to commit murder.</Source>
-      <Dest>In the end, I'm thankful the guard didn't turn me in right then. How foolish a child I was, to think I could convince an adult to commit murder.</Dest>
-    </String>
-    <String List="0">
-      <Source>How come you never learned about the world outside Riften?</Source>
-      <Dest>How come you never learned about the world outside Riften?</Dest>
-    </String>
-    <String List="2">
-      <Source>Simple. I grew up in an orphanage. Never got what you call a traditional education.</Source>
-      <Dest>Simple. I grew up in an orphanage. Never got what you call a traditional education.</Dest>
-    </String>
-    <String List="0">
-      <Source>How come you never learned about the world outside Riften?</Source>
-      <Dest>How come you never learned about the world outside Riften?</Dest>
+      <Source>That was wrong of you, but what's done is done, and it makes for a good story.</Source>
+      <Dest>那是你的错，但那已过去了，况且它成就了一个好故事。</Dest>
     </String>
     <String List="0">
       <Source>Is the orphanage why you left Riften?</Source>
       <Dest>是因为孤儿院让你想离开裂谷城？</Dest>
     </String>
-    <String List="2">
-      <Source>Yes and no. I don't begrudge the place, but it did leave me a little green around the gills.</Source>
-      <Dest>Yes and no. I don't begrudge the place, but it did leave me a little green around the gills.</Dest>
-    </String>
     <String List="0">
-      <Source>How come you never learned about the world outside Riften?</Source>
-      <Dest>How come you never learned about the world outside Riften?</Dest>
-    </String>
-    <String List="2">
-      <Source>This may sound odd, but I like Grelod. Her tough love made me into the man I am today.</Source>
-      <Dest>This may sound odd, but I like Grelod. Her tough love made me into the man I am today.</Dest>
-    </String>
-    <String List="0">
-      <Source>That was wrong of you, but what's done is done, and it makes for a good story.</Source>
-      <Dest>那是你的错，但做就做了，况且它成就了一个好故事。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're right. I have enjoyed our talk. May you craft your own stories as you continue your travels.</Source>
-      <Dest>你说得对。我很享受和你聊天。也许你在继续你的旅途的时候，可以写一个你自己的故事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Beasts are weak. Hagravens are weak. You're weak for thinking otherwise.</Source>
-      <Dest>Beasts are weak. Hagravens are weak. You're weak for thinking otherwise.</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm no milk-drinker, stranger, if that's what you're suggesting. And anyone with real strength doesn't go around advertising it.</Source>
-      <Dest>I'm no milk-drinker, stranger, if that's what you're suggesting. And anyone with real strength doesn't go around advertising it.</Dest>
-    </String>
-    <String List="0">
-      <Source>Beasts are weak. Hagravens are weak. You're weak for thinking otherwise.</Source>
-      <Dest>Beasts are weak. Hagravens are weak. You're weak for thinking otherwise.</Dest>
-    </String>
-    <String List="2">
-      <Source>Hagravens are bloody harpies who aren't to be trifled with. I should know, I'm practically family.</Source>
-      <Dest>Hagravens are bloody harpies who aren't to be trifled with. I should know, I'm practically family.</Dest>
-    </String>
-    <String List="0">
-      <Source>I've got Nocturnal's luck. I'll be alright.</Source>
-      <Dest>I've got Nocturnal's luck. I'll be alright.</Dest>
-    </String>
-    <String List="2">
-      <Source>Luck can only take you so far. One day she'll turn on you like a sodding snake.</Source>
-      <Dest>Luck can only take you so far. One day she'll turn on you like a sodding snake.</Dest>
-    </String>
-    <String List="0">
-      <Source>I've got Nocturnal's luck. I'll be alright.</Source>
-      <Dest>I've got Nocturnal's luck. I'll be alright.</Dest>
-    </String>
-    <String List="2">
-      <Source>Hagravens can't be felled by luck alone. I should know, they're practically my relatives!</Source>
-      <Dest>Hagravens can't be felled by luck alone. I should know, they're practically my relatives!</Dest>
-    </String>
-    <String List="0">
-      <Source>I appreciate the concern, but I can handle the perils of the road.</Source>
-      <Dest>I appreciate the concern, but I can handle the perils of the road.</Dest>
-    </String>
-    <String List="2">
-      <Source>You must be strong. That's an admirable trait, traveler, because strength isn't something that's easy to earn.</Source>
-      <Dest>You must be strong. That's an admirable trait, traveler, because strength isn't something that's easy to earn.</Dest>
-    </String>
-    <String List="0">
-      <Source>I appreciate the concern, but I can handle the perils of the road.</Source>
-      <Dest>I appreciate the concern, but I can handle the perils of the road.</Dest>
-    </String>
-    <String List="2">
-      <Source>It took a long time before I had enough courage to face a hagraven. Even if they were practically family.</Source>
-      <Dest>It took a long time before I had enough courage to face a hagraven. Even if they were practically family.</Dest>
+      <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
+      <Dest>你觉得跟乌鸦鬼婆打斗是件恐怖的事，那试试看跟她们一战再说。</Dest>
     </String>
     <String List="0">
       <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
-      <Dest>你觉得跟乌鸦鬼婆战斗是件恐怖的事，那试试看跟他们结婚再说。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ha, true enough. Some people have tongues sharper than any talon. You are talking about a person, aren't you? </Source>
-      <Dest>Ha, true enough. Some people have tongues sharper than any talon. You are talking about a person, aren't you? </Dest>
-    </String>
-    <String List="0">
-      <Source>You think fighting a Hagraven's scary, try being engaged to one.</Source>
-      <Dest>你觉得跟乌鸦鬼婆战斗是件恐怖的事，那试试看跟他们结婚再说。</Dest>
-    </String>
-    <String List="2">
-      <Source>Although I really shouldn't talk ill of hagravens, whether they're man or beast. They are family, after all.</Source>
-      <Dest>Although I really shouldn't talk ill of hagravens, whether they're man or beast. They are family, after all.</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you learned in your travels?</Source>
-      <Dest>What have you learned in your travels?</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, mostly I've learned it's dangerous. There are more than beasts out there in the wilderness.</Source>
-      <Dest>Well, mostly I've learned it's dangerous. There are more than beasts out there in the wilderness.</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you learned in your travels?</Source>
-      <Dest>What have you learned in your travels?</Dest>
-    </String>
-    <String List="2">
-      <Source>Ever seen a Hagraven?  Witches with faces like a wrinkled potato skin.</Source>
-      <Dest>Ever seen a Hagraven?  Witches with faces like a wrinkled potato skin.</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you learned in your travels?</Source>
-      <Dest>What have you learned in your travels?</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by hagravens being family?</Source>
-      <Dest>What do you mean by hagravens being family?</Dest>
-    </String>
-    <String List="2">
-      <Source>When I was a boy, the other children used to tease me, because of my name.  Said my mother was a Hagraven queen. </Source>
-      <Dest>When I was a boy, the other children used to tease me, because of my name.  Said my mother was a Hagraven queen. </Dest>
-    </String>
-    <String List="0">
-      <Source>What have you learned in your travels?</Source>
-      <Dest>What have you learned in your travels?</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by hagravens being family?</Source>
-      <Dest>What do you mean by hagravens being family?</Dest>
-    </String>
-    <String List="2">
-      <Source>Prince Hagraven, they used to call me.  Little bastards can be cruel, but if they ever saw a real Hagraven, they wouldn't be so quick to jest.</Source>
-      <Dest>Prince Hagraven, they used to call me.  Little bastards can be cruel, but if they ever saw a real Hagraven, they wouldn't be so quick to jest.</Dest>
+      <Dest>你觉得跟乌鸦鬼婆打斗是件恐怖的事，那试试看跟她们一战再说。</Dest>
     </String>
     <String List="0">
       <Source>It looks emptier in here.</Source>
       <Dest>似乎这里更干净。</Dest>
     </String>
-    <String List="2">
-      <Source>Yes, you know the funny Khajiit fellow who liked to count the steps?  We found him dead the other day.  Took his own life.</Source>
-      <Dest>是的，你知道那有趣而且喜欢跟踪人的虎人家伙么?  后来我们发现他死了. 就是栽这上面了吧.</Dest>
-    </String>
     <String List="0">
       <Source>It looks emptier in here.</Source>
       <Dest>似乎这里更干净。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been to the orphanage. Quaint little place.</Source>
+      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been to the orphanage. Quaint little place.</Source>
+      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
     </String>
     <String List="2">
       <Source>Perhaps someone finally gave him an answer.  Sometimes the right answers are the wrong ones.</Source>
       <Dest>也许有人最终给他一个答案了吧。有些时候错误的答案可能就是最终的正确答案。</Dest>
     </String>
-    <String List="0">
-      <Source>I've been to the orphanage. Quaint little place.</Source>
-      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="2">
-      <Source>You must not have met Grelod the Kind. Now there's a hag. Although really, I mean that as a compliment.</Source>
-      <Dest>You must not have met Grelod the Kind. Now there's a hag. Although really, I mean that as a compliment.</Dest>
-    </String>
-    <String List="0">
-      <Source>I've been to the orphanage. Quaint little place.</Source>
-      <Dest>我去过孤儿院。古色古香的小地方。</Dest>
-    </String>
-    <String List="0">
-      <Source>I haven't been to the orphanage yet.</Source>
-      <Dest>I haven't been to the orphanage yet.</Dest>
+      <Source>Hail.</Source>
+      <Dest>万岁。</Dest>
     </String>
     <String List="2">
-      <Source>You have not met Grelod the Kind. Now there's a hag. Although really, I mean that as a compliment.</Source>
-      <Dest>You have not met Grelod the Kind. Now there's a hag. Although really, I mean that as a compliment.</Dest>
-    </String>
-    <String List="2">
-      <Source>Until next we meet.</Source>
-      <Dest>下次再见。</Dest>
+      <Source>You're right. I have enjoyed our talk. May you craft your own stories as you continue your travels.</Source>
+      <Dest>你说得对。我很享受和你聊天。也许你在继续你的旅途的时候，可以写一个你自己的故事。</Dest>
     </String>
     <String List="2">
       <Source>All right, then.</Source>
@@ -723,40 +191,20 @@
       <Dest>旅途安全。</Dest>
     </String>
     <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope the road brings you adventure, traveler.</Source>
-      <Dest>I hope the road brings you adventure, traveler.</Dest>
+      <Source>Yes, you know the funny Khajiit fellow who liked to count the steps?  We found him dead the other day.  Took his own life.</Source>
+      <Dest>是的，你知道那有趣而且喜欢跟踪人的虎人家伙么?  后来我们发现他死了. 就是栽这上面了吧.</Dest>
     </String>
     <String List="2">
       <Source>Yes?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Can I help you?</Source>
-      <Dest>我能为你效劳吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Hail.</Source>
-      <Dest>你好啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Dest>怎么了？</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Dest>守卫逮捕我父亲唯一可以的理由，是他被迫留在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next we meet.</Source>
+      <Dest>下次再见。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

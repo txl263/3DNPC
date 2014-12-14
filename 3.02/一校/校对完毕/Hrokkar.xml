@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,424 +7,436 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>I want to ask you about Nasrin.</Source>
-      <Dest>我想问你关于纳斯林的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm afraid I don't know who that is.</Source>
-      <Dest>恐怕我不知道那是谁。</Dest>
-    </String>
-    <String List="0">
-      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
-      <Dest>你应该在那些尸体把顾客赶跑之前把它们弄走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, right. It appears one of the caged wolves has died. Some animals can't survive living in captivity.</Source>
-      <Dest>啊，是的。看来笼子里的一头狼已经死了。有些动物就是不能在囚禁之下苟延残喘。</Dest>
-    </String>
-    <String List="0">
-      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
-      <Dest>你应该在那些尸体把顾客赶跑之前把它们弄走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Rest assured, I'll have one of my men see to cleaning the cage. You, on the other hand, must be eager to claim your prize.</Source>
-      <Dest>放心，我会让我的一个人去打扫笼子。另外，你肯定很想要拿到自己的奖金。</Dest>
-    </String>
-    <String List="0">
-      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
-      <Dest>你应该在那些尸体把顾客赶跑之前把它们弄走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Here, the key to Deirdre's chambers, and a little something extra. Enjoy yourself.</Source>
-      <Dest>给你，通往迪尔德丽会所的钥匙，还有一些其他的东西，玩得开心。 </Dest>
-    </String>
-    <String List="0">
-      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
-      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're anxious to see Deirdre. The patrons have been angry with me for withholding her.</Source>
-      <Dest>你是想见迪尔德丽。主顾们对于我扣留她这一点非常不满。</Dest>
-    </String>
-    <String List="0">
-      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
-      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, I knew when my daughter took ill a champion would come to save her, and Deirdre would be part of the reward.</Source>
-      <Dest>我知道，当我的女儿生病的时候，有一个英雄救了她，而迪尔德丽应该受到表彰。</Dest>
-    </String>
-    <String List="0">
-      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
-      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
-    </String>
-    <String List="2">
-      <Source>So here, take the key to her chambers, and a little something extra. Satisfy your cravings. You've earned it.</Source>
-      <Dest>既然这样，拿着她卧室的钥匙和一些额外的物品。满足你的欲望吧。这是你应得的。</Dest>
-    </String>
-    <String List="0">
-      <Source>May you and your daughter both be blessed with good health.</Source>
-      <Dest>也许你和你的女儿都会被保佑安康。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your actions have done that, Lorne, but I'm sure my Vjola will be happy to hear her knight isn't always as crude as the rumors say.</Source>
-      <Dest>你的所为已经做到了，洛恩，不过相信我家薇亚拉还是会很高兴知道她的骑士不是像传言中那么愚鲁的。</Dest>
-    </String>
-    <String List="0">
-      <Source>May you and your daughter both be blessed with good health.</Source>
-      <Dest>也许你和你的女儿都会被保佑安康。</Dest>
-    </String>
-    <String List="2">
-      <Source>But I shouldn't keep you. You must be eager to see Deirdre. Here, take the key to her chambers, and a little something extra for the pits.</Source>
-      <Dest>不过我不应该把你留在这。你肯定很想见迪尔德丽。在这，拿上她房间的钥匙，还有一点为这个鬼地方准备的小赠品。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm afraid it's too late for your daughter.</Source>
-      <Dest>我怕对你女儿来说太晚了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You lack faith, Lorne. It's not unusual for people who've been kicked around as much as we have.</Source>
-      <Dest>你特么怂了吧，洛恩。对于像我们这样经常被群殴的人来说这可不稀奇。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm afraid it's too late for your daughter.</Source>
-      <Dest>我怕对你女儿来说太晚了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet I assure you, it is nothing more than a test. Have faith, and you will be rewarded. The Gods, after all, rewarded me with you.</Source>
-      <Dest>但我向你保证，这不过是个测试。有点信心吧，你会得到回报的。毕竟，诸神都把你奖励给我了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm afraid it's too late for your daughter.</Source>
-      <Dest>我怕对你女儿来说太晚了。</Dest>
-    </String>
-    <String List="2">
-      <Source>But I shouldn't keep you. You must be eager to see Deirdre. Here, take the key to her chambers, and a little something extra for the pits.</Source>
-      <Dest>不过我不应该把你留在这。你肯定很想见迪尔德丽。在这，拿上她房间的钥匙，还有一点为这个鬼地方准备的小赠品。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've slain the wolf. This pelt is proof.</Source>
-      <Dest>我杀了那只狼，这张皮就是证明！.</Dest>
-    </String>
-    <String List="2">
-      <Source>Well done, Lorne, well done. I can already see my daughter is starting to perk up.</Source>
-      <Dest>干得好，洛恩，干的好！我已经看得出我的女儿开始神采飞扬神采飞扬了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've slain the wolf. This pelt is proof.</Source>
-      <Dest>我杀了那只狼，这张皮就是证明！.</Dest>
-    </String>
-    <String List="2">
-      <Source>Now that he has his soul, Arkay will not take hers. My debt is settled, as is yours.</Source>
-      <Dest>Now that he has his soul, Arkay will not take hers. My debt is settled, as is yours.</Dest>
-    </String>
-    <String List="0">
-      <Source>Who's the priest?</Source>
-      <Dest>那个祭司是谁？</Dest>
-    </String>
-    <String List="2">
-      <Source>Brother Renmar. He's our best customer. The men tolerate his speeches but welcome his advice.</Source>
-      <Dest>伦玛兄弟。他是我们最棒的客户。我们容忍这他的长篇大论却很欢迎他的建议。</Dest>
-    </String>
-    <String List="0">
-      <Source>Have you had any trouble with the authorities?</Source>
-      <Dest>当地掌权人有没有给你制造什么麻烦？</Dest>
-    </String>
-    <String List="2">
-      <Source>The Orcs keep to themselves. The Jarl's men do the same, provided we keep them satisfied.</Source>
-      <Dest>如果我们能让双方都高兴的话，那些兽人去找麻烦，领主的人也是一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>You don't partake in the gambling and carnality?</Source>
-      <Dest>你没有深陷于声色犬马之中？</Dest>
-    </String>
-    <String List="2">
-      <Source>I only wish to watch my wolves bare their fangs. This temple of sin is a byproduct of that desire.</Source>
-      <Dest>我只是希望看到我的狼群能露出獠牙。这个罪恶的神庙只是欲望的副产品。</Dest>
-    </String>
-    <String List="0">
-      <Source>If you love wolves, you wouldn't want to watch them die.</Source>
-      <Dest>如果你喜欢狼，你绝不想看着他们死去。</Dest>
-    </String>
-    <String List="2">
-      <Source>True. When the wolves die, a part of me is saddened, but such is the price of beauty.</Source>
-      <Dest>确实。当狼死去的时候，我有点点悲伤，但为了美丽，那是值得的。</Dest>
-    </String>
-    <String List="0">
-      <Source>If you love wolves, you wouldn't want to watch them die.</Source>
-      <Dest>如果你喜欢狼，你绝不想看着他们死去。</Dest>
-    </String>
-    <String List="2">
-      <Source>To see two wolves fight is to see artistry in motion. The moment of clarity is worth a lifetime of blindness.</Source>
-      <Dest>两头狼之间的战斗就如同运动的艺术。只需一瞥，就算是此生失明也在所不惜。</Dest>
-    </String>
-    <String List="0">
-      <Source>I too would like to partake in these pleasures.</Source>
-      <Dest>我特想分享这些快乐。</Dest>
-    </String>
-    <String List="2">
-      <Source>You live up to your reputation, Lorne. But may I remind you, you still have a debt to pay.</Source>
-      <Dest>你并没有辜负你的名声，洛恩。但是请允许我提醒你，你还有债务要付。</Dest>
-    </String>
-    <String List="0">
-      <Source>I too would like to partake in these pleasures.</Source>
-      <Dest>我特想分享这些快乐。</Dest>
-    </String>
-    <String List="2">
-      <Source>You live up to your reputation, Lorne.</Source>
-      <Dest>你并没有辜负你的名声，洛恩。</Dest>
-    </String>
-    <String List="0">
-      <Source>This place is disgusting.</Source>
-      <Dest>这破地方真恶心！</Dest>
-    </String>
-    <String List="2">
-      <Source>You sound like Brother Renmar. Cursing the very thing you love. I was led to believe you were more honest than the others.</Source>
-      <Dest>你说话就像伦玛弟兄一样。喜欢什么就诅咒什么。我相信你比其他人更诚实。</Dest>
+      <Source>What do I get for slaying this wolf?</Source>
+      <Dest>如果我把这头狼杀掉的话，能得到什么奖赏？</Dest>
     </String>
     <String List="0">
       <Source>In other words, it's a brothel and a dog fighting ring.</Source>
       <Dest>换句话说，这就是妓院和斗狗场。</Dest>
     </String>
-    <String List="2">
-      <Source>Yes Lorne, and from what I understand, you are not a stranger to either.</Source>
-      <Dest>是的洛恩，就我所知，你对其他人而言并不陌生。</Dest>
+    <String List="0">
+      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
+      <Dest>你最好在那具尸体把顾客吓跑之前赶紧弄走。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
+      <Dest>你最好在那具尸体把顾客吓跑之前赶紧弄走。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd be wise to rid yourself of that corpse before it drives away customers.</Source>
+      <Dest>你最好在那具尸体把顾客吓跑之前赶紧弄走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you had any trouble with the authorities?</Source>
+      <Dest>当局有找你麻烦吗？</Dest>
     </String>
     <String List="0">
       <Source>Tell me more about this operation.</Source>
-      <Dest>跟我再讲讲这个操作方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was born from my love of wolves. The wolf is a fierce but graceful creature, with a beauty far superior to any man.</Source>
-      <Dest>看来我的爱人会从狼群中诞生。狼是一种残忍而优雅的生物，有着远超于任何男人的美丽。</Dest>
+      <Dest>再跟我说说这种工作吧。</Dest>
     </String>
     <String List="0">
       <Source>Tell me more about this operation.</Source>
-      <Dest>跟我再讲讲这个操作方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>This beauty is most evident when the wolf is in motion, attacking its prey. It is pure poetry.</Source>
-      <Dest>当狼对自己的猎物发起攻击时，那种美感最是展露无遗。那真是一首浑然天成的诗篇。</Dest>
+      <Dest>再跟我说说这种工作吧。</Dest>
     </String>
     <String List="0">
       <Source>Tell me more about this operation.</Source>
-      <Dest>跟我再讲讲这个操作方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>The same is true of my servers. The men and women here dress the way they do to celebrate the beauty of the physical form.</Source>
-      <Dest>我的仆从也是如此。人们穿着节日才穿的漂亮衣服。</Dest>
+      <Dest>再跟我说说这种工作吧。</Dest>
     </String>
     <String List="0">
       <Source>Tell me more about this operation.</Source>
-      <Dest>跟我再讲讲这个操作方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>If a patron wishes to pay to see this form in motion, I will not deny him this pleasure.</Source>
-      <Dest>如果有顾客希望花钱去看这种运动中的形态，我不会拒绝他这种乐趣。</Dest>
+      <Dest>再跟我说说这种工作吧。</Dest>
     </String>
     <String List="0">
-      <Source>I believe the children are our future.</Source>
-      <Dest>我相信那个孩子是我们的未来。</Dest>
+      <Source>Your girl is dead. Slaying this other wolf won't bring her back.</Source>
+      <Dest>你的姑娘已经死了，你杀再多的狼她也不会回来的。</Dest>
     </String>
-    <String List="2">
-      <Source>And what will you leave your children, given how much you owe?</Source>
-      <Dest>而你能给你的孩子留下什么？瞧你欠的那一屁股债。</Dest>
+    <String List="0">
+      <Source>Your girl is dead. Slaying this other wolf won't bring her back.</Source>
+      <Dest>你的姑娘已经死了，你杀再多的狼她也不会回来的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is completely mad. Which makes it the perfect job for me.</Source>
+      <Dest>真是疯狂到极点啦，正好与我的口味完美贴合。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is completely mad. Which makes it the perfect job for me.</Source>
+      <Dest>真是疯狂到极点啦，正好与我的口味完美贴合。</Dest>
+    </String>
+    <String List="0">
+      <Source>This place is disgusting.</Source>
+      <Dest>这破地方真恶心！</Dest>
     </String>
     <String List="0">
       <Source>I don't care whether this is the Gods' plan. I just live my life.</Source>
       <Dest>我哪管得了合不合众神的旨意，我过我的日子。</Dest>
     </String>
-    <String List="2">
-      <Source>Which makes you the perfect instrument.</Source>
-      <Dest>你乐器玩儿的还不错。</Dest>
+    <String List="0">
+      <Source>You don't partake in the gambling and carnality?</Source>
+      <Dest>你没有深陷于声色犬马之中？</Dest>
     </String>
     <String List="0">
-      <Source>Your girl is dead. Slaying this other wolf won't bring her back.</Source>
-      <Dest>你的姑娘已经死了，你杀再多的狼她也不会回来的。</Dest>
-    </String>
-    <String List="2">
-      <Source>That part is irrelevant to you. All that matters is that you have a debt, and I am offering a way for you to pay it.</Source>
-      <Dest>这些跟你无关。重要的是你还欠着债呢，而我会提供一个能让你还上债的方法。</Dest>
+      <Source>I'm afraid it's too late for your daughter.</Source>
+      <Dest>我怕对你女儿来说太晚了。</Dest>
     </String>
     <String List="0">
-      <Source>Your girl is dead. Slaying this other wolf won't bring her back.</Source>
-      <Dest>你的姑娘已经死了，你杀再多的狼她也不会回来的。</Dest>
-    </String>
-    <String List="2">
-      <Source>But if that is not enough of a carrot, then consider this. Do this for me, and I'll give you a night with Deidre on the house.</Source>
-      <Dest>但如果这还不够的话，那考虑下这个。你为我做了这件事，我就能许你一晚上去看看那姑娘。</Dest>
+      <Source>I'm afraid it's too late for your daughter.</Source>
+      <Dest>我怕对你女儿来说太晚了。</Dest>
     </String>
     <String List="0">
-      <Source>This is completely mad. Which makes it the perfect job for me.</Source>
-      <Dest>真是疯狂到极点啦，正好与我的口味完美贴合。</Dest>
-    </String>
-    <String List="2">
-      <Source>The pieces of the puzzle may look imperfect, but they form a picture that the Gods can plainly see.</Source>
-      <Dest>拼图的碎片或许看起来并不完美，可它们拼成的图画可以被神灵清楚地看到。</Dest>
+      <Source>I'm afraid it's too late for your daughter.</Source>
+      <Dest>我怕对你女儿来说太晚了。</Dest>
     </String>
     <String List="0">
-      <Source>This is completely mad. Which makes it the perfect job for me.</Source>
-      <Dest>真是疯狂到极点啦，正好与我的口味完美贴合。</Dest>
-    </String>
-    <String List="2">
-      <Source>Bring this pelt to me, and I will clear your debts. And as a bonus, I'll allow you to see Deirdre once more, on the house.</Source>
-      <Dest>把这皮毛带给我，我会清偿你的债务。而且作为奖励，我会考虑让你再在这间屋子里见到迪尔德丽。</Dest>
+      <Source>I too would like to partake in these pleasures.</Source>
+      <Dest>我也愿意分享这些快乐。</Dest>
     </String>
     <String List="0">
-      <Source>What do I get for slaying this wolf?</Source>
-      <Dest>如果我把这头狼杀掉的话，能得到什么奖赏？</Dest>
-    </String>
-    <String List="2">
-      <Source>Your debts will be cleared. And as I know you fancy her, I'll allow you to see Deirdre once more, on the house.</Source>
-      <Dest>你欠的债都会一笔勾销。而且既然你那么迷恋迪尔德丽，我可以让你再见她一次 ，免费的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>This wolf used to be one of my best fighters. I favored him. So did Vjola. The two were inseparable.</Source>
-      <Dest>这匹狼是我养过最棒的战士，我爱死它了！还有薇亚拉也是。这俩配合的天衣无缝。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>But a feral animal is not a pet. One day It bit her, and I had no choice but to release him back into the wild.</Source>
-      <Dest>可是野兽毕竟不是宠物。有天它咬了她，我就不得不把他放回野外了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>Meanwhile Vjola had taken ill. An infection, they say, and I don't know if she'll recover.</Source>
-      <Dest>同时薇亚拉已经病倒了。他们说是传染病，我不知道她是否能康复。</Dest>
-    </String>
-    <String List="0">
-      <Source>Explain.</Source>
-      <Dest>请解释。</Dest>
-    </String>
-    <String List="2">
-      <Source>I should killed him. I know now for my Vjola to have peace, this wolf must die.</Source>
-      <Dest>我本该杀了它的。现在我知道了，为了我的薇亚拉能够平安，这狼必须死。</Dest>
+      <Source>I too would like to partake in these pleasures.</Source>
+      <Dest>我也愿意分享这些快乐。</Dest>
     </String>
     <String List="0">
       <Source>It wasn't fate that brought Lorne here. It was his loins.</Source>
-      <Dest>不是命运把洛恩带到这儿的。是他的老二。</Dest>
+      <Dest>把洛恩带到这儿的不是命运。而是他的老二。</Dest>
     </String>
-    <String List="2">
-      <Source>So they send a sinner to do the work of saints. But whether you know it or not, you were sent.</Source>
-      <Dest>所以他们派一个罪人来做圣人的工作。但不管你清不清楚，你都已经被送来了。</Dest>
+    <String List="0">
+      <Source>Who's the priest?</Source>
+      <Dest>那个祭司是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you love wolves, you wouldn't want to watch them die.</Source>
+      <Dest>如果你喜欢狼，你绝不想看着他们死去。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you love wolves, you wouldn't want to watch them die.</Source>
+      <Dest>如果你喜欢狼，你绝不想看着他们死去。</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe the children are our future.</Source>
+      <Dest>我相信那个孩子是我们的未来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Like I told your friend, I'm not Lorne.</Source>
+      <Dest>跟你说过了朋友，我不是洛恩。</Dest>
+    </String>
+    <String List="0">
+      <Source>Like I told your friend, I'm not Lorne.</Source>
+      <Dest>跟你说过了朋友，我不是洛恩。</Dest>
     </String>
     <String List="0">
       <Source>The future is paved with the bodies of my enemies. So don't cross me.</Source>
       <Dest>未来的道路是由我敌人的尸体所铺就的。所以别妨碍我。</Dest>
     </String>
-    <String List="2">
-      <Source>Of your abilities, I have no doubt. In fact, that's how I recognized you.</Source>
-      <Dest>对你的能力我并无一丝疑虑，那样才显得我真正的了解你。</Dest>
+    <String List="0">
+      <Source>Vjola?</Source>
+      <Dest>薇亚拉?</Dest>
+    </String>
+    <String List="0">
+      <Source>Vjola?</Source>
+      <Dest>薇亚拉?</Dest>
+    </String>
+    <String List="0">
+      <Source>Vjola?</Source>
+      <Dest>薇亚拉?</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to ask you about Nasrin.</Source>
+      <Dest>我想问你关于纳斯林的事儿。</Dest>
     </String>
     <String List="0">
       <Source>I believe everything is connected. There are no coincidences.</Source>
       <Dest>我觉得所有事情都有关联，世上没有巧合。</Dest>
     </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Explain.</Source>
+      <Dest>解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've slain the wolf. This pelt is proof.</Source>
+      <Dest>我杀了那只狼，这张皮就是证明！</Dest>
+    </String>
+    <String List="0">
+      <Source>I've slain the wolf. This pelt is proof.</Source>
+      <Dest>我杀了那只狼，这张皮就是证明！</Dest>
+    </String>
+    <String List="0">
+      <Source>May you and your daughter both be blessed with good health.</Source>
+      <Dest>愿你和你的女儿都身体健康。</Dest>
+    </String>
+    <String List="0">
+      <Source>May you and your daughter both be blessed with good health.</Source>
+      <Dest>愿你和你的女儿都身体健康。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
+      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
+      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned a separate reward besides clearing Lorne's debts.</Source>
+      <Dest>你说过除了了结掉洛恩的债务之外还有份另外的报酬。</Dest>
+    </String>
+    <String List="2">
+      <Source>So they send a sinner to do the work of saints. But whether you know it or not, you were sent.</Source>
+      <Dest>所以他们派一个罪人来做圣人的工作。但不管你清不清楚，你都已经被送来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The pieces of the puzzle may look imperfect, but they form a picture that the Gods can plainly see.</Source>
+      <Dest>拼图的碎片或许看起来并不完美，可它们拼成的图画可以被神灵清楚地看到。</Dest>
+    </String>
     <String List="2">
       <Source>Which is precisely why you are here. </Source>
       <Dest>这正是为什么你在这里。</Dest>
     </String>
-    <String List="0">
-      <Source>Like I told your friend, I'm not Lorne.</Source>
-      <Dest>跟你说过了朋友，我不是洛恩。</Dest>
+    <String List="2">
+      <Source>You sound like Brother Renmar. Cursing the very thing you love. I was led to believe you were more honest than the others.</Source>
+      <Dest>你说话就像伦玛弟兄一样。喜欢什么就诅咒什么。我相信你比其他人更诚实。</Dest>
     </String>
     <String List="2">
-      <Source>I confess, I don't meet with clients. I find we have very little in common. To me, you're nothing more than a name and a number.</Source>
-      <Dest>我承认，我不与客户见面。我发现我们很少有共同点。对我来说，你只是一个名字和一个数字。</Dest>
-    </String>
-    <String List="0">
-      <Source>Like I told your friend, I'm not Lorne.</Source>
-      <Dest>跟你说过了朋友，我不是洛恩。</Dest>
-    </String>
-    <String List="2">
-      <Source>So how do I know you're Lorne? Easy.</Source>
-      <Dest>我怎么知道你是洛恩？很容易就猜到了啊。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Vjola?</Source>
-      <Dest>薇亚拉?</Dest>
-    </String>
-    <String List="2">
-      <Source>My daughter. She's lost a lot of her vigor in recent weeks. She's normally out there, mingling with the crowds.</Source>
-      <Dest>我的女儿，她在最近这几周都无精打采。她常在那里，与人群混在一起。</Dest>
-    </String>
-    <String List="0">
-      <Source>Vjola?</Source>
-      <Dest>薇亚拉?</Dest>
-    </String>
-    <String List="2">
-      <Source>But you know that. I understand you're quite the gambler. And you have a debt that must be paid.</Source>
-      <Dest>但你知道的。我明白你是个彻彻底底的赌徒，那你也必须还债啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Vjola?</Source>
-      <Dest>薇亚拉?</Dest>
-    </String>
-    <String List="2">
-      <Source>That's how I knew who you were, without ever having met you. I knew you were Lorne the moment are eyes met.</Source>
-      <Dest>这就是为什么虽然我没见过你，但还是知道你是谁的原因。在眼神交汇的一瞬间，我就知道你是洛恩了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're much taller in person. Sharper as well. My Vjola had eyes like you once, when she was a cub.</Source>
-      <Dest>你真人看起来高些，也瘦些。我的薇亚拉在还是幼崽的时候也有一双你那样的眼睛。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you believe the future is paved through the Gods' design, and not our whim?</Source>
-      <Dest>你相信未来都是被诸神设计好，而非我们心血来潮所能左右的吗？</Dest>
+      <Source>And what will you leave your children, given how much you owe?</Source>
+      <Dest>而你能给你的孩子留下什么？瞧你欠的那一屁股债。</Dest>
     </String>
     <String List="2">
       <Source>For what I want isn't gold, or blood. It's a wolf.</Source>
       <Dest>我想要的不是金子，也不是鲜血。而是一条狼。</Dest>
     </String>
     <String List="2">
-      <Source>I was searching for an answer, when I started combing through the books.</Source>
-      <Dest>我在细细审读那些书的同时，寻找着一个答案。</Dest>
+      <Source>It was born from my love of wolves. The wolf is a fierce but graceful creature, with a beauty far superior to any man.</Source>
+      <Dest>看来我的爱人会从狼群中诞生。狼是一种残忍而优雅的生物，有着远超于任何男人的美丽。</Dest>
     </String>
     <String List="2">
-      <Source>I found a client named Lorne, whose debts were so egregious they could only be paid with blood.</Source>
-      <Dest>我找到了那个名叫洛恩的当事人，他负的债如此惊人，只能用命偿了。</Dest>
+      <Source>Well done, Lorne, well done. I can already see my daughter is starting to perk up.</Source>
+      <Dest>干得好，洛恩，干的好！我已经看得出我的女儿开始神采飞扬神采飞扬了。</Dest>
     </String>
     <String List="2">
-      <Source>And I knew then that whatever the reason, whether it be design or whim, the solution was the same.</Source>
-      <Dest>然后我明白了，无论是出于怎样的原因，无论这是被设计好的还是突发奇想，解决方案都是一样的。</Dest>
+      <Source>This wolf used to be one of my best fighters. I favored him. So did Vjola. The two were inseparable.</Source>
+      <Dest>这匹狼是我养过最棒的战士，我爱死它了！还有薇亚拉也是。这俩配合的天衣无缝。</Dest>
     </String>
     <String List="2">
       <Source>It is no coincidence that you are who you are. The Gods brought us together so that you may pay my debt.</Source>
       <Dest>你之所以是你，并不是偶然。是圣灵指引你来帮我还债的。</Dest>
     </String>
     <String List="2">
-      <Source>When Vjola took ill, I was left with an unenviable choice. Curse the Gods who did this, or blame myself for neglecting her.</Source>
-      <Dest>当维奥拉生病时，我面临着一个艰难的抉择。诅咒做出此事的神明，或者为我对她的疏忽责怪自己。</Dest>
+      <Source>That part is irrelevant to you. All that matters is that you have a debt, and I am offering a way for you to pay it.</Source>
+      <Dest>这些跟你无关。重要的是你还欠着债呢，而我会提供一个能让你还上债的方法。</Dest>
     </String>
     <String List="2">
-      <Source>Perhaps I owed her more time, and this is the price of my debt.</Source>
-      <Dest>也许我欠她更多的时间，这是我债务的代价。</Dest>
+      <Source>My daughter. She's lost a lot of her vigor in recent weeks. She's normally out there, mingling with the crowds.</Source>
+      <Dest>我的女儿，她在最近这几周都无精打采。她常在那里，与人群混在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>Brother Renmar. He's our best customer. The men tolerate his speeches but welcome his advice.</Source>
+      <Dest>伦玛兄弟。他是我们最棒的客户。我们容忍这他的长篇大论却很欢迎他的建议。</Dest>
     </String>
     <String List="2">
       <Source>What I mean is, do you believe there is purpose to tragedy?</Source>
       <Dest>我的意思是，你不认为这是一种有目的的悲剧吗</Dest>
     </String>
     <String List="2">
+      <Source>And I knew then that whatever the reason, whether it be design or whim, the solution was the same.</Source>
+      <Dest>然后我明白了，无论是出于怎样的原因，无论这是被设计好的还是突发奇想，解决方案都是一样的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're anxious to see Deirdre. The patrons have been angry with me for withholding her.</Source>
+      <Dest>你是想见迪尔德丽。主顾们对于我扣留她这一点非常不满。</Dest>
+    </String>
+    <String List="2">
+      <Source>So how do I know you're Lorne? Easy.</Source>
+      <Dest>我怎么知道你是洛恩？很容易就猜到了啊。 </Dest>
+    </String>
+    <String List="2">
+      <Source>The same is true of my servers. The men and women here dress the way they do to celebrate the beauty of the physical form.</Source>
+      <Dest>我的仆从也是如此。人们穿着节日才穿的漂亮衣服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps I owed her more time, and this is the price of my debt.</Source>
+      <Dest>也许我欠她更多的时间，这是我债务的代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you believe the future is paved through the Gods' design, and not our whim?</Source>
+      <Dest>你相信未来都是被诸神设计好，而非我们心血来潮所能左右的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how I knew who you were, without ever having met you. I knew you were Lorne the moment are eyes met.</Source>
+      <Dest>这就是为什么虽然我没见过你，但还是知道你是谁的原因。在眼神交汇的一瞬间，我就知道你是洛恩了。</Dest>
+    </String>
+    <String List="2">
+      <Source>True. When the wolves die, a part of me is saddened, but such is the price of beauty.</Source>
+      <Dest>确实。当狼死去的时候，我有点点悲伤，但为了美丽，那是值得的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here, the key to Deirdre's chambers, and a little something extra. Enjoy yourself.</Source>
+      <Dest>给你，通往迪尔德丽会所的钥匙，还有一些其他的东西，玩得开心。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Yes Lorne, and from what I understand, you are not a stranger to either.</Source>
+      <Dest>是的洛恩，就我所知，你对其他人而言并不陌生。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm afraid I don't know who that is.</Source>
+      <Dest>恐怕我不知道那是谁。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you know that. I understand you're quite the gambler. And you have a debt that must be paid.</Source>
+      <Dest>但你知道的。我明白你是个彻彻底底的赌徒，那你也必须还债啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was searching for an answer, when I started combing through the books.</Source>
+      <Dest>我在细细审读那些书的同时，寻找着一个答案。</Dest>
+    </String>
+    <String List="2">
+      <Source>So here, take the key to her chambers, and a little something extra. Satisfy your cravings. You've earned it.</Source>
+      <Dest>既然这样，拿着她卧室的钥匙和一些额外的物品。满足你的欲望吧。这是你应得的。</Dest>
+    </String>
+    <String List="2">
+      <Source>This beauty is most evident when the wolf is in motion, attacking its prey. It is pure poetry.</Source>
+      <Dest>当狼对自己的猎物发起攻击时，那种美感最是展露无遗。那真是一首浑然天成的诗篇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Bring this pelt to me, and I will clear your debts. And as a bonus, I'll allow you to see Deirdre once more, on the house.</Source>
+      <Dest>把这皮毛带给我，我会清偿你的债务。而且作为奖励，我会考虑让你再在这间屋子里见到迪尔德丽。</Dest>
+    </String>
+    <String List="2">
+      <Source>If a patron wishes to pay to see this form in motion, I will not deny him this pleasure.</Source>
+      <Dest>如果有顾客希望花钱去看这种运动中的形态，我不会拒绝他这种乐趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>I found a client named Lorne, whose debts were so egregious they could only be paid with blood.</Source>
+      <Dest>我找到了那个名叫洛恩的当事人，他负的债如此惊人，只能用命偿了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You live up to your reputation, Lorne. But may I remind you, you still have a debt to pay.</Source>
+      <Dest>你并没有辜负你的名声，洛恩。但是请允许我提醒你，你还有债务要付。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I assure you, it is nothing more than a test. Have faith, and you will be rewarded. The Gods, after all, rewarded me with you.</Source>
+      <Dest>但我向你保证，这不过是个测试。有点信心吧，你会得到回报的。毕竟，诸神都把你奖励给我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>But a feral animal is not a pet. One day It bit her, and I had no choice but to release him back into the wild.</Source>
+      <Dest>可是野兽毕竟不是宠物。有天它咬了她，我就不得不把他放回野外了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You lack faith, Lorne. It's not unusual for people who've been kicked around as much as we have.</Source>
+      <Dest>你特么怂了吧，洛恩。对于像我们这样经常被群殴的人来说这可不稀奇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your actions have done that, Lorne, but I'm sure my Vjola will be happy to hear her knight isn't always as crude as the rumors say.</Source>
+      <Dest>你的所为已经做到了，洛恩，不过相信我家薇亚拉还是会很高兴知道她的骑士不是像传言中那么愚鲁的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Meanwhile Vjola had taken ill. An infection, they say, and I don't know if she'll recover.</Source>
+      <Dest>同时薇亚拉已经病倒了。他们说是传染病，我不知道她是否能康复。</Dest>
+    </String>
+    <String List="2">
+      <Source>I confess, I don't meet with clients. I find we have very little in common. To me, you're nothing more than a name and a number.</Source>
+      <Dest>我承认，我不与客户见面。我发现我们很少有共同点。对我来说，你只是一个名字和一个数字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your debts will be cleared. And as I know you fancy her, I'll allow you to see Deirdre once more, on the house.</Source>
+      <Dest>你欠的债都会一笔勾销。而且既然你那么迷恋迪尔德丽，我可以让你再见她一次 ，免费的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if that is not enough of a carrot, then consider this. Do this for me, and I'll give you a night with Deidre on the house.</Source>
+      <Dest>但如果这还不够的话，那考虑下这个。你为我做了这件事，我就能许你一晚上去看看那姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>I should killed him. I know now for my Vjola to have peace, this wolf must die.</Source>
+      <Dest>我本该杀了它的。现在我知道了，为了我的薇亚拉能够平安，这狼必须死。</Dest>
+    </String>
+    <String List="2">
+      <Source>You live up to your reputation, Lorne.</Source>
+      <Dest>你并没有辜负你的名声，洛恩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, right. It appears one of the caged wolves has died. Some animals can't survive living in captivity.</Source>
+      <Dest>啊，是的。看来笼子里的一头狼已经死了。有些动物就是不能在囚禁之下苟延残喘。</Dest>
+    </String>
+    <String List="2">
+      <Source>To see two wolves fight is to see artistry in motion. The moment of clarity is worth a lifetime of blindness.</Source>
+      <Dest>两头狼之间的战斗就如同运动的艺术。只需一瞥，就算是此生失明也在所不惜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which makes you the perfect instrument.</Source>
+      <Dest>你乐器玩儿的还不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I knew when my daughter took ill a champion would come to save her, and Deirdre would be part of the reward.</Source>
+      <Dest>我知道，当我的女儿生病的时候，有一个英雄救了她，而迪尔德丽应该受到表彰。</Dest>
+    </String>
+    <String List="2">
+      <Source>When Vjola took ill, I was left with an unenviable choice. Curse the Gods who did this, or blame myself for neglecting her.</Source>
+      <Dest>当维奥拉生病时，我面临着一个艰难的抉择。诅咒做出此事的神明，或者为我对她的疏忽责怪自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of your abilities, I have no doubt. In fact, that's how I recognized you.</Source>
+      <Dest>对你的能力我并无一丝疑虑，那样才显得我真正的了解你。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're much taller in person. Sharper as well. My Vjola had eyes like you once, when she was a cub.</Source>
+      <Dest>你真人看起来高些，也瘦些。我的薇亚拉在还是幼崽的时候也有一双你那样的眼睛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rest assured, I'll have one of my men see to cleaning the cage. You, on the other hand, must be eager to claim your prize.</Source>
+      <Dest>放心，我会让我的一个人去打扫笼子。另外，你肯定很想要拿到自己的奖金。</Dest>
+    </String>
+    <String List="2">
+      <Source>I only wish to watch my wolves bare their fangs. This temple of sin is a byproduct of that desire.</Source>
+      <Dest>我只是希望看到我的狼群能露出獠牙。这个罪恶的神庙只是欲望的副产品。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I shouldn't keep you. You must be eager to see Deirdre. Here, take the key to her chambers, and a little something extra for the pits.</Source>
+      <Dest>不过我不应该把你留在这。你肯定很想见迪尔德丽。在这，拿上她房间的钥匙，还有一点为这个鬼地方准备的小赠品。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I shouldn't keep you. You must be eager to see Deirdre. Here, take the key to her chambers, and a little something extra for the pits.</Source>
+      <Dest>不过我不应该把你留在这。你肯定很想见迪尔德丽。在这，拿上她房间的钥匙，还有一点为这个鬼地方准备的小赠品。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Orcs keep to themselves. The Jarl's men do the same, provided we keep them satisfied.</Source>
+      <Dest>如果我们能让双方都高兴的话，那些兽人去找麻烦，领主的人也是一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>I want to have the cages moved outside. I know it makes us more visible but their howling is upsetting Vjola.</Source>
+      <Dest>我想把这笼子搬到外边儿。我知道这会让我们更容易被看见，但他们的嚎叫都搞得薇亚拉心烦意乱的了。</Dest>
+    </String>
+    <String List="2">
       <Source>Are you a godly man, Lorne? And I don't mean eight or nine or whatever Old Gods the Forsworn worship.</Source>
       <Dest>洛恩 ，你觉得自己是一个虔诚的人么？我指的可不是八圣灵啊九圣灵或者弃誓者崇拜上古之神之类的。</Dest>
     </String>
     <String List="2">
-      <Source>Are you a godly woman, Lorne? And I don't mean eight or nine or whatever Old Gods the Forsworn worship.</Source>
-      <Dest>洛恩，你是一个虔诚的女人么？我指的可不是八圣灵啊九圣灵或者弃誓者崇拜上古之神之类的。</Dest>
-    </String>
-    <String List="2">
       <Source>Yes...I mean, maybe...see if the walls can be tunneled further first. If not, then we have no choice but to move them outside.</Source>
       <Dest>是的……我的意思是，也许……首先看一下墙是否有隧道通向远处。如果没有的话，那么我们除了把它搬到外头外，别无选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you a godly woman, Lorne? And I don't mean eight or nine or whatever Old Gods the Forsworn worship.</Source>
+      <Dest>洛恩，你是一个虔诚的女人么？我指的可不是八圣灵啊九圣灵或者弃誓者崇拜上古之神之类的。</Dest>
     </String>
     <String List="2">
       <Source>You'll be back to your old self in no time, won't you girl.</Source>
@@ -435,28 +447,12 @@
       <Dest>啊，你一定就是洛恩。他们叫我找你，结果在这儿碰上了。</Dest>
     </String>
     <String List="2">
-      <Source>Nonsense...she...she's simply tired.</Source>
-      <Dest>胡说……她……她只是累了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I want to have the cages moved outside. I know it makes us more visible but their howling is upsetting Vjola.</Source>
-      <Dest>我想把这笼子搬到外边儿。我知道这会让我们更容易被看见，但他们的嚎叫都搞得薇亚拉心烦意乱的了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nonsense...she...she's simply tired.</Source>
+      <Dest>胡说……她……她只是累了。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

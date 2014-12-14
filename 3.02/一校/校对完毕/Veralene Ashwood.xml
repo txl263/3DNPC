@@ -7,1700 +7,1652 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Heljarchen Hall.</Source>
-      <Dest>勇士堑山庄。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
     </String>
     <String List="0">
-      <Source>Windstad Manor.</Source>
-      <Dest>文斯塔德庄园</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
-      <Source>Lakeview Manor.</Source>
-      <Dest>湖景林居。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="0">
-      <Source>Let's live in my house in Solitude.</Source>
-      <Dest>让我们住在我在独孤城的房子里吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
+      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
     </String>
     <String List="0">
-      <Source>How about my house in Windhelm?</Source>
-      <Dest>我在风盔城的房子怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
+      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
     </String>
     <String List="0">
-      <Source>My house in Markarth would be perfect.</Source>
-      <Dest>我在马卡斯城的房子将会很完美。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I have a house in Riften.</Source>
-      <Dest>我在裂谷城有栋房子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>We could live in my house in Whiterun.</Source>
-      <Dest>我们可以住在我在雪漫城的房子里。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Living with you would be perfect.</Source>
-      <Dest>和你一起生活将会很完美。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you mean living at the Winking Skeever? Do not tell me I married a beggar! You will find us a home to live in immediately!</Source>
-      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
-    </String>
-    <String List="0">
-      <Source>Living with you would be perfect.</Source>
-      <Dest>和你一起生活将会很完美。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you mean, living at the Winking Skeever?  Do not tell me I married a beggar!  You will find us a home to live in immediately!</Source>
-      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
-    </String>
-    <String List="0">
-      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
-      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
-    </String>
-    <String List="2">
-      <Source>That was not as much of a chore as I anticipated.  Now, what castle have you provided for me?  Don't tell me you don't even own a home?</Source>
-      <Dest>这不会比我想象中的更麻烦的。现在，你能给我什么？城堡吗？不要告诉我你连一个像样的家都没有。</Dest>
-    </String>
-    <String List="0">
-      <Source>Heljarchen Hall.</Source>
-      <Dest>勇士堑山庄。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Windstad Manor.</Source>
-      <Dest>文斯塔德庄园</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Lakeview Manor.</Source>
-      <Dest>湖景林居。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd like us to move somewhere else.</Source>
-      <Dest>我想我们得移动到别的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine. This place was far too small anyway for someone of my prestige. I will hire movers to take care of our goods.</Source>
-      <Dest>好吧。对于我这样名声在外的人来说这里实在是太小了。我会雇些搬运工来打理我们的货物。</Dest>
-    </String>
-    <String List="0">
-      <Source>Proudspire Manor, my house in Solitude.</Source>
-      <Dest>傲矛别墅，我在独孤城的家。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hjerim, my house in Windhelm.</Source>
-      <Dest>霜宅，我在风盔城的房子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Vlindrel Hall, my house in Markarth.</Source>
-      <Dest>林德尔会堂，我在马卡斯城的房子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Honeyside, my house in Riften.</Source>
-      <Dest>甜蜜湾，我在裂谷城的房子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Breezehome, my house in Whiterun.</Source>
-      <Dest>风宅，我在雪漫城的房子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
-      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
+      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
     </String>
     <String List="0">
       <Source>Your old place would suit us just fine.</Source>
       <Dest>你的老地方会很适合我们的。</Dest>
     </String>
-    <String List="2">
-      <Source>Do you mean living at the Winking Skeever? Do not tell me I married a beggar! You will find us a home to live in immediately!</Source>
-      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
+    <String List="0">
+      <Source>How about my house in Windhelm?</Source>
+      <Dest>我在风舵城的房子怎么样？</Dest>
     </String>
     <String List="0">
-      <Source>Would you mind cooking something for me?</Source>
-      <Dest>你介意帮我煮点吃的吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's get one thing straight. I do not cook. I do not clean. If you want fresh meals, employ a chef. It's scandalous that we don't have one already.</Source>
-      <Dest>让我们搞清楚一件事吧。我不做饭。也不打扫。如果你想要新鲜的饭菜，就去雇个厨师吧。我们怎么没早雇一个啊，真是丢脸。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh! This child of yours must learn to be a proper lady...or be properly disposed of.</Source>
-      <Dest>嗯！我们的孩子需要学习怎么当个淑女...或许是时候该好好管教一下了。</Dest>
+      <Source>Honeyside, my house in Riften.</Source>
+      <Dest>甜蜜湾，我在裂谷城的房子。</Dest>
     </String>
     <String List="0">
-      <Source>Of course you want all of this.  And you'll never have it.</Source>
-      <Dest>当然你想要这一切。而你永远不会拥有。</Dest>
+      <Source>My house in Markarth would be perfect.</Source>
+      <Dest>我在马卡斯城的房子将会很完美。</Dest>
     </String>
-    <String List="2">
-      <Source>Whatever, I can do better than you.  One of your ears is shorter than the other?  Don't believe me?  Good luck convincing yourself otherwise.</Source>
-      <Dest>不管怎样，我能比你做得更好。你的耳朵坏了吗？不相信我吗？那就祝你有着可以说服自己的好运气吧。</Dest>
+    <String List="0">
+      <Source>Yes Mistress Veralene.  I want nothing more than to be your eternal slave.</Source>
+      <Dest>是的，维若林夫人，尊贵的维若林夫人。我内心无比渴望成为您的奴隶并永远供您差使。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's live in my house in Solitude.</Source>
+      <Dest>让我们住在我独孤城的房子里吧。</Dest>
     </String>
     <String List="0">
       <Source>Interested in me, are you?</Source>
       <Dest>你对我有兴趣，没错吧？</Dest>
     </String>
     <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>I know. I can't stop eating and I hate myself for it.</Source>
+      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know. I can't stop eating and I hate myself for it.</Source>
+      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I know. I can't stop eating and I hate myself for it.</Source>
+      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome, my house in Whiterun.</Source>
+      <Dest>微风阁，我在白漫城的房子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="0">
+      <Source>Living with you would be perfect.</Source>
+      <Dest>和你一起生活将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>Living with you would be perfect.</Source>
+      <Dest>和你一起生活将会很完美。</Dest>
+    </String>
+    <String List="0">
+      <Source>Of course you want all of this.  And you'll never have it.</Source>
+      <Dest>当然你想要这一切。而你永远不会拥有。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor, my house in Solitude.</Source>
+      <Dest>傲矛别墅，我在独孤城的家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim, my house in Windhelm.</Source>
+      <Dest>霜斋，我在风舵城的房子。</Dest>
+    </String>
+    <String List="0">
       <Source>Did you by chance want to get married?</Source>
       <Dest>你有没有想过结个婚？</Dest>
     </String>
-    <String List="2">
-      <Source>What, haven't you been listening to a word I've said?  Or are you some sick sadist who just wants to hear me say it?  Well fine.  I'm interested.</Source>
-      <Dest>什么？我刚才说的话你一个字也没听进去吗？还是你个变态只爱反复听我说那种话？好吧，有意思！</Dest>
+    <String List="0">
+      <Source>I have a house in Riften.</Source>
+      <Dest>我在裂谷城有栋房子。</Dest>
     </String>
     <String List="0">
-      <Source>Yes Mistress Veralene.  I want nothing more than to be your eternal slave.</Source>
-      <Dest>是的，维若林夫人，尊贵的维若林夫人。我内心无比渴望成为您的奴隶并永远供您差使。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well aren't you going to get down on one knee?  This is the worst proposal I have ever had the displeasure of accepting. Let's just get it over with.</Source>
-      <Dest>你不打算单膝下跪？这是我见过的最糟糕的求婚，我还得不情不愿的接受它。好啦，快点儿结束吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>An Amulet of Mara?  If you want to show your interest in me, show me your coin purse, not some religious trinket.</Source>
-      <Dest>玛拉的护符？如果你对我有兴趣，你应该告诉我你有多有钱，而不是给我看那个装饰品。</Dest>
-    </String>
-    <String List="2">
-      <Source>What are you doing talking to me?  You should be arranging our marriage. Go on now, I don't like to be kept waiting.</Source>
-      <Dest>你怎么还来跟我讲话？你应该去筹备我们的婚礼。快去吧，我可不喜欢等待。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
+      <Source>We could live in my house in Whiterun.</Source>
+      <Dest>我们可以住在我在白漫城的房子里。</Dest>
     </String>
     <String List="0">
       <Source>Hello.</Source>
       <Dest>你好。</Dest>
     </String>
-    <String List="2">
-      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
-      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's not exactly what I had intended, girl.</Source>
-      <Dest>姑娘，这还真不是我的打算。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's not how you walk.  Sway your hips, but not too much. And if you pinch your cheeks it will flush them and draw the men.</Source>
-      <Dest>That's not how you walk.  Sway your hips, but not too much. And if you pinch your cheeks it will flush them and draw the men.</Dest>
-    </String>
-    <String List="2">
-      <Source>Then we're in agreement.</Source>
-      <Dest>那我们达成一致了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hate to disappoint you girl, but you will not carry on the Ashwood name.  Not as you are.</Source>
-      <Dest>我不想让你失望，姑娘，但你不能继续保留艾什伍德的名字。不能再像现在这样了。</Dest>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>Vlindrel Hall, my house in Markarth.</Source>
+      <Dest>林德尔会堂，我在马卡斯城的房子。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得搬到别的地方去。</Dest>
     </String>
     <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>That was not as much of a chore as I anticipated.  Now, what castle have you provided for me?  Don't tell me you don't even own a home?</Source>
+      <Dest>这不会比我想象中的更麻烦的。现在，你能给我什么？城堡吗？不要告诉我你连一个像样的家都没有。</Dest>
     </String>
     <String List="2">
-      <Source>That's wonderful news.  No need to go to the apothecary, I'm sure it'll heal just fine.</Source>
-      <Dest>这是个好消息。你可以不用找药剂师了，我确信它会顺利痊愈的。 </Dest>
+      <Source>Do you mean, living at the Winking Skeever?  Do not tell me I married a beggar!  You will find us a home to live in immediately!</Source>
+      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you mean living at the Winking Skeever? Do not tell me I married a beggar! You will find us a home to live in immediately!</Source>
+      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you mean living at the Winking Skeever? Do not tell me I married a beggar! You will find us a home to live in immediately!</Source>
+      <Dest>你的意思是，在眨眼雪鼠里住？我难道是嫁给了一个乞丐吗？！你马上给我们找个家！</Dest>
+    </String>
+    <String List="2">
+      <Source>What, haven't you been listening to a word I've said?  Or are you some sick sadist who just wants to hear me say it?  Well fine.  I'm interested.</Source>
+      <Dest>什么？我刚才说的话你一个字也没听进去吗？还是你个变态只爱反复听我说那种话？好吧，有意思！</Dest>
+    </String>
+    <String List="2">
+      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
+      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
+      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mother's madness was more than enough proof of that, but genius and madness have long been partners of the same dance.</Source>
+      <Dest>母亲的疯狂已经完全可以被证明了，但天才与疯子之间仅一线之隔。</Dest>
     </String>
     <String List="2">
       <Source>Were you out hunting skeevers again, child?</Source>
       <Dest>孩子，你又跑出去猎杀雪鼠了吗？</Dest>
     </String>
     <String List="2">
-      <Source>Slow. Another poor farmer sought my company the other day.  Why can't people stick to their own kind?</Source>
-      <Dest>慢着。早晚又得有个穷农夫寻求我的陪伴。怎么就不懂门当户对的道理呢？</Dest>
+      <Source>Well aren't you going to get down on one knee?  This is the worst proposal I have ever had the displeasure of accepting. Let's just get it over with.</Source>
+      <Dest>你不打算单膝下跪？这是我见过的最糟糕的求婚，我还得不情不愿的接受它。好啦，快点儿结束吧。</Dest>
     </String>
     <String List="2">
-      <Source>Foolish child, my love is a rare breed.  Most adventurers are far more...rustic.</Source>
-      <Dest>Foolish child, my love is a rare breed.  Most adventurers are far more...rustic.</Dest>
+      <Source>I'm not against rearing them, although I absolutely will not have them.  What I mean is we'll have to adopt, as I will not suffer the stretch marks.</Source>
+      <Dest>我到不是不想养育他们，尽管我本来就不想要他们。我的意思是我们不得不收养孩子，因为我不想有妊娠纹。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not against rearing them, although I absolutely will not have them.  What I mean is we'll have to adopt, as I will not suffer the stretch marks.</Source>
+      <Dest>我到不是不想养育他们，尽管我本来就不想要他们。我的意思是我们不得不收养孩子，因为我不想有妊娠纹。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh! This child of yours must learn to be a proper lady...or be properly disposed of.</Source>
+      <Dest>嗯！我们的孩子需要学习怎么当个淑女...或许是时候该好好管教一下了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's get one thing straight. I do not cook. I do not clean. If you want fresh meals, employ a chef. It's scandalous that we don't have one already.</Source>
+      <Dest>让我们搞清楚一件事吧。我不做饭。也不打扫。如果你想要新鲜的饭菜，就去雇个厨师吧。我们怎么没早雇一个啊，真是丢脸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then we're in agreement.</Source>
+      <Dest>那我们达成一致了。</Dest>
     </String>
     <String List="2">
       <Source>Child, you'll never snag a rich husband running around in filth like you do.</Source>
       <Dest>孩子，你永远不会找到一个像你这样满面尘灰还四处奔波的富有丈夫。</Dest>
     </String>
-    <String List="0">
-      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
-      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
+    <String List="2">
+      <Source>Truth be told, I have suffered worse in the name of making my fortune.  I wonder if you are spoken for.</Source>
+      <Dest>说实话，我正在赚钱的名义下遭受折磨。我不知道你是不是有什么要辩解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you doing talking to me?  You should be arranging our marriage. Go on now, I don't like to be kept waiting.</Source>
+      <Dest>你怎么还来跟我讲话？你应该去筹备我们的婚礼。快去吧，我可不喜欢等待。</Dest>
+    </String>
+    <String List="2">
+      <Source>Here.  I got this for you.  Just a small token of my gratitude.</Source>
+      <Dest>来，这个送给你，只是个表达我心意的小礼物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, at least you realize you have a problem.  That's the first step in fixing it. </Source>
+      <Dest>至少你意识到你有一个问题了。那是解决它的第一步。 </Dest>
+    </String>
+    <String List="2">
+      <Source>That's not exactly what I had intended, girl.</Source>
+      <Dest>姑娘，这还真不是我的打算。</Dest>
     </String>
     <String List="2">
       <Source>I never expected an Altmer to say such blasphemy.  Isn't your entire civilization based on selective breeding?</Source>
       <Dest>我真没想到一个傲尔特莫也会说出如此亵渎的话。你们整个文明不都是基于优生优育而来的吗？</Dest>
     </String>
-    <String List="0">
-      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
-      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
-    </String>
     <String List="2">
-      <Source>In any case, mother's madness was more than enough proof of your statement, but genius and madness have long been partners of the same dance.</Source>
-      <Dest>母亲的疯狂已经完全可以被证明了，但天才与疯子之间仅一线之隔。</Dest>
-    </String>
-    <String List="0">
-      <Source>Noble blood gives birth to just as many hellions as common stock.</Source>
-      <Dest>贵族里出的坏蛋可不比平民里出的少.</Dest>
-    </String>
-    <String List="2">
-      <Source>Mother's madness was more than enough proof of that, but genius and madness have long been partners of the same dance.</Source>
-      <Dest>母亲的疯狂已经完全可以被证明了，但天才与疯子之间仅一线之隔。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>Truth be told, I have suffered worse in the name of making my fortune.  I wonder if you are spoken for.</Source>
-      <Dest>说实话，我正在赚钱的名义下遭受折磨。我不知道你是不是有什么要辩解的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
+      <Source>An Amulet of Mara?  If you want to show your interest in me, show me your coin purse, not some religious trinket.</Source>
+      <Dest>玛拉的护符？如果你对我有兴趣，你应该告诉我你有多有钱，而不是给我看那个装饰品。</Dest>
     </String>
     <String List="2">
       <Source>Which brings us back to my original point. I am need of a suitable partner, one who can finance the lifestyle I've become accustomed to.</Source>
       <Dest>这又扯到我一开始讲的点上来了。我需要一位般配的伴侣，一个能够经济上支持我既已习惯的生活方式的人。</Dest>
     </String>
-    <String List="0">
+    <String List="2">
+      <Source>In any case, mother's madness was more than enough proof of your statement, but genius and madness have long been partners of the same dance.</Source>
+      <Dest>母亲的疯狂已经完全可以被证明了，但天才与疯子之间仅一线之隔。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hate to disappoint you girl, but you will not carry on the Ashwood name.  Not as you are.</Source>
+      <Dest>我不想让你失望，姑娘，但你不能继续保留艾什伍德的名字。不能再像现在这样了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Slow. Another poor farmer sought my company the other day.  Why can't people stick to their own kind?</Source>
+      <Dest>慢着。早晚又得有个穷农夫寻求我的陪伴。怎么就不懂门当户对的道理呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. This place was far too small anyway for someone of my prestige. I will hire movers to take care of our goods.</Source>
+      <Dest>好吧。对于我这样名声在外的人来说这里实在是太小了。我会雇些搬运工来打理我们的货物。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever, I can do better than you.  One of your ears is shorter than the other?  Don't believe me?  Good luck convincing yourself otherwise.</Source>
+      <Dest>不管怎样，我能比你做得更好。你的耳朵坏了吗？不相信我吗？那就祝你有着可以说服自己的好运气吧。</Dest>
+    </String>
+    <String List="2">
       <Source>What do you mean?</Source>
       <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's wonderful news.  No need to go to the apothecary, I'm sure it'll heal just fine.</Source>
+      <Dest>这是个好消息。你可以不用找药剂师了，我确信它会顺利痊愈的。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. It better be worthy of me, or you'll be sleeping in the guest room.</Source>
+      <Dest>很好，它最好值得, 要不你就得睡客房了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, I'd rather you didn't. Appearances mean nothing to me. For one of your...considerable girth, that might prove quite auspicious.</Source>
+      <Dest>当然，我不建议你这样做。外表对我来说没什么意义。况且对于你...这样的人来说，粗腰围说不定还是福气呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, that urchin you adopted does not qualify.  She is unfit to wear the name Ashwood.</Source>
+      <Dest>当然，你收养的那个小孩没资格。她不配艾什伍德这个名号。</Dest>
     </String>
     <String List="2">
       <Source>Because for all intents and purposes, I would rather be dead than poor, and every second I am the latter brings me closer to the former.</Source>
       <Dest>因为不管是什么目的，我宁愿去死也不要当个穷鬼，而且每时每刻后者都在让我更靠近前者。</Dest>
     </String>
     <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>So as the Nords are fond to do, I seek marriage without courtship.  Time is short, and every day is worth two tomorrows.</Source>
-      <Dest>So as the Nords are fond to do, I seek marriage without courtship.  Time is short, and every day is worth two tomorrows.</Dest>
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
     </String>
     <String List="0">
-      <Source>I know. I can't stop eating and I hate myself for it.</Source>
-      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, at least you realize you have a problem.  That's the first step in fixing it. </Source>
-      <Dest>至少你意识到你有一个问题了。那是解决它的第一步。 </Dest>
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
     </String>
     <String List="0">
-      <Source>I know. I can't stop eating and I hate myself for it.</Source>
-      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
-    </String>
-    <String List="2">
-      <Source>The second step is finding a nice strong rope to hang yourself with.</Source>
-      <Dest>The second step is finding a nice strong rope to hang yourself with.</Dest>
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
     </String>
     <String List="0">
-      <Source>I know. I can't stop eating and I hate myself for it.</Source>
-      <Dest>我知道啊，只是自己也恨自己停不下嘴。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, I'd rather you didn't. Appearances mean nothing to me. For one of your...considerable girth, that might prove quite auspicious.</Source>
-      <Dest>当然，我不建议你这样做。外表对我来说没什么意义。况且对于你...这样的人来说，粗腰围说不定还是福气呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm not against rearing them, although I absolutely will not have them.  What I mean is we'll have to adopt, as I will not suffer the stretch marks.</Source>
-      <Dest>我到不是不想养育他们，尽管我本来就不想要他们。我的意思是我们不得不收养孩子，因为我不想有妊娠纹。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
-      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
-    </String>
-    <String List="2">
-      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
-      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, that urchin you adopted does not qualify.  She is unfit to wear the name Ashwood.</Source>
-      <Dest>当然，你收养的那个小孩没资格。她不配艾什伍德这个名号。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm not against rearing them, although I absolutely will not have them.  What I mean is we'll have to adopt, as I will not suffer the stretch marks.</Source>
-      <Dest>我到不是不想养育他们，尽管我本来就不想要他们。我的意思是我们不得不收养孩子，因为我不想有妊娠纹。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
-      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
-      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>But that can wait.  We still need to build our fortune to a sizable amount before we can even begin to broach the subject of heirs.</Source>
-      <Dest>这可以以后再说。我们要先弄清有多少财产再讨论继承人的问题。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm not against them, if that is what you are implying.  We'll have to adopt, of course, for obvious reasons.</Source>
-      <Dest>如果你是觉得我在贬低他们，我没有那个意思。出于显而易见的原因，我们的孩子必须是收养而来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
-      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
-      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, that urchin you adopted does not qualify.  She is unfit to wear the name Ashwood.</Source>
-      <Dest>当然，你收养的那个小孩没资格。她不配艾什伍德这个名号。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm not against them, if that is what you are implying.  We'll have to adopt, of course, for obvious reasons.</Source>
-      <Dest>如果你是觉得我在贬低他们，我没有那个意思。出于显而易见的原因，我们的孩子必须是收养而来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
-      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
-      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>But that can wait.  We still need to build our fortune to a sizable amount before we can even begin to broach the subject of heirs.</Source>
-      <Dest>这可以以后再说。我们要先弄清有多少财产再讨论继承人的问题。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on children?</Source>
-      <Dest>你对于那群孩子有什么想法？</Dest>
-    </String>
-    <String List="2">
-      <Source>What's that supposed to mean?  Someone like me?  You mean someone who is young, highborn, and educated?</Source>
-      <Dest>What's that supposed to mean?  Someone like me?  You mean someone who is young, highborn, and educated?</Dest>
-    </String>
-    <String List="0">
-      <Source>It'll be difficult for someone like you to find a spouse.</Source>
-      <Dest>像你这样的人要找对象是有难度啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I am affable.  I am sweet.  I am the most devastating beauty Skyrim has witnessed in five millennia.  And you are evidently blind.</Source>
-      <Dest>我是那么地和蔼可亲，我是那么地温婉可人，我简直堪称是天际省五千年来美的奇迹。而你这家伙完全是瞎了眼吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>It'll be difficult for someone like you to find a spouse.</Source>
-      <Dest>像你这样的人要找对象是有难度啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, that is quite apparent by the paucity of gifts you have brought me, and yet you continue to respond with more empty words.</Source>
-      <Dest>是的，很明显你买给我的礼物都不值几个钱，而你还用一堆空话来忽悠人。</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize.  I need to appreciate you more.</Source>
-      <Dest>不好意思。我应该感激你的更多。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know I am hard on you, my love, but I ask for these things not just to enhance my beauty and your prestige, but for practical reasons.</Source>
-      <Dest>我知道一直以来辛苦你了，吾爱，但我要问这些事情不只是为了增加我的魅力和你的声望，而是为了更实际的原因。</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize.  I need to appreciate you more.</Source>
-      <Dest>不好意思。我应该感激你的更多。</Dest>
-    </String>
-    <String List="2">
-      <Source>We need to secure our financial future.  Skyrim's economy has become quite volatile, and the fur and jewel trade will become more and more prominent.</Source>
-      <Dest>我们得保护我们的经济前景。天际的经济已经变得非常不稳定了，尤其是皮毛和珠宝生意这一块。</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize.  I need to appreciate you more.</Source>
-      <Dest>不好意思。我应该感激你的更多。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
-      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize.  I need to appreciate you more.</Source>
-      <Dest>不好意思。我应该感激你的更多。</Dest>
-    </String>
-    <String List="2">
-      <Source>So pardon me for thinking about our welfare.</Source>
-      <Dest>所以就我们的福利事业，请容我三思。</Dest>
-    </String>
-    <String List="0">
-      <Source>I apologize.  I need to appreciate you more.</Source>
-      <Dest>不好意思。我应该感激你的更多。</Dest>
-    </String>
-    <String List="2">
-      <Source>You are indeed an excellent shape.  A perfect circle.</Source>
-      <Dest>你确实有着一个优秀的身形。一个完美的圆。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's ridiculous.  I'm in excellent shape.</Source>
-      <Dest>这真荒谬。我状态奇佳。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course there is no need to take offense. Appearances mean nothing to me. For one of your...considerable girth, that may prove quite auspicious.</Source>
-      <Dest>当然，没必要觉得这句话是冒犯。外表对我来说没什么意义。而对于你...这样的人来说，粗腰围说不定还是福气呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's ridiculous.  I'm in excellent shape.</Source>
-      <Dest>这真荒谬。我状态奇佳。</Dest>
-    </String>
-    <String List="2">
-      <Source>Greed?  I simply wish to have a keepsake to remind me of my precious spouse. </Source>
-      <Dest>Greed?  I simply wish to have a keepsake to remind me of my precious spouse. </Dest>
-    </String>
-    <String List="0">
-      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
-      <Dest>我给你的女人还不够多吗？简直是贪得无厌！</Dest>
-    </String>
-    <String List="2">
-      <Source>Not to mention these items appreciate in price.  They are investments as much as they hold sentimental value.</Source>
-      <Dest>Not to mention these items appreciate in price.  They are investments as much as they hold sentimental value.</Dest>
-    </String>
-    <String List="0">
-      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
-      <Dest>我给你的女人还不够多吗？简直是贪得无厌！</Dest>
-    </String>
-    <String List="2">
-      <Source>I merely wish to secure our future so my spouse doesn't have to go gallivanting around making enemies out of vampires, necromancers, and dragons.</Source>
-      <Dest>我只希望我们的未来能够平安，这样我的配偶在闲逛的时候，就不会遇见吸血鬼，亡灵术士，或者龙之类的敌人了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
-      <Dest>我给你的女人还不够多吗？简直是贪得无厌！</Dest>
-    </String>
-    <String List="2">
-      <Source>Excuse me for thinking about your welfare.</Source>
-      <Dest>请原谅我其实是在为你着想。</Dest>
-    </String>
-    <String List="0">
-      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
-      <Dest>我给你的女人还不够多吗？简直是贪得无厌！</Dest>
-    </String>
-    <String List="2">
-      <Source>I will be whatever I want to be you brainless cur.</Source>
-      <Dest>我想成为什么就能成为什么。你个蠢货。</Dest>
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
     </String>
     <String List="0">
       <Source>Calm down madame.  No need to be antagonistic.</Source>
-      <Dest>冷静下来女士.  没有必要激动（antagonistic）.</Dest>
-    </String>
-    <String List="2">
-      <Source>If I wish to spit on your face and act as buffoonish as you look, then I will do so at my leisure.</Source>
-      <Dest>只要我闲下来，我就会装得像你那样蠢并往你脸上吐唾沫。</Dest>
+      <Dest>冷静下来女士。没有必要激动。</Dest>
     </String>
     <String List="0">
       <Source>Calm down madame.  No need to be antagonistic.</Source>
-      <Dest>冷静下来女士.  没有必要激动（antagonistic）.</Dest>
-    </String>
-    <String List="2">
-      <Source>I will not be courteous, for what nobility I had left departed along with my fortune.</Source>
-      <Dest>我可不会很礼貌，因为我的高尚和曾经拥有的财富一样，早已逝去。</Dest>
+      <Dest>冷静下来女士。没有必要激动。</Dest>
     </String>
     <String List="0">
       <Source>Calm down madame.  No need to be antagonistic.</Source>
-      <Dest>冷静下来女士.  没有必要激动（antagonistic）.</Dest>
-    </String>
-    <String List="2">
-      <Source>No, I was stripped of it, by the only thing that could affect one of my eminence.  I lost it to dragon fire.  Helgen.  I was there.</Source>
-      <Dest>不，我显赫地位的那唯一证明，被它给剥夺了，被那头龙，被那头龙的火焰。没错，是海尔根，当时我就在那儿。</Dest>
+      <Dest>冷静下来女士。没有必要激动。</Dest>
     </String>
     <String List="0">
       <Source>Calm down madame.  No need to be antagonistic.</Source>
-      <Dest>冷静下来女士.  没有必要激动（antagonistic）.</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course I did.  Do you expect me to wear the same colorless garb each day like some bedraggled handmaiden?</Source>
-      <Dest>我当然换了。你难道还指望我每天都穿那身平淡无奇的衣服，搞得像个脏兮兮的女仆？</Dest>
+      <Dest>冷静下来女士。没有必要激动。</Dest>
     </String>
     <String List="0">
       <Source>You changed your attire.</Source>
       <Dest>你的装束变了。</Dest>
     </String>
-    <String List="2">
-      <Source>I was referring to my hair.  I cut it slightly shorter this time, to further accentuate the loveliness of my neck.</Source>
-      <Dest>我指的是我的头发。这次我把它稍稍剪短了些，为了进一步突显出我可爱的脖子。</Dest>
-    </String>
     <String List="0">
       <Source>You changed your attire.</Source>
       <Dest>你的装束变了。</Dest>
     </String>
-    <String List="2">
-      <Source>I should have figured you would fail to notice.  Your very existence is defined by that word.  Failure.</Source>
-      <Dest>I should have figured you would fail to notice.  Your very existence is defined by that word.  Failure.</Dest>
-    </String>
     <String List="0">
       <Source>You changed your attire.</Source>
       <Dest>你的装束变了。</Dest>
-    </String>
-    <String List="2">
-      <Source>The cracks in my...I beg your pardon!</Source>
-      <Dest>这裂缝在我的……你说啥？！</Dest>
-    </String>
-    <String List="0">
-      <Source>Easy now, the cracks in your forehead are starting to widen.</Source>
-      <Dest>放松。裂缝开始在你前面变宽了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I am a Breton.  It's no secret we have Elvish blood in our veins, and like our Dunmer cousins, our fine lines are considered beauty marks.</Source>
-      <Dest>我是布莱顿人。我们拥有精灵的血统毫不惊奇，就如同我们黑精灵表亲那般，瘦长的曲线便是我们美貌的象征。</Dest>
-    </String>
-    <String List="0">
-      <Source>Easy now, the cracks in your forehead are starting to widen.</Source>
-      <Dest>放松。裂缝开始在你前面变宽了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I most certainly am not.  The lessons I learned were not gifts, but things that I paid an overwhelming price for.</Source>
-      <Dest>我几乎可以肯定不是。我受的那些训练与其说是礼物，不如说是沉重的代价。</Dest>
     </String>
     <String List="0">
       <Source>Your strict upbringing strengthened your character. You should be thankful.</Source>
       <Dest>你所受过的严格的家庭教育强化了你的品行，你应该心存感激。</Dest>
     </String>
-    <String List="2">
-      <Source>And not everyone can be bored to death, but I bet the ones that are were talking to you.</Source>
-      <Dest>并不是每个人都可以无聊到死，不过我敢打赌，那些跟你聊天的人八成都会无聊到死。</Dest>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
     </String>
     <String List="0">
-      <Source>Everyone dies.  Not everyone is so insufferable about it.</Source>
-      <Dest>每个人都会死。但不是每个人都觉得死亡如此不可承受。</Dest>
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
     </String>
-    <String List="2">
-      <Source>I disagree.  Zenithar honors those who aid commerce, and Julianos takes pleasure in the contradiction of having criminals make laws.</Source>
-      <Dest>我不同意。泽尼萨尔表彰那些赞助商业的人，而尤里安诺思热衷于反驳让罪犯制定法律这件事。</Dest>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on children?</Source>
+      <Dest>你对于那群孩子有什么想法？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's ridiculous.  I'm in excellent shape.</Source>
+      <Dest>这真荒谬。我身形姣好。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's ridiculous.  I'm in excellent shape.</Source>
+      <Dest>这真荒谬。我身形姣好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy now, the cracks in your forehead are starting to widen.</Source>
+      <Dest>放松。你前额的裂缝开始变宽了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy now, the cracks in your forehead are starting to widen.</Source>
+      <Dest>放松。你前额的裂缝开始变宽了。</Dest>
     </String>
     <String List="0">
       <Source>Maybe so, but it doesn't make it right.  Not in the eyes of the Gods.</Source>
-      <Dest>也许是，但看在神的眼里，那并不代表是对的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Each Divine has their own morality, and none have jurisdiction over the actions of mortals.</Source>
-      <Dest>每位圣灵都有他自己的一套道德观念，并且他们都对凡人的行为没有管辖权。</Dest>
+      <Dest>也许是，但看在神的份上，那并不代表是对的。</Dest>
     </String>
     <String List="0">
       <Source>Maybe so, but it doesn't make it right.  Not in the eyes of the Gods.</Source>
-      <Dest>也许是，但看在神的眼里，那并不代表是对的。</Dest>
-    </String>
-    <String List="2">
-      <Source>My problem is I've lost all of my land, you insensitive dolt.  No, not just my land.  My land, my gold, and my peasants.</Source>
-      <Dest>我的难题是我已经失去了我所有的土地，你这个蠢货。不...不仅仅是土地，还有我的财产！我的农仆们！</Dest>
+      <Dest>也许是，但看在神的份上，那并不代表是对的。</Dest>
     </String>
     <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="2">
-      <Source>So if I wish to act as incorrigible as you look, then I have every right to do so.</Source>
-      <Dest>那么如果我想要像你看上去那样无药可救，我有权利那样做对吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="2">
-      <Source>I will not be courteous, for what nobility I had left departed along with my fortune.</Source>
-      <Dest>我可不会很礼貌，因为我的高尚和曾经拥有的财富一样，早已逝去。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="2">
-      <Source>No, I was stripped of it, by the only thing that could affect one of my eminence.  I lost it to dragon fire.  Helgen.  I was there.</Source>
-      <Dest>不，我显赫地位的那唯一证明，被它给剥夺了，被那头龙，被那头龙的火焰。没错，是海尔根，当时我就在那儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="2">
-      <Source>And what of the cooks that prepare your food?  The lover who offers you their bed?</Source>
-      <Dest>你想厨师怎么准备你的食物？像情人让你上床一样？</Dest>
-    </String>
-    <String List="0">
-      <Source>You'd have to pay every warrior in Skyrim, and I'd still come out alive.</Source>
-      <Dest>哪怕你雇佣天际省所有的战士，我也会活着出现的。</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, there are so many ways to kill, that the best way to torture a person is to make an empty threat.</Source>
-      <Dest>其实，杀人的办法有很多，而最好的折磨人的方法是用一个不存在的东西去威胁他。</Dest>
-    </String>
-    <String List="0">
-      <Source>You'd have to pay every warrior in Skyrim, and I'd still come out alive.</Source>
-      <Dest>哪怕你雇佣天际省所有的战士，我也会活着出现的。</Dest>
-    </String>
-    <String List="2">
-      <Source>By anyone who's anyone, yes.  We owned the largest farm in Helgen, but our most profitable venture was the stable.</Source>
-      <Dest>妇孺皆知，恩哼。我们拥有海尔根最大的农场，但我们最合算的投资还是蓄养牲口。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are the Ashwoods known throughout Skyrim?</Source>
-      <Dest>白蜡木在天际省很有名吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Many of the Imperial soldiers wanted horses bred from Cyrodiil, never knowing how poorly they handled the cold, and the terrain.</Source>
-      <Dest>许多帝国的士兵想要赛瑞迪尔出产的马匹，却从不考虑那些马匹对于寒冷和其他地形的适应力有多么地弱。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are the Ashwoods known throughout Skyrim?</Source>
-      <Dest>白蜡木在天际省很有名吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Whenever a soldier got transferred from other parts of Tamriel, we made thrice the gold that we did selling to Nords.</Source>
-      <Dest>当泰姆瑞尔大陆其他地方的士兵被调遣而来，比起把东西卖给诺德人，我们就能多赚三倍的钱。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are the Ashwoods known throughout Skyrim?</Source>
-      <Dest>白蜡木在天际省很有名吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know what is more outrageous, your statement or your audacity to make it.  I am a classical Breton beauty.</Source>
-      <Dest>我不知道还有什么比你的言论和无力更粗暴的东西了。我可是个典型的布莱顿美人儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>I suppose there are plenty of suitors who enjoy frog-faced women.</Source>
-      <Dest>我想一定有很多人追求那个青蛙脸女人。</Dest>
-    </String>
-    <String List="2">
-      <Source>You, on the other hand, are the worst kind of slug, a lowborn worm without the dignity to respect your betters and the brains to recognize them.</Source>
-      <Dest>You, on the other hand, are the worst kind of slug, a lowborn worm without the dignity to respect your betters and the brains to recognize them.</Dest>
-    </String>
-    <String List="0">
-      <Source>I suppose there are plenty of suitors who enjoy frog-faced women.</Source>
-      <Dest>我想一定有很多人追求那个青蛙脸女人。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's absurd.  If I had my former wealth, I could pay you to do my errands, fight my wars, and to leave me alone.</Source>
-      <Dest>简直荒谬！如果我还有我从前的财富，我就能让你做我的奴才，为我战斗，然后离我远点儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>Strength is a currency more valuable than gold.</Source>
-      <Dest>力量是比金币更有价值的货币。</Dest>
-    </String>
-    <String List="2">
-      <Source>And if you overstepped your bounds, I could pay someone else to put you down.</Source>
-      <Dest>还有如果你再有不守本分的话，我会花钱雇佣别人，干掉你！</Dest>
-    </String>
-    <String List="0">
-      <Source>Strength is a currency more valuable than gold.</Source>
-      <Dest>力量是比金币更有价值的货币。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you wanted a demure, servile woman, you should have married yourself.</Source>
-      <Dest>如果你想要一个拘谨，奴性的女人，你应该娶你自己。</Dest>
+      <Source>There are ways to usurp those in power.  Coin is a fool's immunity.</Source>
+      <Dest>强力夺取的方法多了去了。傻瓜才会用钱。</Dest>
     </String>
     <String List="0">
       <Source>The only thing you need to change is your attitude.</Source>
       <Dest>你唯一需要改变的，就是态度。</Dest>
     </String>
-    <String List="2">
-      <Source>What does it look like?  Boredom.  Old age.  Thirst.  What's the point of living when all roads lead to the same mound of dirt.</Source>
-      <Dest>这起来像什么？无趣。年老。干渴。当所有的前路都不过是化为一捧泥土的时候，生命的意义是什么？</Dest>
-    </String>
     <String List="0">
       <Source>I'm sorry.  What are you dying of?</Source>
       <Dest>抱歉。你想要什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd have to pay every warrior in Skyrim, and I'd still come out alive.</Source>
+      <Dest>哪怕你雇佣了天际省所有的战士，我也会活着突围的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd have to pay every warrior in Skyrim, and I'd still come out alive.</Source>
+      <Dest>哪怕你雇佣了天际省所有的战士，我也会活着突围的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the Ashwoods known throughout Skyrim?</Source>
+      <Dest>艾什伍德在天际省很有名吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the Ashwoods known throughout Skyrim?</Source>
+      <Dest>艾什伍德在天际省很有名吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the Ashwoods known throughout Skyrim?</Source>
+      <Dest>艾什伍德在天际省很有名吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Strength is a currency more valuable than gold.</Source>
+      <Dest>力量是比金币更有价值的货币。</Dest>
+    </String>
+    <String List="0">
+      <Source>Strength is a currency more valuable than gold.</Source>
+      <Dest>力量是比金币更有价值的货币。</Dest>
+    </String>
+    <String List="0">
+      <Source>Everyone dies.  Not everyone is so insufferable about it.</Source>
+      <Dest>每个人都会死。但不是每个人都觉得死亡如此不可承受。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize.  I need to appreciate you more.</Source>
+      <Dest>不好意思。我应该更感激你一些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize.  I need to appreciate you more.</Source>
+      <Dest>不好意思。我应该更感激你一些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize.  I need to appreciate you more.</Source>
+      <Dest>不好意思。我应该更感激你一些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize.  I need to appreciate you more.</Source>
+      <Dest>不好意思。我应该更感激你一些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I apologize.  I need to appreciate you more.</Source>
+      <Dest>不好意思。我应该更感激你一些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't imagine why anyone would want to punch you.</Source>
+      <Dest>我没法想象居然有人会想打你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't imagine why anyone would want to punch you.</Source>
+      <Dest>我没法想象居然有人会想打你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can't imagine why anyone would want to punch you.</Source>
+      <Dest>我没法想象居然有人会想打你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose there are plenty of suitors who enjoy frog-faced women.</Source>
+      <Dest>我想一定有很多人追求那个青蛙脸女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose there are plenty of suitors who enjoy frog-faced women.</Source>
+      <Dest>我想一定有很多人追求那个青蛙脸女人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It'll be difficult for someone like you to find a spouse.</Source>
+      <Dest>像你这样的人要找对象是有难度啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>It'll be difficult for someone like you to find a spouse.</Source>
+      <Dest>像你这样的人要找对象是有难度啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
+      <Dest>我给你的女人味还不够多吗？简直是贪得无厌！</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
+      <Dest>我给你的女人味还不够多吗？简直是贪得无厌！</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
+      <Dest>我给你的女人味还不够多吗？简直是贪得无厌！</Dest>
+    </String>
+    <String List="0">
+      <Source>Have I not provided you with enough woman?  Your greed knows no bounds.</Source>
+      <Dest>我给你的女人味还不够多吗？简直是贪得无厌！</Dest>
+    </String>
+    <String List="2">
+      <Source>So if I wish to act as incorrigible as you look, then I have every right to do so.</Source>
+      <Dest>那么如果我想要像你看上去那样无药可救，我有权利那样做对吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know I am hard on you, my love, but I ask for these things not just to enhance my beauty and your prestige, but for practical reasons.</Source>
+      <Dest>我知道一直以来辛苦你了，吾爱，但我要问这些事情不只是为了增加我的魅力和你的声望，而是为了更实际的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I wish to spit on your face and act as buffoonish as you look, then I will do so at my leisure.</Source>
+      <Dest>只要我闲下来，我就会装得像你那样蠢并往你脸上吐唾沫。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
+      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
+      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it goes without saying that we will omit any mention or association with your family.</Source>
+      <Dest>而且毫无疑问，我们将省略任何提及或能使人联想到你家人的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
+      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
+      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally the children will take on the Ashwood name and carry on its legacy.  </Source>
+      <Dest>孩子们很自然地继承了艾什伍德家族的威名并传承着她的神话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Each Divine has their own morality, and none have jurisdiction over the actions of mortals.</Source>
+      <Dest>每位圣灵都有他自己的一套道德观念，并且他们都对凡人的行为没有管辖权。</Dest>
+    </String>
+    <String List="2">
+      <Source>I most certainly am not.  The lessons I learned were not gifts, but things that I paid an overwhelming price for.</Source>
+      <Dest>我几乎可以肯定不是。我受的那些训练与其说是礼物，不如说是沉重的代价。</Dest>
+    </String>
+    <String List="2">
+      <Source>But that can wait.  We still need to build our fortune to a sizable amount before we can even begin to broach the subject of heirs.</Source>
+      <Dest>这可以以后再说。我们要先弄清有多少财产再讨论继承人的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>But that can wait.  We still need to build our fortune to a sizable amount before we can even begin to broach the subject of heirs.</Source>
+      <Dest>这可以以后再说。我们要先弄清有多少财产再讨论继承人的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>And not everyone can be bored to death, but I bet the ones that are were talking to you.</Source>
+      <Dest>并不是每个人都可以无聊到死，不过我敢打赌，那些跟你聊天的人八成都会无聊到死。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was referring to my hair.  I cut it slightly shorter this time, to further accentuate the loveliness of my neck.</Source>
+      <Dest>我指的是我的头发。这次我把它稍稍剪短了些，为了进一步突显出我可爱的脖子。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I was stripped of it, by the only thing that could affect one of my eminence.  I lost it to dragon fire.  Helgen.  I was there.</Source>
+      <Dest>不，我显赫地位的那唯一证明，被它给剥夺了，被那头龙，被那头龙的火焰。没错，是海尔根，当时我就在那儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I was stripped of it, by the only thing that could affect one of my eminence.  I lost it to dragon fire.  Helgen.  I was there.</Source>
+      <Dest>不，我显赫地位的那唯一证明，被它给剥夺了，被那头龙，被那头龙的火焰。没错，是海尔根，当时我就在那儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, there are so many ways to kill, that the best way to torture a person is to make an empty threat.</Source>
+      <Dest>其实，杀人的办法有很多，而最好的折磨人的方法是用一个不存在的东西去威胁他。</Dest>
+    </String>
+    <String List="2">
+      <Source>I learned a valuable lesson that day. The one with the gold makes the rules.  Those without it are prisoners.  Those with it can forever live free.</Source>
+      <Dest>那天我学到了宝贵的一课。有钱的人能制定规则。而没钱的人只能是囚犯。只有拥有金钱，才能拥有自由的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course there is no need to take offense. Appearances mean nothing to me. For one of your...considerable girth, that may prove quite auspicious.</Source>
+      <Dest>当然，没必要觉得这句话是冒犯。外表对我来说没什么意义。而对于你...这样的人来说，粗腰围说不定还是福气呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>The cracks in my...I beg your pardon!</Source>
+      <Dest>这裂缝在我的……你说啥？！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
+      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>And what of the cooks that prepare your food?  The lover who offers you their bed?</Source>
+      <Dest>你想厨师怎么准备你的食物？像情人让你上床一样？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not against them, if that is what you are implying.  We'll have to adopt, of course, for obvious reasons.</Source>
+      <Dest>如果你是觉得我在贬低他们，我没有那个意思。出于显而易见的原因，我们的孩子必须是收养而来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not against them, if that is what you are implying.  We'll have to adopt, of course, for obvious reasons.</Source>
+      <Dest>如果你是觉得我在贬低他们，我没有那个意思。出于显而易见的原因，我们的孩子必须是收养而来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What does it look like?  Boredom.  Old age.  Thirst.  What's the point of living when all roads lead to the same mound of dirt.</Source>
+      <Dest>这起来像什么？无趣。年老。干渴。当所有的前路都不过是化为一捧泥土的时候，生命的意义是什么？</Dest>
     </String>
     <String List="2">
       <Source>Wars and assassinations require gold to finance them.  Besides, I would not do something so barbaric as murdering one's own kin.</Source>
       <Dest>战争和暗杀都需要资金维系运作。此外，我是不会做出一些诸如谋杀某人亲眷之类的野蛮事来的。</Dest>
     </String>
-    <String List="0">
-      <Source>There are ways to usurp those in power.  Coin is a fool's immunity.</Source>
-      <Dest>强力夺取的方法多去了。傻瓜才会用钱。</Dest>
+    <String List="2">
+      <Source>Whenever a soldier got transferred from other parts of Tamriel, we made thrice the gold that we did selling to Nords.</Source>
+      <Dest>当泰姆瑞尔大陆其他地方的士兵被调遣而来，比起把东西卖给诺德人，我们就能多赚三倍的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wanted a demure, servile woman, you should have married yourself.</Source>
+      <Dest>如果你想要一个拘谨，奴性的女人，你应该娶你自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course I did.  Do you expect me to wear the same colorless garb each day like some bedraggled handmaiden?</Source>
+      <Dest>我当然换了。你难道还指望我每天都穿那身平淡无奇的衣服，搞得像个脏兮兮的女仆？</Dest>
+    </String>
+    <String List="2">
+      <Source>I merely wish to secure our future so my spouse doesn't have to go gallivanting around making enemies out of vampires, necromancers, and dragons.</Source>
+      <Dest>我只希望我们的未来能够平安，这样我的配偶在闲逛的时候，就不会遇见吸血鬼，亡灵术士，或者龙之类的敌人了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of the Imperial soldiers wanted horses bred from Cyrodiil, never knowing how poorly they handled the cold, and the terrain.</Source>
+      <Dest>许多帝国的士兵想要赛瑞迪尔出产的马匹，却从不考虑那些马匹对于寒冷和其他地形的适应力有多么地弱。</Dest>
     </String>
     <String List="2">
       <Source>Yes. Only the beatings weren't enough.  Bruises heal.  But the words stick you like a dagger.</Source>
       <Dest>是啊。仅仅说是惨败还不够。伤口可以愈合，但那些话语就像刀子一样狠狠戳痛了你。</Dest>
     </String>
-    <String List="0">
-      <Source>I can't imagine why anyone would want to punch you.</Source>
-      <Dest>我没法想象居然有人会想打你。</Dest>
+    <String List="2">
+      <Source>I will not be courteous, for what nobility I had left departed along with my fortune.</Source>
+      <Dest>我可不会很礼貌，因为我的高尚和曾经拥有的财富一样，早已逝去。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not be courteous, for what nobility I had left departed along with my fortune.</Source>
+      <Dest>我可不会很礼貌，因为我的高尚和曾经拥有的财富一样，早已逝去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, that is quite apparent by the paucity of gifts you have brought me, and yet you continue to respond with more empty words.</Source>
+      <Dest>是的，很明显你买给我的礼物都不值几个钱，而你还用一堆空话来忽悠人。</Dest>
+    </String>
+    <String List="2">
+      <Source>My problem is I've lost all of my land, you insensitive dolt.  No, not just my land.  My land, my gold, and my peasants.</Source>
+      <Dest>我的难题是我已经失去了我所有的土地，你这个蠢货。不...不仅仅是土地，还有我的财产！我的农仆们！</Dest>
     </String>
     <String List="2">
       <Source>One day I asked the servant why he puts up with it.  And he told me, same reason you do.  For the gold.</Source>
       <Dest>我曾经问过我的仆从是如何忍过去的，他的回答与你一样，为了钱，什么都可以忍。</Dest>
     </String>
-    <String List="0">
-      <Source>I can't imagine why anyone would want to punch you.</Source>
-      <Dest>我没法想象居然有人会想打你。</Dest>
+    <String List="2">
+      <Source>I disagree.  Zenithar honors those who aid commerce, and Julianos takes pleasure in the contradiction of having criminals make laws.</Source>
+      <Dest>我不同意。泽尼萨尔表彰那些赞助商业的人，而尤里安诺思热衷于反驳让罪犯制定法律这件事。</Dest>
     </String>
     <String List="2">
-      <Source>I learned a valuable lesson that day. The one with the gold makes the rules.  Those without it are prisoners.  Those with it can forever live free.</Source>
-      <Dest>那天我学到了宝贵的一课。有钱的人能制定规则。而没钱的人只能是囚犯。只有拥有金钱，才能拥有自由的生活。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can't imagine why anyone would want to punch you.</Source>
-      <Dest>我没法想象居然有人会想打你。</Dest>
+      <Source>And if you overstepped your bounds, I could pay someone else to put you down.</Source>
+      <Dest>还有如果你再有不守本分的话，我会花钱雇佣别人，干掉你！</Dest>
     </String>
     <String List="2">
-      <Source>Yes. Only the beatings weren't enough.  Bruises heal.  But the words stick you like a dagger.</Source>
-      <Dest>是啊。仅仅说是惨败还不够。伤口可以愈合，但那些话语就像刀子一样狠狠戳痛了你。</Dest>
-    </String>
-    <String List="0">
-      <Source>That couldn't have been an easy childhood.</Source>
-      <Dest>那绝不算是安逸的童年时光。</Dest>
+      <Source>By anyone who's anyone, yes.  We owned the largest farm in Helgen, but our most profitable venture was the stable.</Source>
+      <Dest>妇孺皆知，恩哼。我们拥有海尔根最大的农场，但我们最合算的投资还是蓄养牲口。</Dest>
     </String>
     <String List="2">
-      <Source>One day I asked the servant why he puts up with it.  And he told me, same reason you do.  For the gold.</Source>
-      <Dest>我曾经问过我的仆从是如何忍过去的，他的回答与你一样，为了钱，什么都可以忍。</Dest>
-    </String>
-    <String List="0">
-      <Source>That couldn't have been an easy childhood.</Source>
-      <Dest>那绝不算是安逸的童年时光。</Dest>
+      <Source>So pardon me for thinking about our welfare.</Source>
+      <Dest>所以就我们的福利事业，请容我三思。</Dest>
     </String>
     <String List="2">
-      <Source>I learned a valuable lesson that day. The one with the gold makes the rules.  Those without it are prisoners.  Those with it can forever live free.</Source>
-      <Dest>那天我学到了宝贵的一课。有钱的人能制定规则。而没钱的人只能是囚犯。只有拥有金钱，才能拥有自由的生活。</Dest>
-    </String>
-    <String List="0">
-      <Source>That couldn't have been an easy childhood.</Source>
-      <Dest>那绝不算是安逸的童年时光。</Dest>
+      <Source>Excuse me for thinking about your welfare.</Source>
+      <Dest>请原谅我其实是在为你着想。</Dest>
     </String>
     <String List="2">
-      <Source>I inherited it.  And by that I mean I earned every septim.</Source>
-      <Dest>我继承了它。我这么说的意思是：每个子儿都是我自己挣来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you make your original fortune?</Source>
-      <Dest>你是怎么发财的呢？ </Dest>
+      <Source>You are indeed an excellent shape.  A perfect circle.</Source>
+      <Dest>你确实有着一个优秀的身形。一个完美的圆。</Dest>
     </String>
     <String List="2">
-      <Source>My mother was a hard woman, and she treated her servants, her farm hands, and her children like hardened criminals.</Source>
-      <Dest>我妈完全是个悍妇，她对她所有的仆人、农工甚至孩子们都像重刑罪犯一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you make your original fortune?</Source>
-      <Dest>你是怎么发财的呢？ </Dest>
+      <Source>I don't know what is more outrageous, your statement or your audacity to make it.  I am a classical Breton beauty.</Source>
+      <Dest>我不知道还有什么比你的言论和无力更粗暴的东西了。我可是个典型的布莱顿美人儿。</Dest>
     </String>
     <String List="2">
-      <Source>I remember we had an Orc servant, bastard born, and every time mother got drunk, he made it a point to remind him.</Source>
-      <Dest>我不会忘记我们有一个兽人服务生，一个杂种，每次我妈妈醉酒之时，他总会去提醒他。</Dest>
+      <Source>That's absurd.  If I had my former wealth, I could pay you to do my errands, fight my wars, and to leave me alone.</Source>
+      <Dest>简直荒谬！如果我还有我从前的财富，我就能让你做我的奴才，为我战斗，然后离我远点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will be whatever I want to be you brainless cur.</Source>
+      <Dest>我想成为什么就能成为什么。你个蠢货。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am a Breton.  It's no secret we have Elvish blood in our veins, and like our Dunmer cousins, our fine lines are considered beauty marks.</Source>
+      <Dest>我是布莱顿人。我们拥有精灵的血统毫不惊奇，就如同我们黑精灵表亲那般，瘦长的曲线便是我们美貌的象征。</Dest>
+    </String>
+    <String List="2">
+      <Source>We need to secure our financial future.  Skyrim's economy has become quite volatile, and the fur and jewel trade will become more and more prominent.</Source>
+      <Dest>我们得保护我们的经济前景。天际的经济已经变得非常不稳定了，尤其是皮毛和珠宝生意这一块。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, that urchin you adopted does not qualify.  She is unfit to wear the name Ashwood.</Source>
+      <Dest>当然，你收养的那个小孩没资格。她不配艾什伍德这个名号。</Dest>
     </String>
     <String List="0">
-      <Source>How did you make your original fortune?</Source>
-      <Dest>你是怎么发财的呢？ </Dest>
-    </String>
-    <String List="2">
-      <Source>She gave the poor sod a serving of knuckle pie for breakfast, lunch and dinner.  Three square meals a day, right square in the jaw.</Source>
-      <Dest>她赏了那可怜的王八蛋一记肘击，作为他的早餐、中餐和晚餐。让他饱尝了狠狠的三拐子，正好击中下颚。</Dest>
+      <Source>You look displeased, my love.</Source>
+      <Dest>你看起来不高兴，亲爱的。</Dest>
     </String>
     <String List="0">
-      <Source>How did you make your original fortune?</Source>
-      <Dest>你是怎么发财的呢？ </Dest>
-    </String>
-    <String List="2">
-      <Source>I don't have to imagine how much they hurt.  I know the taste of it all too well.  </Source>
-      <Dest>我不需要想像他们伤的多重，我太了解这些了。</Dest>
+      <Source>You look displeased, my love.</Source>
+      <Dest>你看起来不高兴，亲爱的。</Dest>
     </String>
     <String List="0">
-      <Source>How did you make your original fortune?</Source>
-      <Dest>你是怎么发财的呢？ </Dest>
-    </String>
-    <String List="2">
-      <Source>Yes?  What do you want?  Can't you see I'm busy dying?</Source>
-      <Dest>Yes?  What do you want?  Can't you see I'm busy dying?</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean, you could see that?  You can see me aging?  Because that's what I'm dying of.  Same as you.</Source>
-      <Dest>你什么意思，你能看得出来？你能看出我在变得衰老？这就是为什么我快死了。像你看到的一样。</Dest>
+      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
+      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
     </String>
     <String List="0">
-      <Source>I could see that, and I came out of concern for your welfare.</Source>
-      <Dest>我能明白, 而为了你的利益我也未受关照。</Dest>
+      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
+      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
     </String>
-    <String List="2">
-      <Source>You must have drank a speechcraft potion to fabricate such a ridiculous lie.  Away with you, peasant.</Source>
-      <Dest>你以为喝了巧舌药剂就能跑来吹得天花乱坠啊。走你的吧，乡巴佬。</Dest>
+    <String List="0">
+      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
+      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
+      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
+      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
+    </String>
+    <String List="0">
+      <Source>How was your day?</Source>
+      <Dest>你今天过得怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>How was your day?</Source>
+      <Dest>你今天过得怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, so was I.</Source>
+      <Dest>事实上, 我也曾是.</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, so was I.</Source>
+      <Dest>事实上, 我也曾是.</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, so was I.</Source>
+      <Dest>事实上, 我也曾是.</Dest>
+    </String>
+    <String List="0">
+      <Source>As a matter of fact, so was I.</Source>
+      <Dest>事实上, 我也曾是.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm still swift enough to take you down.</Source>
+      <Dest>我的灵活程度不减当年，要放倒你还是小菜一碟。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm still swift enough to take you down.</Source>
+      <Dest>我的灵活程度不减当年，要放倒你还是小菜一碟。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
+      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
+      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
+      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your hair?  Tell me it's your hair.  I don't want another tantrum.</Source>
+      <Dest>你的头发？告诉我这是你的头发。我不想再发一次脾气了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your hair?  Tell me it's your hair.  I don't want another tantrum.</Source>
+      <Dest>你的头发？告诉我这是你的头发。我不想再发一次脾气了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.  By no means did I seek to offend.</Source>
+      <Dest>对不起。我不是有意冒犯。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry.  By no means did I seek to offend.</Source>
+      <Dest>对不起。我不是有意冒犯。</Dest>
     </String>
     <String List="0">
       <Source>But...but you're hideous.</Source>
       <Dest>但......但是您太可怕了。 </Dest>
     </String>
-    <String List="2">
-      <Source>How many times must I tell you dear, flattery is best wasted on fools.</Source>
-      <Dest>我要跟你说多少次啊亲爱的，马屁要拍在傻瓜那儿才对。</Dest>
+    <String List="0">
+      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
+      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
+    </String>
+    <String List="0">
+      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
+      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
+    </String>
+    <String List="0">
+      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
+      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
+    </String>
+    <String List="0">
+      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
+      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
+    </String>
+    <String List="0">
+      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
+      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
     </String>
     <String List="0">
       <Source>Nothing has changed, for you will always be perfect.</Source>
       <Dest>丝毫没有改变，因为你永远如此完美。</Dest>
     </String>
-    <String List="2">
-      <Source>You may think I rise out of bed looking as stunning as I do, but I'll have you know it takes hard work, a unique sense of style, and plenty of gold.</Source>
-      <Dest>你可能会觉得我刚起床的时候和现在看起来一样惊艳，但我要你知道这得下大量功夫，需要独特的时尚观念，以及很多钱。</Dest>
-    </String>
     <String List="0">
       <Source>Nothing has changed, for you will always be perfect.</Source>
       <Dest>丝毫没有改变，因为你永远如此完美。</Dest>
     </String>
-    <String List="2">
-      <Source>What, so healthy people can't die now?  I'll have you know we can, it just takes thrice the time.</Source>
-      <Dest>什么，那么健康的人就不会死了吗？我要让你知道我们可以让他死，只需多花三倍的时间。</Dest>
+    <String List="0">
+      <Source>Is it me or are you wearing a new set of clothes today?</Source>
+      <Dest>是我的错觉还是你今天穿了一套新衣服？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're looking radiant today, my love.</Source>
+      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
+    </String>
+    <String List="0">
+      <Source>That couldn't have been an easy childhood.</Source>
+      <Dest>那绝不算是安逸的童年时光。</Dest>
+    </String>
+    <String List="0">
+      <Source>That couldn't have been an easy childhood.</Source>
+      <Dest>那绝不算是安逸的童年时光。</Dest>
+    </String>
+    <String List="0">
+      <Source>That couldn't have been an easy childhood.</Source>
+      <Dest>那绝不算是安逸的童年时光。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could see that, and I came out of concern for your welfare.</Source>
+      <Dest>我能明白, 而且我也开始关心起你的幸福来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>True.  Errands and small tasks are an adventurer's lifeblood.</Source>
+      <Dest>的确。探险者也就跑跑腿，做些鸡毛蒜皮的小事罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>True.  Errands and small tasks are an adventurer's lifeblood.</Source>
+      <Dest>的确。探险者也就跑跑腿，做些鸡毛蒜皮的小事罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What your mother did was horrible.  I'm sorry.</Source>
+      <Dest>你老妈做的事情可真够可怕的。真是对不起。</Dest>
+    </String>
+    <String List="0">
+      <Source>What your mother did was horrible.  I'm sorry.</Source>
+      <Dest>你老妈做的事情可真够可怕的。真是对不起。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if there are no eligible bachelors?</Source>
+      <Dest>那如果这里有单身汉呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What if there are no eligible bachelors?</Source>
+      <Dest>那如果这里有单身汉呢？</Dest>
     </String>
     <String List="0">
       <Source>You appear to be healthy.</Source>
       <Dest>你看起来很健康。</Dest>
     </String>
-    <String List="2">
-      <Source>I am not such a delicate flower that I would be offended by your ignorance.</Source>
-      <Dest>我不会因你的无视而动怒的，我没有那么娇贵。</Dest>
+    <String List="0">
+      <Source>How did you make your original fortune?</Source>
+      <Dest>你是怎么发财的呢？ </Dest>
     </String>
     <String List="0">
-      <Source>I'm sorry.  By no means did I seek to offend.</Source>
-      <Dest>对不起。我不是有意冒犯。</Dest>
-    </String>
-    <String List="2">
-      <Source>I may look like a comely maiden, but as you say, my resolve has been steeled by a less than ideal upbringing.</Source>
-      <Dest>I may look like a comely maiden, but as you say, my resolve has been steeled by a less than ideal upbringing.</Dest>
+      <Source>How did you make your original fortune?</Source>
+      <Dest>你是怎么发财的呢？ </Dest>
     </String>
     <String List="0">
-      <Source>I'm sorry.  By no means did I seek to offend.</Source>
-      <Dest>对不起。我不是有意冒犯。</Dest>
-    </String>
-    <String List="2">
-      <Source>Precisely.  I pay you to slay a mammoth, then I sell the ivory for twice what I paid you.</Source>
-      <Dest>很贴切。我雇你去杀一头猛犸，然后我再以雇佣你的价钱的两倍把猛犸象牙卖给你。</Dest>
+      <Source>How did you make your original fortune?</Source>
+      <Dest>你是怎么发财的呢？ </Dest>
     </String>
     <String List="0">
-      <Source>True.  Errands and small tasks are an adventurer's lifeblood.</Source>
-      <Dest>的确。探险者也就跑跑腿儿，做些鸡毛蒜皮的小事儿罢了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, that implies I did a small amount of work, when in truth I would do none.  A servant would handle the transactions.  I would merely collect.</Source>
-      <Dest>呃，这意味着我可以少干点儿活了，虽然本来我就没做什么活。仆人会处理一切事务的，我只是个甩手掌柜。</Dest>
+      <Source>How did you make your original fortune?</Source>
+      <Dest>你是怎么发财的呢？ </Dest>
     </String>
     <String List="0">
-      <Source>True.  Errands and small tasks are an adventurer's lifeblood.</Source>
-      <Dest>的确。探险者也就跑跑腿儿，做些鸡毛蒜皮的小事儿罢了。</Dest>
+      <Source>How did you make your original fortune?</Source>
+      <Dest>你是怎么发财的呢？ </Dest>
     </String>
     <String List="2">
-      <Source>Why yes, I cut it slightly shorter this time, to further accentuate the loveliness of my neck.</Source>
-      <Dest>恩，是的，为了进一步凸显我可爱的脖子，我这次把它稍稍剪短了些。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your hair?  Tell me it's your hair.  I don't want another tantrum.</Source>
-      <Dest>你的头发？告诉我这是你的头发。我不希望别人发脾气。</Dest>
+      <Source>And I would say you are quite charitable, as you show your stomach no shortage of generosity.</Source>
+      <Dest>我说你有点太大方了, 打肿脸充胖子.</Dest>
     </String>
     <String List="2">
-      <Source>That was rather perceptive of you, and entirely unexpected.  Almost enough to let me forgive the insult you hurled after.  Almost.</Source>
-      <Dest>真是出乎预料，你还挺敏锐的嘛。这都几乎足以让我在你大声叫骂的侮辱后原谅你了。几乎。</Dest>
+      <Source>My mother was a hard woman, and she treated her servants, her farm hands, and her children like hardened criminals.</Source>
+      <Dest>我妈完全是个悍妇，她对她所有的仆人、农工甚至孩子们都像重刑罪犯一样。</Dest>
     </String>
-    <String List="0">
-      <Source>Your hair?  Tell me it's your hair.  I don't want another tantrum.</Source>
-      <Dest>你的头发？告诉我这是你的头发。我不希望别人发脾气。</Dest>
+    <String List="2">
+      <Source>Balms and creams mostly, to keep my skin looking fresh and rejuvenated.  I'm sure you're pleased.  Neither of us wish to see my beauty fade.</Source>
+      <Dest>我通常用药膏和面霜让我的肌肤看起来新鲜而充满活力。我知道你也很乐意看到我那样。我们都不希望看到我的美丽褪色，不是吗。</Dest>
     </String>
     <String List="2">
       <Source>Well...I...accept your apology, but you seem to be missing the point.  What is horrible and decent depends entirely on the size of your coffers.</Source>
       <Dest>好吧...我接受你的道歉，不过我想你弄错重点了。结局的好坏取决与你的资产有多少。</Dest>
     </String>
-    <String List="0">
-      <Source>What your mother did was horrible.  I'm sorry.</Source>
-      <Dest>你老妈做的事情可真够可怕的。真是对不起。</Dest>
+    <String List="2">
+      <Source>What, so healthy people can't die now?  I'll have you know we can, it just takes thrice the time.</Source>
+      <Dest>什么，那么健康的人就不会死了吗？我要让你知道我们可以让他死，只需多花三倍的时间。</Dest>
     </String>
     <String List="2">
-      <Source>Many before you acknowledged the direness of my situation, but their pity was as empty as their pockets.</Source>
-      <Dest>在你之前很多人也承认我的悲惨处境，但是他们的同情就如同他们空无一物的荷包一样。</Dest>
-    </String>
-    <String List="0">
-      <Source>What your mother did was horrible.  I'm sorry.</Source>
-      <Dest>你老妈做的事情可真够可怕的。真是对不起。</Dest>
+      <Source>Why yes, I cut it slightly shorter this time, to further accentuate the loveliness of my neck.</Source>
+      <Dest>恩，是的，为了进一步凸显我可爱的脖子，我这次把它稍稍剪短了些。</Dest>
     </String>
     <String List="2">
-      <Source>(Laughs) Don't be absurd.  Wealthy men will abandon their children and leave their wives the moment they see my Amulet of Mara.</Source>
-      <Dest>(笑声)别傻了，在看见我戴着玛拉的护符的一刻，那些有钱人立马儿会抛妻弃子。</Dest>
+      <Source>Not that I hold it against you.  Well fed means well to do.  In fact, I am beginning to wonder if you are spoken for.</Source>
+      <Dest>不是针对你。酒足饭饱好干活。说实话，我开始怀疑对你说这个到底有没有意义。</Dest>
     </String>
-    <String List="0">
-      <Source>What if there are no eligible bachelors?</Source>
-      <Dest>那如果这里有单身汉呢？</Dest>
+    <String List="2">
+      <Source>How absurd. My personal chef saw to it that I ate only the healthiest meals and my servants made sure to compliment me on the result.</Source>
+      <Dest>多荒谬啊。我只吃我的私人厨师烹饪的最健康的菜肴，而且我的仆人也确信我取得了值得祝贺的成果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Furs to keep me company as I long for your warmth.  Diamonds to remind me of the ripples of light that shimmer in your eyes.</Source>
+      <Dest>皮草像你的热情一样围着我，钻石让我想起你眼睛中闪出的光华。</Dest>
     </String>
     <String List="2">
       <Source>I am young.  I am highborn.  I am educated.  I am the most devastating beauty Skyrim has witnessed in five millennia.  What man wouldn't want this.</Source>
       <Dest>我年轻，我出身高贵。我接受过良好的教育。我是这美丽的天际被毁灭的那些在五年中人们不愿看到的事情见证者。</Dest>
     </String>
-    <String List="0">
-      <Source>What if there are no eligible bachelors?</Source>
-      <Dest>那如果这里有单身汉呢？</Dest>
+    <String List="2">
+      <Source>I remember we had an Orc servant, bastard born, and every time mother got drunk, he made it a point to remind him.</Source>
+      <Dest>我不会忘记我们有一个兽人服务生，一个杂种，每次我妈妈醉酒之时，他总会去提醒他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Precisely.  I pay you to slay a mammoth, then I sell the ivory for twice what I paid you.</Source>
+      <Dest>很贴切。我雇你去杀一头猛犸，然后我再以雇佣你的价钱的两倍把猛犸象牙卖给你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, like a great big boulder.</Source>
+      <Dest>是的，就像一块儿大石头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, that's what fools often suggest.  They are sheep who only know how to chew cud, never realizing the value of their own wool.</Source>
+      <Dest>当然，这就是傻瓜们经常会想到的。他们是只知道如何咀嚼反刍食物的羊，却从未意识到自己羊毛的价值。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not such a delicate flower that I would be offended by your ignorance.</Source>
+      <Dest>我不会因你的无视而动怒的，我没有那么娇贵。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many before you acknowledged the direness of my situation, but their pity was as empty as their pockets.</Source>
+      <Dest>在你之前很多人也承认我的悲惨处境，但是他们的同情就如同他们空无一物的荷包一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was rather perceptive of you, and entirely unexpected.  Almost enough to let me forgive the insult you hurled after.  Almost.</Source>
+      <Dest>真是出乎预料，你还挺敏锐的嘛。这都几乎足以让我在你大声叫骂的侮辱后原谅你了。几乎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Frankly, it's the only way to shield myself from the specter of loneliness, as I sit alone in our home and wait for your return.</Source>
+      <Dest>坦白说，这是唯一能够保护我不受孤独的幽灵侵袭的办法了，所以我孤零零地坐在家里等你回来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I learned a valuable lesson that day. The one with the gold makes the rules.  Those without it are prisoners.  Those with it can forever live free.</Source>
+      <Dest>那天我学到了宝贵的一课。有钱的人能制定规则。而没钱的人只能是囚犯。只有拥有金钱，才能拥有自由的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that implies I did a small amount of work, when in truth I would do none.  A servant would handle the transactions.  I would merely collect.</Source>
+      <Dest>呃，这意味着我可以少干点儿活了，虽然本来我就没做什么活。仆人会处理一切事务的，我只是个甩手掌柜。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
+      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>More importantly, I desire such items not only for comfort, and as a reminder of your love, but as investments.</Source>
+      <Dest>更重要的是，我觉得那种东西不仅仅是用来抚慰别人的，也不是用来作为定情信物的，它更像是某种投资。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Don't be absurd.  Wealthy men will abandon their children and leave their wives the moment they see my Amulet of Mara.</Source>
+      <Dest>(笑声)别傻了，在看见我戴着玛拉的护符的一刻，那些有钱人立马儿会抛妻弃子。</Dest>
+    </String>
+    <String List="2">
+      <Source>And unless some wealthy uncle shows up with gold spilling out of his pockets, the only viable alternative is marriage.</Source>
+      <Dest>除非某些拎着塞满金币的口袋的富豪叔叔出现，（不然的话）唯一可行的途径就是婚姻了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Somehow I doubt that.  One with your considerable waistline would have proved too tempting a morsel for a dragon to ignore.</Source>
+      <Dest>无论如何我都有点担心。你那让人无法直视的腰围对一条龙而言，实在太诱龙了，不咬一口不幸福。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course my love, you can't expect a woman to wear the same thing twice in a fortnight.  That would be extremely gauche.</Source>
+      <Dest>当然了，亲爱的，你不能指望一个女人在两周里重复穿同一件衣服。那有多蠢啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>She gave the poor sod a serving of knuckle pie for breakfast, lunch and dinner.  Three square meals a day, right square in the jaw.</Source>
+      <Dest>她赏了那可怜的王八蛋一记肘击，作为他的早餐、中餐和晚餐。让他饱尝了狠狠的三拐子，正好击中下颚。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is unequivocally true.  But dearest, I cannot simply walk around naked in the streets, as delighting as that may be to onlookers.</Source>
+      <Dest>这绝对是真的。但是亲爱的，我不能裸着身子走在街上，让那些旁观者捡乐儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. Only the beatings weren't enough.  Bruises heal.  But the words stick you like a dagger.</Source>
+      <Dest>是啊。仅仅说是惨败还不够。伤口可以愈合，但那些话语就像刀子一样狠狠戳痛了你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine, considering I have an unmotivated sloth for a spouse.  How about earning some more gold, or does my happiness mean nothing to you?</Source>
+      <Dest>很好。考虑到我有一个不思进取惫怠懒散的配偶。怎么才能赚到更多的金币呢？还是我的幸福对你来说毫无意义？</Dest>
+    </String>
+    <String List="2">
+      <Source>You may think I rise out of bed looking as stunning as I do, but I'll have you know it takes hard work, a unique sense of style, and plenty of gold.</Source>
+      <Dest>你可能会觉得我刚起床的时候和现在看起来一样惊艳，但我要你知道这得下大量功夫，需要独特的时尚观念，以及很多钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't hold it against you. Were I to choose you, my name alone would be enough to elevate our progeny beyond your obvious shortcomings.</Source>
+      <Dest>哦，我不怪你。在我选择了你后，我的名字就足以让我们的后裔忽略你那些明显的缺点。</Dest>
+    </String>
+    <String List="2">
+      <Source>I inherited it.  And by that I mean I earned every septim.</Source>
+      <Dest>我继承了它。我这么说的意思是：每个子儿都是我自己挣来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>One day I asked the servant why he puts up with it.  And he told me, same reason you do.  For the gold.</Source>
+      <Dest>我曾经问过我的仆从是如何忍过去的，他的回答与你一样，为了钱，什么都可以忍。</Dest>
+    </String>
+    <String List="2">
+      <Source>These items will prove far more fungible than gold should the Empire crumble.  We need to make sure to diversify our wealth.</Source>
+      <Dest>在帝国瓦解之后这些东西肯定比金子值钱。我们需要确保我们没有把所有的鸡蛋（财富）都装进一个篮子里。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will not let my skin wither in the midday sun to pick a few measly grapes.</Source>
+      <Dest>我可不想为了摘几串破葡萄就让太阳暴晒我的皮肤。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to imagine how much they hurt.  I know the taste of it all too well.  </Source>
+      <Dest>我不需要想像他们伤的多重，我太了解这些了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Were my servants lying to me all this time? If they're smart they were.  But people of low birth are all twaddling nitwits.  Take you for example.</Source>
+      <Dest>我的仆人是不是从来没跟我说过实话？如果他们够聪明的话，肯定是这样。但下等出身的人都是些喜欢胡说八道的笨蛋。比如你。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must have drank a speechcraft potion to fabricate such a ridiculous lie.  Away with you, peasant.</Source>
+      <Dest>你以为喝了巧舌药剂就能跑来吹得天花乱坠啊。走你的吧，乡巴佬。</Dest>
+    </String>
+    <String List="2">
+      <Source>A housewife needs something to hold onto.  Something to keep while her spouse braves the outside world.  </Source>
+      <Dest>一个独守空房的家庭主妇需要点念想。这样她才能在她的爱人在外闯荡的时候坚持下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>And what should I do with it?  Work the fields like some common harridan?</Source>
+      <Dest>那么我应该怎么办呢？像那些暴脾气的老女人一样在地里工作？</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, a noble shouldn't have so little gold on their person.  It's beneath you.</Source>
+      <Dest>不管怎么说，一个贵族是不该随身只带这么点钱的，不符合你的身份啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>How many times must I tell you dear, flattery is best wasted on fools.</Source>
+      <Dest>我要跟你说多少次啊亲爱的，马屁要拍在傻瓜那儿才对。</Dest>
+    </String>
+    <String List="2">
+      <Source>So pardon me for thinking about our welfare.</Source>
+      <Dest>所以就我们的福利事业，请容我三思。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do so and the chairs and benches from here to the Akavir will thank you for your charity.</Source>
+      <Dest>从这里到阿卡维尔那里的椅子和长凳也会感谢你的慈悲之举。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did a little shopping at the alchemy shop.  I hope you don't mind, but I spent some of the food money on some personal effects.</Source>
+      <Dest>我去炼金术商店买了些东西。我希望你不要介意，因为我花了一些买食物的钱来置办个人物品。</Dest>
+    </String>
+    <String List="2">
+      <Source>She must be wined and dined, and dressed in hard gems and gentle furs.  </Source>
+      <Dest>她一定会被热情款待，穿金戴银。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such things speak louder than any poetry, and their glimmer does not fade like the spoken word.</Source>
+      <Dest>如此的事迹比任何诗歌都要响亮，而他们的光芒就如同出口的语言一般不会褪色。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I know you think I say this out of avarice, but the only thing I am selfish for is your love.</Source>
+      <Dest>或许你认为我那样说很自私，但是我唯一让我自私的就是你的爱。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you mean, you could see that?  You can see me aging?  Because that's what I'm dying of.  Same as you.</Source>
+      <Dest>你什么意思，你能看得出来？你能看出我在变得衰老？这就是为什么我快死了。像你看到的一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know my worth, and for one with my stock, there are only two sensible ways to make a fortune.  By marriage, or by blood.</Source>
+      <Dest>我知道自己几斤几两，也知道我的血统有什么影响，想要发财的话只有两条明智的路。要么结婚，要么放血。</Dest>
     </String>
     <String List="2">
       <Source>You and your pillow talk.  Are you trying to flatter me into bed?  A fine woman like myself needs more than words, my love.</Source>
       <Dest>你还有你的枕边风。你有没有试过在床上取悦我？一个漂亮女人需要的不仅仅是好听的，我亲爱的。</Dest>
     </String>
     <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>She must be wined and dined, and dressed in hard gems and gentle furs.  </Source>
-      <Dest>她一定会被热情款待，穿金戴银。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>Such things speak louder than any poetry, and their glimmer does not fade like the spoken word.</Source>
-      <Dest>如此的事迹比任何诗歌都要响亮，而他们的光芒就如同出口的语言一般不会褪色。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>And I know you think I say this out of avarice, but the only thing I am selfish for is your love.</Source>
-      <Dest>或许你认为我那样说很自私，但是我唯一让我自私的就是你的爱。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>A housewife needs something to hold onto.  Something to keep while her spouse braves the outside world.  </Source>
-      <Dest>一个独守空房的家庭主妇需要点念想。这样她才能在她的爱人在外闯荡的时候坚持下去。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>Furs to keep me company as I long for your warmth.  Diamonds to remind me of the ripples of light that shimmer in your eyes.</Source>
-      <Dest>皮草像你的热情一样围着我，钻石让我想起你眼睛中闪出的光华。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>Frankly, it's the only way to shield myself from the specter of loneliness, as I sit alone in our home and wait for your return.</Source>
-      <Dest>坦白说，这是唯一能够保护我不受孤独的幽灵侵袭的办法了，所以我孤零零地坐在家里等你回来。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're looking radiant today, my love.</Source>
-      <Dest>亲爱的，你今天看起来容光焕发。</Dest>
-    </String>
-    <String List="2">
-      <Source>How absurd. My personal chef saw to it that I ate only the healthiest meals and my servants made sure to compliment me on the result.</Source>
-      <Dest>多荒谬啊。我只吃我的私人厨师烹饪的最健康的菜肴，而且我的仆人也确信我取得了值得祝贺的成果。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
-      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Were my servants lying to me all this time? If they're smart they were.  But people of low birth are all twaddling nitwits.  Take you for example.</Source>
-      <Dest>我的仆人是不是从来没跟我说过实话？如果他们够聪明的话，肯定是这样。但下等出身的人都是些喜欢胡说八道的笨蛋。比如你。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
-      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, I don't hold it against you. Were I to choose you, my name alone would be enough to elevate our progeny beyond your obvious shortcomings.</Source>
-      <Dest>哦，我不怪你。在我选择了你后，我的名字就足以让我们的后裔忽略你那些明显的缺点。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not sure how any of this is relevant.  And you seem to be projecting.</Source>
-      <Dest>我不确定有多少关联。你貌似有些想法。</Dest>
-    </String>
-    <String List="2">
-      <Source>And what should I do with it?  Work the fields like some common harridan?</Source>
-      <Dest>那么我应该怎么办呢？像那些暴脾气的老女人一样在地里工作？</Dest>
-    </String>
-    <String List="0">
-      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
-      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
-    </String>
-    <String List="2">
-      <Source>I will not let my skin wither in the midday sun to pick a few measly grapes.</Source>
-      <Dest>我可不想为了摘几串破葡萄就让太阳暴晒我的皮肤。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
-      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, that's what fools often suggest.  They are sheep who only know how to chew cud, never realizing the value of their own wool.</Source>
-      <Dest>当然，这就是傻瓜们经常会想到的。他们是只知道如何咀嚼反刍食物的羊，却从未意识到自己羊毛的价值。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
-      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know my worth, and for one with my stock, there are only two sensible ways to make a fortune.  By marriage, or by blood.</Source>
-      <Dest>我知道自己几斤几两，也知道我的血统有什么影响，想要发财的话只有两条明智的路。要么结婚，要么放血。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
-      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
-    </String>
-    <String List="2">
-      <Source>And unless some wealthy uncle shows up with gold spilling out of his pockets, the only viable alternative is marriage.</Source>
-      <Dest>除非某些拎着塞满金币的口袋的富豪叔叔出现，（不然的话）唯一可行的途径就是婚姻了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many paid a stiff price at Helgen.  Yet you still have your life.</Source>
-      <Dest>许多人在海尔根躺直了。你却保住了你的小命。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, like a great big boulder.</Source>
-      <Dest>是的，就像一块儿大石头。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm still swift enough to take you down.</Source>
-      <Dest>我仍可足够迅速的带你下来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not that I hold it against you.  Well fed means well to do.  In fact, I am beginning to wonder if you are spoken for.</Source>
-      <Dest>不是针对你。酒足饭饱好干活。说实话，我开始怀疑对你说这个到底有没有意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm still swift enough to take you down.</Source>
-      <Dest>我仍可足够迅速的带你下来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Somehow I doubt that.  One with your considerable waistline would have proved too tempting a morsel for a dragon to ignore.</Source>
-      <Dest>无论如何我都有点担心。你那让人无法直视的腰围对一条龙而言，实在太诱龙了，不咬一口不幸福。</Dest>
-    </String>
-    <String List="0">
-      <Source>As a matter of fact, so was I.</Source>
-      <Dest>事实上, 我也曾是.</Dest>
-    </String>
-    <String List="2">
-      <Source>Not to mention the giant bull netch you call a posterior. If you fancy yourself a benevolent person I suggest you refrain from sitting down. Forever.</Source>
-      <Dest>Not to mention the giant bull netch you call a posterior. If you fancy yourself a benevolent person I suggest you refrain from sitting down. Forever.</Dest>
-    </String>
-    <String List="0">
-      <Source>As a matter of fact, so was I.</Source>
-      <Dest>事实上, 我也曾是.</Dest>
-    </String>
-    <String List="2">
-      <Source>Do so and the chairs and benches from here to the Akavir will thank you for your charity.</Source>
-      <Dest>从这里到阿卡维尔那里的椅子和长凳也会感谢你的慈悲之举。</Dest>
-    </String>
-    <String List="0">
-      <Source>As a matter of fact, so was I.</Source>
-      <Dest>事实上, 我也曾是.</Dest>
-    </String>
-    <String List="2">
-      <Source>And I would say you are quite charitable, as you show your stomach no shortage of generosity.</Source>
-      <Dest>我说你有点太大方了, 打肿脸充胖子.</Dest>
-    </String>
-    <String List="0">
-      <Source>As a matter of fact, so was I.</Source>
-      <Dest>事实上, 我也曾是.</Dest>
-    </String>
-    <String List="2">
-      <Source>That is unequivocally true.  But dearest, I cannot simply walk around naked in the streets, as delighting as that may be to onlookers.</Source>
-      <Dest>这绝对是真的。但是亲爱的，我不能裸着身子走在街上，让那些旁观者捡乐儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
-      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
-    </String>
-    <String List="2">
-      <Source>More importantly, I desire such items not only for comfort, and as a reminder of your love, but as investments.</Source>
-      <Dest>更重要的是，我觉得那种东西不仅仅是用来抚慰别人的，也不是用来作为定情信物的，它更像是某种投资。</Dest>
-    </String>
-    <String List="0">
-      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
-      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
-    </String>
-    <String List="2">
-      <Source>These items will prove far more fungible than gold should the Empire crumble.  We need to make sure to diversify our wealth.</Source>
-      <Dest>在帝国瓦解之后这些东西肯定比金子值钱。我们需要确保我们没有把所有的鸡蛋（财富）都装进一个篮子里。</Dest>
-    </String>
-    <String List="0">
-      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
-      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
-      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
-    </String>
-    <String List="0">
-      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
-      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
-    </String>
-    <String List="2">
-      <Source>So pardon me for thinking about our welfare.</Source>
-      <Dest>所以就我们的福利事业，请容我三思。</Dest>
-    </String>
-    <String List="0">
-      <Source>No jewel can match your eyes, no set of furs are as soft as your skin.</Source>
-      <Dest>没有比你的眼睛更明亮的珠宝，没有比你的皮肤更柔软的绸缎。</Dest>
-    </String>
-    <String List="2">
-      <Source>I did a little shopping at the alchemy shop.  I hope you don't mind, but I spent some of the food money on some personal effects.</Source>
-      <Dest>我去炼金术商店买了些东西。我希望你不要介意，因为我花了一些买食物的钱来置办个人物品。</Dest>
-    </String>
-    <String List="0">
-      <Source>How was your day?</Source>
-      <Dest>你今天过得怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Balms and creams mostly, to keep my skin looking fresh and rejuvenated.  I'm sure you're pleased.  Neither of us wish to see my beauty fade.</Source>
-      <Dest>我通常用药膏和面霜让我的肌肤看起来新鲜而充满活力。我知道你也很乐意看到我那样。我们都不希望看到我的美丽褪色，不是吗。</Dest>
-    </String>
-    <String List="0">
-      <Source>How was your day?</Source>
-      <Dest>你今天过得怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Fine, considering I have an unmotivated sloth for a spouse.  How about earning some more gold, or does my happiness mean nothing to you?</Source>
-      <Dest>很好。考虑到我有一个不思进取惫怠懒散的配偶。怎么才能赚到更多的金币呢？还是我的幸福对你来说毫无意义？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="2">
-      <Source>A person's worth isn't based on how much coin they have in their pockets.  It's also based on the value of one's property and servants.</Source>
-      <Dest>A person's worth isn't based on how much coin they have in their pockets.  It's also based on the value of one's property and servants.</Dest>
-    </String>
-    <String List="0">
-      <Source>You look displeased, my love.</Source>
-      <Dest>你看起来不高兴，亲爱的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, a noble shouldn't have so little gold on their person.  It's beneath you.</Source>
-      <Dest>不管怎么说，一个贵族是不该随身只带这么点钱的，不符合你的身份啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>You look displeased, my love.</Source>
-      <Dest>你看起来不高兴，亲爱的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course my love, you can't expect a woman to wear the same thing twice in a fortnight.  That would be extremely gauche.</Source>
-      <Dest>当然了，亲爱的，你不能指望一个女人在两周里重复穿同一件衣服。那有多蠢啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is it me or are you wearing a new set of clothes today?</Source>
-      <Dest>是我还是你今天穿了一套新衣服？</Dest>
-    </String>
-    <String List="2">
-      <Source>You seem to be carrying quite a bit of gold on you.  You better let me hold on to that, lest you become a target for thieves.</Source>
-      <Dest>看起来你身上金子带得太多了啊。最好让我来保管，免得被贼盯上。</Dest>
-    </String>
-    <String List="0">
       <Source>What?  Is something the matter?</Source>
       <Dest>什么？有问题吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Careful dear, your knuckles are dragging again.</Source>
-      <Dest>小心点，亲爱的。你的手指又在拖动了。</Dest>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the word around town?</Source>
+      <Dest>城里有什么传闻吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
+      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
+    </String>
+    <String List="0">
+      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
+      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
+    </String>
+    <String List="0">
+      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
+      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
+    </String>
+    <String List="0">
+      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
+      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
+    </String>
+    <String List="0">
+      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
+      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
+    </String>
+    <String List="0">
+      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
+      <Dest>你应该没损失多少吧。海尔根与其说是个城市更像一个军事哨所。</Dest>
+    </String>
+    <String List="0">
+      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
+      <Dest>你应该没损失多少吧。海尔根与其说是个城市更像一个军事哨所。</Dest>
+    </String>
+    <String List="0">
+      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
+      <Dest>你应该没损失多少吧。海尔根与其说是个城市更像一个军事哨所。</Dest>
+    </String>
+    <String List="0">
+      <Source>Lady Ashwood, the confidence in your beauty is well deserved.</Source>
+      <Dest>艾什伍德女士，您的美貌确实值得您为之骄傲。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the matter, my love?</Source>
+      <Dest>有事吗亲爱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the matter, my love?</Source>
+      <Dest>有事吗亲爱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the matter, my love?</Source>
+      <Dest>有事吗亲爱的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your personality is the problem more than anything.</Source>
+      <Dest>你的性格才是最大的问题</Dest>
+    </String>
+    <String List="0">
+      <Source>Your personality is the problem more than anything.</Source>
+      <Dest>你的性格才是最大的问题</Dest>
+    </String>
+    <String List="0">
+      <Source>Your personality is the problem more than anything.</Source>
+      <Dest>你的性格才是最大的问题</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure you're exaggerating. You were still wealthy and to an extent, pampered.</Source>
+      <Dest>我确信你在夸大陈词。你在某种程度上依然是富有的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure you're exaggerating. You were still wealthy and to an extent, pampered.</Source>
+      <Dest>我确信你在夸大陈词。你在某种程度上依然是富有的。</Dest>
     </String>
     <String List="0">
       <Source>You.  In the bed.  Now.</Source>
       <Dest>你，现在就到床上去。.</Dest>
     </String>
-    <String List="2">
-      <Source>And where exactly have you been off to?  The locals are starting to whisper, the way you go off on your adventures.</Source>
-      <Dest>而且你到底去哪儿了？？你出发前去冒险的方式已经引得当地人议论纷纷了。</Dest>
+    <String List="0">
+      <Source>Why do you ask?</Source>
+      <Dest>你为什么这样问？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you ask?</Source>
+      <Dest>你为什么这样问？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you ask?</Source>
+      <Dest>你为什么这样问？</Dest>
     </String>
     <String List="0">
       <Source>Dearest wife, I have returned from adventuring.</Source>
       <Dest>最亲爱的老婆，我探险归来了。</Dest>
     </String>
-    <String List="2">
-      <Source>Saying things like I'm not woman enough to keep you.  Frankly, the very notion is absurd.</Source>
-      <Dest>说我在你身边不够女人。说真的，这想法真荒谬。</Dest>
-    </String>
     <String List="0">
       <Source>Dearest wife, I have returned from adventuring.</Source>
       <Dest>最亲爱的老婆，我探险归来了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh.  When is the last time you bathed?  You are not crawling into bed smelling like that.</Source>
-      <Dest>呃，你上次洗澡是什么时候？带着身上那股味道可不许上床。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the matter, my love?</Source>
-      <Dest>有事吗亲爱的？</Dest>
-    </String>
-    <String List="2">
-      <Source>If you know what's good for you, you're going to march right back outside, find the nearest river, and wash that filthy belly button of yours.</Source>
-      <Dest>你最好马上出去，找一条最近的河，把你那肮脏的肚脐眼给洗干净了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the matter, my love?</Source>
-      <Dest>有事吗亲爱的？</Dest>
-    </String>
-    <String List="2">
-      <Source>And stop by the alchemist on the way home.  I think I caught Ataxia just looking at you.</Source>
-      <Dest>以及在回来的路上再顺道去趟炼金术士那儿。仅仅是把视线停留在你身上，我就觉得我快要感染运动失调症了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the matter, my love?</Source>
-      <Dest>有事吗亲爱的？</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, apparently the people around here seem to think you're a big deal. </Source>
-      <Dest>嗯，显然，这里的人似乎都认为你是个“大人物” 。 </Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet for all your heroics you still can't seem to find time to brush your teeth.</Source>
-      <Dest>但尽管你做出了很多英雄事迹，却还是抽不出丁点儿时间来刷刷牙。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's the word around town?</Source>
-      <Dest>城里有什么传闻吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>One of the ladies around town was bragging about how her husband bought her a candle, so that he could see her better at night.</Source>
-      <Dest>镇上的一位女士吹嘘说她丈夫如何在给她买了一支蜡烛后，能在夜晚更好的看到她。</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息和传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>She thinks it was romantic.  I think it was cheap trick to distract her from the fact that her spouse is a worthless pauper.  </Source>
-      <Dest>她认为的浪漫，在我看来，只是她的丈夫为了让她忽略他只是个卑微的穷光蛋，而玩弄的低劣把戏而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息和传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>You would never do that to me, would you?</Source>
-      <Dest>你永远不会对我这样做，对吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息和传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Why shouldn't I be?  You've yet to compliment me on the change I've made.</Source>
-      <Dest>为什么不呢？你现在还没赞美我所做的改变呢。</Dest>
     </String>
     <String List="0">
       <Source>Is something the matter?  You look annoyed.</Source>
-      <Dest>出了什么事吗?  你好像不太开心.</Dest>
-    </String>
-    <String List="2">
-      <Source>I am need of a suitable partner, one who can finance the lifestyle I've become accustomed to.</Source>
-      <Dest>我需要一个合适的伴侣，一个能管理好我已经习惯的生活方式的收支的伴侣。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you ask?</Source>
-      <Dest>你为什麽问？</Dest>
-    </String>
-    <String List="2">
-      <Source>Because for all intents and purposes, I would rather be dead than poor, and every second I am the latter brings me closer to the former.</Source>
-      <Dest>因为不管是什么目的，我宁愿去死也不要当个穷鬼，而且每时每刻后者都在让我更靠近前者。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you ask?</Source>
-      <Dest>你为什麽问？</Dest>
-    </String>
-    <String List="2">
-      <Source>So as the Nords are fond to do, I seek marriage without courtship. Time is short, and every day is worth two tomorrows.</Source>
-      <Dest>所以就像是诺德人们愿意做的那样，我在没有求婚的程序中寻找婚姻。时间很短，每一个今天都值得守候两个明天。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you ask?</Source>
-      <Dest>你为什麽问？</Dest>
-    </String>
-    <String List="2">
-      <Source>So is everyone who stands behind you, because it lets them sit in the shade. You must really hate the summer, and also thieves.</Source>
-      <Dest>所以每个人都站在你身后，因为这可以让他们坐在你的影子下乘凉。你一定很恨夏天，还有小偷。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm perfectly comfortable with my size.</Source>
-      <Dest>我非常满意我的尺寸。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not that I hold it against you. Well fed means well to do.  In fact, I am beginning to wonder if you are spoken for.</Source>
-      <Dest>不是针对你。酒足饭饱好干活。说实话，我开始怀疑对你说这个到底有没有意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm perfectly comfortable with my size.</Source>
-      <Dest>我非常满意我的尺寸。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you think yourself a poet for stating the obvious?  If you fancy me, show your favor with gifts, not words.</Source>
-      <Dest>你觉得空谈显而易见的事情能让你变成一个诗人吗？如果你中意我，就用礼物来取悦我，而不是空话！</Dest>
-    </String>
-    <String List="0">
-      <Source>Lady Ashwood, the confidence in your beauty is well deserved.</Source>
-      <Dest>阿树女士，您的美貌确实值得您为之骄傲。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hysterical?  Do you realize what you put me through every time you leave to go off slaying monsters?</Source>
-      <Dest>歇斯底里？你知道每次你离开去杀那些怪物的时候我是怎么熬过来的吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
-      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
-    </String>
-    <String List="2">
-      <Source>The store is hardly making enough money, and I will not live like a pauper again!  We need to invest our gold wisely!</Source>
-      <Dest>小店赚的钱根本不够用，我也绝不想再过穷日子了！我们的金币得用到更聪明的投资上。</Dest>
-    </String>
-    <String List="0">
-      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
-      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
-    </String>
-    <String List="2">
-      <Source>If the Empire crumbles, gold will not be worth half a mudcrab. Furs and gems will be the currency of the day.</Source>
-      <Dest>如果帝国崩溃了，黄金还不如半只泥沼蟹值钱。毛皮和宝石才是硬通货。</Dest>
-    </String>
-    <String List="0">
-      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
-      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
-      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
-    </String>
-    <String List="0">
-      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
-      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
-    </String>
-    <String List="2">
-      <Source>So pardon me for thinking about our welfare, but I have always put this family first!</Source>
-      <Dest>对不起，我得考虑我们的幸福，但我总是把家庭放在第一位的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I simply wished to compliment you.  No need to get hysterical.</Source>
-      <Dest>我只是单纯地想赞美一下你，没有必要为此大动干戈。</Dest>
-    </String>
-    <String List="2">
-      <Source>I admit my personality is a bit disarming to some.  I am simply a woman who knows what I want, and isn't willing to settle for anything less.</Source>
-      <Dest>我承认我的个性很容易让一些人放松警惕。我是一个很清楚的知道自己想要什么的直白女人，而且我也不希望安置的时候少任何东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your personality is the problem more than anything.</Source>
-      <Dest>你的性格才是最大的问题</Dest>
-    </String>
-    <String List="2">
-      <Source>You may paint me as selfish for thinking so, but most failed marriages are the product of compromises.</Source>
-      <Dest>你可以想当然地把我描绘成一个自私的家伙，但是绝大多数失败的婚姻都是妥协的产物。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your personality is the problem more than anything.</Source>
-      <Dest>你的性格才是最大的问题</Dest>
-    </String>
-    <String List="2">
-      <Source>Compromises leave you unfulfilled and unsatisfied, and resentful of the spouse who forced you to make them.</Source>
-      <Dest>妥协让你没有成就感和满足感，还会让那些强迫你变得跟他们一样的配偶不满。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your personality is the problem more than anything.</Source>
-      <Dest>你的性格才是最大的问题</Dest>
-    </String>
-    <String List="2">
-      <Source>I love it.  Absolutely love it.  I knew I made the right choice by marrying you, Thane of Solitude.</Source>
-      <Dest>棒极了，这当然是棒极了。独孤城男爵，我就知道嫁给你是正确的决定。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Naturally it will need more tidying up, and a few more dressers and other female accoutrements, but it has great potential.</Source>
-      <Dest>当然，它需要好好收拾一下，需要添置一个梳妆台和一些女士服装，但它有很大潜力。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>I wonder if we can get the housecarl to dress more like a servant. I know it's a symbol of Nord prestige, but that armor poisons the atmosphere.</Source>
-      <Dest>I wonder if we can get the housecarl to dress more like a servant. I know it's a symbol of Nord prestige, but that armor poisons the atmosphere.</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>This is a home, not a barracks.</Source>
-      <Dest>这里是家，不是军营。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>I was also wondering if you could spend more time in court.  Adventuring is fine, and you have certainly proven you can make a living doing it.</Source>
-      <Dest>我也很怀疑你能不能在院子里多花点时间。出去冒险虽然好，但是你确实已经证明了自己有谋生能力了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>However, I think it would be far more prudent if we leveraged your fame into something more substantial.</Source>
-      <Dest>无论如何，如果我们想通过你的声望让某些事更加充实，我想我们就得谨慎一点儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Why dirty your hands to earn gold when we can make use of a taxpayer funded army?</Source>
-      <Dest>为什么我们在可以利用一支由纳税人资助的军队的情况下还要弄脏自己的手去挣钱呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>It's a start dear, although I prefer not to live in a home so...cozy.</Source>
-      <Dest>这是一个开始，亲爱的。虽然我还不太习惯我们生活的家如此...温馨。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>It's perfect.  Just the right mix of elegance and warmth and...wait...is that blood on the wall?  No, must be my imagination.</Source>
-      <Dest>It's perfect.  Just the right mix of elegance and warmth and...wait...is that blood on the wall?  No, must be my imagination.</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, it's a fine summer home, and I love the view from the lake, but I do think we need a larger space to serve as our permanent residence.</Source>
-      <Dest>哦，这是个不错的避暑山庄，而且我很喜欢周围的湖景，不过我坚持认为我们需要空间更大的的地方来定居。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>There's too much stone.  These old Dwemer ruins are fine for a museum, but they make for tawdry living quarters.</Source>
-      <Dest>这儿的石头太多了。这些锻莫遗迹当博物馆还行，但是可怎么住人啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>It's a beautiful home, but no amount of furniture can distract the eye from the preponderance of Dwemer influence.</Source>
-      <Dest>这真是个好房子，但是即使再大再多的家具也不能让人忽略锻莫人的痕迹。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>And who knows what sort of ghosts lurk in these halls.  We can't even be certain it was intended to be a domicile.</Source>
-      <Dest>谁知道这厅堂里面藏着什么样的孤魂野鬼。我们甚至都不能确定，这里曾经是居室？.</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Not that we will mention that to the next buyer.  No, we'll tell them it belonged to some ancient Dwemer hero.  Calcelmo will vouch for it, I'm sure.</Source>
-      <Dest>不是说我们要把这个事告诉以后的买家。相反，我们要告诉他们它曾属于古老的锻莫英雄。卡赛默会为它担保的，我保证。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think of our new home?</Source>
-      <Dest>你觉得咱们的新家怎么样？</Dest>
-    </String>
-    <String List="2">
-      <Source>And I aim to have both.  As the Lady Ashwood, the purity of my blood shall never spoil, but that alone will not return the comforts I deserve.</Source>
-      <Dest>而我想要一箭双雕。就像艾什伍德女士一样，我的纯净血统永不会被污染，但仅仅如此并不足以令我满意。</Dest>
+      <Dest>出了什么事吗? 你好像不太开心。</Dest>
     </String>
     <String List="0">
       <Source>All the gold in the world won't make you a Jarl.  Birthright is paramount.</Source>
-      <Dest>全世界的金子也没法换你做领主.  继承权是至高无上的。</Dest>
-    </String>
-    <String List="2">
-      <Source>And who do you think fed the soldiers, and reared their mounts?  Ashwood Farm had a contract with the Empire, and they paid handsomely.</Source>
-      <Dest>不然你以为是谁供给这些士兵的吃喝，还喂养他们的马匹？艾什伍德家族农场与帝国有合同，他们给钱很大方。</Dest>
+      <Dest>全世界的金子也没法换你来做领主。继承权是至高无上的。</Dest>
     </String>
     <String List="0">
-      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
-      <Dest>你不应该损失很多。海尔根与其说是个城市更像一个军事哨所。</Dest>
-    </String>
-    <String List="2">
-      <Source>With no Jarl, there were no taxes, and with a military garrison situated in the city, our homes were guarded tighter than the Blue Palace itself.</Source>
-      <Dest>没有领主，也没有税收，靠着一个位于城市的军事要塞，我们的家比蓝色宫殿还要固若金汤。</Dest>
+      <Source>I'm perfectly comfortable with my size.</Source>
+      <Dest>我对我的身材非常满意。</Dest>
     </String>
     <String List="0">
-      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
-      <Dest>你不应该损失很多。海尔根与其说是个城市更像一个军事哨所。</Dest>
-    </String>
-    <String List="2">
-      <Source>Helgen was indeed a military outpost and that is precisely what made it profitable.</Source>
-      <Dest>海尔根在军事意义上确实是要冲地带，其战略价值正凸显于兹。</Dest>
+      <Source>I'm perfectly comfortable with my size.</Source>
+      <Dest>我对我的身材非常满意。</Dest>
     </String>
     <String List="0">
-      <Source>You couldn't have lost much. Helgen was more a military outpost than a city.</Source>
-      <Dest>你不应该损失很多。海尔根与其说是个城市更像一个军事哨所。</Dest>
-    </String>
-    <String List="2">
-      <Source>People always talk about the horrors of discrimination, but they seem to revel in it when it affects the rich.</Source>
-      <Dest>人们总是谈论种族歧视的恐怖，但当涉及利益问题之时，他们却又痴迷于它。</Dest>
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
     </String>
     <String List="0">
-      <Source>I'm sure you're exaggerating. You were still wealthy and to an extent, pampered.</Source>
-      <Dest>我肯定你太夸张。你仍然富裕和在一定程度上，养尊处优。</Dest>
-    </String>
-    <String List="2">
-      <Source>While it is true that when my morther died I was afforded every luxury, not a moment before then was I able to relax. </Source>
-      <Dest>尽管我父亲死的时候我过的很滋润，但那之前我一刻都没放松过。</Dest>
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
     </String>
     <String List="0">
-      <Source>I'm sure you're exaggerating. You were still wealthy and to an extent, pampered.</Source>
-      <Dest>我肯定你太夸张。你仍然富裕和在一定程度上，养尊处优。</Dest>
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
     </String>
-    <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think of our new home?</Source>
+      <Dest>你觉得咱们的新家怎么样？</Dest>
     </String>
     <String List="2">
       <Source>Leave then.</Source>
       <Dest>那走吧。</Dest>
     </String>
     <String List="2">
+      <Source>She thinks it was romantic.  I think it was cheap trick to distract her from the fact that her spouse is a worthless pauper.  </Source>
+      <Dest>她认为的浪漫，在我看来，只是她的丈夫为了让她忽略他只是个卑微的穷光蛋，而玩弄的低劣把戏而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, apparently the people around here seem to think you're a big deal. </Source>
+      <Dest>嗯，显然，这里的人似乎都认为你是个“大人物” 。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Saying things like I'm not woman enough to keep you.  Frankly, the very notion is absurd.</Source>
+      <Dest>说我在你身边不够女人。说真的，这想法真荒谬。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally it will need more tidying up, and a few more dressers and other female accoutrements, but it has great potential.</Source>
+      <Dest>当然，它需要好好收拾一下，需要添置一个梳妆台和一些女士服装，但它有很大潜力。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a beautiful home, but no amount of furniture can distract the eye from the preponderance of Dwemer influence.</Source>
+      <Dest>这真是个好房子，但是即使再大再多的家具也不能让人忽略锻莫人的痕迹。</Dest>
+    </String>
+    <String List="2">
+      <Source>The store is hardly making enough money, and I will not live like a pauper again!  We need to invest our gold wisely!</Source>
+      <Dest>小店赚的钱根本不够用，我也绝不想再过穷日子了！我们的金币得用到更聪明的投资上。</Dest>
+    </String>
+    <String List="2">
+      <Source>If the Empire crumbles, gold will not be worth half a mudcrab. Furs and gems will be the currency of the day.</Source>
+      <Dest>如果帝国崩溃了，黄金还不如半只泥沼蟹值钱。毛皮和宝石才是硬通货。</Dest>
+    </String>
+    <String List="2">
+      <Source>You seem to be carrying quite a bit of gold on you.  You better let me hold on to that, lest you become a target for thieves.</Source>
+      <Dest>看起来你身上金子带得太多了啊。最好让我来保管，免得被贼盯上。</Dest>
+    </String>
+    <String List="2">
+      <Source>I love it.  Absolutely love it.  I knew I made the right choice by marrying you, Thane of Solitude.</Source>
+      <Dest>棒极了，这当然是棒极了。独孤城男爵，我就知道嫁給你是正确的决定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not that I hold it against you. Well fed means well to do.  In fact, I am beginning to wonder if you are spoken for.</Source>
+      <Dest>不是针对你。酒足饭饱好干活。说实话，我开始怀疑对你说这个到底有没有意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not that we will mention that to the next buyer.  No, we'll tell them it belonged to some ancient Dwemer hero.  Calcelmo will vouch for it, I'm sure.</Source>
+      <Dest>不是说我们要把这个事告诉以后的买家。相反，我们要告诉他们它曾属于古老的锻莫英雄。卡赛默会为它担保的，我保证。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you know what's good for you, you're going to march right back outside, find the nearest river, and wash that filthy belly button of yours.</Source>
+      <Dest>你最好马上出去，找一条最近的河，把你那肮脏的肚脐眼给洗干净了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And who do you think fed the soldiers, and reared their mounts?  Ashwood Farm had a contract with the Empire, and they paid handsomely.</Source>
+      <Dest>不然你以为是谁供给这些士兵的吃喝，还喂养他们的马匹？艾什伍德家族农场与帝国有合同，他们给钱很大方。</Dest>
+    </String>
+    <String List="2">
+      <Source>And stop by the alchemist on the way home.  I think I caught Ataxia just looking at you.</Source>
+      <Dest>以及在回来的路上再顺道去趟炼金术士那儿。仅仅是把视线停留在你身上，我就觉得我快要感染运动失调症了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard rumblings of fur traders stockpiling their wares in anticipation of a collapse.  In fact, I met a Redguard hunter who admitted as much.</Source>
+      <Dest>我听到过一个毛皮商人的自言自语，他囤积的货物预计将大幅贬值。事实上，我遇到过的一个红卫人猎人也认同了这一点。</Dest>
+    </String>
+    <String List="2">
+      <Source>While it is true that when my morther died I was afforded every luxury, not a moment before then was I able to relax. </Source>
+      <Dest>尽管我父亲死的时候我过的很滋润，但那之前我一刻都没放松过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why shouldn't I be?  You've yet to compliment me on the change I've made.</Source>
+      <Dest>为什么不呢？你现在还没赞美我所做的改变呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hysterical?  Do you realize what you put me through every time you leave to go off slaying monsters?</Source>
+      <Dest>歇斯底里？你知道每次你离开去杀那些怪物的时候我是怎么熬过来的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's a fine summer home, and I love the view from the lake, but I do think we need a larger space to serve as our permanent residence.</Source>
+      <Dest>哦，这是个不错的避暑山庄，而且我很喜欢周围的湖景，不过我坚持认为我们需要空间更大的的地方来定居。</Dest>
+    </String>
+    <String List="2">
       <Source>Off you go then, spouse.</Source>
       <Dest>你可以走了，我的爱人。</Dest>
     </String>
     <String List="2">
-      <Source>Need something?</Source>
-      <Dest>有事吗？</Dest>
+      <Source>Yet for all your heroics you still can't seem to find time to brush your teeth.</Source>
+      <Dest>但尽管你做出了很多英雄事迹，却还是抽不出丁点儿时间来刷刷牙。</Dest>
     </String>
     <String List="2">
-      <Source>Yes?</Source>
-      <Dest>什么？</Dest>
+      <Source>Careful dear, your knuckles are dragging again.</Source>
+      <Dest>小心点，亲爱的。你的手指又在拖动了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a home, not a barracks.</Source>
+      <Dest>这里是家，不是军营。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a start dear, although I prefer not to live in a home so...cozy.</Source>
+      <Dest>这是一个开始，亲爱的。虽然我还不太习惯我们生活的家如此...温馨。</Dest>
+    </String>
+    <String List="2">
+      <Source>You would never do that to me, would you?</Source>
+      <Dest>你永远不会对我这样做，对吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Compromises leave you unfulfilled and unsatisfied, and resentful of the spouse who forced you to make them.</Source>
+      <Dest>妥协让你没有成就感和满足感，还会让那些强迫你变得跟他们一样的配偶不满。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may paint me as selfish for thinking so, but most failed marriages are the product of compromises.</Source>
+      <Dest>你可以想当然地把我描绘成一个自私的家伙，但是绝大多数失败的婚姻都是妥协的产物。</Dest>
+    </String>
+    <String List="2">
+      <Source>So is everyone who stands behind you, because it lets them sit in the shade. You must really hate the summer, and also thieves.</Source>
+      <Dest>所以每个人都站在你身后，因为这可以让他们坐在你的影子下乘凉。你一定很恨夏天，还有小偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>With no Jarl, there were no taxes, and with a military garrison situated in the city, our homes were guarded tighter than the Blue Palace itself.</Source>
+      <Dest>没有领主，也没有税收，靠着一个位于城市的军事要塞，我们的家比蓝色宫殿还要固若金汤。</Dest>
+    </String>
+    <String List="2">
+      <Source>So pardon me for thinking about our welfare, but I have always put this family first!</Source>
+      <Dest>对不起，我得考虑我们的幸福，但我总是把家庭放在第一位的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why dirty your hands to earn gold when we can make use of a taxpayer funded army?</Source>
+      <Dest>为什么我们在可以利用一支由纳税人资助的军队的情况下还要弄脏自己的手去挣钱呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>I am need of a suitable partner, one who can finance the lifestyle I've become accustomed to.</Source>
+      <Dest>我需要一个合适的伴侣，一个能管理好我已经习惯的生活方式的收支的伴侣。</Dest>
+    </String>
+    <String List="2">
+      <Source>And where exactly have you been off to?  The locals are starting to whisper, the way you go off on your adventures.</Source>
+      <Dest>而且你到底去哪儿了？？你出发前去冒险的方式已经引得当地人议论纷纷了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Helgen was indeed a military outpost and that is precisely what made it profitable.</Source>
+      <Dest>海尔根在军事意义上确实是要冲地带，其战略价值正凸显于兹。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, I think it would be far more prudent if we leveraged your fame into something more substantial.</Source>
+      <Dest>无论如何，如果我们想通过你的声望让某些事更加充实，我想我们就得谨慎一点儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>And who knows what sort of ghosts lurk in these halls.  We can't even be certain it was intended to be a domicile.</Source>
+      <Dest>谁知道这厅堂里面藏着什么样的孤魂野鬼。我们甚至都不能确定，这里曾经是居室？.</Dest>
+    </String>
+    <String List="2">
+      <Source>And I aim to have both.  As the Lady Ashwood, the purity of my blood shall never spoil, but that alone will not return the comforts I deserve.</Source>
+      <Dest>而我想要一箭双雕。就像艾什伍德女士一样，我的纯净血统永不会被污染，但仅仅如此并不足以令我满意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh.  When is the last time you bathed?  You are not crawling into bed smelling like that.</Source>
+      <Dest>呃，你上次洗澡是什么时候？带着身上那股味道可不许上床。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's too much stone.  These old Dwemer ruins are fine for a museum, but they make for tawdry living quarters.</Source>
+      <Dest>这儿的石头太多了。这些锻莫遗迹当博物馆还行，但是可怎么住人啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>People always talk about the horrors of discrimination, but they seem to revel in it when it affects the rich.</Source>
+      <Dest>人们总是谈论种族歧视的恐怖，但当涉及利益问题之时，他们却又痴迷于它。</Dest>
     </String>
     <String List="2">
       <Source>What is it?</Source>
-      <Dest>什么？</Dest>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>One of the ladies around town was bragging about how her husband bought her a candle, so that he could see her better at night.</Source>
+      <Dest>镇上的一位女士吹嘘说她丈夫如何在给她买了一支蜡烛后，能在夜晚更好的看到她。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you think yourself a poet for stating the obvious?  If you fancy me, show your favor with gifts, not words.</Source>
+      <Dest>你觉得空谈显而易见的事情能让你变成一个诗人吗？如果你中意我，就用礼物来取悦我，而不是空话！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>So as the Nords are fond to do, I seek marriage without courtship. Time is short, and every day is worth two tomorrows.</Source>
+      <Dest>所以就像是诺德人们愿意做的那样，我在没有求婚的程序中寻找婚姻。时间很短，每一个今天都值得守候两个明天。</Dest>
     </String>
     <String List="2">
       <Source>Welcome back. I hope you did nothing to sully the Ashwood name.</Source>
       <Dest>欢迎回来，我希望你没有做出侮辱艾什伍德之名的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>需要些什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was also wondering if you could spend more time in court.  Adventuring is fine, and you have certainly proven you can make a living doing it.</Source>
+      <Dest>我也很怀疑你能不能在院子里多花点时间。出去冒险虽然好，但是你确实已经证明了自己有谋生能力了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Because for all intents and purposes, I would rather be dead than poor, and every second I am the latter brings me closer to the former.</Source>
+      <Dest>因为不管是什么目的，我宁愿去死也不要当个穷鬼，而且每时每刻后者都在让我更靠近前者。</Dest>
+    </String>
+    <String List="2">
+      <Source>I admit my personality is a bit disarming to some.  I am simply a woman who knows what I want, and isn't willing to settle for anything less.</Source>
+      <Dest>我承认我的个性很容易让一些人放松警惕。我是一个很清楚的知道自己想要什么的直白女人，而且我也不希望安置的时候少任何东西。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

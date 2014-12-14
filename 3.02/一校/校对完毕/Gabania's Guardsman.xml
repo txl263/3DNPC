@@ -6,21 +6,21 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
+    </String>
     <String List="2">
       <Source>Keep it down you four! Bloody mercs! We ought to do to you what we do to the slaves and cut out your tongues! Now get back to your posts!</Source>
       <Dest>你们4个小声点！残忍的佣兵！我们该像处理奴隶一样处理你们，舌头也一并割掉！现在滚回你们的岗位去！</Dest>
     </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
     <String List="2">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>

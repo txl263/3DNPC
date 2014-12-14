@@ -6,137 +6,229 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="2">
-      <Source>I smell blood. Be ready.</Source>
-      <Dest>有血腥味。做好准备。</Dest>
-    </String>
-    <String List="2">
-      <Source>Danger ahead. Turn the ground into a lake of blood.</Source>
-      <Dest>前面太危险了。那块地方已经化为血池了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I smell fire and oil. We will spill every last drop.</Source>
-      <Dest>I smell fire and oil. We will spill every last drop.</Dest>
-    </String>
-    <String List="2">
-      <Source>Impressive. But nothing I haven't seen before.</Source>
-      <Dest>让人印象深刻。但是在这之前我没看过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Caves. A good place for a spill.</Source>
-      <Dest>洞穴，是一个隐秘的地方。.</Dest>
-    </String>
-    <String List="2">
-      <Source>A cave. Whatever's inside, let's hope it can hold our interest.</Source>
-      <Dest>一个洞，不管里面有什么我希望它能别太无聊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Dwarven ruins. Immortal, and cold.</Source>
-      <Dest>矮人遗迹。永恒，并且寒冷。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nord ruins. Full of bones, probably. And bones are for dogs.</Source>
-      <Dest>诺德遗址。大概满是骨头。而骨头是给狗准备的。</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
       <Source>I need to trade some things with you.</Source>
       <Dest>我想跟你交易一些东西。</Dest>
     </String>
-    <String List="2">
-      <Source>Take what you must.</Source>
-      <Dest>拿上你的必需品。</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="0">
       <Source>I need to trade some things with you.</Source>
       <Dest>我想跟你交易一些东西。</Dest>
     </String>
-    <String List="2">
-      <Source>Fine. Let's trade.</Source>
-      <Dest>好啊。来做生意吧。</Dest>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
     </String>
     <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you need me to take?</Source>
-      <Dest>你有什么要我拿的？</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Blood for blood.</Source>
-      <Dest>血债血偿。</Dest>
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
     </String>
     <String List="0">
       <Source>I need you to do something for me.</Source>
       <Dest>我需要你为我做件事情。</Dest>
     </String>
-    <String List="2">
-      <Source>Name your task.</Source>
-      <Dest>报告你的任务。</Dest>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
     </String>
     <String List="0">
       <Source>Wait here.</Source>
       <Dest>在这里等着。</Dest>
     </String>
     <String List="0">
-      <Source>Wait here for a moment.</Source>
-      <Dest>在这儿等一下。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll stand guard then.</Source>
-      <Dest>到时我会站岗的。</Dest>
+      <Source>Is that all?</Source>
+      <Dest>就这样？</Dest>
     </String>
     <String List="0">
       <Source>Alas, it's time for us to part ways.</Source>
       <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
     </String>
-    <String List="2">
-      <Source>Then I'll be back at the Skeever, planning our next game.</Source>
-      <Dest>然后我会回眨眼雪鼠去，计划我们的下一个游戏。</Dest>
-    </String>
     <String List="0">
       <Source>Alas, it's time for us to part ways.</Source>
       <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right. I'll be back at the tavern then.</Source>
-      <Dest>好吧，那我就回酒馆了。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's nothing. Never mind.</Source>
-      <Dest>没什么事，不用担心。</Dest>
-    </String>
-    <String List="2">
-      <Source>Understood.</Source>
-      <Dest>了解。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，你看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Show me.</Source>
-      <Dest>让我看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still need something?</Source>
-      <Dest>你还需要什么吗？</Dest>
     </String>
     <String List="0">
       <Source>Follow me.</Source>
       <Dest>跟我走。</Dest>
     </String>
     <String List="2">
+      <Source>An inn. A lot of my kind call these hunting grounds. Not my style. It isn't violent enough.</Source>
+      <Dest>一个酒馆。很多像我这样的把那儿称为狩猎场。不是我的风格。不够暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Beasts, Draugr, or men. It matters not what walks through this cave. All will fall victim to the slaughter.</Source>
+      <Dest>无论是野兽、尸鬼还是人类，只要试图穿过这个洞穴，就终究无法逃脱被屠杀的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>I smell blood. Be ready.</Source>
+      <Dest>有血腥味。做好准备。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still need something?</Source>
+      <Dest>你还需要什么吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Gildergreen is here. They say it draws its strength from the White River. But these days, the rivers in this city run red.</Source>
+      <Dest>据说翠苒树的力量来自这附近的白水河。但是...最近那河里的水变红了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Understood.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>Blood for blood.</Source>
+      <Dest>血债血偿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Danger ahead. Turn the ground into a lake of blood.</Source>
+      <Dest>前面太危险了。那块地方已经化为血池了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Markarth. They say you can't draw blood from stone. But why draw when you can spill.</Source>
+      <Dest>马卡斯人都说别想从石头里抽出血来。可干嘛要抽呢，你自己就能喷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't like the taste of Companion blood. The taste is...spicy.</Source>
+      <Dest>不像是战友团成员的血，味道有点...辣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Our kind does well to hide in the dark. Because it isn't the vampire that's scary. It's the bump in the night, the creak of a door. It's the unknown.</Source>
+      <Dest>我族能够很好的隐藏在黑暗之中。因为黑暗对吸血鬼来说没什么可怕的。黑暗就是夜晚颠簸的脚步，是门的吱嘎声，黑暗就是未知。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vampire clans like these are scattered everywhere. They will never go away, so long as Molag Bal has teeth.</Source>
+      <Dest>到处都有这样的吸血鬼家族。他们永远不会消失，只要莫拉格·巴尔还有牙齿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make sure to leave nothing alive. Let it be known that we leave no survivors.</Source>
+      <Dest>确保没有人能活着离开，一个活口都不留。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the last corpse falls, and all we hear is silence...there is no sweeter music in all the world.</Source>
+      <Dest>当最后一具尸体倒下，周围的一片寂静...这就是世界上再美不过的音乐。</Dest>
+    </String>
+    <String List="2">
       <Source>Blood guide us both.</Source>
       <Dest>愿鲜血指引我们。</Dest>
     </String>
     <String List="2">
+      <Source>I had a collection of scalps once. I kept a count of how many men I'd skinned. Then I lost track, and it lost its appeal.</Source>
+      <Dest>我曾有一段时间热衷于收集头皮。以此来计算我究竟扒过了多少人的皮。但后来我迷失了方向，而收集头皮也丧失了它的意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll stand guard then.</Source>
+      <Dest>到时我会站岗的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarven ruins. Immortal, and cold.</Source>
+      <Dest>矮人遗迹。永恒，并且寒冷。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Morthal. You can smell the stink of my kind here. It never really goes away.</Source>
+      <Dest>莫萨尔。你可以在那嗅到我族辈的气息。我的族辈从未在那儿消失过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some like to kill for sport, others like to kill for food. I say, why not do both?</Source>
+      <Dest>有些人为娱乐而杀戮，其他人为食物而杀戮。要我说，为什么不能两者兼有呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>My kind does well to hide in the dark. Because it isn't the vampire that's scary. It's the bump in the night, the creak of a door. It's the unknown.</Source>
+      <Dest>我族能够很好的隐藏在黑暗之中。因为黑暗对吸血鬼来说没什么可怕的。黑暗就是夜晚颠簸的脚步，是门的吱嘎声，黑暗就是未知。</Dest>
+    </String>
+    <String List="2">
+      <Source>Caves. A good place for a spill.</Source>
+      <Dest>洞穴，是一个隐秘的地方。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Name your task.</Source>
+      <Dest>报告你的任务。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I'll be back at the Skeever, planning our next game.</Source>
+      <Dest>然后我会回眨眼雪鼠去，计划我们的下一个游戏。</Dest>
+    </String>
+    <String List="2">
+      <Source>Impressive. But nothing I haven't seen before.</Source>
+      <Dest>让人印象深刻。但是在这之前我没看过。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need me to take?</Source>
+      <Dest>你需要多长时间?</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. I'll be back at the tavern then.</Source>
+      <Dest>好吧，那我就回酒馆了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Morthal. You can smell the stink of our kind here. It never really goes away.</Source>
+      <Dest>莫萨尔。你可以在那嗅到我族辈的气息。我的族辈从未在那儿消失过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Food you get at Nord inns is fresh. None of that weird alchemy taste.</Source>
+      <Dest>你在诺德旅馆里吃到的东西都是新鲜的。绝不会有炼金术的奇怪味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some vampires abhor city noise. But without it, silence is meaningless. I like to hear the life bursting from my prey, then listen to it slowly fade.</Source>
+      <Dest>有些吸血鬼讨厌城镇的喧嚣。可是没有那喧嚣的话，寂静也就失去了意义。我更愿意听到自己的猎物发出生命的声响，然后再听着它慢慢消逝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whiterun. I once had a wager with a vampire, back when I drank more than I spilled. Blood from the Cloud District was worth thrice the Plains.</Source>
+      <Dest>白漫城。有一次我喝的烂醉，跟一个吸血鬼打赌说：住在云顶区的人们的血那恐怕是比平民的血要高贵3倍。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. Let's trade.</Source>
+      <Dest>好啊。来做生意吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>遵命。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord ruins. Full of bones, probably. And bones are for dogs.</Source>
+      <Dest>诺德遗址。大概满是骨头。而骨头是给狗准备的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Being in these cities always reminds me...no matter how many we kill, they always make more.</Source>
+      <Dest>待在这些城市，时常让我产生这种感觉...就是无论我们杀死多少人，他们都能够繁衍出更多的人来。</Dest>
+    </String>
+    <String List="2">
       <Source>Is that all?</Source>
       <Dest>就这样？</Dest>
+    </String>
+    <String List="2">
+      <Source>I prefer beds to coffins. The space is too cramped.  If you hate light, sleep in a cave. I'll sleep in a coffin when I'm dead.</Source>
+      <Dest>比起棺材我更喜欢床。棺材里面太挤了。如果不想见光，那就睡在山洞里。只有我死的时候我才愿意呆在棺材里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Life is nothing without failure. The day I succeed at everything, is the day I kill myself. There are no more mountains to climb.</Source>
+      <Dest>若没有失败就不是人生。功成名就的那一天便是我理应消失的那一天。因为我已拔剑四顾心茫然。</Dest>
+    </String>
+    <String List="2">
+      <Source>The shadows in this city are long for a reason. Monsters of a different kind lurk in this darkness.</Source>
+      <Dest>这座城市的阴霾存在已久。各种各样的怪物在黑暗中蠢动。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you really killed Ulfric, huh. I have to ask, was it for the game?</Source>
+      <Dest>所以你真的杀了乌弗瑞克，哼嗯。我得问问，这是这场游戏吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I met an Elf over at the Bannered Mare once who drank more wine than I did, and was twice the monster.</Source>
+      <Dest>以前，我在母马横幅遇到过一个喝多了的精灵，他比我喝得还多，变成了个比我麻烦两倍的怪物。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to drink ale. But then I realized it all tastes the same. Wine is another story.</Source>
+      <Dest>我曾经喝麦芽酒。但之后发现它们都一个味儿。红酒就不同了。</Dest>
     </String>
     <String List="2">
       <Source>Impossible.</Source>
@@ -147,128 +239,240 @@
       <Dest>无法完成。</Dest>
     </String>
     <String List="2">
-      <Source>As you wish.</Source>
-      <Dest>遵命。</Dest>
+      <Source>Show me.</Source>
+      <Dest>让我看看。</Dest>
     </String>
     <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>So you really killed Ulfric, huh. I have to ask, was it for the game?</Source>
-      <Dest>所以你真的杀了乌弗瑞克，哼嗯。我得问问，这是这场游戏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Whiterun. I once had a wager with a vampire, back when I drank more than I spilled. Blood from the Cloud District was worth thrice the Plains.</Source>
-      <Dest>白漫城。有一次我喝的烂醉，跟一个吸血鬼打赌说：住在云顶区的人们的血那恐怕是比平民的血要高贵3倍。</Dest>
-    </String>
-    <String List="2">
-      <Source>I used to drink ale. But then I realized it all tastes the same. Wine is another story.</Source>
-      <Dest>我曾经喝麦芽酒。但之后发现它们都一个味儿。红酒就不同了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Vampire clans like these are scattered everywhere. They will never go away, so long as Molag Bal has teeth.</Source>
-      <Dest>到处都有这样的吸血鬼家族。他们永远不会消失，只要莫拉格·巴尔还有牙齿。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even in large cities, I have no use for a vampire's charm. I've found it's not nearly as effective as a hood.</Source>
-      <Dest>就算是在大城市，我也没发现吸血鬼之魅的用处。它的作用甚至还不及一顶兜帽呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't like the taste of Companion blood. The taste is...spicy.</Source>
-      <Dest>不像是战友团成员的血，味道有点...辣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Being in these cities always reminds me...no matter how many we kill, they always make more.</Source>
-      <Dest>待在这些城市，时常让我产生这种感觉...就是无论我们杀死多少人，他们都能够繁衍出更多的人来。</Dest>
-    </String>
-    <String List="2">
-      <Source>I had a collection of scalps once. I kept a count of how many men I'd skinned. Then I lost track, and it lost its appeal.</Source>
-      <Dest>我曾有一段时间热衷于收集头皮。以此来计算我究竟扒过了多少人的皮。但后来我迷失了方向，而收集头皮也丧失了它的意义。</Dest>
-    </String>
-    <String List="2">
-      <Source>Life is nothing without failure. The day I succeed at everything, is the day I kill myself. There are no more mountains to climb.</Source>
-      <Dest>若没有失败就不是人生。功成名就的那一天便是我理应消失的那一天。因为我已拔剑四顾心茫然。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Gildergreen is here. They say it draws its strength from the White River. But these days, the rivers in this city run red.</Source>
-      <Dest>据说翠苒树的力量来自这附近的白水河。但是...最近那河里的水变红了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I met an Elf over at the Bannered Mare once who drank more wine than I did, and was twice the monster.</Source>
-      <Dest>以前，我在母马横幅遇到过一个喝多了的精灵，他比我喝得还多，变成了个比我麻烦两倍的怪物。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some like to kill for sport, others like to kill for food. I say, why not do both?</Source>
-      <Dest>有些人为娱乐而杀戮，其他人为食物而杀戮。要我说，为什么不能两者兼有呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Morthal. You can smell the stink of my kind here. It never really goes away.</Source>
-      <Dest>莫萨尔。你可以在那嗅到我族辈的气息。我的族辈从未在那儿消失过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Morthal. You can smell the stink of our kind here. It never really goes away.</Source>
-      <Dest>莫萨尔。你可以在那嗅到我族辈的气息。我的族辈从未在那儿消失过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Markarth. They say you can't draw blood from stone. But why draw when you can spill.</Source>
-      <Dest>马卡斯人都说别想从石头里抽出血来。可干嘛要抽呢，你自己就能喷。</Dest>
-    </String>
-    <String List="2">
-      <Source>The shadows in this city are long for a reason. Monsters of a different kind lurk in this darkness.</Source>
-      <Dest>这座城市的阴霾存在已久。各种各样的怪物在黑暗中蠢动。</Dest>
+      <Source>Take what you must.</Source>
+      <Dest>拿上你的必需品。</Dest>
     </String>
     <String List="2">
       <Source>Movarth was a former vampire hunter, but it doesn't matter. It's easy for mortals change their code...like putting on a new pair of boots.</Source>
       <Dest>摩瓦斯曾经是个不错的吸血鬼猎人，但是没关系。对于凡人来说换个名号...就像换双靴子一样。</Dest>
     </String>
     <String List="2">
-      <Source>Make sure to leave nothing alive. Let it be known that we leave no survivors.</Source>
-      <Dest>确保没有人能活着离开，一个活口都不留。</Dest>
+      <Source>A cave. Whatever's inside, let's hope it can hold our interest.</Source>
+      <Dest>一个洞，不管里面有什么我希望它能别太无聊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>Intriguing. What are the rules?</Source>
+      <Dest>真奇怪，规则是啥？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm actually having a horrible time finding a name that starts with "C."</Source>
+      <Dest>要找到那些由"C"开头的名字真是太艰难了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm actually having a horrible time finding a name that starts with "C."</Source>
+      <Dest>要找到那些由"C"开头的名字真是太艰难了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just thirsty, is all.</Source>
+      <Dest>只是有点渴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just thirsty, is all.</Source>
+      <Dest>只是有点渴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just thirsty, is all.</Source>
+      <Dest>只是有点渴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just thirsty, is all.</Source>
+      <Dest>只是有点渴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can kill Corpulus faster than you can kill Fironet.</Source>
+      <Dest>在你杀掉法萝娜前，我会先干掉科普卢斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can kill Corpulus faster than you can kill Fironet.</Source>
+      <Dest>在你杀掉法萝娜前，我会先干掉科普卢斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>So is mine. It's right in front of me.</Source>
+      <Dest>我又何尝不是。现在它就在我的面前。</Dest>
+    </String>
+    <String List="0">
+      <Source>Winning never gets old.</Source>
+      <Dest>胜利永垂不朽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Winning never gets old.</Source>
+      <Dest>胜利永垂不朽。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure there's some poor sap here I can kill and win our bet.</Source>
+      <Dest>我相信这里有些可怜虫可以让我杀，好让我们贏得賭注。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sure there's some poor sap here I can kill and win our bet.</Source>
+      <Dest>我相信这里有些可怜虫可以让我杀，好让我们贏得賭注。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just have one more letter to go.</Source>
+      <Dest>我还有一封信要送出去.</Dest>
+    </String>
+    <String List="0">
+      <Source>I just have one more letter to go.</Source>
+      <Dest>我还有一封信要送出去.</Dest>
+    </String>
+    <String List="0">
+      <Source>I enjoyed this game. How about another?</Source>
+      <Dest>我喜欢这个游戏。再来一个怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>I enjoyed this game. How about another?</Source>
+      <Dest>我喜欢这个游戏。再来一个怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>I was passing through Solitude and decided to stop by.</Source>
+      <Dest>我途经独孤城并打算稍作停留。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not yet, but I'm close. Real close.</Source>
+      <Dest>还没有，但差不多了。真的差不多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you proposing?</Source>
+      <Dest>你的建议是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What are you proposing?</Source>
+      <Dest>你的建议是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's rule number two?</Source>
+      <Dest>第二条戒律是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>And now you belong to me.</Source>
+      <Dest>现在你属于我了。</Dest>
+    </String>
+    <String List="0">
+      <Source>And now you belong to me.</Source>
+      <Dest>现在你属于我了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm not killing anyone who doesn't deserve it.</Source>
+      <Dest>我不杀任何无辜的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>If this is your idea of fun, then I don't want you as a companion.</Source>
+      <Dest>如果你以这个为乐的话。就不用给我当随从了。</Dest>
+    </String>
+    <String List="0">
+      <Source>If this is your idea of fun, then I don't want you as a companion.</Source>
+      <Dest>如果你以这个为乐的话。就不用给我当随从了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's none of your business.</Source>
+      <Dest>关你什么事！</Dest>
+    </String>
+    <String List="0">
+      <Source>That's none of your business.</Source>
+      <Dest>关你什么事！</Dest>
     </String>
     <String List="2">
-      <Source>Beasts, Draugr, or men. It matters not what walks through this cave. All will fall victim to the slaughter.</Source>
-      <Dest>无论是野兽、尸鬼还是人类，只要试图穿过这个洞穴，就终究无法逃脱被屠杀的命运。</Dest>
+      <Source>It seems you've won. Your corpse hit the floor first.</Source>
+      <Dest>看来你已经赢了。你的尸体会头一个倒在地板上。</Dest>
     </String>
     <String List="2">
-      <Source>When the last corpse falls, and all we hear is silence...there is no sweeter music in all the world.</Source>
-      <Dest>当最后一具尸体倒下，周围的一片寂静...这就是世界上再美不过的音乐。</Dest>
+      <Source>That's right. Rules are rules. I'll follow you, but I'm no thrall. Already had enough of that for one lifetime.</Source>
+      <Dest>说的对，规矩就是规矩。我会跟你走，但我不是奴隶。我这辈子已经当够奴隶了。</Dest>
     </String>
     <String List="2">
-      <Source>Some vampires abhor city noise. But without it, silence is meaningless. I like to hear the life bursting from my prey, then listen to it slowly fade.</Source>
-      <Dest>有些吸血鬼讨厌城镇的喧嚣。可是没有那喧嚣的话，寂静也就失去了意义。我更愿意听到自己的猎物发出生命的声响，然后再听着它慢慢消逝。</Dest>
+      <Source>I was a young mage studying in a similar place when Uvra took me in as her thrall. Back then, it was all still fresh.</Source>
+      <Dest>在被乌拉抓走成为她的奴隶之前，我是个在跟这里差不多的地方学习的年轻法师。回首往事，那些情景依然历历在目。</Dest>
     </String>
     <String List="2">
-      <Source>My kind does well to hide in the dark. Because it isn't the vampire that's scary. It's the bump in the night, the creak of a door. It's the unknown.</Source>
-      <Dest>我族能够很好的隐藏在黑暗之中。因为黑暗对吸血鬼来说没什么可怕的。黑暗就是夜晚颠簸的脚步，是门的吱嘎声，黑暗就是未知。</Dest>
+      <Source>But why drink it, when we can spill it instead.</Source>
+      <Dest>但为什么非得喝了它啊？我们还可以把它倒了不是吗。</Dest>
     </String>
     <String List="2">
-      <Source>Our kind does well to hide in the dark. Because it isn't the vampire that's scary. It's the bump in the night, the creak of a door. It's the unknown.</Source>
-      <Dest>我族能够很好的隐藏在黑暗之中。因为黑暗对吸血鬼来说没什么可怕的。黑暗就是夜晚颠簸的脚步，是门的吱嘎声，黑暗就是未知。</Dest>
+      <Source>Then you'd best quit now. I've spelled out most of Elisif's name already. All I need is one final letter.</Source>
+      <Dest>你最好现在退出。 我已经基本拼出了艾利西弗的名字。只差最后一个字母了。</Dest>
     </String>
     <String List="2">
-      <Source>An inn. A lot of my kind call these hunting grounds. Not my style. It isn't violent enough.</Source>
-      <Dest>一个酒馆。很多像我这样的把那儿称为狩猎场。不是我的风格。不够暴力。</Dest>
+      <Source>A game, of sorts. One the both us can appreciate.</Source>
+      <Dest>（进行）某种我们两个都能接受的游戏。</Dest>
     </String>
     <String List="2">
-      <Source>I prefer beds to coffins. The space is too cramped.  If you hate light, sleep in a cave. I'll sleep in a coffin when I'm dead.</Source>
-      <Dest>比起棺材我更喜欢床。棺材里面太挤了。如果不想见光，那就睡在山洞里。只有我死的时候我才愿意呆在棺材里。</Dest>
+      <Source>We each kill six men. First to six wins the prize. But, to make things more interesting, the targets have to fall within a set of rules.</Source>
+      <Dest>我们一人杀六个人。先杀到6个的赢。但是，要比得有趣一点，那些目标要遵循一定的规则。</Dest>
     </String>
     <String List="2">
-      <Source>Food you get at Nord inns is fresh. None of that weird alchemy taste.</Source>
-      <Dest>你在诺德旅馆里吃到的东西都是新鲜的。绝不会有炼金术的奇怪味道。</Dest>
+      <Source>And once you stopped by, then what? You lack purpose, stranger. Maybe I can provide it.</Source>
+      <Dest>就算你停下了，那又怎样？你没有目标，陌生人。而我，可以给你提供目标。</Dest>
     </String>
     <String List="2">
       <Source>In one game, the challenge was to mime each other's kill. I finally won when I drained the blood of a sleeping Giant. The other guy couldn't finish.</Source>
       <Dest>在一次游戏中，挑战便是上演一场互相残杀。在我榨干了一个沉睡巨人的血后我终于赢了。然而其他人却没有完成这个挑战。</Dest>
     </String>
     <String List="2">
-      <Source>One game, the rule was to kill Stronghold members of the opposite sex. Wasn't much of a contest. The chief kept too many wives and not enough sons.</Source>
-      <Dest>一个游戏。规则是杀死要塞的异姓成员。这没有太多的竞争。酋长有一堆的老婆，儿子却没几个。</Dest>
+      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself. That is rule number one.</Source>
+      <Dest>它可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克自己。这是规则一。 </Dest>
     </String>
     <String List="2">
-      <Source>I spent countless years in lairs like this, living with a clan. Many of them fear the sun, but for me, the boredom was just as blinding.</Source>
-      <Dest>我在这样的藏身处待了无数个年头，和一整个家族生活在一起。他们中很多人害怕阳光。但对我来说，让我讨厌的仅仅是它很刺眼。</Dest>
+      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself. That is rule number one.</Source>
+      <Dest>它可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克自己。这是规则一。 </Dest>
     </String>
     <String List="2">
       <Source>An inn. I can smell the meat well enough. Hopefully they have a red wine that goes with it.</Source>
@@ -279,684 +483,524 @@
       <Dest>啊，这座城。这儿的人血口味像葡萄酒般多种多样，只不过它的味道是年代越久越糟糕。</Dest>
     </String>
     <String List="2">
-      <Source>The bandit is a simple creature. No different than a pack of wolves. Feral, tenacious, but easily disposed of.</Source>
-      <Dest>强盗都是群头脑简单的家伙，和一群狼没什么两样。凶猛，顽强，但是很好对付。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was a young mage studying in a similar place when Uvra took me in as her thrall. Back then, it was all still fresh.</Source>
-      <Dest>在被乌拉抓走成为她的奴隶之前，我是个在跟这里差不多的地方学习的年轻法师。回首往事，那些情景依然历历在目。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm sure there's some poor sap here I can kill and win our bet.</Source>
-      <Dest>我相信这里有些可怜虫我可以杀，好让我们赢得赌注。</Dest>
-    </String>
-    <String List="2">
-      <Source>There may be, but who among them is weaker than mine? Do you think you can kill him fast enough to save the girl?</Source>
-      <Dest>There may be, but who among them is weaker than mine? Do you think you can kill him fast enough to save the girl?</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm sure there's some poor sap here I can kill and win our bet.</Source>
-      <Dest>我相信这里有些可怜虫我可以杀，好让我们赢得赌注。</Dest>
-    </String>
-    <String List="2">
-      <Source>But if you're that confident in your abilities, then maybe this will make for good sport.</Source>
-      <Dest>但如果你对自己的能力很有自信，那也许这会是项不错的运动。</Dest>
-    </String>
-    <String List="0">
-      <Source>Winning never gets old.</Source>
-      <Dest>胜利永垂不朽。</Dest>
-    </String>
-    <String List="2">
-      <Source>Everything gets old. If losing is a new feeling, it's a good feeling. It let's you appreciate the times you win.</Source>
-      <Dest>一切都会变老。如果失去是一种全新的感觉，那它也是种很好的体验了。它会让你回味胜利的时光。</Dest>
-    </String>
-    <String List="0">
-      <Source>Winning never gets old.</Source>
-      <Dest>胜利永垂不朽。</Dest>
-    </String>
-    <String List="2">
-      <Source>But enough with the lectures. You live long enough, and you'll see. Maybe I wanted to follow you. Could be I'm just tired of leading.</Source>
-      <Dest>不过（我）还是不耍嘴皮子了。只要你活得够长，那你就能亲眼见证。或许我能做你的随从，因为我已经厌倦那总是走在前面的日子了。</Dest>
-    </String>
-    <String List="0">
-      <Source>If this is your idea of fun, then I don't want you as a companion.</Source>
-      <Dest>如果你以这个为乐的话。就不用给我当随从了。</Dest>
-    </String>
-    <String List="2">
-      <Source>A contract was made, and it has to be fulfilled. But it's your choice as to when. I've got all the time in the world.</Source>
-      <Dest>契约已经定好，只待执行。不过时间由你掌控。我有的是时间。</Dest>
-    </String>
-    <String List="0">
-      <Source>If this is your idea of fun, then I don't want you as a companion.</Source>
-      <Dest>如果你以这个为乐的话。就不用给我当随从了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until then, I'll just be here, waiting for another player. With you or without you, the games will go on.</Source>
-      <Dest>一直到那时，我都会一直待在这里，等着下一个玩家。这游戏不管有没有你，都会如常地继续下去。</Dest>
-    </String>
-    <String List="0">
-      <Source>I enjoyed this game. How about another?</Source>
-      <Dest>我喜欢这个游戏。另外一个怎样?</Dest>
-    </String>
-    <String List="2">
-      <Source>Sure, in time. But I still owe you for this round. Once I've served my time, we'll play again.</Source>
-      <Dest>当然，迟早会的。不过我这一轮还欠着你呢。等什么时候我有时间了，我们再来玩儿。</Dest>
-    </String>
-    <String List="0">
-      <Source>I enjoyed this game. How about another?</Source>
-      <Dest>我喜欢这个游戏。另外一个怎样?</Dest>
+      <Source>Ha! I suppose it is. But do you honestly think you can kill me before I kill the girl?</Source>
+      <Dest>哈！我猜就算这样。但你真的以为自己能在我杀了这姑娘之前干掉我？</Dest>
     </String>
     <String List="2">
       <Source>Maybe a different game, perhaps. Maybe just different rules. Either way, there'll be plenty of blood.</Source>
       <Dest>也许是不同的比赛。或者只是规则上有区别。不管怎样，血是少不了的。</Dest>
     </String>
-    <String List="0">
-      <Source>And now you belong to me.</Source>
-      <Dest>现在你属于我了。</Dest>
+    <String List="2">
+      <Source>A contract was made, and it has to be fulfilled. But it's your choice as to when. I've got all the time in the world.</Source>
+      <Dest>契约已经定好，只待执行。不过时间由你掌控。我有的是时间。</Dest>
     </String>
     <String List="2">
-      <Source>That's right. Rules are rules. I'll follow you, but I'm no thrall. Already had enough of that for one lifetime.</Source>
-      <Dest>说的对，规矩就是规矩。我会跟你走，但我不是奴隶。我这辈子已经当够奴隶了。</Dest>
-    </String>
-    <String List="0">
-      <Source>And now you belong to me.</Source>
-      <Dest>现在你属于我了。</Dest>
+      <Source>Everything gets old. If losing is a new feeling, it's a good feeling. It let's you appreciate the times you win.</Source>
+      <Dest>一切都会变老。如果失去是一种全新的感觉，那它也是种很好的体验了。它会让你回味胜利的时光。</Dest>
     </String>
     <String List="2">
-      <Source>But this was fun. When I've served my time, we should do it again, with different rules, or different stakes.</Source>
-      <Dest>But this was fun. When I've served my time, we should do it again, with different rules, or different stakes.</Dest>
-    </String>
-    <String List="0">
-      <Source>I can kill Corpulus faster than you can kill Fironet.</Source>
-      <Dest>在你杀掉法萝娜前，我会先干掉科普卢斯。</Dest>
+      <Source>That's fine. The rules don't state you have to kill the innocent. The only thing that matters is their name.</Source>
+      <Dest>这很好。不规定你必须杀死无辜的人。唯一重要的是他们的名字。</Dest>
     </String>
     <String List="2">
-      <Source>Can you? The innkeeper is old, but sturdy. He also has family to defend him. Maybe even the city guard.</Source>
-      <Dest>你可以做到吗？虽然那个旅店老板已经老了，但仍很强壮。他还有家人可以保护他。也许城市守卫也会介入。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can kill Corpulus faster than you can kill Fironet.</Source>
-      <Dest>在你杀掉法萝娜前，我会先干掉科普卢斯。</Dest>
-    </String>
-    <String List="2">
-      <Source>The girl is an immigrant, a nobody. But if you're that confident in your abilities, then maybe this will make for good sport.</Source>
-      <Dest>这个女孩是个外来者，一个小人物。但如果你对自己的能力很有自信，那也许这会是项不错的运动。</Dest>
-    </String>
-    <String List="0">
-      <Source>So is mine. It's right in front of me.</Source>
-      <Dest>我又何尝不是。现在它就在我的面前。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ha! I suppose it is. But do you honestly think you can kill me before I kill the girl?</Source>
-      <Dest>哈！我猜就算这样。但你真的以为自己能在我杀了这姑娘之前干掉我？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm actually having a horrible time finding a name that starts with "C."</Source>
-      <Dest>要找到那些由"C"开头的名字真是太艰难了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then you'd best quit now. I've spelled out most of Elisif's name already. All I need is one final letter.</Source>
-      <Dest>你最好现在退出。 我已经基本拼出了艾利西弗的名字。只差最后一个字母了。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm actually having a horrible time finding a name that starts with "C."</Source>
-      <Dest>要找到那些由"C"开头的名字真是太艰难了。</Dest>
-    </String>
-    <String List="2">
-      <Source>And as luck would have it, it's in this very inn.</Source>
-      <Dest>巧的很，就在这家酒馆里。</Dest>
-    </String>
-    <String List="0">
-      <Source>Not yet, but I'm close. Real close.</Source>
-      <Dest>还没有，但差不多了。真的差不多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, you are. But my prey is closer. In fact, she's in this very inn.</Source>
-      <Dest>对，是啊。但我的目标更近。事实上，她现在就在这家酒馆儿里。</Dest>
-    </String>
-    <String List="0">
-      <Source>I just have one more letter to go.</Source>
-      <Dest>我还有一封信要送出去.</Dest>
-    </String>
-    <String List="2">
-      <Source>As do I. But I have a feeling I'll get to mine first. You see, I've spelled out most of Elisif's name in blood.</Source>
-      <Dest>As do I. But I have a feeling I'll get to mine first. You see, I've spelled out most of Elisif's name in blood.</Dest>
-    </String>
-    <String List="0">
-      <Source>I just have one more letter to go.</Source>
-      <Dest>我还有一封信要送出去.</Dest>
-    </String>
-    <String List="2">
-      <Source>And as luck would have it, the final letter is right here in this inn.</Source>
-      <Dest>以及幸运的是，最后的那封信就在这旅馆里。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>这不关你的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>不关你的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>You can't know that for sure. Our business could be one and the same. After all, you smell of blood, and that's my favorite drink of all.</Source>
-      <Dest>你又不能肯定。我们可能是同行。毕竟，你身上有血腥味儿，而那偏偏是我最喜欢喝的饮料。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>这不关你的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>不关你的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>But why drink it, when we can spill it instead.</Source>
-      <Dest>但为什么非得喝了它啊？我们还可以把它倒了不是吗。</Dest>
-    </String>
-    <String List="0">
-      <Source>I was passing through Solitude and decided to stop by.</Source>
-      <Dest>我途经Solitude并打算稍作停留。</Dest>
-    </String>
-    <String List="2">
-      <Source>And once you stopped by, then what? You lack purpose, stranger. Maybe I can provide it.</Source>
-      <Dest>就算你停下了，那又怎样？你没有目标，陌生人。而我，可以给你提供目标。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just thirsty, is all.</Source>
-      <Dest>只是有点渴。</Dest>
-    </String>
-    <String List="2">
-      <Source>And what is it you thirst for? Ale? Or blood? </Source>
-      <Dest>你渴望的是什么？酒吗？亦或是血？</Dest>
-    </String>
-    <String List="0">
-      <Source>Just thirsty, is all.</Source>
-      <Dest>只是有点渴。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, but maybe you're like me, and you enjoy spilling blood as much you like drinking it.</Source>
-      <Dest>啊啊，可是说不定你就像我，喜欢饮血同时也喜欢鲜血涌出的感觉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just thirsty, is all.</Source>
-      <Dest>只是有点渴。</Dest>
+      <Source>That's fine. The rules don't state you have to kill the innocent. The only thing that matters is their name.</Source>
+      <Dest>这很好。不规定你必须杀死无辜的人。唯一重要的是他们的名字。</Dest>
     </String>
     <String List="2">
       <Source>I bet you are. But not everyone here is thirsty for ale. Some are thirsty for blood.</Source>
       <Dest>我确定你是。但在这儿，并不是所有人都渴望着酒，有些人还渴望着血。</Dest>
     </String>
-    <String List="0">
-      <Source>Just thirsty, is all.</Source>
-      <Dest>只是有点渴。</Dest>
+    <String List="2">
+      <Source>Yes, you are. But my prey is closer. In fact, she's in this very inn.</Source>
+      <Dest>对，是啊。但我的目标更近。事实上，她现在就在这家酒馆儿里。</Dest>
     </String>
     <String List="2">
       <Source>And the best kind of drink is the kind made to be spilled.</Source>
       <Dest>而最好的饮料是能溢出来的那种。</Dest>
     </String>
     <String List="2">
-      <Source>Hail, traveler. What brings you to the tavern?</Source>
-      <Dest>嗨，旅行者。是什么风把你吹到这家小客栈来了？</Dest>
-    </String>
-    <String List="2">
-      <Source>How goes the hunt? Don't tell me you've finished.</Source>
-      <Dest>How goes the hunt? Don't tell me you've finished.</Dest>
-    </String>
-    <String List="2">
-      <Source>It seems you've won. Your corpse hit the floor first.</Source>
-      <Dest>看来你已经赢了。你的尸体会头一个倒在地板上。</Dest>
-    </String>
-    <String List="2">
-      <Source>It seems you've won. You even managed to save the girl's life.</Source>
-      <Dest>It seems you've won. You even managed to save the girl's life.</Dest>
+      <Source>And as luck would have it, the final letter is right here in this inn.</Source>
+      <Dest>以及幸运的是，最后的那封信就在这旅馆里。</Dest>
     </String>
     <String List="2">
       <Source>It seems you've lost. My corpse touched the ground first. Rules are rules.</Source>
       <Dest>我想你是迷路了，我的僵尸们最先来这儿的。先来后到，规矩如此。</Dest>
     </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
+    <String List="2">
+      <Source>And what is it you thirst for? Ale? Or blood? </Source>
+      <Dest>你渴望的是什么？酒吗？亦或是血？</Dest>
     </String>
     <String List="2">
-      <Source>That's fine. The rules don't state you have to kill the innocent. The only thing that matters is their name.</Source>
-      <Dest>这很好。不规定你必须杀死无辜的人。唯一重要的是他们的名字。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
+      <Source>I spent countless years in lairs like this, living with a clan. Many of them fear the sun, but for me, the boredom was just as blinding.</Source>
+      <Dest>我在这样的藏身处待了无数个年头，和一整个家族生活在一起。他们中很多人害怕阳光。但对我来说，让我讨厌的仅仅是它很刺眼。</Dest>
     </String>
     <String List="2">
-      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
-      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
+      <Source>And as luck would have it, it's in this very inn.</Source>
+      <Dest>巧的很，就在这家酒馆里。</Dest>
     </String>
     <String List="2">
-      <Source>Meaning, the first person you kill must have a name that starts with the letter U.</Source>
-      <Dest>Meaning, the first person you kill must have a name that starts with the letter U.</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
+      <Source>But enough with the lectures. You live long enough, and you'll see. Maybe I wanted to follow you. Could be I'm just tired of leading.</Source>
+      <Dest>不过（我）还是不耍嘴皮子了。只要你活得够长，那你就能亲眼见证。或许我能做你的随从，因为我已经厌倦那总是走在前面的日子了。</Dest>
     </String>
     <String List="2">
-      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself, if he weren't already dead. That is rule number one.</Source>
-      <Dest>可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克本人，前提是目标他还活着。这是规则一。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's fine. The rules don't state you have to kill the innocent. The only thing that matters is their name.</Source>
-      <Dest>这很好。不规定你必须杀死无辜的人。唯一重要的是他们的名字。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
-      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Meaning, the first person you kill must have a name that starts with the letter U.</Source>
-      <Dest>Meaning, the first person you kill must have a name that starts with the letter U.</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm not killing anyone who doesn't deserve it.</Source>
-      <Dest>我不杀任何没价值的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself. That is rule number one.</Source>
-      <Dest>它可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克自己。这是规则一。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+      <Source>You can't know that for sure. Our business could be one and the same. After all, you smell of blood, and that's my favorite drink of all.</Source>
+      <Dest>你又不能肯定。我们可能是同行。毕竟，你身上有血腥味儿，而那偏偏是我最喜欢喝的饮料。</Dest>
     </String>
     <String List="2">
       <Source>We can go by race, class or clothing, or even profession. But in the spirit of the Civil War, I propose we go by name.</Source>
       <Dest>我们可以种族、地位或者着装，甚至职业的名义前进。不过在内战的精神层面，我建议我们以名誉的名义前进。</Dest>
     </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+    <String List="2">
+      <Source>We can go by race, class or clothing, or even profession. But in the spirit of the Civil War, I propose we go by name.</Source>
+      <Dest>我们可以种族、地位或者着装，甚至职业的名义前进。不过在内战的精神层面，我建议我们以名誉的名义前进。</Dest>
     </String>
     <String List="2">
-      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
-      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
-    </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+      <Source>Sure, in time. But I still owe you for this round. Once I've served my time, we'll play again.</Source>
+      <Dest>当然，迟早会的。不过我这一轮还欠着你呢。等什么时候我有时间了，我们再来玩儿。</Dest>
     </String>
     <String List="2">
-      <Source>Meaning, the first person you kill must have a name that starts with the letter U.</Source>
-      <Dest>Meaning, the first person you kill must have a name that starts with the letter U.</Dest>
+      <Source>One game, the rule was to kill Stronghold members of the opposite sex. Wasn't much of a contest. The chief kept too many wives and not enough sons.</Source>
+      <Dest>一个游戏。规则是杀死要塞的异姓成员。这没有太多的竞争。酋长有一堆的老婆，儿子却没几个。</Dest>
     </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+    <String List="2">
+      <Source>Can you? The innkeeper is old, but sturdy. He also has family to defend him. Maybe even the city guard.</Source>
+      <Dest>你可以做到吗？虽然那个旅店老板已经老了，但仍很强壮。他还有家人可以保护他。也许城市守卫也会介入。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until then, I'll just be here, waiting for another player. With you or without you, the games will go on.</Source>
+      <Dest>一直到那时，我都会一直待在这里，等着下一个玩家。这游戏不管有没有你，都会如常地继续下去。</Dest>
     </String>
     <String List="2">
       <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself, if he weren't already dead. That is rule number one.</Source>
       <Dest>可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克本人，前提是目标他还活着。这是规则一。</Dest>
     </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+    <String List="2">
+      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself, if he weren't already dead. That is rule number one.</Source>
+      <Dest>可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克本人，前提是目标他还活着。这是规则一。</Dest>
     </String>
     <String List="2">
-      <Source>We can go by race, class or clothing, or even profession. But in the spirit of the Civil War, I propose we go by name.</Source>
-      <Dest>我们可以种族、地位或者着装，甚至职业的名义前进。不过在内战的精神层面，我建议我们以名誉的名义前进。</Dest>
+      <Source>Ah, but maybe you're like me, and you enjoy spilling blood as much you like drinking it.</Source>
+      <Dest>啊啊，可是说不定你就像我，喜欢饮血同时也喜欢鲜血涌出的感觉。</Dest>
     </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+    <String List="2">
+      <Source>The bandit is a simple creature. No different than a pack of wolves. Feral, tenacious, but easily disposed of.</Source>
+      <Dest>强盗都是群头脑简单的家伙，和一群狼没什么两样。凶猛，顽强，但是很好对付。</Dest>
+    </String>
+    <String List="2">
+      <Source>The girl is an immigrant, a nobody. But if you're that confident in your abilities, then maybe this will make for good sport.</Source>
+      <Dest>这个女孩是个外来者，一个小人物。但如果你对自己的能力很有自信，那也许这会是项不错的运动。</Dest>
     </String>
     <String List="2">
       <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
       <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
     </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+    <String List="2">
+      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
+      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
     </String>
     <String List="2">
-      <Source>Meaning, the first person you kill must have a name that starts with the letter U.</Source>
-      <Dest>Meaning, the first person you kill must have a name that starts with the letter U.</Dest>
-    </String>
-    <String List="0">
-      <Source>Intriguing. What are the rules?</Source>
-      <Dest>真奇怪，规则是啥？</Dest>
+      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
+      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
     </String>
     <String List="2">
-      <Source>It could be Ulundil the stablemaster, Uvra the vampire, or even Ulfric himself. That is rule number one.</Source>
-      <Dest>它可以是马厩主人阿伦迪尔，吸血鬼乌拉，甚至是乌弗瑞克自己。这是规则一。 </Dest>
-    </String>
-    <String List="0">
-      <Source>What are you proposing?</Source>
-      <Dest>你的建议是什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>A game, of sorts. One the both us can appreciate.</Source>
-      <Dest>（进行）某种我们两个都能接受的游戏。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are you proposing?</Source>
-      <Dest>你的建议是什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>We each kill six men. First to six wins the prize. But, to make things more interesting, the targets have to fall within a set of rules.</Source>
-      <Dest>我们一人杀六个人。先杀到6个的赢。但是，要比得有趣一点，那些目标要遵循一定的规则。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's rule number two?</Source>
-      <Dest>第二条戒律是什么？</Dest>
+      <Source>I will kill six people, one for each letter of Elisif's name. You will do the same for Ulfric. And it must be in order.</Source>
+      <Dest>我会以艾丽丝弗（Elisif）名字里的每个字母作为根据，杀掉6个人，你也为由乌弗列克干（Ulfric）同样的事 ，还有必须要按顺序。</Dest>
     </String>
     <String List="2">
       <Source>No Nords, save for the first and last letter. Given we're in Skyrim, it would be too easy otherwise.</Source>
       <Dest>第一个和最后一个字母的那位，不能是诺德人。考虑到我们身在天际省，那样的话这游戏也太容易了。</Dest>
     </String>
+    <String List="2">
+      <Source>But if you're that confident in your abilities, then maybe this will make for good sport.</Source>
+      <Dest>但如果你对自己的能力很有自信，那也许这会是项不错的运动。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's none of your business.</Source>
+      <Dest>关你什么事！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's none of your business.</Source>
+      <Dest>关你什么事！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hail, traveler. What brings you to the tavern?</Source>
+      <Dest>嗨，旅行者。是什么风把你吹到这家小客栈来了？</Dest>
+    </String>
     <String List="0">
       <Source>What are we playing for?</Source>
       <Dest>我们为谁效力？</Dest>
-    </String>
-    <String List="2">
-      <Source>Gold is boring. You win, I fight by your side. I win, you do something for me.</Source>
-      <Dest>钱没什么意思。这样吧，你赢了，我就为你而战，我赢了，你就得为我干点儿事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you play this type of game often?</Source>
-      <Dest>你们经常玩这种游戏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Whenever I can find a willing player.</Source>
-      <Dest>无论何时我都能找到一个自愿的玩家。</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you play this type of game often?</Source>
-      <Dest>你们经常玩这种游戏吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>You see, I've grown bored of killing people the old fashioned way. Orcs were never meant to live long lives. I'm guessing this is why.</Source>
-      <Dest>你瞧，我已经厌倦用老套路杀人了。兽人也从未有过这么长寿的。我想这就是原因。</Dest>
-    </String>
-    <String List="0">
-      <Source>You bastard. I can't believe you killed Fironet.</Source>
-      <Dest>你这杂种！难以相信你竟然杀了法萝娜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Had to. Didn't expect you to be such a good player. You killed the first three so quick, I knew I was going to have pull my ace.</Source>
-      <Dest>我不得不杀。没想到你是个这么好的玩家，前三个家伙那么快就都被你杀掉了。我知道我必须得亮出自己的王牌了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You bastard. I can't believe you killed Fironet.</Source>
-      <Dest>你这杂种！难以相信你竟然杀了法萝娜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Choosing here as a finish line wasn't a coincidence. Even if you got wise and demanded I take Ulfric, there still would've been a target to kill.</Source>
-      <Dest>选择在这里作为终点线并不是一个巧合。即使你耍小聪明让我把乌夫瑞克给做了，但你还有一个目标没杀死。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I know you didn't skip any letters?</Source>
-      <Dest>我怎么知道你有没有遗漏。</Dest>
-    </String>
-    <String List="2">
-      <Source>You can check for them in the Hall of the Dead. Egret, a dockworker, and Lars, a lumberjack, poisoned in the night.</Source>
-      <Dest>You can check for them in the Hall of the Dead. Egret, a dockworker, and Lars, a lumberjack, poisoned in the night.</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I know you didn't skip any letters?</Source>
-      <Dest>我怎么知道你有没有遗漏。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ivan the Bone-Crusher, a mercenary who I challenged to a duel. Savrit, who I offered gold to do the same.</Source>
-      <Dest>碎骨者伊凡，我挑战的一个雇佣兵。撒威特，同样一个我给钱就能打的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do I know you didn't skip any letters?</Source>
-      <Dest>我怎么知道你有没有遗漏。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then there was Irene, the soldier, who I dined on in the barracks. And lastly, the lovely Redguard over there, whose throat was like warm butter.</Source>
-      <Dest>这是艾琳，那个我在兵营里享用的士兵。最后，那边是可爱的红卫人，他们的喉咙就跟温暖的黄油一个样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Ridiculous. I never lose at anything.</Source>
-      <Dest>太扯了，我可从来没输过。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's because you're still a child. The older you get, the less experiences are new.</Source>
-      <Dest>那是因为你还是个孩子。你年纪越大，新的经历就会越少。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've killed the six.</Source>
-      <Dest>我已经杀了六个了.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah, you've killed six, but that wasn't the game. It's who killed them first, and made it back here.</Source>
-      <Dest>哈，你宰了六个，可惜这不是比谁杀得多的游戏，而是比谁先杀了他们并回到这里。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've killed the six.</Source>
-      <Dest>我已经杀了六个了.</Dest>
-    </String>
-    <String List="2">
-      <Source>Far as I can tell, you just walked in. And my corpse has been cold for hours.</Source>
-      <Dest>据我所知道的，你只是走了进来，而我的尸体已经冰凉了几个小时。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've killed the six.</Source>
-      <Dest>我已经杀了六个了.</Dest>
-    </String>
-    <String List="2">
-      <Source>The Redguard girl. The one who wanted to be a bard. Her name started with an F.</Source>
-      <Dest>这个红卫女孩儿想成为一名吟游诗人。她的名字是以F开头的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've killed the six.</Source>
-      <Dest>我已经杀了六个了.</Dest>
-    </String>
-    <String List="0">
-      <Source>So I owe you a favor now?</Source>
-      <Dest>这么说我欠了你个人情？</Dest>
-    </String>
-    <String List="2">
-      <Source>You might. You might not. It all depends what you did with your first kill. If you killed Uvra, then we're square. If you haven't, that will do.</Source>
-      <Dest>你可能是对的，也可能不对。这取决于你杀的第一个人是谁。如果你杀了乌拉，那我们是公正的。如果你没有，那就只能这样了。</Dest>
     </String>
     <String List="0">
       <Source>All right. I'll play your game.</Source>
       <Dest>好吧。我参加你的游戏。</Dest>
     </String>
-    <String List="2">
-      <Source>Good. The first one to kill all six men and return to this tavern will have won the wager. Their urns will serve as proof.</Source>
-      <Dest>好的。首先杀完六个人后回到这间旅馆的算赢。以他们的骨灰翁为证。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's just say that vampire and I had a history. If it wasn't for her, maybe I wouldn't be so bored.</Source>
-      <Dest>我就说那个吸血鬼跟我有点渊源吧。要不是因为她，我现在可能没这么无聊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Making her a part of this game, well, that's just my way of thanking her.</Source>
-      <Dest>Making her a part of this game, well, that's just my way of thanking her.</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's just say that vampire and I have a history. If it weren't for her, maybe I wouldn't be so bored.</Source>
-      <Dest>我就说那个吸血鬼跟我有点渊源吧。要不是因为她，我现在可能没这么无聊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Making her a part of this game, well, that's just my way of thanking her.</Source>
-      <Dest>Making her a part of this game, well, that's just my way of thanking her.</Dest>
-    </String>
-    <String List="2">
-      <Source>Go on, kill your man, and I'll kill mine. We'll see which one drops first.</Source>
-      <Dest>来吧，你杀你的人，我杀我的。我们来看看谁先倒下。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's test that theory, shall we?</Source>
-      <Dest>让我们一起来检验这理论好么？</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过？</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>I've killed the six.</Source>
+      <Dest>我已经杀了六个了。</Dest>
     </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    <String List="0">
+      <Source>I've killed the six.</Source>
+      <Dest>我已经杀了六个了。</Dest>
     </String>
-    <String List="2">
-      <Source>Didn't feel a thing!</Source>
-      <Dest>就像挠痒痒！</Dest>
+    <String List="0">
+      <Source>I've killed the six.</Source>
+      <Dest>我已经杀了六个了。</Dest>
     </String>
-    <String List="2">
-      <Source>It's going to take more than that to best me!</Source>
-      <Dest>It's going to take more than that to best me!</Dest>
+    <String List="0">
+      <Source>I've killed the six.</Source>
+      <Dest>我已经杀了六个了。</Dest>
     </String>
-    <String List="2">
-      <Source>Pathetic! Absolutely pathetic!</Source>
-      <Dest>Pathetic! Absolutely pathetic!</Dest>
+    <String List="0">
+      <Source>You bastard. I can't believe you killed Fironet.</Source>
+      <Dest>你这杂种！难以相信你竟然杀了法萝娜。</Dest>
     </String>
-    <String List="2">
-      <Source>Ugh!</Source>
-      <Dest>呃！</Dest>
+    <String List="0">
+      <Source>You bastard. I can't believe you killed Fironet.</Source>
+      <Dest>你这杂种！难以相信你竟然杀了法萝娜。</Dest>
     </String>
-    <String List="2">
-      <Source>Curse you!</Source>
-      <Dest>诅咒你！</Dest>
+    <String List="0">
+      <Source>Ridiculous. I never lose at anything.</Source>
+      <Dest>太扯了，我可从来没输过。</Dest>
     </String>
-    <String List="2">
-      <Source>Come on, is that all you've got?</Source>
-      <Dest>来呀来呀，就这点本事吗？</Dest>
+    <String List="0">
+      <Source>So I owe you a favor now?</Source>
+      <Dest>这么说我欠了你个人情？</Dest>
     </String>
-    <String List="2">
-      <Source>Do your worst!</Source>
-      <Dest>你这样还不够看！</Dest>
+    <String List="0">
+      <Source>How do I know you didn't skip any letters?</Source>
+      <Dest>我怎么知道你有没有遗漏？</Dest>
     </String>
-    <String List="2">
-      <Source>You haven't won yet!</Source>
-      <Dest>你不会赢的！</Dest>
+    <String List="0">
+      <Source>How do I know you didn't skip any letters?</Source>
+      <Dest>我怎么知道你有没有遗漏？</Dest>
     </String>
-    <String List="2">
-      <Source>Agh!  Bastard!</Source>
-      <Dest>啊！混蛋！</Dest>
+    <String List="0">
+      <Source>How do I know you didn't skip any letters?</Source>
+      <Dest>我怎么知道你有没有遗漏？</Dest>
     </String>
-    <String List="2">
-      <Source>Agh! Enough! This ends now!</Source>
-      <Dest>噢！够了！一切都完了</Dest>
+    <String List="0">
+      <Source>Do you play this type of game often?</Source>
+      <Dest>你们经常玩这种游戏吗？</Dest>
     </String>
-    <String List="2">
-      <Source>You need to do better than that!</Source>
-      <Dest>你需要做得更好！</Dest>
-    </String>
-    <String List="2">
-      <Source>Like the bite of a flea!</Source>
-      <Dest>就被跳蚤咬了一口！</Dest>
-    </String>
-    <String List="2">
-      <Source>Ist that it? Is that your best?</Source>
-      <Dest>什么？这就是你的极限吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>It'll take more than that!</Source>
-      <Dest>需要的比这更多！</Dest>
-    </String>
-    <String List="2">
-      <Source>You will bleed!</Source>
-      <Dest>我要帮你放血！</Dest>
-    </String>
-    <String List="2">
-      <Source>Eyaargh!</Source>
-      <Dest>哎呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do me a favor and stand still!</Source>
-      <Dest>帮我个忙，站住！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, damn you!</Source>
-      <Dest>去死吧，混蛋！</Dest>
+    <String List="0">
+      <Source>Do you play this type of game often?</Source>
+      <Dest>你们经常玩这种游戏吗？</Dest>
     </String>
     <String List="2">
       <Source>You're nothing!</Source>
-      <Dest>你这无名的蝼蚁之辈！</Dest>
+      <Dest>你这无名小卒！</Dest>
     </String>
     <String List="2">
-      <Source>Give up while you still can!</Source>
-      <Dest>趁你还有命的时候，投降吧！</Dest>
+      <Source>That's because you're still a child. The older you get, the less experiences are new.</Source>
+      <Dest>那是因为你还是个孩子。你年纪越大，新的经历就会越少。</Dest>
     </String>
     <String List="2">
-      <Source>I've had enough of you!</Source>
-      <Dest>我受够你了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Think you'll best an Orc?</Source>
-      <Dest>以为你能战胜一个兽人？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll skin you alive, cat!</Source>
-      <Dest>看我活剥了你，死猫！</Dest>
-    </String>
-    <String List="2">
-      <Source>You picked the wrong dinner, animal!</Source>
-      <Dest>你选错了晚餐，畜生！</Dest>
-    </String>
-    <String List="2">
-      <Source>Yield or die!</Source>
-      <Dest>投降或着去死吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Is this what you want?</Source>
-      <Dest>想尝尝这招吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Take that, you fiend!</Source>
-      <Dest>接招吧，你这恶魔！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll have your head!</Source>
-      <Dest>我要取你的首级！</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh...you fiend.</Source>
-      <Dest>呃……你个恶魔。</Dest>
+      <Source>Ugh!</Source>
+      <Dest>啊！</Dest>
     </String>
     <String List="2">
       <Source>I yield, I yield!</Source>
       <Dest>我认输！我认输！</Dest>
     </String>
     <String List="2">
+      <Source>Do your worst!</Source>
+      <Dest>你还是做好最坏的打算吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. The first one to kill all six men and return to this tavern will have won the wager. Their urns will serve as proof.</Source>
+      <Dest>好的。首先杀完六个人后回到这间旅馆的算赢。以他们的骨灰翁为证。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's just say that vampire and I have a history. If it weren't for her, maybe I wouldn't be so bored.</Source>
+      <Dest>我就说那个吸血鬼跟我有点渊源吧。要不是因为她，我现在可能没这么无聊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Give up while you still can!</Source>
+      <Dest>趁你还有反悔的机会，投降吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh! Enough! This ends now!</Source>
+      <Dest>嘿！够了！已经结束了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, you've killed six, but that wasn't the game. It's who killed them first, and made it back here.</Source>
+      <Dest>哈，你宰了六个，可惜这不是比谁杀得多的游戏，而是比谁先杀了他们并回到这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, I've grown bored of killing people the old fashioned way. Orcs were never meant to live long lives. I'm guessing this is why.</Source>
+      <Dest>你瞧，我已经厌倦用老套路杀人了。兽人也从未有过这么长寿的。我想这就是原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think you'll best an Orc?</Source>
+      <Dest>以为你能战胜一个兽人？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Redguard girl. The one who wanted to be a bard. Her name started with an F.</Source>
+      <Dest>这个红卫女孩儿想成为一名吟游诗人。她的名字是以F开头的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You need to do better than that!</Source>
+      <Dest>你需要做得更好！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh!  Bastard!</Source>
+      <Dest>啊！混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>You might. You might not. It all depends what you did with your first kill. If you killed Uvra, then we're square. If you haven't, that will do.</Source>
+      <Dest>你可能是对的，也可能不对。这取决于你杀的第一个人是谁。如果你杀了乌拉，那我们是公正的。如果你没有，那就只能这样了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take that, you fiend!</Source>
+      <Dest>接招吧，你个魔鬼！</Dest>
+    </String>
+    <String List="2">
+      <Source>Die, damn you!</Source>
+      <Dest>去死吧，混蛋！</Dest>
+    </String>
+    <String List="2">
+      <Source>You will bleed!</Source>
+      <Dest>吃我一戟！</Dest>
+    </String>
+    <String List="2">
+      <Source>Whenever I can find a willing player.</Source>
+      <Dest>无论何时我都能找到一个自愿的玩家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on, is that all you've got?</Source>
+      <Dest>过来这里，这是你做到的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Is this what you want?</Source>
+      <Dest>这就是你想要的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Like the bite of a flea!</Source>
+      <Dest>就被跳蚤咬了一口！</Dest>
+    </String>
+    <String List="2">
+      <Source>Eyaargh!</Source>
+      <Dest>哎呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>You haven't won yet!</Source>
+      <Dest>你不会赢的！</Dest>
+    </String>
+    <String List="2">
       <Source>You win! I submit!</Source>
-      <Dest>你赢了！我认输！</Dest>
+      <Dest>你赢得干净俐落！我输得心服口服。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then there was Irene, the soldier, who I dined on in the barracks. And lastly, the lovely Redguard over there, whose throat was like warm butter.</Source>
+      <Dest>这是艾琳，那个我在兵营里享用的士兵。最后，那边是可爱的红卫人，他们的喉咙就跟温暖的黄油一个样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yield or die!</Source>
+      <Dest>要么投降要么死！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've had enough of you!</Source>
+      <Dest>我受够你了！</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll take more than that!</Source>
+      <Dest>需要的比这更多！</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's just say that vampire and I had a history. If it wasn't for her, maybe I wouldn't be so bored.</Source>
+      <Dest>我就说那个吸血鬼跟我有点渊源吧。要不是因为她，我现在可能没这么无聊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do me a favor and stand still!</Source>
+      <Dest>帮我个忙，站住！</Dest>
+    </String>
+    <String List="2">
+      <Source>Didn't feel a thing!</Source>
+      <Dest>就像挠痒痒！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh...you fiend.</Source>
+      <Dest>呃……你个恶魔。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll skin you alive, cat!</Source>
+      <Dest>看我活剥了你，死猫！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ist that it? Is that your best?</Source>
+      <Dest>什么？那就是你的能耐？</Dest>
+    </String>
+    <String List="2">
+      <Source>Choosing here as a finish line wasn't a coincidence. Even if you got wise and demanded I take Ulfric, there still would've been a target to kill.</Source>
+      <Dest>选择在这里作为终点线并不是一个巧合。即使你耍小聪明让我把乌夫瑞克给做了，但你还有一个目标没杀死。</Dest>
+    </String>
+    <String List="2">
+      <Source>Had to. Didn't expect you to be such a good player. You killed the first three so quick, I knew I was going to have pull my ace.</Source>
+      <Dest>我不得不杀。没想到你是个这么好的玩家，前三个家伙那么快就都被你杀掉了。我知道我必须得亮出自己的王牌了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gold is boring. You win, I fight by your side. I win, you do something for me.</Source>
+      <Dest>钱没什么意思。这样吧，你赢了，我就为你而战，我赢了，你就得为我干点儿事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's test that theory, shall we?</Source>
+      <Dest>让我们一起来检验这理论好么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Far as I can tell, you just walked in. And my corpse has been cold for hours.</Source>
+      <Dest>据我所知道的，你只是走了进来，而我的尸体已经冰凉了几个小时。</Dest>
     </String>
     <String List="2">
       <Source>Is that the best you can do?</Source>
       <Dest>这就是你的极限了？</Dest>
     </String>
     <String List="2">
-      <Source>Easily blocked!</Source>
-      <Dest>很容易堵住！</Dest>
+      <Source>Go on, kill your man, and I'll kill mine. We'll see which one drops first.</Source>
+      <Dest>来吧，你杀你的人，我杀我的。我们来看看谁先倒下。</Dest>
     </String>
     <String List="2">
-      <Source>You're not even worth drinking!</Source>
-      <Dest>You're not even worth drinking!</Dest>
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>Curse you!</Source>
+      <Dest>诅咒你！</Dest>
+    </String>
+    <String List="2">
+      <Source>Easily blocked!</Source>
+      <Dest>分分钟挡住！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll have your head!</Source>
+      <Dest>我要剁了你的脑袋！</Dest>
+    </String>
+    <String List="2">
+      <Source>You picked the wrong dinner, animal!</Source>
+      <Dest>你选错晚餐了，畜生！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ivan the Bone-Crusher, a mercenary who I challenged to a duel. Savrit, who I offered gold to do the same.</Source>
+      <Dest>碎骨者伊凡，我挑战的一个雇佣兵。撒威特，同样一个我给钱就能打的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a companion, is there anything you won't do?</Source>
+      <Dest>作为战友团的一員，有什么你不想做的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How long will I have your services?</Source>
+      <Dest>你能为我服务多久？</Dest>
+    </String>
+    <String List="2">
+      <Source>That was the deal.</Source>
+      <Dest>那就是交易。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll cut right through your scales, monster!</Source>
+      <Dest>我会连你的鳞片一刀切的，怪物！</Dest>
+    </String>
+    <String List="2">
+      <Source>You won't get away!</Source>
+      <Dest>你跑不了！ </Dest>
+    </String>
+    <String List="2">
+      <Source>You mean, like go out in the sun? No. Orcs don't even know the meaning of fear. And vampires don't know the meaning of ethics.</Source>
+      <Dest>你的意思是，喜欢出去晒晒太阳？不。兽人甚至不知道恐惧的含义。而吸血鬼也不知道德为何意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Show me what you've got!</Source>
+      <Dest>有啥本事亮出来看看！</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't stand a chance!</Source>
+      <Dest>你一点机会也没有！</Dest>
+    </String>
+    <String List="2">
+      <Source>You've killed your first. But so have I. This game will come down to the end, I think.</Source>
+      <Dest>你已经搞定了第一个。可我也是。我想这场游戏我们可以玩到底了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Drink all you want, but don't forget to spill.</Source>
+      <Dest>随便喝你想喝的，但别忘记洒出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's time for your nap!</Source>
+      <Dest>午睡的时间到了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll skin you alive!</Source>
+      <Dest>我要活剥了你的皮！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're dead meat!</Source>
+      <Dest>你死定了！</Dest>
+    </String>
+    <String List="2">
+      <Source>To the next meal.</Source>
+      <Dest>下顿饭再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>An Orc isn't afraid of blood. A vampire relishes it.</Source>
+      <Dest>兽人不惧鲜血，而吸血鬼则喜爱鲜血。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four down, two to go. For the both of us, it seems.</Source>
+      <Dest>四个人躺了，两个人挂了。看来就剩我们俩了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You made the wrong choice today!</Source>
+      <Dest>你今天选错了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Come on, let's dance!</Source>
+      <Dest>来吧，咱们跳舞！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're going to look good mounted on my wall!</Source>
+      <Dest>你会变成我墙上挂的战利品！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've already killed three. Ivan the Bone-Crusher was my third. Now he's just sack of crushed bones.</Source>
+      <Dest>我已经杀掉三个人了。碎骨者伊凡是我杀掉的第三个。现在他只是一麻袋碎骨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Listen to your thirst.</Source>
+      <Dest>倾听你的欲望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just an Orc with a lot of time to kill.</Source>
+      <Dest>只是一个拥有大量时间来杀戮的兽人罢了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't worry about me. I'm merely mulling over my choices. Slow and steady wins the race.</Source>
+      <Dest>别担心我。我只是在反复斟酌慎重决断而已。心急吃不了热豆腐，稳中求胜嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Say hello to Ysmir for me, Nord!</Source>
+      <Dest>帮我向伊斯米尔问个好，诺德佬！</Dest>
     </String>
     <String List="2">
       <Source>I've drank thralls with more fight than you!</Source>
@@ -967,136 +1011,28 @@
       <Dest>你会粉身碎骨的！</Dest>
     </String>
     <String List="2">
-      <Source>You're dead meat!</Source>
-      <Dest>你死定了！</Dest>
+      <Source>Not every game involves blood. Just the best ones.</Source>
+      <Dest>鲜血飞舞的狩猎才最值得铭记。</Dest>
     </String>
     <String List="2">
-      <Source>It's time for your nap!</Source>
-      <Dest>午睡时间到！</Dest>
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
     </String>
     <String List="2">
-      <Source>Come on, let's dance!</Source>
-      <Dest>来吧，咱们跳舞！</Dest>
+      <Source>What is it?</Source>
+      <Dest>怎么了？</Dest>
     </String>
     <String List="2">
-      <Source>You made the wrong choice today!</Source>
-      <Dest>你今天选错了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Show me what you've got!</Source>
-      <Dest>来啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll skin you alive!</Source>
-      <Dest>我会活剥了你！</Dest>
-    </String>
-    <String List="2">
-      <Source>Say hello to Ysmir for me, Nord!</Source>
-      <Dest>帮我向伊斯米尔问个好，诺德佬！</Dest>
-    </String>
-    <String List="2">
-      <Source>You're going to look good mounted on my wall!</Source>
-      <Dest>你的脑袋会成为我的收藏品！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll cut right through your scales, monster!</Source>
-      <Dest>我能连你的鳞片都一刀切了，怪物！</Dest>
-    </String>
-    <String List="2">
-      <Source>You won't get away!</Source>
-      <Dest>你跑不了！</Dest>
-    </String>
-    <String List="2">
-      <Source>You don't stand a chance!</Source>
-      <Dest>你一点机会也没！</Dest>
-    </String>
-    <String List="2">
-      <Source>Just an Orc with a lot of time to kill.</Source>
-      <Dest>只是一个拥有大量时间来杀戮的兽人罢了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you?</Source>
-      <Dest>你是谁？</Dest>
-    </String>
-    <String List="2">
-      <Source>Until the next game. I don't know when that will be. But for now, this is my entertainment.</Source>
-      <Dest>到下一个游戏之前。我也不知道啥时候能开始。但是现在这就是我的娱乐活动了。</Dest>
-    </String>
-    <String List="0">
-      <Source>How long will I have your services?</Source>
-      <Dest>你能为我服务到多久？</Dest>
-    </String>
-    <String List="2">
-      <Source>You mean, like go out in the sun? No. Orcs don't even know the meaning of fear. And vampires don't know the meaning of ethics.</Source>
-      <Dest>你的意思是，喜欢出去晒晒太阳？不。兽人甚至不知道恐惧的含义。而吸血鬼也不知道德为何意。</Dest>
-    </String>
-    <String List="0">
-      <Source>As a companion, is there anything you won't do?</Source>
-      <Dest>做为战友团的一员，有什麽你不想做的吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>That was the deal.</Source>
-      <Dest>那就是交易。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
+      <Source>Yes?</Source>
+      <Dest>怎么了？</Dest>
     </String>
     <String List="2">
       <Source>Happy hunting.</Source>
       <Dest>狩猎愉快。</Dest>
     </String>
     <String List="2">
-      <Source>All right then.</Source>
-      <Dest>那好吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>To the next meal.</Source>
-      <Dest>下顿饭再见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Drink all you want, but don't forget to spill.</Source>
-      <Dest>随便喝你想喝的，但别忘记洒出来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't worry about me. I'm merely mulling over my choices. Slow and steady wins the race.</Source>
-      <Dest>别担心我。我只是在反复斟酌慎重决断而已。心急吃不了热豆腐，稳中求胜嘛。</Dest>
-    </String>
-    <String List="2">
-      <Source>You've killed your first. But so have I. This game will come down to the end, I think.</Source>
-      <Dest>你已经搞定了第一个。可我也是。我想这场游戏我们可以玩到底了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've already killed three. Ivan the Bone-Crusher was my third. Now he's just sack of crushed bones.</Source>
-      <Dest>我已经杀掉三个人了。碎骨者伊凡是我杀掉的第三个。现在他只是一麻袋碎骨了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Four down, two to go. For the both of us, it seems.</Source>
-      <Dest>四个人躺了，两个人挂了。看来就剩我们俩了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What is it?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What is it?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Listen to your thirst.</Source>
-      <Dest>倾听你的欲望。</Dest>
-    </String>
-    <String List="2">
-      <Source>An Orc isn't afraid of blood. A vampire relishes it.</Source>
-      <Dest>兽人不惧鲜血，而吸血鬼则喜爱鲜血。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not every game involves blood. Just the best ones.</Source>
-      <Dest>鲜血飞舞的狩猎才最值得铭记。</Dest>
+      <Source>Until the next game. I don't know when that will be. But for now, this is my entertainment.</Source>
+      <Dest>到下一个游戏之前。我也不知道啥时候能开始。但是现在这就是我的娱乐活动了。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
