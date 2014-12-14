@@ -7,600 +7,636 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Smart. It would still take a long time to purchase a ship, however.</Source>
+      <Dest>聪明。不过要买艘船也要一段时间的把。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I just needed enough for the down payment. The rest I borrowed.</Source>
+      <Dest>喔，我只是需要凑足首付钱。剩下的部分我得借。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Smart. It would still take a long time to purchase a ship, however.</Source>
+      <Dest>聪明。不过要买艘船也要一段时间的把。</Dest>
     </String>
-    <String List="0">
-      <Source>You don't seem too distressed about it.</Source>
-      <Dest>你貌似不是很难过。</Dest>
-    </String>
-    <String List="0">
-      <Source>You don't seem too distressed about it.</Source>
-      <Dest>你貌似不是很难过。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why health potions?</Source>
-      <Dest>为什么是疗伤药？</Dest>
-    </String>
-    <String List="0">
-      <Source>No piece of wood can compare to the joy of having children.</Source>
-      <Dest>没有什么事能与拥有孩子的快乐相比了</Dest>
-    </String>
-    <String List="0">
-      <Source>No piece of wood can compare to the joy of having children.</Source>
-      <Dest>没有什么事能与拥有孩子的快乐相比了</Dest>
+    <String List="2">
+      <Source>As much as I despise interest, well, when I'm the one paying it, there was really no other way.</Source>
+      <Dest>像我一样如此鄙视利息这种东西，嗯哼，就是说当我要付它的时候，这还真是没什么可以选择的了。</Dest>
     </String>
     <String List="0">
       <Source>How could you get away with such a practice?</Source>
       <Dest>你怎么能侥幸的逃脱这样一个惯例?</Dest>
     </String>
-    <String List="0">
-      <Source>How do we salvage its reputation?</Source>
-      <Dest>我们怎么做才可以解救它的名声?</Dest>
-    </String>
-    <String List="0">
-      <Source>Few things in life do.</Source>
-      <Dest>在生活中要做的几件事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Few things in life do.</Source>
-      <Dest>在生活中要做的几件事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Few things in life do.</Source>
-      <Dest>在生活中要做的几件事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>First, pay me for the delivery. Then we'll see about other work.</Source>
-      <Dest>首先，把送货的钱给我，然后我们再来谈谈其他的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>First, pay me for the delivery. Then we'll see about other work.</Source>
-      <Dest>首先，把送货的钱给我，然后我们再来谈谈其他的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>I think I have what your friend is asking for. But it's going to cost you.</Source>
-      <Dest>我想我有你朋友想要的东西，但它不是免费的。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you come into possession of the Autumn Gale?</Source>
-      <Dest>你是如何获得深秋疾风的所有权的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you come into possession of the Autumn Gale?</Source>
-      <Dest>你是如何获得深秋疾风的所有权的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you come into possession of the Autumn Gale?</Source>
-      <Dest>你是如何获得深秋疾风的所有权的？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
-      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
-      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
-      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the crew? Did any of them survive?</Source>
-      <Dest>船员怎么样？有人幸存吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the crew? Did any of them survive?</Source>
-      <Dest>船员怎么样？有人幸存吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
-      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
-      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
-      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Herran asked me to deliver these potions to you.</Source>
-      <Dest>赫伦让我把这些药水带给你的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Herran asked me to deliver these potions to you.</Source>
-      <Dest>赫伦让我把这些药水带给你的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can retrieve it for you.</Source>
-      <Dest>我能帮你找回来。</Dest>
-    </String>
-    <String List="0">
-      <Source>I can retrieve it for you.</Source>
-      <Dest>我能帮你找回来。</Dest>
-    </String>
-    <String List="0">
-      <Source>I found a document in the wreck regarding a land lease.</Source>
-      <Dest>我在沉船里发现了一个有关土地租赁的文件。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about your family.</Source>
-      <Dest>告诉更多关于你家庭的事。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about your family.</Source>
-      <Dest>告诉更多关于你家庭的事。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about your family.</Source>
-      <Dest>告诉更多关于你家庭的事。.</Dest>
-    </String>
-    <String List="0">
-      <Source>How much is there left to salvage?</Source>
-      <Dest>还剩下有多少可以打捞。</Dest>
-    </String>
-    <String List="0">
-      <Source>How much is there left to salvage?</Source>
-      <Dest>还剩下有多少可以打捞。</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you have cargo on that ship?</Source>
-      <Dest>你有货物在那艘船上？</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you have cargo on that ship?</Source>
-      <Dest>你有货物在那艘船上？</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you have cargo on that ship?</Source>
-      <Dest>你有货物在那艘船上？</Dest>
-    </String>
-    <String List="0">
-      <Source>Did you have cargo on that ship?</Source>
-      <Dest>你有货物在那艘船上？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is the rest of your team able to dive?</Source>
-      <Dest>你队里的其他人能潜入吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is the rest of your team able to dive?</Source>
-      <Dest>你队里的其他人能潜入吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is the rest of your team able to dive?</Source>
-      <Dest>你队里的其他人能潜入吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is the rest of your team able to dive?</Source>
-      <Dest>你队里的其他人能潜入吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>That sounds rather unethical.</Source>
-      <Dest>这听起来相当不道德。</Dest>
-    </String>
-    <String List="0">
-      <Source>What doesn't make sense?</Source>
-      <Dest>什么是无意义的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What doesn't make sense?</Source>
-      <Dest>什么是无意义的？</Dest>
-    </String>
-    <String List="0">
-      <Source>What doesn't make sense?</Source>
-      <Dest>什么是无意义的？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm sorry for your loss.</Source>
-      <Dest>对你的不幸我很遗憾。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm sorry for your loss.</Source>
-      <Dest>对你的不幸我很遗憾。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think happened to the ship?</Source>
-      <Dest>你觉得那船发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think happened to the ship?</Source>
-      <Dest>你觉得那船发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think happened to the ship?</Source>
-      <Dest>你觉得那船发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think happened to the ship?</Source>
-      <Dest>你觉得那船发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think happened to the ship?</Source>
-      <Dest>你觉得那船发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What made the Autumn Gale so reliable?</Source>
-      <Dest>是什么让深秋疾风如此可靠的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Smart. It would still take a long time to purchase a ship, however.</Source>
-      <Dest>聪明。不过要买艘船也要一段时间吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Smart. It would still take a long time to purchase a ship, however.</Source>
-      <Dest>聪明。不过要买艘船也要一段时间吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there anything I can do to help?</Source>
-      <Dest>我可以帮上什么忙吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there anything I can do to help?</Source>
-      <Dest>我可以帮上什么忙吗？</Dest>
+    <String List="2">
+      <Source>Because I knew none of the recipients would ever bring it up. It's considered petty to start a quarrel over a handful of gold.</Source>
+      <Dest>因为知道没有一个收件人会提起它。因为少量的金币而吵起来这无疑会被认为小里小气的。</Dest>
     </String>
     <String List="0">
       <Source>What if the courier letter was urgent?</Source>
       <Dest>万一那个信使在送的是急件怎么办？</Dest>
     </String>
     <String List="2">
-      <Source>Yes, I did lose a fair share of capital when the ship went down. Luckily, I've got the boat insured by a very wealthy Thane.</Source>
-      <Dest>当然，那艘船沉没的时候我损失了不少资产。可幸运的是我已经在一个相当富有的男爵那里为它买过了保险。.</Dest>
+      <Source>Then all they had to do was pay the fee. I couldn't start making exceptions for people. In the end, pretty much all of them did.</Source>
+      <Dest>那他们就只能付钱啰。我可不能为个别人而坏了规矩。并且一般来说，他们都会付钱的。</Dest>
     </String>
-    <String List="2">
-      <Source>Well, there's Peracles, over by the crates. He's talented, but lazy. But it's hard to build a work ethic when everything comes easy.</Source>
-      <Dest>嗯，那就是帕若克里，就是箱子那边那个。他是个天才，可惜太懒。但是当手里的活都很容易的时候也很难说什么职业道德。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not a single one. A great tragedy indeed. How am I ever going to replace such cheap and skilled labor?</Source>
-      <Dest>一个人也没有了。这确实是一个巨大的悲剧。我怎么能替换如此廉价而熟练的劳工呢?</Dest>
-    </String>
-    <String List="2">
-      <Source>Because I knew none of the recipients would ever bring it up. It's considered petty to start a quarrel over a handful of gold.</Source>
-      <Dest>因为知道没有一个收件人会提起它。因为少量的金币而吵起来这无疑会被认为小里小气的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I got bit by a slaughterfish on the last dive. Nearly snapped my arm in two. I'm still not sure how it held together.</Source>
-      <Dest>我被最后跳起的那条食人鱼咬了一口。它几乎把我的胳膊咬成两截。我仍不确定我这条胳膊怎么还能连在一起。</Dest>
-    </String>
-    <String List="2">
-      <Source>As much as I despise interest, well, when I'm the one paying it, there was really no other way.</Source>
-      <Dest>像我一样如此鄙视利息这种东西，嗯哼，就是说当我要付它的时候，这还真是没什么可以选择的了。</Dest>
-    </String>
-    <String List="2">
-      <Source>First one is, make a profit. Second rule has to do with customers being right or something.</Source>
-      <Dest>最重要的，是得赚到钱。第二个规定就是听顾客的话或其他的。</Dest>
-    </String>
-    <String List="2">
-      <Source>First one is, make a profit. Second rule has to do with customers being right or something.</Source>
-      <Dest>最重要的，是得赚到钱。第二个规定就是听顾客的话或其他的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Eventually I earned enough money to start my own shipping and delivery business.</Source>
-      <Dest>最终我挣了足够的钱，开了一家自己的快递公司。 </Dest>
-    </String>
-    <String List="2">
-      <Source>You get that log for me, and I'll toss in a little gold too.</Source>
-      <Dest>你为我拿到那个日志了，我也会给你一些金币的。</Dest>
-    </String>
-    <String List="2">
-      <Source>True, child, very true. But the Autumn Gale was an exception! 77 times it swam through the Sea of Ghosts, safely to the northern shore.</Source>
-      <Dest>对，孩子，非常对。但深秋疾风是个例外！它 77次的游过了幽灵之海，安全到达了北海岸。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>If they refused to pay my fee, I opened the letter and sold the information to someone else.</Source>
-      <Dest>如果他们拒绝向我付钱，我就会拆开这封信并把里面的信息卖给别的什么人。</Dest>
-    </String>
-    <String List="2">
-      <Source>I had a run-in with a slaughterfish during my last dive. Thing nearly snapped my arm off. I can't really swim or do much of anything right now.</Source>
-      <Dest>在我最后一次潜水的过程中，被食人鱼咬了一口。那畜生几乎咬断了我的胳膊。我现在不能游泳，也不能做任何事。</Dest>
-    </String>
-    <String List="2">
-      <Source>I must be mad, if the news of the Autumn Gale is true. I must be touched by Sheogorath himself, to think that ship could not find its way to shore!</Source>
-      <Dest>我肯定是疯了。如果这个深秋疾风的消息是真的。希奥格拉丝在上，我铁定会被感动的，然后认为船只找不到去往岸边的路！</Dest>
-    </String>
-    <String List="2">
-      <Source>Actually, as far as cargo goes, I've checked everything off my list save for the Captain's log.</Source>
-      <Dest>实际上，等货物一离岸，我就将我的清单与船长的日志进行了核对。</Dest>
-    </String>
-    <String List="2">
-      <Source>A lease agreement of some kind. Hopefully it's locked up in a chest somewhere, otherwise I doubt we can recover it.</Source>
-      <Dest>某种租赁协议。希望它被好好的锁在了金库的某个地方，否则我估计我们就能找回它了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, you mean my emotional loss! Ha, yes, I'm going to feel that for some time.</Source>
-      <Dest>哦，你想说我无情吗！哈，是啊，我这样有些日子了。</Dest>
-    </String>
-    <String List="2">
-      <Source>If anything, he should've sent health potions.</Source>
-      <Dest>否则，他应该送治疗药水过来的。</Dest>
-    </String>
-    <String List="2">
-      <Source>And more importantly, the reputation of my business.</Source>
-      <Dest>更重要的是，我在生意场上的信誉。</Dest>
-    </String>
-    <String List="2">
-      <Source>By delivering her cargo. You see, the Autumn Gale has never missed a delivery in all her years of service.</Source>
-      <Dest>通过她提供货物。你要知道，深秋疾风一整年都没有错过一次送货服务。</Dest>
-    </String>
-    <String List="2">
-      <Source>But you look like you've done some diving in your lifetime. Maybe you could go down and look for it. </Source>
-      <Dest>但似乎你的一生中【潜水过很多次】。或许你可以试着去找它。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes? Is there something you need?</Source>
-      <Dest>嗯哼？你有什么需要吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Blue-Throat is the middle child. He doesn't like to talk to people, so it's best to give him his space.</Source>
-      <Dest>蓝喉在三个孩子之中排行老二。他不喜欢和别人说话，所以最好给他自己的空间。</Dest>
-    </String>
-    <String List="2">
-      <Source>Tell you what, you find anything, I'll give you a share of the salvaging fee.</Source>
-      <Dest>我跟你说啊，不论你找什么了什么东西，我都会给你一份抢救费用的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know about that. Children tend to disappoint you. The Autumn Gale never did. At least...until this recent turn of events.</Source>
-      <Dest>我不知道。孩子们往往令你失望。深秋疾风永远不会这么做。至少…到目前为止。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, not cargo. But I did lose family. The Autumn Gale was my ship, and I loved her like a daughter!</Source>
-      <Dest>不，不是货物。但我却失去了家人。深秋疾风是我的船，但我把她当做我的女儿一般疼爱！</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, I just needed enough for the down payment. The rest I borrowed.</Source>
-      <Dest>喔，我只是需要凑足首付钱。剩下的部分我得借。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hopefully you've brought some good news?</Source>
-      <Dest>希望你带来了一些好消息？</Dest>
-    </String>
-    <String List="2">
-      <Source>77 times through mighty storms and restless seas, it never failed to reach port. </Source>
-      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
-    </String>
-    <String List="2">
-      <Source>77 times through mighty storms and restless seas, it never failed to reach port. </Source>
-      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
-    </String>
-    <String List="2">
-      <Source>77 times through mighty storms and restless seas, it never failed to reach port. </Source>
-      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
-    </String>
-    <String List="2">
-      <Source>Use the potions if need be. If you manage to find anything, I'll give you a share of the salvaging fee.</Source>
-      <Dest>必要的话用些药水吧。如果你真的找到什么东西，我会给你一些报酬的.</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, a land lease! That sounds exactly like the thing this lad is looking for!</Source>
-      <Dest>对，地契！这名字听着绝对是那小伙子要找的东西！</Dest>
-    </String>
-    <String List="2">
-      <Source>By being shrewd. I used to be a lowly courier, but then I got an idea to charge the people I was delivering to, by claiming the sender hadn't paid.</Source>
-      <Dest>精明点儿就行。我曾经是一个地位卑微的送信员，但之后我灵光乍现，想到了向收信人收费的法子，只要骗他们说送信人没付钱就成。</Dest>
-    </String>
-    <String List="2">
-      <Source>Divines only know. The wreckage is too far down the trench to offer any clues. But while we can't salvage the ship, we can salvage her reputation.</Source>
-      <Dest>大概只有圣灵才知道吧。残骸沉没的海沟太远了，不能提供任何线索。但我们可以打捞沉船，我们可以挽救她的声誉。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I'm at a loss! None of this makes a damn bit of sense!</Source>
-      <Dest>行吧，我真是云里雾里了！这些事儿根本狗屁不通啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Fortunately, I hadn't paid them their wages for the last few months. That takes some of the sting out of it.</Source>
-      <Dest>幸运的是，我没有给他们支付酬劳几个月了。他们只能郁郁不已。</Dest>
+    <String List="0">
+      <Source>That sounds rather unethical.</Source>
+      <Dest>这听起来相当不道德。</Dest>
     </String>
     <String List="2">
       <Source>Unethical? Oh no, there's no such thing in business. I think the word you're looking for is "inspiring."</Source>
       <Dest>不道德？哦，不，在工作上没有这种事，我认为你应该说的是：“鼓舞人心”。</Dest>
     </String>
+    <String List="0">
+      <Source>I'm sorry for your loss.</Source>
+      <Dest>对你的不幸我很遗憾。</Dest>
+    </String>
     <String List="2">
-      <Source>Waterbreathing potions? Poor Herran must've forgotten Argonians have no use for such things.</Source>
-      <Dest>水下呼吸药剂? 可怜的赫伦肯定已经忘了亚龙人用不着这样的东西了.</Dest>
+      <Source>Yes, I did lose a fair share of capital when the ship went down. Luckily, I've got the boat insured by a very wealthy Thane.</Source>
+      <Dest>当然，那艘船沉没的时候我损失了不少资产。可幸运的是我已经在一个相当富有的男爵那里为它买过了保险。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry for your loss.</Source>
+      <Dest>对你的不幸我很遗憾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you mean my emotional loss! Ha, yes, I'm going to feel that for some time.</Source>
+      <Dest>哦，你想说我无情吗！哈，是啊，我这样有些日子了。</Dest>
+    </String>
+    <String List="0">
+      <Source>No piece of wood can compare to the joy of having children.</Source>
+      <Dest>没有什么事能与拥有孩子的快乐相比了</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know about that. Children tend to disappoint you. The Autumn Gale never did. At least...until this recent turn of events.</Source>
+      <Dest>我不知道。孩子们往往令你失望。深秋疾风永远不会这么做。至少…到目前为止。</Dest>
+    </String>
+    <String List="0">
+      <Source>No piece of wood can compare to the joy of having children.</Source>
+      <Dest>没有什么事能与拥有孩子的快乐相比了</Dest>
+    </String>
+    <String List="2">
+      <Source>First one is, make a profit. Second rule has to do with customers being right or something.</Source>
+      <Dest>最重要的，是得赚到钱。第二个规定就是听顾客的话或其他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too distressed about it.</Source>
+      <Dest>你貌似不是很难过。</Dest>
+    </String>
+    <String List="2">
+      <Source>First rule of business. You can cry, but never let them see your tears. Actually, that's the third rule. </Source>
+      <Dest>我们这行当的不二法则。你可以哭，但决不让人看见你的眼泪。事实上，这第三项规则。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem too distressed about it.</Source>
+      <Dest>你貌似不是很难过。</Dest>
+    </String>
+    <String List="2">
+      <Source>First one is, make a profit. Second rule has to do with customers being right or something.</Source>
+      <Dest>最重要的，是得赚到钱。第二个规定就是听顾客的话或其他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you have cargo on that ship?</Source>
+      <Dest>你有货物在那艘船上？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not cargo. But I did lose family. The Autumn Gale was my ship, and I loved her like a daughter!</Source>
+      <Dest>不，不是货物。但我却失去了家人。深秋疾风是我的船，但我把她当做我的女儿一般疼爱！</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you have cargo on that ship?</Source>
+      <Dest>你有货物在那艘船上？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you come into possession of the Autumn Gale?</Source>
+      <Dest>你是如何获得 the Autumn Gale 的所有权的？</Dest>
+    </String>
+    <String List="2">
+      <Source>By being shrewd. I used to be a lowly courier, but then I got an idea to charge the people I was delivering to, by claiming the sender hadn't paid.</Source>
+      <Dest>精明点儿就行。我曾经是一个地位卑微的送信员，但之后我灵光乍现，想到了向收信人收费的法子，只要骗他们说送信人没付钱就成。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you have cargo on that ship?</Source>
+      <Dest>你有货物在那艘船上？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you come into possession of the Autumn Gale?</Source>
+      <Dest>你是如何获得 the Autumn Gale 的所有权的？</Dest>
+    </String>
+    <String List="2">
+      <Source>If they refused to pay my fee, I opened the letter and sold the information to someone else.</Source>
+      <Dest>如果他们拒绝向我付钱，我就会拆开这封信并把里面的信息卖给别的什么人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you have cargo on that ship?</Source>
+      <Dest>你有货物在那艘船上？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you come into possession of the Autumn Gale?</Source>
+      <Dest>你是如何获得 the Autumn Gale 的所有权的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Eventually I earned enough money to start my own shipping and delivery business.</Source>
+      <Dest>最终我挣了足够的钱，开了一家自己的快递公司。 </Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think happened to the ship?</Source>
+      <Dest>你觉得那船发生了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Divines only know. The wreckage is too far down the trench to offer any clues. But while we can't salvage the ship, we can salvage her reputation.</Source>
+      <Dest>大概只有圣灵才知道吧。残骸沉没的海沟太远了，不能提供任何线索。但我们可以打捞沉船，我们可以挽救她的声誉。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think happened to the ship?</Source>
+      <Dest>你觉得那船发生了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>And more importantly, the reputation of my business.</Source>
+      <Dest>更重要的是，我在生意场上的信誉。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think happened to the ship?</Source>
+      <Dest>你觉得那船发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>How do we salvage its reputation?</Source>
+      <Dest>我们怎么做才可以解救它的名声?</Dest>
+    </String>
+    <String List="2">
+      <Source>By delivering her cargo. You see, the Autumn Gale has never missed a delivery in all her years of service.</Source>
+      <Dest>通过她提供货物。你要知道，深秋疾风一整年都没有错过一次送货服务。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think happened to the ship?</Source>
+      <Dest>你觉得那船发生了什么事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there anything I can do to help?</Source>
+      <Dest>我可以帮上什么忙吗？</Dest>
     </String>
     <String List="2">
       <Source>Ah, I love young people who are motivated to work! You can start by delivering these supplies to the salvage team. </Source>
       <Dest>啊，我喜欢勤奋工作的年轻人！你可以先把这些补给品给打捞队送去。</Dest>
     </String>
-    <String List="2">
-      <Source>Is that what Herran told you? That sneaky rat. Tell you what, why don't you keep the potions as collateral.</Source>
-      <Dest>是赫伦跟你讲的吗？那只老狐狸。他都说了什么，为什么不把这些药水留下来做抵押吗。</Dest>
+    <String List="0">
+      <Source>What do you think happened to the ship?</Source>
+      <Dest>你觉得那船发生了什么事？</Dest>
     </String>
-    <String List="2">
-      <Source>Good craftsmanship, and a damn good captain. Torald Ice-Wind knew the ocean like a sheep knows wool.</Source>
-      <Dest>技术卓绝，也是个该死的好船长。对泰罗德·冰风来说，大海就如同他家的后花园。</Dest>
-    </String>
-    <String List="2">
-      <Source>The shipwreck of the Autumn Gale. The ship that couldn't be sank. That immortal vessel whose mast was the backbone of Kyne!</Source>
-      <Dest>深秋疾风号的船骸。永不沉没之船。那艘不朽之船，它的船桅就是凯娜的脊梁！</Dest>
+    <String List="0">
+      <Source>Is there anything I can do to help?</Source>
+      <Dest>我可以帮上什么忙吗？</Dest>
     </String>
     <String List="2">
       <Source>Here. Take this to the leader of the team, Utei. She will handle your payment.</Source>
       <Dest>来。拿着这个，给领队尤太。她会给你报酬的。</Dest>
     </String>
     <String List="2">
+      <Source>I had a run-in with a slaughterfish during my last dive. Thing nearly snapped my arm off. I can't really swim or do much of anything right now.</Source>
+      <Dest>在我最后一次潜水的过程中，被食人鱼咬了一口。那畜生几乎咬断了我的胳膊。我现在不能游泳，也不能做任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can retrieve it for you.</Source>
+      <Dest>我能帮你找回来。</Dest>
+    </String>
+    <String List="2">
       <Source>You can? Ha, old Herran finally sent me something useful after all, albeit unintentionally.</Source>
       <Dest>你可以做到？哈，尽管并非出自他本意，但老赫伦终于还是给我送来了个有用的东西。</Dest>
     </String>
-    <String List="2">
-      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
-      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+    <String List="0">
+      <Source>I can retrieve it for you.</Source>
+      <Dest>我能帮你找回来。</Dest>
     </String>
     <String List="2">
-      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
-      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+      <Source>Tell you what, you find anything, I'll give you a share of the salvaging fee.</Source>
+      <Dest>我跟你说啊，不论你找什么了什么东西，我都会给你一份抢救费用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>First, pay me for the delivery. Then we'll see about other work.</Source>
+      <Dest>首先，把送货的钱给我，然后我们再来谈谈其他的事。</Dest>
     </String>
     <String List="2">
-      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
-      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+      <Source>Is that what Herran told you? That sneaky rat. Tell you what, why don't you keep the potions as collateral.</Source>
+      <Dest>是赫伦跟你讲的吗？那只老狐狸。他都说了什么，为什么不把这些药水留下来做抵押呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>First, pay me for the delivery. Then we'll see about other work.</Source>
+      <Dest>首先，把送货的钱给我，然后我们再来谈谈其他的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>You get that log for me, and I'll toss in a little gold too.</Source>
+      <Dest>你为我拿到那个日志了，我也会给你一些金币的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
+      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>My sons? Ha! I love them, but outside of maybe Peracles, they couldn't find the bottom of a puddle.</Source>
+      <Dest>My sons? Ha! I love them, but outside of maybe Peracles, they couldn't find the bottom of a puddle.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
+      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you look like you've done some diving in your lifetime. Maybe you could go down and look for it. </Source>
+      <Dest>但似乎你的一生中潜过很多次水。或许你可以试着去找它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your sons could get it. It'll be some valuable on the job training.</Source>
+      <Dest>你的孩子们会得到它，这对工作训练很有帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Use the potions if need be. If you manage to find anything, I'll give you a share of the salvaging fee.</Source>
+      <Dest>必要的话用些药水吧。如果你真的找到什么东西，我会给你一些报酬的.</Dest>
+    </String>
+    <String List="0">
+      <Source>How much is there left to salvage?</Source>
+      <Dest>还剩下有多少可以打捞。</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, as far as cargo goes, I've checked everything off my list save for the Captain's log.</Source>
+      <Dest>实际上，等货物一离岸，我就将我的清单与船长的日志进行了核对。</Dest>
+    </String>
+    <String List="0">
+      <Source>How much is there left to salvage?</Source>
+      <Dest>还剩下有多少可以打捞。</Dest>
+    </String>
+    <String List="2">
+      <Source>A lease agreement of some kind. Hopefully it's locked up in a chest somewhere, otherwise I doubt we can recover it.</Source>
+      <Dest>某种租赁协议。希望它被好好的锁在了金库的某个地方，否则我估计我们就能找回它了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the crew? Did any of them survive?</Source>
+      <Dest>船员怎么样？有人幸存吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not a single one. A great tragedy indeed. How am I ever going to replace such cheap and skilled labor?</Source>
+      <Dest>没有一人幸存。这确实是一个巨大的悲剧。那样廉价又娴熟的劳力我得上哪去重新找呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the crew? Did any of them survive?</Source>
+      <Dest>船员怎么样？有人幸存吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fortunately, I hadn't paid them their wages for the last few months. That takes some of the sting out of it.</Source>
+      <Dest>幸运的是，我没有给他们支付酬劳几个月了。他们只能郁郁不已。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made the Autumn Gale so reliable?</Source>
+      <Dest>是什么让深秋疾风如此可靠的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Good craftsmanship, and a damn good captain. Torald Ice-Wind knew the ocean like a sheep knows wool.</Source>
+      <Dest>技术卓绝，也是个该死的好船长。对泰罗德·冰风来说，大海就如同他家的后花园。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why health potions?</Source>
+      <Dest>为什么是疗伤药？</Dest>
+    </String>
+    <String List="2">
+      <Source>I got bit by a slaughterfish on the last dive. Nearly snapped my arm in two. I'm still not sure how it held together.</Source>
+      <Dest>我被最后跳起的那条食人鱼咬了一口。它几乎把我的胳膊咬成两截。我仍不确定我这条胳膊怎么还能连在一起。</Dest>
+    </String>
+    <String List="0">
+      <Source>Herran asked me to deliver these potions to you.</Source>
+      <Dest>赫伦让我把这些药水带给你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Waterbreathing potions? Poor Herran must've forgotten Argonians have no use for such things.</Source>
+      <Dest>水下呼吸药剂？可怜的赫伦肯定已经忘了亚龙人用不着这样的东西了.</Dest>
+    </String>
+    <String List="0">
+      <Source>Herran asked me to deliver these potions to you.</Source>
+      <Dest>赫伦让我把这些药水带给你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If anything, he should've sent health potions.</Source>
+      <Dest>否则，他应该送治疗药水过来的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is the rest of your team able to dive?</Source>
+      <Dest>你队里的其他人能潜入吗？</Dest>
     </String>
     <String List="2">
       <Source>Team? You mean my sons? Oh, they're just here to get their feet wet. Although having them around does help with appearances.</Source>
       <Dest>队伍？你是说我的儿子们？噢，他们在这儿只是为了多加练习。虽然有他们陪在身边可挺有用的。</Dest>
     </String>
+    <String List="0">
+      <Source>Is the rest of your team able to dive?</Source>
+      <Dest>你队里的其他人能潜入吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about your family.</Source>
+      <Dest>告诉更多关于你家庭的事。.</Dest>
+    </String>
     <String List="2">
-      <Source>First rule of business. You can cry, but never let them see your tears. Actually, that's the third rule. </Source>
-      <Dest>我们这行当的不二法则。你可以哭，但决不让人看见你的眼泪。事实上，这第三项规则。</Dest>
+      <Source>Well, there's Peracles, over by the crates. He's talented, but lazy. But it's hard to build a work ethic when everything comes easy.</Source>
+      <Dest>嗯，那就是帕若克里，就是箱子那边那个。他是个天才，可惜太懒。但是当手里的活都很容易的时候也很难说什么职业道德。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is the rest of your team able to dive?</Source>
+      <Dest>你队里的其他人能潜入吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about your family.</Source>
+      <Dest>告诉更多关于你家庭的事。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Blue-Throat is the middle child. He doesn't like to talk to people, so it's best to give him his space.</Source>
+      <Dest>蓝喉在三个孩子之中排行老二。他不喜欢和别人说话，所以最好给他自己的空间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is the rest of your team able to dive?</Source>
+      <Dest>你队里的其他人能潜入吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about your family.</Source>
+      <Dest>告诉更多关于你家庭的事。.</Dest>
     </String>
     <String List="2">
       <Source>And lastly, my little hatchling, An-Ru, over by the fire. He's the youngest, but he doesn't like it if you baby him.</Source>
-      <Dest>最后，我的小宝贝,安卢,从火焰中孕育而生. 他是最年幼的, 但如果你把他当成婴儿他可是会不高兴的.</Dest>
+      <Dest>最后，我的小宝贝，安卢，从火焰中孕育而生。他是最年幼的, 但如果你把他当成婴儿他可是会不高兴的.</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>Well, it's going to cost him, not me. Just hold onto it, and let me work my magic.</Source>
-      <Dest>哈，那会消耗他，不是我。抓紧点，让我释放我的魔法。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="0">
-      <Source>I'll take the document to Herran.</Source>
-      <Dest>我将把文件带给赫伦.</Dest>
+      <Source>I think I have what your friend is asking for. But it's going to cost you.</Source>
+      <Dest>我想我有你朋友想要的东西，但它不是免费的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it's going to cost him, not me. Just hold onto it, and let me work my magic.</Source>
+      <Dest>哈，那会消耗他，不是我。抓紧点，让我释放我的魔法。</Dest>
     </String>
     <String List="0">
-      <Source>I appreciate the offer, but I'll have to pass.</Source>
-      <Dest>我很感激这个提议，但是我还是选择放弃。.</Dest>
+      <Source>I found a document in the wreck regarding a land lease.</Source>
+      <Dest>我在残骸里发现了一个文件有关土地租赁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, a land lease! That sounds exactly like the thing this lad is looking for!</Source>
+      <Dest>对，地契！这名字听着绝对是那小伙子要找的东西！</Dest>
     </String>
     <String List="0">
-      <Source>I appreciate the offer, but I'll have to pass.</Source>
-      <Dest>我很感激这个提议，但是我还是选择放弃。.</Dest>
+      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
+      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
+    </String>
+    <String List="2">
+      <Source>I must be mad, if the news of the Autumn Gale is true. I must be touched by Sheogorath himself, to think that ship could not find its way to shore!</Source>
+      <Dest>我肯定是疯了。如果这个关于深秋疾风号的消息是真的。希奥格拉丝在上，我铁定会被感动的，那可怜的孩子一定是迷路了！</Dest>
+    </String>
+    <String List="0">
+      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
+      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port.</Source>
+      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port.</Source>
+      <Dest>它77次从狂暴的飓风和汹涌的大海中穿行而出，永远都能安全回港。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's because you're mad. It makes sense to the rest of us.</Source>
+      <Dest>那是因为你脑袋不清楚！我们都觉得这很合理。</Dest>
+    </String>
+    <String List="2">
+      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
+      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+    </String>
+    <String List="0">
+      <Source>What doesn't make sense?</Source>
+      <Dest>什么是无意义的？</Dest>
+    </String>
+    <String List="2">
+      <Source>The shipwreck of the Autumn Gale. The ship that couldn't be sank. That immortal vessel whose mast was the backbone of Kyne!</Source>
+      <Dest>深秋疾风号的船骸。永不沉没之船。那艘不朽之船，它的船桅就是凯娜的脊梁！</Dest>
+    </String>
+    <String List="0">
+      <Source>What doesn't make sense?</Source>
+      <Dest>什么是无意义的？</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port.</Source>
+      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port.</Source>
+      <Dest>它77次从狂暴的飓风和汹涌的大海中穿行而出，永远都能安全回港。</Dest>
+    </String>
+    <String List="0">
+      <Source>What doesn't make sense?</Source>
+      <Dest>什么是无意义的？</Dest>
+    </String>
+    <String List="2">
+      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
+      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+    </String>
+    <String List="0">
+      <Source>Few things in life do.</Source>
+      <Dest>在生活中要做的几件事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>True, child, very true. But the Autumn Gale was an exception! 77 times it swam through the Sea of Ghosts, safely to the northern shore.</Source>
+      <Dest>对，孩子，非常对。但深秋疾风号是个例外！它越过了幽灵之海，安全到达了北海岸，整整77次啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Few things in life do.</Source>
+      <Dest>在生活中要做的几件事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port. </Source>
+      <Dest>77次挺过狂风巨浪，鱼跃穿梭于暗流汹涌的大海中，它总能安全靠岸。</Dest>
+    </String>
+    <String List="2">
+      <Source>77 times through mighty storms and restless seas, it never failed to reach port. </Source>
+      <Dest>它77次从狂暴的飓风和汹涌的大海中穿行而出，永远都能安全回港。</Dest>
+    </String>
+    <String List="0">
+      <Source>Few things in life do.</Source>
+      <Dest>在生活中要做的几件事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>But somehow, on the 78th, on a clear day with a steady wind, it sank to the bottom of Pilgrim's Trench.</Source>
+      <Dest>但不知为何，在第78天，一个风和日丽的日子里，它沉入了朝圣者战壕的水底。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm at a loss! None of this makes a damn bit of sense!</Source>
+      <Dest>行吧，我真是云里雾里了！这些事儿根本狗屁不通啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes? Is there something you need?</Source>
+      <Dest>恩哼？你有什么需要吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hopefully you've brought some good news?</Source>
+      <Dest>希望你带来了一些好消息？</Dest>
     </String>
     <String List="0">
       <Source>It's not that far a walk back to Winterhold, you know.</Source>
       <Dest>要知道，步行回冬堡也没那么远。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's not that far a walk back to Winterhold, you know.</Source>
-      <Dest>要知道，步行回冬堡也没那么远。</Dest>
-    </String>
-    <String List="0">
-      <Source>I found the lease agreement.</Source>
-      <Dest>我同意这份租约。</Dest>
-    </String>
-    <String List="0">
-      <Source>I found the lease agreement.</Source>
-      <Dest>我同意这份租约。</Dest>
-    </String>
-    <String List="0">
-      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
-      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
-    </String>
-    <String List="0">
-      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
-      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
-    </String>
-    <String List="0">
-      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
-      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
-    </String>
-    <String List="0">
-      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
-      <Dest>名字用不着换，反正马卡斯的阿雷夫父子里也是既没有阿雷夫也没有儿子的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
-      <Dest>名字用不着换，反正马卡斯的阿雷夫父子里也是既没有阿雷夫也没有儿子的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
-      <Dest>名字用不着换，反正马卡斯的阿雷夫父子里也是既没有阿雷夫也没有儿子的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, there is a special fee that's part of our express delivery service.</Source>
-      <Dest>当然，我们的快递服务会收取一笔特殊的费用。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope you're joking. Because if you're looking to kidnap my sons, then you'll have to go through me first.</Source>
-      <Dest>我希望你是在开玩笑。因为如果你想绑架我的儿子， 那么你得先过我这关。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't worry lad, the Autumn Gale never fails to deliver. That's a promise.</Source>
-      <Dest>别担心，孩子深秋疾风从不会【快递】失败。 说到做到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I never said they'd be in perfect condition. Although if you're unsatisfied, I may consider refunding a portion of the payment.</Source>
-      <Dest>嗯，我可从没说过他们会应该会变成最完美的状态。如果你不满意，我可以考虑退还一部分的付款。</Dest>
-    </String>
-    <String List="2">
-      <Source>Alright boys, let's pack it up! We've got to get this to Dawnstar by week's end!</Source>
-      <Dest>好啦兄弟们，打包启程吧！我们这周之内一定要赶到晨星城！</Dest>
     </String>
     <String List="2">
       <Source>True, but that's not where we're headed, seeing as there's no carriage there. We're heading west to Dawnstar.</Source>
       <Dest>是啊，但我们不应该往那儿去，看起来那里可没有马车。我们向西去晨星城吧。</Dest>
     </String>
-    <String List="2">
-      <Source>Hold that thought! It looks like my newest employee has returned.</Source>
-      <Dest>先别急着这么想！看来我最新加入的手下回来了。</Dest>
-    </String>
-    <String List="2">
-      <Source>But I guess the name "Utei and Sons" is apt. My job is being a mother. Salvaging's just a way to feed the little barnacles.</Source>
-      <Dest>但我看“尤太和儿子"这个名字挺合适的。我的职责是做好一个母亲。打捞只是用来喂养小藤壶的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Great. Here's your share of the salvaging fee. Let him know the rest of the cargo has been recovered.</Source>
-      <Dest>好极了。这是你的那份救援酬金。告诉他剩下的货物也被找回来了。</Dest>
+    <String List="0">
+      <Source>It's not that far a walk back to Winterhold, you know.</Source>
+      <Dest>要知道，步行回冬堡也没那么远。</Dest>
     </String>
     <String List="2">
       <Source>Here's your share of the salvaging fee. Maybe Herran will have something for you too, but he's a cheap little bastard, so I wouldn't count on it.</Source>
-      <Dest>这是你的【打捞费】分成。 可能赫伦也有东西要给你，不过他是个小穷鬼，我才不指望他。</Dest>
+      <Dest>这是你的打捞费分成。 可能赫伦也有东西要给你，不过他是个小穷鬼，我才不指望他。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll take the document to Herran.</Source>
+      <Dest>我将把文件带给赫伦.</Dest>
     </String>
     <String List="2">
-      <Source>You did? Splendid! I ought to add you to our team. We'll have to change the name though.</Source>
-      <Dest>你做到了？太棒了！我一定要拉你入队。不过我们必须先改个名字。</Dest>
+      <Source>Great. Here's your share of the salvaging fee. Let him know the rest of the cargo has been recovered.</Source>
+      <Dest>好极了。这是你的那份打捞酬金。告诉他剩下的货物也被找回来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
+      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
     </String>
     <String List="2">
-      <Source>Don't worry, I was only joking. You wouldn't want to babysit this trio anyway. They're a group only a mother could love.</Source>
-      <Dest>别担心，我只是开个玩笑。反正你也不会想要照看这三个人。他们是一群只有妈妈才会爱的家伙。</Dest>
+      <Source>I hope you're joking. Because if you're looking to kidnap my sons, then you'll have to go through me first.</Source>
+      <Dest>我希望你是在开玩笑。因为如果你想绑架我的儿子， 那么你得先过我这关。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
+      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
+    </String>
+    <String List="2">
+      <Source>Now if you're still interested in finishing the job, there's the matter of that document. It needs to get to Herran.</Source>
+      <Dest>好吧，如果你仍然想继续这份工作，这里有些文件，需要送到赫伦那里。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about "&lt;Alias=Player&gt; and Slaves?"</Source>
+      <Dest> "&lt;Alias=Player&gt; 和奴隶们怎么了？"</Dest>
+    </String>
+    <String List="2">
+      <Source>Otherwise, take your gold and leave.</Source>
+      <Dest>否则，带着你的金子走开.</Dest>
+    </String>
+    <String List="0">
+      <Source>&lt;Alias=Player&gt; and the Amazing Argonians has a nice ring to it.</Source>
+      <Dest>&lt;Alias=Player&gt; and the Amazing Argonians has a nice ring to it.</Dest>
     </String>
     <String List="2">
       <Source>It does, although I can't say there's any truth the word "amazing." Just ask my husband, ha-ha-ha!</Source>
       <Dest>就是那样, 即使我不能说实话说好极了." 你问我丈夫把，哈-哈-哈!</Dest>
     </String>
+    <String List="0">
+      <Source>&lt;Alias=Player&gt; and the Amazing Argonians has a nice ring to it.</Source>
+      <Dest>&lt;Alias=Player&gt; and the Amazing Argonians has a nice ring to it.</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
+      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
+      <Dest>名字用不着换，反正马卡斯的阿雷夫父子贸易商行里也是既没有阿雷夫也没有儿子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, not to mention my sons don't do any of the diving anyway!</Source>
+      <Dest>哈，千万别提我的儿子们不会潜水的事儿！</Dest>
+    </String>
+    <String List="0">
+      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
+      <Dest>名字用不着换，反正马卡斯的阿雷夫父子贸易商行里也是既没有阿雷夫也没有儿子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I guess the name "Utei and Sons" is apt. My job is being a mother. Salvaging's just a way to feed the little barnacles.</Source>
+      <Dest>但我看“尤太母子"这个名字挺合适的。我的职责是做好一个母亲。打捞只是用来喂养那些小藤壶的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Keep the name. Arnleif and Sons in Markarth has neither Arnleif nor sons.</Source>
+      <Dest>名字用不着换，反正马卡斯的阿雷夫父子贸易商行里也是既没有阿雷夫也没有儿子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
+      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
+    </String>
+    <String List="0">
+      <Source>I appreciate the offer, but I'll have to pass.</Source>
+      <Dest>我很感激这个提议，但是我还是选择放弃。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't worry, I was only joking. You wouldn't want to babysit this trio anyway. They're a group only a mother could love.</Source>
+      <Dest>别担心，我只是开个玩笑。反正你也不会想要照看这三个人。他们是一群只有妈妈才会爱的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>I appreciate the offer, but I'll have to pass.</Source>
+      <Dest>我很感激这个提议，但是我还是选择放弃。.</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
+      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found the lease agreement.</Source>
+      <Dest>我同意这份租约。</Dest>
+    </String>
+    <String List="2">
+      <Source>You did? Splendid! I ought to add you to our team. We'll have to change the name though.</Source>
+      <Dest>你做到了？太棒了！我一定要拉你入队。不过我们必须先改个名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found the lease agreement.</Source>
+      <Dest>我同意这份租约。</Dest>
+    </String>
+    <String List="2">
+      <Source>Utei and Sons won't really work if you're the one taking the lead.</Source>
+      <Dest>Utei and Sons won't really work if you're the one taking the lead.</Dest>
+    </String>
     <String List="2">
       <Source>I'll deliver it personally.</Source>
-      <Dest>我会私下把它送出去。</Dest>
-    </String>
-    <String List="2">
-      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
-      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
-    </String>
-    <String List="2">
-      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
-      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
-    </String>
-    <String List="2">
-      <Source>In any case, I'd like you to take this document back to Herran. This other cargo can be delayed, but documents like that tend to be time-sensitive.</Source>
-      <Dest>不论如何，我希望你能把这些文件带给赫伦。其他这些货物经得起等待，但这样的文件绝对不能耽搁。</Dest>
+      <Dest>我私底下会把它送出去的。</Dest>
     </String>
     <String List="2">
       <Source>Well lad, because you're such a valued customer, I went ahead and had my top agent expedite your request.</Source>
       <Dest>小伙子，因为你是我重要的客户，所以我想继续跟进并让我最好的代理人为你服务。</Dest>
     </String>
     <String List="2">
-      <Source>Otherwise, take your gold and leave.</Source>
-      <Dest>否则，带着你的金子走开.</Dest>
+      <Source>Of course, there is a special fee that's part of our express delivery service.</Source>
+      <Dest>当然，我们的快递服务会收取一笔特殊的费用。</Dest>
     </String>
     <String List="2">
-      <Source>Ha, not to mention my sons don't do any of the diving anyway!</Source>
-      <Dest>哈，千万别提我儿子不会潜水的事儿！</Dest>
+      <Source>Hold that thought! It looks like my newest employee has returned.</Source>
+      <Dest>先别急着这么想！看来我最新加入的手下回来了。</Dest>
     </String>
     <String List="2">
-      <Source>Now if you're still interested in finishing the job, there's the matter of that document. It needs to get to Herran.</Source>
-      <Dest>好吧，如果你仍然想继续这份工作，这里有些文件，需要送到赫伦那里。</Dest>
+      <Source>Oh, right. In that case, I suppose I should just keep the gold then, with the terms of our contract being fulfilled and all.</Source>
+      <Dest>Oh, right. In that case, I suppose I should just keep the gold then, with the terms of our contract being fulfilled and all.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I never said they'd be in perfect condition. Although if you're unsatisfied, I may consider refunding a portion of the payment.</Source>
+      <Dest>嗯，我可从没说过他们会应该会变成最完美的状态。如果你不满意，我可以考虑退还一部分的付款。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't worry lad, the Autumn Gale never fails to deliver. That's a promise.</Source>
+      <Dest>别担心，孩子。深秋疾风使命必达。说到做到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright boys, let's pack it up! We've got to get this to Dawnstar by week's end!</Source>
+      <Dest>好啦兄弟们，打包启程吧！我们这周之内一定要赶到晨星城！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

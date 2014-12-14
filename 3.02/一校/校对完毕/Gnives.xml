@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -8,1019 +8,1075 @@
   <Content>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你怎么知道那地方没被破坏过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你怎么知道那地方没被破坏过。</Dest>
-    </String>
-    <String List="0">
-      <Source>So it appears I'm the Guildmaster.</Source>
-      <Dest>这样看来，似乎我才是会长。</Dest>
-    </String>
-    <String List="0">
-      <Source>So it appears I'm the Guildmaster.</Source>
-      <Dest>这样看来，似乎我才是会长。</Dest>
-    </String>
-    <String List="0">
-      <Source>Nonsense. A step is just a step. Nothing more.</Source>
-      <Dest>荒唐。一步就一步。仅此而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>Nonsense. A step is just a step. Nothing more.</Source>
-      <Dest>荒唐。一步就一步。仅此而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>Nonsense. A step is just a step. Nothing more.</Source>
-      <Dest>荒唐。一步就一步。仅此而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>Nonsense. A step is just a step. Nothing more.</Source>
-      <Dest>荒唐。一步就一步。仅此而已。</Dest>
-    </String>
-    <String List="0">
-      <Source>How odd.  My friends tell me I'm the noisy one.</Source>
-      <Dest>真怪，我朋友都说我太吵。</Dest>
-    </String>
-    <String List="0">
-      <Source>What does a step tell you?</Source>
-      <Dest>一步能说明什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does a step tell you?</Source>
-      <Dest>一步能说明什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does a step tell you?</Source>
-      <Dest>一步能说明什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does a step tell you?</Source>
-      <Dest>一步能说明什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to escape?</Source>
-      <Dest>你是怎么逃出来的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to escape?</Source>
-      <Dest>你是怎么逃出来的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you manage to escape?</Source>
-      <Dest>你是怎么逃出来的？</Dest>
-    </String>
-    <String List="0">
-      <Source>True.  I am as noisy as they come.</Source>
-      <Dest>确实。他们一来我就有点儿人来疯。</Dest>
-    </String>
-    <String List="0">
-      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
-      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
-    </String>
-    <String List="0">
-      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
-      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
-    </String>
-    <String List="0">
-      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
-      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, born an assassin?</Source>
-      <Dest>你是什么意思，天生的刺客？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, marked with blood?</Source>
-      <Dest>你是什么意思，被血统所标记了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, marked with blood?</Source>
-      <Dest>你是什么意思，被血统所标记了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, marked with blood?</Source>
-      <Dest>你是什么意思，被血统所标记了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, marked with blood?</Source>
-      <Dest>你是什么意思，被血统所标记了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean, marked with blood?</Source>
-      <Dest>你是什么意思，被血统所标记了？</Dest>
-    </String>
-    <String List="0">
-      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
-      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
-      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
-      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
-      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you think of the Goldenglow job?</Source>
-      <Dest>你觉得金辉的工作怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your thoughts on what happened with Mercer?</Source>
-      <Dest>你对墨瑟发生在身上的事的想法是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you think of the extortion job?</Source>
-      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you think of the extortion job?</Source>
-      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did you think of the extortion job?</Source>
-      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who was this Ra'Zhir?</Source>
-      <Dest>这个拉'泽尔是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who was this Ra'Zhir?</Source>
-      <Dest>这个拉'泽尔是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who was this Ra'Zhir?</Source>
-      <Dest>这个拉'泽尔是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who was this Ra'Zhir?</Source>
-      <Dest>这个拉'泽尔是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
-      <Dest>你很幸运，割人喉咙比摸人口袋要有趣多了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
-      <Dest>你很幸运，割人喉咙比摸人口袋要有趣多了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
-      <Dest>你很幸运，割人喉咙比摸人口袋要有趣多了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Looks like Honningbrew mead is about to become a relic.</Source>
-      <Dest>看来蜂蜜酒地出产的蜜酒即将成为历史了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Looks like Honningbrew mead is about to become a relic.</Source>
-      <Dest>看来蜂蜜酒地出产的蜜酒即将成为历史了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened?</Source>
-      <Dest>发生什么事了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened?</Source>
-      <Dest>发生什么事了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened?</Source>
-      <Dest>发生什么事了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened?</Source>
-      <Dest>发生什么事了？</Dest>
-    </String>
-    <String List="2">
-      <Source>Ra'Zhir told this one he was an assassin of the Dark Brotherhood, a remnant of the Corinthe Sanctuary in Elsweyr.</Source>
-      <Dest>拉'泽尔告诉这个人他是黑暗兄弟会的刺客，艾斯维尔-寇林瑟圣所的残存者。</Dest>
-    </String>
-    <String List="2">
-      <Source>Its footsteps are like thunder, scaring the dust and making the floors scream for mercy.  Gnives does not think it is truly a cat.</Source>
-      <Dest>它的脚步如雷，使灰尘惊恐万分，让地板尖叫求饶。格尼福斯并不认为它是一只真正的猫。</Dest>
-    </String>
-    <String List="2">
-      <Source>But it does not live here, sleep here, or manage the day to day.  That one is who should make the decisions.</Source>
-      <Dest>可他不住这儿，不睡这儿，又不管理日常事物。那些应该是这个甩手掌柜该做的活儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Khajiit are similarly obsessive about their sweets and their skooma, and Gnives once killed a man over just such an argument.</Source>
-      <Dest>虎人同样对他们的甜点和斯库玛着迷。格尼福斯曾因为这种说法杀了一个人。</Dest>
-    </String>
-    <String List="2">
-      <Source>If it kills a hen, it will eat for one night.  Yet if it harvests her eggs, it will have food for many more.</Source>
-      <Dest>如果杀死了一只母鸡，这将成为一个晚上的食物，但若是收获母鸡的蛋，那会是不止一天的食物。</Dest>
-    </String>
-    <String List="2">
-      <Source>The sanctuary had been shut down by the Black Hand, and without a guild or a disciple, he said he wished to pass on his knowledge.</Source>
-      <Dest>圣所已被黑手关闭， 兄弟会与成员已不复存在，他说他想要把自己的知识流传下去。</Dest>
-    </String>
-    <String List="2">
-      <Source>That he did, although Gnives is not sure if he believes Delvin is the one who devised the language.  Delvin claims as much.</Source>
-      <Dest>这是他做的。虽然格尼福斯不确定是否应该相信戴尔文就是发明了那种语言的人。但戴尔文就是这么声称的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
-      <Dest>格尼福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
-      <Dest>格尼福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
-      <Dest>格尼福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>The guards released Gnives, and left the residence shaking their heads.  The wizard, confused, turned to his master.</Source>
-      <Dest>守卫们释放了格尼福斯，摇着头离开了这个住宅。这个术士面带疑惑的转向他的主人。</Dest>
-    </String>
-    <String List="2">
-      <Source>What fun is it if the victims simply hand Gnives the loot?  He prefers to smile and shake their hand, while the other cleans their pockets.</Source>
-      <Dest>如果受害者能老老实实的把自己的东西交给格尼福斯，那会多有趣？他更喜欢微笑着和他们握着手，而另一只手则去清空他们的钱包。</Dest>
-    </String>
-    <String List="2">
-      <Source>He taught this Khajiit the tools of the trade.  Mostly, how to listen.   How to find a single sound in a cacophony of noise.</Source>
-      <Dest>他教授这个虎人经商的诀窍。主要是如何去听，如何从嘈杂的环境中分辨出单个声音。</Dest>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>Its footsteps are like thunder, scaring the dust and making the floors scream for mercy.  Gnives already knows the visitor is not a cat.</Source>
-      <Dest>那雷鸣般的脚步声震退了尘土，让地板都哭号着乞求怜悯。格尼福斯已经知道来访者不是只猫。</Dest>
-    </String>
-    <String List="2">
-      <Source>The shadowmark allows thieves to speak through time, and communicate what lies behind each door.</Source>
-      <Dest>暗影标记让小偷们能够在任何时间段进行交流，并明白藏在每扇门背后的到底有什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ra'Zhir, on the other hand, gave this one nary a bite for his service.  So Gnives took the old cat's life and his coin before fleeing north.</Source>
-      <Dest>但是，从此时的拉'泽尔身上已经榨不出一点油水了。于是格奈夫斯在逃往北方之前拿走了那只老猫的钱并将他灭了口。</Dest>
-    </String>
-    <String List="2">
-      <Source>If he was tired or hungry, he wormed his way through the crowd outside the skooma huts, picking the pockets of those who had one too many.</Source>
-      <Dest>一旦他累了或者饿了，他就会挤进斯库玛小屋外面的人群里，从那些有钱人口袋里捞点钱出来。</Dest>
-    </String>
-    <String List="2">
-      <Source>In any event, the marks spoke to Gnives, and relayed what awaited him behind each door.</Source>
-      <Dest>无论如何，那些标记提醒了格尼福斯，并告诉他每扇门后都有什么在等着他。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet it was not all Gnives was taught.  Ra'Zhir showed this Khajiit how to read, how to charm, and even how to cook.</Source>
-      <Dest>但跟格尼福斯教的不一样。拉'泽尔给这个虎人展示了该如何读书，如何施展魅力，甚至如何做饭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet it was not all Gnives was taught.  Ra'Zhir showed this Khajiit how to read, how to charm, and even how to cook.</Source>
-      <Dest>但跟格尼福斯教的不一样。拉'泽尔给这个虎人展示了该如何读书，如何施展魅力，甚至如何做饭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives does not prefer one over the other, as they both require stealth and shadow.  He chooses to be a thief because it brings the most profit.</Source>
-      <Dest>格尼福斯没有偏重任一方面，因为他们都需求隐秘行动和阴影。他选择成为一个盗贼，因为那才会带来最大收益。</Dest>
-    </String>
-    <String List="2">
-      <Source>It moves, but it does not step.  The dust does not stir and the floor sleeps.  Gnives is surprised to learn it is not a cat.</Source>
-      <Dest>它在移动，却并未迈步。地板鸦雀无声连尘埃都未颤动。格尼福斯讶异地发现它不是一只猫。</Dest>
-    </String>
-    <String List="2">
-      <Source>On those nights, he would wander the village sands, waiting for the new sun to warm them.  He was drawn to the alleys, and the aroma of the moon.</Source>
-      <Dest>在那些夜晚，他会在村里的沙地上彷徨，等待新一天的太阳去温暖它。他把自己抛在阴暗的小巷里，迷醉于月亮糖的芬芳。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Gray Fox worked in Cyrodiil, did he not?  Are their doorframes not made of stone?  This one questions its sanity.</Source>
-      <Dest>灰狐在赛瑞迪尔工作过，对吗？他们的门槛不是石头做的？这个问题问得很合情合理嘛。</Dest>
-    </String>
-    <String List="2">
-      <Source>It did well to rough up the locals.  They need to know who is in charge.</Source>
-      <Dest>这可是结结实实把当地人教训了一顿。他们得知道到底谁才是老大。</Dest>
-    </String>
-    <String List="2">
-      <Source>It moves, but it does not step.  The dust does not stir and the floor sleeps.  Gnives knew it was a fellow cat.</Source>
-      <Dest>它移动时并没有任何动静。悄无声息。格尼福斯知道那家伙是只猫。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thieves carve these marks on the wooden frames of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
-      <Dest>小偷们把这样的标记雕刻在房子和建筑的木头框上，以此告诉其他人那背后隐藏着什么，无论是危险物，战利品，或者就是个栅栏。</Dest>
-    </String>
-    <String List="2">
-      <Source>It should not be proud of its failure.  Its noisy feet earn no gold, only the scorn of its brethren.</Source>
-      <Dest>失败可不是应该拿来自豪的东西。那嘈杂的脚步声挣不来一分钱，能得到的只有工会兄弟的轻蔑。</Dest>
-    </String>
-    <String List="2">
-      <Source>A whisper in a tavern, the rattle of a coin purse, a footstep in a crowd.  So much information in a single step.</Source>
-      <Dest>酒馆的私语，钱包里金币的响声，人群中的脚步声，迈下腿就有如此多的信息。</Dest>
-    </String>
-    <String List="2">
-      <Source>But it is hard to believe a man who claims his tail is as long as any Khajiit's, only it hangs between his legs and not his rear.</Source>
-      <Dest>一个人居然宣称自己的尾巴和虎人一样长，只不过人家的尾巴长在屁股上，而它的尾巴长在两腿之间......真是难以置信，</Dest>
-    </String>
-    <String List="2">
-      <Source>There are people in life who will do everything to help one succeed, and those who will only use him for their own success.</Source>
-      <Dest>有人一生中会为了帮一个人成功而做任何事，也有人只会利用这种人来满足自己的私欲。</Dest>
-    </String>
-    <String List="2">
-      <Source>There are people in life who will do everything to help one succeed, and those who will only use him for their own success.</Source>
-      <Dest>有人一生中会为了帮一个人成功而做任何事，也有人只会利用这种人来满足自己的私欲。</Dest>
-    </String>
-    <String List="2">
-      <Source>It may bark like a hound, but if its feet prowl, then it will find many a friend here.</Source>
-      <Dest>它的叫声是有点像狗，可是要是它放轻步子，就会找到许多朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some people prefer Honningbrew to Black-Briar, and will fight to the death with anyone who says otherwise.</Source>
-      <Dest>有些人比起黑荆棘来说更喜欢蜂蜜酒地，并且会和不同意自己看法的人死战到底。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives never liked that one. Never trust one that scowls when it should laugh.</Source>
-      <Dest>格尼福斯从不喜欢那家伙。永远不要信任一个两面三刀的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives did not protest.  He simply recommended that the Thane first check the contents of his safe before making such a hasty decision.</Source>
-      <Dest>格尼福斯并没有辩解。他只向领主建议，在如此草率决定之前，还请领主先检查一下自己的保险柜。</Dest>
-    </String>
-    <String List="2">
-      <Source>It turns out these people look exactly the same.</Source>
-      <Dest>结果是这些人长的一模一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>It turns out these people look exactly the same.</Source>
-      <Dest>结果是这些人长的一模一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was an ill omen, and Gnives' father was a superstitious cat.  The very sight of this one threw him into a rage.</Source>
-      <Dest>这不是个好兆头，而格尼福斯的父亲又是一只非常迷信的老猫。他一看到这，就会勃然大怒。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even its eyes fail it.  Has it not noticed the marks carved onto the doorframes?</Source>
-      <Dest>即使看一遍没有能发现什么。那难道没觉察刻在门框上的记号?</Dest>
-    </String>
-    <String List="2">
-      <Source>The honey from Goldenglow is the secret ingredient to Black-Briar Mead.  Burning the apiaries was necessary, but it will set production back.</Source>
-      <Dest>来自金辉庄园的蜂蜜是黑荆棘蜜酒的秘密配方。把蜂房点燃这步是不可避免的，但蜂蜜还可以缓慢增长回来。</Dest>
-    </String>
-    <String List="2">
-      <Source>None more so than on the anniversary of his wife's death.  On those days, Gnives learned to stay on his toes, and sometimes, walk on them.</Source>
-      <Dest>在他妻子的忌日之时尤为如此。在那些日子里，格尼福斯学会了垫着脚尖儿，有时候，就垫着脚尖儿走。</Dest>
-    </String>
-    <String List="2">
-      <Source>The step conveyed where a person was, where he was headed, and how anxious he was to get there.</Source>
-      <Dest>足迹能够说明这个人是什么样的，他要往哪儿去，还有他到这儿的时候到底有多焦虑。</Dest>
-    </String>
-    <String List="2">
-      <Source>The step conveyed where a person was, where he was headed, and how anxious he was to get there.</Source>
-      <Dest>足迹能够说明这个人是什么样的，他要往哪儿去，还有他到这儿的时候到底有多焦虑。</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened?</Source>
-      <Dest>发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened?</Source>
-      <Dest>发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened?</Source>
-      <Dest>发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened?</Source>
-      <Dest>发生了什么？</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
+    <String List="0">
+      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
+      <Dest>你很幸运，割喉咙比摸口袋感觉开心得多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives does not prefer one over the other, as they both require stealth and shadow.  He chooses to be a thief because it brings the most profit.</Source>
+      <Dest>奈福斯没有偏重任一方面，因为他们都需求隐秘行动和阴影。他选择成为一个盗贼，因为那才会带来最大收益。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
+      <Dest>你很幸运，割喉咙比摸口袋感觉开心得多。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it kills a hen, it will eat for one night.  Yet if it harvests her eggs, it will have food for many more.</Source>
+      <Dest>如果杀死了一只母鸡，这将成为一个晚上的食物，但若是收获母鸡的蛋，那会是不止一天的食物。</Dest>
+    </String>
+    <String List="0">
+      <Source>You were lucky. Slitting throats is way more fun than picking pockets.</Source>
+      <Dest>你很幸运，割喉咙比摸口袋感觉开心得多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ra'Zhir, on the other hand, gave this one nary a bite for his service.  So Gnives took the old cat's life and his coin before fleeing north.</Source>
+      <Dest>但是，从此时的拉'泽尔身上已经榨不出一点油水了。于是奈福斯在逃往北方之前拿走了那只老猫的钱并将他灭了口。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nonsense. A step is just a step. Nothing more.</Source>
+      <Dest>胡说。一步就一步。仅此而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>The step conveyed where a person was, where he was headed, and how anxious he was to get there.</Source>
+      <Dest>足迹能够说明这个人是什么样的，他要往哪儿去，还有他到这儿的时候到底有多焦虑。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nonsense. A step is just a step. Nothing more.</Source>
+      <Dest>胡说。一步就一步。仅此而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet it was not all Gnives was taught.  Ra'Zhir showed this Khajiit how to read, how to charm, and even how to cook.</Source>
+      <Dest>但跟奈福斯教的不一样。拉'泽尔给这个虎人展示了该如何读书，如何施展魅力，甚至如何做饭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nonsense. A step is just a step. Nothing more.</Source>
+      <Dest>胡说。一步就一步。仅此而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are people in life who will do everything to help one succeed, and those who will only use him for their own success.</Source>
+      <Dest>有人一生中会为了帮一个人成功而做任何事，也有人只会利用这种人来满足自己的私欲。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nonsense. A step is just a step. Nothing more.</Source>
+      <Dest>胡说。一步就一步。仅此而已。</Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out these people look exactly the same.</Source>
+      <Dest>结果是这些人长的一模一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does a step tell you?</Source>
+      <Dest>一个步骤告诉你什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>The step conveyed where a person was, where he was headed, and how anxious he was to get there.</Source>
+      <Dest>足迹能够说明这个人是什么样的，他要往哪儿去，还有他到这儿的时候到底有多焦虑。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does a step tell you?</Source>
+      <Dest>一个步骤告诉你什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet it was not all Gnives was taught.  Ra'Zhir showed this Khajiit how to read, how to charm, and even how to cook.</Source>
+      <Dest>但跟奈福斯教的不一样。拉'泽尔给这个虎人展示了该如何读书，如何施展魅力，甚至如何做饭。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does a step tell you?</Source>
+      <Dest>一个步骤告诉你什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>There are people in life who will do everything to help one succeed, and those who will only use him for their own success.</Source>
+      <Dest>有人一生中会为了帮一个人成功而做任何事，也有人只会利用这种人来满足自己的私欲。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does a step tell you?</Source>
+      <Dest>一个步骤告诉你什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out these people look exactly the same.</Source>
+      <Dest>结果是这些人长的一模一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Ra'Zhir?</Source>
+      <Dest>这个拉'泽尔是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ra'Zhir told this one he was an assassin of the Dark Brotherhood, a remnant of the Corinthe Sanctuary in Elsweyr.</Source>
+      <Dest>拉'泽尔告诉这个人他是黑暗兄弟会的刺客，艾斯维尔-寇林瑟圣所的残存者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Ra'Zhir?</Source>
+      <Dest>这个拉'泽尔是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>The sanctuary had been shut down by the Black Hand, and without a guild or a disciple, he said he wished to pass on his knowledge.</Source>
+      <Dest>圣所已被黑手关闭， 兄弟会与成员已不复存在，他说他想要把自己的知识流传下去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Ra'Zhir?</Source>
+      <Dest>这个拉'泽尔是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>He taught this Khajiit the tools of the trade.  Mostly, how to listen.   How to find a single sound in a cacophony of noise.</Source>
+      <Dest>他教授这个虎人经商的诀窍。主要是如何去听，如何从嘈杂的环境中分辨出单个声音。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Ra'Zhir?</Source>
+      <Dest>这个拉'泽尔是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>A whisper in a tavern, the rattle of a coin purse, a footstep in a crowd.  So much information in a single step.</Source>
+      <Dest>酒馆的私语，钱包里金币的响声，人群中的脚步声，迈下腿就有如此多的信息。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks?</Source>
+      <Dest>暗影标记?</Dest>
+    </String>
+    <String List="2">
+      <Source>Even its eyes fail it.  Has it not noticed the marks carved onto the doorframes?</Source>
+      <Dest>即使看一遍没有能发现什么。那难道没觉察刻在门框上的记号?</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks?</Source>
+      <Dest>暗影标记?</Dest>
+    </String>
+    <String List="2">
+      <Source>Or perhaps it has yet to decipher them.  Shadowmarks is the key, providing new and visiting thieves a guide to the coffers of Skyrim.  </Source>
+      <Dest>或许这记号已经被解译了。暗影标记就是钥匙，为那些天际省的新晋小贼们提供引导，告诉他们全天际省的保险箱的所在。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks?</Source>
+      <Dest>暗影标记?</Dest>
+    </String>
+    <String List="2">
+      <Source>The shadowmark allows thieves to speak through time, and communicate what lies behind each door.</Source>
+      <Dest>暗影标记让小偷们能够在任何时间段进行交流，并明白藏在每扇门背后的到底有什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks?</Source>
+      <Dest>暗影标记?</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
+      <Dest>奈福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean, born an assassin?</Source>
+      <Dest>你什么意思？天生的刺客？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives was the last of a litter of three, and slew the one who gave birth to him.  From that day his fur was marked with blood.</Source>
+      <Dest>Gnives was the last of a litter of three, and slew the one who gave birth to him.  From that day his fur was marked with blood.</Dest>
+    </String>
+    <String List="2">
+      <Source>It moves, but it does not step.  The dust does not stir and the floor sleeps.  Gnives is surprised to learn it is not a cat.</Source>
+      <Dest>它在移动，却并未迈步。地板鸦雀无声连尘埃都未颤动。奈福斯讶异地发现它不是一只猫。</Dest>
+    </String>
+    <String List="2">
+      <Source>It moves, but it does not step.  The dust does not stir and the floor sleeps.  Gnives knew it was a fellow cat.</Source>
+      <Dest>它移动时并没有任何动静。悄无声息。奈福斯知道那家伙是只猫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Its footsteps are like thunder, scaring the dust and making the floors scream for mercy.  Gnives does not think it is truly a cat.</Source>
+      <Dest>它的脚步如雷，使灰尘惊恐万分，让地板尖叫求饶。奈福斯并不认为它是一只真正的猫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Its footsteps are like thunder, scaring the dust and making the floors scream for mercy.  Gnives already knows the visitor is not a cat.</Source>
+      <Dest>那雷鸣般的脚步声震退了尘土，让地板都哭号着乞求怜悯。奈福斯已经知道来访者不是只猫。</Dest>
+    </String>
+    <String List="0">
+      <Source>How odd.  My friends tell me I'm the noisy one.</Source>
+      <Dest>真怪，我朋友说我太吵。</Dest>
+    </String>
+    <String List="2">
+      <Source>It may bark like a hound, but if its feet prowl, then it will find many a friend here.</Source>
+      <Dest>它的叫声是有点像狗，可是要是它放轻步子，就会找到许多朋友。</Dest>
+    </String>
+    <String List="0">
+      <Source>True.  I am as noisy as they come.</Source>
+      <Dest>确实。我就像他们来的那样嘈杂。</Dest>
+    </String>
+    <String List="2">
+      <Source>It should not be proud of its failure.  Its noisy feet earn no gold, only the scorn of its brethren.</Source>
+      <Dest>失败可不是应该拿来自豪的东西。那嘈杂的脚步声挣不来一分钱，能得到的只有工会兄弟的轻蔑。</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
+      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That he did, although Gnives is not sure if he believes Delvin is the one who devised the language.  Delvin claims as much.</Source>
+      <Dest>这是他做的。虽然奈福斯不确定是否应该相信戴尔文就是发明了那种语言的人。但戴尔文就是这么声称的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
+      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But it is hard to believe a man who claims his tail is as long as any Khajiit's, only it hangs between his legs and not his rear.</Source>
+      <Dest>一个人居然宣称自己的尾巴和虎人一样长，只不过人家的尾巴长在屁股上，而它的尾巴长在两腿之间......真是难以置信，</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
+      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any event, the marks spoke to Gnives, and relayed what awaited him behind each door.</Source>
+      <Dest>无论如何，那些标记提醒了奈福斯，并告诉他每扇门后都有什么在等着他。</Dest>
+    </String>
+    <String List="0">
+      <Source>I believe Delvin Mallory wrote Shadowmarks.</Source>
+      <Dest>我相信阴影标记这本书是戴尔文．马尔洛里写的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
+      <Dest>奈福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>This Khajiit is my honored guest, he railed, "and if you so much as damage a whisker, I will have every single one of your heads."</Source>
+      <Dest>This Khajiit is my honored guest, he railed, "and if you so much as damage a whisker, I will have every single one of your heads."</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>The guards released Gnives, and left the residence shaking their heads.  The wizard, confused, turned to his master.</Source>
+      <Dest>守卫们释放了奈福斯，摇着头离开了这个住宅。这个术士面带疑惑的转向他的主人。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought the safe was emptied yesterday, he said, "to help pay for last night's fete."</Source>
+      <Dest>I thought the safe was emptied yesterday, he said, "to help pay for last night's fete."</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not anymore, the Thane replied, tossing a gem to the wizard, "for our guest has been kind enough to fill it."</Source>
+      <Dest>Not anymore, the Thane replied, tossing a gem to the wizard, "for our guest has been kind enough to fill it."</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you manage to escape?</Source>
+      <Dest>你打算怎么逃跑？</Dest>
+    </String>
     <String List="2">
       <Source>The wizard called the guards and woke the Thane.  There had been reports of a thief in the area, and the guards speculated Gnives was the culprit.</Source>
-      <Dest>那巫师叫来了守卫并且叫醒了领主。 有消息说那片区域里出现过小偷,并且守卫猜测那人就是格尼福斯。</Dest>
+      <Dest>那巫师叫来了守卫并且叫醒了领主。 有消息说那片区域里出现过小偷,并且守卫猜测那人就是奈福斯。</Dest>
     </String>
     <String List="0">
-      <Source>How did you join the Thieves Guild?</Source>
-      <Dest>你是怎么加入盗贼公会的？</Dest>
+      <Source>How did you manage to escape?</Source>
+      <Dest>你打算怎么逃跑？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives did not protest.  He simply recommended that the Thane first check the contents of his safe before making such a hasty decision.</Source>
+      <Dest>奈福斯并没有辩解。他只向领主建议，在如此草率决定之前，还请领主先检查一下自己的保险柜。</Dest>
     </String>
     <String List="0">
-      <Source>How did you join the Thieves Guild?</Source>
-      <Dest>你是怎么加入盗贼公会的？</Dest>
+      <Source>How did you manage to escape?</Source>
+      <Dest>你打算怎么逃跑？</Dest>
+    </String>
+    <String List="2">
+      <Source>He glanced curiously at the wizard before rushing back upstairs.  When he returned, he screamed at the guards to let Gnives free.</Source>
+      <Dest>He glanced curiously at the wizard before rushing back upstairs.  When he returned, he screamed at the guards to let Gnives free.</Dest>
     </String>
     <String List="0">
-      <Source>How did you join the Thieves Guild?</Source>
-      <Dest>你是怎么加入盗贼公会的？</Dest>
+      <Source>What do you mean, marked with blood?</Source>
+      <Dest>你是什么意思，跟血一起被标记？</Dest>
+    </String>
+    <String List="2">
+      <Source>The manes of his fathers, his forefathers, all gray.  Only Gnives' flows like a river of blood.</Source>
+      <Dest>The manes of his fathers, his forefathers, all gray.  Only Gnives' flows like a river of blood.</Dest>
     </String>
     <String List="0">
-      <Source>How did you join the Thieves Guild?</Source>
-      <Dest>你是怎么加入盗贼公会的？</Dest>
+      <Source>What do you mean, marked with blood?</Source>
+      <Dest>你是什么意思，跟血一起被标记？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was an ill omen, and Gnives' father was a superstitious cat.  The very sight of this one threw him into a rage.</Source>
+      <Dest>这不是个好兆头，而奈福斯的父亲又是一只非常迷信的老猫。他一看到这，就会勃然大怒。</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on the other Guild members?</Source>
-      <Dest>对其他的工会成员，你有什么想法呢？</Dest>
+      <Source>What do you mean, marked with blood?</Source>
+      <Dest>你是什么意思，跟血一起被标记？</Dest>
+    </String>
+    <String List="2">
+      <Source>None more so than on the anniversary of his wife's death.  On those days, Gnives learned to stay on his toes, and sometimes, walk on them.</Source>
+      <Dest>在他妻子的忌日之时尤为如此。在那些日子里，奈福斯学会了垫着脚尖儿，某些时候，就保持着那个样子走。</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on the other Guild members?</Source>
-      <Dest>对其他的工会成员，你有什么想法呢？</Dest>
+      <Source>What do you mean, marked with blood?</Source>
+      <Dest>你是什么意思，跟血一起被标记？</Dest>
+    </String>
+    <String List="2">
+      <Source>On those nights, he would wander the village sands, waiting for the new sun to warm them.  He was drawn to the alleys, and the aroma of the moon.</Source>
+      <Dest>在那些夜晚，他会在村里的沙地上彷徨，等待新一天的太阳去温暖它。他把自己抛在阴暗的小巷里，迷醉于月亮糖的芬芳。</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on the other Guild members?</Source>
-      <Dest>对其他的工会成员，你有什么想法呢？</Dest>
+      <Source>What do you mean, marked with blood?</Source>
+      <Dest>你是什么意思，跟血一起被标记？</Dest>
+    </String>
+    <String List="2">
+      <Source>If he was tired or hungry, he wormed his way through the crowd outside the skooma huts, picking the pockets of those who had one too many.</Source>
+      <Dest>一旦他累了或者饿了，他就会挤进斯库玛小屋外面的人群里，从那些有钱人口袋里捞点钱出来。</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on the other Guild members?</Source>
-      <Dest>对其他的工会成员，你有什么想法呢？</Dest>
+      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
+      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Gray Fox worked in Cyrodiil, did he not?  Are their doorframes not made of stone?  This one questions its sanity.</Source>
+      <Dest>灰狐在赛瑞迪尔工作过，对吗？他们的门槛不是石头做的？这个问题问得很合情合理嘛。</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on the other Guild members?</Source>
-      <Dest>对其他的工会成员，你有什么想法呢？</Dest>
+      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
+      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thieves carve these marks on the wooden frames of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
+      <Dest>小偷们把这样的标记雕刻在房子和建筑的木头框上，以此告诉其他人那背后隐藏着什么，无论是危险物，战利品，或者就是个栅栏。</Dest>
     </String>
     <String List="0">
-      <Source>Is there anyone here I should stay clear of?</Source>
-      <Dest>这儿有谁是我需要避免接触的么？</Dest>
+      <Source>Shadowmarks. Written by the legendary Gray Fox.</Source>
+      <Dest>暗影标记。由传说中的灰狐所撰写。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
+      <Dest>奈福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
     </String>
     <String List="0">
-      <Source>Is there anyone here I should stay clear of?</Source>
-      <Dest>这儿有谁是我需要避免接触的么？</Dest>
+      <Source>So it appears I'm the Guildmaster.</Source>
+      <Dest>正如你看到的那样，我是公会大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives thinks Brynjolf would be the better choice, but he means no slight.  It is an excellent thief, a tremendous warrior, and a true leader.</Source>
+      <Dest>Gnives thinks Brynjolf would be the better choice, but he means no slight.  It is an excellent thief, a tremendous warrior, and a true leader.</Dest>
     </String>
     <String List="0">
-      <Source>Is there anyone here I should stay clear of?</Source>
-      <Dest>这儿有谁是我需要避免接触的么？</Dest>
+      <Source>So it appears I'm the Guildmaster.</Source>
+      <Dest>正如你看到的那样，我是公会大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>But it does not live here, sleep here, or manage the day to day.  That one is who should make the decisions.</Source>
+      <Dest>可他不住这儿，不睡这儿，又不管理日常事物。那些应该是这个甩手掌柜该做的活儿。</Dest>
     </String>
     <String List="0">
-      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
-      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+      <Source>What are your thoughts on what happened with Mercer?</Source>
+      <Dest>你对发生在墨瑟身上的事的想法是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives never liked that one. Never trust one that scowls when it should laugh.</Source>
+      <Dest>奈福斯从不喜欢那家伙。永远不要信任一个两面三刀的人。</Dest>
     </String>
     <String List="0">
-      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
-      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+      <Source>What did you think of the extortion job?</Source>
+      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
+    </String>
+    <String List="2">
+      <Source>It did well to rough up the locals.  They need to know who is in charge.</Source>
+      <Dest>这可是结结实实把当地人教训了一顿。他们得知道到底谁才是老大。</Dest>
     </String>
     <String List="0">
-      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
-      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+      <Source>What did you think of the extortion job?</Source>
+      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
+    </String>
+    <String List="2">
+      <Source>And to have power over another is a delicious morsel indeed.  Gnives used to enjoy such work.  Now he does not like it so much.  </Source>
+      <Dest>And to have power over another is a delicious morsel indeed.  Gnives used to enjoy such work.  Now he does not like it so much.  </Dest>
     </String>
     <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
+      <Source>What did you think of the extortion job?</Source>
+      <Dest>你对这敲诈勒索工作有什么想法？</Dest>
+    </String>
+    <String List="2">
+      <Source>What fun is it if the victims simply hand Gnives the loot?  He prefers to smile and shake their hand, while the other cleans their pockets.</Source>
+      <Dest>如果受害者能老老实实的把自己的东西交给奈福斯，那会多有趣？他更喜欢微笑着和他们握着手，而另一只手则去清空他们的钱包。</Dest>
     </String>
     <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
+      <Source>What did you think of the Goldenglow job?</Source>
+      <Dest>你觉得金辉的工作怎么样？</Dest>
     </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your ears are quite sensitive.</Source>
-      <Dest>你的耳朵很灵光啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
-      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
-      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
-      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
-    </String>
-    <String List="0">
-      <Source>When you are a master of stealth, even the wind envies your gait.</Source>
-      <Dest>当你成为一个潜行大师的时候，连风都会嫉妒你的步法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Obviously.  I just wanted to talk.  When I use stealth, you won't know it.</Source>
-      <Dest>显然我只是想聊聊天。如果我隐身了的话，你是看不到我的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Mercer seems upset.</Source>
-      <Dest>墨瑟貌似很烦恼。</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is it that you do around here?</Source>
-      <Dest>你在这附近做什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Karliah is one of us now.</Source>
-      <Dest>现在卡莉亚跟我们一伙了.</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened there?</Source>
-      <Dest>那儿发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened there?</Source>
-      <Dest>那儿发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened there?</Source>
-      <Dest>那儿发生了什么事？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did he ask of you?</Source>
-      <Dest>他要你做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did he ask of you?</Source>
-      <Dest>他要你做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did he ask of you?</Source>
-      <Dest>他要你做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did he ask of you?</Source>
-      <Dest>他要你做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What did he ask of you?</Source>
-      <Dest>他要你做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>You weren't deterred by the safe?</Source>
-      <Dest>那保险柜没阻止的了你吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You weren't deterred by the safe?</Source>
-      <Dest>那保险柜没阻止的了你吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>You weren't deterred by the safe?</Source>
-      <Dest>那保险柜没阻止的了你吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Sometimes I think I sneak more than I walk.</Source>
-      <Dest>有时候我觉得自己潜行的时间比走路还多。</Dest>
+    <String List="2">
+      <Source>The honey from Goldenglow is the secret ingredient to Black-Briar Mead.  Burning the apiaries was necessary, but it will set production back.</Source>
+      <Dest>来自金辉庄园的蜂蜜是黑荆棘蜜酒的秘密配方。把蜂房点燃这步是不可避免的，但蜂蜜还可以缓慢增长回来。</Dest>
     </String>
     <String List="0">
       <Source>Looks like Honningbrew mead is about to become a relic.</Source>
       <Dest>看来蜂蜜酒即将成为历史。</Dest>
     </String>
+    <String List="2">
+      <Source>Some people prefer Honningbrew to Black-Briar, and will fight to the death with anyone who says otherwise.</Source>
+      <Dest>有些人比起黑荆棘来说更喜欢蜂蜜酒地，并且会和不同意自己看法的人死战到底。</Dest>
+    </String>
     <String List="0">
-      <Source>I like to announce my presence so that all may bask in my glory.</Source>
-      <Dest>我喜欢高调宣布闪亮登场，让所有人沐浴在我的荣光之下。.</Dest>
+      <Source>Looks like Honningbrew mead is about to become a relic.</Source>
+      <Dest>看来蜂蜜酒即将成为历史。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Khajiit are similarly obsessive about their sweets and their skooma, and Gnives once killed a man over just such an argument.</Source>
+      <Dest>虎人同样对他们的甜点和斯库玛着迷。奈福斯曾因为这种说法杀了一个人。</Dest>
     </String>
     <String List="0">
-      <Source>Good news.  I'm a Nightingale.</Source>
-      <Dest>好消息。我是个夜莺！</Dest>
-    </String>
-    <String List="2">
-      <Source>It is not a Khajiit, so it depends on its eyes. It can only see what's in front.  But Gnives hears.</Source>
-      <Dest>它不是虎人 , 所以它依赖眼睛. 它只能看到自己身前的东西是什么。但格尼福斯能听到。</Dest>
-    </String>
-    <String List="2">
-      <Source>Delvin and Vipr love to talk, while Vekel and Brynjolf are eager to listen.</Source>
-      <Dest>戴尔文和维皮尔喜欢说话，威克尔和布林乔夫喜欢聆听。</Dest>
-    </String>
-    <String List="2">
-      <Source>Twenty paces to the east, a thief scratches his ears.  Fifty paces further, a beggar sighs and counts his coins.</Source>
-      <Dest>东面二十步开外，一个小贼正在抓耳挠腮。再远五十步的地方，有个乞丐在数着硬币叹着气。</Dest>
-    </String>
-    <String List="2">
-      <Source>Twenty paces to the east, a thief scratches his ears.  Fifty paces further, a beggar sighs and counts his coins.</Source>
-      <Dest>东面二十步开外，一个小贼正在抓耳挠腮。再远五十步的地方，有个乞丐在数着硬币叹着气。</Dest>
-    </String>
-    <String List="2">
-      <Source>Senchal to the south promised good loot, but the Tenmar Forest is unforgiving to those who are not seasoned warriors.</Source>
-      <Dest>森查尔去了南方，希望得到好的战利品，但丹玛尔森林对待那些不老练的战士向来是无情的。</Dest>
-    </String>
-    <String List="2">
-      <Source>If there is one it should avoid, it is the Bosmer, Niruin. That one is more spoiled than Sibbi Black-Briar.</Source>
-      <Dest>如果这里有一个人你不应该招惹，那就是木精灵尼如因。他被宠坏的糟糕性格堪比西比·黑色荆棘</Dest>
-    </String>
-    <String List="2">
-      <Source>But why kill him?  Well, it was far easier for Gnives to murder his mentor than to tell him no.</Source>
-      <Dest>但为什么杀了他呢？好吧，对格尼福斯来说，谋杀他的导师比起拒绝他来说要容易的多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives did not part from his childhood on good terms, and was forced to flee.  </Source>
-      <Dest>格尼福斯没能安稳地走出他的童年，而是被迫逃出的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Brynjolf will be happy to hear that it thinks so, although he may find it a dunce for its reasoning.  Delvin Mallory is the author of Shadowmarks.</Source>
-      <Dest>布林乔夫会很高兴听到他这样认为他的，虽然他最终会推理出那个人不过是个笨蛋。戴尔文·马尔洛里才是暗影标记的作者。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
-      <Dest>格尼福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>His palate is used to fine cheeses and wines, and complains that everything here tastes like cat urine.  Gnives might have something to do with that.</Source>
-      <Dest>他的味蕾只为可口的乳酪和佳酿绽放，所以才会抱怨这里的一切尝起来都像猫尿一样。格尼福斯这下有的忙了。</Dest>
-    </String>
-    <String List="2">
-      <Source>His palate is used to fine cheeses and wines, and complains that everything here tastes like cat urine.  Gnives might have something to do with that.</Source>
-      <Dest>他的味蕾只为可口的乳酪和佳酿绽放，所以才会抱怨这里的一切尝起来都像猫尿一样。格尼福斯这下有的忙了。</Dest>
-    </String>
-    <String List="2">
-      <Source>North he continued to travel, a stranger in strange lands.  He had followed the water until he reached the Imperial City.</Source>
-      <Dest>他接着向北走，独在异乡为异客。他沿着河直到抵达那座帝国城市。</Dest>
-    </String>
-    <String List="2">
-      <Source>Two stories above, a couple says their vows, while underneath in the catacombs, a widow weeps for her husband.</Source>
-      <Dest>两个故事正同时进行着，一对夫妻说出彼此的誓言，而在他们正下方的墓穴里，一个寡妇为在为她的亡夫哭泣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Two stories above, a couple says their vows, while underneath in the catacombs, a widow weeps for her husband.</Source>
-      <Dest>两个故事正同时进行着，一对夫妻说出彼此的誓言，而在他们正下方的墓穴里，一个寡妇为在为她的亡夫哭泣。</Dest>
-    </String>
-    <String List="2">
-      <Source>So it would seem. From cat burglar to catbird, it perches high above the rest of the litter.</Source>
-      <Dest>这样一来就看得出。不管是不管是贼猫还是猫声鸟，都高枕无忧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Good. Others develops bad habits, being noisy one day and quiet the next.  It is best to always walk softly, so that stealth is as natural as breath.</Source>
-      <Dest>不错，其他人一直会有些坏习惯，时而吵闹时而静悄。最好是走路一直保持轻柔，潜行就像呼吸一般自然。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was a good omen. While locks ask Gnives to listen to the dance of tumblers, to convince a safe to open, he need only listen for its heartbeat.</Source>
-      <Dest>这是个好兆头。当格尼福斯聆听锁芯的晃动时，为了确保能安全的打开，他只需要去听它跳动的声。</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, Gnives' fondest memory is the day a disgruntled fisherman once sold Tonilia a crate of fresh Merringar. </Source>
-      <Dest>事实上，格尼福斯最美好的记忆是一个渔夫心怀不满的卖给托尼利亚一箱新鲜的莫瑞格鱼的那天。</Dest>
+      <Source>Looks like Honningbrew mead is about to become a relic.</Source>
+      <Dest>看来蜂蜜酒即将成为历史。</Dest>
     </String>
     <String List="2">
       <Source>If nothing else, its actions will end the debate, and save some poor fool's life.</Source>
       <Dest>如果没有别的，它的行动将结束这场争论，并救下一些可怜的傻瓜性命。 </Dest>
     </String>
-    <String List="2">
-      <Source>Cynric has been with the Guild longer than most, yet he lacks the qualities to lead.</Source>
-      <Dest>希利克的入会时间比任何人都长，但他缺乏领导天赋。</Dest>
+    <String List="0">
+      <Source>Mercer seems upset.</Source>
+      <Dest>墨瑟貌似很烦恼。</Dest>
     </String>
     <String List="2">
-      <Source>There are very strong personalities in this Guild.  Gnives prefers this, so that he may operate unnoticed.</Source>
-      <Dest>他们每个人都个性鲜明。格尼福斯喜欢这样。因为这样他可以隐秘地行动。</Dest>
+      <Source>Gnives does not know this Karliah, but he knows the opposite sex.  Only a female can drive a man to such belligerence.</Source>
+      <Dest>奈福斯并不认得这个卡莱雅, 不过他知道性别区别的意义。只有女人才能让一位男人如此好斗。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good news.  I'm a Nightingale.</Source>
+      <Dest>恭喜你！我就是个夜莺！</Dest>
     </String>
     <String List="2">
-      <Source>No, it was even better.  Ra'Zhir raised Gnives to believe it was his destiny to be an assassin, that his body was tainted with the desire for blood.</Source>
-      <Dest>不，甚至更好。拉'泽尔让格尼福斯相信他命中注定就该成为一名刺客，他的身体渴望着鲜血。</Dest>
+      <Source>So it would seem. From cat burglar to catbird, it perches high above the rest of the litter.</Source>
+      <Dest>这样一来就看得出。不管是不管是贼猫还是猫声鸟，都高枕无忧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Karliah is one of us now.</Source>
+      <Dest>现在卡莉亚跟我们一伙了.</Dest>
     </String>
     <String List="2">
-      <Source>Usually, Gnives saves his talents for special meals, like when an enterprising thief steals a vintage wine, or a barrel of imported delicacies.</Source>
-      <Dest>通常来说，格尼福斯将他的才能留给了那些特别的料理，就像一个充满进取心的小贼去偷一瓶陈年佳酿或是一桶异国佳肴一样。</Dest>
+      <Source>Good.  Gnives is pleased he will not have to slit the Dunmer's throat.  Her voice is like honey to his ears.</Source>
+      <Dest>很好。奈福斯为不用割断那只暗精灵的喉咙而感到庆幸。她的声音对于他来说可谓如蜜糖一般动听。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
+      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
     </String>
     <String List="2">
-      <Source>But that is not all it does not see.  For its eyes look, then its mind knows.  A second of time sits between looking and knowing.</Source>
-      <Dest>但是这还不是所有它不能看见的东西。因为眼睛必须先看，然后脑子才能知道。在看和知道之间有一点点间隔。</Dest>
+      <Source>If there is one it should avoid, it is the Bosmer, Niruin. That one is more spoiled than Sibbi Black-Briar.</Source>
+      <Dest>如果这里有一个人你不应该招惹，那就是木精灵尼如因。他被宠坏的糟糕性格堪比西比·黑色荆棘</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
+      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
     </String>
     <String List="2">
-      <Source>So he went north, roaming the savannahs and playing the role of common burglar.</Source>
-      <Dest>所以他去了北边，漫步在草原之上，逍遥自得的扮起了窃贼。</Dest>
+      <Source>His palate is used to fine cheeses and wines, and complains that everything here tastes like cat urine.  Gnives might have something to do with that.</Source>
+      <Dest>他的味蕾只为可口的乳酪和佳酿绽放，所以才会抱怨这里的一切尝起来都像猫尿一样。奈福斯这下有的忙了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all well and good, but I'm more interested in who you don't like.</Source>
+      <Dest>这真是极好的，但我更感兴趣的是你不喜欢谁。</Dest>
     </String>
     <String List="2">
-      <Source>It seems both his ankles had been struck with an ice spike from Erikur's personal wizard.</Source>
-      <Dest>看来他的两只脚踝都被艾瑞库尔的私人巫师发出的冰刺击中了。</Dest>
+      <Source>Gnives does not like complainers, nor does he enjoy losing a bet.</Source>
+      <Dest>奈福斯既不喜欢不知好歹的人也不喜欢烂赌鬼</Dest>
     </String>
-    <String List="2">
-      <Source>Gnives steals for the Guild, and carves the shadowmarks in those doors that have none. On some occasions, he will even cook.</Source>
-      <Dest>格尼福斯为盗贼工会而偷窃，并且在未被彻查的门前刻上阴影印记。有时候他甚至还会做饭。</Dest>
+    <String List="0">
+      <Source>Is there anyone here I should stay clear of?</Source>
+      <Dest>这儿有谁是我需要避免接触的么？</Dest>
     </String>
     <String List="2">
       <Source>If there is one it should avoid, it is the Bosmer, Niruin.  That one is more spoiled than Sibbi Black-Briar.</Source>
       <Dest>如果说那里有谁必须要躲开的话，那就是木精灵尼如因。那货比西比·黑色荆棘更骄纵。</Dest>
     </String>
-    <String List="2">
-      <Source>When it looks with its eyes, it can only see the past.  But Gnives hears the guard approaching, the mark falling into a deep sleep.</Source>
-      <Dest>当它用自己的双目望去时，它只能看到自己的过去。但是格尼福斯听到守卫在靠近，这意味着着死亡的来临。</Dest>
+    <String List="0">
+      <Source>Is there anyone here I should stay clear of?</Source>
+      <Dest>这儿有谁是我需要避免接触的么？</Dest>
     </String>
     <String List="2">
-      <Source>To heed the call of the Black Sacrament.  And to young Gnives taking a life was no different than stealing a coin.</Source>
-      <Dest>为了聆听黑色圣礼的低语而让年轻的格尼福斯终此一生，就和偷东西只偷一枚金币一样毫无意义。</Dest>
+      <Source>His palate is used to fine cheeses and wines, and complains that everything here tastes like cat urine.  Gnives might have something to do with that.</Source>
+      <Dest>他的味蕾只为可口的乳酪和佳酿绽放，所以才会抱怨这里的一切尝起来都像猫尿一样。奈福斯这下有的忙了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there anyone here I should stay clear of?</Source>
+      <Dest>这儿有谁是我需要避免接触的么？</Dest>
     </String>
     <String List="2">
-      <Source>There the pockets were stingy, and the locks highly irritable.</Source>
-      <Dest>这里的口袋干瘪 的要死，锁却难开的要命。</Dest>
+      <Source>Gnives does not like complainers, nor does he enjoy losing a bet.</Source>
+      <Dest>奈福斯既不喜欢不知好歹的人也不喜欢烂赌鬼</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on the other Guild members?</Source>
+      <Dest>对其他的工会成员，袁芳你怎么看？</Dest>
     </String>
     <String List="2">
-      <Source>It is a Khajiit, so it should not depend on the eyes.  The others, they can only see what's in front.  But we Khajiit, we hear.</Source>
-      <Dest>那是个虎人，所以未必依赖眼睛。要是别的种族，他们只能看到眼前。可我们虎人，我们聆听。</Dest>
+      <Source>There are very strong personalities in this Guild.  Gnives prefers this, so that he may operate unnoticed.</Source>
+      <Dest>他们每个人都个性鲜明。奈福斯喜欢这样。因为这样他可以隐秘地行动。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on the other Guild members?</Source>
+      <Dest>对其他的工会成员，袁芳你怎么看？</Dest>
     </String>
     <String List="2">
       <Source>Vex, Sapphire, and Tonilia remind Gnives of the Pahmar-raht, loyal but fearsome.</Source>
-      <Dest>威克斯，蓝宝石还有托妮莉雅都提醒格尼福斯注意帕玛虎卫，他忠诚却令人战栗。</Dest>
+      <Dest>威克斯，蓝宝石还有托妮莉雅都提醒奈福斯注意帕玛虎卫，他忠诚却令人战栗。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on the other Guild members?</Source>
+      <Dest>对其他的工会成员，袁芳你怎么看？</Dest>
     </String>
     <String List="2">
-      <Source>The cat hears, the mind knows, minutes before anything is seen.  Their eyes can only see the past, but the ears of the Khajiit know the future.</Source>
-      <Dest>虎人听到了，心里也知道，几分钟之前所有事情都已经明了。他们的眼睛只能看到过去，但是虎人的耳朵能通晓未来。</Dest>
+      <Source>Delvin and Vipr love to talk, while Vekel and Brynjolf are eager to listen.</Source>
+      <Dest>戴尔文和维皮尔喜欢说话，威克尔和布林乔夫喜欢聆听。</Dest>
     </String>
-    <String List="2">
-      <Source>Gnives prepared the filet with chives, parsley, and a drop of lemon, and served it with a side of fresh tomatoes.</Source>
-      <Dest>格尼福斯准备的了鱼肉片搭配着韭菜，香菜，和一滴柠檬，最后用新鲜的番茄作为点缀。</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, Gnives was almost out the door when his legs felt as heavy as bricks. His toes tingled and soon they lost all feeling.</Source>
-      <Dest>实际上，格尼福斯拖着他那灌铅似的双腿几乎快要跨过门槛时，脚趾突然莫名地一阵刺痛，然后便彻底失去了直觉。</Dest>
+    <String List="0">
+      <Source>What are your thoughts on the other Guild members?</Source>
+      <Dest>对其他的工会成员，袁芳你怎么看？</Dest>
     </String>
     <String List="2">
       <Source>Dirge and Thrynn are the muscle, and they will not hesitate to flex.  Rune's past is a curiosity, but one that seems to have no answer.</Source>
       <Dest>挽歌和希尔英是打手，都不是那么好对付的。符文的过去是个谜，但好像没人知道谜底。</Dest>
     </String>
-    <String List="2">
-      <Source>The walls of this sewer drank in that aroma for weeks.  Not a single complaint could be heard in the Flagon.  </Source>
-      <Dest>这些下水道的墙壁在这香气里浸了几个星期。 漏壶里都不曾传出一声抱怨。</Dest>
+    <String List="0">
+      <Source>What are your thoughts on the other Guild members?</Source>
+      <Dest>对其他的工会成员，袁芳你怎么看？</Dest>
     </String>
     <String List="2">
-      <Source>Its mouth is much noisier than its feet.  One will get it killed far before the other.</Source>
-      <Dest>嘴比脚步吵，迟早命不保。</Dest>
+      <Source>Cynric has been with the Guild longer than most, yet he lacks the qualities to lead.</Source>
+      <Dest>希利克的入会时间比任何人都长，但他缺乏领导天赋。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
     </String>
     <String List="2">
-      <Source>But that is not all.  The others, their eyes look, then their mind knows.  A second of time sits between looking and knowing.</Source>
-      <Dest>可是那不够。其他人，他们的眼睛看见，脑子才会有反应。“看见”和“知道”中间又隔着一段时间。 </Dest>
+      <Source>Gnives steals for the Guild, and carves the shadowmarks in those doors that have none. On some occasions, he will even cook.</Source>
+      <Dest>奈福斯为盗贼工会而偷窃，并且在未被彻查的门前刻上阴影印记。有时候他甚至还会做饭。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
     </String>
     <String List="2">
-      <Source>Good.  Gnives is pleased he will not have to slit the Dunmer's throat.  Her voice is like honey to his ears.</Source>
-      <Dest>很好。格尼福斯为不用割断那只暗精灵的喉咙而感到庆幸。她的声音对于他来说可谓如蜜糖一般动听。</Dest>
+      <Source>Usually, Gnives saves his talents for special meals, like when an enterprising thief steals a vintage wine, or a barrel of imported delicacies.</Source>
+      <Dest>通常来说，奈福斯将他的才能留给了那些特别的料理，就像一个充满进取心的小贼去偷一瓶陈年佳酿或是一桶异国佳肴一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
     </String>
     <String List="2">
-      <Source>That was when Baan Dar smiled upon him, and granted him another path.  Gnives found a book labeled Shadowmarks, and it made promises of easy loot.</Source>
-      <Dest>就在那时，盗贼之神班达尔向他露出了微笑，给了他另一条出路。格尼福斯找到了一本书，上面标有暗影标记，预示着一场愉快的洗劫。</Dest>
+      <Source>In fact, Gnives' fondest memory is the day a disgruntled fisherman once sold Tonilia a crate of fresh Merringar. </Source>
+      <Dest>事实上，奈福斯最美好的记忆是一个渔夫心怀不满的卖给托尼利亚一箱新鲜的莫瑞格鱼的那天。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
     </String>
     <String List="2">
       <Source>It is a rare fish that inhabits the Sea of Ghosts, a week's voyage from the coast.</Source>
       <Dest>这是一种罕见的鱼，栖息于幽灵海，距海岸有一个星期的航程。</Dest>
     </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives prepared the filet with chives, parsley, and a drop of lemon, and served it with a side of fresh tomatoes.</Source>
+      <Dest>奈福斯准备的了鱼肉片搭配着韭菜，香菜，和一滴柠檬，最后用新鲜的番茄作为点缀。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The walls of this sewer drank in that aroma for weeks.  Not a single complaint could be heard in the Flagon.  </Source>
+      <Dest>这些下水道的墙壁在这香气里浸了几个星期。 漏壶里都不曾传出一声抱怨。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is it that you do around here?</Source>
+      <Dest>这是什么，你在这里做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Even Niruin managed to keep his mouth silent.  Ah, that was a good time to be Gnives.</Source>
+      <Dest>Even Niruin managed to keep his mouth silent.  Ah, that was a good time to be Gnives.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not a Khajiit, so it depends on its eyes. It can only see what's in front.  But Gnives hears.</Source>
+      <Dest>它不是虎人 , 所以它依赖眼睛. 它只能看到自己身前的东西是什么。但奈福斯能听到。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twenty paces to the east, a thief scratches his ears.  Fifty paces further, a beggar sighs and counts his coins.</Source>
+      <Dest>东面二十步开外，一个小贼正在抓耳挠腮。再远五十步的地方，有个乞丐在数着硬币叹着气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two stories above, a couple says their vows, while underneath in the catacombs, a widow weeps for her husband.</Source>
+      <Dest>两个故事正同时进行着，一对夫妻说出彼此的誓言，而在他们正下方的墓穴里，一个寡妇为在为她的亡夫哭泣。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But that is not all it does not see.  For its eyes look, then its mind knows.  A second of time sits between looking and knowing.</Source>
+      <Dest>但是这还不是所有它不能看见的东西。因为眼睛必须先看，然后脑子才能知道。在看和知道之间有一点点间隔。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>When it looks with its eyes, it can only see the past.  But Gnives hears the guard approaching, the mark falling into a deep sleep.</Source>
+      <Dest>当它用自己的双目望去时，它只能看到自己的过去。但是奈福斯听到守卫在靠近，这意味着着死亡的来临。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The cat hears, the mind knows, minutes before anything is seen.  Its eyes can only see the past, but Gnives' ears know the future.</Source>
+      <Dest>The cat hears, the mind knows, minutes before anything is seen.  Its eyes can only see the past, but Gnives' ears know the future.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a Khajiit, so it should not depend on the eyes.  The others, they can only see what's in front.  But we Khajiit, we hear.</Source>
+      <Dest>那是个虎人，所以未必依赖眼睛。要是别的种族，他们只能看到眼前。可我们虎人，我们聆听。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Twenty paces to the east, a thief scratches his ears.  Fifty paces further, a beggar sighs and counts his coins.</Source>
+      <Dest>东面二十步开外，一个小贼正在抓耳挠腮。再远五十步的地方，有个乞丐在数着硬币叹着气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Two stories above, a couple says their vows, while underneath in the catacombs, a widow weeps for her husband.</Source>
+      <Dest>两个故事正同时进行着，一对夫妻说出彼此的誓言，而在他们正下方的墓穴里，一个寡妇为在为她的亡夫哭泣。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>But that is not all.  The others, their eyes look, then their mind knows.  A second of time sits between looking and knowing.</Source>
+      <Dest>可是那不够。其他人，他们的眼睛看见，脑子才会有反应。“看见”和“知道”中间又隔着一段时间。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Man, the Mer, the lizard, they only see the past.  But we cats hear the guard approaching, the mark falling into a deep sleep.</Source>
+      <Dest>The Man, the Mer, the lizard, they only see the past.  But we cats hear the guard approaching, the mark falling into a deep sleep.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your ears are quite sensitive.</Source>
+      <Dest>你的耳朵很灵光啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The cat hears, the mind knows, minutes before anything is seen.  Their eyes can only see the past, but the ears of the Khajiit know the future.</Source>
+      <Dest>虎人听到了，心里也知道，几分钟之前所有事情都已经明了。他们的眼睛只能看到过去，但是虎人的耳朵能通晓未来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sometimes I think I sneak more than I walk.</Source>
+      <Dest>有时候我觉得自己潜行的时间比走路还多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. Others develops bad habits, being noisy one day and quiet the next.  It is best to always walk softly, so that stealth is as natural as breath.</Source>
+      <Dest>不错，其他人一直会有些坏习惯，时而吵闹时而静悄。最好是走路一直保持轻柔，潜行就像呼吸一般自然。</Dest>
+    </String>
+    <String List="0">
+      <Source>Obviously.  I just wanted to talk.  When I use stealth, you won't know it.</Source>
+      <Dest>显然我只是想聊聊天。如果我隐身了的话，你是看不到我的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It develops bad habits, being noisy one day and quiet the next. Gnives thinks it best to always walk softly, so that stealth is as natural as breath.</Source>
+      <Dest>It develops bad habits, being noisy one day and quiet the next. Gnives thinks it best to always walk softly, so that stealth is as natural as breath.</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he ask of you?</Source>
+      <Dest>他要你做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>To heed the call of the Black Sacrament.  And to young Gnives taking a life was no different than stealing a coin.</Source>
+      <Dest>为了聆听黑色圣礼的低语而让年轻的奈福斯终此一生，就和偷东西只偷一枚金币一样毫无意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he ask of you?</Source>
+      <Dest>他要你做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it was even better.  Ra'Zhir raised Gnives to believe it was his destiny to be an assassin, that his body was tainted with the desire for blood.</Source>
+      <Dest>不，甚至更好。拉'泽尔让奈福斯相信他命中注定就该成为一名刺客，他的身体渴望着鲜血。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he ask of you?</Source>
+      <Dest>他要你做什么？</Dest>
+    </String>
     <String List="2">
       <Source>Young Gnives was eager to please his mentor, so he killed without remorse.  He would have kept killing, if Ra'Zhir paid him what he was worth.</Source>
-      <Dest>年轻的格尼福斯急于讨好他的导师，于是他在杀戮时毫无悔意。如果拉’泽尔付给了他应得的东西，那他会继续杀戮。</Dest>
+      <Dest>年轻的奈福斯急于讨好他的导师，于是他在杀戮时毫无悔意。如果拉’泽尔付给了他应得的东西，那他会继续杀戮。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he ask of you?</Source>
+      <Dest>他要你做什么？</Dest>
     </String>
     <String List="2">
-      <Source>Thieves carve these marks on the doorframes of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
-      <Dest>小偷在房子和建筑的门框上刻下记号，以告诉同行有什么在这后面，有无危险，赃物或者就是个栅栏。</Dest>
+      <Source>Some say Gnives should not have betrayed Ra'Zhir, but it was Gnives who was betrayed first.</Source>
+      <Dest>有些人说奈福斯不应该背叛拉泽尔，但是奈福斯可是先被他背叛了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What did he ask of you?</Source>
+      <Dest>他要你做什么？</Dest>
     </String>
     <String List="2">
-      <Source>Gnives does not like complainers, nor does he enjoy losing a bet.</Source>
-      <Dest>格尼福斯既不喜欢不知好歹的人也不喜欢烂赌鬼</Dest>
+      <Source>But why kill him?  Well, it was far easier for Gnives to murder his mentor than to tell him no.</Source>
+      <Dest>但为什么杀了他呢？好吧，对奈福斯来说，谋杀他的导师比起拒绝他来说要容易的多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>When you are a master of stealth, even the wind envies your gait.</Source>
+      <Dest>当你成为一个潜行大师，连风都会嫉妒你的步法。</Dest>
     </String>
     <String List="2">
-      <Source>Gnives does not like complainers, nor does he enjoy losing a bet.</Source>
-      <Dest>格尼福斯既不喜欢不知好歹的人也不喜欢烂赌鬼</Dest>
+      <Source>Its mouth is much noisier than its feet.  One will get it killed far before the other.</Source>
+      <Dest>嘴比脚步吵，迟早命不保。</Dest>
+    </String>
+    <String List="0">
+      <Source>I like to announce my presence so that all may bask in my glory.</Source>
+      <Dest>我喜欢高调宣布闪亮登场，让所有人沐浴在我的荣光之下。.</Dest>
     </String>
     <String List="2">
       <Source>Its mouth is as noisy as its feet.  Both will get it killed sooner than later.</Source>
       <Dest>无论是它的脚步声还是更加烦人的叫声都会让它死的很早的。</Dest>
     </String>
+    <String List="0">
+      <Source>What happened there?</Source>
+      <Dest>那儿发生了什么事？</Dest>
+    </String>
     <String List="2">
-      <Source>Some say Gnives should not have betrayed Ra'Zhir, but it was Gnives who was betrayed first.</Source>
-      <Dest>有些人说格尼福斯不应该背叛拉泽尔，但是格尼福斯可是先被他背叛了。</Dest>
+      <Source>There the pockets were stingy, and the locks highly irritable.</Source>
+      <Dest>这里的口袋干瘪 的要死，锁却难开的要命。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened there?</Source>
+      <Dest>那儿发生了什么事？</Dest>
     </String>
     <String List="2">
       <Source>They grew angry at the slightest touch, and Gnives wondered if he should return to Elsweyr where every lock knew his name.</Source>
       <Dest>他们只要被轻微挑唆一下就会变得越来越气愤了，并且奈福斯不知道他是不是该回到艾斯维尔那个每把锁都记得他名字的地方去。</Dest>
     </String>
     <String List="0">
-      <Source>Did your thieving attract the attention of the Guild?</Source>
-      <Dest>你的扒窃本领吸引了工会的注意？</Dest>
+      <Source>What happened there?</Source>
+      <Dest>那儿发生了什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>That was when Baan Dar smiled upon him, and granted him another path.  Gnives found a book labeled Shadowmarks, and it made promises of easy loot.</Source>
+      <Dest>就在那时，盗贼之神班达尔向他露出了微笑，给了他另一条出路。奈福斯找到了一本书，上面标有暗影标记，预示着一场愉快的洗劫。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you join the Thieves Guild?</Source>
+      <Dest>你是怎么加入盗贼公会的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives did not part from his childhood on good terms, and was forced to flee.  </Source>
+      <Dest>奈福斯没能安稳地走出他的童年，而是被迫逃出的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you join the Thieves Guild?</Source>
+      <Dest>你是怎么加入盗贼公会的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Senchal to the south promised good loot, but the Tenmar Forest is unforgiving to those who are not seasoned warriors.</Source>
+      <Dest>森查尔去了南方，希望得到好的战利品，但丹玛尔森林对待那些不老练的战士向来是无情的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you join the Thieves Guild?</Source>
+      <Dest>你是怎么加入盗贼公会的？</Dest>
+    </String>
+    <String List="2">
+      <Source>So he went north, roaming the savannahs and playing the role of common burglar.</Source>
+      <Dest>所以他去了北边，漫步在草原之上，逍遥自得的扮起了窃贼。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you join the Thieves Guild?</Source>
+      <Dest>你是怎么加入盗贼公会的？</Dest>
+    </String>
+    <String List="2">
+      <Source>North he continued to travel, a stranger in strange lands.  He had followed the water until he reached the Imperial City.</Source>
+      <Dest>他接着向北走，独在异乡为异客。他沿着河直到抵达那座帝国城市。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
+      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Brynjolf will be happy to hear that it thinks so, although he may find it a dunce for its reasoning.  Delvin Mallory is the author of Shadowmarks.</Source>
+      <Dest>布林乔夫会很高兴听到他这样认为他的，虽然他最终会推理出那个人不过是个笨蛋。戴尔文·马尔洛里才是暗影标记的作者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
+      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thieves carve these marks on the doorframes of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
+      <Dest>小偷在房子和建筑的门框上刻下记号，以告诉同行有什么在这后面，是否有危险，战利品或者就是个栅栏。</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadowmarks.  That Brynjolf is a genius.</Source>
+      <Dest>暗影标记。布林乔夫可真是个天才。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
+      <Dest>奈福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't deterred by the safe?</Source>
+      <Dest>那保险柜没阻止的了你吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a good omen. While locks ask Gnives to listen to the dance of tumblers, to convince a safe to open, he need only listen for its heartbeat.</Source>
+      <Dest>这是个好兆头。当奈福斯聆听锁芯的晃动时，为了确保能安全的打开，他只需要去听它跳动的声。</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't deterred by the safe?</Source>
+      <Dest>那保险柜没阻止的了你吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, Gnives was almost out the door when his legs felt as heavy as bricks. His toes tingled and soon they lost all feeling.</Source>
+      <Dest>实际上，奈福斯拖着他那灌铅似的双腿几乎快要跨过门槛时，脚趾突然莫名地一阵刺痛，然后便彻底失去了直觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>You weren't deterred by the safe?</Source>
+      <Dest>那保险柜没阻止的了你吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It seems both his ankles had been struck with an ice spike from Erikur's personal wizard.</Source>
+      <Dest>看来他的两只脚踝都被艾瑞库尔的私人巫师发出的冰刺击中了。</Dest>
     </String>
     <String List="0">
       <Source>Did your thieving attract the attention of the Guild?</Source>
-      <Dest>你的扒窃本领吸引了工会的注意？</Dest>
+      <Dest>你的扒窃功夫是否引起了工会的注意？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not so, for a true thief attracts no attention.  Gnives sought out Delvin, and used the Shadowmarks to guide him.</Source>
+      <Dest>不是这样的，真正的盗贼不会引起任何注意。奈福斯发现了戴尔文，然后就用暗影印记来控制他。</Dest>
     </String>
     <String List="0">
       <Source>Did your thieving attract the attention of the Guild?</Source>
-      <Dest>你的扒窃本领吸引了工会的注意？</Dest>
+      <Dest>你的扒窃功夫是否引起了工会的注意？</Dest>
+    </String>
+    <String List="2">
+      <Source>There was one mark of great interest to Gnives.  Two circles intersecting a diamond. The mark of the "Protected."</Source>
+      <Dest>此处曾有一个奈福斯感兴趣的标志。两条圆环交汇于一个菱形。“被保护者”的标志。</Dest>
     </String>
     <String List="0">
       <Source>Did your thieving attract the attention of the Guild?</Source>
-      <Dest>你的扒窃本领吸引了工会的注意？</Dest>
+      <Dest>你的扒窃功夫是否引起了工会的注意？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives found such a mark on the barrel of a house near Solitude.  It belonged to a Thane named Erikur.</Source>
+      <Dest>奈福斯在独孤城的一个桶上找到过这样的标记。那个桶是一位名叫艾瑞库尔的男爵家的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did your thieving attract the attention of the Guild?</Source>
+      <Dest>你的扒窃功夫是否引起了工会的注意？</Dest>
+    </String>
+    <String List="2">
+      <Source>A Thane of such importance would have valuables locked in a safe, along with documents that tied him to certain parties.</Source>
+      <Dest>一个如此重要的男爵会把贵重的东西锁在一个安全的地方，和把他牢牢捆在某个党派的文件一起。</Dest>
     </String>
     <String List="0">
       <Source>So stealing was your form of escape.</Source>
-      <Dest>所以你用偷窃来逃避。</Dest>
+      <Dest>因此盗窃是你解脱的方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only one night he picked the wrong pocket.  It belonged to a servant of Sithis.</Source>
+      <Dest>只有一个夜晚他犯了个致命的错误，将手伸入了一名西帝斯仆从的口袋。</Dest>
     </String>
     <String List="0">
       <Source>So stealing was your form of escape.</Source>
-      <Dest>所以你用偷窃来逃避。</Dest>
+      <Dest>因此盗窃是你解脱的方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives did not know this Sithis, but he feared the wrath of his father, and the servant offered another kind of penance.</Source>
+      <Dest>奈福斯才不知道什么西帝斯呢，他只对他父亲的怒火感到害怕，那个仆从提供了另一种忏悔方式。</Dest>
     </String>
     <String List="0">
       <Source>So stealing was your form of escape.</Source>
-      <Dest>所以你用偷窃来逃避。</Dest>
+      <Dest>因此盗窃是你解脱的方式。</Dest>
+    </String>
+    <String List="2">
+      <Source>He convinced Gnives he was right side up, when in truth he was upside down.  Gnives did not know this, because the cat always landed on his feet.</Source>
+      <Dest>他让奈福斯相信他是正面朝上的，但实际上他是上下颠倒的。奈福斯并不知道这些，因为猫都是脚先着地。</Dest>
+    </String>
+    <String List="0">
+      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
+      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only one night he picked the wrong pocket.  It belonged to a servant of Sithis.</Source>
+      <Dest>只有一个夜晚他犯了个致命的错误，将手伸入了一名西帝斯仆从的口袋。</Dest>
+    </String>
+    <String List="0">
+      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
+      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives did not know this Sithis, but he feared the wrath of his father, and the servant offered another kind of penance.</Source>
+      <Dest>奈福斯才不知道什么西帝斯呢，他只对他父亲的怒火感到害怕，那个仆从提供了另一种忏悔方式。</Dest>
+    </String>
+    <String List="0">
+      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
+      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
+    </String>
+    <String List="2">
+      <Source>He convinced Gnives he was right side up, when in truth he was upside down.  Gnives did not know this, because the cat always landed on his feet.</Source>
+      <Dest>他让奈福斯相信他是正面朝上的，但实际上他是上下颠倒的。奈福斯并不知道这些，因为猫都是脚先着地。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
+      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many would say the same, if not for the mane on his back.  It runs crimson, while his fathers wear gray.</Source>
+      <Dest>要不是因为他背上的鬃毛颜色的话，人们都说会这么说。他的毛发是深红色，但他老爹的是灰色。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
+      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was an ill omen, and Gnives' father was a superstitious cat.  The very sight of this one threw him into a rage.</Source>
+      <Dest>这不是个好兆头，而奈福斯的父亲又是一只非常迷信的老猫。他一看到这，就会勃然大怒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
+      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+    </String>
+    <String List="2">
+      <Source>None more so than on the anniversary of his wife's death.  On those days, Gnives learned to stay on his toes, and sometimes, walk on them.</Source>
+      <Dest>在他妻子的忌日之时尤为如此。在那些日子里，奈福斯学会了垫着脚尖儿，某些时候，就保持着那个样子走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
+      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+    </String>
+    <String List="2">
+      <Source>On those nights, he would wander the village sands, waiting for the new sun to warm them.  He was drawn to the alleys, and the aroma of the moon.</Source>
+      <Dest>在那些夜晚，他会在村里的沙地上彷徨，等待新一天的太阳去温暖它。他把自己抛在阴暗的小巷里，迷醉于月亮糖的芬芳。</Dest>
+    </String>
+    <String List="0">
+      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
+      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he was tired or hungry, he wormed his way through the crowd outside the skooma huts, picking the pockets of those who had one too many.</Source>
+      <Dest>一旦他累了或者饿了，他就会挤进斯库玛小屋外面的人群里，从那些有钱人口袋里捞点钱出来。</Dest>
     </String>
     <String List="0">
       <Source>You sound like you were born for this role.</Source>
       <Dest>听起来你觉得自己是为这个角色生的？</Dest>
     </String>
-    <String List="0">
-      <Source>Something on your mind?</Source>
-      <Dest>你有什么心事吗？</Dest>
+    <String List="2">
+      <Source>True, they say the Khajiit are born into the Guild.  Gnives thinks he was born an assassin, raised a prowler, and adopted by thieves.</Source>
+      <Dest>是的。他们说这个虎人是在公会里出生的。 奈福斯—一名小偷—认为他是名天生的刺客，其他小偷都接受这个观点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, shadowmarks, as they are known.  A system of communication, a language documented by none other than Delvin Mallory.</Source>
+      <Dest>是的，它们被称为暗影标记。这是一种交流体系，一种除了戴尔文·马尔洛里无人记载的语言。</Dest>
     </String>
     <String List="0">
       <Source>You refer to the markings on the doorframes.</Source>
-      <Dest>你是指门框上的标记吗。</Dest>
+      <Dest>你参考门框上的标记。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thieves carve these marks on the doorframes of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
+      <Dest>小偷在房子和建筑的门框上刻下记号，以告诉同行有什么在这后面，是否有危险，战利品或者就是个栅栏。</Dest>
     </String>
     <String List="0">
       <Source>You refer to the markings on the doorframes.</Source>
-      <Dest>你是指门框上的标记吗。</Dest>
+      <Dest>你参考门框上的标记。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
+      <Dest>奈福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
     </String>
     <String List="0">
       <Source>You refer to the markings on the doorframes.</Source>
-      <Dest>你是指门框上的标记吗。</Dest>
-    </String>
-    <String List="0">
-      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
-      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
-      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>A wise move. Best to stay clear and let his rage subside.</Source>
-      <Dest>明智之举，这是来保持清醒并平息他的怒气的最好的方法。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
-      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
-      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
-      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
-      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
-    </String>
-    <String List="0">
-      <Source>Many mothers die in childbirth.  The child is not held accountable.</Source>
-      <Dest>很多母亲死于分娩。而孩子并不会为此负责。</Dest>
+      <Dest>你参考门框上的标记。</Dest>
     </String>
     <String List="2">
       <Source>Until next time.</Source>
       <Dest>下回见。</Dest>
     </String>
     <String List="2">
-      <Source>True, they say the Khajiit are born into the Guild.  Gnives thinks he was born an assassin, raised a prowler, and adopted by thieves.</Source>
-      <Dest>是的。他们说这个虎人是在公会里出生的。 格尼福斯—一名小偷—认为他是名天生的刺客，其他小偷都接受这个观点。</Dest>
-    </String>
-    <String List="2">
-      <Source>Only one night he picked the wrong pocket.  It belonged to a servant of Sithis.</Source>
-      <Dest>只有一个夜晚他犯了个致命的错误，将手伸入了一名西帝斯仆从的口袋。</Dest>
-    </String>
-    <String List="2">
-      <Source>Only one night he picked the wrong pocket.  It belonged to a servant of Sithis.</Source>
-      <Dest>只有一个夜晚他犯了个致命的错误，将手伸入了一名西帝斯仆从的口袋。</Dest>
+      <Source>May your road lead you to warm sands.</Source>
+      <Dest>愿你的前路是温暖的沙地。</Dest>
     </String>
     <String List="2">
       <Source>Farewell.</Source>
       <Dest>再会。</Dest>
     </String>
     <String List="2">
-      <Source>Not so, for a true thief attracts no attention.  Gnives sought out Delvin, and used the Shadowmarks to guide him.</Source>
-      <Dest>不是这样的，真正的盗贼不会引起任何注意。格尼福斯发现了戴尔文，然后就用暗影印记来控制他。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives did not know this Sithis, but he feared the wrath of his father, and the servant offered another kind of penance.</Source>
-      <Dest>格尼福斯才不知道什么西帝斯呢，他只对他父亲的怒火感到害怕，那个仆从提供了另一种忏悔方式。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives did not know this Sithis, but he feared the wrath of his father, and the servant offered another kind of penance.</Source>
-      <Dest>格尼福斯才不知道什么西帝斯呢，他只对他父亲的怒火感到害怕，那个仆从提供了另一种忏悔方式。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives' ears can tell him the future, but they cannot hear the past.  These shadowmarks, they tell him a bit of both.</Source>
-      <Dest>格尼福斯的耳朵能告诉他未来的事，但它们听不到过去。这些阴影印记却可以把过去和未来的事都告诉他一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>He convinced Gnives he was right side up, when in truth he was upside down.  Gnives did not know this, because the cat always landed on his feet.</Source>
-      <Dest>他让奈福斯相信他是正面朝上的，但实际上他是上下颠倒的。奈福斯并不知道这些，因为猫都是脚先着地。</Dest>
-    </String>
-    <String List="2">
-      <Source>He convinced Gnives he was right side up, when in truth he was upside down.  Gnives did not know this, because the cat always landed on his feet.</Source>
-      <Dest>他让奈福斯相信他是正面朝上的，但实际上他是上下颠倒的。奈福斯并不知道这些，因为猫都是脚先着地。</Dest>
-    </String>
-    <String List="2">
-      <Source>Many would say the same, if not for the mane on his back.  It runs crimson, while his fathers wear gray.</Source>
-      <Dest>要不是因为他背上的鬃毛颜色的话，人们都说会这么说。他的毛发是深红色，但他老爹的是灰色。</Dest>
-    </String>
-    <String List="2">
-      <Source>If he was tired or hungry, he wormed his way through the crowd outside the skooma huts, picking the pockets of those who had one too many.</Source>
-      <Dest>一旦他累了或者饿了，他就会挤进斯库玛小屋外面的人群里，从那些有钱人口袋里捞点钱出来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Make it quick.</Source>
-      <Dest>有话快说。</Dest>
-    </String>
-    <String List="2">
-      <Source>On those nights, he would wander the village sands, waiting for the new sun to warm them.  He was drawn to the alleys, and the aroma of the moon.</Source>
-      <Dest>在那些夜晚，他会在村里的沙地上彷徨，等待新一天的太阳去温暖它。他把自己抛在阴暗的小巷里，迷醉于月亮糖的芬芳。</Dest>
-    </String>
-    <String List="2">
       <Source>Speak while the sands are warm.</Source>
       <Dest>有话请快讲。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
     </String>
     <String List="2">
       <Source>Good friend, this is an honor.</Source>
       <Dest>好朋友，这是个荣耀。</Dest>
     </String>
     <String List="2">
-      <Source>Something on your mind?</Source>
-      <Dest>有什么想法吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, shadowmarks, as they are known.  A system of communication, a language documented by none other than Delvin Mallory.</Source>
-      <Dest>是的，它们被称为暗影标记。这是一种交流体系，一种除了戴尔文·马尔洛里无人记载的语言。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gnives found such a mark on the barrel of a house near Solitude.  It belonged to a Thane named Erikur.</Source>
-      <Dest>格尼福斯在独孤城的一个桶上找到过这样的标记。那个桶是一位名叫艾瑞库尔的男爵家的。</Dest>
-    </String>
-    <String List="2">
       <Source>Greetings.</Source>
       <Dest>你好。</Dest>
     </String>
     <String List="2">
-      <Source>It was an ill omen, and Gnives' father was a superstitious cat.  The very sight of this one threw him into a rage.</Source>
-      <Dest>这可不是什么好事，而格尼福斯的父亲又是一只非常迷信的老猫。这一现象直接点燃了他的怒火。</Dest>
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
     </String>
     <String List="2">
-      <Source>What is it?</Source>
-      <Dest>怎么了？</Dest>
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
     </String>
     <String List="2">
-      <Source>May your road lead you to warm sands.</Source>
-      <Dest>愿你的前路是温暖的沙地。</Dest>
-    </String>
-    <String List="2">
-      <Source>None more so than on the anniversary of his wife's death.  On those days, Gnives learned to stay on his toes, and sometimes, walk on them.</Source>
-      <Dest>在他妻子的忌日之时尤为如此。在那些日子里，格尼福斯学会了垫着脚尖儿，某些时候，就保持着那个样子走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thieves carve these marks on the doorframes of homes and buildings, to tell others what lies behind them, whether it be danger, loot, or a fence.</Source>
-      <Dest>小偷在房子和建筑的门框上刻下记号，以告诉同行有什么在这后面，是否有危险，战利品或者就是个栅栏。</Dest>
-    </String>
-    <String List="2">
-      <Source>A Thane of such importance would have valuables locked in a safe, along with documents that tied him to certain parties.</Source>
-      <Dest>一个如此重要的男爵会把贵重的东西锁在一个安全的地方，和把他牢牢捆在某个党派的文件一起。</Dest>
-    </String>
-    <String List="2">
-      <Source>There was one mark of great interest to Gnives.  Two circles intersecting a diamond. The mark of the "Protected."</Source>
-      <Dest>此处曾有一个暗影印记。两条圆环交汇于一个菱形。“被保护者”的标志。</Dest>
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法？</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

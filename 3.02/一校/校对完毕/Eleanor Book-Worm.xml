@@ -6,369 +6,385 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    <String List="2">
+      <Source>I'm sorry. It's just the professors come in here and scatter the books without any concern for the person who has to clean up.</Source>
+      <Dest>对不起。只是一个导师来到这里随意翻弄着那些书,丝毫没有考虑来打扫的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought it might be more efficient if I waited until the end of the day to put the books back on the shelves.</Source>
+      <Dest>我想等到今天结束后才把这些书放回书架去，这样也许会比较有效率。</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
-      <Source>Can you give me an example of a newly crafted word?</Source>
-      <Dest>你给我说个新造出来的词听听。</Dest>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
     <String List="0">
-      <Source>Can you give me an example of a newly crafted word?</Source>
-      <Dest>你给我说个新造出来的词听听。</Dest>
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
-      <Source>Can you give me an example of a newly crafted word?</Source>
-      <Dest>你给我说个新造出来的词听听。</Dest>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="0">
       <Source>But he's so...old.</Source>
       <Dest>但是他这么...老了.</Dest>
     </String>
-    <String List="0">
-      <Source>If it'll help, I'll start using that word immediately in conversations.</Source>
-      <Dest>如果有用的话，我将立即开始在对话中用到这个词。</Dest>
+    <String List="2">
+      <Source>Nirya and Faralda are Altmer.  They may not look it, but Sergius is probably half their age.  </Source>
+      <Dest>尼尔雅和法劳达都是高精灵。也许看起来不像，但瑟吉尔斯的岁数可能只有他们一半。</Dest>
     </String>
     <String List="0">
       <Source>Tell me about the library.</Source>
       <Dest>跟我说说那个图书馆。</Dest>
     </String>
+    <String List="2">
+      <Source>The Arcaneum is a very prestigious library, with many of its books going back to the Second Era.</Source>
+      <Dest>奥术大厅是一个很有名气的图书馆，里面收藏了很多可以追溯到第二纪元的书籍。</Dest>
+    </String>
     <String List="0">
       <Source>Tell me about the library.</Source>
       <Dest>跟我说说那个图书馆。</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How are you feeling?</Source>
-      <Dest>感觉如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>Urag gro-Shub may not age, but I bet he can be killed.</Source>
-      <Dest>乌拉葛．格洛-舒布也许阳全阴尽，形容不老，但我敢打赌，他可以被杀死。</Dest>
-    </String>
-    <String List="0">
-      <Source>Urag gro-Shub may not age, but I bet he can be killed.</Source>
-      <Dest>乌拉葛．格洛-舒布也许阳全阴尽，形容不老，但我敢打赌，他可以被杀死。</Dest>
-    </String>
-    <String List="0">
-      <Source>Can any of the books be bought?</Source>
-      <Dest>这儿的书出售吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Can any of the books be bought?</Source>
-      <Dest>这儿的书出售吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>It seems Sergius Turrianus has much to teach all of us.</Source>
-      <Dest>似乎瑟吉尔斯·图利亚努斯能教会我们很多.</Dest>
-    </String>
-    <String List="0">
-      <Source>A competing library sounds like a great idea.</Source>
-      <Dest>一个竞争性的图书馆，听起来是个好主意。 </Dest>
-    </String>
-    <String List="0">
-      <Source>That sounds a bit unethical.</Source>
-      <Dest>这听起来不太道德。</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your responsibilities?</Source>
-      <Dest>你的职责是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your responsibilities?</Source>
-      <Dest>你的职责是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What are your responsibilities?</Source>
-      <Dest>你的职责是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>How often do you make edits to the dictionary?</Source>
-      <Dest>你多久修订 一次字典？</Dest>
-    </String>
-    <String List="0">
-      <Source>How often do you make edits to the dictionary?</Source>
-      <Dest>你多久修订 一次字典？</Dest>
-    </String>
-    <String List="0">
-      <Source>You don't think you'll ever be librarian?</Source>
-      <Dest>你不认为你总有一天会成为图书馆员？</Dest>
-    </String>
-    <String List="0">
-      <Source>You don't think you'll ever be librarian?</Source>
-      <Dest>你不认为你总有一天会成为图书馆员？</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, good luck with that.</Source>
-      <Dest>嗯，祝你好运。</Dest>
-    </String>
-    <String List="0">
-      <Source>And what would that be exactly?</Source>
-      <Dest>那到底说的是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>And what would that be exactly?</Source>
-      <Dest>那到底说的是什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>That sounds like a lot of work. Boring work.</Source>
-      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>That sounds like a lot of work. Boring work.</Source>
-      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>That sounds like a lot of work. Boring work.</Source>
-      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Show some skin and nobody will care about decrepit old Urag and his dusty books.</Source>
-      <Dest>与他和和气气气的就没人会关心老不死的乌拉葛和他的破书了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Ooh, can I help?  How about Akatoshian.  As in "like Akatosh."</Source>
-      <Dest>噢～能让我帮忙吗？这个怎么样：“阿卡托西安”，就是"像阿卡托什一样"的意思</Dest>
-    </String>
-    <String List="0">
-      <Source>I bet you overhear a lot of conversations working here.  Any interesting rumors?</Source>
-      <Dest>我敢说你这工作能偷听到很多闲谈，有什么八卦吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't think it'll catch on.</Source>
-      <Dest>我可不相信它能听懂这个。</Dest>
-    </String>
-    <String List="0">
-      <Source>Isn't a dictionary more or less static?</Source>
-      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Isn't a dictionary more or less static?</Source>
-      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Isn't a dictionary more or less static?</Source>
-      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Isn't a dictionary more or less static?</Source>
-      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Every time I approach him about an overdue book, it's the same story.</Source>
-      <Dest>每一次我找他谈论有关早应完成的书的事情，下场都一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>The air is so thick in libraries. Master gro-Shub calls it "character."  I call it dust.   </Source>
-      <Dest>图书馆里的空气太糟糕了。格洛-舒布导师将其称为“特色”，我呢，直接称呼它为“灰尘”。</Dest>
-    </String>
-    <String List="2">
-      <Source>...</Source>
-      <Dest>……</Dest>
-    </String>
-    <String List="2">
-      <Source>That's because you haven't had the training to anticipate trends in the vocabriel.  Which is another word I've coined, by the way.</Source>
-      <Dest>这是因为你还没学习过如何对vocabriel的趋势进行预测，顺带一提，这是我创造的另一个新词。</Dest>
-    </String>
-    <String List="2">
-      <Source>In our parlance, "trolling" could mean stating one's opinion, but in a very honest and forthright way that reflects the passion of one's convictions.</Source>
-      <Dest>按我们的说法，“trolling”可能是指以一种诚实而坦率的方式陈述自己的观点，这反映了一个人强烈的忏悔。</Dest>
-    </String>
-    <String List="2">
-      <Source>Master Urag has a list of books unfit for the collection. Frivolous works by academic standards, but still interesting reads.</Source>
-      <Dest>乌拉葛大师有一份不适合收集书籍的名单。这是标准的毫无价值的学术工作，但仍然可以用来消遣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just the one.  Let's just say Nirya and Faralda are having Sergius enchant more than just items.  </Source>
-      <Dest>只有一个。瑟吉尔斯为尼尔雅和法劳达附魔的东西比刚刚那堆多得多。</Dest>
-    </String>
-    <String List="2">
-      <Source>When I suggested to Master it'd be easier to shorten some of the other definitions on the page, he grimaced in disappointment.   </Source>
-      <Dest>当我向主人建议缩短这页中的其他阐释会更容易一些时，他失望地做了个鬼脸。   </Dest>
-    </String>
-    <String List="2">
-      <Source>Great! Try using it at the tavern, so it can grow organically.  Pretty soon everyone will start parroting it because that's how trends work.</Source>
-      <Dest>太棒了！去酒馆里用用看，让它自然地传播开。很快每个人都会学着模仿它了，所谓时尚就是这么来的。</Dest>
     </String>
     <String List="2">
       <Source>The more delicate tomes are kept under lock and key, but you are welcome to browse the outer collection at your leisure.</Source>
       <Dest>最金贵的书都牢牢地锁着呢，你要是有空可以挑外面的这些随便读。</Dest>
     </String>
     <String List="2">
-      <Source>Not until Master gro-Shub retires or passes on.  I know he looks old, well, because he is.  Way too old for an Orc.  I'm convinced he's immortal.</Source>
-      <Dest>直到格洛-舒布大师退隐或传位。我知道他看起来很显老，嗯，他的确老了。早就超过了兽人的年龄。我深信他是不死的。</Dest>
+      <Source>Hello, I'm Master gro-Shub's apprentice, Eleanor.</Source>
+      <Dest>你好啊，我是格洛-舒布大师的学徒，艾莉诺。</Dest>
     </String>
     <String List="2">
-      <Source>The Arcaneum is a very prestigious library, with many of its books going back to the Second Era.</Source>
-      <Dest>奥术大厅是一个很有名气的图书馆，里面收藏了很多可以追溯到第二纪元的书籍。</Dest>
+      <Source>If something were to happen to the Master, I would take over as librarian.  Which at this rate will be anywhere between someday and never.</Source>
+      <Dest>如果大师发生了任何不测，我会作为图书管理员接管。不然这样下去根本不知何时能了结。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can any of the books be bought?</Source>
+      <Dest>这儿的书出售吗？</Dest>
     </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>没多少人能找到这个地方。老实说,这里在任何一份地图上都没有标示。</Dest>
+      <Source>Master Urag has a list of books unfit for the collection. Frivolous works by academic standards, but still interesting reads.</Source>
+      <Dest>乌拉葛大师有一份不适合收集书籍的名单。这是标准的毫无价值的学术工作，但仍然可以用来消遣。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can any of the books be bought?</Source>
+      <Dest>这儿的书出售吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Talk to him if you want more information.  </Source>
+      <Dest>如果你想知道更多就跟他讲。   </Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds a bit unethical.</Source>
+      <Dest>这听起来不太道德。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not at all.  I may be an apprentice in name, but I am an expert in etymology and a trained crafter of words.</Source>
+      <Dest>别客气。也许我名义上是个学徒，但我可是个词源学的专家，还在【造词】方面颇有建树。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it'll help, I'll start using that word immediately in conversations.</Source>
+      <Dest>如果有用的话，我将立即开始在对话中用到这个词。</Dest>
+    </String>
+    <String List="2">
+      <Source>Great! Try using it at the tavern, so it can grow organically.  Pretty soon everyone will start parroting it because that's how trends work.</Source>
+      <Dest>太棒了！去酒馆里用用看，让它自然地传播开。很快每个人都会学着模仿它了，所谓时尚就是这么来的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Bored, and a bit lonely. Comes with the territory I suppose.</Source>
+      <Dest>无聊，还有点孤独。估计还涉及到一些领土问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
     </String>
     <String List="2">
       <Source>I'd be better if Master Drevis would make his books visible before returning them!</Source>
       <Dest> 如果德莱维斯在归还之前能完成他的书我会很高兴的！</Dest>
     </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
     <String List="2">
-      <Source>In the interest of efficiency, Master insists I only make updates when there are at least ten neologisms worth adding.</Source>
-      <Dest>效率第一，主人强调只有在有必要加入十个以上的新词汇时我才能更新。</Dest>
+      <Source>Every time I approach him about an overdue book, it's the same story.</Source>
+      <Dest>每一次我找他谈论有关早应完成的书的事情，下场都一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm okay, but how are you?  I bet nobody ever asks you how you feel.  Well, I'm asking, so go ahead, let it all out.  I'm all ears.  </Source>
+      <Dest>我很好，但是你怎么样？我打赌没人问过你的感受。嗯，我已经问了，不要想那么多，都说出来吧。我会听着的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh wait, I'm sorry.  I just remembered something. Now's probably a bad time. Then again, it's always a bad time when it comes to college business.</Source>
+      <Dest>噢等等，很抱歉。我刚刚想起些事情。这可能是一段苦日子。不过容我复述，当涉及学院事务的时候苦日子总会有的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you feeling?</Source>
+      <Dest>感觉如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's enough to make you envy the Dark Brotherhood.  I heard they assign a Listener just so people can vent their problems.  </Source>
+      <Dest>那就足够让你嫉妒黑暗兄弟会了。我听说他们刚刚指派了一个聆听者来了解人们的烦恼。  </Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think you'll ever be librarian?</Source>
+      <Dest>你不认为你会成为图书馆员？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not until Master gro-Shub retires or passes on.  I know he looks old, well, because he is.  Way too old for an Orc.  I'm convinced he's immortal.</Source>
+      <Dest>直到格洛-舒布大师退隐或传位。我知道他看起来很显老，嗯，他的确老了。早就超过了兽人的年龄。我深信他是不死的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't think you'll ever be librarian?</Source>
+      <Dest>你不认为你会成为图书馆员？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes I think Master measures time by the era.  Which means unless I start a competing library, I'm stuck being an apprentice forever.</Source>
+      <Dest>有时候我觉得大师是以纪元为单位测量时间的。这意味着除非我新开一家图书馆与之竞争，否则我将永远是一个学徒。</Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds like a lot of work. Boring work.</Source>
+      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
     </String>
     <String List="2">
       <Source>Yes, adding a single word can result in having to replace an entire section of the dictionary.  </Source>
       <Dest>是的，添加一个单词就能导致字典的一整个章节被替换。</Dest>
     </String>
-    <String List="2">
-      <Source>Hello, I'm Master gro-Shub's apprentice, Eleanor.</Source>
-      <Dest>你好啊，我是格洛-舒布大师的学徒，艾莉诺。</Dest>
+    <String List="0">
+      <Source>That sounds like a lot of work. Boring work.</Source>
+      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
     </String>
     <String List="2">
-      <Source>In contrast, the written word is both living and dead, and we must capture both what was gained while recording what was lost.  </Source>
-      <Dest>相反的是，那些记录的文字也是拥有生命也是会死亡的，在这些记录消失之前我们必须获得我们想要的信息。 </Dest>
+      <Source>When I suggested to Master it'd be easier to shorten some of the other definitions on the page, he grimaced in disappointment.   </Source>
+      <Dest>当我向主人建议缩短这页中的其他阐释会更容易一些时，他失望地做了个鬼脸。   </Dest>
+    </String>
+    <String List="0">
+      <Source>That sounds like a lot of work. Boring work.</Source>
+      <Dest>听起来好多事啊，都是麻烦的事。</Dest>
     </String>
     <String List="2">
-      <Source>I'm sorry. It's just the professors come in here and scatter the books without any concern for the person who has to clean up.</Source>
-      <Dest>对不起。只是一个导师来到这里随意翻弄着那些书,丝毫没有考虑来打扫的人。</Dest>
+      <Source>To this day I don't know if he was angry at me for taking shortcuts or suggesting I abridge his research.  Maybe both.</Source>
+      <Dest>这天我也不知道他是不是对我走捷径感到恼火，还是我删简了他的研究。或者两者皆有。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't think it'll catch on.</Source>
+      <Dest>我可不相信它能听懂这个。</Dest>
     </String>
     <String List="2">
-      <Source>Well, I thought, why not apply the same logic to trolls?  I find trolls to be very fierce creatures, in a way that is almost honest in its brutality.</Source>
-      <Dest>好吧，我个人觉着吧，为什么不用同样的逻辑去揣测巨魔呢？我发现巨魔是个非常凶残的生物，从某种程度上来说，它坦诚地面对了它冷血的本性。</Dest>
+      <Source>That's because you haven't had the training to anticipate trends in the vocabriel.  Which is another word I've coined, by the way.</Source>
+      <Dest>这是因为你还没学习过如何对vocabriel的趋势进行预测，顺带一提，这是我创造的另一个新词。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, good luck with that.</Source>
+      <Dest>嗯，那也只能祝你好运了。</Dest>
     </String>
     <String List="2">
-      <Source>Talk to him if you want more information.  </Source>
-      <Dest>如果你想知道更多就跟他讲。   </Dest>
+      <Source>Thanks.  Come by anytime.</Source>
+      <Dest>谢啦。想回来的时候就回来吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ooh, can I help?  How about Akatoshian.  As in "like Akatosh."</Source>
+      <Dest>噢～能让我帮忙吗？这个怎么样：“阿卡托西安”，就是"像阿卡托什一样"的意思</Dest>
+    </String>
+    <String List="2">
+      <Source>That's cute, but only a trained wordsmith is allowed to introduce new words into the annals.</Source>
+      <Dest>挺棒的，但只有训练有素的文学匠人们才被允许往年鉴里添加新词。</Dest>
+    </String>
+    <String List="0">
+      <Source>Urag gro-Shub may not age, but I bet he can be killed.</Source>
+      <Dest>乌拉葛·格洛-舒布可能不会老化，但我敢打赌，他会被杀死。</Dest>
+    </String>
+    <String List="2">
+      <Source>And who do you think the college will blame? The only girl in town who stands to gain from the death of an old and amiable librarian.</Source>
+      <Dest>你觉得学院会责怪谁？镇上唯一的一个妹子能从那个年迈和蔼的图书馆管理员的死亡那里得到什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Urag gro-Shub may not age, but I bet he can be killed.</Source>
+      <Dest>乌拉葛·格洛-舒布可能不会老化，但我敢打赌，他会被杀死。</Dest>
     </String>
     <String List="2">
       <Source>No thanks. I'll just play the waiting game and hope Master gro-Shub chokes on a horker loaf.</Source>
       <Dest>不用，谢了。我只是在玩等待游戏，然后希望格洛-舒布大师被一整块三牙海象排噎死。</Dest>
     </String>
     <String List="2">
-      <Source>I wonder if the Arcane University in Cyrodiil leaves everything to a single apprentice.  </Source>
-      <Dest>我不知道赛瑞迪尔的奥术大学是否都把所有的一切都留给了同一名学徒。</Dest>
+      <Source>...</Source>
+      <Dest>……</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems Sergius Turrianus has much to teach all of us.</Source>
+      <Dest>似乎瑟吉尔斯·图利亚努斯能教会我们很多.</Dest>
     </String>
     <String List="2">
       <Source>I don't even want to imagine what kind of lessons you're referring to.  So I won't.</Source>
       <Dest>别跟我谈什么四书五经，反正我不干！</Dest>
     </String>
-    <String List="2">
-      <Source>Nirya and Faralda are Altmer.  They may not look it, but Sergius is probably half their age.  </Source>
-      <Dest>尼尔雅和法劳达都是高精灵。也许看起来不像，但瑟吉尔斯的岁数可能只有他们一半。</Dest>
-    </String>
-    <String List="2">
-      <Source>While I've been trained in the library arts, my responsibilities are limited to my vocation.</Source>
-      <Dest>当我不得不在艺术图书馆受训时，我的责任就被我的工作限制了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh wait, I'm sorry.  I just remembered something. Now's probably a bad time. Then again, it's always a bad time when it comes to college business.</Source>
-      <Dest>噢等等，很抱歉。我刚刚想起些事情。这可能是一段苦日子。不过容我复述，当涉及学院事务的时候苦日子总会有的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not at all.  I may be an apprentice in name, but I am an expert in etymology and a trained crafter of words.</Source>
-      <Dest>别客气。也许我名义上是个学徒，但我可是个词源学的专家，还在【造词】方面颇有建树。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sometimes I think Master measures time by the era.  Which means unless I start a competing library, I'm stuck being an apprentice forever.</Source>
-      <Dest>有时候我觉得大师是以纪元为单位测量时间的。这意味着除非我新开一家图书馆与之竞争，否则我将永远是一个学徒。</Dest>
-    </String>
-    <String List="2">
-      <Source>If something were to happen to the Master, I would take over as librarian.  Which at this rate will be anywhere between someday and never.</Source>
-      <Dest>如果大师发生了任何不测，我会作为图书管理员接管。不然这样下去根本不知何时能了结。</Dest>
-    </String>
-    <String List="2">
-      <Source>Bored, and a bit lonely. Comes with the territory I suppose.</Source>
-      <Dest>无聊，还有点孤独。估计还涉及到一些领土问题。</Dest>
+    <String List="0">
+      <Source>Can you give me an example of a newly crafted word?</Source>
+      <Dest>你给我说个新造出来的词听听。</Dest>
     </String>
     <String List="2">
       <Source>Sure. You know how people use animals as verbs or gerunds to describe human actions?  Like "ferreting out" or "squirreling about" or "wolfing down?"</Source>
       <Dest>当然。你知道人们怎么用动物做动词和动名词来描述人类的行为吗？比如“深挖”或者”雪藏“再或者“狼吞虎咽”之类的？</Dest>
     </String>
-    <String List="2">
-      <Source>And who do you think the college will blame? The only girl in town who stands to gain from the death of an old and amiable librarian.</Source>
-      <Dest>你觉得学院会责怪谁？镇上唯一的一个妹子能从那个年迈和蔼的图书馆管理员的死亡那里得到什么呢？</Dest>
+    <String List="0">
+      <Source>Can you give me an example of a newly crafted word?</Source>
+      <Dest>你给我说个新造出来的词听听。</Dest>
     </String>
     <String List="2">
-      <Source>At this rate I'll never get a chance to show what I can do.  That's why I've taken it upon myself to speed up the process by coining some new terms.</Source>
-      <Dest>照这个进度我绝不会有机会展示我的本事。因此我自己揽了下来并新创了一些术语来加快进度。</Dest>
+      <Source>Well, I thought, why not apply the same logic to trolls?  I find trolls to be very fierce creatures, in a way that is almost honest in its brutality.</Source>
+      <Dest>好吧，我个人觉着吧，为什么不用同样的逻辑去揣测巨魔呢？我发现巨魔是个非常凶残的生物，从某种程度上来说，它坦诚地面对了它冷血的本性。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example of a newly crafted word?</Source>
+      <Dest>你给我说个新造出来的词听听。</Dest>
     </String>
     <String List="2">
-      <Source>Greetings, Arch-Mage.</Source>
-      <Dest>幸会，首席法师。</Dest>
+      <Source>In our parlance, "trolling" could mean stating one's opinion, but in a very honest and forthright way that reflects the passion of one's convictions.</Source>
+      <Dest>按我们的说法，“trolling”可能是指以一种诚实而坦率的方式陈述自己的观点，这反映了一个人强烈的忏悔。</Dest>
+    </String>
+    <String List="0">
+      <Source>A competing library sounds like a great idea.</Source>
+      <Dest>一个竞争性的图书馆，听起来是个好主意。 </Dest>
     </String>
     <String List="2">
-      <Source>Greetings, Arch-Mage.</Source>
-      <Dest>幸会，首席法师。</Dest>
+      <Source>Really? I meant it as a joke. But it's cute you thought I was serious.</Source>
+      <Dest>真的？我的意思是说那就是个笑话，不过你认为我是认真的这点倒是挺可爱的。</Dest>
     </String>
-    <String List="2">
-      <Source>To this day I don't know if he was angry at me for taking shortcuts or suggesting I abridge his research.  Maybe both.</Source>
-      <Dest>这天我也不知道他是不是对我走捷径感到恼火，还是我删简了他的研究。或者两者皆有。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thanks.  Come by anytime.</Source>
-      <Dest>谢啦。想回来的时候就回来吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>I thought it might be more efficient if I waited until the end of the day to put the books back on the shelves.</Source>
-      <Dest>我想等到今天结束后才把这些书放回书架去，这样也许会比较有效率。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not necessarily. Master says spoken language is a living, breathing organism, always evolving and shedding old skin.</Source>
-      <Dest>没必要。主人说口头语言是个活生生的有机体，永远处在进化和嬗变之中。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's cute, but only a trained wordsmith is allowed to introduce new words into the annals.</Source>
-      <Dest>挺棒的，但只有训练有素的文学匠人们才被允许往年鉴里添加新词。</Dest>
+    <String List="0">
+      <Source>Show some skin and nobody will care about decrepit old Urag and his dusty books.</Source>
+      <Dest>与他和和气气气的就没人会关心老不死的乌拉葛和他的破书了。</Dest>
     </String>
     <String List="2">
       <Source>Then I wouldn't be a librarian now, would I?</Source>
       <Dest>然后我就能成为图书管理员了，对不对？</Dest>
     </String>
+    <String List="0">
+      <Source>What are your responsibilities?</Source>
+      <Dest>你的职责是什么？</Dest>
+    </String>
     <String List="2">
-      <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
+      <Source>While I've been trained in the library arts, my responsibilities are limited to my vocation.</Source>
+      <Dest>当我不得不在艺术图书馆受训时，我的责任就被我的工作限制了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your responsibilities?</Source>
+      <Dest>你的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>And what would that be exactly?</Source>
+      <Dest>那到底说的是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Recently I have been tasked with updating the college dictionary, which is a thankless but important duty.  </Source>
+      <Dest>Recently I have been tasked with updating the college dictionary, which is a thankless but important duty.  </Dest>
+    </String>
+    <String List="0">
+      <Source>What are your responsibilities?</Source>
+      <Dest>你的职责是什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>And what would that be exactly?</Source>
+      <Dest>那到底说的是什么？</Dest>
     </String>
     <String List="2">
       <Source>Dictionaries are important tools for preserving language, and they provide the bridge for future generations to communicate with our ancestors.  </Source>
       <Dest>词典对保护语言文字来说是极为重要的工具，它们为未来一代人与我们祖先的交流提供了桥梁。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Isn't a dictionary more or less static?</Source>
+      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not necessarily. Master says spoken language is a living, breathing organism, always evolving and shedding old skin.</Source>
+      <Dest>没必要。主人说口头语言是个活生生的有机体，永远处在进化和嬗变之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Isn't a dictionary more or less static?</Source>
+      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
+    </String>
+    <String List="2">
+      <Source>In contrast, the written word is both living and dead, and we must capture both what was gained while recording what was lost.  </Source>
+      <Dest>相反的是，那些记录的文字也是拥有生命也是会死亡的，在这些记录消失之前我们必须获得我们想要的信息。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Isn't a dictionary more or less static?</Source>
+      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How often do you make edits to the dictionary?</Source>
+      <Dest>你多久修订 一次字典？</Dest>
+    </String>
+    <String List="2">
+      <Source>In the interest of efficiency, Master insists I only make updates when there are at least ten neologisms worth adding.</Source>
+      <Dest>效率第一，主人强调只有在有必要加入十个以上的新词汇时我才能更新。</Dest>
+    </String>
+    <String List="0">
+      <Source>Isn't a dictionary more or less static?</Source>
+      <Dest>难道一本词典不是或多或少静态的死物么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How often do you make edits to the dictionary?</Source>
+      <Dest>你多久修订 一次字典？</Dest>
+    </String>
+    <String List="2">
+      <Source>At this rate I'll never get a chance to show what I can do.  That's why I've taken it upon myself to speed up the process by coining some new terms.</Source>
+      <Dest>照这个进度我绝不会有机会展示我的本事。因此我自己揽了下来并新创了一些术语来加快进度。</Dest>
+    </String>
+    <String List="0">
+      <Source>I bet you overhear a lot of conversations working here.  Any interesting rumors?</Source>
+      <Dest>我敢说你这工作能偷听到很多闲谈，有什么八卦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Just the one.  Let's just say Nirya and Faralda are having Sergius enchant more than just items.  </Source>
+      <Dest>只有一个。瑟吉尔斯为尼尔雅和法劳达附魔的东西比刚刚那堆多得多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you "trolling" me right now?</Source>
+      <Dest>Are you "trolling" me right now?</Dest>
     </String>
     <String List="2">
       <Source>Well, sort of. I think.</Source>
       <Dest>我想，就是那个。</Dest>
     </String>
     <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>Greetings, Arch-Mage.</Source>
+      <Dest>幸会，首席法师。</Dest>
     </String>
     <String List="2">
-      <Source>Really? I meant it as a joke. But it's cute you thought I was serious.</Source>
-      <Dest>真的？我的意思是说那就是个笑话，不过你认为我是认真的这点倒是挺可爱的。</Dest>
+      <Source>Yes?</Source>
+      <Dest>什么？</Dest>
     </String>
     <String List="2">
-      <Source>It's enough to make you envy the Dark Brotherhood.  I heard they assign a Listener just so people can vent their problems.  </Source>
-      <Dest>那就足够让你嫉妒黑暗兄弟会了。我听说他们刚刚指派了一个聆听者来了解人们的烦恼。  </Dest>
+      <Source>The professors scatter all these books about and Master gro-Shub expects me to put them all back in their proper place.  Promptly.</Source>
+      <Dest>The professors scatter all these books about and Master gro-Shub expects me to put them all back in their proper place.  Promptly.</Dest>
+    </String>
+    <String List="2">
+      <Source>The air is so thick in libraries. Master gro-Shub calls it "character."  I call it dust.   </Source>
+      <Dest>图书馆里的空气太糟糕了。格洛-舒布导师将其称为“特色”，我呢，直接称呼它为“灰尘”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you seen Master Tolfdir's alembic? He came by looking for it again. I swear there's one like him at every college.  </Source>
+      <Dest>你有看到过托夫迪尔大师的蒸馏罐么？他又过来找它了。我打赌每个学校里总有一个像他那样的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if the Arcane University in Cyrodiil leaves everything to a single apprentice.  </Source>
+      <Dest>我不知道赛瑞迪尔的奥术大学是否都把所有的一切都留给了同一名学徒。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

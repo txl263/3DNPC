@@ -7,164 +7,952 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>What brings you here?</Source>
-      <Dest>什么风把你吹来了?</Dest>
+      <Source>What skills do you possess?</Source>
+      <Dest>What skills do you possess?</Dest>
+    </String>
+    <String List="2">
+      <Source>Like any dragon slayer, my preferred weapon is the bow. </Source>
+      <Dest>Like any dragon slayer, my preferred weapon is the bow. </Dest>
+    </String>
+    <String List="0">
+      <Source>What skills do you possess?</Source>
+      <Dest>What skills do you possess?</Dest>
+    </String>
+    <String List="2">
+      <Source>The one I use is enchanted with fire, and every arrow burns with the rage of my homeland.</Source>
+      <Dest>The one I use is enchanted with fire, and every arrow burns with the rage of my homeland.</Dest>
+    </String>
+    <String List="0">
+      <Source>Just remember, rest and relaxation is an important part of battle preparation.</Source>
+      <Dest>Just remember, rest and relaxation is an important part of battle preparation.</Dest>
+    </String>
+    <String List="2">
+      <Source>And we have done plenty of that already. But if that is how you prepare, so be it. I will keep my eyes and arrows trained to the sky.</Source>
+      <Dest>And we have done plenty of that already. But if that is how you prepare, so be it. I will keep my eyes and arrows trained to the sky.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, battle strategy aside, as a mortal, you must have other needs and desires.</Source>
+      <Dest>Well, battle strategy aside, as a mortal, you must have other needs and desires.</Dest>
+    </String>
+    <String List="2">
+      <Source>What does it matter? Do you wish to know my favorite color? My favorite drink? The answer is the same for both. Dragon's blood.</Source>
+      <Dest>What does it matter? Do you wish to know my favorite color? My favorite drink? The answer is the same for both. Dragon's blood.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, battle strategy aside, as a mortal, you must have other needs and desires.</Source>
+      <Dest>Well, battle strategy aside, as a mortal, you must have other needs and desires.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now let's get moving.</Source>
+      <Dest>Now let's get moving.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just trying to figure out why you're so goddamn angry.</Source>
+      <Dest>I'm just trying to figure out why you're so goddamn angry.</Dest>
+    </String>
+    <String List="2">
+      <Source>I never chose to be this way. I would be more than happy to spend my days like a drunken lout.</Source>
+      <Dest>I never chose to be this way. I would be more than happy to spend my days like a drunken lout.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just trying to figure out why you're so goddamn angry.</Source>
+      <Dest>I'm just trying to figure out why you're so goddamn angry.</Dest>
+    </String>
+    <String List="2">
+      <Source>But the times we live in, it makes warriors out of even the heartiest of fools. </Source>
+      <Dest>But the times we live in, it makes warriors out of even the heartiest of fools. </Dest>
+    </String>
+    <String List="0">
+      <Source>I've worked with many archers, and few were as pleasant as your company.</Source>
+      <Dest>I've worked with many archers, and few were as pleasant as your company.</Dest>
+    </String>
+    <String List="2">
+      <Source>If my company is what you will remember me by, then clearly I have left the wrong impression.</Source>
+      <Dest>If my company is what you will remember me by, then clearly I have left the wrong impression.</Dest>
+    </String>
+    <String List="0">
+      <Source>I know our strategy. I just want to make sure you know it.</Source>
+      <Dest>I know our strategy. I just want to make sure you know it.</Dest>
+    </String>
+    <String List="2">
+      <Source>When I draw my arrow, be sure to move out of its path. If you want to live, that's all you need to know.</Source>
+      <Dest>When I draw my arrow, be sure to move out of its path. If you want to live, that's all you need to know.</Dest>
+    </String>
+    <String List="0">
+      <Source>I meant get to know each other on a personal level.</Source>
+      <Dest>I meant get to know each other on a personal level.</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no need. We are professionals. Unless I have misjudged you, how we get along has no bearing on our ability to kill our enemies.</Source>
+      <Dest>There is no need. We are professionals. Unless I have misjudged you, how we get along has no bearing on our ability to kill our enemies.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's time we got to know each other better.</Source>
+      <Dest>I think it's time we got to know each other better.</Dest>
+    </String>
+    <String List="2">
+      <Source>Why? Have you never worked with an archer before? Our strategy should be clear.</Source>
+      <Dest>Why? Have you never worked with an archer before? Our strategy should be clear.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's time we got to know each other better.</Source>
+      <Dest>I think it's time we got to know each other better.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any part of you that enjoys the hunt?</Source>
+      <Dest>Is there any part of you that enjoys the hunt?</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are asking whether I find it satisfying, then yes. I take pleasure in the chase, but I don't chase for pleasure.</Source>
+      <Dest>If you are asking whether I find it satisfying, then yes. I take pleasure in the chase, but I don't chase for pleasure.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's time we got to know each other better.</Source>
+      <Dest>I think it's time we got to know each other better.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any part of you that enjoys the hunt?</Source>
+      <Dest>Is there any part of you that enjoys the hunt?</Dest>
+    </String>
+    <String List="2">
+      <Source>When you track wild game, the only meaningful goal is to fend off starvation.</Source>
+      <Dest>When you track wild game, the only meaningful goal is to fend off starvation.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's time we got to know each other better.</Source>
+      <Dest>I think it's time we got to know each other better.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any part of you that enjoys the hunt?</Source>
+      <Dest>Is there any part of you that enjoys the hunt?</Dest>
+    </String>
+    <String List="2">
+      <Source>The thrill of the hunt, and the savoring of the feast, all of that is secondary.</Source>
+      <Dest>The thrill of the hunt, and the savoring of the feast, all of that is secondary.</Dest>
     </String>
     <String List="0">
       <Source>What brings you here?</Source>
       <Dest>什么风把你吹来了?</Dest>
     </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
+    <String List="2">
+      <Source>I was headed east to Cradlecrush when I came across this shrine. Then I saw you.</Source>
+      <Dest>I was headed east to Cradlecrush when I came across this shrine. Then I saw you.</Dest>
     </String>
     <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
+      <Source>What brings you here?</Source>
+      <Dest>什么风把你吹来了?</Dest>
+    </String>
+    <String List="2">
+      <Source>My previous companion didn't make it past Guldun Rock. Maybe you'll fare better.</Source>
+      <Dest>My previous companion didn't make it past Guldun Rock. Maybe you'll fare better.</Dest>
     </String>
     <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
+      <Source>Why are you passing through Giant camps?</Source>
+      <Dest>Why are you passing through Giant camps?</Dest>
+    </String>
+    <String List="2">
+      <Source>The camps serve as bait. Dragons have big appetites, and mammoths are a heavy meal.</Source>
+      <Dest>The camps serve as bait. Dragons have big appetites, and mammoths are a heavy meal.</Dest>
     </String>
     <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
+      <Source>Why are you passing through Giant camps?</Source>
+      <Dest>Why are you passing through Giant camps?</Dest>
+    </String>
+    <String List="2">
+      <Source>It's ironic, really. A dragon's strength comes from his compulsion to dominate, his desire to kill. Yet it's that very hunger that makes them weak.</Source>
+      <Dest>It's ironic, really. A dragon's strength comes from his compulsion to dominate, his desire to kill. Yet it's that very hunger that makes them weak.</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragons and mortals can co-exist.</Source>
+      <Dest>Dragons and mortals can co-exist.</Dest>
+    </String>
+    <String List="2">
+      <Source>And people think I should remain silent, when fools like you are allowed to speak.</Source>
+      <Dest>And people think I should remain silent, when fools like you are allowed to speak.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd be doing them a favor. I find the taste of ash to be rather pleasant.</Source>
+      <Dest>You'd be doing them a favor. I find the taste of ash to be rather pleasant.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then perhaps you won't mind when this land is torn asunder.</Source>
+      <Dest>Then perhaps you won't mind when this land is torn asunder.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'd be doing them a favor. I find the taste of ash to be rather pleasant.</Source>
+      <Dest>You'd be doing them a favor. I find the taste of ash to be rather pleasant.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you wish to stand by and doing nothing, than that is your choice. Just don't get in my way.</Source>
+      <Dest>If you wish to stand by and doing nothing, than that is your choice. Just don't get in my way.</Dest>
+    </String>
+    <String List="0">
+      <Source>I too detest the dragon menace. Let us be rid of them once and for all.</Source>
+      <Dest>I too detest the dragon menace. Let us be rid of them once and for all.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you would do well to recognize them in all their forms. Bow to no dragon, show them no mercy, let the land drink their blood.</Source>
+      <Dest>Then you would do well to recognize them in all their forms. Bow to no dragon, show them no mercy, let the land drink their blood.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's madness to hunt dragons by your lonesome.</Source>
+      <Dest>It's madness to hunt dragons by your lonesome.</Dest>
+    </String>
+    <String List="2">
+      <Source>The world is mad. You would be crazy to think otherwise.</Source>
+      <Dest>The world is mad. You would be crazy to think otherwise.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you hunt dragons?</Source>
+      <Dest>Are you saying you hunt dragons?</Dest>
+    </String>
+    <String List="2">
+      <Source>Why not? Some may be content letting this world go to ash, and living off the remains.</Source>
+      <Dest>Why not? Some may be content letting this world go to ash, and living off the remains.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you hunt dragons?</Source>
+      <Dest>Are you saying you hunt dragons?</Dest>
+    </String>
+    <String List="2">
+      <Source>But I say we fight fire with fire. I say they're the ones who'll burn.</Source>
+      <Dest>But I say we fight fire with fire. I say they're the ones who'll burn.</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned you were from Morrowind. Why did you come to Skyrim?</Source>
+      <Dest>You mentioned you were from Morrowind. Why did you come to Skyrim?</Dest>
+    </String>
+    <String List="2">
+      <Source>Fire. When it poured down the neck of the Red Mountain, it sent my ancestors west. </Source>
+      <Dest>Fire. When it poured down the neck of the Red Mountain, it sent my ancestors west. </Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned you were from Morrowind. Why did you come to Skyrim?</Source>
+      <Dest>You mentioned you were from Morrowind. Why did you come to Skyrim?</Dest>
+    </String>
+    <String List="2">
+      <Source>When it burned in the heart of the Stormcloaks, I wanted no part of their Gray Quarter.</Source>
+      <Dest>When it burned in the heart of the Stormcloaks, I wanted no part of their Gray Quarter.</Dest>
+    </String>
+    <String List="0">
+      <Source>You mentioned you were from Morrowind. Why did you come to Skyrim?</Source>
+      <Dest>You mentioned you were from Morrowind. Why did you come to Skyrim?</Dest>
+    </String>
+    <String List="2">
+      <Source>And now it stirs in the maw of the dragons, their very breath a storm. But I will make sure all their words turn to ash.</Source>
+      <Dest>And now it stirs in the maw of the dragons, their very breath a storm. But I will make sure all their words turn to ash.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any word on dragon sightings?</Source>
+      <Dest>Any word on dragon sightings?</Dest>
+    </String>
+    <String List="0">
+      <Source>This Jarl's decree mentions a dragon sighting.</Source>
+      <Dest>This Jarl's decree mentions a dragon sighting.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then let's hope for the Jarl's sake he isn't wasting our time, for the fire I breathe burns hotter than any beast.</Source>
+      <Dest>Then let's hope for the Jarl's sake he isn't wasting our time, for the fire I breathe burns hotter than any beast.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any word on dragon sightings?</Source>
+      <Dest>Any word on dragon sightings?</Dest>
+    </String>
+    <String List="2">
+      <Source>The townsfolk here are all fools and liars. There are either no dragons or hundreds of them, depending on whom you ask.</Source>
+      <Dest>The townsfolk here are all fools and liars. There are either no dragons or hundreds of them, depending on whom you ask.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any word on dragon sightings?</Source>
+      <Dest>Any word on dragon sightings?</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps I'll have more luck if I follow your lead instead. What say you?</Source>
+      <Dest>Perhaps I'll have more luck if I follow your lead instead. What say you?</Dest>
+    </String>
+    <String List="0">
+      <Source>I can help you slay this dragon.</Source>
+      <Dest>I can help you slay this dragon.</Dest>
+    </String>
+    <String List="2">
+      <Source>Normally I'd laugh at such a suggestion, but for some reason I'm inclined to believe you. Interesting.</Source>
+      <Dest>Normally I'd laugh at such a suggestion, but for some reason I'm inclined to believe you. Interesting.</Dest>
+    </String>
+    <String List="0">
+      <Source>I can help you slay this dragon.</Source>
+      <Dest>I can help you slay this dragon.</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. If you're that confident, then let's head on over to Cradlecrush Rock, and you can prove your bravado is warranted. </Source>
+      <Dest>All right. If you're that confident, then let's head on over to Cradlecrush Rock, and you can prove your bravado is warranted. </Dest>
+    </String>
+    <String List="0">
+      <Source>What problem do you have with Talos, stranger?</Source>
+      <Dest>What problem do you have with Talos, stranger?</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, I'm not interested.</Source>
+      <Dest>Sorry, I'm not interested.</Dest>
+    </String>
+    <String List="2">
+      <Source>Your loss, hunter. But it doesn't matter. I have business with the innkeepers I must attend to. </Source>
+      <Dest>Your loss, hunter. But it doesn't matter. I have business with the innkeepers I must attend to. </Dest>
+    </String>
+    <String List="0">
+      <Source>What problem do you have with Talos, stranger?</Source>
+      <Dest>What problem do you have with Talos, stranger?</Dest>
+    </String>
+    <String List="2">
+      <Source>I was born in Morrowind, and through my veins flows the fire of the Red Mountain itself.</Source>
+      <Dest>I was born in Morrowind, and through my veins flows the fire of the Red Mountain itself.</Dest>
+    </String>
+    <String List="0">
+      <Source>What problem do you have with Talos, stranger?</Source>
+      <Dest>What problem do you have with Talos, stranger?</Dest>
+    </String>
+    <String List="2">
+      <Source>That fire burns with hatred for all who seek to destroy us. Whether it is the Dragon of the North or the dragons in the sky, they will all perish.</Source>
+      <Dest>That fire burns with hatred for all who seek to destroy us. Whether it is the Dragon of the North or the dragons in the sky, they will all perish.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you? Why do you despise dragons?</Source>
+      <Dest>Who are you? Why do you despise dragons?</Dest>
+    </String>
+    <String List="0">
+      <Source>Agreed. Perhaps we should travel together.</Source>
+      <Dest>Agreed. Perhaps we should travel together.</Dest>
+    </String>
+    <String List="2">
+      <Source>In time, yes, but not now. I have a date with an innkeeper. Eight of them, in fact. Because chasing mammoths only gets you so far.</Source>
+      <Dest>In time, yes, but not now. I have a date with an innkeeper. Eight of them, in fact. Because chasing mammoths only gets you so far.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you? Why do you despise dragons?</Source>
+      <Dest>Who are you? Why do you despise dragons?</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Meresine. I was born in Morrowind, and through my veins flows the fire of the Red Mountain itself.</Source>
+      <Dest>My name is Meresine. I was born in Morrowind, and through my veins flows the fire of the Red Mountain itself.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you? Why do you despise dragons?</Source>
+      <Dest>Who are you? Why do you despise dragons?</Dest>
+    </String>
+    <String List="2">
+      <Source>That fire burns with hatred for all who seek to destroy us. Whether it is the Dragon of the North or the dragons in the sky, they will all perish.</Source>
+      <Dest>That fire burns with hatred for all who seek to destroy us. Whether it is the Dragon of the North or the dragons in the sky, they will all perish.</Dest>
+    </String>
+    <String List="0">
+      <Source>Talos wasn't a dragon. He was a man who apparently really hated snakes.</Source>
+      <Dest>Talos wasn't a dragon. He was a man who apparently really hated snakes.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, the statue. I've heard people say the one at his feet isn't a snake, but another dragon. The God of Time itself, perhaps.</Source>
+      <Dest>Ah, the statue. I've heard people say the one at his feet isn't a snake, but another dragon. The God of Time itself, perhaps.</Dest>
+    </String>
+    <String List="0">
+      <Source>Talos wasn't a dragon. He was a man who apparently really hated snakes.</Source>
+      <Dest>Talos wasn't a dragon. He was a man who apparently really hated snakes.</Dest>
+    </String>
+    <String List="2">
+      <Source>Whether you're mortal or Divine, the rules are the same. Kill or be killed. Surrender or subjugate.</Source>
+      <Dest>Whether you're mortal or Divine, the rules are the same. Kill or be killed. Surrender or subjugate.</Dest>
+    </String>
+    <String List="0">
+      <Source>For your information, I wasn't praying to this fool. I was looting him.</Source>
+      <Dest>For your information, I wasn't praying to this fool. I was looting him.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you either think Talos a man, or you fear not his wrath. Either way, we're in agreement. He isn't worthy of anyone's respect.</Source>
+      <Dest>Then you either think Talos a man, or you fear not his wrath. Either way, we're in agreement. He isn't worthy of anyone's respect.</Dest>
+    </String>
+    <String List="0">
+      <Source>For your information, I wasn't praying to this fool. I was looting him.</Source>
+      <Dest>For your information, I wasn't praying to this fool. I was looting him.</Dest>
+    </String>
+    <String List="2">
+      <Source>Like all dragons, his legacy is that of murder and carnage.</Source>
+      <Dest>Like all dragons, his legacy is that of murder and carnage.</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon or mortal, free will allows us all to choose our destiny.</Source>
+      <Dest>Dragon or mortal, free will allows us all to choose our destiny.</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean the illusion of free will. For there are only two kinds of choices in this world.</Source>
+      <Dest>You mean the illusion of free will. For there are only two kinds of choices in this world.</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon or mortal, free will allows us all to choose our destiny.</Source>
+      <Dest>Dragon or mortal, free will allows us all to choose our destiny.</Dest>
+    </String>
+    <String List="2">
+      <Source>Submitting to one's desires, or defying them.</Source>
+      <Dest>Submitting to one's desires, or defying them.</Dest>
+    </String>
+    <String List="0">
+      <Source>As a dragon myself, I don't disagree.</Source>
+      <Dest>As a dragon myself, I don't disagree.</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet here you are submitting to another. One that isn't even alive.</Source>
+      <Dest>And yet here you are submitting to another. One that isn't even alive.</Dest>
+    </String>
+    <String List="0">
+      <Source>I've seen dragons, and I don't disagree.</Source>
+      <Dest>I've seen dragons, and I don't disagree.</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet knowing this you still choose to submit to them. In this case, one that isn't even alive.</Source>
+      <Dest>And yet knowing this you still choose to submit to them. In this case, one that isn't even alive.</Dest>
+    </String>
+    <String List="2">
+      <Source>A dragon has no sympathy for mortals. Its very nature is to dominate.</Source>
+      <Dest>A dragon has no sympathy for mortals. Its very nature is to dominate.</Dest>
+    </String>
+    <String List="2">
+      <Source>You handle yourself well. I could use someone like you by my side.</Source>
+      <Dest>You handle yourself well. I could use someone like you by my side.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, Giant slayer. How goes the hunt?</Source>
+      <Dest>Ah, Giant slayer. How goes the hunt?</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the death of Ulfric? Does that change anything?</Source>
+      <Dest>What about the death of Ulfric? Does that change anything?</Dest>
+    </String>
+    <String List="2">
+      <Source>It only delays the inevitable. Brunwulf's authority is already weak. It's easy to champion the cause of justice when your throne is not at stake.</Source>
+      <Dest>It only delays the inevitable. Brunwulf's authority is already weak. It's easy to champion the cause of justice when your throne is not at stake.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the death of Ulfric? Does that change anything?</Source>
+      <Dest>What about the death of Ulfric? Does that change anything?</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Ulfric was removed from power? Would that change anything?</Source>
+      <Dest>What if Ulfric was removed from power? Would that change anything?</Dest>
+    </String>
+    <String List="2">
+      <Source>It would only delay the inevitable. Whoever his replacement is would lack authority.</Source>
+      <Dest>It would only delay the inevitable. Whoever his replacement is would lack authority.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the death of Ulfric? Does that change anything?</Source>
+      <Dest>What about the death of Ulfric? Does that change anything?</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Ulfric was removed from power? Would that change anything?</Source>
+      <Dest>What if Ulfric was removed from power? Would that change anything?</Dest>
+    </String>
+    <String List="2">
+      <Source>To keep his throne he will have to satisfy the demands of his people. And that's when he will turn on the Elves.</Source>
+      <Dest>To keep his throne he will have to satisfy the demands of his people. And that's when he will turn on the Elves.</Dest>
+    </String>
+    <String List="0">
+      <Source>If it's a such joke, why aren't you laughing?</Source>
+      <Dest>If it's a such joke, why aren't you laughing?</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that kind of joke, fool. This one has no punchline. It only ends in tears.</Source>
+      <Dest>It's not that kind of joke, fool. This one has no punchline. It only ends in tears.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're right. Windhelm is a poor excuse for a city.</Source>
+      <Dest>You're right. Windhelm is a poor excuse for a city.</Dest>
+    </String>
+    <String List="2">
+      <Source>And every day the cracks in the walls grow deeper. Mark my words, this city is the next Helgen. Only it won't be dragonfire that burns it to ground.</Source>
+      <Dest>And every day the cracks in the walls grow deeper. Mark my words, this city is the next Helgen. Only it won't be dragonfire that burns it to ground.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have a problem with coming back here?</Source>
+      <Dest>Do you have a problem with coming back here?</Dest>
+    </String>
+    <String List="2">
+      <Source>Not at all. Unlike a dragon, it's impossible for a person to stay angry at all times. That's why I'm glad you brought me. This city is my kindling.</Source>
+      <Dest>Not at all. Unlike a dragon, it's impossible for a person to stay angry at all times. That's why I'm glad you brought me. This city is my kindling.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you come back then?</Source>
+      <Dest>Why do you come back then?</Dest>
+    </String>
+    <String List="2">
+      <Source>Unlike a dragon, it's impossible for a person to stay angry at all times. That's why I come back here. This city is my kindling.</Source>
+      <Dest>Unlike a dragon, it's impossible for a person to stay angry at all times. That's why I come back here. This city is my kindling.</Dest>
+    </String>
+    <String List="0">
+      <Source>What are your thoughts on Windhelm?</Source>
+      <Dest>你觉得风盔城怎么样?</Dest>
+    </String>
+    <String List="2">
+      <Source>My thoughts are that nothing has changed since I left.</Source>
+      <Dest>My thoughts are that nothing has changed since I left.</Dest>
     </String>
     <String List="0">
       <Source>What are your thoughts on Windhelm?</Source>
       <Dest>你觉得风盔城怎么样?</Dest>
     </String>
     <String List="0">
-      <Source>What are your thoughts on Windhelm?</Source>
-      <Dest>你觉得风舵城怎么样?</Dest>
+      <Source>You lived in this city?</Source>
+      <Dest>You lived in this city?</Dest>
+    </String>
+    <String List="2">
+      <Source>I moved here from Morrowind ten years ago. Before I left, my fellow Dunmer warned me the only thing colder than Windhelm was its people.</Source>
+      <Dest>I moved here from Morrowind ten years ago. Before I left, my fellow Dunmer warned me the only thing colder than Windhelm was its people.</Dest>
     </String>
     <String List="0">
       <Source>What are your thoughts on Windhelm?</Source>
-      <Dest>你觉得风舵城怎么样?</Dest>
+      <Dest>你觉得风盔城怎么样?</Dest>
+    </String>
+    <String List="0">
+      <Source>You lived in this city?</Source>
+      <Dest>You lived in this city?</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph. Back then I didn't find it funny, but now I realize this entire city is a joke.</Source>
+      <Dest>Hmph. Back then I didn't find it funny, but now I realize this entire city is a joke.</Dest>
     </String>
     <String List="0">
       <Source>What are your thoughts on Windhelm?</Source>
-      <Dest>你觉得风舵城怎么样?</Dest>
+      <Dest>你觉得风盔城怎么样?</Dest>
     </String>
     <String List="0">
-      <Source>Wait here for a moment.</Source>
-      <Dest>在这儿等一下.</Dest>
+      <Source>Why did you leave Morrowind?</Source>
+      <Dest>Why did you leave Morrowind?</Dest>
     </String>
-    <String List="0">
-      <Source>It's nothing. Never mind.</Source>
-      <Dest>没什么事，不用担心。</Dest>
+    <String List="2">
+      <Source>That's not something I care to talk about.</Source>
+      <Dest>That's not something I care to talk about.</Dest>
     </String>
-    <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
+    <String List="2">
+      <Source>If you seek my aid, that's where our paths will cross.</Source>
+      <Dest>If you seek my aid, that's where our paths will cross.</Dest>
     </String>
-    <String List="0">
-      <Source>I need you to do something for me.</Source>
-      <Dest>我需要你为我做件事情。</Dest>
+    <String List="2">
+      <Source>Beyond that, you'll find me in the shadow of every dragon in this Gods forsaken land. All you have to do is listen for their screams.</Source>
+      <Dest>Beyond that, you'll find me in the shadow of every dragon in this Gods forsaken land. All you have to do is listen for their screams.</Dest>
     </String>
-    <String List="0">
-      <Source>On second thought, I don't need anything.</Source>
-      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    <String List="2">
+      <Source>Damn! No sign of the dragon. The mammoths must be out grazing.</Source>
+      <Dest>Damn! No sign of the dragon. The mammoths must be out grazing.</Dest>
     </String>
-    <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，你看看。</Dest>
+    <String List="2">
+      <Source>Well, if I can't have a dragon, I'll settle for a Giant's head. Come on, let's kill these overgrown monkeys.</Source>
+      <Dest>Well, if I can't have a dragon, I'll settle for a Giant's head. Come on, let's kill these overgrown monkeys.</Dest>
+    </String>
+    <String List="2">
+      <Source>When they kneel before this altar, what they pray for is servitude.</Source>
+      <Dest>When they kneel before this altar, what they pray for is servitude.</Dest>
+    </String>
+    <String List="2">
+      <Source>I never understood why people pray to this man.  The one they call the "Dragon of the North."</Source>
+      <Dest>I never understood why people pray to this man.  The one they call the "Dragon of the North."</Dest>
+    </String>
+    <String List="2">
+      <Source>The Giant Camp is just east of the Shrine. You can smell the burnt skeever from here.</Source>
+      <Dest>The Giant Camp is just east of the Shrine. You can smell the burnt skeever from here.</Dest>
     </String>
     <String List="0">
       <Source>Wait here.</Source>
       <Dest>在这里等着。</Dest>
     </String>
     <String List="0">
-      <Source>Is that all?</Source>
-      <Dest>就这样？</Dest>
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下。</Dest>
     </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
-    </String>
-    <String List="0">
-      <Source>Alas, it's time for us to part ways.</Source>
-      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    <String List="2">
+      <Source>Waiting.</Source>
+      <Dest>还在等。</Dest>
     </String>
     <String List="0">
       <Source>Follow me.</Source>
       <Dest>跟我走。</Dest>
     </String>
     <String List="2">
+      <Source>Following.</Source>
+      <Dest>我跟着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. I'll resume the hunt on my own.</Source>
+      <Dest>Very well. I'll resume the hunt on my own.</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>So be it.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>不错，你看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Show me.</Source>
+      <Dest>让我看看。</Dest>
+    </String>
+    <String List="2">
       <Source>Still need something?</Source>
       <Dest>你还需要什么吗？</Dest>
     </String>
-    <String List="2">
-      <Source>Waiting.</Source>
-      <Dest>还在等。</Dest>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
     </String>
     <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
+      <Source>Say your piece.</Source>
+      <Dest>Say your piece.</Dest>
     </String>
-    <String List="2">
-      <Source>Following.</Source>
-      <Dest>跟上。</Dest>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你为我做件事情。</Dest>
     </String>
     <String List="2">
       <Source>Name your task.</Source>
       <Dest>报告你的任务。</Dest>
     </String>
-    <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
     </String>
     <String List="2">
-      <Source>Fine.</Source>
-      <Dest>好嘛。</Dest>
+      <Source>Keep it light. The one advantage we have is our speed.</Source>
+      <Dest>Keep it light. The one advantage we have is our speed.</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well. Let's trade.</Source>
+      <Dest>Very well. Let's trade.</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right. But don't make a habit of it.</Source>
+      <Dest>All right. But don't make a habit of it.</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我想跟你交易一些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. But this isn't the time or place to be swapping things.</Source>
+      <Dest>Fine. But this isn't the time or place to be swapping things.</Dest>
     </String>
     <String List="2">
       <Source>Is that all?</Source>
       <Dest>就这样？</Dest>
     </String>
     <String List="2">
-      <Source>So be it.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="2">
       <Source>Impossible.</Source>
       <Dest>不可能。</Dest>
     </String>
     <String List="2">
-      <Source>Show me.</Source>
-      <Dest>让我看看。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
+      <Source>I refuse.</Source>
+      <Dest>I refuse.</Dest>
     </String>
     <String List="2">
-      <Source>What now?</Source>
-      <Dest>那么现在？</Dest>
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>They say monsters grow bolder at night. Hmph. The only thing that grows is one's fear.</Source>
+      <Dest>They say monsters grow bolder at night. Hmph. The only thing that grows is one's fear.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh. I despise early mornings.</Source>
+      <Dest>Ugh. I despise early mornings.</Dest>
+    </String>
+    <String List="2">
+      <Source>The dawn light is said to be the weakest. And yet it burns the brightest.</Source>
+      <Dest>The dawn light is said to be the weakest. And yet it burns the brightest.</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say it's best to be calm before a battle. Don't listen to those fools. Let your blood boil.</Source>
+      <Dest>Some say it's best to be calm before a battle. Don't listen to those fools. Let your blood boil.</Dest>
+    </String>
+    <String List="2">
+      <Source>Remember, you don't have to follow the road. I like to forge my own path.</Source>
+      <Dest>Remember, you don't have to follow the road. I like to forge my own path.</Dest>
+    </String>
+    <String List="2">
+      <Source>Dragons don't leave tracks like other animals. But they do leave carnage.</Source>
+      <Dest>Dragons don't leave tracks like other animals. But they do leave carnage.</Dest>
+    </String>
+    <String List="2">
+      <Source>When a dragon comes for this city, everyone's first instinct will be to flee. But you can't outrun the sky.</Source>
+      <Dest>When a dragon comes for this city, everyone's first instinct will be to flee. But you can't outrun the sky.</Dest>
+    </String>
+    <String List="2">
+      <Source>The towns are filled with fools, who know naught but to go about their daily lives.</Source>
+      <Dest>The towns are filled with fools, who know naught but to go about their daily lives.</Dest>
+    </String>
+    <String List="2">
+      <Source>Even these primitive Nord cities have everything we need for the hunt. Food, lodging, goods, and rumors.</Source>
+      <Dest>Even these primitive Nord cities have everything we need for the hunt. Food, lodging, goods, and rumors.</Dest>
+    </String>
+    <String List="2">
+      <Source>In a city this big, you'll likely find all types of people. Choose your conversation partners carefully.</Source>
+      <Dest>In a city this big, you'll likely find all types of people. Choose your conversation partners carefully.</Dest>
+    </String>
+    <String List="2">
+      <Source>A store. Be sure to prepare well for the road ahead.</Source>
+      <Dest>A store. Be sure to prepare well for the road ahead.</Dest>
+    </String>
+    <String List="2">
+      <Source>The stores are good places to get poisons, temper materials, or enchantments. Seek every advantage you can get. </Source>
+      <Dest>The stores are good places to get poisons, temper materials, or enchantments. Seek every advantage you can get. </Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine the life of a store owner has its own trials. And they are all meaningless.</Source>
+      <Dest>I imagine the life of a store owner has its own trials. And they are all meaningless.</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no such thing as bad luck, only the ill prepared. So buy what you must. When opportunity comes, your choices here will bear fruit.</Source>
+      <Dest>There is no such thing as bad luck, only the ill prepared. So buy what you must. When opportunity comes, your choices here will bear fruit.</Dest>
+    </String>
+    <String List="2">
+      <Source>An inn. I suppose now's as good a time as any to rest.</Source>
+      <Dest>An inn. I suppose now's as good a time as any to rest.</Dest>
+    </String>
+    <String List="2">
+      <Source>Inns are a good place to meet other hunters, and the peddlers who arm them.</Source>
+      <Dest>Inns are a good place to meet other hunters, and the peddlers who arm them.</Dest>
+    </String>
+    <String List="2">
+      <Source>Watch your footing in these ice caves. One slip and you'll die nameless.</Source>
+      <Dest>Watch your footing in these ice caves. One slip and you'll die nameless.</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's clear this place quickly. I despise being indoors.</Source>
+      <Dest>Let's clear this place quickly. I despise being indoors.</Dest>
+    </String>
+    <String List="2">
+      <Source>A dragon lair. Filthy nests are everywhere.</Source>
+      <Dest>A dragon lair. Filthy nests are everywhere.</Dest>
+    </String>
+    <String List="2">
+      <Source>Nord inns reek of mead and fish. I almost prefer ash.</Source>
+      <Dest>Nord inns reek of mead and fish. I almost prefer ash.</Dest>
+    </String>
+    <String List="2">
+      <Source>Treat every shadow as if death lurks inside it.</Source>
+      <Dest>Treat every shadow as if death lurks inside it.</Dest>
+    </String>
+    <String List="2">
+      <Source>Who knows what dangers lie in these places. Burn the path ahead of you, and make apologies after.</Source>
+      <Dest>Who knows what dangers lie in these places. Burn the path ahead of you, and make apologies after.</Dest>
+    </String>
+    <String List="2">
+      <Source>Some who journey to Skyrim complain of snow. That is because they have never seen ash.</Source>
+      <Dest>Some who journey to Skyrim complain of snow. That is because they have never seen ash.</Dest>
+    </String>
+    <String List="2">
+      <Source>In Morrowind, even the brightest days are shrouded in a storm of unbridled smoke.</Source>
+      <Dest>In Morrowind, even the brightest days are shrouded in a storm of unbridled smoke.</Dest>
+    </String>
+    <String List="2">
+      <Source>When the dragons come to Markarth, the peasants will flee to this keep.</Source>
+      <Dest>When the dragons come to Markarth, the peasants will flee to this keep.</Dest>
+    </String>
+    <String List="2">
+      <Source>Only when he sees how hungry they are, the Jarl will lock the doors and leave them to die.</Source>
+      <Dest>Only when he sees how hungry they are, the Jarl will lock the doors and leave them to die.</Dest>
+    </String>
+    <String List="2">
+      <Source>Riften. Barenziah herself used to play thief in this town. Of course, that was before the city burned to the ground.</Source>
+      <Dest>Riften. Barenziah herself used to play thief in this town. Of course, that was before the city burned to the ground.</Dest>
+    </String>
+    <String List="2">
+      <Source>The city as it stands is little more than fifty years old. Barely out of the ground. And yet it still smells rotten.</Source>
+      <Dest>The city as it stands is little more than fifty years old. Barely out of the ground. And yet it still smells rotten.</Dest>
+    </String>
+    <String List="2">
+      <Source>The old Jarl, Hosgunn Crossed-Daggers was a fat, bloated, pig of a Nord. And like his cousins, he roasted on the spit.</Source>
+      <Dest>The old Jarl, Hosgunn Crossed-Daggers was a fat, bloated, pig of a Nord. And like his cousins, he roasted on the spit.</Dest>
+    </String>
+    <String List="2">
+      <Source>It took five years to rebuild this hovel. It was better left to ash.</Source>
+      <Dest>It took five years to rebuild this hovel. It was better left to ash.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Temple of Mara. To me, the marriage custom here seems like a grift. A way to peddle amulets to lonely fools.</Source>
+      <Dest>The Temple of Mara. To me, the marriage custom here seems like a grift. A way to peddle amulets to lonely fools.</Dest>
+    </String>
+    <String List="2">
+      <Source>Imagine what it was like when the Bretons first took this city. Not a trace of the Dwemer remained, not even their smell. Just cold, empty stone.</Source>
+      <Dest>Imagine what it was like when the Bretons first took this city. Not a trace of the Dwemer remained, not even their smell. Just cold, empty stone.</Dest>
+    </String>
+    <String List="2">
+      <Source>For all their pride, these Nords live in a city built by an Elven race.</Source>
+      <Dest>For all their pride, these Nords live in a city built by an Elven race.</Dest>
+    </String>
+    <String List="2">
+      <Source>A quarter century has passed since Ulfric took this city. That was the domino that started it all.</Source>
+      <Dest>A quarter century has passed since Ulfric took this city. That was the domino that started it all.</Dest>
+    </String>
+    <String List="2">
+      <Source>They say the Northern Dragon established a College here to train in the art of the shout. They must have converted it into that Dwemer museum.</Source>
+      <Dest>They say the Northern Dragon established a College here to train in the art of the shout. They must have converted it into that Dwemer museum.</Dest>
+    </String>
+    <String List="2">
+      <Source>As to why, your guess is as good as mine. There are no shortage of fools looking for power. Teachers, however, are another story.</Source>
+      <Dest>As to why, your guess is as good as mine. There are no shortage of fools looking for power. Teachers, however, are another story.</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>What is it?</Source>
-      <Dest>怎么了？</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="2">
+      <Source>Taste the bite of my arrow, vampire!</Source>
+      <Dest>Taste the bite of my arrow, vampire!</Dest>
+    </String>
+    <String List="2">
+      <Source>Pathetic.</Source>
+      <Dest>Pathetic.</Dest>
+    </String>
+    <String List="2">
+      <Source>All too easy.</Source>
+      <Dest>All too easy.</Dest>
+    </String>
+    <String List="2">
+      <Source>Not even worth mentioning.</Source>
+      <Dest>Not even worth mentioning.</Dest>
+    </String>
+    <String List="2">
+      <Source>Didn't even break a sweat.</Source>
+      <Dest>Didn't even break a sweat.</Dest>
+    </String>
+    <String List="2">
+      <Source>All too easy.</Source>
+      <Dest>All too easy.</Dest>
+    </String>
+    <String List="2">
+      <Source>Burn in Oblivion, all of you.</Source>
+      <Dest>Burn in Oblivion, all of you.</Dest>
+    </String>
+    <String List="2">
+      <Source>So we managed to survive. Hmph. It seems destiny demands we live to see another day.</Source>
+      <Dest>So we managed to survive. Hmph. It seems destiny demands we live to see another day.</Dest>
+    </String>
+    <String List="2">
+      <Source>That fight didn't go smoothly. We obviously didn't prepare enough.</Source>
+      <Dest>That fight didn't go smoothly. We obviously didn't prepare enough.</Dest>
+    </String>
+    <String List="2">
+      <Source>That wasn't a fight, it was a slaughter.</Source>
+      <Dest>That wasn't a fight, it was a slaughter.</Dest>
+    </String>
+    <String List="2">
+      <Source>What a joke.</Source>
+      <Dest>What a joke.</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead then, and I will drown the fires in blood.</Source>
+      <Dest>Lead then, and I will drown the fires in blood.</Dest>
+    </String>
+    <String List="2">
+      <Source>Death to dragons.</Source>
+      <Dest>Death to dragons.</Dest>
+    </String>
+    <String List="2">
+      <Source>Turn all your enemies to ash.</Source>
+      <Dest>Turn all your enemies to ash.</Dest>
+    </String>
+    <String List="2">
       <Source>As you will.</Source>
       <Dest>如你所愿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nerevar guide us.</Source>
+      <Dest>Nerevar guide us.</Dest>
+    </String>
+    <String List="2">
+      <Source>If we die, we die fighting.</Source>
+      <Dest>If we die, we die fighting.</Dest>
+    </String>
+    <String List="2">
+      <Source>Watch the skies, traveler.</Source>
+      <Dest>Watch the skies, traveler.</Dest>
+    </String>
+    <String List="2">
+      <Source>Blood and fire, fire and blood. </Source>
+      <Dest>Blood and fire, fire and blood. </Dest>
+    </String>
+    <String List="2">
+      <Source>Like the Foyadas of the Red Mountain, fire runs through our veins.</Source>
+      <Dest>Like the Foyadas of the Red Mountain, fire runs through our veins.</Dest>
+    </String>
+    <String List="2">
+      <Source>Those born in the fire are forged by it.</Source>
+      <Dest>Those born in the fire are forged by it.</Dest>
+    </String>
+    <String List="2">
+      <Source>No Dragon can withstand the fire of the Red Mountain. Let us douse them all in our flame.</Source>
+      <Dest>No Dragon can withstand the fire of the Red Mountain. Let us douse them all in our flame.</Dest>
+    </String>
+    <String List="2">
+      <Source>We've stopped. What's wrong?</Source>
+      <Dest>We've stopped. What's wrong?</Dest>
+    </String>
+    <String List="2">
+      <Source>What now?</Source>
+      <Dest>又怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>These caves run dark and deep. Watch yourself.</Source>
+      <Dest>These caves run dark and deep. Watch yourself.</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak. Waste not what little time this world has left.</Source>
+      <Dest>Speak. Waste not what little time this world has left.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

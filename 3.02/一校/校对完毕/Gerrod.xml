@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,1576 +7,1644 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>What happened with the second wife?</Source>
-      <Dest>你的第二任妻子怎么啦？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened with the second wife?</Source>
-      <Dest>你的第二任妻子怎么啦？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened with the second wife?</Source>
-      <Dest>你的第二任妻子怎么啦？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened with the second wife?</Source>
-      <Dest>你的第二任妻子怎么啦？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened with the second wife?</Source>
-      <Dest>你的第二任妻子怎么啦？</Dest>
-    </String>
-    <String List="0">
-      <Source>An illusionist pretends to be a hunter. An alteration mage becomes one.</Source>
-      <Dest>一个幻术师把自己伪装成一个猎人。而一个变化法师把自己变成一个猎人。</Dest>
-    </String>
-    <String List="0">
       <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息或传言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息或传言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息或传言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息或传言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Any interesting news or rumors?</Source>
-      <Dest>有什么有趣的消息或传言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's done is done.  Best to talk it out like adults.</Source>
-      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's done is done.  Best to talk it out like adults.</Source>
-      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's done is done.  Best to talk it out like adults.</Source>
-      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's done is done.  Best to talk it out like adults.</Source>
-      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must be a formidable warrior as well as a hunter.</Source>
-      <Dest>你必须是一个强大的战士和一个猎人。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must be a formidable warrior as well as a hunter.</Source>
-      <Dest>你必须是一个强大的战士和一个猎人。</Dest>
-    </String>
-    <String List="0">
-      <Source>You must be a formidable warrior as well as a hunter.</Source>
-      <Dest>你必须是一个强大的战士和一个猎人。</Dest>
-    </String>
-    <String List="0">
-      <Source>How have you managed to evade these mercenaries?</Source>
-      <Dest>你是怎么避开这些佣兵的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How have you managed to evade these mercenaries?</Source>
-      <Dest>你是怎么避开这些佣兵的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How have you managed to evade these mercenaries?</Source>
-      <Dest>你是怎么避开这些佣兵的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
-      <Dest>说得好，某些时候必须以暴制暴，以恶制恶。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
-      <Dest>说得好，某些时候必须以暴制暴，以恶制恶。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
-      <Dest>说得好，某些时候必须以暴制暴，以恶制恶。</Dest>
-    </String>
-    <String List="0">
-      <Source>Some people find violence enthralling.  You're talking to one of those people.</Source>
-      <Dest>有些人觉得暴力是美妙迷人的。你现在正和一个这样的人讲话。</Dest>
-    </String>
-    <String List="0">
-      <Source>Bravo sir. You are a credit to your race.</Source>
-      <Dest>好样的。你可真是你种族的良心。</Dest>
-    </String>
-    <String List="0">
-      <Source>Bravo sir. You are a credit to your race.</Source>
-      <Dest>好样的。你可真是你种族的良心。</Dest>
-    </String>
-    <String List="0">
-      <Source>Butchers divide meat into parts because it's practical, not to hide its origin.</Source>
-      <Dest>屠夫把肉分成几块是因为这样很实用，而不是为了掩饰它的来源。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you get your coin back from the sellswords.  Circle of life.</Source>
-      <Dest>所以你从佣兵那边拿回了钱，人生还真是循环往复。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you get your coin back from the sellswords.  Circle of life.</Source>
-      <Dest>所以你从佣兵那边拿回了钱，人生还真是循环往复。</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>These stories don't explain how the marriages ended.</Source>
-      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
-    </String>
-    <String List="0">
-      <Source>These stories don't explain how the marriages ended.</Source>
-      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
-    </String>
-    <String List="0">
-      <Source>These stories don't explain how the marriages ended.</Source>
-      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
-    </String>
-    <String List="0">
-      <Source>A divorce means cutting the ball and chain.  You seem to carry them with you.</Source>
-      <Dest>分离意味着把铁球和锁链切断。而由你来背负它们。</Dest>
-    </String>
-    <String List="0">
-      <Source>A divorce means cutting the ball and chain.  You seem to carry them with you.</Source>
-      <Dest>分离意味着把铁球和锁链切断。而由你来背负它们。</Dest>
-    </String>
-    <String List="0">
-      <Source>And here I was about to question your manhood.  Glad we avoided that.</Source>
-      <Dest>在这里我曾经想要质疑你的男子气概。很高兴我们避免了这事。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about your first wife.</Source>
-      <Dest>说说你第一任妻子的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about your first wife.</Source>
-      <Dest>说说你第一任妻子的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about your first wife.</Source>
-      <Dest>说说你第一任妻子的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about your first wife.</Source>
-      <Dest>说说你第一任妻子的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>If the Divines wanted me to be peaceful, they wouldn't have given me fists.</Source>
-      <Dest>如果老天想要我忍，就不会赐给我拳头。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to have difficulties with marriage.</Source>
-      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to have difficulties with marriage.</Source>
-      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to have difficulties with marriage.</Source>
-      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to have difficulties with marriage.</Source>
-      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to have difficulties with marriage.</Source>
-      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just looking for somewhere to stash the bodies.</Source>
-      <Dest>我在找个好地方存放尸体呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just looking for somewhere to stash the bodies.</Source>
-      <Dest>我在找个好地方存放尸体呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm a wanderer.  I wander.  This is where I happened to wander off to.</Source>
-      <Dest>我是一个流浪者。到处走走，碰巧来到这里。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm a wanderer.  I wander.  This is where I happened to wander off to.</Source>
-      <Dest>我是一个流浪者。到处走走，碰巧来到这里。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not exactly.  My wives aren't fools.  They pay some in advance, but the full bounty isn't paid until my head is stuffed and mounted on their door.</Source>
-      <Dest>没那么简单。我的老婆们不是白痴。她们只付订金，要领全赏的就得先把我的脑袋当战利品挂在她们的门上。</Dest>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
     </String>
     <String List="2">
       <Source>A fur trader came by the other day and offered me an excellent price on a pair of fox skins.  Too good of a price.</Source>
       <Dest>前几天，一个毛皮商人来了，给我的那双狐狸皮出了个好价格。那价格太让我满意了。</Dest>
     </String>
-    <String List="2">
-      <Source>There's mouths to feed and you have to feed them.  If I were a sensible man, I'd kill all six of the hungry bastards, but I'm not one for violence.</Source>
-      <Dest>张嘴要吃饭，你就得喂他们。幸亏我不在乎，不然我肯定先宰六个饿死鬼王八蛋，我不是崇尚暴力的人。</Dest>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
     </String>
     <String List="2">
-      <Source>You're half right.  I was always great at getting married, but staying married was another issue altogether.</Source>
-      <Dest>说对了一半。在通往结婚的路上我是一把好手，但维持婚姻却是个完全不同的事情。</Dest>
+      <Source>I walked over to the table with my back turned.  He thought I was counting the skins, when I was really reaching for the dagger underneath them.</Source>
+      <Dest>I walked over to the table with my back turned.  He thought I was counting the skins, when I was really reaching for the dagger underneath them.</Dest>
     </String>
-    <String List="2">
-      <Source>And when they found out, well, let's just say having three pregnant ladies wanting you dead tends to build up a bit of animosity on both sides.</Source>
-      <Dest>当他们搞明白是怎么回事儿的时候，唔，简单说就是有三个孕妇想让你死，以此来破坏双边关系。</Dest>
-    </String>
-    <String List="2">
-      <Source>None.  Unless you've brought some.  Hopefully it's news about my wives, and their untimely and incredibly gruesome deaths.</Source>
-      <Dest>没有。除非你带来了一些。希望是我的妻子的消息，以及她们过早而令人难以置信的，可怕的死去的消息。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) I wouldn't go that far.  What I did wasn't something to be proud of, but it certainly isn't worth the sentence I've been given.</Source>
-      <Dest>（笑）那可不敢说。我做的不算什么值得骄傲的事，可也不值得你那么夸。</Dest>
-    </String>
-    <String List="2">
-      <Source>The cliffs provide an excellent vantage point.  The terrain is mostly uphill and there's plenty of cover to hide and ambush a group of mercs.</Source>
-      <Dest>那些悬崖提供了绝佳的位置。那里的地形大多是上坡而且有足够多的掩护可以埋伏一队人。</Dest>
-    </String>
-    <String List="2">
-      <Source>I must've stared a little too long, because before I knew it, she had made it halfway down the walkway.</Source>
-      <Dest>我肯定已经盯得出神好一阵了，因为当我反应过来，她都走出好远了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You'd make an excellent soldier then, and an even better spouse.  Seems all either knows is war.</Source>
-      <Dest>战争证明了你不仅是个好士兵，还是个好配偶。</Dest>
-    </String>
-    <String List="2">
-      <Source>You and I think alike. That's pretty much what I suggested to my wives, not that it did any good.</Source>
-      <Dest>我和你想的一样。我给我妻子的建议差不多就是这样，这没什么好的。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Funny thing is, stupid as I am I still send the wives more gold, and sure enough every septim goes toward more sellswords.</Source>
-      <Dest>可笑的地方在于，我这个蠢货居然还在源源不断地给妻子们寄钱，而且毫无疑问地那每一个金币都流进了佣兵的口袋里。</Dest>
-    </String>
-    <String List="2">
-      <Source>I think there's going to come a time when it's not even necessary.  At least, the kind of violence you see in wars.</Source>
-      <Dest>我认为暴力不再必不可少的时代总会来临。至少，不是你在战争中所看见的那种暴力。</Dest>
-    </String>
-    <String List="2">
-      <Source>Worst part is they hired them with my gold.  Gold I gave them to help care for the children.  Still don't know how I've survived this long.</Source>
-      <Dest>最糟糕的是她们用我的钱雇佣的这伙人。我给她们这些钱是让她们照顾孩子的。真不知道我是怎么活这么久的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then I met my first wife, and for a time I only had eyes for her. A very short time, as it so happens.  Three wives later, and I'm still wandering.</Source>
-      <Dest>然后，我遇到了我的第一任妻子，当时我的眼里只有她。一切都来的太快，事情就这么发生了。后来经过三段婚姻后，我仍然恍恍惚惚。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now if you want the gory details, I can give you those too.  Maybe passing on some frightening tales will scare you off making your own prison vows.</Source>
-      <Dest>现在如果你想听些血淋淋的细节， 我也能告诉你。  不过或许跟你说一些吓人的故事会吓着你，让你不敢做你的供词。</Dest>
-    </String>
-    <String List="2">
-      <Source>It happened for Tiber Septim, and it could very well happen again. Then we'll have peace, because warriors will have nothing left to conquer.</Source>
-      <Dest>这在泰伯‧赛普汀身上发生过一次，也很有可能会再次发生。然后我们就会获得和平，因为战士们没留下什么可供征服的东西了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah, that would've been rather uncomfortable.  I believe in peace, but I'm no pacifist, and I hate insults as much as the next man.</Source>
-      <Dest>是啊，这就已经足够让人不舒服了。我信仰和平，但我不是和平主义者，而且我也和下一个人一样讨厌侮辱。</Dest>
-    </String>
-    <String List="2">
-      <Source>Only when I reached out to open it, I found my hand frozen in place.</Source>
-      <Dest>只是当我伸手要去打开它的时候，我发现我的手在那里僵住了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You see, there are advantages to keeping secrets from your wife.  Or wives plural, in my case.</Source>
-      <Dest>你瞧，对于我而言，向你的妻子，或许是妻子“们”隐瞒真相会带来巨大好处。</Dest>
-    </String>
-    <String List="2">
-      <Source>But while she was fast, I was faster, and a better fighter.  I sped down to the ground floor, storming through armies of Dwarven spiders.</Source>
-      <Dest>虽然她身手敏捷骁勇善战，却终究比不过我。我冲进了地下，骤风般的越过了大批的矮人蜘蛛。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) Just kidding stranger.  None of my former wives count themselves among the dead.  But one can hope.</Source>
-      <Dest>(大笑) 只是个玩笑陌生人。还没有我哪个前妻在死尸堆里发现了她自己。不过希望还是有的。</Dest>
-    </String>
-    <String List="2">
-      <Source>The one thing it does go well with is bread, and of course she never bothered to use it as a spread.</Source>
-      <Dest>唯一正常的是面包，但她从不把面包摆上餐桌。</Dest>
-    </String>
-    <String List="2">
-      <Source>What I did is stop showing up for meals.  She thought I was cheating on her.  I was, but not with another woman.  It was with another cook.</Source>
-      <Dest>我就是没去吃饭了而已。她以为我对她不忠。没错，但对象不是另一个女人。而是另一个厨子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah, did I forget to mention that they're all living together now?  Bunking together like a nest of hagravens?</Source>
-      <Dest>对，我是不是忘了提他们现在都住在一起了？像一窝子乌鸦鬼婆一样睡在一起?</Dest>
-    </String>
-    <String List="2">
-      <Source>If you've never had it, it's this disgusting slime made from egg yolk, lemon juice, and oil of the olive.</Source>
-      <Dest>如果你无法想象的话，我就给你说道说道。那个恶心的东西是被蛋黄，柠檬汁，橄榄油堆起来的一坨。</Dest>
-    </String>
-    <String List="2">
-      <Source>My second wife was a good woman, but a terrible cook.  Put condiments on everything.</Source>
-      <Dest>我的第二个妻子是一个好女人，但是却是一个糟糕的厨师。不管是什么东西她都得加上调味品。</Dest>
-    </String>
-    <String List="2">
-      <Source>My secret is simple.  It's a lot easier to evade a dead man than a live one.  And I've killed every sellsword those harpies have sent after me.</Source>
-      <Dest>我的秘密很简单。从死人手里逃脱比活人更容易。我杀了这帮子乌鸦鬼婆派来的的所有佣兵。</Dest>
-    </String>
-    <String List="2">
-      <Source>She even thought it made an adequate substitute for Sunshine sauce.  I've never tasted a worse souffle in all my years.</Source>
-      <Dest>她甚至认为它能够用来作为阳光酱的替代品。我这一辈子就没吃过比这更难吃的蛋奶酥。</Dest>
-    </String>
-    <String List="2">
-      <Source>The only talking those three did is with the local mercs.  Hired an army of them to hunt me down and take little Gerrod home in a sack.</Source>
-      <Dest>那三个人只和当地的佣兵说了话。聘请他们来追捕我，然后把小杰瑞德装在麻袋里带回家。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, that's clever now, isn't it?  Seems to me you can't call a man a liar if he's telling the truth, even if it isn't the whole one.</Source>
-      <Dest>哈啊，很聪明，不是吗？对我而言，倘若一个人有跟你将真话，即便那并不是全部，你也不应该骂人家骗子。</Dest>
-    </String>
-    <String List="2">
-      <Source>It'll happen one long night, when some great power sweeps over the land like the return of a vengeful God. </Source>
-      <Dest>它将发生在一个漫漫长夜，当某种神力拂过大地，如同复仇之神再临人间。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know why either. I'm a docile man, never raised my voice, never unfaithful to any of them.  Just unlucky in love, I guess.</Source>
-      <Dest>我也不知道为什么。我是一个善良的人，从不提高嗓门，也没对她们有任何的不忠。只是爱情运糟糕透了，大概吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh.  Maybe you've got a point.  I guess what I'm talking about is more of an unintentional side effect. </Source>
-      <Dest>呵。看来你已经找到重点了。我猜我和你谈这些只是无意之举。</Dest>
-    </String>
-    <String List="2">
-      <Source>She came bursting through from the opposite balcony, a Redguard mage, in blue robes.</Source>
-      <Dest>她突然从对面的阳台跳了过来。那是个红卫法师，穿着蓝色的法袍。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's just that I was married to all three at the same time.</Source>
-      <Dest>只不过我同时跟三个人结婚了。</Dest>
-    </String>
-    <String List="2">
-      <Source>At last I reached the great hall where the treasure awaited, sitting on a platform of smooth stone.</Source>
-      <Dest>最后我终于到达了宝藏所在的大厅，它就在一个光滑的石台上。</Dest>
-    </String>
-    <String List="2">
-      <Source>My wives aim to kill me, placing a bounty on my head with the very gold I offer to them as support.</Source>
-      <Dest>我的妻子想杀了我，用我给她们的金子来悬赏我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Looks can be every bit as deceiving as words, and clothes do not always make the man.</Source>
-      <Dest>外貌可以跟语言上的欺骗一样毫无二致。所以别以貌取人。</Dest>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
     </String>
     <String List="2">
       <Source>I turned and stuck him in the belly just as he raised his knife to my neck.  (Sigh) Those wives of mine are getting craftier and craftier.</Source>
       <Dest>当他向我脖子举起刀子时，我转身刺向他的胃部。(叹气) 我的妻子们越来越狡猾了。</Dest>
     </String>
-    <String List="2">
-      <Source>And they gave you a mind as well, so you'd know when to open your hand.</Source>
-      <Dest>他们跟你想的一样，所以你得知道什么时候要张开自己的手。</Dest>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
     </String>
     <String List="2">
-      <Source>I don't know if you have a spouse, but if you ever want to know what married life is like, it's pretty easy to replicate.</Source>
-      <Dest>我不知道你是否有配偶，但如果你想知道婚姻生活是什么样， 复制一个很轻松的。</Dest>
+      <Source>None.  Unless you've brought some.  Hopefully it's news about my wives, and their untimely and incredibly gruesome deaths.</Source>
+      <Dest>没有。除非你带来了一些。希望是我的妻子的消息，以及她们过早而令人难以置信的，可怕的死去的消息。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any interesting news or rumors?</Source>
+      <Dest>有什么有趣的消息和传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Killed a couple more sellswords the other day.  These mercs are like gnats.  I can swat at them all day but the elephants are still out and about.</Source>
+      <Dest>Killed a couple more sellswords the other day.  These mercs are like gnats.  I can swat at them all day but the elephants are still out and about.</Dest>
+    </String>
+    <String List="0">
+      <Source>Butchers divide meat into parts because it's practical, not to hide its origin.</Source>
+      <Dest>屠夫把肉分成几块是因为这样很实用，而不是为了掩饰它的来源。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh.  Maybe you've got a point.  I guess what I'm talking about is more of an unintentional side effect. </Source>
+      <Dest>呵。看来你已经找到重点了。我猜我和你谈这些只是无意之举。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just looking for somewhere to stash the bodies.</Source>
+      <Dest>我在找个好地方存放尸体呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorry, but the floorboards are already lumpy enough as it is, with all my ex-wives under it! </Source>
+      <Dest>Sorry, but the floorboards are already lumpy enough as it is, with all my ex-wives under it! </Dest>
+    </String>
+    <String List="0">
+      <Source>Just looking for somewhere to stash the bodies.</Source>
+      <Dest>我在找个好地方存放尸体呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Just kidding stranger.  None of my former wives count themselves among the dead.  But one can hope.</Source>
+      <Dest>(大笑) 只是个玩笑陌生人。还没有我哪个前妻在死尸堆里发现了她自己。不过希望还是有的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bravo sir. You are a credit to your race.</Source>
+      <Dest>好汉。你可真是你种族的良心。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I wouldn't go that far.  What I did wasn't something to be proud of, but it certainly isn't worth the sentence I've been given.</Source>
+      <Dest>（笑）那可不敢说。我做的不算什么值得骄傲的事，可也不值得你那么夸。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bravo sir. You are a credit to your race.</Source>
+      <Dest>好汉。你可真是你种族的良心。</Dest>
+    </String>
+    <String List="2">
+      <Source>My wives aim to kill me, placing a bounty on my head with the very gold I offer to them as support.</Source>
+      <Dest>我的妻子想杀了我，用我给她们的金子来悬赏我。</Dest>
+    </String>
+    <String List="0">
+      <Source>An illusionist pretends to be a hunter. An alteration mage becomes one.</Source>
+      <Dest>一个幻术师伪装成猎人.而另一个变化法师把自己锻炼成为一个猎人.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that's clever now, isn't it?  Seems to me you can't call a man a liar if he's telling the truth, even if it isn't the whole one.</Source>
+      <Dest>哈啊，很聪明，不是吗？对我而言，倘若一个人有跟你将真话，即便那并不是全部，你也不应该骂人家骗子。</Dest>
+    </String>
+    <String List="0">
+      <Source>A divorce means cutting the ball and chain.  You seem to carry them with you.</Source>
+      <Dest>分离意味着切开球和锁链。而由你来背负它们。</Dest>
     </String>
     <String List="2">
       <Source>Well, that's what happens when you put three separate buns in the oven.  When it comes time to make a clean break, you can't.</Source>
       <Dest>就好比把三个独立的面包放进烤箱。 到了该要一刀两断的时候你却不能。</Dest>
     </String>
-    <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+    <String List="0">
+      <Source>A divorce means cutting the ball and chain.  You seem to carry them with you.</Source>
+      <Dest>分离意味着切开球和锁链。而由你来背负它们。</Dest>
     </String>
     <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>There's mouths to feed and you have to feed them.  If I were a sensible man, I'd kill all six of the hungry bastards, but I'm not one for violence.</Source>
+      <Dest>张嘴要吃饭，你就得喂他们。幸亏我不在乎，不然我肯定先宰六个饿死鬼王八蛋，我不是崇尚暴力的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>These stories don't explain how the marriages ended.</Source>
+      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
     </String>
     <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>Alright, I guess I wasn't being entirely truthful when I said I was never unfaithful.  I mean yes, I've never bedded a woman who wasn't my wife.</Source>
+      <Dest>Alright, I guess I wasn't being entirely truthful when I said I was never unfaithful.  I mean yes, I've never bedded a woman who wasn't my wife.</Dest>
+    </String>
+    <String List="0">
+      <Source>These stories don't explain how the marriages ended.</Source>
+      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
     </String>
     <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>It's just that I was married to all three at the same time.</Source>
+      <Dest>只不过我同时跟三个人结婚了。</Dest>
+    </String>
+    <String List="0">
+      <Source>These stories don't explain how the marriages ended.</Source>
+      <Dest>那些故事并没有解释婚姻是怎么终结的。</Dest>
     </String>
     <String List="2">
-      <Source>I had been exploring a Dwarven ruin, working my way through a long passageway that led to a balcony overlooking a deep pit.</Source>
-      <Dest>我探索过一个矮人遗迹，费力跑了一大段路到一个可以看到矿井的露台上。</Dest>
+      <Source>And when they found out, well, let's just say having three pregnant ladies wanting you dead tends to build up a bit of animosity on both sides.</Source>
+      <Dest>当他们搞明白是怎么回事儿的时候，唔，简单说就是有三个孕妇想让你死，以此来破坏双边关系。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
+      <Dest>说得好，有时候暴力可能是必不可少的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think there's going to come a time when it's not even necessary.  At least, the kind of violence you see in wars.</Source>
+      <Dest>我认为暴力不再必不可少的时代总会来临。至少，不是你在战争中所看见的那种暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
+      <Dest>说得好，有时候暴力可能是必不可少的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'll happen one long night, when some great power sweeps over the land like the return of a vengeful God. </Source>
+      <Dest>它将发生在一个漫漫长夜，当某种神力拂过大地，如同复仇之神再临人间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well said. At times violence may be a necessary evil, but evil it is.</Source>
+      <Dest>说得好，有时候暴力可能是必不可少的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It happened for Tiber Septim, and it could very well happen again. Then we'll have peace, because warriors will have nothing left to conquer.</Source>
+      <Dest>这在泰伯‧赛普汀身上发生过一次，也很有可能会再次发生。然后我们就会获得和平，因为战士们没留下什么可供征服的东西了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have difficulties with marriage.</Source>
+      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're half right.  I was always great at getting married, but staying married was another issue altogether.</Source>
+      <Dest>说对了一半。在通往结婚的路上我是一把好手，但维持婚姻却是个完全不同的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have difficulties with marriage.</Source>
+      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know why either. I'm a docile man, never raised my voice, never unfaithful to any of them.  Just unlucky in love, I guess.</Source>
+      <Dest>我也不知道为什么。我是一个善良的人，从不提高嗓门，也没对她们有任何的不忠。只是爱情运糟糕透了，大概吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have difficulties with marriage.</Source>
+      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if you have a spouse, but if you ever want to know what married life is like, it's pretty easy to replicate.</Source>
+      <Dest>我不知道你是否有配偶，但如果你想知道婚姻生活是什么样， 复制一个很轻松的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have difficulties with marriage.</Source>
+      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fill a bucket with spiders, place it on your head, and then bang it all night with a spoon.</Source>
+      <Dest>Fill a bucket with spiders, place it on your head, and then bang it all night with a spoon.</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have difficulties with marriage.</Source>
+      <Dest>看来你在婚姻问题上有不少障碍呀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now if you want the gory details, I can give you those too.  Maybe passing on some frightening tales will scare you off making your own prison vows.</Source>
+      <Dest>现在如果你想听些血淋淋的细节， 我也能告诉你。  不过或许跟你说一些吓人的故事会吓着你，让你不敢做你的供词。</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I swallowed that garbage for three years but never complained.  I hate confrontations almost as much as I hate violence.</Source>
+      <Dest>I swallowed that garbage for three years but never complained.  I hate confrontations almost as much as I hate violence.</Dest>
+    </String>
+    <String List="0">
+      <Source>So what did you do?</Source>
+      <Dest>那么你做了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What I did is stop showing up for meals.  She thought I was cheating on her.  I was, but not with another woman.  It was with another cook.</Source>
+      <Dest>我就是没去吃饭了而已。她以为我对她不忠。没错，但对象不是另一个女人。而是另一个厨子。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with the second wife?</Source>
+      <Dest>第二任妻子怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>My second wife was a good woman, but a terrible cook.  Put condiments on everything.</Source>
+      <Dest>我的第二个妻子是一个好女人，但是却是一个糟糕的厨师。不管是什么东西她都得加上调味品。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with the second wife?</Source>
+      <Dest>第二任妻子怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>Pickled sauces from Cyrodiil, mustards and mayonnaise from High Rock.  Always with the Breton mayonnaise. On salads, meats, even cakes.</Source>
+      <Dest>Pickled sauces from Cyrodiil, mustards and mayonnaise from High Rock.  Always with the Breton mayonnaise. On salads, meats, even cakes.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with the second wife?</Source>
+      <Dest>第二任妻子怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you've never had it, it's this disgusting slime made from egg yolk, lemon juice, and oil of the olive.</Source>
+      <Dest>如果你无法想象的话，我就给你说道说道。那个恶心的东西是被蛋黄，柠檬汁，橄榄油堆起来的一坨。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with the second wife?</Source>
+      <Dest>第二任妻子怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>She even thought it made an adequate substitute for Sunshine sauce.  I've never tasted a worse souffle in all my years.</Source>
+      <Dest>她甚至认为它能够用来作为阳光酱的替代品。我这一辈子就没吃过比这更难吃的蛋奶酥。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened with the second wife?</Source>
+      <Dest>第二任妻子怎么啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>The one thing it does go well with is bread, and of course she never bothered to use it as a spread.</Source>
+      <Dest>唯一正常的是面包，但她从不把面包摆上餐桌。</Dest>
+    </String>
+    <String List="0">
+      <Source>And here I was about to question your manhood.  Glad we avoided that.</Source>
+      <Dest>在这里我曾经想要质疑你的男子气概。很高兴我们避免了这事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, that would've been rather uncomfortable.  I believe in peace, but I'm no pacifist, and I hate insults as much as the next man.</Source>
+      <Dest>是啊，这就已经足够让人不舒服了。我信仰和平，但我不是和平主义者，而且我也和下一个人一样讨厌侮辱。</Dest>
+    </String>
+    <String List="0">
+      <Source>If the Divines wanted me to be peaceful, they wouldn't have given me fists.</Source>
+      <Dest>如果老天想要我忍，就不会赐给我拳头。</Dest>
+    </String>
+    <String List="2">
+      <Source>And they gave you a mind as well, so you'd know when to open your hand.</Source>
+      <Dest>他们跟你想的一样，所以你得知道什么时候要张开自己的手。</Dest>
+    </String>
+    <String List="0">
+      <Source>How have you managed to evade these mercenaries?</Source>
+      <Dest>你如何设法规避这些雇佣军？</Dest>
+    </String>
+    <String List="2">
+      <Source>My secret is simple.  It's a lot easier to evade a dead man than a live one.  And I've killed every sellsword those harpies have sent after me.</Source>
+      <Dest>我的秘密很简单。从死人手里逃脱比活人更容易。我杀了这帮子乌鸦鬼婆派来的的所有佣兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>How have you managed to evade these mercenaries?</Source>
+      <Dest>你如何设法规避这些雇佣军？</Dest>
     </String>
     <String List="2">
       <Source>Truth is, I don't live in this remote outpost to run from my pursuers.  I do it to trap them.</Source>
       <Dest>事实是，我并没有住在偏远地区来躲避追捕者。我那是给他们设下陷阱。</Dest>
     </String>
     <String List="0">
-      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
-      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
+      <Source>How have you managed to evade these mercenaries?</Source>
+      <Dest>你如何设法规避这些雇佣军？</Dest>
+    </String>
+    <String List="2">
+      <Source>The cliffs provide an excellent vantage point.  The terrain is mostly uphill and there's plenty of cover to hide and ambush a group of mercs.</Source>
+      <Dest>那些悬崖提供了绝佳的位置。那里的地形大多是上坡而且有足够多的掩护可以埋伏一队人。</Dest>
     </String>
     <String List="0">
-      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
-      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I must've stared a little too long, because before I knew it, she had made it halfway down the walkway.</Source>
+      <Dest>我肯定已经盯得出神好一阵了，因为当我反应过来，她都走出好远了。</Dest>
     </String>
     <String List="0">
-      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
-      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But while she was fast, I was faster, and a better fighter.  I sped down to the ground floor, storming through armies of Dwarven spiders.</Source>
+      <Dest>虽然她身手敏捷骁勇善战，却终究比不过我。我冲进了地下，骤风般的越过了大批的矮人蜘蛛。</Dest>
     </String>
     <String List="0">
-      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
-      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>At last I reached the great hall where the treasure awaited, sitting on a platform of smooth stone.</Source>
+      <Dest>最后我终于到达了宝藏所在的大厅，它就在一个光滑的石台上。</Dest>
     </String>
     <String List="0">
-      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
-      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only when I reached out to open it, I found my hand frozen in place.</Source>
+      <Dest>只是当我伸手要去打开它的时候，我发现我的手在那里僵住了。</Dest>
     </String>
     <String List="0">
-      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
-      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+      <Source>Tell me about your first wife.</Source>
+      <Dest>说说你第一任妻子的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>I had been exploring a Dwarven ruin, working my way through a long passageway that led to a balcony overlooking a deep pit.</Source>
+      <Dest>我探索过一个矮人遗迹，费力跑了一大段路到一个可以看到矿井的露台上。</Dest>
     </String>
     <String List="0">
-      <Source>(Speechcraft) Strange.  What does a hunter know about souffles?</Source>
-      <Dest>(口才) 奇怪。一个猎人知道什么蛋奶酥？</Dest>
+      <Source>Tell me about your first wife.</Source>
+      <Dest>说说你第一任妻子的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>She came bursting through from the opposite balcony, a Redguard mage, in blue robes.</Source>
+      <Dest>她突然从对面的阳台跳了过来。那是个红卫法师，穿着蓝色的法袍。</Dest>
     </String>
     <String List="0">
-      <Source>And you'll supply the market.</Source>
-      <Dest>而你将为市场供货。</Dest>
+      <Source>Tell me about your first wife.</Source>
+      <Dest>说说你第一任妻子的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>For an instant our eyes met, our wordless stare saying what we both already knew.</Source>
+      <Dest>For an instant our eyes met, our wordless stare saying what we both already knew.</Dest>
     </String>
     <String List="0">
-      <Source>And you'll supply the market.</Source>
-      <Dest>而你将为市场供货。</Dest>
+      <Source>Tell me about your first wife.</Source>
+      <Dest>说说你第一任妻子的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>The treasure lied somewhere at the bottom, about the same distance from the both of us.  It was an old fashioned footrace.</Source>
+      <Dest>The treasure lied somewhere at the bottom, about the same distance from the both of us.  It was an old fashioned footrace.</Dest>
     </String>
     <String List="0">
-      <Source>Surely you learned something by the third wife.</Source>
-      <Dest>当然，你肯定从你的第三任妻子身上学到了什么。</Dest>
+      <Source>I'm a wanderer.  I wander.  This is where I happened to wander off to.</Source>
+      <Dest>我是一个流浪者。到处走走，碰巧来到这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good for you.  I used to wander myself back in my youth.  Only not with my feet so much as my eyes.</Source>
+      <Dest>Good for you.  I used to wander myself back in my youth.  Only not with my feet so much as my eyes.</Dest>
     </String>
     <String List="0">
-      <Source>Surely you learned something by the third wife.</Source>
-      <Dest>当然，你肯定从你的第三任妻子身上学到了什么。</Dest>
+      <Source>I'm a wanderer.  I wander.  This is where I happened to wander off to.</Source>
+      <Dest>我是一个流浪者。到处走走，碰巧来到这里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I met my first wife, and for a time I only had eyes for her. A very short time, as it so happens.  Three wives later, and I'm still wandering.</Source>
+      <Dest>然后，我遇到了我的第一任妻子，当时我的眼里只有她。一切都来的太快，事情就这么发生了。后来经过三段婚姻后，我仍然恍恍惚惚。</Dest>
     </String>
     <String List="0">
-      <Source>Surely you learned something by the third wife.</Source>
-      <Dest>当然，你肯定从你的第三任妻子身上学到了什么。</Dest>
+      <Source>Some people find violence enthralling.  You're talking to one of those people.</Source>
+      <Dest>有些人觉得暴力是多美美妙。你现在正和一个这样的人讲话。</Dest>
+    </String>
+    <String List="2">
+      <Source>You'd make an excellent soldier then, and an even better spouse.  Seems all either knows is war.</Source>
+      <Dest>战争证明了你不仅是个好士兵，还是个好配偶。</Dest>
     </String>
     <String List="0">
-      <Source>Surely you learned something by the third wife.</Source>
-      <Dest>当然，你肯定从你的第三任妻子身上学到了什么。</Dest>
+      <Source>You must be a formidable warrior as well as a hunter.</Source>
+      <Dest>你必须是一个强大的战士和一个猎人</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm no warrior, but I'm not just a hunter either.  But don't tell that to the mercenaries who are after my head.</Source>
+      <Dest>I'm no warrior, but I'm not just a hunter either.  But don't tell that to the mercenaries who are after my head.</Dest>
     </String>
     <String List="0">
-      <Source>(Yawn) Oh, I'm sorry, I wasn't listening. You must have been boring me.</Source>
-      <Dest>（打哈欠）噢，抱歉，我没在听。你肯定是在逗我玩。</Dest>
+      <Source>You must be a formidable warrior as well as a hunter.</Source>
+      <Dest>你必须是一个强大的战士和一个猎人</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, there are advantages to keeping secrets from your wife.  Or wives plural, in my case.</Source>
+      <Dest>你瞧，对于我而言，向你的妻子，或许是妻子“们”隐瞒真相会带来巨大好处。</Dest>
     </String>
     <String List="0">
-      <Source>You're despicable.</Source>
-      <Dest>真卑鄙啊你！</Dest>
+      <Source>You must be a formidable warrior as well as a hunter.</Source>
+      <Dest>你必须是一个强大的战士和一个猎人</Dest>
+    </String>
+    <String List="2">
+      <Source>Looks can be every bit as deceiving as words, and clothes do not always make the man.</Source>
+      <Dest>外貌可以跟语言上的欺骗一样毫无二致。所以别以貌取人。</Dest>
     </String>
     <String List="0">
-      <Source>You're despicable.</Source>
-      <Dest>真卑鄙啊你！</Dest>
+      <Source>What's done is done.  Best to talk it out like adults.</Source>
+      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>You and I think alike. That's pretty much what I suggested to my wives, not that it did any good.</Source>
+      <Dest>我和你想的一样。我给我妻子的建议差不多就是这样，这没什么好的。 </Dest>
     </String>
     <String List="0">
-      <Source>You're despicable.</Source>
-      <Dest>真卑鄙啊你！</Dest>
+      <Source>What's done is done.  Best to talk it out like adults.</Source>
+      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only talking those three did is with the local mercs.  Hired an army of them to hunt me down and take little Gerrod home in a sack.</Source>
+      <Dest>那三个人只和当地的佣兵说了话。聘请他们来追捕我，然后把小杰瑞装在麻袋里带回家。</Dest>
     </String>
     <String List="0">
-      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
-      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+      <Source>What's done is done.  Best to talk it out like adults.</Source>
+      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Worst part is they hired them with my gold.  Gold I gave them to help care for the children.  Still don't know how I've survived this long.</Source>
+      <Dest>最糟糕的是她们用我的钱雇佣的这伙人。我给她们这些钱是让她们照顾孩子的。真不知道我是怎么活这么久的。</Dest>
     </String>
     <String List="0">
-      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
-      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+      <Source>What's done is done.  Best to talk it out like adults.</Source>
+      <Dest>木已成舟，最好像成年人一样把它说出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>Funny thing is, stupid as I am I still send the wives more gold, and sure enough every septim goes toward more sellswords.</Source>
+      <Dest>可笑的地方在于，我这个蠢货居然还在源源不断地给妻子们寄钱，而且毫无疑问地那每一个金币都流进了佣兵的口袋里。</Dest>
     </String>
     <String List="0">
-      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
-      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+      <Source>So you get your coin back from the sellswords.  Circle of life.</Source>
+      <Dest>所以你从佣兵那边拿回了钱，人生还真是循环往复。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not exactly.  My wives aren't fools.  They pay some in advance, but the full bounty isn't paid until my head is stuffed and mounted on their door.</Source>
+      <Dest>没那么简单。我的老婆们不是白痴。她们只付订金，要领全赏的就得先把我的脑袋当战利品挂在她们的门上。</Dest>
     </String>
     <String List="0">
-      <Source>I came for the spectacular view.</Source>
-      <Dest>我是为了这壮丽的景色才来的。</Dest>
+      <Source>So you get your coin back from the sellswords.  Circle of life.</Source>
+      <Dest>所以你从佣兵那边拿回了钱，人生还真是循环往复。</Dest>
     </String>
-    <String List="0">
-      <Source>I came for the spectacular view.</Source>
-      <Dest>我是为了这壮丽的景色才来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I met a Dark Elf named Gilsi who mentioned a Gerrod.  Are you him?</Source>
-      <Dest>我听一个名叫歌尔西的黑暗精灵提到过杰瑞德这个名字，你就是这个人？</Dest>
-    </String>
-    <String List="0">
-      <Source>I met a Dark Elf named Gilsi who mentioned a Gerrod.  Are you him?</Source>
-      <Dest>我听一个名叫歌尔西的黑暗精灵提到过杰瑞德这个名字，你就是这个人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
-      <Dest>嗯，这故事的四个人中，只有三个有权生气。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
-      <Dest>嗯，这故事的四个人中，只有三个有权生气。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
-      <Dest>嗯，这故事的四个人中，只有三个有权生气。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your wives sound like a problem.  I could make them disappear.</Source>
-      <Dest>你的妻子们好像是对你而言是麻烦。我可以帮你解决她们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your wives sound like a problem.  I could make them disappear.</Source>
-      <Dest>你的妻子们好像是对你而言是麻烦。我可以帮你解决她们。</Dest>
-    </String>
-    <String List="0">
-      <Source>How's the fur trade going?</Source>
-      <Dest>毛皮生意做的怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's the fur trade going?</Source>
-      <Dest>毛皮生意做的怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's the fur trade going?</Source>
-      <Dest>毛皮生意做的怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's the fur trade going?</Source>
-      <Dest>毛皮生意做的怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's the fur trade going?</Source>
-      <Dest>毛皮生意做的怎么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>Gold could still be melted down and used for other purposes.</Source>
-      <Dest>金币还可以回炉做别的用处。</Dest>
-    </String>
-    <String List="0">
-      <Source>Gold could still be melted down and used for other purposes.</Source>
-      <Dest>金币还可以回炉做别的用处。</Dest>
-    </String>
-    <String List="0">
-      <Source>Gilsi said you were a powerful alteration mage.</Source>
-      <Dest>歌尔西说你是个强大的变形系法师。.</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>You bedded her.</Source>
-      <Dest>你把她睡了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You bedded her.</Source>
-      <Dest>你把她睡了。</Dest>
-    </String>
-    <String List="0">
-      <Source>You bedded her.</Source>
-      <Dest>你把她睡了。</Dest>
-    </String>
-    <String List="0">
-      <Source>True.  The local hunters seem to have accepted you into their faction.</Source>
-      <Dest>确实，当地的猎人们似乎已经接受你加入他们的圈子了。</Dest>
+    <String List="2">
+      <Source>Yeah, did I forget to mention that they're all living together now?  Bunking together like a nest of hagravens?</Source>
+      <Dest>对，我是不是忘了提他们现在都住在一起了？像一窝子乌鸦鬼婆一样睡在一起?</Dest>
     </String>
     <String List="0">
       <Source>Why do you think that is?</Source>
-      <Dest>你为什么那样想？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>你为什么那样想？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>你为什么那样想？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why do you think that is?</Source>
-      <Dest>你为什么那样想？</Dest>
-    </String>
-    <String List="0">
-      <Source>I detest such contrivances.  Hiding the truth only makes us soft.</Source>
-      <Dest>我最恨这一套！隐藏真相只会让我们更加软弱！</Dest>
-    </String>
-    <String List="0">
-      <Source>I detest such contrivances.  Hiding the truth only makes us soft.</Source>
-      <Dest>我最恨这一套！隐藏真相只会让我们更加软弱！</Dest>
-    </String>
-    <String List="2">
-      <Source>That's...that's a good point.  I've only tasted one before.  Maybe that was the exception.  Maybe they're supposed to taste awful.</Source>
-      <Dest>这是个很好的见解。我之前只试过一个。或许那个是个例外。也可能它们本来的味道就很糟。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're scaring me, stranger.  I dislike my former spouses and pray to Divines every night they die a painful, horrible death.</Source>
-      <Dest>你在吓我，陌生人。我不喜欢我以往所有的配偶并且夜夜向神灵祈祷让他们死得够惨够痛才好！</Dest>
-    </String>
-    <String List="2">
-      <Source>But I haven't told you it.  The whole story.  Those 3 angry wives of mine hired bandits to kill me, with the very gold I pay to sustain them.</Source>
-      <Dest>不过我还没有把整个故事告诉你。我那三个愤怒的老婆，我花大价钱养着的那三个老婆，居然雇强盗来杀我。</Dest>
-    </String>
-    <String List="2">
-      <Source>You know your magic.  It turns out she wasn't just any mage.  She was an alteration mage.</Source>
-      <Dest>你了解你的魔法，这说明她并不仅仅只是个普通的法师，她是个变换系法师。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's how the Divines made us.  It doesn't matter if it's an animal or a person.</Source>
-      <Dest>圣灵赐予我们的形态，动物或人都无所谓。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, that's the second most common reason people make the hike up this mountain.  The most common being to get away from something.</Source>
-      <Dest>是的，就人们攀登这座山的最常见理由来说，这排名第二，排名第一的理由是想要逃离某些东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>I would give you her name, but you'd probably link it to someone else you've met on your travels.</Source>
-      <Dest>我会告诉你她的名字，不过你或许会将其与你旅途中遇到过的其他人联系起来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Only most of the time she didn't talk.  She nagged.  I'd come home from a long day and she'd have a list of chores for me to do.</Source>
-      <Dest>她大部分时候不是在说话，而是在唠叨。每当我完成一个长途旅行回到了家，她就已经给我列出了一长串鸡毛蒜皮的小事让我去做。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I'll be making my ex-wives rich mostly, but maybe Arkay will do me a favor and throw one of them into a volcano.</Source>
-      <Dest>好吧，我会让我的前妻们富有的，但也许阿尔凯会帮我一个忙，把她们中的一个扔进火山口。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Sigh) You know, I never did find out what was in that treasure chest.</Source>
-      <Dest>（叹）你知道吗，我从没有打开那箱子看过里面有什么宝贝呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>No chance winning that argument.  That woman could talk the fur off of one of you Khajiit.</Source>
-      <Dest>你是吵不赢她的。那女人连死人都能说活呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>She wanted me to wipe the counter as I set the table, sweep the floor while I burned the trash.  I told her I only had but two hands.</Source>
-      <Dest>当我烧垃圾的时候，她想要我擦柜台，摆桌子，还得扫地。我告诉她我只有两只手。</Dest>
-    </String>
-    <String List="2">
-      <Source>She wanted me to wipe the counter as I set the table, sweep the floor while I burned the trash.  I told her I only had but two hands.</Source>
-      <Dest>当我烧垃圾的时候，她想要我擦柜台，摆桌子，还得扫地。我告诉她我只有两只手。</Dest>
-    </String>
-    <String List="2">
-      <Source>They're more likely to hand you a pelt with half its fur burnt off, and the other half frozen solid.</Source>
-      <Dest>他们拿给你的毛皮一般都是一半烧得精光，另一半冻得结结实实的。</Dest>
-    </String>
-    <String List="2">
-      <Source>See, if the Empire crumbles, most people figure the old coins might not be worth the rag I use to wipe my bottom.</Source>
-      <Dest>看，如果帝国崩盘了的话，帝国发行的赛普汀的下场还不如我擦屁股的纸呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Funny thing is, the first thing she ever said to me was "I do."  If only it were the last thing she ever said too.</Source>
-      <Dest>有趣的是，她曾对我说的第一件事是“我愿意。”真希望这也是她会说的最后一件事。</Dest>
-    </String>
-    <String List="2">
-      <Source>There you go.  I'm not this person you think I am.  Just a simple hunter who's poaching isn't hurting anyone.</Source>
-      <Dest>走开，我并不是你想的那种人。我...只是一个单纯的猎人，只是偷猎而已，但我却没伤害过任何人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even some Nords don't know how to properly trap and skin an animal while preserving its hide.</Source>
-      <Dest>即使是一些诺德人也不知道如何在猎物隐藏起来的时候做出正确的陷阱并剥下动物的皮。</Dest>
-    </String>
-    <String List="2">
-      <Source>Apparently the bandits they hired to deliver me to the void were bought with my coin.  Coin I continue to send them as proof of my sincerity.</Source>
-      <Dest>似乎那些想把我送去虚空的强盗，是他们用我的钱雇来的。于是我接着给了强盗们一些钱作为我真诚的证明。</Dest>
-    </String>
-    <String List="2">
-      <Source>For me, that meant three somethings.  Three wives to be exact.  Three of the angriest, meanest witches you'll ever have the displeasure of knowing.</Source>
-      <Dest>对我来说，这意味着三个东西。确切来说是三个老婆。三个最狂躁，最自私，连想想都会不爽的巫婆。</Dest>
-    </String>
-    <String List="2">
-      <Source>Good.  Real good. Ever since the Great War the Nord folks have been dumping their Septims and going back to the old ways.</Source>
-      <Dest>很好，真的很好。自世界大战之后，那帮诺德人就扔掉了他们的塞普汀，回去过他们的旧日子去了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Which was fine, except she wanted them all done at once.</Source>
-      <Dest>除了她想毕其功于一役外，别的都好办。</Dest>
-    </String>
-    <String List="2">
-      <Source>Them Dark Elves though, they aren't the types to use such delicate spells.  </Source>
-      <Dest>即使他们是黑暗精灵，也不是那种能使得出这么微妙法术的黑暗精灵。 </Dest>
-    </String>
-    <String List="2">
-      <Source>There you have it.  The friend I was speaking of was another Redguard.</Source>
-      <Dest>拿着这个。和我说话的那个朋友是另一个红卫人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Can't imagine milkmaids and lumberjacks go home every night thanking Julianos for depriving them of brains.</Source>
-      <Dest>真是无法想象为什么挤奶女工和伐木工人在每天晚上回家后还要感谢尤里安诺思剥夺他们的智慧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, you're the one who asked.  I never said the fur trade was full of action and glamour.</Source>
-      <Dest>嘿，你就是那个说话的家伙。我可从没说过毛皮贸易热热闹闹充满魅力啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know this Gilsi.  She must be thinking of someone else.  The name isn't exactly my personal property.</Source>
-      <Dest>我不知道这个歌尔西. 她肯定在想别的哪个人。又不是只有我一个人叫这个名字。</Dest>
-    </String>
-    <String List="2">
-      <Source>Luckily someone invented traps and things to take out most of the dirty work, and liquor to forget the rest.</Source>
-      <Dest>幸运的是有人发明了陷阱取代了我们最脏的活儿，有人发明了酒使我们忘记了本该有的休息.</Dest>
-    </String>
-    <String List="2">
-      <Source>So instead of coming home to a list of chores and an ornery wife, I stopped coming home.</Source>
-      <Dest>所以我可不是因为一堆鸡毛蒜皮的小事还有我那暴脾气的妻子才不回家的。</Dest>
-    </String>
-    <String List="2">
-      <Source>So instead of coming home to a list of chores and an ornery wife, I stopped coming home.</Source>
-      <Dest>所以我可不是因为一堆鸡毛蒜皮的小事还有我那暴脾气的妻子才不回家的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm a peaceful hunter who doesn't like violence, yet my wives seek retribution through death.  Although they do have a sick sense of humor about it.</Source>
-      <Dest>我就是个不喜暴力的与世无争的猎人罢了，但我的妻子想要通过死亡而报复。尽管他们就这事儿而言有种病态的幽默感。</Dest>
-    </String>
-    <String List="2">
-      <Source>The fact that Morrowind's a mess also helps.  Dunmer make for poor hunters.  You kill a beast with magic, you're likely to damage its pelt.</Source>
-      <Dest>晨风的混乱现象也是助推因素之一。黑暗精灵也变成了糟糕的猎人，你用魔法杀死一只野兽，等同于你毁了野兽的毛皮。</Dest>
-    </String>
-    <String List="2">
-      <Source>No chance winning that argument.  Could talk the fur off a Khajiit, that woman.</Source>
-      <Dest>你是吵不赢她的。让那女人去与虎人谋皮她都能取胜呢。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you see something being chopped up, with all guts and blood, it's going to make you cringe.</Source>
-      <Dest>如果你看见什么活物被腰斩了，内脏和鲜血流了一地，你肯定也会害怕的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Exactly.  There's going to be a lot of profit in furs, enough to make every hunter from here to Falkreath rich.</Source>
-      <Dest>没错。以后的毛皮生意会很赚钱，足以把从这儿到佛克瑞斯的所有猎人都变成富翁。</Dest>
-    </String>
-    <String List="2">
-      <Source>I can't complain though.  It just means they'll have to go to the market to buy their furs instead.</Source>
-      <Dest>但是我不能抱怨。这只是意味着他们将不得不去市场买他们的毛皮。</Dest>
+      <Dest>为什么你会那样想？</Dest>
     </String>
     <String List="2">
       <Source>All that violent blood coursing through their bodies makes them sloppy. A lot of them can't see hunting is an art.</Source>
       <Dest>他们体内流淌的暴力之血让他们变得鲁莽，大多数人根本不懂得狩猎是一门艺术。</Dest>
     </String>
-    <String List="2">
-      <Source>We spent the next six nights together and got married on the seventh.</Source>
-      <Dest>整整六个晚上，我们都没有分开过，然后在第七个晚上，我们结婚了。</Dest>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>为什么你会那样想？</Dest>
     </String>
     <String List="2">
-      <Source>For what?  Jewelry?  Don't make me laugh stranger, but gold doesn't have much going for it other than being shiny.</Source>
-      <Dest>为什么？为了珠宝？别逗我了陌生人，但是金子这东西，除了让它熠熠生辉以外也没什么别的用处啦。</Dest>
+      <Source>I can't complain though.  It just means they'll have to go to the market to buy their furs instead.</Source>
+      <Dest>但是我不能抱怨。这只是意味着他们将不得不去市场买他们的毛皮。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the fur trade going?</Source>
+      <Dest>毛皮生意做的怎么样？</Dest>
     </String>
     <String List="2">
-      <Source>A friend of mine once told me you can't swing a dead skeever without hitting three of her namesakes.  The same's true for me.</Source>
-      <Dest>我的一个朋友告诉我，一只死雪鼠都有三个同名的同类。这么说我也一样。</Dest>
+      <Source>Good.  Real good. Ever since the Great War the Nord folks have been dumping their Septims and going back to the old ways.</Source>
+      <Dest>很好，真的很好。自世界大战之后，那帮诺德人就扔掉了他们的塞普汀，回去过他们的旧日子去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the fur trade going?</Source>
+      <Dest>毛皮生意做的怎么样？</Dest>
     </String>
     <String List="2">
-      <Source>Hey stranger, that's uncalled for.  I've made mistakes, but not the kind that require payment in blood.</Source>
-      <Dest>嘿陌生人，你可别那样说。我确实是犯了错误，但不是那种需要血债血还的错误啊。</Dest>
+      <Source>See, if the Empire crumbles, most people figure the old coins might not be worth the rag I use to wipe my bottom.</Source>
+      <Dest>看，如果帝国崩盘了的话，帝国发行的赛普汀的下场还不如我擦屁股的纸呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the fur trade going?</Source>
+      <Dest>毛皮生意做的怎么样？</Dest>
     </String>
     <String List="2">
       <Source>In the days of Nordic Kings, furs were the most common currency, and they might be again.</Source>
       <Dest>在诺德人称王的那段时间，毛皮是最常见的硬通货，或许以毛皮易物的时代又要来临了。</Dest>
     </String>
     <String List="2">
-      <Source>Why not let us simple folk live in our soft, plush little world, while people like you vie to rule it?</Source>
-      <Dest>在像你这样的人为规则而争权攘利的时候，为什么不让我们这些平头老百姓生活在软弱而舒适的小世界里呢？</Dest>
+      <Source>The fact that Morrowind's a mess also helps.  Dunmer make for poor hunters.  You kill a beast with magic, you're likely to damage its pelt.</Source>
+      <Dest>晨风的混乱现象也是助推因素之一。黑暗精灵也变成了糟糕的猎人，你用魔法杀死一只野兽，等同于你毁了野兽的毛皮。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the fur trade going?</Source>
+      <Dest>毛皮生意做的怎么样？</Dest>
     </String>
     <String List="2">
-      <Source>You can't use it for war because it's softer than iron.  It's not as sturdy as leather, and won't keep you warm like cotton or fur.  It's worthless.</Source>
-      <Dest>你不能在战争里使用它因为它比铁更软。它不如皮革那样结实，也不能像棉或者皮毛那样让你保持温暖。它简直毫无用处。</Dest>
+      <Source>Even some Nords don't know how to properly trap and skin an animal while preserving its hide.</Source>
+      <Dest>即使是一些诺德人也不知道如何在猎物隐藏起来的时候做出正确的陷阱并剥下动物的皮。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the fur trade going?</Source>
+      <Dest>毛皮生意做的怎么样？</Dest>
     </String>
     <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
+      <Source>That's...that's a good point.  I've only tasted one before.  Maybe that was the exception.  Maybe they're supposed to taste awful.</Source>
+      <Dest>这是个很好的见解。我之前只试过一个。或许那个是个例外。也可能它们本来的味道就很糟。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Speechcraft) Strange.  What does a hunter know about souffles?</Source>
+      <Dest>(口才) 奇怪。一个猎人知道什么蛋奶酥？</Dest>
     </String>
     <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
+      <Source>I don't know this Gilsi.  She must be thinking of someone else.  The name isn't exactly my personal property.</Source>
+      <Dest>我不知道这个歌尔西. 她肯定在想别的哪个人。又不是只有我一个人叫这个名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>I met a Dark Elf named Gilsi who mentioned a Gerrod.  Are you him?</Source>
+      <Dest>我听一个名叫歌尔西的黑暗精灵提到过杰瑞这个名字，你就是这个人？</Dest>
     </String>
     <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
+      <Source>A friend of mine once told me you can't swing a dead skeever without hitting three of her namesakes.  The same's true for me.</Source>
+      <Dest>我的一个朋友告诉我，一只死雪鼠都有三个同名的同类。这么说我也一样。</Dest>
     </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
+    <String List="0">
+      <Source>I met a Dark Elf named Gilsi who mentioned a Gerrod.  Are you him?</Source>
+      <Dest>我听一个名叫歌尔西的黑暗精灵提到过杰瑞这个名字，你就是这个人？</Dest>
     </String>
     <String List="2">
       <Source>Now I know you're talking about someone else.  Do I look like a mage to you?  I've been hunting and fishing in these parts for years.</Source>
       <Dest>现在我知道你是在谈论其他人。我看起来很像个法师吗？我这些年一直在这片地方渔猎。</Dest>
     </String>
+    <String List="0">
+      <Source>Gilsi said you were a powerful alteration mage.</Source>
+      <Dest>歌尔西说你是个强大的变形系法师。.</Dest>
+    </String>
     <String List="2">
-      <Source>True.  That kind of magic isn't so different than using baiting and trapping.  The idea is to cause as little harm to creature as possible.</Source>
-      <Dest>是的。那种魔法相比引诱魔法和陷阱魔法没多大差别。想法是尽可能少地对生物造成伤害。</Dest>
+      <Source>Yes, that's the second most common reason people make the hike up this mountain.  The most common being to get away from something.</Source>
+      <Dest>是的，就人们攀登这座山的最常见理由来说，这排名第二，排名第一的理由是想要逃离某些东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I came for the spectacular view.</Source>
+      <Dest>我是为了壮观的景色才来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>For me, that meant three somethings.  Three wives to be exact.  Three of the angriest, meanest witches you'll ever have the displeasure of knowing.</Source>
+      <Dest>对我来说，这意味着三个东西。确切来说是三个老婆。三个最狂躁，最自私，连想想都会不爽的巫婆。</Dest>
+    </String>
+    <String List="0">
+      <Source>I came for the spectacular view.</Source>
+      <Dest>我是为了壮观的景色才来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey stranger, that's uncalled for.  I've made mistakes, but not the kind that require payment in blood.</Source>
+      <Dest>嘿陌生人，你可别那样说。我确实是犯了错误，但不是那种需要血债血还的错误啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're despicable.</Source>
+      <Dest>真卑鄙啊你！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm a peaceful hunter who doesn't like violence, yet my wives seek retribution through death.  Although they do have a sick sense of humor about it.</Source>
+      <Dest>我就是个不喜暴力的与世无争的猎人罢了，但我的妻子想要通过死亡而报复。尽管他们就这事儿而言有种病态的幽默感。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're despicable.</Source>
+      <Dest>真卑鄙啊你！</Dest>
+    </String>
+    <String List="2">
+      <Source>Apparently the bandits they hired to deliver me to the void were bought with my coin.  Coin I continue to send them as proof of my sincerity.</Source>
+      <Dest>似乎那些想把我送去虚空的强盗，是他们用我的钱雇来的。于是我接着给了强盗们一些钱作为我真诚的证明。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're despicable.</Source>
+      <Dest>真卑鄙啊你！</Dest>
+    </String>
+    <String List="2">
+      <Source>You're scaring me, stranger.  I dislike my former spouses and pray to Divines every night they die a painful, horrible death.</Source>
+      <Dest>你在吓我，陌生人。我不喜欢我以往所有的配偶并且夜夜向神灵祈祷让他们死得够惨够痛才好！</Dest>
+    </String>
+    <String List="0">
+      <Source>Your wives sound like a problem.  I could make them disappear.</Source>
+      <Dest>你的妻子们好像是对你而言是麻烦。我可以帮你解决她们。</Dest>
     </String>
     <String List="2">
       <Source>But I want nothing to do with it.  I'm not one for violence.</Source>
       <Dest>但是我不想做。我不是一个追求暴力的人。</Dest>
     </String>
-    <String List="2">
-      <Source>It's a hunter's job to skin, a butcher's job to chop.  Make everything nice and tidy so it's easy to swallow.</Source>
-      <Dest>猎人负责剥皮，屠夫负责剁肉。让一切都井然有序，便于吞咽。</Dest>
+    <String List="0">
+      <Source>Your wives sound like a problem.  I could make them disappear.</Source>
+      <Dest>你的妻子们好像是对你而言是麻烦。我可以帮你解决她们。</Dest>
     </String>
     <String List="2">
-      <Source>You must be a warrior.  I see your point, but I don't think being soft is such a bad thing.</Source>
-      <Dest>你一定是一个战士。我明白你的意思，但我不觉得做一个温和的人是件坏事。</Dest>
+      <Source>There you have it.  The friend I was speaking of was another Redguard.</Source>
+      <Dest>拿着这个。和我说话的那个朋友是另一个红卫人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Funny.  A High Elf named Eldawyn said as much, and Gilsi mentioned her too.</Source>
+      <Dest>Funny.  A High Elf named Eldawyn said as much, and Gilsi mentioned her too.</Dest>
+    </String>
+    <String List="2">
+      <Source>I would give you her name, but you'd probably link it to someone else you've met on your travels.</Source>
+      <Dest>我会告诉你她的名字，不过你或许会将其与你旅途中遇到过的其他人联系起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Funny.  A High Elf named Eldawyn said as much, and Gilsi mentioned her too.</Source>
+      <Dest>Funny.  A High Elf named Eldawyn said as much, and Gilsi mentioned her too.</Dest>
+    </String>
+    <String List="2">
+      <Source>There you go.  I'm not this person you think I am.  Just a simple hunter who's poaching isn't hurting anyone.</Source>
+      <Dest>走开，我并不是你想的那种人。我...只是一个单纯的猎人，只是偷猎而已，但我却没伤害过任何人。</Dest>
+    </String>
+    <String List="0">
+      <Source>True.  The local hunters seem to have accepted you into their faction.</Source>
+      <Dest>确实，当地的猎人们似乎已经接受你加入他们的圈子了。</Dest>
+    </String>
+    <String List="2">
+      <Source>For what?  Jewelry?  Don't make me laugh stranger, but gold doesn't have much going for it other than being shiny.</Source>
+      <Dest>为什么？为了珠宝？别逗我了陌生人，但是金子这东西，除了让它熠熠生辉以外也没什么别的用处啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold could still be melted down and used for other purposes.</Source>
+      <Dest>金币还可以回炉做别的用处。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't use it for war because it's softer than iron.  It's not as sturdy as leather, and won't keep you warm like cotton or fur.  It's worthless.</Source>
+      <Dest>你不能在战争里使用它因为它比铁更软。它不如皮革那样结实，也不能像棉或者皮毛那样让你保持温暖。它简直毫无用处。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold could still be melted down and used for other purposes.</Source>
+      <Dest>金币还可以回炉做别的用处。</Dest>
+    </String>
+    <String List="2">
+      <Source>True.  That kind of magic isn't so different than using baiting and trapping.  The idea is to cause as little harm to creature as possible.</Source>
+      <Dest>是的。那种魔法相比引诱魔法和陷阱魔法没多大差别。想法是尽可能少地对生物造成伤害。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
+      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>Them Dark Elves though, they aren't the types to use such delicate spells.  </Source>
+      <Dest>即使他们是黑暗精灵，也不是那种能使得出这么微妙法术的黑暗精灵。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
+      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>They're more likely to hand you a pelt with half its fur burnt off, and the other half frozen solid.</Source>
+      <Dest>他们拿给你的毛皮一般都是一半烧得精光，另一半冻得结结实实的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not all magic would damage the pelt. Calm and paralysis spells for instance.</Source>
+      <Dest>不是所有的法术都是伤害性的，例如冷静与麻痹就不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I haven't told you it.  The whole story.  Those 3 angry wives of mine hired bandits to kill me, with the very gold I pay to sustain them.</Source>
+      <Dest>不过我还没有把整个故事告诉你。我那三个愤怒的老婆，我花大价钱养着的那三个老婆，居然雇强盗来杀我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
+      <Dest>嗯，在这个三个故事里，只有四个人有权生气。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, they continue to insist on taking all my hard earned gold and pooling it into a fund to hire more and better trained sellswords.</Source>
+      <Dest>In fact, they continue to insist on taking all my hard earned gold and pooling it into a fund to hire more and better trained sellswords.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
+      <Dest>嗯，在这个三个故事里，只有四个人有权生气。</Dest>
+    </String>
+    <String List="2">
+      <Source>So if you think about it, I'm literally working myself to death.  </Source>
+      <Dest>So if you think about it, I'm literally working myself to death.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Well, only three of the four people in this story have a right to be angry.</Source>
+      <Dest>嗯，在这个三个故事里，只有四个人有权生气。</Dest>
+    </String>
+    <String List="2">
+      <Source>She wanted me to wipe the counter as I set the table, sweep the floor while I burned the trash.  I told her I only had but two hands.</Source>
+      <Dest>当我烧垃圾的时候，她想要我擦柜台，摆桌子，还得扫地。我告诉她我只有两只手。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>No chance winning that argument.  That woman could talk the fur off of one of you Khajiit.</Source>
+      <Dest>你是吵不赢她的。那女人连死人都能说活呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>So instead of coming home to a list of chores and an ornery wife, I stopped coming home.</Source>
+      <Dest>所以我可不是因为一堆鸡毛蒜皮的小事还有我那暴脾气的妻子才不回家的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>She wanted me to wipe the counter as I set the table, sweep the floor while I burned the trash.  I told her I only had but two hands.</Source>
+      <Dest>当我烧垃圾的时候，她想要我擦柜台，摆桌子，还得扫地。我告诉她我只有两只手。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>No chance winning that argument.  Could talk the fur off a Khajiit, that woman.</Source>
+      <Dest>你是吵不赢她的。让那女人去与虎人谋皮她都能取胜呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>So instead of coming home to a list of chores and an ornery wife, I stopped coming home.</Source>
+      <Dest>所以我可不是因为一堆鸡毛蒜皮的小事还有我那暴脾气的妻子才不回家的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
     </String>
     <String List="2">
       <Source>Well, if nothing else I tried something different.  The first wife wasn't much of a talker, and the second was a bad cook.</Source>
       <Dest>嗯，如果这里面有什么不同的话，我第一个老婆太闷，第二个不会做饭。</Dest>
     </String>
+    <String List="0">
+      <Source>Surely you learned something by the third wife.</Source>
+      <Dest>想当然，你肯定从你的第三任妻子身上学到些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the third was a chef with a knack for speech, and could talk the wheels off a carriage if you let her get started.</Source>
+      <Dest>So the third was a chef with a knack for speech, and could talk the wheels off a carriage if you let her get started.</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you learned something by the third wife.</Source>
+      <Dest>想当然，你肯定从你的第三任妻子身上学到些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only most of the time she didn't talk.  She nagged.  I'd come home from a long day and she'd have a list of chores for me to do.</Source>
+      <Dest>她大部分时候不是在说话，而是在唠叨。每当我完成一个长途旅行回到了家，她就已经给我列出了一长串鸡毛蒜皮的小事让我去做。</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you learned something by the third wife.</Source>
+      <Dest>想当然，你肯定从你的第三任妻子身上学到些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which was fine, except she wanted them all done at once.</Source>
+      <Dest>除了她想毕其功于一役外，别的都好办。</Dest>
+    </String>
+    <String List="0">
+      <Source>Surely you learned something by the third wife.</Source>
+      <Dest>想当然，你肯定从你的第三任妻子身上学到些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must be a warrior.  I see your point, but I don't think being soft is such a bad thing.</Source>
+      <Dest>你一定是一个战士。我明白你的意思，但我不觉得做一个温和的人是件坏事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I detest such contrivances.  Hiding the truth only makes us soft.</Source>
+      <Dest>我最恨这一套！隐藏真相只会让我们更加软弱！</Dest>
+    </String>
+    <String List="2">
+      <Source>Why not let us simple folk live in our soft, plush little world, while people like you vie to rule it?</Source>
+      <Dest>在像你这样的人为规则而争权攘利的时候，为什么不让我们这些平头老百姓生活在软弱而舒适的小世界里呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I detest such contrivances.  Hiding the truth only makes us soft.</Source>
+      <Dest>我最恨这一套！隐藏真相只会让我们更加软弱！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how the Divines made us.  It doesn't matter if it's an animal or a person.</Source>
+      <Dest>圣灵赐予我们的形态，动物或人都无所谓。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>为什么你会那样想？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you see something being chopped up, with all guts and blood, it's going to make you cringe.</Source>
+      <Dest>如果你看见什么活物被腰斩了，内脏和鲜血流了一地，你肯定也会害怕的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think that is?</Source>
+      <Dest>为什么你会那样想？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I can't be the first mortal in the history of Skyrim to hate his job.</Source>
+      <Dest>Well, I can't be the first mortal in the history of Skyrim to hate his job.</Dest>
+    </String>
+    <String List="0">
+      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
+      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't imagine milkmaids and lumberjacks go home every night thanking Julianos for depriving them of brains.</Source>
+      <Dest>真是无法想象为什么挤奶女工和伐木工人在每天晚上回家后还要感谢尤里安诺思剥夺他们的智慧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
+      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Luckily someone invented traps and things to take out most of the dirty work, and liquor to forget the rest.</Source>
+      <Dest>幸运的是有人发明了陷阱取代了我们最脏的活儿，有人发明了酒使我们忘记了本该有的休息.</Dest>
+    </String>
+    <String List="0">
+      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
+      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still don't like it though. If you think about it, the butcher's stall is really an animal graveyard, but all the bodies have been cleaned up.</Source>
+      <Dest>Still don't like it though. If you think about it, the butcher's stall is really an animal graveyard, but all the bodies have been cleaned up.</Dest>
+    </String>
+    <String List="0">
+      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
+      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a hunter's job to skin, a butcher's job to chop.  Make everything nice and tidy so it's easy to swallow.</Source>
+      <Dest>猎人负责剥皮，屠夫负责剁肉。让一切都井然有序，便于吞咽。</Dest>
+    </String>
+    <String List="0">
+      <Source>You deplore violence?  An odd stance to take for a hunter.</Source>
+      <Dest>你反对暴力？对猎人来说这是个奇怪的立场。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, you're the one who asked.  I never said the fur trade was full of action and glamour.</Source>
+      <Dest>嘿，你就是那个说话的家伙。我可从没说过毛皮贸易热热闹闹充满魅力啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Yawn) Oh, I'm sorry, I wasn't listening. You must have been boring me.</Source>
+      <Dest>（打哈欠）噢，抱歉，我没在听。你肯定是在逗我玩。</Dest>
+    </String>
     <String List="2">
       <Source>Greetings traveler, my name is Gerrod.  What brings you here to this remote outpost?</Source>
-      <Dest>你好啊旅行者。我是杰瑞德。是什么把你带到了这么遥远偏僻的小村庄？</Dest>
-    </String>
-    <String List="0">
-      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
-      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
-    </String>
-    <String List="0">
-      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
-      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
-    </String>
-    <String List="0">
-      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
-      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Who's Erith?</Source>
-      <Dest>谁是伊里斯?</Dest>
-    </String>
-    <String List="0">
-      <Source>Who's Erith?</Source>
-      <Dest>谁是伊里斯?</Dest>
-    </String>
-    <String List="0">
-      <Source>Who's Erith?</Source>
-      <Dest>谁是伊里斯？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's great, but I don't need the advice of a devout coward.</Source>
-      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's great, but I don't need the advice of a devout coward.</Source>
-      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's great, but I don't need the advice of a devout coward.</Source>
-      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's easier to just lie.  In other words, just cover everything in sauce.</Source>
-      <Dest>最简单的方式就是撒谎，换言之，只要遮蔽掉所有的真实就够了。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's easier to just lie.  In other words, just cover everything in sauce.</Source>
-      <Dest>最简单的方式就是撒谎，换言之，只要遮蔽掉所有的真实就够了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, and that power will belong to me.</Source>
-      <Dest>是的，这力量将属于我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, and that power will belong to me.</Source>
-      <Dest>是的，这力量将属于我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, and that power will belong to me.</Source>
-      <Dest>是的，这力量将属于我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes, and that power will belong to me.</Source>
-      <Dest>是的，这力量将属于我。</Dest>
-    </String>
-    <String List="0">
-      <Source>I find the threat of violence can convince a person of anything.</Source>
-      <Dest>我发现暴力的恐吓可以驱使一个人做任何事。</Dest>
-    </String>
-    <String List="0">
-      <Source>I find the threat of violence can convince a person of anything.</Source>
-      <Dest>我发现暴力的恐吓可以驱使一个人做任何事。</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think about the other members of the Radiant Dark?</Source>
-      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think about the other members of the Radiant Dark?</Source>
-      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you think about the other members of the Radiant Dark?</Source>
-      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
-    </String>
-    <String List="0">
-      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
-      <Dest>杰瑞德，我需要的是一个冷静，理智的变化系法师。</Dest>
-    </String>
-    <String List="0">
-      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
-      <Dest>杰瑞德，我需要的是一个冷静，理智的变化系法师。</Dest>
-    </String>
-    <String List="0">
-      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
-      <Dest>杰瑞德，我需要的是一个冷静，理智的变化系法师。</Dest>
-    </String>
-    <String List="0">
-      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
-      <Dest>杰瑞德，我需要的是一个冷静，理智的变化系法师。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is cooking really all that difficult?  Just throw everything into a pot.</Source>
-      <Dest>烹饪真的那么难?  不就是把所有东西都倒进锅里嘛。</Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of sorcery was it?</Source>
-      <Dest>这个魔法的样子是怎么样的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of sorcery was it?</Source>
-      <Dest>这个魔法的样子是怎么样的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of sorcery was it?</Source>
-      <Dest>这个魔法的样子是怎么样的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What manner of sorcery was it?</Source>
-      <Dest>这个魔法的样子是怎么样的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
-      <Dest>另一个妻子？你真是什么都没学到，杰瑞德。</Dest>
-    </String>
-    <String List="0">
-      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
-      <Dest>另一个妻子？你真是什么都没学到，杰瑞德。</Dest>
-    </String>
-    <String List="0">
-      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
-      <Dest>另一个妻子？你真是什么都没学到，杰瑞德。</Dest>
-    </String>
-    <String List="0">
-      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
-      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
-      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
-      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
-    </String>
-    <String List="0">
-      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
-      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
-    </String>
-    <String List="0">
-      <Source>You're grateful I killed your fiance?</Source>
-      <Dest>你谢谢我杀了你的未婚夫？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're grateful I killed your fiance?</Source>
-      <Dest>你谢谢我杀了你的未婚夫？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're grateful I killed your fiance?</Source>
-      <Dest>你谢谢我杀了你的未婚夫？</Dest>
-    </String>
-    <String List="0">
-      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
-      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
-    </String>
-    <String List="0">
-      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
-      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
-    </String>
-    <String List="0">
-      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
-      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
-    </String>
-    <String List="0">
-      <Source>Or at your back.</Source>
-      <Dest>或者在你背后。</Dest>
-    </String>
-    <String List="0">
-      <Source>Or at your back.</Source>
-      <Dest>或者在你背后。</Dest>
-    </String>
-    <String List="0">
-      <Source>Or at your back.</Source>
-      <Dest>或者在你背后。</Dest>
-    </String>
-    <String List="0">
-      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
-      <Dest>多谢啊杰瑞德！欢迎你的宝贵建议！</Dest>
-    </String>
-    <String List="0">
-      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
-      <Dest>多谢啊杰瑞德！欢迎你的宝贵建议！</Dest>
-    </String>
-    <String List="0">
-      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
-      <Dest>多谢啊杰瑞德！欢迎你的宝贵建议！</Dest>
+      <Dest>你好啊旅行者。我是杰瑞。是什么把你带到了这么遥远偏僻的小村庄？</Dest>
     </String>
     <String List="2">
-      <Source>If I were you, I'd pass on the Three Elves and ask Felena.  Although she might stick you with the Orc.</Source>
-      <Dest>如果我是你，我会把那三个精灵杀死，然后问问妃乐娜。尽管她很有可能会坚持把你和兽人放在一起。</Dest>
+      <Source>Exactly.  There's going to be a lot of profit in furs, enough to make every hunter from here to Falkreath rich.</Source>
+      <Dest>没错。以后的毛皮生意会很赚钱，足以把从这儿到佛克瑞斯的所有猎人都变成富翁。</Dest>
+    </String>
+    <String List="0">
+      <Source>And you'll supply the market.</Source>
+      <Dest>而你将为市场供货</Dest>
     </String>
     <String List="2">
-      <Source>Yet while we have different philosophies, I see the merits of his goal.  There are always going to be more of "them" than us.</Source>
-      <Dest>虽然我们的观念有很大差异。但我看得出他那目标的优点。世界上的“他们”永远比“我们”要多。</Dest>
+      <Source>Well, I'll be making my ex-wives rich mostly, but maybe Arkay will do me a favor and throw one of them into a volcano.</Source>
+      <Dest>好吧，我会让我的前妻们富有的，但也许阿尔凯会帮我一个忙，把她们中的一个扔进火山口。</Dest>
+    </String>
+    <String List="0">
+      <Source>And you'll supply the market.</Source>
+      <Dest>而你将为市场供货</Dest>
+    </String>
+    <String List="2">
+      <Source>We spent the next six nights together and got married on the seventh.</Source>
+      <Dest>整整六个晚上，我们都没有分开过，然后在第七个晚上，我们结婚了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You bedded her.</Source>
+      <Dest>你把她睡了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Funny thing is, the first thing she ever said to me was "I do."  If only it were the last thing she ever said too.</Source>
+      <Dest>有趣的是，她曾对我说的第一件事是“我愿意。”真希望这也是她会说的最后一件事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You bedded her.</Source>
+      <Dest>你把她睡了。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) You know, I never did find out what was in that treasure chest.</Source>
+      <Dest>（叹）你知道吗，我从没有打开那箱子看过里面有什么宝贝呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>You bedded her.</Source>
+      <Dest>你把她睡了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know your magic.  It turns out she wasn't just any mage.  She was an alteration mage.</Source>
+      <Dest>你了解你的魔法，这说明她并不仅仅只是个普通的法师，她是个变换系法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
+      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
+    </String>
+    <String List="2">
+      <Source>She let me get ahead of her so I could clear the ruins, and when I was but a hair's breadth from my prize, she made her move.</Source>
+      <Dest>她让我走在她前面，这样我就可以把遗迹清理干净了。在我离我的奖励只有一线之遥的时候，她动了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
+      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I stood there helpless as she walked right past me and opened the chest.  After taking a peek inside, to my surprise she closed it.</Source>
+      <Dest>当她从我身边走过，打开箱子的时候，我就无助的站在那儿。我想偷偷往里看，令我吃惊的是她关上了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
+      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out she was less interested in the contents of the chest as she was in what lay under my cuirass.</Source>
+      <Dest>原来她对箱子里的东西不怎么感兴趣。这就是她为什么躺在我的胸甲底下。</Dest>
+    </String>
+    <String List="0">
+      <Source>A paralysis spell.  I'm familiar with the magic myself.</Source>
+      <Dest>麻痹咒语。我自己对魔法很熟悉。</Dest>
+    </String>
+    <String List="2">
+      <Source>I take it you're not familiar with magic then.  Or at least that particular spell.  I was paralyzed.  Turns out the mage was skilled in alteration.</Source>
+      <Dest>我认为你不熟悉魔法，至少是这个特定的法术。但我被麻痹了，事实证明这法师很擅长变换系魔法。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of sorcery was it?</Source>
+      <Dest>这个魔法的样子是肿么样的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>She let me get ahead of her so I could clear the ruins, and when I was but a hair's breadth from my prize, she made her move.</Source>
+      <Dest>她让我走在她前面，这样我就可以把遗迹清理干净了。在我离我的奖励只有一线之遥的时候，她动了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of sorcery was it?</Source>
+      <Dest>这个魔法的样子是肿么样的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>I stood there helpless as she walked right past me and opened the chest.  After taking a peek inside, to my surprise she closed it.</Source>
+      <Dest>当她从我身边走过，打开箱子的时候，我就无助的站在那儿。我想偷偷往里看，令我吃惊的是她关上了它。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of sorcery was it?</Source>
+      <Dest>这个魔法的样子是肿么样的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out she was less interested in the contents of the chest as she was in what lay under my cuirass.</Source>
+      <Dest>原来她对箱子里的东西不怎么感兴趣。这就是她为什么躺在我的胸甲底下。</Dest>
+    </String>
+    <String List="0">
+      <Source>What manner of sorcery was it?</Source>
+      <Dest>这个魔法的样子是肿么样的？ </Dest>
     </String>
     <String List="2">
       <Source>Until next time.</Source>
       <Dest>下回见。</Dest>
     </String>
     <String List="2">
-      <Source>I try not to think about them at all.  A violent lot is what they are.  I don't know how Nelos puts up with them, being a fellow intellectual.</Source>
-      <Dest>我试着再也不去想他们。他们充斥的暴力。我不知道纳洛斯这个智者是如何容忍他们的，</Dest>
-    </String>
-    <String List="2">
-      <Source>There's a threshold of violence, a point at which our world can no longer sustain the destruction we cause.</Source>
-      <Dest>当暴力开始出现，我们的世界将不能继续包容我们造成的破坏。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know its easy to think so, given the company I keep.  Everyone else here may share Nelos' belief in the evolution of war, but I do not.</Source>
-      <Dest>我知道，在这种情况下很容易想到抛弃自己的伙伴。随着战争的进展，在这里的每个人都能分享纳洛斯的信仰，但不包括我。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's what Offryn suggested. He spends so much time looking for shortcuts it takes him longer to get there.</Source>
-      <Dest>那就是奥弗朗的意见。他花在寻找捷径上的时间比正常走到那还多。</Dest>
-    </String>
-    <String List="2">
-      <Source>Those face butchers in the Summerset Isle will go out of business when I'm done.</Source>
-      <Dest>等我忙完了，就没有夏暮岛那些脸部屠夫什么事儿了。</Dest>
-    </String>
-    <String List="2">
-      <Source>So, if you don't value my advice, hopefully you'll value my experiments.  Maybe I'll devise a potion to give our new Guildmaster more charm.</Source>
-      <Dest>那么，要是你不认可我的建议，应该会认可我的实验吧。也许我能研究出一种药水来给我们的公会会长增添点魅力什么的。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's pretty much what Gilsi said.  Which says a lot about you, I'm afraid.  Cooking is difficult, frustrating, and extremely tedious.</Source>
-      <Dest>那大概就是歌尔西的话吧。我记得说了很多关于你的事。烹饪是很难，很挫败而又超级无聊的事。</Dest>
-    </String>
-    <String List="2">
-      <Source>That being said, I'm not going to go adventuring to kill a few bandits that won't amount to anything.  That time is best spent on research.</Source>
-      <Dest>话虽如此，但我不会冒险去杀一些无关紧要的强盗。时间还是最好花在研究上。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, if you want someone with you to kill bandits and strangle orphans, there's plenty of options.</Source>
-      <Dest>现在，不论你想让某人和你一起屠杀强盗啦，还是勒死孤儿啦，你都有着充分的选择余地了 。</Dest>
-    </String>
-    <String List="2">
-      <Source>So you share Nelos' philosophy. But what if he says is true, Vanus' spells have the power to disrupt all of Nirn.</Source>
-      <Dest>这么说说你认可了纳洛斯的理念。不过如果他说的是正确的话，万纳斯的法术有破坏整个尼恩的力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's exactly what all these simpletons think.  The Long Night isn't about exercising power, it's about demonstrating it.</Source>
-      <Dest>这正是那堆傻子认为的事儿。长夜不是关于如何锻炼力量的，而是在于如何展现它。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh no, you never want them at your back.  Trust me on that one.  You want them where you can see them.  Especially Eldawyn.</Source>
-      <Dest>哦不，你绝对不会希望他们出现在你背后。在这点上你得相信我。只有在确保能看见他们的时候你才会需要他们，特别是艾德温。</Dest>
-    </String>
-    <String List="2">
-      <Source>As disgusting as it is to think about, I've heard under extreme duress, torture victims will actually take the side of their abusers.</Source>
-      <Dest>尽管回想起来让人非常恶心，但我曾经听说过在那种极端的监禁条件下，受尽折磨的受害者们反倒会站在他们的施暴者那一方。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hmm...I think for my next alteration project, I'm going to turn him into a more eloquent puppet.  That will teach her to stop playing with dolls.</Source>
-      <Dest>哼哼……我正在想下一个变换法术要怎么施放呢，我打算把他变成一个更话唠的木偶，这样她就不会再接着玩那些玩偶啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Which will probably be my next alteration project. Changing shapes in a way that is undetectable.</Source>
-      <Dest>接下来哪个会成为我的改造目标。改变外形在某种意义上是不可被察觉的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.   But keep in mind I serve in my own way, and that means no violence unless it's absolutely necessary.</Source>
-      <Dest>当然，但是请记住我有我的原则，不到万不得已的时候我不动刀子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now those are words straight out of Nelos' mouth.  I'd say you were one in the same, but I know a shape-shifter when I see one.</Source>
-      <Dest>现在我说的那些事都是纳洛斯说的。除非我确定我看到的那个人是一个变形者，否则我仍然认为你是纳洛斯口中的那个人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Make it quick.</Source>
-      <Dest>有话快说。</Dest>
-    </String>
-    <String List="2">
-      <Source>I take it you're not familiar with magic then.  Or at least that particular spell.  I was paralyzed.  Turns out the mage was skilled in alteration.</Source>
-      <Dest>我认为你不熟悉魔法，至少是这个特定的法术。但我被麻痹了，事实证明这法师很擅长变换系魔法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Luckily, you managed to kill her before she could heal herself and come back to me.  Can you imagine if I had to marry a cripple?</Source>
-      <Dest>幸好你在她疗好伤回来找我之前就送她归西了。真不敢想象我得和一个瘸子结婚！</Dest>
-    </String>
-    <String List="2">
       <Source>All right, then.</Source>
       <Dest>那就这样吧。</Dest>
     </String>
     <String List="2">
-      <Source>Well, I didn't plan on proposing to her.  Things sort of just happened.  I didn't realize my mistake until the morning after.</Source>
-      <Dest>这么说吧，我本来也没打算向她求婚。但是事情就这么自然而然地发生了。直到第二天早晨我才意识到自己的过错。</Dest>
+      <Source>About time.</Source>
+      <Dest>是时候了。</Dest>
     </String>
     <String List="2">
-      <Source>If we give the world the ability to destroy it, they'll have no choice but to negotiate their differences.</Source>
-      <Dest>如果我们有毁灭世界之力，他们除了和我们谈判之外便别无选择。</Dest>
-    </String>
-    <String List="2">
-      <Source>Which seems to be why I seem intent on cooking this meal for the others.  I must have lost my mind.</Source>
-      <Dest>那看起来似乎就是为什么我想要给别人做这顿饭一样，我一定是脑子进水了。</Dest>
-    </String>
-    <String List="2">
-      <Source>It doesn't matter if greater spells are devised.  It would be like crafting a fireball to burn a rose.  The size of the flame is irrelevant.</Source>
-      <Dest>如果法术施大发了也没问题。这就像是想用个火球来燃烧一朵玫瑰一样。火焰的大小不叫事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
-      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
-    </String>
-    <String List="2">
-      <Source>You must be rather confident to announce your plans out in the open.  And the way you said it...you sound like enjoy violence.</Source>
-      <Dest>你必须有相当的信心来公开宣布你的计划。并且你说的方式......你听起来很欣赏暴力。</Dest>
-    </String>
-    <String List="2">
-      <Source>She let me get ahead of her so I could clear the ruins, and when I was but a hair's breadth from my prize, she made her move.</Source>
-      <Dest>她让我走在她前面，这样我就可以把遗迹清理干净了。在我离我的奖励只有一线之遥的时候，她动了。</Dest>
-    </String>
-    <String List="2">
-      <Source>She let me get ahead of her so I could clear the ruins, and when I was but a hair's breadth from my prize, she made her move.</Source>
-      <Dest>她让我走在她前面，这样我就可以把遗迹清理干净了。在我离我的奖励只有一线之遥的时候，她动了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Unfortunately, sometimes I get carried away with my romantic overtures.  It's the bane of being an alteration mage.</Source>
-      <Dest>不幸的是，有时候我会毫无理智的毁了自己的浪漫的序曲。这是一个变换系法师的烦心事。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.  Having a wife is like being afflicted with all the world's diseases at the same time.  It leaves you tired, frustrated, and angry.</Source>
-      <Dest>当然了！女朋友变成了妻子，就像是同时被世界上所有的疾病所折磨。它让你疲倦，沮丧，又愤怒。</Dest>
-    </String>
-    <String List="2">
-      <Source>Speak.</Source>
-      <Dest>说吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Finding the right combination of sauces and illusion magic would be just as time consuming as learning how to cook.</Source>
-      <Dest>学会如何正确地组合调料和幻术会像学习厨艺一样耗费时间。</Dest>
-    </String>
-    <String List="2">
-      <Source>Illusionists are more than happy to get away with a good lie in order to bed a woman, but I seem intent on trying to turn my lies into truth.</Source>
-      <Dest>幻术家们总喜欢为了睡女人而撒谎然后溜得无影无踪，但我更倾向于把我的谎言变为现实。</Dest>
-    </String>
-    <String List="2">
-      <Source>Illusionists are more than happy to get away with a good lie in order to bed a woman, but I seem intent on trying to turn my lies into truth.</Source>
-      <Dest>幻术家们总喜欢为了睡女人而撒谎然后溜得无影无踪，但我更倾向于把我的谎言变为现实。</Dest>
-    </String>
-    <String List="2">
-      <Source>When the Long Night comes and people witness its destructive power, they will have no choice but to drop their weapons.</Source>
-      <Dest>当长夜降临，人们会目睹它的破坏力，除了放下武器，他们别无选择。</Dest>
-    </String>
-    <String List="2">
-      <Source>What is it?</Source>
-      <Dest>怎么了？</Dest>
-    </String>
-    <String List="2">
-      <Source>It turns out she was less interested in the contents of the chest as she was in what lay under my cuirass.</Source>
-      <Dest>原来她对箱子里的东西不怎么感兴趣。这就是她为什么躺在我的胸甲底下。</Dest>
-    </String>
-    <String List="2">
-      <Source>It turns out she was less interested in the contents of the chest as she was in what lay under my cuirass.</Source>
-      <Dest>原来她对箱子里的东西不怎么感兴趣。这就是她为什么躺在我的胸甲底下。</Dest>
-    </String>
-    <String List="2">
-      <Source>Whatever alteration went into making her look Elvish, it's beyond anything I know.  Maybe I'll make her my next project.</Source>
-      <Dest>不论是何种变换系魔法让他她看起来像精灵，这都超出了我认知的范围。也许我的下一件事就是让她那么做。</Dest>
-    </String>
-    <String List="2">
-      <Source>That goes for all of Tamriel.  Every era we have wars upon wars.  The only real way to have peace is to have a single, unimpeachable power.</Source>
-      <Dest>整个泰姆瑞尔大陆都是如此。每个纪元战争接着战争。获取和平的真正途径只有找到无可匹敌，无懈可击的力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>I stood there helpless as she walked right past me and opened the chest.  After taking a peek inside, to my surprise she closed it.</Source>
-      <Dest>当她从我身边走过，打开箱子的时候，我就无助的站在那儿。我想偷偷往里看，令我吃惊的是她关上了它。</Dest>
-    </String>
-    <String List="2">
-      <Source>I stood there helpless as she walked right past me and opened the chest.  After taking a peek inside, to my surprise she closed it.</Source>
-      <Dest>当她从我身边走过，打开箱子的时候，我就无助的站在那儿。我想偷偷往里看，令我吃惊的是她关上了它。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, I'm no coward.  I practice peace, but I'm far from a pacifist.  Or did you forget I was willing to turn this land asunder to achieve it?</Source>
-      <Dest>嘿，我不是一个懦夫。我做事和平，但是我还不是和平主义者。或者说你忘了我愿意得到这片土地而将它变成碎片？</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
     </String>
     <String List="2">
       <Source>How can I help you?</Source>
       <Dest>有什么我能效劳的？</Dest>
     </String>
     <String List="2">
-      <Source>About time.</Source>
-      <Dest>是时候了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Would you mind cooking something for me?</Source>
-      <Dest>你介意帮我煮点吃的吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Would you mind cooking something for me?</Source>
-      <Dest>你介意帮我煮点吃的吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're the Radiant Dark's cook?</Source>
-      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're the Radiant Dark's cook?</Source>
-      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
-    </String>
-    <String List="0">
-      <Source>You're the Radiant Dark's cook?</Source>
-      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you again?</Source>
-      <Dest>你从你的旅程中学到了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you again?</Source>
-      <Dest>你从你的旅程中学到了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you?</Source>
-      <Dest>你是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you?</Source>
-      <Dest>你是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you and Nelos have different ideologies?</Source>
-      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you and Nelos have different ideologies?</Source>
-      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you and Nelos have different ideologies?</Source>
-      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you believe in the prophecy of the Long Night?</Source>
-      <Dest>你相信长夜的预言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you believe in the prophecy of the Long Night?</Source>
-      <Dest>你相信长夜的预言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you believe in the prophecy of the Long Night?</Source>
-      <Dest>你相信长夜的预言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Do you believe in the prophecy of the Long Night?</Source>
-      <Dest>你相信长夜的预言吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
-      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
-      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
-      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
-    </String>
-    <String List="0">
-      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
-      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
-      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
-      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
-      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢。</Dest>
-    </String>
-    <String List="0">
-      <Source>If cooking is such a chore, why do it?</Source>
-      <Dest>如果烹饪如此让人讨厌，那还有什么做的必要？</Dest>
-    </String>
-    <String List="0">
-      <Source>If cooking is such a chore, why do it?</Source>
-      <Dest>如果烹饪如此让人讨厌，那还有什么做的必要？</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you're not a real hunter then.</Source>
-      <Dest>那么我知道了你不是一个真正的猎人。</Dest>
-    </String>
-    <String List="0">
-      <Source>I take it you're not a real hunter then.</Source>
-      <Dest>那么我知道了你不是一个真正的猎人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Why?  What happens if you fail?</Source>
-      <Dest>为什么？失败了会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why?  What happens if you fail?</Source>
-      <Dest>为什么？失败了会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, you make violence to stop violence.</Source>
-      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, you make violence to stop violence.</Source>
-      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, you make violence to stop violence.</Source>
-      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, you make violence to stop violence.</Source>
-      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
+      <Source>Yes?</Source>
+      <Dest>什么？</Dest>
     </String>
     <String List="2">
-      <Source>Ha, you probably don't recognize me given how adeptly I changed my persona.</Source>
-      <Dest>哈，你可能没意识到我能多么熟练的转换角色。</Dest>
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
     </String>
     <String List="2">
-      <Source>Still, I can't think of anyone else I'd rather have at my side.</Source>
-      <Dest>我仍然不认为还有别人站在我这一边。</Dest>
+      <Source>Speak.</Source>
+      <Dest>说。</Dest>
     </String>
     <String List="2">
-      <Source>Having been on the run from both the Empire and my spouses, I've been forced to wear many hats, and a chef's one is no different.</Source>
-      <Dest>从帝国军务到我那些老婆们，我被逼着戴的帽子多去了，也不差这厨子的一顶啦。</Dest>
+      <Source>I try not to think about them at all.  A violent lot is what they are.  I don't know how Nelos puts up with them, being a fellow intellectual.</Source>
+      <Dest>我试着再也不去想他们。他们充斥的暴力。我不知道纳洛斯这个智者是如何容忍他们的，</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think about the other members of the Radiant Dark?</Source>
+      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
     </String>
     <String List="2">
-      <Source>That's the real reason why Nelos chose me.  He knows I that I won't be satisfied just preparing a meal.  It has to taste good.</Source>
-      <Dest>这就是纳洛斯选上我的真正原因。他知道仅仅只是准备饭菜是无法满足我的，我想要做出美味的饭菜。.</Dest>
+      <Source>Yet while we have different philosophies, I see the merits of his goal.  There are always going to be more of "them" than us.</Source>
+      <Dest>虽然我们的观念有很大差异。但我看得出他那目标的优点。世界上的“他们”永远比“我们”要多。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think about the other members of the Radiant Dark?</Source>
+      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
     </String>
     <String List="2">
-      <Source>That's the real reason why Nelos chose me.  He knows I that I won't be satisfied just preparing a meal.  It has to taste good.</Source>
-      <Dest>这就是纳洛斯选上我的真正原因。他知道仅仅只是准备饭菜是无法满足我的，我想要做出美味的饭菜。.</Dest>
+      <Source>That goes for all of Tamriel.  Every era we have wars upon wars.  The only real way to have peace is to have a single, unimpeachable power.</Source>
+      <Dest>整个泰姆瑞尔大陆都是如此。每个纪元战争接着战争。获取和平的真正途径只有找到无可匹敌，无懈可击的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you think about the other members of the Radiant Dark?</Source>
+      <Dest>你怎么看待黑暗光辉的其他成员的?</Dest>
     </String>
     <String List="2">
-      <Source>When people witness its destructive power, they'll have no choice but to drop their weapons as a means of self-preservation.</Source>
-      <Dest>当人们见识到它毁灭性的威力，就只能扔下武器落荒而逃只求自保了。</Dest>
+      <Source>A young, Imperial mage, with coconut skin and soft dimples.  She was in Windhelm doing research when your friend Olivia Meronin sent you after her.</Source>
+      <Dest>A young, Imperial mage, with coconut skin and soft dimples.  She was in Windhelm doing research when your friend Olivia Meronin sent you after her.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's Erith?</Source>
+      <Dest>谁是艾瑞斯？</Dest>
     </String>
     <String List="2">
-      <Source>What, do you expect him to throw me into a pit of slaughterfish?  Nelos is my boss, not my wife.</Source>
-      <Dest>什么，你想让他把我扔去喂食人鱼么？纳洛斯是我老板，不是我老婆。</Dest>
+      <Source>Luckily, you managed to kill her before she could heal herself and come back to me.  Can you imagine if I had to marry a cripple?</Source>
+      <Dest>幸好你在她疗好伤回来找我之前就送她归西了。真不敢想象我得和一个瘸子结婚！</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's Erith?</Source>
+      <Dest>谁是艾瑞斯？</Dest>
     </String>
     <String List="2">
-      <Source>You can decorate it in poetry and omens, but that's what the Long Night is.  Corpses rising, beasts roaming...just an endless string of violence.</Source>
-      <Dest>你可以用诗歌和预兆装点于它，但这才是长夜的含义：尸体起身，野兽游荡...只是一串无尽的暴力而已。 </Dest>
+      <Source>Restoration mages are extremely arrogant in that regard.  They take no precautions to avoid violence because they think they can cure everything.</Source>
+      <Dest>Restoration mages are extremely arrogant in that regard.  They take no precautions to avoid violence because they think they can cure everything.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who's Erith?</Source>
+      <Dest>谁是艾瑞斯？</Dest>
     </String>
     <String List="2">
-      <Source>My advice?  Do like Nelos did.  Keep a "hands off" approach.  There's a lot of strong personalities here, especially the Three Elves.</Source>
-      <Dest>我的建议?  像纳洛斯一样。保持“不动手”准则。这儿有很多强大的家伙，尤其是那三个精灵。</Dest>
+      <Source>Well, I didn't plan on proposing to her.  Things sort of just happened.  I didn't realize my mistake until the morning after.</Source>
+      <Dest>这么说吧，我本来也没打算向她求婚。但是事情就这么自然而然地发生了。直到第二天早晨我才意识到自己的过错。</Dest>
+    </String>
+    <String List="0">
+      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
+      <Dest>另一个妻子？你还什么都不知道呢，杰瑞.</Dest>
     </String>
     <String List="2">
-      <Source>Besides, I don't want to stop cooking, precisely because I abhor the very idea of it.  As such, it presents a unique challenge.</Source>
-      <Dest>此外，我不想停止做饭，恰恰是因为我对这种想法极为厌恶。因此，这给我带来了一种独特的挑战。</Dest>
+      <Source>The problem is I didn't nip it in the bud right there.  It's the bane of being an alteration mage.</Source>
+      <Dest>The problem is I didn't nip it in the bud right there.  It's the bane of being an alteration mage.</Dest>
+    </String>
+    <String List="0">
+      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
+      <Dest>另一个妻子？你还什么都不知道呢，杰瑞.</Dest>
     </String>
     <String List="2">
-      <Source>Yes, he thinks Vanus' spells will bring about a new age of war and competition. </Source>
-      <Dest>是的，他认为万纳斯的魔法会开创战争与竞争的新时代。</Dest>
+      <Source>Illusionists are more than happy to get away with a good lie in order to bed a woman, but I seem intent on trying to turn my lies into truth.</Source>
+      <Dest>幻术家们总喜欢为了睡女人而撒谎然后溜得无影无踪，但我更倾向于把我的谎言变为现实。</Dest>
+    </String>
+    <String List="0">
+      <Source>Another wife?  You haven't learned anything at all, Gerrod.</Source>
+      <Dest>另一个妻子？你还什么都不知道呢，杰瑞.</Dest>
     </String>
     <String List="2">
-      <Source>Greetings, Guildmaster.</Source>
-      <Dest>你好，公会大师。</Dest>
+      <Source>Of course.  Having a wife is like being afflicted with all the world's diseases at the same time.  It leaves you tired, frustrated, and angry.</Source>
+      <Dest>当然了！女朋友变成了妻子，就像是同时被世界上所有的疾病所折磨。它让你疲倦，沮丧，又愤怒。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're grateful I killed your fiance?</Source>
+      <Dest>你谢谢我杀了你的未婚夫？</Dest>
     </String>
     <String List="2">
-      <Source>But you're right.  Nelos doesn't accept failure.  Failure means you're disposal.  So I don't plan on finding out what happens.</Source>
-      <Dest>但你是对的。纳洛斯不接受失败。失败意味着你会被处理掉。所以我不打算搞清楚发生了什么。</Dest>
+      <Source>Unfortunately, sometimes I get carried away with my romantic overtures.  It's the bane of being an alteration mage.</Source>
+      <Dest>不幸的是，有时候我会毫无理智的毁了自己的浪漫的序曲。这是一个变换系法师的烦心事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're grateful I killed your fiance?</Source>
+      <Dest>你谢谢我杀了你的未婚夫？</Dest>
     </String>
     <String List="2">
-      <Source>I hate that word.  Prophecy.  Do I believe in oracles and soothsayers?  No.  Do I believe violence has the power to destroy?  Of course.</Source>
-      <Dest>我恨预言这个词。我相信那些神谕和算命的人吗？不！我只相信暴力具有破坏的力量。 </Dest>
+      <Source>Illusionists are more than happy to get away with a good lie in order to bed a woman, but I seem intent on trying to turn my lies into truth.</Source>
+      <Dest>幻术家们总喜欢为了睡女人而撒谎然后溜得无影无踪，但我更倾向于把我的谎言变为现实。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're grateful I killed your fiance?</Source>
+      <Dest>你谢谢我杀了你的未婚夫？</Dest>
     </String>
     <String List="2">
-      <Source>The only people who've reached a consensus on who I am is my wives.  They think I'm a sodding Dremora.  You can call me Gerrod.</Source>
-      <Dest>要是有几个人对我是谁达成共识那只有我的妻子们。她们都觉得我是个混蛋魔人。你可以叫我杰瑞德。</Dest>
+      <Source>That's what Offryn suggested. He spends so much time looking for shortcuts it takes him longer to get there.</Source>
+      <Dest>那就是奥弗朗的意见。他花在寻找捷径上的时间比正常走到那还多。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's easier to just lie.  In other words, just cover everything in sauce.</Source>
+      <Dest>最简单的方式就是撒谎，换言之，只要遮蔽掉所有的真实就够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Finding the right combination of sauces and illusion magic would be just as time consuming as learning how to cook.</Source>
+      <Dest>学会如何正确地组合调料和幻术会像学习厨艺一样耗费时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's easier to just lie.  In other words, just cover everything in sauce.</Source>
+      <Dest>最简单的方式就是撒谎，换言之，只要遮蔽掉所有的真实就够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you share Nelos' philosophy. But what if he says is true, Vanus' spells have the power to disrupt all of Nirn.</Source>
+      <Dest>这么说说你认可了纳洛斯的理念。不过如果他说的是正确的话，万纳斯的法术有破坏整个尼恩的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
+      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
+    </String>
+    <String List="2">
+      <Source>It doesn't matter if greater spells are devised.  It would be like crafting a fireball to burn a rose.  The size of the flame is irrelevant.</Source>
+      <Dest>如果法术施大发了也没问题。这就像是想用个火球来燃烧一朵玫瑰一样。火焰的大小不叫事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
+      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
+    </String>
+    <String List="2">
+      <Source>When the Long Night comes and people witness its destructive power, they will have no choice but to drop their weapons.</Source>
+      <Dest>当长夜降临，人们会目睹它的破坏力，除了放下武器，他们别无选择。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
+      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
+      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
+      <Dest>优势总是暂时的。比万纳斯的魔法更伟大的法术即将出现。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I know its easy to think so, given the company I keep.  Everyone else here may share Nelos' belief in the evolution of war, but I do not.</Source>
+      <Dest>我知道，在这种情况下很容易想到抛弃自己的伙伴。随着战争的进展，在这里的每个人都能分享纳洛斯的信仰，但不包括我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
+      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
+    </String>
+    <String List="2">
+      <Source>There's a threshold of violence, a point at which our world can no longer sustain the destruction we cause.</Source>
+      <Dest>当暴力开始出现，我们的世界将不能继续包容我们造成的破坏。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
+      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, only one of us is right.  And while Nelos is seemingly never wrong, in this case, I pray to the Divines he is.</Source>
+      <Dest>In the end, only one of us is right.  And while Nelos is seemingly never wrong, in this case, I pray to the Divines he is.</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop playing coy.  Admit it.  You enjoy violence.</Source>
+      <Dest>别再扭捏了，直说吧，你喜欢享受暴力！</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey, I'm no coward.  I practice peace, but I'm far from a pacifist.  Or did you forget I was willing to turn this land asunder to achieve it?</Source>
+      <Dest>嘿，我不是一个懦夫。我做事和平，但是我还不是和平主义者。或者说你忘了我愿意得到这片土地而将它变成碎片？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's great, but I don't need the advice of a devout coward.</Source>
+      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
+    </String>
+    <String List="2">
+      <Source>That being said, I'm not going to go adventuring to kill a few bandits that won't amount to anything.  That time is best spent on research.</Source>
+      <Dest>话虽如此，但我不会冒险去杀一些无关紧要的强盗。时间还是最好花在研究上。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's great, but I don't need the advice of a devout coward.</Source>
+      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
+    </String>
+    <String List="2">
+      <Source>So, if you don't value my advice, hopefully you'll value my experiments.  Maybe I'll devise a potion to give our new Guildmaster more charm.</Source>
+      <Dest>那么，要是你不认可我的建议，应该会认可我的实验吧。也许我能研究出一种药水来给我们的公会会长增添点魅力什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's great, but I don't need the advice of a devout coward.</Source>
+      <Dest>那很棒，不过我不需要一个懦夫的衷心劝告。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.   But keep in mind I serve in my own way, and that means no violence unless it's absolutely necessary.</Source>
+      <Dest>当然，但是请记住我有我的原则，不到万不得已的时候我不动刀子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
+      <Dest>杰瑞, 我需要一个安静的地方, 一个变得理智的法师在我身边.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you want someone with you to kill bandits and strangle orphans, there's plenty of options.</Source>
+      <Dest>现在，不论你想让某人和你一起屠杀强盗啦，还是勒死孤儿啦，你都有着充分的选择余地了 。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
+      <Dest>杰瑞, 我需要一个安静的地方, 一个变得理智的法师在我身边.</Dest>
+    </String>
+    <String List="2">
+      <Source>If I were you, I'd pass on the Three Elves and ask Felena.  Although she might stick you with the Orc.</Source>
+      <Dest>如果我是你，我会把那三个精灵杀死，然后问问妃乐娜。尽管她很有可能会坚持把你和兽人放在一起。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
+      <Dest>杰瑞, 我需要一个安静的地方, 一个变得理智的法师在我身边.</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmm...I think for my next alteration project, I'm going to turn him into a more eloquent puppet.  That will teach her to stop playing with dolls.</Source>
+      <Dest>哼哼……我正在想下一个变换法术要怎么施放呢，我打算把他变成一个更话唠的木偶，这样她就不会再接着玩那些玩偶啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Gerrod, I need a calm, rational alteration mage by my side.</Source>
+      <Dest>杰瑞, 我需要一个安静的地方, 一个变得理智的法师在我身边.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now those are words straight out of Nelos' mouth.  I'd say you were one in the same, but I know a shape-shifter when I see one.</Source>
+      <Dest>现在我说的那些事都是纳洛斯说的。除非我确定我看到的那个人是一个变形者，否则我仍然认为你是纳洛斯口中的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
+      <Dest>多谢啊杰瑞！欢迎你的宝贵建议！</Dest>
+    </String>
+    <String List="2">
+      <Source>Which will probably be my next alteration project. Changing shapes in a way that is undetectable.</Source>
+      <Dest>接下来哪个会成为我的改造目标。改变外形在某种意义上是不可被察觉的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
+      <Dest>多谢啊杰瑞！欢迎你的宝贵建议！</Dest>
+    </String>
+    <String List="2">
+      <Source>Those face butchers in the Summerset Isle will go out of business when I'm done.</Source>
+      <Dest>等我忙完了，就没有夏暮岛那些脸部屠夫什么事儿了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you Gerrod.  Your advice is always welcome.</Source>
+      <Dest>多谢啊杰瑞！欢迎你的宝贵建议！</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh no, you never want them at your back.  Trust me on that one.  You want them where you can see them.  Especially Eldawyn.</Source>
+      <Dest>哦不，你绝对不会希望他们出现在你背后。在这点上你得相信我。只有在确保能看见他们的时候你才会需要他们，特别是艾德雯。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or at your back.</Source>
+      <Dest>或在你的背后。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever alteration went into making her look Elvish, it's beyond anything I know.  Maybe I'll make her my next project.</Source>
+      <Dest>不论是何种变换系魔法让他她看起来像精灵，这都超出了我认知的范围。也许我的下一件事就是让她那么做。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or at your back.</Source>
+      <Dest>或在你的背后。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm still the cook, after all.  All I need is to order more wine.</Source>
+      <Dest>I'm still the cook, after all.  All I need is to order more wine.</Dest>
+    </String>
+    <String List="0">
+      <Source>Or at your back.</Source>
+      <Dest>或在你的背后。</Dest>
+    </String>
+    <String List="2">
+      <Source>As disgusting as it is to think about, I've heard under extreme duress, torture victims will actually take the side of their abusers.</Source>
+      <Dest>尽管回想起来让人非常恶心，但我曾经听说过在那种极端的监禁条件下，受尽折磨的受害者们反倒会站在他们的施暴者那一方。</Dest>
+    </String>
+    <String List="0">
+      <Source>I find the threat of violence can convince a person of anything.</Source>
+      <Dest>我发现暴力的恐吓可以驱使一个人做任何事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which seems to be why I seem intent on cooking this meal for the others.  I must have lost my mind.</Source>
+      <Dest>那看起来似乎就是为什么我想要给别人做这顿饭一样，我一定是脑子进水了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I find the threat of violence can convince a person of anything.</Source>
+      <Dest>我发现暴力的恐吓可以驱使一个人做任何事。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must be rather confident to announce your plans out in the open.  And the way you said it...you sound like enjoy violence.</Source>
+      <Dest>你必须有相当的信心来公开宣布你的计划。并且你说的方式......你听起来很欣赏暴力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and that power will belong to me.</Source>
+      <Dest>是的，这力量将属于我。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's exactly what all these simpletons think.  The Long Night isn't about exercising power, it's about demonstrating it.</Source>
+      <Dest>这正是那堆傻子认为的事儿。长夜不是关于如何锻炼力量的，而是在于如何展现它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and that power will belong to me.</Source>
+      <Dest>是的，这力量将属于我。</Dest>
+    </String>
+    <String List="2">
+      <Source>If we give the world the ability to destroy it, they'll have no choice but to negotiate their differences.</Source>
+      <Dest>如果我们有毁灭世界之力，他们除了和我们谈判之外便别无选择。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and that power will belong to me.</Source>
+      <Dest>是的，这力量将属于我。</Dest>
+    </String>
+    <String List="2">
+      <Source>It doesn't matter to me if that power is displayed by you or any of the Radiant Dark.</Source>
+      <Dest>It doesn't matter to me if that power is displayed by you or any of the Radiant Dark.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and that power will belong to me.</Source>
+      <Dest>是的，这力量将属于我。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's pretty much what Gilsi said.  Which says a lot about you, I'm afraid.  Cooking is difficult, frustrating, and extremely tedious.</Source>
+      <Dest>那大概就是歌尔西的话吧。我记得说了很多关于你的事。烹饪是很难，很挫败而又超级无聊的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is cooking really all that difficult?  Just throw everything into a pot.</Source>
+      <Dest>烹饪真的那么难?  不就是把所有东西都倒进锅里。</Dest>
     </String>
     <String List="2">
       <Source>If you have to ask, then you don't know me very well.  I view it as a challenge, precisely because I abhor the very idea of it.</Source>
       <Dest>要是你非问不可，那就是不了解我。我把它视为挑战，恰恰是因为我痛恨这个想法。</Dest>
     </String>
+    <String List="0">
+      <Source>If cooking is such a chore, why do it?</Source>
+      <Dest>如果烹饪如此让人讨厌，那还有什么做的必要？</Dest>
+    </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>That's the real reason why Nelos chose me.  He knows I that I won't be satisfied just preparing a meal.  It has to taste good.</Source>
+      <Dest>这就是纳洛斯选上我的真正原因。他知道仅仅只是准备饭菜是无法满足我的，我想要做出美味的饭菜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>If cooking is such a chore, why do it?</Source>
+      <Dest>如果烹饪如此让人讨厌，那还有什么做的必要？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, he thinks Vanus' spells will bring about a new age of war and competition. </Source>
+      <Dest>是的，他认为万纳斯的魔法会开创战争与竞争的新时代。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you and Nelos have different ideologies?</Source>
+      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
+    </String>
+    <String List="2">
+      <Source>I believe there is threshold of violence, a point where further violence would bring peace in one of two ways.  Reconciliation, or death.</Source>
+      <Dest>我相信暴力都有一个临界点，而更进一步的暴力会带来两种和平方式。和解，或是死亡。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you and Nelos have different ideologies?</Source>
+      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
+    </String>
+    <String List="2">
+      <Source>So while we each strive for the same goal, we have different views of what the outcome will be.  I pray to the Divines he's wrong.</Source>
+      <Dest>所以，虽然我们都向着一个目标努力，我们却对结果有着不同的看法。圣灵保佑，他是错的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you and Nelos have different ideologies?</Source>
+      <Dest>你和纳洛斯有不一样的理论体系？</Dest>
+    </String>
+    <String List="2">
+      <Source>That depends on what you mean.  Yes, I learned how to hunt to hide my identity.  That doesn't mean I can't skin a deer if you asked.</Source>
+      <Dest>这取决于你是什么意思。是的，我学会如何去寻找我隐藏的身份。但如果你想要，我依然可以剥下一头鹿的皮。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you're not a real hunter then.</Source>
+      <Dest>那么我知道了你不是一个真正的猎人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only real way to convince a person you're someone else is to become someone else.  Right now, I must convince Nelos I'm a passable cook.</Source>
+      <Dest>The only real way to convince a person you're someone else is to become someone else.  Right now, I must convince Nelos I'm a passable cook.</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you're not a real hunter then.</Source>
+      <Dest>那么我知道了你不是一个真正的猎人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, so it would seem.  Before that, I was a hunter at the Cliffside Retreat.  And prior to that, I was a loving husband to 3 angry wives.</Source>
+      <Dest>对，看起来就是这样。在那之前，我是个悬崖隐所的猎人。在那之前的之前，我是个爱着三个爱发火的妻子的丈夫。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the Radiant Dark's cook?</Source>
+      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
+    </String>
+    <String List="2">
+      <Source>Having been on the run from both the Empire and my spouses, I've been forced to wear many hats, and a chef's one is no different.</Source>
+      <Dest>从帝国军务到我那些老婆们，我被逼着戴的帽子多去了，也不差这厨子的一顶啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're the Radiant Dark's cook?</Source>
+      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
     </String>
     <String List="2">
       <Source>You see, the only real way to convince a person you're someone else is to become someone else. Right now my job is to convince Nelos I can cook.</Source>
       <Dest>要知道，唯一说服别人把你当作另一个人的办法就是成为那‘另一个人’。而我现在要做的就是向纳洛斯证明我能下厨。</Dest>
     </String>
+    <String List="0">
+      <Source>You're the Radiant Dark's cook?</Source>
+      <Dest>你就是那个光芒四射的黑暗料理师？</Dest>
+    </String>
+    <String List="2">
+      <Source>What, do you expect him to throw me into a pit of slaughterfish?  Nelos is my boss, not my wife.</Source>
+      <Dest>什么，你想让他把我扔去喂食人鱼么？纳洛斯是我老板，不是我老婆。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why?  What happens if you fail?</Source>
+      <Dest>为什么？失败了会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>But you're right.  Nelos doesn't accept failure.  Failure means you're disposal.  So I don't plan on finding out what happens.</Source>
+      <Dest>但你是对的。纳洛斯不接受失败。失败意味着你会被处理掉。所以我不打算搞清楚发生了什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why?  What happens if you fail?</Source>
+      <Dest>为什么？失败了会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha!  I've heard that song before.  With my second wife, you could never tell if she was trying to poison you, because her cooking was that bad.</Source>
+      <Dest>哈！我之前听过那首歌。至于我的第二任妻子，你永远也分辨不出她是不是想给你下毒，因为她的厨艺实在是糟糕透了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
+      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, I don't want to stop cooking, precisely because I abhor the very idea of it.  As such, it presents a unique challenge.</Source>
+      <Dest>此外，我不想停止做饭，恰恰是因为我对这种想法极为厌恶。因此，这给我带来了一种独特的挑战。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
+      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the real reason why Nelos chose me.  He knows I that I won't be satisfied just preparing a meal.  It has to taste good.</Source>
+      <Dest>这就是纳洛斯选上我的真正原因。他知道仅仅只是准备饭菜是无法满足我的，我想要做出美味的饭菜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why don't you let me cook then?  I promise you'll all be fine.</Source>
+      <Dest>那时你为什么不让我来做饭？我保证你会没事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.  Try this.  It's at least warm.</Source>
+      <Dest>当然。尝尝看这个。这至少还热乎乎的呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I may not be a master chef, but I bet you can't tell the difference.</Source>
+      <Dest>我不是什么高级大厨，不过我打赌你尝不出区别。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, you probably don't recognize me given how adeptly I changed my persona.</Source>
+      <Dest>哈，你可能没意识到我能多么熟练的转换角色。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you again?</Source>
+      <Dest>你又是谁？</Dest>
+    </String>
     <String List="2">
       <Source>We met at the Cliffside Retreat.  My name is Gerrod.  A member of the Radiant Dark.</Source>
-      <Dest>我们在悬崖隐所相遇。我叫杰瑞德。是一名黑暗光辉的成员。</Dest>
+      <Dest>我们在悬崖隐所相遇。我叫杰瑞。是一名黑暗光辉的成员。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you again?</Source>
+      <Dest>你又是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a question I get often.  Every day it seems like I'm someone else.</Source>
+      <Dest>这就是我常有的问题。好像每一天我都是别的什么人一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only people who've reached a consensus on who I am is my wives.  They think I'm a sodding Dremora.  You can call me Gerrod.</Source>
+      <Dest>要是有几个人对我是谁达成共识那只有我的妻子们。她们都觉得我是个混蛋魔人。你可以叫我杰瑞。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>Precisely.  Imagine if the Thalmor and the Empire had the power to destroy all of Nirn with their magic.</Source>
+      <Dest>非常准确。想像一下如果梭默和帝国都拥有了能毁掉整个奈恩的魔法力量那将会发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you make violence to stop violence.</Source>
+      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>They would ultimately have no choice but to reconcile their differences at the table, or risk ruling over a heap of rubble.</Source>
+      <Dest>要么让他们在台上把一切异议协调好，要么一战到底最后只剩下一座废墟让他们统治。除此之外，他们别无选择。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you make violence to stop violence.</Source>
+      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the Long Night comes and people witness its destructive power, they will have no choice but to drop their weapons.</Source>
+      <Dest>当长夜降临，人们会目睹它的破坏力，除了放下武器，他们别无选择。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you make violence to stop violence.</Source>
+      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
+      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you make violence to stop violence.</Source>
+      <Dest>换句话说，你们用暴力来阻止暴力。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hate that word.  Prophecy.  Do I believe in oracles and soothsayers?  No.  Do I believe violence has the power to destroy?  Of course.</Source>
+      <Dest>我恨预言这个词。我相信那些神谕和算命的人吗？不！我只相信暴力具有破坏的力量。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Do you believe in the prophecy of the Long Night?</Source>
+      <Dest>你相信在漫漫长夜里的这个预言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You can decorate it in poetry and omens, but that's what the Long Night is.  Corpses rising, beasts roaming...just an endless string of violence.</Source>
+      <Dest>你可以用诗歌和预兆装点于它，但这才是长夜的含义：尸体起身，野兽游荡...只是一串无尽的暴力而已。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Do you believe in the prophecy of the Long Night?</Source>
+      <Dest>你相信在漫漫长夜里的这个预言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>When people witness its destructive power, they'll have no choice but to drop their weapons as a means of self-preservation.</Source>
+      <Dest>当人们见识到它毁灭性的威力，就只能扔下武器落荒而逃只求自保了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you believe in the prophecy of the Long Night?</Source>
+      <Dest>你相信在漫漫长夜里的这个预言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
+      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you believe in the prophecy of the Long Night?</Source>
+      <Dest>你相信在漫漫长夜里的这个预言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>There are none. Take Eldawyn, for example. That Elf would set a wine bottle on a plate and call it a full course meal.</Source>
+      <Dest>那一个人也没有。以艾德雯为例子. 这个精灵会把葡萄酒瓶放在盘子上并管它叫一顿丰盛的饭。</Dest>
+    </String>
+    <String List="0">
+      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
+      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing this lot is good at is inflicting violence.  As I detest the practice, I get stuck with everything else.</Source>
+      <Dest>这家伙只在使用暴力的时候有窍门。我讨厌这事，其他事情也不顺。</Dest>
+    </String>
+    <String List="0">
+      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
+      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢.</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, even if there were some decent cooks among them, I'm the only one committed enough to become great.</Source>
+      <Dest>此外，尽管他们之中也有些很厉害的厨师。但有资格称为伟大的只有我。</Dest>
+    </String>
+    <String List="0">
+      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
+      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's something Nelos is fully aware of.</Source>
+      <Dest>那就是纳洛斯要求警惕的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You do have people helping you.  Maybe you'll find a cook among them.</Source>
+      <Dest>确实有一帮人在帮助你.  说不定你从中你还能找到一名厨师呢.</Dest>
     </String>
     <String List="2">
       <Source>Now where did I put the tomatoes?  Blast, I'll never get this done in time for dinner.</Source>
       <Dest>我把番茄放哪儿了？布拉斯特 ，看来我永远也赶不上晚饭时间了。</Dest>
     </String>
     <String List="2">
-      <Source>Besides, even if there were some decent cooks among them, I'm the only one committed enough to become great.</Source>
-      <Dest>此外，尽管他们之中也有些很厉害的厨师。但有资格称为伟大的只有我。</Dest>
-    </String>
-    <String List="2">
-      <Source>So, you married that corpse? That's...interesting.</Source>
-      <Dest>那个，你和那具尸体结婚了？这还真是....有趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>That depends on what you mean.  Yes, I learned how to hunt to hide my identity.  That doesn't mean I can't skin a deer if you asked.</Source>
-      <Dest>这取决于你是什么意思。是的，我学会如何去寻找我隐藏的身份。但如果你想要，我依然可以剥下一头鹿的皮。</Dest>
-    </String>
-    <String List="2">
-      <Source>So you're the new Guildmaster?  Well, better you than me.</Source>
-      <Dest>所以你是新会长啦？恩，你干会长比我干强。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's something Nelos is fully aware of.</Source>
-      <Dest>那就是纳洛斯要求警惕的。</Dest>
+      <Source>Oh, it's you.  This is your fault, you know.  Erith was our cook, and my fiance.</Source>
+      <Dest>哦，是你。这是你的错，你知道的。伊里斯是我们的厨师，以及我的未婚夫。</Dest>
     </String>
     <String List="2">
       <Source>So while part of me is grateful to you for tying that loose end, Nelos has decided to make me the unofficial cook.</Source>
       <Dest>所以虽然我还是对你收拾了我的烂摊子表示感激，但是纳罗斯已经决定让我做非官方S的厨师了。</Dest>
     </String>
     <String List="2">
-      <Source>That's a question I get often.  Every day it seems like I'm someone else.</Source>
-      <Dest>这就是我常有的问题。好像每一天我都是别的什么人一样。</Dest>
+      <Source>So you're the new Guildmaster?  Well, better you than me.</Source>
+      <Dest>所以你是新会长啦？恩，你干会长比我干强。</Dest>
     </String>
     <String List="2">
-      <Source>So while we each strive for the same goal, we have different views of what the outcome will be.  I pray to the Divines he's wrong.</Source>
-      <Dest>所以，虽然我们都向着一个目标努力，我们却对结果有着不同的看法。圣灵保佑，他是错的。</Dest>
+      <Source>My advice?  Do like Nelos did.  Keep a "hands off" approach.  There's a lot of strong personalities here, especially the Three Elves.</Source>
+      <Dest>我的建议?  像纳洛斯一样。保持“不动手”准则。这儿有很多强大的家伙，尤其是那三个精灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>They might as well be the "Three Wives," the way they stir up trouble.  Not to mention they're all crazy.</Source>
+      <Dest>They might as well be the "Three Wives," the way they stir up trouble.  Not to mention they're all crazy.</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I can't think of anyone else I'd rather have at my side.</Source>
+      <Dest>我仍然不认为还有别人站在我这一边。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time, master.</Source>
+      <Dest>Until next time, master.</Dest>
     </String>
     <String List="2">
       <Source>Let me know if there's anything else you need.</Source>
       <Dest>如果你还有什么需要的话，告诉我。</Dest>
     </String>
     <String List="2">
-      <Source>I may not be a master chef, but I bet you can't tell the difference.</Source>
-      <Dest>我不是什么高级大厨，不过我打赌你尝不出区别。</Dest>
-    </String>
-    <String List="2">
-      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
-      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I find the whole thing reprehensible...but ultimately, necessary for us to have peace.</Source>
-      <Dest>我发现整件事情都是一笔混帐……不过说到底，为了我们的和平还是有必要的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sure.  Try this.  It's at least warm.</Source>
-      <Dest>当然。尝尝看这个。这至少还热乎乎的呢。</Dest>
+      <Source>Greetings, Guildmaster.</Source>
+      <Dest>你好，公会大师。</Dest>
     </String>
     <String List="2">
       <Source>What can I do for you, master?</Source>
       <Dest>我能为你做些什么，主人？</Dest>
     </String>
     <String List="2">
-      <Source>The only thing this lot is good at is inflicting violence.  As I detest the practice, I get stuck with everything else.</Source>
-      <Dest>这家伙只在使用暴力的时候有窍门。我讨厌这事，其他事情也不顺。</Dest>
-    </String>
-    <String List="2">
-      <Source>When the Long Night comes and people witness its destructive power, they will have no choice but to drop their weapons.</Source>
-      <Dest>当长夜降临，人们会目睹它的破坏力，除了放下武器，他们别无选择。</Dest>
-    </String>
-    <String List="2">
-      <Source>I believe there is threshold of violence, a point where further violence would bring peace in one of two ways.  Reconciliation, or death.</Source>
-      <Dest>我相信暴力都有一个临界点，而更进一步的暴力会带来两种和平方式。和解，或是死亡。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, so it would seem.  Before that, I was a hunter at the Cliffside Retreat.  And prior to that, I was a loving husband to 3 angry wives.</Source>
-      <Dest>对，看起来就是这样。在那之前，我是个悬崖隐所的猎人。在那之前的之前，我是个爱着三个爱发火的妻子的丈夫。</Dest>
-    </String>
-    <String List="2">
-      <Source>Precisely.  Imagine if the Thalmor and the Empire had the power to destroy all of Nirn with their magic.</Source>
-      <Dest>非常准确。想像一下如果梭默和帝国都拥有了能毁掉整个奈恩的魔法力量那将会发生什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>They would ultimately have no choice but to reconcile their differences at the table, or risk ruling over a heap of rubble.</Source>
-      <Dest>要么让他们在台上把一切异议协调好，要么一战到底最后只剩下一座废墟让他们统治。除此之外，他们别无选择。</Dest>
-    </String>
-    <String List="2">
-      <Source>There are none. Take Eldawyn, for example. That Elf would set a wine bottle on a plate and call it a full course meal.</Source>
-      <Dest>那一个人也没有。以艾德温为例子. 这个精灵会把葡萄酒瓶放在盘子上并管它叫一顿丰盛的饭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, it's you.  This is your fault, you know.  Erith was our cook, and my fiance.</Source>
-      <Dest>哦，是你。这是你的错，你知道的。伊里斯是我们的厨师，以及我的未婚夫。</Dest>
-    </String>
-    <String List="2">
       <Source>Your meal will be ready shortly, Guildmaster.</Source>
       <Dest>您的饭菜马上就好，会长。</Dest>
     </String>
     <String List="2">
-      <Source>Ha!  I've heard that song before.  With my second wife, you could never tell if she was trying to poison you, because her cooking was that bad.</Source>
-      <Dest>哈！我之前听过那首歌。至于我的第二任妻子，你永远也分辨不出她是不是想给你下毒，因为她的厨艺实在是糟糕透了。</Dest>
+      <Source>So, you married that corpse? That's...interesting.</Source>
+      <Dest>那个，你和那具尸体结婚了？这还真是....有趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

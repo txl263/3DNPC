@@ -7,172 +7,32 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Good luck with that.</Source>
-      <Dest>祝你好运。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you say so.</Source>
-      <Dest>既然你都这样说了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on!</Source>
-      <Dest>上啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hyargh!</Source>
-      <Dest>嘿呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Thanks.</Source>
-      <Dest>谢谢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gah!</Source>
-      <Dest>嘎！</Dest>
-    </String>
-    <String List="2">
-      <Source>Did you hear me?</Source>
-      <Dest>你听到我了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Orgnar!</Source>
-      <Dest>奥格那！</Dest>
+      <Source>Yup. Ale's going bad.</Source>
+      <Dest>没错。麦酒已经快过期啦。</Dest>
     </String>
     <String List="2">
       <Source>I guess you don't have potatoes in your ears after all. Just make sure we get a fresh batch in soon.</Source>
-      <Dest>看来你还算机灵。请尽快给我们弄一批新鲜的来吧。</Dest>
+      <Dest>看来你耳朵没被塞住。尽快给我们弄一批新鲜的来吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hard not to.</Source>
+      <Dest>很难不这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>The ale is going bad, we need to get a new batch.</Source>
+      <Dest>麦酒要坏掉了，我们要进批新的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hard not to.</Source>
+      <Dest>很难不这样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you hear me?</Source>
+      <Dest>你听见我说什么了吗？</Dest>
     </String>
     <String List="2">
       <Source>Are you listening?</Source>
       <Dest>你在听吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Good to see you.</Source>
-      <Dest>幸会。</Dest>
-    </String>
-    <String List="0">
-      <Source>Good to see you.</Source>
-      <Dest>幸会。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's our next move?</Source>
-      <Dest>我们下一步做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's our next move?</Source>
-      <Dest>我们下一步做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's our next move?</Source>
-      <Dest>我们下一步做什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Good luck.</Source>
-      <Dest>祝你好运。</Dest>
-    </String>
-    <String List="2">
-      <Source>Where are we headed?</Source>
-      <Dest>我们要去哪？</Dest>
-    </String>
-    <String List="2">
-      <Source>Where are we headed?</Source>
-      <Dest>我们要去哪？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you want?</Source>
-      <Dest>你要干嘛？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you want?</Source>
-      <Dest>你要干嘛？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you want?</Source>
-      <Dest>你要干嘛？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you want?</Source>
-      <Dest>你要干嘛？</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>关你什么事！</Dest>
-    </String>
-    <String List="0">
-      <Source>That's none of your business.</Source>
-      <Dest>关你什么事！</Dest>
-    </String>
-    <String List="2">
-      <Source>That's none of your business.</Source>
-      <Dest>关你什么事！</Dest>
-    </String>
-    <String List="2">
-      <Source>That's none of your business.</Source>
-      <Dest>关你什么事！</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's get going.</Source>
-      <Dest>我们走吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hard not to.</Source>
-      <Dest>很难不这样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hard not to.</Source>
-      <Dest>很难不这样。</Dest>
-    </String>
-    <String List="0">
-      <Source>Yup. Ale's going bad.</Source>
-      <Dest>没错。麦酒已经快过期啦。</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't have time for this.</Source>
-      <Dest>我在赶时间。</Dest>
-    </String>
-    <String List="2">
-      <Source>Did you hear me?</Source>
-      <Dest>你听到我了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>Orgnar!</Source>
-      <Dest>奥格那！</Dest>
-    </String>
-    <String List="2">
-      <Source>Orgnar!</Source>
-      <Dest>奥格那！</Dest>
-    </String>
-    <String List="2">
-      <Source>I guess you don't have potatoes in your ears after all. Just make sure we get a fresh batch in soon.</Source>
-      <Dest>看来你还算机灵。请尽快给我们弄一批新鲜的来吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Are you sure?</Source>
-      <Dest>你确定？</Dest>
     </String>
     <String List="2">
       <Source>Sure thing, it's yours for a day.</Source>
@@ -183,28 +43,40 @@
       <Dest>你是个外来者，一直在附近转悠。我们河木镇可没多少旅客。</Dest>
     </String>
     <String List="2">
-      <Source>Are you listening?</Source>
-      <Dest>你在听吗？</Dest>
+      <Source>Orgnar!</Source>
+      <Dest>奥格那！</Dest>
     </String>
     <String List="2">
-      <Source>Good.</Source>
-      <Dest>很好。</Dest>
+      <Source>Orgnar!</Source>
+      <Dest>奥格那！</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>The ale is going bad, we need to get a new batch.</Source>
-      <Dest>麦酒要坏掉了，我们要进批新的。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>What is it?</Source>
-      <Dest>怎么了？</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="2">
-      <Source>Do you need something?</Source>
-      <Dest>你需要些什么吗？</Dest>
+      <Source>Good.</Source>
+      <Dest>好的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you sure?</Source>
+      <Dest>你确定？</Dest>
+    </String>
+    <String List="2">
+      <Source>What are you doing here?  You're supposed to sweep the entranceway.  Like we talked about?</Source>
+      <Dest>What are you doing here?  You're supposed to sweep the entranceway.  Like we talked about?</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

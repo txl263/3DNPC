@@ -6,853 +6,165 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
+    <String List="2">
+      <Source>Okay.  You lead and I'll follow.</Source>
+      <Dest>行了吧，你带路，我跟着。</Dest>
     </String>
     <String List="2">
-      <Source>Wonderful. Soon we'll have the latest section of the Edda complete. Keep up the good work.</Source>
-      <Dest>太好了。很快我们就能完成诗歌集的最后一节了。继续加油。</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
-    </String>
-    <String List="0">
-      <Source>How's business?</Source>
-      <Dest>生意如何？</Dest>
+      <Source>I have no complaints.</Source>
+      <Dest>我毫无怨言。</Dest>
     </String>
     <String List="2">
-      <Source>Fralia Gray-Mane is convinced that the Battle-Borns have abducted one of her sons.</Source>
-      <Dest>弗拉利亚 灰鬃听说战狂家的人拐走了她一个儿子。</Dest>
+      <Source>Well, I did hear that the Argonians have been banned from living inside the walls of Windhelm.</Source>
+      <Dest>我听说他们禁止亚龙人住在风盔城里。</Dest>
     </String>
     <String List="2">
-      <Source>Well, I did see something interesting not long ago.</Source>
-      <Dest>我不久前就见过些有意思的事。</Dest>
+      <Source>They're only allowed on the city docks now. Most of them sleep together in one building, and they're as poor as wretches.</Source>
+      <Dest>他们现在只能住在城市的港口，大部分人都挤在一栋建筑里，像乞丐一样贫穷。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you visited Rorikstead lately? No matter how harsh the winter, the crops that grow there never falter.</Source>
+      <Dest>你最近去过洛里斯泰德吗？不管那里的冬天有多严苛，庄稼都会长得很好。</Dest>
     </String>
     <String List="2">
       <Source>Even when every other farm in the hold is barely scraping by, the harvest at Rorikstead is always bountiful.</Source>
-      <Dest>即使这片领地里的其他农场都是勉强度日，洛利克镇的收获也总是充裕的 。 </Dest>
+      <Dest>即使是冬堡的农民都没有半点收成时，洛里斯泰德的收成依然可观。</Dest>
     </String>
     <String List="2">
       <Source>Is it good fortune? The blessings of the Divines? Who knows?</Source>
       <Dest>这算宝藏？圣灵的赐福吗？谁知道呢？</Dest>
     </String>
     <String List="2">
-      <Source>I'm not sure that it's news, but lately it seems like every blacksmith in Skyrim is out to prove that he's the equal of Eorlund Gray-Mane.</Source>
-      <Dest>我不知道这还算不算新闻，最近好像天际所有的铁匠都想证明自己跟厄伦德·灰鬃不相上下。</Dest>
+      <Source>Now that I think on it, I did hear something rather interesting the other day.</Source>
+      <Dest>让我想想，我的确听到过更加有趣的事情。</Dest>
     </String>
     <String List="2">
-      <Source>I couldn't have said it better myself. It's been some time since I've had news from elsewhere in Skyrim. What have you heard?</Source>
-      <Dest>我想不出比它再好的了。我上次听到天际其他地方的消息已经是很久以前了。你听说什么了？</Dest>
+      <Source>Apparently, the Red Wave has been docked in Solitude for well over a month, and with no sign of shipping out any time soon.</Source>
+      <Dest>很显然，赤红波浪已经在独孤城停泊一个多月了，依然没有离港的迹象。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say the ship suffered damage to her hull when she struck an iceberg, and Captain Safia can't afford the repairs. </Source>
+      <Dest>有人说船撞上了冰山，船体受损，而萨非亚船长付不起维修费。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, she would never admit such a thing. Captain Safia is far too proud a woman for that.</Source>
+      <Dest>当然，她永远不会承认的。萨非亚船长的骄傲不允许她承认。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there might be nothing to it, but I've heard that the feud between the Gray-Manes and the Battle-Borns in Whiterun has grown ugly.</Source>
+      <Dest>嗯……也许没什么消息吧，但我听说雪漫城里灰鬃和战狂两家的梁子是越结越深了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fralia Gray-Mane is convinced that the Battle-Borns have abducted one of her sons.</Source>
+      <Dest>法利亚·灰鬃认为战狂氏族的人绑架了她的儿子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure that it's news, but lately it seems like every blacksmith in Skyrim is out to prove that he's the equal of Eorlund Gray-Mane.</Source>
+      <Dest>我不知道这还算不算新闻，最近好像天际所有的铁匠都想证明自己跟厄伦德·灰鬃不相上下。</Dest>
     </String>
     <String List="2">
       <Source>It's not really a fair comparison, if you ask me.</Source>
       <Dest>要我说，这根本没有可比性。</Dest>
     </String>
     <String List="2">
-      <Source>You've got to admire their courage, doing something like that with dragons on the loose and a war going on.</Source>
-      <Dest>你不得不佩服他们的勇气，能在有龙出没，战争横行的时候在外面闯荡。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some say the ship suffered damage to her hull when she struck an iceberg, and Captain Safia can't afford the repairs. </Source>
-      <Dest>有人说船撞上了冰山，船体受损，而萨非亚船长付不起维修费。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I did hear that the Argonians have been banned from living inside the walls of Windhelm.</Source>
-      <Dest>怎么样。我听到亚龙人已经被禁止住在风盔城的城墙内。.</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, she would never admit such a thing. Captain Safia is far too proud a woman for that.</Source>
-      <Dest>当然，她永远不会承认的。萨非亚船长的骄傲不允许她承认。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll not argue that. Heard any interesting gossip lately?</Source>
-      <Dest>我不否认。最近有什么八卦吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Apparently, the Red Wave has been docked in Solitude for well over a month, and with no sign of shipping out any time soon.</Source>
-      <Dest>很显然，赤红波浪已经在独孤城停泊一个多月了，依然没有离港的迹象。</Dest>
-    </String>
-    <String List="2">
-      <Source>This war has taken a toll on the merchants of Skyrim. Let's hope that it ends soon, for their sake.</Source>
-      <Dest>这场战争给天际的商人带来了相当大的损失，让我们为他们祈祷，希望这场战争赶紧结束吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>That was delicious.</Source>
-      <Dest>那可真美味。</Dest>
-    </String>
-    <String List="2">
-      <Source>I couldn't agree more. By the way, have you heard any interesting rumors lately?</Source>
-      <Dest>我完全同意。顺便问一下，你最近有听过什么有趣的传言吗？</Dest>
-    </String>
-    <String List="2">
       <Source>After all, Eorlund works the Skyforge. How is any smith going to compete with that?</Source>
-      <Dest>毕竟，厄仑德用的可是天空熔炉。哪个铁匠能这这一点上比得过他？</Dest>
-    </String>
-    <String List="2">
-      <Source>I know just what you mean. Heard anything interesting lately? Any news or gossip?</Source>
-      <Dest>我懂了。最近有什么有意思的吗？新闻或者八卦都行？</Dest>
-    </String>
-    <String List="2">
-      <Source>Have you visited Rorikstead lately? No matter how harsh the winter, the crops that grow there never falter.</Source>
-      <Dest>你最近有没去过洛利克镇？不管冬天多么严酷，那儿的庄稼总是直挺挺的。</Dest>
-    </String>
-    <String List="2">
-      <Source>With the soldiers all fighting in the war, there's nobody to hunt down the bandits. Travel has become dangerous of late.</Source>
-      <Dest>士兵都去参战了，没人去打土匪，这使得出行变得更危险了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, there might be nothing to it, but I've heard that the feud between the Gray-Manes and the Battle-Borns in Whiterun has grown ugly.</Source>
-      <Dest>嗯……也许没什么消息吧，但我听说雪漫城里灰鬃和战狂两家的梁子是越结越深了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, I agree with you. Have you heard any news from the other parts of Skyrim?</Source>
-      <Dest>对，我同意。你有什么天际那边的消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Now that I think on it, I did hear something rather interesting the other day.</Source>
-      <Dest>让我想想，我的确听到过更加有趣的事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>There were several Khajiit camped outside the walls of Whiterun. Seems they've been traveling around the whole of Skyrim peddling their wares.</Source>
-      <Dest>在白漫城的城墙外驻扎着一群虎人。看起来他们为了兜售他们的货物已经穿越了整个天际省。</Dest>
-    </String>
-    <String List="2">
-      <Source>You speak truly. Have you heard any interesting rumors of late?</Source>
-      <Dest>如你所说，你最近听过什么有趣的传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope they'll serve the roast venison with bittergreen sauce that we had at the last party.</Source>
-      <Dest>我希望他们能提供烤鹿肉和苦菜酱，就像我们上次宴会吃的那种。</Dest>
-    </String>
-    <String List="2">
-      <Source>Curse you!</Source>
-      <Dest>诅咒你！</Dest>
-    </String>
-    <String List="2">
-      <Source>They're only allowed on the city docks now. Most of them sleep together in one building, and they're as poor as wretches.</Source>
-      <Dest>他们现在只能住在城市的港口，大部分人都挤在一栋建筑里，像乞丐一样贫穷。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's been a brutal winter. I can't remember the last time it was this cold, and for this long.</Source>
-      <Dest>那可是个难熬的冬天。我都不记得上次想这么冷这么长的冬天是什么时候了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
-    </String>
-    <String List="2">
-      <Source>I heard those mages up in Winterhold have been trying to figure out how many dragons there are in Skyrim.</Source>
-      <Dest>我听说冬堡的法师们想要统计天际究竟有多少头龙。</Dest>
-    </String>
-    <String List="2">
-      <Source>They're probably trying to scare us into giving them more money and influence, so they can save us from the dragons threat.</Source>
-      <Dest>他们大概想吓唬我们，好让我们因为恐惧而交出更多的钱。</Dest>
-    </String>
-    <String List="2">
-      <Source>They seem to think it's at least a dozen, but I'm sure they're exaggerating.</Source>
-      <Dest>他们似乎觉得至少有一打，不过那太夸张了点。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have no complaints.</Source>
-      <Dest>我毫无怨言。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let me know if there's anything else you need.</Source>
-      <Dest>如果你还有什么需要的话，告诉我。</Dest>
-    </String>
-    <String List="2">
-      <Source>I suppose so, yes.</Source>
-      <Dest>我想是的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Here. Have a gold piece. (1 gold)</Source>
-      <Dest>来，这枚金币拿去。(1金币)</Dest>
-    </String>
-    <String List="2">
-      <Source>Can I help you?</Source>
-      <Dest>我能为你效劳吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on in. Just stoked the fire. Take a seat and get the cold out.</Source>
-      <Dest>进来吧。赶紧烤烤火。坐下驱驱寒吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let me know if you see anything you like.</Source>
-      <Dest>如果你看上了什么就请告诉我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you.</Source>
-      <Dest>谢谢。</Dest>
-    </String>
-    <String List="2">
-      <Source>Exactly.</Source>
-      <Dest>就是这样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
-      <Dest>很好。你会庆幸你做出了这个英明的决定的。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you change your mind, you know where to find me.</Source>
-      <Dest>如果你改变主意，你知道到哪儿找我。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to trade some things with you.</Source>
-      <Dest>我想跟你交易一些东西。</Dest>
-    </String>
-    <String List="0">
-      <Source>Would you mind cooking something for me?</Source>
-      <Dest>你介意帮我煮点吃的吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Has the store made any money?</Source>
-      <Dest>商店有赚钱吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，你看看。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
-    <String List="0">
-      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
-      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
-    </String>
-    <String List="0">
-      <Source>Anything else?</Source>
-      <Dest>还有其他事吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd like us to move somewhere else.</Source>
-      <Dest>我想我们得移动到别的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right. What is it?</Source>
-      <Dest>好吧。那是什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>All right.</Source>
-      <Dest>好吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Still need me to do something?</Source>
-      <Dest>还要我做什么事吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Let's get going.</Source>
-      <Dest>我们走吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Goodbye, my love.</Source>
-      <Dest>再见，我的宝贝。</Dest>
-    </String>
-    <String List="2">
-      <Source>Anything else?</Source>
-      <Dest>还有其他事吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Interested in me, are you?</Source>
-      <Dest>你对我有兴趣，没错吧？</Dest>
-    </String>
-    <String List="2">
-      <Source>You lead, I'll follow.</Source>
-      <Dest>你带路，我跟着你。</Dest>
-    </String>
-    <String List="2">
-      <Source>We heading out?</Source>
-      <Dest>我们启程吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm right behind you.</Source>
-      <Dest>我紧随在后。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still here.</Source>
-      <Dest>还在这里。</Dest>
-    </String>
-    <String List="2">
-      <Source>I present the two of you with these matching rings, blessed by Mara's divine grace. May they protect each of you in your new life together.</Source>
-      <Dest>我赠给你们这对承载者玛拉神圣赐福的情侣戒，愿它们在你们的新生活中保佑你们。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was Mara that first gave birth to all of creation and pledged to watch over us as her children.</Source>
-      <Dest>是玛拉赐予我们以至于万物生命，并将我们当做自己的孩子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Under the authority of Mara, the Divine of Love, I declare this couple to be wed.</Source>
-      <Dest>在玛拉和圣灵的见证下，我宣布这对情侣结为夫妇。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you agree to be bound together, in love, now and forever?</Source>
-      <Dest>你们愿意结为一体，永远相爱吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you agree to be bound together, in love, now and forever?</Source>
-      <Dest>你们愿意结为一体，永远相爱吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>It is from her love of us that we first learned to love one another. It is from this love that we learn that a life lived alone is no life at all.</Source>
-      <Dest>从她的关爱中，我们第一次懂得去爱，从她的关爱中，我们懂得孤独的人生是不完整的。</Dest>
-    </String>
-    <String List="2">
-      <Source>May they journey forth together in this life and the next, in prosperity and poverty, and in joy and hardship.</Source>
-      <Dest>愿他们无论贫穷还是富有，顺境还是逆境，都能相伴一生。</Dest>
-    </String>
-    <String List="2">
-      <Source>We gather here today, under Mara's loving gaze, to bear witness to the union of two souls in eternal companionship.</Source>
-      <Dest>我们齐聚于此，在玛拉慈爱的注视中，见证两个灵魂的结合。</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you?</Source>
-      <Dest>你是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not so tough now, are you?</Source>
-      <Dest>嘴没那么硬了吧？</Dest>
-    </String>
-    <String List="2">
-      <Source>Lead the way.</Source>
-      <Dest>带路吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Get him!</Source>
-      <Dest>抓住他！</Dest>
-    </String>
-    <String List="2">
-      <Source>Get him!</Source>
-      <Dest>抓住他！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Greetings.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fight! Fight!</Source>
-      <Dest>打啊！打！</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't have to take this from the likes of you.</Source>
-      <Dest>我没必要照着你的喜好来办事。</Dest>
-    </String>
-    <String List="2">
-      <Source>No.</Source>
-      <Dest>不。</Dest>
-    </String>
-    <String List="2">
-      <Source>Are you sure?</Source>
-      <Dest>你确定？</Dest>
-    </String>
-    <String List="0">
-      <Source>What are you in for?</Source>
-      <Dest>你为什么参与进去？</Dest>
-    </String>
-    <String List="0">
-      <Source>What are you in for?</Source>
-      <Dest>你为什么参与进去？</Dest>
-    </String>
-    <String List="2">
-      <Source>Greetings, Arch-Mage.</Source>
-      <Dest>幸会，首席法师。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thank you.</Source>
-      <Dest>谢谢。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you in charge here?</Source>
-      <Dest>你是这里的负责人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you in charge here?</Source>
-      <Dest>你是这里的负责人吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, be careful!</Source>
-      <Dest>嘿，小心点！</Dest>
-    </String>
-    <String List="2">
-      <Source>What are you doing?</Source>
-      <Dest>你在做什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm on your side!</Source>
-      <Dest>我是帮你的啊！</Dest>
-    </String>
-    <String List="0">
-      <Source>Maybe some other time.</Source>
-      <Dest>也许改天吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm here to rescue you.</Source>
-      <Dest>我来这里营救你。</Dest>
-    </String>
-    <String List="2">
-      <Source>What?</Source>
-      <Dest>什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Very well.</Source>
-      <Dest>很好。</Dest>
-    </String>
-    <String List="0">
-      <Source>What will you do now?</Source>
-      <Dest>你接下来打算做什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well.</Source>
-      <Dest>非常好。</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What are you looking at?</Source>
-      <Dest>你在找什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Take a look.</Source>
-      <Dest>随便看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Drink for the thirsty, food for the hungry.</Source>
-      <Dest>渴了畅饮美酒，饿了大啖美食。</Dest>
-    </String>
-    <String List="2">
-      <Source>Show me what you've got!</Source>
-      <Dest>有啥本事亮出来看看！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll see you in pieces!</Source>
-      <Dest>你会粉身碎骨的！</Dest>
-    </String>
-    <String List="2">
-      <Source>This ends now!</Source>
-      <Dest>结束了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Easily blocked!</Source>
-      <Dest>分分钟挡住！</Dest>
-    </String>
-    <String List="2">
-      <Source>Gah!</Source>
-      <Dest>嘎！</Dest>
-    </String>
-    <String List="2">
-      <Source>Gah!</Source>
-      <Dest>嘎！</Dest>
-    </String>
-    <String List="2">
-      <Source>Give up while you still can!</Source>
-      <Dest>趁你还有反悔的机会，投降吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hyargh!</Source>
-      <Dest>嘿呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh...</Source>
-      <Dest>呃……</Dest>
-    </String>
-    <String List="2">
-      <Source>Mercy!</Source>
-      <Dest>饶命啊！我祈求你的怜悯</Dest>
-    </String>
-    <String List="2">
-      <Source>You win! I submit!</Source>
-      <Dest>你赢得干净俐落！我输得心服口服。</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn you!</Source>
-      <Dest>混蛋！</Dest>
-    </String>
-    <String List="2">
-      <Source>You're nothing!</Source>
-      <Dest>你这无名小卒！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do your worst!</Source>
-      <Dest>你还是做好最坏的打算吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Agh! Enough! This ends now!</Source>
-      <Dest>嘿！够了！已经结束了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on!</Source>
-      <Dest>上啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>No!</Source>
-      <Dest>不！</Dest>
-    </String>
-    <String List="2">
-      <Source>Son of a...</Source>
-      <Dest>婊子……养的</Dest>
-    </String>
-    <String List="2">
-      <Source>Argh!</Source>
-      <Dest>啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>You can't win this!</Source>
-      <Dest>就你这两下子还想获胜？！</Dest>
-    </String>
-    <String List="2">
-      <Source>Not impressed!</Source>
-      <Dest>没啥了不起的！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, damn you!</Source>
-      <Dest>去死吧，混蛋！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, vampire!</Source>
-      <Dest>去死吧，吸血鬼！</Dest>
-    </String>
-    <String List="2">
-      <Source>I've had enough of you!</Source>
-      <Dest>我受够你了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, beast!</Source>
-      <Dest>去死吧，畜生！</Dest>
-    </String>
-    <String List="2">
-      <Source>That the best you can do?</Source>
-      <Dest>这就是你的极限了吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, dragon!</Source>
-      <Dest>去死吧，巨龙！</Dest>
-    </String>
-    <String List="2">
-      <Source>Agh!</Source>
-      <Dest>啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll have your head!</Source>
-      <Dest>我要剁你的脑袋！</Dest>
-    </String>
-    <String List="0">
-      <Source>Of course.</Source>
-      <Dest>当然。</Dest>
-    </String>
-    <String List="2">
-      <Source>Be careful!</Source>
-      <Dest>小心点！</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh?</Source>
-      <Dest>哈？</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, watch it!</Source>
-      <Dest>嘿！小心！</Dest>
-    </String>
-    <String List="2">
-      <Source>I understand.</Source>
-      <Dest>我明白了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Get him!</Source>
-      <Dest>抓住他！</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.</Source>
-      <Dest>当然了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Imperial.</Source>
-      <Dest>帝国人。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>Nah. I don't think so.</Source>
-      <Dest>不要，我没兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll teach you to talk to me that way!</Source>
-      <Dest>让我来教教你怎么说人话</Dest>
-    </String>
-    <String List="2">
-      <Source>Need something?</Source>
-      <Dest>需要些什么吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>How can I argue with that?</Source>
-      <Dest>我怎能不同意呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Until next time.</Source>
-      <Dest>下回见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right, then.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fralia Gray-Mane is convinced that the Battle-Borns have abducted one of her sons.</Source>
-      <Dest>弗拉利亚 灰鬃 听说战狂家的人拐走了她一个儿子。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even when every other farm in the hold is barely scraping by, the harvest at Rorikstead is always bountiful.</Source>
-      <Dest>即使这片领地里的其他农场都是勉强度日，洛利克镇的收获也总是充裕的 。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Is it good fortune? The blessings of the Divines? Who knows?</Source>
-      <Dest>这算宝藏？圣灵的赐福吗？谁知道呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Some say the ship suffered damage to her hull when she struck an iceberg, and Captain Safia can't afford the repairs. </Source>
-      <Dest>有人说船撞上了冰山，船体受损，而萨非亚船长付不起维修费。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I did hear that the Argonians have been banned from living inside the walls of Windhelm.</Source>
-      <Dest>怎么样。我听到亚龙人已经被禁止住在风盔城的城墙内。.</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, she would never admit such a thing. Captain Safia is far too proud a woman for that.</Source>
-      <Dest>当然，她永远不会承认的。萨非亚船长的骄傲不允许她承认。</Dest>
-    </String>
-    <String List="2">
-      <Source>Apparently, the Red Wave has been docked in Solitude for well over a month, and with no sign of shipping out any time soon.</Source>
-      <Dest>很显然，赤红波浪已经在独孤城停泊一个多月了，依然没有离港的迹象。</Dest>
-    </String>
-    <String List="2">
-      <Source>Have you visited Rorikstead lately? No matter how harsh the winter, the crops that grow there never falter.</Source>
-      <Dest>你最近有没去过洛利克镇？不管冬天多么严酷，那儿的庄稼总是直挺挺的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have no complaints.</Source>
-      <Dest>我毫无怨言。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, there might be nothing to it, but I've heard that the feud between the Gray-Manes and the Battle-Borns in Whiterun has grown ugly.</Source>
-      <Dest>嗯……也许没什么消息吧，但我听说雪漫城里灰鬃和战狂两家的梁子是越结越深了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now that I think on it, I did hear something rather interesting the other day.</Source>
-      <Dest>让我想想，我的确听到过更加有趣的事情。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay.  You lead and I'll follow.</Source>
-      <Dest>行了吧，你带路，我跟着。</Dest>
-    </String>
-    <String List="2">
-      <Source>They're only allowed on the city docks now. Most of them sleep together in one building, and they're as poor as wretches.</Source>
-      <Dest>他们现在只能住在城市的港口，大部分人都挤在一栋建筑里，像乞丐一样贫穷。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="2">
-      <Source>I present the two of you with these matching rings, blessed by Mara's divine grace. May they protect each of you in your new life together.</Source>
-      <Dest>我赠给你们这对承载者玛拉神圣赐福的情侣戒，愿它们在你们的新生活中保佑你们。</Dest>
-    </String>
-    <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
-    </String>
-    <String List="2">
-      <Source>...</Source>
-      <Dest>……</Dest>
-    </String>
-    <String List="2">
-      <Source>I heard those mages up in Winterhold have been trying to figure out how many dragons there are in Skyrim.</Source>
-      <Dest>我听说冬堡的法师们想要统计天际究竟有多少头龙。</Dest>
+      <Dest>厄伦德为天空熔炉工作。这点有哪个铁匠能比得上呢？</Dest>
     </String>
     <String List="2">
       <Source>Well, I did see something interesting not long ago.</Source>
       <Dest>我不久前就见过些有意思的事。</Dest>
     </String>
     <String List="2">
-      <Source>It was Mara that first gave birth to all of creation and pledged to watch over us as her children.</Source>
-      <Dest>是玛拉赐予我们以至于万物生命，并将我们当做自己的孩子。</Dest>
+      <Source>There were several Khajiit camped outside the walls of Whiterun. Seems they've been traveling around the whole of Skyrim peddling their wares.</Source>
+      <Dest>有几个虎人在雪漫城外面扎营了。他们贩卖货物的足迹遍布整个天际。</Dest>
     </String>
     <String List="2">
-      <Source>They're probably trying to scare us into giving them more money and influence, so they can save us from the dragons threat.</Source>
-      <Dest>他们大概想吓唬我们，好让我们因为恐惧而交出更多的钱。</Dest>
+      <Source>You've got to admire their courage, doing something like that with dragons on the loose and a war going on.</Source>
+      <Dest>你不得不佩服他们的勇气，能在有龙出没，战争横行的时候在外面闯荡。</Dest>
     </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>I heard those mages up in Winterhold have been trying to figure out how many dragons there are in Skyrim.</Source>
+      <Dest>我听说冬堡的法师们想要统计天际究竟有多少头龙。</Dest>
     </String>
     <String List="2">
       <Source>They seem to think it's at least a dozen, but I'm sure they're exaggerating.</Source>
       <Dest>他们似乎觉得至少有一打，不过那太夸张了点。</Dest>
     </String>
     <String List="2">
-      <Source>I'm not sure that it's news, but lately it seems like every blacksmith in Skyrim is out to prove that he's the equal of Eorlund Gray-Mane.</Source>
-      <Dest>我不知道这还算不算新闻，最近好像天际所有的铁匠都想证明自己跟厄伦德·灰鬃不相上下。</Dest>
+      <Source>They're probably trying to scare us into giving them more money and influence, so they can save us from the dragons threat.</Source>
+      <Dest>他们大概想吓唬我们，好让我们因为恐惧而交出更多的钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I agree with you. Have you heard any news from the other parts of Skyrim?</Source>
+      <Dest>对，我同意。你有什么天际那边的消息吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You speak truly. Have you heard any interesting rumors of late?</Source>
+      <Dest>如你所说，你最近听过什么有趣的传言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll not argue that. Heard any interesting gossip lately?</Source>
+      <Dest>我不否认。最近有什么八卦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't agree more. By the way, have you heard any interesting rumors lately?</Source>
+      <Dest>不能同意你更多了。顺便一提，你最近听过什么有趣的传言吗？</Dest>
     </String>
     <String List="2">
       <Source>I couldn't have said it better myself. It's been some time since I've had news from elsewhere in Skyrim. What have you heard?</Source>
       <Dest>我想不出比它再好的了。我上次听到天际其他地方的消息已经是很久以前了。你听说什么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I know just what you mean. Heard anything interesting lately? Any news or gossip?</Source>
+      <Dest>我懂了。最近有什么有意思的吗？新闻或者八卦都行？</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope they'll serve the roast venison with bittergreen sauce that we had at the last party.</Source>
+      <Dest>我希望他们能提供烤鹿肉和苦菜酱，就像我们上次宴会吃的那种。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was delicious.</Source>
+      <Dest>那可真美味。</Dest>
+    </String>
+    <String List="2">
+      <Source>This war has taken a toll on the merchants of Skyrim. Let's hope that it ends soon, for their sake.</Source>
+      <Dest>这场战争给天际的商人带来了相当大的损失，让我们为他们祈祷，希望这场战争赶紧结束吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>With the soldiers all fighting in the war, there's nobody to hunt down the bandits. Travel has become dangerous of late.</Source>
+      <Dest>士兵都去参战了，没人去打土匪，这使得出行变得更危险了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's been a brutal winter. I can't remember the last time it was this cold, and for this long.</Source>
+      <Dest>这个冬天真要命，我不记得还有哪个冬天有这么冷，还持续了这么久。</Dest>
+    </String>
+    <String List="2">
+      <Source>Under the authority of Mara, the Divine of Love, I declare this couple to be wed.</Source>
+      <Dest>在玛拉和圣灵的见证下，我宣布这对情侣结为夫妇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I present the two of you with these matching rings, blessed by Mara's divine grace. May they protect each of you in your new life together.</Source>
+      <Dest>我赠给你们这对带有玛拉神圣赐福的对戒，愿它们在你们的新生活中保佑你们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you agree to be bound together, in love, now and forever?</Source>
+      <Dest>你们愿意结为一体，永远相爱吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was Mara that first gave birth to all of creation and pledged to watch over us as her children.</Source>
+      <Dest>是玛拉赐予我们以至于万物生命，并将我们当做自己的孩子。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is from her love of us that we first learned to love one another. It is from this love that we learn that a life lived alone is no life at all.</Source>
+      <Dest>从她的关爱中，我们第一次懂得去爱，从她的关爱中，我们懂得孤独的人生是不完整的。</Dest>
+    </String>
+    <String List="2">
+      <Source>We gather here today, under Mara's loving gaze, to bear witness to the union of two souls in eternal companionship.</Source>
+      <Dest>我们齐聚于此，在玛拉慈爱的注视中，见证两个灵魂的结合。</Dest>
+    </String>
+    <String List="2">
+      <Source>May they journey forth together in this life and the next, in prosperity and poverty, and in joy and hardship.</Source>
+      <Dest>愿他们无论贫穷还是富有，顺境还是逆境，都能相伴一生。</Dest>
     </String>
     <String List="2">
       <Source>Do you agree to bound in together in love, now and forever?</Source>
@@ -862,181 +174,89 @@
       <Source>Ah, here's the blushing bride, and the proud groom now.  Let's begin the ceremony.</Source>
       <Dest>啊，脸红的新娘在这儿呢，还有满脸骄傲的新郎。开始仪式吧。</Dest>
     </String>
-    <String List="2">
-      <Source>It's not really a fair comparison, if you ask me.</Source>
-      <Dest>要我说，这根本没有可比性。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>You've got to admire their courage, doing something like that with dragons on the loose and a war going on.</Source>
-      <Dest>你不得不佩服他们的勇气，能在有龙出没，战争横行的时候在外面闯荡。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>Under the authority of Mara, the Divine of Love, I declare this couple to be wed.</Source>
-      <Dest>在玛拉和圣灵的见证下，我宣布这对情侣结为夫妇。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll not argue that. Heard any interesting gossip lately?</Source>
-      <Dest>我不否认。最近有什么八卦吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>This war has taken a toll on the merchants of Skyrim. Let's hope that it ends soon, for their sake.</Source>
-      <Dest>这场战争给天际的商人带来了相当大的损失，让我们为他们祈祷，希望这场战争赶紧结束吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>That was delicious.</Source>
-      <Dest>那可真美味。</Dest>
-    </String>
-    <String List="2">
-      <Source>Do you agree to be bound together, in love, now and forever?</Source>
-      <Dest>你们愿意结为一体，永远相爱吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I couldn't agree more. By the way, have you heard any interesting rumors lately?</Source>
-      <Dest>我完全同意。顺便问一下，你最近有听过什么有趣的传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>It is from her love of us that we first learned to love one another. It is from this love that we learn that a life lived alone is no life at all.</Source>
-      <Dest>从她的关爱中，我们第一次懂得去爱，从她的关爱中，我们懂得孤独的人生是不完整的。</Dest>
-    </String>
-    <String List="2">
-      <Source>After all, Eorlund works the Skyforge. How is any smith going to compete with that?</Source>
-      <Dest>毕竟，厄仑德用的可是天空熔炉。哪个铁匠能这这一点上比得过他？</Dest>
-    </String>
-    <String List="2">
-      <Source>I know just what you mean. Heard anything interesting lately? Any news or gossip?</Source>
-      <Dest>我懂了。最近有什么有意思的吗？新闻或者八卦都行？</Dest>
-    </String>
-    <String List="2">
-      <Source>With the soldiers all fighting in the war, there's nobody to hunt down the bandits. Travel has become dangerous of late.</Source>
-      <Dest>士兵都去参战了，没人去打土匪，这使得出行变得更危险了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, I agree with you. Have you heard any news from the other parts of Skyrim?</Source>
-      <Dest>对，我同意。你有什么天际那边的消息吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>May they journey forth together in this life and the next, in prosperity and poverty, and in joy and hardship.</Source>
-      <Dest>愿他们无论贫穷还是富有，顺境还是逆境，都能相伴一生。</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>There were several Khajiit camped outside the walls of Whiterun. Seems they've been traveling around the whole of Skyrim peddling their wares.</Source>
-      <Dest>在白漫城的城墙外驻扎着一群虎人。看起来他们为了兜售他们的货物已经穿越了整个天际省。</Dest>
-    </String>
-    <String List="2">
-      <Source>You speak truly. Have you heard any interesting rumors of late?</Source>
-      <Dest>如你所说，你最近听过什么有趣的传言吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>We gather here today, under Mara's loving gaze, to bear witness to the union of two souls in eternal companionship.</Source>
-      <Dest>我们齐聚于此，在玛拉慈爱的注视中，见证两个灵魂的结合。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope they'll serve the roast venison with bittergreen sauce that we had at the last party.</Source>
-      <Dest>我希望他们能提供烤鹿肉和苦菜酱，就像我们上次宴会吃的那种。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="2">
-      <Source>It's been a brutal winter. I can't remember the last time it was this cold, and for this long.</Source>
-      <Dest>那可是个难熬的冬天。我都不记得上次想这么冷这么长的冬天是什么时候了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Any news or rumors floating about?</Source>
-      <Dest>有什么流言蜚语说来听听？</Dest>
-    </String>
-    <String List="0">
-      <Source>Have any suspicious characters been seen at the inn?</Source>
-      <Dest>旅馆里有什么可疑人物吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there a chance they left something behind?</Source>
-      <Dest>他们有没有可能落下什么东西？</Dest>
+      <Source>...</Source>
+      <Dest>……</Dest>
     </String>
     <String List="2">
-      <Source>{Draw Weapon to Finish}</Source>
-      <Dest>{拔出武器来完成}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
     </String>
     <String List="2">
       <Source>{Flute}</Source>
@@ -1051,44 +271,44 @@
       <Dest>{长笛}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Flute}</Source>
-      <Dest>{长笛}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
       <Source>...</Source>
@@ -1099,100 +319,148 @@
       <Dest>……</Dest>
     </String>
     <String List="2">
-      <Source>...</Source>
-      <Dest>……</Dest>
-    </String>
-    <String List="2">
-      <Source>...</Source>
-      <Dest>……</Dest>
-    </String>
-    <String List="2">
-      <Source>There was some bother about a group of mages, I can't remember what the details were.</Source>
-      <Dest>一群法师遇到一些麻烦，我不记得具体是什么。</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
       <Source>{stop}</Source>
       <Dest>{停下}</Dest>
     </String>
     <String List="2">
-      <Source>Well, there is something...but that couldn't be related.  Hm...Here.  Why don't you take a look for your trouble.</Source>
-      <Dest>好吧，有些事情……但那些互相之间没有关联。嗯……这里，你还是先解决掉你自己的麻烦吧。</Dest>
+      <Source>{stop}</Source>
+      <Dest>{停止}</Dest>
     </String>
     <String List="2">
-      <Source>Here. Take a look at this.</Source>
-      <Dest>在这儿。看看这个。</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
     </String>
     <String List="2">
-      <Source>{Draw Weapon to Stop}</Source>
-      <Dest>{收起武器，停止。}</Dest>
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Drums}</Source>
+      <Dest>（打鼓）</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Lute}</Source>
+      <Dest>{鲁特琴声}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
     </String>
     <String List="2">
       <Source>{Wait}</Source>
       <Dest>{等待}</Dest>
     </String>
     <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Draw Weapon to Stop}</Source>
+      <Dest>{收起武器，停止。}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Flute}</Source>
+      <Dest>{长笛}</Dest>
+    </String>
+    <String List="2">
+      <Source>{Draw Weapon to Finish}</Source>
+      <Dest>{拔出武器来完成}</Dest>
+    </String>
+    <String List="2">
+      <Source>...</Source>
+      <Dest>……</Dest>
+    </String>
+    <String List="2">
+      <Source>...</Source>
+      <Dest>……</Dest>
+    </String>
+    <String List="0">
+      <Source>Any news or rumors floating about?</Source>
+      <Dest>有什么流言蜚语说来听听？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here. Take a look at this.</Source>
+      <Dest>在这儿。看看这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there a chance they left something behind?</Source>
+      <Dest>他们有没有可能落下什么东西？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there is something...but that couldn't be related.  Hm...Here.  Why don't you take a look for your trouble.</Source>
+      <Dest>好吧，有些事情……但那些互相之间没有关联。嗯……这里，你还是先解决掉你自己的麻烦吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have any suspicious characters been seen at the inn?</Source>
+      <Dest>旅馆里有什么可疑人物吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>There was some bother about a group of mages, I can't remember what the details were.</Source>
+      <Dest>一群法师遇到一些麻烦，我不记得具体是什么。</Dest>
+    </String>
+    <String List="2">
       <Source>I suppose so, yes.</Source>
       <Dest>我想是的。</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Drums}</Source>
-      <Dest>（打鼓）</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Lute}</Source>
-      <Dest>{鲁特琴声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Stop}</Source>
-      <Dest>{停止}</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

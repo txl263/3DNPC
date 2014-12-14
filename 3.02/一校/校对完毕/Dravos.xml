@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,588 +7,652 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>What does Sanguine ask of you?</Source>
-      <Dest>桑吉恩请你帮什么忙？</Dest>
+      <Source>Happiness was invented here?  I never would've guessed.</Source>
+      <Dest>快乐……是在这里发明的？打死我也猜不到啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, not literally of course.  But there was another time, and another place very much like this, when mortals first discovered happiness.</Source>
+      <Dest>哦，当然不是字面上的意思。但是曾经有一段时间，有一个地方和这里很相像，那时凡人第一次懂得了幸福的含义。</Dest>
     </String>
     <String List="0">
-      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
-      <Dest>你是说，啤酒？我愿意跟着他到天涯海角。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I started getting these weird tingly feelings. What mortals call free will. It compelled me to love, not kill, but first I had to kill my old master.</Source>
+      <Dest>I started getting these weird tingly feelings. What mortals call free will. It compelled me to love, not kill, but first I had to kill my old master.</Dest>
     </String>
     <String List="0">
-      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
-      <Dest>你是说，啤酒？我愿意跟着他到天涯海角。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, it went against everything I had ever been taught or stood for, but I was tired of learning and wanted to sit down.</Source>
+      <Dest>是啊，这违背了我曾经被教导和坚持的一切，而我已经学累了，想坐下来休息一会儿。</Dest>
     </String>
     <String List="0">
-      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
-      <Dest>你是说，啤酒？我愿意跟着他到天涯海角。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I killed the old man, only to see him rise up out of the ground all shiny like some sort of skin wraith filled with gold.</Source>
+      <Dest>So I killed the old man, only to see him rise up out of the ground all shiny like some sort of skin wraith filled with gold.</Dest>
     </String>
     <String List="0">
-      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
-      <Dest>你是说，啤酒？我愿意跟着他到天涯海角。</Dest>
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
     </String>
-    <String List="0">
-      <Source>Why is Batheru trying to kill Nords?</Source>
-      <Dest>为什么贝德鲁要杀诺德人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is Batheru trying to kill Nords?</Source>
-      <Dest>为什么贝德鲁要杀诺德人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is Batheru trying to kill Nords?</Source>
-      <Dest>为什么贝德鲁要杀诺德人？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why is Batheru trying to kill Nords?</Source>
-      <Dest>为什么贝德鲁要杀诺德人？</Dest>
-    </String>
-    <String List="0">
-      <Source>I must rinse my eyes with healing potions after witnessing this debauchery.</Source>
-      <Dest>在亲眼目睹这些放荡后我必须得用治疗药水洗洗眼了。</Dest>
-    </String>
-    <String List="0">
-      <Source>That made absolutely no sense at all.</Source>
-      <Dest>这绝对没有任何意义可言。</Dest>
-    </String>
-    <String List="0">
-      <Source>That made absolutely no sense at all.</Source>
-      <Dest>这绝对没有任何意义可言。</Dest>
+    <String List="2">
+      <Source>His name wasn't "old man" after all.  It was Sanguine.  And he offered me a beer.</Source>
+      <Dest>别忘了，他的名字不是“老人”。而是桑吉恩。而且他递了我一瓶啤酒。</Dest>
     </String>
     <String List="0">
       <Source>You don't serve Mehrunes Dagon?</Source>
       <Dest>你不为梅鲁涅斯．大衮服务?</Dest>
     </String>
-    <String List="0">
-      <Source>You don't serve Mehrunes Dagon?</Source>
-      <Dest>你不为梅鲁涅斯．大衮服务?</Dest>
+    <String List="2">
+      <Source>Oh I did. I was once a member of the Kynval caste, roaming the Deadlands in search of things to destroy.</Source>
+      <Dest>哦，确实。我曾经是个魔人骑士，在死地中游荡寻找着可摧毁的东西。</Dest>
     </String>
     <String List="0">
       <Source>You don't serve Mehrunes Dagon?</Source>
       <Dest>你不为梅鲁涅斯．大衮服务?</Dest>
     </String>
+    <String List="2">
+      <Source>Yet it all changed when I was summoned to the mortal plane not by a conjurer, but by a man carrying a large staff shaped like a rose.</Source>
+      <Dest>是啊，自从我被传送到凡人位面以来，所有事情都变了。但我并不是被一个召唤师传召而来，而是被一个拿着巨大法杖的男人，而那法杖，看起来就像一枝玫瑰。</Dest>
+    </String>
     <String List="0">
       <Source>You don't serve Mehrunes Dagon?</Source>
       <Dest>你不为梅鲁涅斯．大衮服务?</Dest>
     </String>
-    <String List="0">
-      <Source>What's Batheru like when he's angry?</Source>
-      <Dest> 贝德鲁生气时什么样？</Dest>
+    <String List="2">
+      <Source>This old man, he wanted me to crush bandits.  Something about his son being killed and molested or beaten to death by them.  Real boring stuff.</Source>
+      <Dest>这个老头，曾想让我去消灭那些强盗。因为什么他儿子被他们折磨殴打致死。真是无聊。</Dest>
     </String>
     <String List="0">
-      <Source>What's Batheru like when he's angry?</Source>
-      <Dest> 贝德鲁生气时什么样？</Dest>
+      <Source>You don't serve Mehrunes Dagon?</Source>
+      <Dest>你不为梅鲁涅斯．大衮服务?</Dest>
     </String>
-    <String List="0">
-      <Source>What's Batheru like when he's angry?</Source>
-      <Dest> 贝德鲁生气时什么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's Batheru like when he's angry?</Source>
-      <Dest> 贝德鲁生气时什么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's Batheru like when he's angry?</Source>
-      <Dest> 贝德鲁生气时什么样？</Dest>
-    </String>
-    <String List="0">
-      <Source>Dravos?  Is that your name?</Source>
-      <Dest>爪佛斯? 那是你的名字?</Dest>
-    </String>
-    <String List="0">
-      <Source>Dravos?  Is that your name?</Source>
-      <Dest>爪佛斯? 那是你的名字?</Dest>
-    </String>
-    <String List="0">
-      <Source>Batheru is doing what?</Source>
-      <Dest>贝德鲁在做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Batheru is doing what?</Source>
-      <Dest>贝德鲁在做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Batheru is doing what?</Source>
-      <Dest>贝德鲁在做什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>I should kill you right now, monster.</Source>
-      <Dest>我应该现在就把你杀了,你这怪物。</Dest>
-    </String>
-    <String List="0">
-      <Source>I should kill you right now, monster.</Source>
-      <Dest>我应该现在就把你杀了,你这怪物。</Dest>
-    </String>
-    <String List="0">
-      <Source>I should kill you right now, monster.</Source>
-      <Dest>我应该现在就把你杀了,你这怪物。</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of charade are we talking about here?</Source>
-      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
-    </String>
-    <String List="0">
-      <Source>I've met Sanguine, but everyone at that party was clothed.</Source>
-      <Dest>我遇见了桑吉恩，但聚会上的每个人都穿衣服了。</Dest>
-    </String>
-    <String List="0">
-      <Source>What's a Kynval?</Source>
-      <Dest>什么是魔人骑士?</Dest>
-    </String>
-    <String List="0">
-      <Source>What's a Kynval?</Source>
-      <Dest>什么是魔人骑士?</Dest>
-    </String>
-    <String List="0">
-      <Source>What's a Kynval?</Source>
-      <Dest>什么是魔人骑士?</Dest>
-    </String>
-    <String List="0">
-      <Source>What's a Kynval?</Source>
-      <Dest>什么是魔人骑士?</Dest>
-    </String>
-    <String List="0">
-      <Source>What's a Kynval?</Source>
-      <Dest>什么是魔人骑士?</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean by that?</Source>
-      <Dest>你指的是什么意思？</Dest>
+    <String List="2">
+      <Source>Only these bandits didn't fight like bandits.  Didn't even look like them.  And they all owned wine cellars.</Source>
+      <Dest>只不过这些强盗打起架来可一点儿也不像强盗。甚至看起来也不像。他们所有人都是一副酒囊饭袋的德行。</Dest>
     </String>
     <String List="0">
       <Source>I love this place. I'm staying here forever.</Source>
       <Dest>我爱死这个地方了。我要在这儿呆一辈子。</Dest>
     </String>
-    <String List="0">
-      <Source>Exactly what are you're doing up here?  Is this some sort of party?</Source>
-      <Dest>你们在这儿到底干嘛呢？是在开什么聚会吗？</Dest>
+    <String List="2">
+      <Source>You're welcome to, but only if you're willing to follow the rules.  (Laughs) No, I'm kidding, there are no rules.</Source>
+      <Dest>欢迎，只要你遵守规则。(笑声) 哦不，别当真。这里又没有劳什子的规则。</Dest>
     </String>
     <String List="0">
-      <Source>Exactly what are you're doing up here?  Is this some sort of party?</Source>
-      <Dest>你们在这儿到底干嘛呢？是在开什么聚会吗？</Dest>
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fun can be taking a bath in a cauldron of warm mead, or eating sweet rolls off a tavern wenches' bosom.  </Source>
+      <Dest>所谓乐趣可以是在一大缸热蜜酒里面泡澡，也可以是在酒馆的妹子怀里啃甜卷。</Dest>
     </String>
     <String List="0">
-      <Source>Happiness was invented here?  I never would've guessed.</Source>
-      <Dest>快乐……是在这里发明的？打死我也猜不到啊。</Dest>
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Fun can be riding your horse down a mountain, or pushing it off one if you prefer.  Fun can be killing seven bandits or corrupting one priest.</Source>
+      <Dest>Fun can be riding your horse down a mountain, or pushing it off one if you prefer.  Fun can be killing seven bandits or corrupting one priest.</Dest>
     </String>
     <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever it is, and whatever you're doing, the only question that's important is this: "Are you having fun?"</Source>
+      <Dest>不管这是什么，不管你做什么,最重要的一点是: "你玩的开心么?"</Dest>
     </String>
     <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Tell me the answer to that, and I'll tell you whether or not you should kill yourself.</Source>
+      <Dest>把你的答案告诉我，然后我再告诉你是不是要切腹谢罪。</Dest>
     </String>
     <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>Why is Batheru trying to kill Nords?</Source>
+      <Dest>为什么贝德鲁要杀诺德人？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why else?  The man hates fun.  It's a disease that inflicts a lot of folks who don't worship Daedra.  To them fun is like encountering a cave bear.</Source>
+      <Dest>Why else?  The man hates fun.  It's a disease that inflicts a lot of folks who don't worship Daedra.  To them fun is like encountering a cave bear.</Dest>
     </String>
     <String List="0">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+      <Source>Why is Batheru trying to kill Nords?</Source>
+      <Dest>为什么贝德鲁要杀诺德人？</Dest>
+    </String>
+    <String List="2">
+      <Source>It looks warm and fuzzy, but it'll rip your head off and use your neck as a wastebucket. To them fun is like finding inventive ways to kill yourself.</Source>
+      <Dest>它看起来毛茸茸的，但是他会扯掉你的头或把你的脖子当鸡毛掸子使。对他们来说有趣的就是找到创造性的方法杀死你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is Batheru trying to kill Nords?</Source>
+      <Dest>为什么贝德鲁要杀诺德人？</Dest>
+    </String>
+    <String List="2">
+      <Source>To that I say, death is a small price to pay.  Yes, on the surface, fun is such a simple concept, such a concise little word.</Source>
+      <Dest>要我说，死亡所要付出的是一个很小的代价。是的，表面上，有趣的是这样一个简单的概念，这样一句简短的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is Batheru trying to kill Nords?</Source>
+      <Dest>为什么贝德鲁要杀诺德人？</Dest>
+    </String>
+    <String List="2">
+      <Source>Small enough to fit under your tongue, this thing called fun.  So what's it really mean?  Well, fun can expand to a great many things.</Source>
+      <Dest>小得足以塞进你嘴里，这种事情叫乐趣。什么意思？嗯，乐趣可以扩展到很多方面。</Dest>
+    </String>
+    <String List="0">
+      <Source>That made absolutely no sense at all.</Source>
+      <Dest>这绝对没有任何意义可言。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the beer not talking.  You need to drink more of it, give it a voice to replace the one in your head.  </Source>
+      <Dest>重点在啤酒而非聊天。你需要再多喝些，让它带出的声音替换你脑子里的声音。</Dest>
+    </String>
+    <String List="0">
+      <Source>That made absolutely no sense at all.</Source>
+      <Dest>这绝对没有任何意义可言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then what I say will either make sense, or you'll be too drunk to care.  Either way, we'll both be good and merry.</Source>
+      <Dest>那我说的话要么有点作用，要么你喝太多了根本听不见。反正我们都开心就是了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Batheru is doing what?</Source>
+      <Dest>贝德鲁在做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why, slaughtering Nords! At least, that's what he thinks he's doing.</Source>
+      <Dest>为什么要屠杀诺德人！至少，这就是他认为自己正在做的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Batheru is doing what?</Source>
+      <Dest>贝德鲁在做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It fills him with an emotion that I can only describe as glee, because well...that uncomfortable smile of his? It leaves me at a loss for words.</Source>
+      <Dest>我觉得这给他带来的感受只会是欢欣，因为他脸上挂着，嗯……诡异的微笑？我实在没办法描述。</Dest>
+    </String>
+    <String List="0">
+      <Source>Batheru is doing what?</Source>
+      <Dest>贝德鲁在做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>And while he's full of glee now, imagine if he knew this was all a charade, why I dare say he'd be rather unfulfilled.</Source>
+      <Dest>尽管现在他充满愉悦，想像一下如果他知道了这一切只是逢场作戏，我敢说他一定不会开心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I must rinse my eyes with healing potions after witnessing this debauchery.</Source>
+      <Dest>我必须用治疗药水冲洗我的眼睛然后亲眼目睹这些腐败。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh come on friend, nobody's even removed their clothing yet!  Surely you don't consider this to be debauchery.</Source>
+      <Dest>哦来吧朋友，现在甚至还没人脱掉自己的衣服呢！千万别以为这会变得放荡不堪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
+      <Dest>啤酒，你说呢？我跟着他到天涯海角。</Dest>
+    </String>
+    <String List="2">
+      <Source>You would not be disappointed.  When you follow the Prince of Debauchery, you follow joy incarnate.</Source>
+      <Dest>你不会失望的。当你信奉了放荡的魔神，你就会成为快乐的化身。</Dest>
+    </String>
+    <String List="0">
+      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
+      <Dest>啤酒，你说呢？我跟着他到天涯海角。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sanguine is the extra layer of frosting even when your mind says it's now three layers past sensible. </Source>
+      <Dest>乐观是一层糖霜，甚至连你的头脑告诉你你有三层理智已经被它盖掉了，你都不知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
+      <Dest>啤酒，你说呢？我跟着他到天涯海角。</Dest>
+    </String>
+    <String List="2">
+      <Source>He's the fifth bottle of beer after the second made you vomit, and a trip to the brothel house even after the last time left you diseased.</Source>
+      <Dest>你第二次喝吐了，而他的酒才喝了五分之一，然后他往妓院的方向走，就是你上次去以后得了病的那家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Beer, you say?  I'd follow him to the ends of the earth.</Source>
+      <Dest>啤酒，你说呢？我跟着他到天涯海角。</Dest>
+    </String>
+    <String List="2">
+      <Source>When we give tribute to Sanguine we give tribute to excess, and all the bliss that comes with it.</Source>
+      <Dest>崇拜桑吉恩就是崇拜放纵，还有所有随之而来的快乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've met Sanguine, but everyone at that party was clothed.</Source>
+      <Dest>我碰到了桑吉恩，但聚会的所有人都着装了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, of course!  Everyone starts out clothed.  It's no fun being naked otherwise.</Source>
+      <Dest>好吧，当然了！所有人一开始都一丝不挂。另外，裸体可不是什么好玩的事儿。</Dest>
     </String>
     <String List="0">
       <Source>I would very much like to attend one of your master's parties.</Source>
       <Dest>我很想去参加一次你主人举办的晚宴。</Dest>
     </String>
     <String List="2">
-      <Source>I'm not sure he knows the difference between a laugh and a scream. Explains why he never comes up here.</Source>
-      <Dest>我不确定他是否清楚大笑和尖叫之间的区别。但也许这就解释了为什么他从不来这儿。</Dest>
+      <Source>Well, if you do, don't show up naked.  That's just weird.  Besides, it's not exactly debauchery if that's how you normally don't dress.</Source>
+      <Dest>呃，如果你要这样的话，别浑身光溜溜的，那会非常怪异。另外，就算你经常不穿衣服也不会显得特别放荡。</Dest>
     </String>
-    <String List="2">
-      <Source>Oh come on friend, nobody's even removed their clothing yet!  Surely you don't consider this to be debauchery.</Source>
-      <Dest>哦来吧朋友，现在甚至还没人脱掉自己的衣服呢！千万别以为这会变得放荡不堪。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then what I say will either make sense, or you'll be too drunk to care.  Either way, we'll both be good and merry.</Source>
-      <Dest>那我说的话要么有点作用，要么你喝太多了根本听不见。反正我们都开心就是了。</Dest>
-    </String>
-    <String List="2">
-      <Source>You're welcome to, but only if you're willing to follow the rules.  (Laughs) No, I'm kidding, there are no rules.</Source>
-      <Dest>欢迎，只要你遵守规则。(笑声) 哦不，别当真。这里又没有劳什子的规则。</Dest>
-    </String>
-    <String List="2">
-      <Source>Rabbits will forget how to fornicate, the clouds will forget how to rain, and Ragnar will find his head just to cover his ears.</Source>
-      <Dest>兔子会忘了如何去私通，云层会忘了该如何下雨，而拉格纳会发现他的脑袋压住了他的耳朵。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sanguine is the extra layer of frosting even when your mind says it's now three layers past sensible. </Source>
-      <Dest>乐观是一层糖霜，甚至连你的头脑告诉你你有三层理智已经被它盖掉了，你都不知道。</Dest>
-    </String>
-    <String List="2">
-      <Source>For the time being.  The Dunmer thought I should have one, so when he called me an armored goat I'd know it wasn't for lack of a name.</Source>
-      <Dest>暂时这么叫。暗精灵认为我应该有个名字。所以当他叫我装甲山羊的时候我就知道我该取个名字了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Sure, it went against everything I had ever been taught or stood for, but I was tired of learning and wanted to sit down.</Source>
-      <Dest>是啊，这违背了我曾经被教导和坚持的一切，而我已经学累了，想坐下来休息一会儿。</Dest>
+    <String List="0">
+      <Source>I should kill you right now, monster.</Source>
+      <Dest>我应该现在就把你杀了，你这怪物。</Dest>
     </String>
     <String List="2">
       <Source>Kill me?  Don't be absurd.  Think of the children!  Specifically, all the Nord fathers of children Batheru will murder.</Source>
       <Dest>杀了我？别扯了。想想那些孩子吧！毫无疑问，贝德鲁会杀了所有诺德孩子的父亲的。</Dest>
     </String>
-    <String List="2">
-      <Source>I live how I want which is what he demands.  To make love, not war.  Only making love isn't as easy as say, baking a pie.</Source>
-      <Dest>我经历了我想要的同时也是他需求的。相亲相爱而不是大打出手。只是相信相爱根本不像烤个馅饼那么简单。</Dest>
+    <String List="0">
+      <Source>I should kill you right now, monster.</Source>
+      <Dest>我应该现在就把你杀了，你这怪物。</Dest>
     </String>
     <String List="2">
-      <Source>You would not be disappointed.  When you follow the Prince of Debauchery, you follow joy incarnate.</Source>
-      <Dest>你不会失望的。当你信奉了放荡的魔神，你就会成为快乐的化身。</Dest>
+      <Source>They'll be orphans, and then who will think of them?  A generous family who will adopt them and love them?  Unthinkable!</Source>
+      <Dest>They'll be orphans, and then who will think of them?  A generous family who will adopt them and love them?  Unthinkable!</Dest>
     </String>
-    <String List="2">
-      <Source>Small enough to fit under your tongue, this thing called fun.  So what's it really mean?  Well, fun can expand to a great many things.</Source>
-      <Dest>小得足以塞进你嘴里，这种事情叫乐趣。什么意思？嗯，乐趣可以扩展到很多方面。</Dest>
-    </String>
-    <String List="2">
-      <Source>His name wasn't "old man" after all.  It was Sanguine.  And he offered me a beer.</Source>
-      <Dest>别忘了，他的名字不是“老人”。而是桑吉恩。而且他递了我一瓶啤酒。</Dest>
-    </String>
-    <String List="2">
-      <Source>The kind where you have a seat, drink some wine, and enjoy the view.  </Source>
-      <Dest>请坐请坐，要来点儿酒吗，在这边吃边赏美丽的景致可是不一样的感受！  </Dest>
-    </String>
-    <String List="2">
-      <Source>It looks warm and fuzzy, but it'll rip your head off and use your neck as a wastebucket. To them fun is like finding inventive ways to kill yourself.</Source>
-      <Dest>它看起来毛茸茸的，但是他会扯掉你的头或把你的脖子当鸡毛掸子使。对他们来说有趣的就是找到创造性的方法杀死你。</Dest>
-    </String>
-    <String List="2">
-      <Source>With a single rant poor Batheru can accomplish all these things, yet he can't bring himself smile.</Source>
-      <Dest>当他想要表达微笑的意思时，可怜的贝德鲁会咆哮一声来表达自己的感情。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet it all changed when I was summoned to the mortal plane not by a conjurer, but by a man carrying a large staff shaped like a rose.</Source>
-      <Dest>是啊，自从我被传送到凡人位面以来，所有事情都变了。但我并不是被一个召唤师传召而来，而是被一个拿着巨大法杖的男人，而那法杖，看起来就像一枝玫瑰。</Dest>
-    </String>
-    <String List="2">
-      <Source>If this isn't a party, I'd like to attend the parties you go to and bow to the person who throws them.</Source>
-      <Dest>如果这不是个聚会，我会很乐意参加那个你所打算参加的聚会并向那个举办聚会的人表示尊敬。</Dest>
-    </String>
-    <String List="2">
-      <Source>The top ones are the strongest, so they curry the most favor with Lord Dagon.</Source>
-      <Dest>位于顶点的人往往是最强大的，因此这些人尤其受到大衮的喜爱。</Dest>
-    </String>
-    <String List="2">
-      <Source>Why, slaughtering Nords! At least, that's what he thinks he's doing.</Source>
-      <Dest>为什么要屠杀诺德人！至少，这就是他认为自己正在做的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It fills him with an emotion that I can only describe as glee, because well...that uncomfortable smile of his? It leaves me at a loss for words.</Source>
-      <Dest>我觉得这给他带来的感受只会是欢欣，因为他脸上挂着，嗯……诡异的微笑？我实在没办法描述。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, another traveler! Batheru usually only sends Nords up here, so that I might maim them and feed their carcasses to the wolves.</Source>
-      <Dest>啊，又一个旅行者！贝德鲁通常只骗诺德人过来让我撕碎了喂狼。</Dest>
-    </String>
-    <String List="2">
-      <Source>When he gets real ornery, his voice will yell the sort of expletives that make horses stand on their back legs and the bards forget their lyrics.</Source>
-      <Dest>当他真正发脾气的时候，他会大声咒骂，让马立起后腿，使诗人忘记歌词。</Dest>
-    </String>
-    <String List="2">
-      <Source>This old man, he wanted me to crush bandits.  Something about his son being killed and molested or beaten to death by them.  Real boring stuff.</Source>
-      <Dest>这个老头，曾想让我去消灭那些强盗。因为什么他儿子被他们折磨殴打致死。真是无聊。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, if you do, don't show up naked.  That's just weird.  Besides, it's not exactly debauchery if that's how you normally don't dress.</Source>
-      <Dest>呃，如果你要这样的话，别浑身光溜溜的，那会非常怪异。另外，就算你经常不穿衣服也不会显得特别放荡。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some sort of party...are you trying to make me angry?  Are there not spirits to drink?  Ladies to dance with?  Orcs?</Source>
-      <Dest>聚会什么的...你是要惹我生气吗？那儿没有烈酒可以喝？没有女性舞伴可以跳舞？兽人舞伴也没有？</Dest>
-    </String>
-    <String List="2">
-      <Source>But, as you can clearly see, those of us in the middle are the handsomest of the three.</Source>
-      <Dest>但是再清楚不过了，我们三个之中最帅的是站在中间的那货。</Dest>
-    </String>
-    <String List="2">
-      <Source>For I serve not the Lord of Destruction, but Sanguine, the Prince of Debauchery!</Source>
-      <Dest>因为我不服务于毁灭之主，而是服务于血腥的、放荡的王子！</Dest>
-    </String>
-    <String List="2">
-      <Source>Only these bandits didn't fight like bandits.  Didn't even look like them.  And they all owned wine cellars.</Source>
-      <Dest>只不过这些强盗打起架来可一点儿也不像强盗。甚至看起来也不像。他们所有人都是一副酒囊饭袋的德行。</Dest>
-    </String>
-    <String List="2">
-      <Source>Tell me the answer to that, and I'll tell you whether or not you should kill yourself.</Source>
-      <Dest>把你的答案告诉我，然后我再告诉你是不是要切腹谢罪。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, of course!  Everyone starts out clothed.  It's no fun being naked otherwise.</Source>
-      <Dest>好吧，当然了！所有人一开始都一丝不挂。另外，裸体可不是什么好玩的事儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, as far as mortals are concerned, the bottom tier are the ones most commonly summoned, because they're the easiest to bind.</Source>
-      <Dest>对于凡人来说，底层民众是些普遍可以被召集的家伙，因为他们最容易联合起来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh I did. I was once a member of the Kynval caste, roaming the Deadlands in search of things to destroy.</Source>
-      <Dest>哦，确实。我曾经是个魔人骑士，在死地中游荡寻找着可摧毁的东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not to worry friend, old Dravos has no intention of turning anyone into meatloaf.</Source>
-      <Dest>别担心朋友，老爪佛斯不想把任何人变成烘肉卷。</Dest>
-    </String>
-    <String List="2">
-      <Source>When we give tribute to Sanguine we give tribute to excess, and all the bliss that comes with it.</Source>
-      <Dest>崇拜桑吉恩就是崇拜放纵，还有所有随之而来的快乐。</Dest>
+    <String List="0">
+      <Source>I should kill you right now, monster.</Source>
+      <Dest>我应该现在就把你杀了，你这怪物。</Dest>
     </String>
     <String List="2">
       <Source>No, we should continue this charade, so that Batheru remains more the merrier and none the wiser.</Source>
       <Dest>不，我们应该继续这个小把戏，让贝德鲁无知无觉的一直高兴下去。</Dest>
     </String>
     <String List="2">
+      <Source>Ah, another Nord!  Batheru must have sent you up here for me to maim you and feed your carcass to the wolves.</Source>
+      <Dest>Ah, another Nord!  Batheru must have sent you up here for me to maim you and feed your carcass to the wolves.</Dest>
+    </String>
+    <String List="2">
+      <Source>Not to worry friend, old Dravos has no intention of turning anyone into meatloaf.</Source>
+      <Dest>别担心朋友，老爪佛斯不想把任何人变成烘肉卷。</Dest>
+    </String>
+    <String List="2">
+      <Source>For I serve not the Lord of Destruction, but Sanguine, the Prince of Debauchery!</Source>
+      <Dest>因为我不服务于毁灭之主，而是服务于血腥的、放荡的王子！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, another traveler! Batheru usually only sends Nords up here, so that I might maim them and feed their carcasses to the wolves.</Source>
+      <Dest>啊，又一个旅行者！贝德鲁通常只骗诺德人过来让我撕碎了喂狼。</Dest>
+    </String>
+    <String List="2">
       <Source>Or maybe he's seen the error of his error-prone ways.  Maybe he wants old Dravos to have company to wine and feast and drink to Sanguine's honor!</Source>
       <Dest>或许他已经发现他办事时总犯的错误了？又或许是他想让老爪弗斯多一个伙伴，好在桑吉恩的名下宴饮狂欢？</Dest>
     </String>
-    <String List="2">
-      <Source>Moons plummet from the sky, and the seas will boil with such fury they'll have to create a new Divine to explain the phenomenon.</Source>
-      <Dest>月亮听了会从空中陨落，海洋也会因此沸腾。惊恐的人么只能靠凭空造出个新的圣灵来这种现象。</Dest>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
     </String>
     <String List="2">
-      <Source>That's the beer not talking.  You need to drink more of it, give it a voice to replace the one in your head.  </Source>
-      <Dest>重点在啤酒而非聊天。你需要再多喝些，让它带出的声音替换你脑子里的声音。</Dest>
+      <Source>The kind where you have a seat, drink some wine, and enjoy the view.  </Source>
+      <Dest>请坐请坐，要来点儿酒吗，在这边吃边赏美丽的景致可是不一样的感受！  </Dest>
     </String>
-    <String List="2">
-      <Source>He's the fifth bottle of beer after the second made you vomit, and a trip to the brothel house even after the last time left you diseased.</Source>
-      <Dest>你第二次喝吐了，而他的酒才喝了五分之一，然后他往妓院的方向走，就是你上次去以后得了病的那家。</Dest>
-    </String>
-    <String List="2">
-      <Source>To that I say, death is a small price to pay.  Yes, on the surface, fun is such a simple concept, such a concise little word.</Source>
-      <Dest>要我说，死亡所要付出的是一个很小的代价。是的，表面上，有趣的是这样一个简单的概念，这样一句简短的话。</Dest>
-    </String>
-    <String List="2">
-      <Source>He's a crabby one. Thankfully some really smart fellow invented lies, or else this charade would be a farce and nobody would be happy with it.</Source>
-      <Dest>他是个讨厌的家伙。幸好有聪明的人发明了谎话，不然这逢场作戏就会变成一出滑稽戏，没人会感到高兴。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh, not literally of course.  But there was another time, and another place very much like this, when mortals first discovered happiness.</Source>
-      <Dest>哦，当然不是字面上的意思。但是曾经有一段时间，有一个地方和这里很相像，那时凡人第一次懂得了幸福的含义。</Dest>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
     </String>
     <String List="2">
       <Source>When you wish to leave, the invisibility potion on the table will allow you to slip past Dravos unnoticed.</Source>
       <Dest>当你想要离开的时候，桌上的那瓶隐身药水能让你从爪佛斯面前悄无声息地溜过去。</Dest>
     </String>
-    <String List="2">
-      <Source>And while he's full of glee now, imagine if he knew this was all a charade, why I dare say he'd be rather unfulfilled.</Source>
-      <Dest>尽管现在他充满愉悦，想像一下如果他知道了这一切只是逢场作戏，我敢说他一定不会开心。</Dest>
-    </String>
-    <String List="2">
-      <Source>At the bottom you have your Churls and Caitiffs, and at the top your Markynaz and Valkynaz. In the middle are the Kynval, Kynreeve, and Kynmarcher.</Source>
-      <Dest>魔人卑民和魔人恶徒最底层的家伙，而魔人领主和魔人亲王则是社会的最上层。魔人骑士，魔人校官和魔人弓箭手属于中坚力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>Fun can be taking a bath in a cauldron of warm mead, or eating sweet rolls off a tavern wenches' bosom.  </Source>
-      <Dest>所谓乐趣可以是在一大缸热蜜酒里面泡澡，也可以是在酒馆的妹子怀里啃甜卷。</Dest>
-    </String>
-    <String List="2">
-      <Source>Whatever it is, and whatever you're doing, the only question that's important is this: "Are you having fun?"</Source>
-      <Dest>不管这是什么，不管你做什么,最重要的一点是: "你玩的开心么?"</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>What happened next?</Source>
-      <Dest>接下来发生了什么？</Dest>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
     </String>
     <String List="2">
       <Source>Or you may seek to confront him and convince him of his folly. Although I would advise against it, as he's not the most pleasant person to talk to.</Source>
       <Dest>也许你会去试着去接触他告诉他他干的这些事有多蠢。虽然我很反对这样，和他说话可不是一件让人感觉愉快的事。</Dest>
     </String>
     <String List="0">
-      <Source>What does Sanguine ask of you?</Source>
-      <Dest>桑吉恩请你帮什么忙？</Dest>
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
     </String>
     <String List="0">
-      <Source>What does Sanguine ask of you?</Source>
-      <Dest>桑吉恩请你帮什么忙？</Dest>
-    </String>
-    <String List="0">
-      <Source>What does Sanguine ask of you?</Source>
-      <Dest>桑吉恩请你帮什么忙？</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
-    </String>
-    <String List="0">
-      <Source>What does the Prince of Debauchery want with Batheru?</Source>
-      <Dest>放荡王子想和贝德鲁干什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does the Prince of Debauchery want with Batheru?</Source>
-      <Dest>放荡王子想和贝德鲁干什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does the Prince of Debauchery want with Batheru?</Source>
-      <Dest>放荡王子想和贝德鲁干什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does the Prince of Debauchery want with Batheru?</Source>
-      <Dest>放荡王子想和贝德鲁干什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What does the Prince of Debauchery want with Batheru?</Source>
-      <Dest>放荡王子想和贝德鲁干什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>Your carousing is obscene and must stop immediately.</Source>
-      <Dest>你已经喝到丑态百出了，必须停下来了。.</Dest>
-    </String>
-    <String List="0">
-      <Source>I think the whole lot of you are better off dead.</Source>
-      <Dest>我想你们中的绝大多数最好去死。</Dest>
-    </String>
-    <String List="0">
-      <Source>Looks like you're having plenty of it.  Fun.</Source>
-      <Dest>看起来你对这很纠结啊。真有趣。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just tell me where the beer is and get out of my way.</Source>
-      <Dest>只要告诉我啤酒在哪儿，然后滚开就好。</Dest>
-    </String>
-    <String List="0">
-      <Source>How sad.  I'm sure Batheru would rather enjoy this.</Source>
-      <Dest>这太令人遗憾了。我确信贝德鲁会收敛起来享受这场聚会的。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm telling the Elf right now of your betrayal and...wait, is that a fresh pie?</Source>
-      <Dest>我这就把你的背叛告诉那个精灵……等等，那是个新鲜的馅饼吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm telling the Elf right now of your betrayal and...wait, is that a fresh pie?</Source>
-      <Dest>我这就把你的背叛告诉那个精灵……等等，那是个新鲜的馅饼吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Poor Batheru.  We should invite him up.</Source>
-      <Dest>可怜的贝德鲁。我们应该请他来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Poor Batheru.  We should invite him up.</Source>
-      <Dest>可怜的贝德鲁。我们应该请他来的。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you were still bound to your master's will.</Source>
-      <Dest>所以你仍与你主人的意识绑定在一起。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you were still bound to your master's will.</Source>
-      <Dest>所以你仍与你主人的意识绑定在一起。</Dest>
-    </String>
-    <String List="0">
-      <Source>Pies.  Buns.  Nudity.  Sounds good to me.</Source>
-      <Dest>馅儿饼。小甜面包。脱光光。听起来不错。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, if Batheru doesn't come up, it means more ale for the rest of us.</Source>
-      <Dest>好啊，贝德鲁要是不来了，我们都能分到更多的酒。</Dest>
-    </String>
-    <String List="0">
-      <Source>Well, if Batheru doesn't come up, it means more ale for the rest of us.</Source>
-      <Dest>好啊，贝德鲁要是不来了，我们都能分到更多的酒。</Dest>
+      <Source>What's Batheru like when he's angry?</Source>
+      <Dest>贝德鲁生气时像什么样？</Dest>
     </String>
     <String List="2">
-      <Source>I'm not clear on what the rules regarding Daedric Princes and their subjects are, but what is clear is that Sanguine cares not for rules.</Source>
-      <Dest>我关心的并不是与魔神和他们臣民相关的戒律，很明显桑吉恩就并不在意戒律这种东西。</Dest>
+      <Source>When he gets real ornery, his voice will yell the sort of expletives that make horses stand on their back legs and the bards forget their lyrics.</Source>
+      <Dest>当他真正发脾气的时候，他会大声咒骂，让马立起后腿，使诗人忘记歌词。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Batheru like when he's angry?</Source>
+      <Dest>贝德鲁生气时像什么样？</Dest>
     </String>
     <String List="2">
-      <Source>Try not to pass out before the real fun begins.</Source>
-      <Dest>别在真正的乐事开始之前就喝醉了。</Dest>
+      <Source>Moons plummet from the sky, and the seas will boil with such fury they'll have to create a new Divine to explain the phenomenon.</Source>
+      <Dest>月亮听了会从空中陨落，海洋也会因此沸腾。惊恐的人么只能靠凭空造出个新的圣灵来这种现象。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Batheru like when he's angry?</Source>
+      <Dest>贝德鲁生气时像什么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Rabbits will forget how to fornicate, the clouds will forget how to rain, and Ragnar will find his head just to cover his ears.</Source>
+      <Dest>兔子会忘了如何去私通，云层会忘了该如何下雨，而拉格纳会发现他的脑袋压住了他的耳朵。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Batheru like when he's angry?</Source>
+      <Dest>贝德鲁生气时像什么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>With a single rant poor Batheru can accomplish all these things, yet he can't bring himself smile.</Source>
+      <Dest>当他想要表达微笑的意思时，可怜的贝德鲁会咆哮一声来表达自己的感情。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of charade are we talking about here?</Source>
+      <Dest>我们在这里谈论的是什么鸟玩意？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's Batheru like when he's angry?</Source>
+      <Dest>贝德鲁生气时像什么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure he knows the difference between a laugh and a scream. Explains why he never comes up here.</Source>
+      <Dest>我不确定他是否清楚大笑和尖叫之间的区别。但也许这就解释了为什么他从不来这儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's a Kynval?</Source>
+      <Dest>什么是魔人骑士?</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, Dremora have what you call a caste system, and what I call ancient history. There are different levels of rank based on strength.</Source>
+      <Dest>Well, Dremora have what you call a caste system, and what I call ancient history. There are different levels of rank based on strength.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's a Kynval?</Source>
+      <Dest>什么是魔人骑士?</Dest>
+    </String>
+    <String List="2">
+      <Source>At the bottom you have your Churls and Caitiffs, and at the top your Markynaz and Valkynaz. In the middle are the Kynval, Kynreeve, and Kynmarcher.</Source>
+      <Dest>魔人卑民和魔人恶徒最底层的家伙，而魔人领主和魔人亲王则是社会的最上层。魔人骑士，魔人校官和魔人弓箭手属于中坚力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's a Kynval?</Source>
+      <Dest>什么是魔人骑士?</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, as far as mortals are concerned, the bottom tier are the ones most commonly summoned, because they're the easiest to bind.</Source>
+      <Dest>对于凡人来说，底层民众是些普遍可以被召集的家伙，因为他们最容易联合起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's a Kynval?</Source>
+      <Dest>什么是魔人骑士?</Dest>
+    </String>
+    <String List="2">
+      <Source>The top ones are the strongest, so they curry the most favor with Lord Dagon.</Source>
+      <Dest>位于顶点的人往往是最强大的，因此这些人尤其受到大衮的喜爱。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's a Kynval?</Source>
+      <Dest>什么是魔人骑士?</Dest>
+    </String>
+    <String List="2">
+      <Source>But, as you can clearly see, those of us in the middle are the handsomest of the three.</Source>
+      <Dest>但是再清楚不过了，我们三个之中最帅的是站在中间的那货。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dravos?  Is that your name?</Source>
+      <Dest>爪佛斯? 那是你的名字?</Dest>
+    </String>
+    <String List="2">
+      <Source>For the time being.  The Dunmer thought I should have one, so when he called me an armored goat I'd know it wasn't for lack of a name.</Source>
+      <Dest>暂时这么叫。暗精灵认为我应该有个名字。所以当他叫我装甲山羊的时候我就知道我该取个名字了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dravos?  Is that your name?</Source>
+      <Dest>爪佛斯? 那是你的名字?</Dest>
+    </String>
+    <String List="2">
+      <Source>He's a crabby one. Thankfully some really smart fellow invented lies, or else this charade would be a farce and nobody would be happy with it.</Source>
+      <Dest>他是个讨厌的家伙。幸好有聪明的人发明了谎话，不然这逢场作戏就会变成一出滑稽戏，没人会感到高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly what are you're doing up here?  Is this some sort of party?</Source>
+      <Dest>你们在这到底干嘛呢？这算是什么聚会吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some sort of party...are you trying to make me angry?  Are there not spirits to drink?  Ladies to dance with?  Orcs?</Source>
+      <Dest>聚会什么的...你是要惹我生气吗？那儿没有烈酒可以喝？没有女性舞伴可以跳舞？兽人舞伴也没有？</Dest>
+    </String>
+    <String List="0">
+      <Source>Exactly what are you're doing up here?  Is this some sort of party?</Source>
+      <Dest>你们在这到底干嘛呢？这算是什么聚会吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If this isn't a party, I'd like to attend the parties you go to and bow to the person who throws them.</Source>
+      <Dest>如果这不是个聚会，我会很乐意参加那个你所打算参加的聚会并向那个举办聚会的人表示尊敬。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Sanguine ask of you?</Source>
+      <Dest>桑吉恩向你打听什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>I live how I want which is what he demands.  To make love, not war.  Only making love isn't as easy as say, baking a pie.</Source>
+      <Dest>我经历了我想要的同时也是他需求的。相亲相爱而不是大打出手。只是相信相爱根本不像烤个馅饼那么简单。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Sanguine ask of you?</Source>
+      <Dest>桑吉恩向你打听什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>It's more like baking two pies when you only have room for half a bun.</Source>
+      <Dest>这更像你只有半个小甜面包的空间但是你却要烤两个派出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Sanguine ask of you?</Source>
+      <Dest>桑吉恩向你打听什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>So to wash down both pies, you have to drink.  Ale, beer, mead, and wine, and in exactly that order.</Source>
+      <Dest>要想把两个派都给吞下，你得喝酒。麦芽酒，啤酒，蜜酒和葡萄酒，请严格按照以上顺序喝。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does Sanguine ask of you?</Source>
+      <Dest>桑吉恩向你打听什么?</Dest>
     </String>
     <String List="2">
       <Source>Drinking's more fun when you do it alphabetically.  In any case, that's what serving under Sanguine's like, only everyone's naked.</Source>
       <Dest>喝酒的乐趣多的可以让你按字母顺序列个清单。在任何情况下,它能所提供的就像是桑吉恩那样，仅仅是使得每个人对自我不加掩饰。</Dest>
     </String>
+    <String List="0">
+      <Source>So you were still bound to your master's will.</Source>
+      <Dest>所以你仍与你主人的意识绑定在一起。</Dest>
+    </String>
     <String List="2">
-      <Source>Up here is the roof where happiness was invented.  Where plates dance with the spoons.  Where the shine met the sun, and the light met the stars.</Source>
-      <Dest>在这里，喉咙是创造幸福的地方。盘子与汤匙相伴起舞，光芒与太阳邂逅相逢，黎明与星空缠绵不休。</Dest>
+      <Source>Exactly.  Sanguine wanted me to betray him so I could betray myself.  It's all rather simple if you don't think about it.</Source>
+      <Dest>没错儿。桑吉恩想让我背叛他，这样我也能背叛自己了。别多想，事情很简单。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you were still bound to your master's will.</Source>
+      <Dest>所以你仍与你主人的意识绑定在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not clear on what the rules regarding Daedric Princes and their subjects are, but what is clear is that Sanguine cares not for rules.</Source>
+      <Dest>我关心的并不是与魔神和他们臣民相关的戒律，很明显桑吉恩就并不在意戒律这种东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think the whole lot of you are better off dead.</Source>
+      <Dest>我想你们中的绝大多数最好去死。</Dest>
     </String>
     <String List="2">
       <Source>Now come on, that's Batheru talking.  Strange that he's using your mouth to say his words.  In any case, some liquor will wash that right out.</Source>
       <Dest>快来吧，贝德鲁想说话。奇怪的是他老得借用你的嘴说出他想说的话。不管怎样，喝点儿酒就能让你全忘掉了。</Dest>
     </String>
+    <String List="0">
+      <Source>Pies.  Buns.  Nudity.  Sounds good to me.</Source>
+      <Dest>馅儿饼。小甜面包。裸体。听起来不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess it does sound pretty good.  Although I'm more of a visual person myself.  Don't have much of an imagination you see.</Source>
+      <Dest>听起来确实不错。我更倾向于眼见为实。别天马行空地乱想。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm telling the Elf right now of your betrayal and...wait, is that a fresh pie?</Source>
+      <Dest>我立刻就把你的背叛行为告诉那个精灵……等等，那是个新鲜的馅饼吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>That it is, and plenty of wine to go with it. </Source>
+      <Dest>没错，还有很多很多的酒。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I'm telling the Elf right now of your betrayal and...wait, is that a fresh pie?</Source>
+      <Dest>我立刻就把你的背叛行为告诉那个精灵……等等，那是个新鲜的馅饼吗？</Dest>
+    </String>
     <String List="2">
       <Source>Stay awhile, have a few drinks and a lot of laughs, and you'll forget all about wanting to tell Batheru anything.</Source>
       <Dest>在这儿待会儿，喝点儿饮料，多笑笑，很快你就会忘记所有想对贝德鲁说的事</Dest>
+    </String>
+    <String List="0">
+      <Source>Poor Batheru.  We should invite him up.</Source>
+      <Dest>可怜的贝德鲁。我们应该请他来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think that's a good idea.  In fact, it's a terrible idea, pretty much the worst idea ever conceived.</Source>
+      <Dest>我不认为那是个好主意。事实上，这点子糟透了，比之前提过的任何想法都糟的多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Poor Batheru.  We should invite him up.</Source>
+      <Dest>可怜的贝德鲁。我们应该请他来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If there were a conjuration spell that could summon all the terrible ideas in the world and rank them according to terribleness, yours would first.</Source>
+      <Dest>如果有一个魔法，能把所有糟糕的点子都弄到一块儿，然后根据糟糕程度排名，你的这个主意一定排第一。</Dest>
+    </String>
+    <String List="0">
+      <Source>How sad.  I'm sure Batheru would rather enjoy this.</Source>
+      <Dest>这太令人遗憾。我确信贝德鲁更宁愿享受它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would he?  There are Nords here.  It would only make things awkward for everyone.</Source>
+      <Dest>他会吗？这里有诺德人在场。这只会让事情更尴尬。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Prince of Debauchery want with Batheru?</Source>
+      <Dest>放荡王子想和贝德鲁干什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>To make him a tool of merriment, of course! Think of us as all part of a single drunken revelry.  Each attendee contributes to the overall joy.</Source>
+      <Dest>把他作为一个逗乐的玩意儿，没错！想想我们都是同一个狂欢的宴会的一部分。每一个在场的人都要为所有人的快乐出点力。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Prince of Debauchery want with Batheru?</Source>
+      <Dest>放荡王子想和贝德鲁干什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>When a person such as Batheru enters the room with his special brand of gloom, bitterness, and hate, it brings the entire party down.</Source>
+      <Dest>当贝德鲁这样一个散发着特殊的阴郁，尖刻，厌恶气场的人进到屋里，整个聚会就没气氛了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Prince of Debauchery want with Batheru?</Source>
+      <Dest>放荡王子想和贝德鲁干什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>So why not make him a doorman? The one who stands outside the party and checks invitations and knows not what goes on inside.</Source>
+      <Dest>那干嘛不让他去当门卫？站在派对的门外检查邀请函，就对完全不知道派对里面发生什么事了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Prince of Debauchery want with Batheru?</Source>
+      <Dest>放荡王子想和贝德鲁干什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Up here is the roof where happiness was invented.  Where plates dance with the spoons.  Where the shine met the sun, and the light met the stars.</Source>
+      <Dest>在这里，喉咙是创造幸福的地方。盘子与汤匙相伴起舞，光芒与太阳邂逅相逢，黎明与星空缠绵不休。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does the Prince of Debauchery want with Batheru?</Source>
+      <Dest>放荡王子想和贝德鲁干什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>This is the roof where reservations choke and die. Where the scantily clad are merry and glad, and our throats burble with wine.</Source>
+      <Dest>这就是咽喉，掐住这个位置就死。这狭小的地方也包含了你的愉快与欢乐，和我们咽喉里酒泡沫的咕咕声。</Dest>
+    </String>
+    <String List="0">
+      <Source>Looks like you're having plenty of it.  Fun.</Source>
+      <Dest>看起来你越发得心应手了。有趣。.</Dest>
+    </String>
+    <String List="2">
+      <Source>That we are, that we are.  I'm surprised everyone still has their clothes on.  But it's early yet.</Source>
+      <Dest>我们就这样，就是这样。我很惊讶为什么人们还穿着衣服。这才哪到哪啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, if Batheru doesn't come up, it means more ale for the rest of us.</Source>
+      <Dest>好啊，贝德鲁要是不来了，我们都能分到更多的酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>More ale, more food, and beautiful weather to enjoy.  Looks like all the cloud are too busy circling Batheru's head.</Source>
+      <Dest>更多的麦芽酒，更多的食物，还能享受美好的天气。好像所有的云都忙着绕在贝德鲁的头顶转圈。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, if Batheru doesn't come up, it means more ale for the rest of us.</Source>
+      <Dest>好啊，贝德鲁要是不来了，我们都能分到更多的酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>More ale and more food, although the weather could be better.  Looks like the sun had an appointment with another Rythe Lythandas painting.</Source>
+      <Dest>更多的酒和食物，虽然天气能好些的话就更完美了。看起来太阳和在瑞瑟 莱坦达斯的另一幅画里。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your carousing is obscene and must stop immediately.</Source>
+      <Dest>你已经喝到丑态百出了，必须停下来了。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Stop?  What in Oblivion would we do that for?  If something's only obscene, it means we have to put more effort into making it offensive.</Source>
+      <Dest>停下来？都这时候了还停下来个毛线啊！如果某件事只让你觉得恶心，那意味着我们必须更加努力的阻止它。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just tell me where the beer is and get out of my way.</Source>
+      <Dest>只要告诉我啤酒在哪儿，然后滚开就好。</Dest>
     </String>
     <String List="2">
       <Source>There's wine on the table and on the floor.  The beer's mostly in my stomach, but I'm sure you can find a few drops on someone's tongue.</Source>
       <Dest>桌上和地上还有些葡萄酒，啤酒都已经在我的胃里了，或者你可以去某些人的嘴里找找，说不定还能从他们的舌头上找到几滴。</Dest>
     </String>
     <String List="2">
-      <Source>If there were a conjuration spell that could summon all the terrible ideas in the world and rank them according to terribleness, yours would first.</Source>
-      <Dest>如果有一个魔法，能把所有糟糕的点子都弄到一块儿，然后根据糟糕程度排名，你的这个主意一定排第一。</Dest>
+      <Source>Try not to pass out before the real fun begins.</Source>
+      <Dest>别在真正的乐事开始之前就喝醉了。</Dest>
     </String>
     <String List="2">
-      <Source>I guess it does sound pretty good.  Although I'm more of a visual person myself.  Don't have much of an imagination you see.</Source>
-      <Dest>听起来确实不错。我更倾向于眼见为实。别天马行空地乱想。</Dest>
+      <Source>Go cause some trouble.</Source>
+      <Dest>快滚去闹点儿事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Off to get good and drunk, are you?</Source>
+      <Dest>去搞点东西下酒，走不？</Dest>
+    </String>
+    <String List="2">
+      <Source>I do hope you're enjoying the party.</Source>
+      <Dest>希望你在聚会上玩的高兴。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you're not enjoying yourself, there's more liquor around here somewhere.</Source>
+      <Dest>如果你玩儿得不尽兴，这附近的什么地方有挺多烈酒呢，随便拿啊。</Dest>
     </String>
     <String List="2">
       <Source>I hope you're not staying out of trouble.</Source>
       <Dest>我希望你别老是明哲保身。</Dest>
-    </String>
-    <String List="2">
-      <Source>Exactly.  Sanguine wanted me to betray him so I could betray myself.  It's all rather simple if you don't think about it.</Source>
-      <Dest>没错儿。桑吉恩想让我背叛他，这样我也能背叛自己了。别多想，事情很简单。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>Stop?  What in Oblivion would we do that for?  If something's only obscene, it means we have to put more effort into making it offensive.</Source>
-      <Dest>停下来？都这时候了还停下来个毛线啊！如果某件事只让你觉得恶心，那意味着我们必须更加努力的阻止它。</Dest>
     </String>
     <String List="2">
       <Source>Ah, hello.</Source>
@@ -598,73 +662,21 @@
       <Source>Can I throw a party or what?</Source>
       <Dest>我能够举办宴会什麽的吗？</Dest>
     </String>
-    <String List="2">
-      <Source>That it is, and plenty of wine to go with it. </Source>
-      <Dest>没错，还有很多很多的酒。 </Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
-      <Source>More ale, more food, and beautiful weather to enjoy.  Looks like all the cloud are too busy circling Batheru's head.</Source>
-      <Dest>更多的麦芽酒，更多的食物，还能享受美好的天气。好像所有的云都忙着绕在贝德鲁的头顶转圈。</Dest>
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
-      <Source>Go cause some trouble.</Source>
-      <Dest>快滚去闹点儿事。</Dest>
-    </String>
-    <String List="2">
-      <Source>If you're not enjoying yourself, there's more liquor around here somewhere.</Source>
-      <Dest>如果你玩儿得不尽兴，这附近的什么地方有挺多烈酒呢，随便拿啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I do hope you're enjoying the party.</Source>
-      <Dest>希望你在聚会上玩的高兴。</Dest>
-    </String>
-    <String List="2">
-      <Source>To make him a tool of merriment, of course! Think of us as all part of a single drunken revelry.  Each attendee contributes to the overall joy.</Source>
-      <Dest>把他作为一个逗乐的玩意儿，没错！想想我们都是同一个狂欢的宴会的一部分。每一个在场的人都要为所有人的快乐出点力。</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't think that's a good idea.  In fact, it's a terrible idea, pretty much the worst idea ever conceived.</Source>
-      <Dest>我不认为那是个好主意。事实上，这点子糟透了，比之前提过的任何想法都糟的多。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's more like baking two pies when you only have room for half a bun.</Source>
-      <Dest>这更像你只有半个小甜面包的空间但是你却要烤两个派出来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Off to get good and drunk, are you?</Source>
-      <Dest>去搞点东西下酒，走不？</Dest>
-    </String>
-    <String List="2">
-      <Source>So why not make him a doorman? The one who stands outside the party and checks invitations and knows not what goes on inside.</Source>
-      <Dest>那干嘛不让他去当门卫？站在派对的门外检查邀请函，就对完全不知道派对里面发生什么事了。</Dest>
-    </String>
-    <String List="2">
-      <Source>So to wash down both pies, you have to drink.  Ale, beer, mead, and wine, and in exactly that order.</Source>
-      <Dest>要想把两个派都给吞下，你得喝酒。麦芽酒，啤酒，蜜酒和葡萄酒，请严格按照以上顺序喝。</Dest>
-    </String>
-    <String List="2">
-      <Source>This is the roof where reservations choke and die. Where the scantily clad are merry and glad, and our throats burble with wine.</Source>
-      <Dest>这就是咽喉，掐住这个位置就死。这狭小的地方也包含了你的愉快与欢乐，和我们咽喉里酒泡沫的咕咕声。</Dest>
-    </String>
-    <String List="2">
-      <Source>More ale and more food, although the weather could be better.  Looks like the sun had an appointment with another Rythe Lythandas painting.</Source>
-      <Dest>更多的酒和食物，虽然天气能好些的话就更完美了。看起来太阳和在瑞瑟 莱坦达斯的另一幅画里。</Dest>
-    </String>
-    <String List="2">
-      <Source>When a person such as Batheru enters the room with his special brand of gloom, bitterness, and hate, it brings the entire party down.</Source>
-      <Dest>当贝德鲁这样一个散发着特殊的阴郁，尖刻，厌恶气场的人进到屋里，整个聚会就没气氛了。</Dest>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Would he?  There are Nords here.  It would only make things awkward for everyone.</Source>
-      <Dest>他会吗？这里有诺德人在场。这只会让事情更尴尬。</Dest>
-    </String>
-    <String List="2">
-      <Source>That we are, that we are.  I'm surprised everyone still has their clothes on.  But it's early yet.</Source>
-      <Dest>我们就这样，就是这样。我很惊讶为什么人们还穿着衣服。这才哪到哪啊。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

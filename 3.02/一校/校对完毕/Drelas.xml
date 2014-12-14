@@ -6,193 +6,377 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
-      <Source>So people fear you. Why are you telling me this?</Source>
-      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    <String List="2">
+      <Source>As I told your father, my death is only the beginning.  Yours, however, will prove nothing.</Source>
+      <Dest>就像我告诉你父亲的那样，我的死仅仅只是一个开始。而你的死，并不能证明任何事。</Dest>
     </String>
-    <String List="0">
-      <Source>So people fear you. Why are you telling me this?</Source>
-      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    <String List="2">
+      <Source>Come, daughter of Brenil, show me the power of Vanus' magic.</Source>
+      <Dest>来吧，布雷尼之女。向我展示万纳斯魔法的威力吧。</Dest>
     </String>
-    <String List="0">
-      <Source>So people fear you. Why are you telling me this?</Source>
-      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    <String List="2">
+      <Source>Destiny follows no law.  It is as inexorable as the passage of time.</Source>
+      <Dest>Destiny follows no law.  It is as inexorable as the passage of time.</Dest>
     </String>
-    <String List="0">
-      <Source>So people fear you. Why are you telling me this?</Source>
-      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    <String List="2">
+      <Source>Come, daughter of Brenil, show me the power of Vanus' magic.</Source>
+      <Dest>来吧，布雷尼之女。向我展示万纳斯魔法的威力吧。</Dest>
     </String>
-    <String List="0">
-      <Source>I want to talk about your servant Gilsi.</Source>
-      <Dest>我想和你谈谈你的仆人歌尔西。</Dest>
+    <String List="2">
+      <Source>I am sorry.  But know that while you may see only darkness, my eyes stretch further, and I see the light.</Source>
+      <Dest>我很抱歉。但要知道，当你只能看见满目黑暗之时，我的目光却延伸到更远处，然后我看见了光明。</Dest>
+    </String>
+    <String List="2">
+      <Source>So the prodigal daughter returns.   Brenil's death was swift.  I promise to grant you a similar mercy.</Source>
+      <Dest>所以这个离家出走的女儿回来了。布雷尼死的很快，一点痛苦也没有。我可以赐予你同样的恩惠。</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was you...Dragonborn.</Source>
+      <Dest>是你…龙裔。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Branora was part of House Telvanni, a house of slaver scum.</Source>
+      <Dest>布伦诺拉是泰尔瓦尼之家的一员，那满是贩奴渣滓的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I would say they were known for their ambition and their magic, as well as their slaves.  But not always, it seems, in that order.</Source>
+      <Dest>呃，我看得出来，他们以他们的野心和魔法而闻名，此外还有他们的奴隶。但并非总是如此，它看起来不在此列。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Branora was part of House Telvanni, a house of slaver scum.</Source>
+      <Dest>布伦诺拉是泰尔瓦尼之家的一员，那满是贩奴渣滓的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was also a house full of iconoclasts, of both the beautiful and the damned, the elegant and profane.  For me, it was a perfect fit.</Source>
+      <Dest>那个家族满是敢于打破常规的家伙，美丽与诅咒，优雅与亵渎并存。对我来说，适合至极。</Dest>
     </String>
     <String List="0">
       <Source>I've never been tactful myself.  I hate your robe, by the way.</Source>
-      <Dest>我不是一个圆滑的人。顺便说一句，我讨厌你的长袍.</Dest>
+      <Dest>我不是一个圆滑的人.顺便说一句，我讨厌你的长袍.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, apparently you lack tact and good taste. </Source>
+      <Dest>是的，显然你缺乏机敏和品味。</Dest>
     </String>
     <String List="0">
-      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
-      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
+      <Source>You mentioned Tel Branora.</Source>
+      <Dest>你提到了泰尔?布伦诺拉。</Dest>
     </String>
-    <String List="0">
-      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
-      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
-      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
-    </String>
-    <String List="0">
-      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
-      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟"。</Dest>
-    </String>
-    <String List="0">
-      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
-      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟"。</Dest>
-    </String>
-    <String List="0">
-      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
-      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟"。</Dest>
-    </String>
-    <String List="0">
-      <Source>She spoke highly of you.</Source>
-      <Dest>她对你的评价很高。</Dest>
-    </String>
-    <String List="0">
-      <Source>She spoke highly of you.</Source>
-      <Dest>她对你的评价很高。</Dest>
-    </String>
-    <String List="0">
-      <Source>She spoke highly of you.</Source>
-      <Dest>她对你的评价很高。</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>What sort of magic is your guild after?</Source>
-      <Dest>你们公会主要钻研哪种魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>Where did you receive your magical training?</Source>
-      <Dest>你在哪里训练你的魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>I prefer to stand.</Source>
-      <Dest>我更愿意站着。</Dest>
+    <String List="2">
+      <Source>I did.  It was just east of Vivec City, on the southern coast of Vvardenfell.</Source>
+      <Dest>我确实这样做了。它就在维瓦克的东边，凡尔登高地的南岸。</Dest>
     </String>
     <String List="0">
       <Source>Competition between close friends leads to jealousy, envy, and hate.</Source>
-      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨。</Dest>
+      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps Brenil thought the same.  He refused the Mage Lord and insisted on taking courses with the other novices.  </Source>
+      <Dest>也许布雷尼也这么想。他拒绝了法师领主，坚持和其他新生一起上课。</Dest>
     </String>
     <String List="0">
       <Source>Competition between close friends leads to jealousy, envy, and hate.</Source>
-      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨。</Dest>
+      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, we were not separated by the stormy seas, but a gradual drift, our sails pointed in opposite directions.</Source>
+      <Dest>最终我们不是被什么大风大浪分开的，而是坐在各自的帆船上渐渐漂向了相反的方向。</Dest>
     </String>
     <String List="0">
       <Source>Competition between close friends leads to jealousy, envy, and hate.</Source>
-      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨。</Dest>
+      <Dest>好朋友之间的竞争却产生了嫉妒和憎恨了。</Dest>
+    </String>
+    <String List="2">
+      <Source>In either case, I learned the value of embracing the gifts I was given, and that the use of power was as vital as having it.</Source>
+      <Dest>无论一种情况，我都懂得了接受别人馈赠的礼物的价值，我也知道了使用力量和拥有力量同样重要。</Dest>
     </String>
     <String List="0">
-      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
-      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Powerful relics, spells and sorcery from time before and time to come.</Source>
+      <Dest>强大的遗迹，魔法，巫术，咒语，尽皆源于过去和未来。</Dest>
     </String>
     <String List="0">
-      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
-      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, my acolytes were on the verge of a significant discovery before the intervention of a former member of the Mages Guild.</Source>
+      <Dest>事实上，我的学徒在那个法师公会的前成员介入之前，差一点儿就要有个重大发现了。</Dest>
     </String>
     <String List="0">
-      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
-      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is unfortunate that her meddling will delay the proliferation of its contents.  Ancient magic is like a cellar full of vintage wine.</Source>
+      <Dest>真是太倒霉了，她的干涉会耽误它的施展。上古法术就像一个充满佳酿葡萄酒的地窖。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some want to collect and preserve, others wish to drink.  Only one action serves the wine's true purpose.</Source>
+      <Dest>有的人喜欢收集和保存，有的人喜欢喝掉。只有一种行为能够体现酒的真正价值。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Powerful spells from time before and time to come.</Source>
+      <Dest>Powerful spells from time before and time to come.</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, my acolytes are on the verge of a significant breakthrough that may speed our objectives along.</Source>
+      <Dest>实际上，我的追随者已经在显着突破的边缘了，这可以大大加快我们计划的进程。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Such magic does not belong inside the dusty catacombs of a library, no more than a vintage wine belongs locked in a cellar.</Source>
+      <Dest>Such magic does not belong inside the dusty catacombs of a library, no more than a vintage wine belongs locked in a cellar.</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of magic is your guild after?</Source>
+      <Dest>你们公会主要专研哪种魔法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Spells are meant to be cast, and wine is meant to be tasted.</Source>
+      <Dest>魔法存在的意义是被使用，美酒存在的意义是被品尝。</Dest>
     </String>
     <String List="0">
       <Source>Good. Then you won't mind if I intend to do you harm.</Source>
       <Dest>很好。那么如果我想对你不利的话，你不会介意的吧。</Dest>
     </String>
+    <String List="2">
+      <Source>Ah, but not today.  That would not be wise, and moreover, it would not be civilized.  You are, after all, a guest in my home.</Source>
+      <Dest>啊，但不是今天。这不明智，而且不怎么文明。你瞧，毕竟，你是在我家里做客。 </Dest>
+    </String>
     <String List="0">
-      <Source>You mentioned Tel Branora.</Source>
-      <Dest>你提到了泰尔·布伦诺拉。</Dest>
+      <Source>She spoke highly of you.</Source>
+      <Dest>她对你的评价很高。</Dest>
+    </String>
+    <String List="2">
+      <Source>And no doubt she spoke poorly of Eldawyn.  Her childish obsessions aside, it's true the High Elf is of some interest to me.</Source>
+      <Dest>毫无疑问，她低估了艾德雯。在她孩子气的执着之外，这个高精灵其实对我有着一定的兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>She spoke highly of you.</Source>
+      <Dest>她对你的评价很高。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whether it's in the study halls of a college or the umbral hideouts of witches, all great mages receive some sort of education to mature their gift.</Source>
+      <Dest>不管是在学院的学习大厅，还是女巫阴暗的藏身处，伟大的法师总需要一定程度的教育来激发、引导其天赋。</Dest>
+    </String>
+    <String List="0">
+      <Source>She spoke highly of you.</Source>
+      <Dest>她对你的评价很高。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eldawyn's magical training has no such lineage. It is as sudden and unexpected as the dragons themselves.  That makes it...intriguing.</Source>
+      <Dest>艾德雯的魔法训练并不是既定事项。它就如龙一样来得突然而且不可预料。这使得它非常...复杂。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it doesn't.  I had hoped to avoid such an unpleasant topic.</Source>
+      <Dest>不，不行。我不想去聊那个讨厌的话题了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
+      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your people and mine have a history, and I have made it no secret my methods do not always align with what mortals consider virtuous.</Source>
+      <Dest>你的人和我的人有些故事吧，我会用不同于凡人的道德观念的手段让它曝光的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
+      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of this I will say no more.  Perhaps we may discuss it again when I know better where your allegiance lies.</Source>
+      <Dest>关于这点我不想再说什么了。或许等我更清楚的知道你是为谁效忠的时候，我们再谈谈吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
+      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it doesn't.  I had hoped to avoid such an unpleasant topic.</Source>
+      <Dest>不，不行。我不想去聊那个讨厌的话题了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
+      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟。"</Dest>
+    </String>
+    <String List="2">
+      <Source>The Argonians and the Dunmer have a history, and I have made it no secret my methods do not always align with what mortals consider virtuous.</Source>
+      <Dest>亚龙人和暗精灵曾有过一段历史，而且我不打算让这些秘密尘封，我的做法并不总是符合一般人所认同的善良准则。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
+      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟。"</Dest>
+    </String>
+    <String List="2">
+      <Source>Of this I will say no more.  Perhaps we may discuss it again when I know better where your allegiance lies.</Source>
+      <Dest>关于这点我不想再说什么了。或许等我更清楚的知道你是为谁效忠的时候，我们再谈谈吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>That doesn't explain why the Argonians called you "Knells of Loss."</Source>
+      <Dest>这不能解释亚龙人为什么把你称作 "陨灭丧钟。"</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to talk about your servant Gilsi.</Source>
+      <Dest>我想和你谈谈你的仆人歌尔西。</Dest>
+    </String>
+    <String List="2">
+      <Source>A young mage, gifted with ice magic, terrible with tact.</Source>
+      <Dest>一个年轻的法师，冰系魔法的天才，机智过人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
+      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then this conversation was indeed a valuable one.  There were others who questioned your motives, given some of your previous actions.</Source>
+      <Dest>那么这个对话说明你确实是一个有价值的人。有些人因为你以前的一些行为而质疑你的动机。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
+      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am pleased to discover their fears were unwarranted, and I will no doubt call upon your service when the time arrives.</Source>
+      <Dest>我很高兴地发现他们的恐惧是毫无根据的，毫无疑问，我会在恰当的时间让你为我服务的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your arguments are reasonable and I see no reason not to join you.</Source>
+      <Dest>你说的有理，我找不出不加入你的理由。</Dest>
+    </String>
+    <String List="2">
+      <Source>For now, you may continue your journey as you see fit.</Source>
+      <Dest>现在，你可以在感觉合适的时候继续你的旅程。</Dest>
     </String>
     <String List="0">
       <Source>Progression of magic shouldn't come at the expense of morality.</Source>
       <Dest>魔法的进步不该以牺牲道义为代价来达成。</Dest>
     </String>
+    <String List="2">
+      <Source>It has to.  The more conditions you place on progress, the slower that progression.</Source>
+      <Dest>It has to.  The more conditions you place on progress, the slower that progression.</Dest>
+    </String>
     <String List="0">
       <Source>Progression of magic shouldn't come at the expense of morality.</Source>
       <Dest>魔法的进步不该以牺牲道义为代价来达成。</Dest>
     </String>
-    <String List="0">
-      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
-      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+    <String List="2">
+      <Source>Even experimental failures provide their own measure of success, as future mages can narrow their avenues of research.</Source>
+      <Dest>即使是失败的实验也对成功有所贡献，因为将来的法师可以缩小他们的研究范围。</Dest>
     </String>
     <String List="0">
-      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
-      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
+      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Such aphorisms are lessons designed for the average mage, one who must learn the fundamentals of magic in slow, painstaking steps.</Source>
+      <Dest>这样的格言是专门告诫那些普通法师的：一名优秀的施法者必须经得起时间的考验，能在缓慢的学习中巩固魔法的基础，即使多么艰苦也永不停下前进的步伐。</Dest>
     </String>
     <String List="0">
-      <Source>That doesn't explain why my fellow Argonians called you "Knells of Loss."</Source>
-      <Dest>这并不能解释为什么我的亚龙人同胞把你称为 "陨灭丧钟"。</Dest>
+      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
+      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
+    </String>
+    <String List="2">
+      <Source>However, with every rule there are exceptions, and shortcuts do apply to mages with the magicka and fortitude to be exceptional. </Source>
+      <Dest>然而，任何规则都有其例外。当捷径适用于法师的魔法时，坚韧的精神便会成为例外。 </Dest>
     </String>
     <String List="0">
-      <Source>Tel Branora was part of House Telvanni, a house of slaver scum.</Source>
-      <Dest>泰尔·布伦诺拉是泰瓦尼之家的一员，那满是贩奴渣滓的地方。</Dest>
+      <Source>Your friend was wise.  There are no shortcuts to greatness.</Source>
+      <Dest>你的朋友确实明智，迈向伟大不会有捷径的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not that formal education is flawed, but its pace is too deliberate. Like a caged animal, it will only grow as large as its surroundings allow.</Source>
+      <Dest>并不是正规教育本身有缺陷, 而是它的进程都太过束缚了. 就像束缚在囚笼里的野兽，永远也长不出笼子。</Dest>
     </String>
     <String List="0">
-      <Source>Tel Branora was part of House Telvanni, a house of slaver scum.</Source>
-      <Dest>泰尔·布伦诺拉是泰瓦尼之家的一员，那满是贩奴渣滓的地方。</Dest>
+      <Source>I prefer to stand.</Source>
+      <Dest>我更愿意站着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nonsense. You are my guest, and I have open chair.  Please, sit.</Source>
+      <Dest>胡说。你是我的客人，而我就应该为你服务。请坐吧。</Dest>
     </String>
     <String List="0">
       <Source>The Thalmor are indeed a bunch of parasitic bugs.</Source>
       <Dest>那些梭默根本就是一堆寄生虫！</Dest>
     </String>
-    <String List="0">
-      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
-      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
+    <String List="2">
+      <Source>You say that with disdain, but I did not mean to imply that the Empire, like the caterpillar, has any more right to live than the wasp.</Source>
+      <Dest>你的语气有点轻蔑啊，我的意思可不是指帝国，就像说毛毛虫，没有什么比蜜蜂更高的生存权吧。</Dest>
     </String>
     <String List="0">
-      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
-      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
+      <Source>Gilsi spoke of a "Long Night."</Source>
+      <Dest>Gilsi spoke of a "Long Night."</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes...forgive me...I feel a sudden chill in the air.</Source>
+      <Dest>对的...原谅我...我突然在空气中感受到了一丝寒意.</Dest>
     </String>
     <String List="0">
-      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
-      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
+      <Source>So people fear you. Why are you telling me this?</Source>
+      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    </String>
+    <String List="2">
+      <Source>One of my acolytes, Gerrod, prefers to change faces, to use cunning to compensate what he lacks in strength.</Source>
+      <Dest>我的一个助手，杰瑞，更喜欢变脸，以狡猾去弥补他所缺乏的力量。</Dest>
     </String>
     <String List="0">
-      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
-      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
+      <Source>So people fear you. Why are you telling me this?</Source>
+      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a wise strategy, but a different kind of power than the one I choose to exercise.  The Radiant Dark does not value one method over another.</Source>
+      <Dest>那是一个明智的策略，与我的选择不同的一种能力。黑暗光辉不会高估任何一种方法。</Dest>
+    </String>
+    <String List="0">
+      <Source>So people fear you. Why are you telling me this?</Source>
+      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet when power is flaunted, people will condemn you.  Gerrod sees this as a burden.  I see it as an opportunity to test our strength.</Source>
+      <Dest>Yet when power is flaunted, people will condemn you.  Gerrod sees this as a burden.  I see it as an opportunity to test our strength.</Dest>
+    </String>
+    <String List="0">
+      <Source>So people fear you. Why are you telling me this?</Source>
+      <Dest>所以人们怕你。为什么你告诉我这个？</Dest>
+    </String>
+    <String List="2">
+      <Source>For what is the point of having power if it is not applied?  Why craft a sharper sword if not to make war?</Source>
+      <Dest>拥有力量而不使用它，那力量有何意义？如果不去战斗，又何必磨利剑锋？</Dest>
     </String>
     <String List="0">
       <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
@@ -202,1869 +386,1809 @@
       <Source>Few of us remain who remember exotic palaces of color and twisted vegetation; recall a land warmed by the sun and not burned by the fire.</Source>
       <Dest>我们中还有多少人记得那以五彩奇妙的植物所装点着的奇异宫殿，记得那片被太阳所温暖着而不是被熔岩所损毁的土地。</Dest>
     </String>
-    <String List="2">
-      <Source>Spells are meant to be cast, and wine is meant to be tasted.</Source>
-      <Dest>魔法存在的意义是被使用，美酒存在的意义是被品尝。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then this conversation was indeed a valuable one.  There were others who questioned your motives, given some of your previous actions.</Source>
-      <Dest>那么这个对话说明你确实是一个有价值的人。有些人因为你以前的一些行为而质疑你的动机。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was you...Dragonborn.</Source>
-      <Dest>是你…龙裔。</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, my acolytes are on the verge of a significant breakthrough that may speed our objectives along.</Source>
-      <Dest>实际上，我的追随者已经在显著突破的边缘了，这可以大大加快我们计划的进程。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your people and mine have a history, and I have made it no secret my methods do not always align with what mortals consider virtuous.</Source>
-      <Dest>你的人和我的人有些故事吧，我会用不同于凡人的道德观念的手段让它曝光的。</Dest>
-    </String>
-    <String List="2">
-      <Source>It is a wise strategy, but a different kind of power than the one I choose to exercise.  The Radiant Dark does not value one method over another.</Source>
-      <Dest>那是一个明智的策略，与我的选择不同的一种能力。黑暗光辉不会高估任何一种方法。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>Such aphorisms are lessons designed for the average mage, one who must learn the fundamentals of magic in slow, painstaking steps.</Source>
-      <Dest>这样的格言是专门告诫那些普通法师的：一名优秀的施法者必须经得起时间的考验，能在缓慢的学习中巩固魔法的基础，即使多么艰苦也永不停下前进的步伐。</Dest>
-    </String>
-    <String List="2">
-      <Source>However, with every rule there are exceptions, and shortcuts do apply to mages with the magicka and fortitude to be exceptional. </Source>
-      <Dest>然而，任何规则都有其例外。当捷径适用于法师的魔法时，坚韧的精神便会成为例外。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, but not today.  That would not be wise, and moreover, it would not be civilized.  You are, after all, a guest in my home.</Source>
-      <Dest>啊，但不是今天。这不明智，而且不怎么文明。你瞧，毕竟，你是在我家里做客。 </Dest>
-    </String>
-    <String List="2">
-      <Source>The Argonians and the Dunmer have a history, and I have made it no secret my methods do not always align with what mortals consider virtuous.</Source>
-      <Dest>亚龙人和暗精灵曾有过一段历史，而且我不打算让这些秘密尘封，我的做法并不总是符合一般人所认同的善良准则。</Dest>
-    </String>
-    <String List="2">
-      <Source>One of my acolytes, Gerrod, prefers to change faces, to use cunning to compensate what he lacks in strength.</Source>
-      <Dest>我的一个助手，杰瑞，更喜欢变脸，以狡猾去弥补他所缺乏的力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, I would say they were known for their ambition and their magic, as well as their slaves.  But not always, it seems, in that order.</Source>
-      <Dest>呃，我看得出来，他们以他们的野心和魔法而闻名，此外还有他们的奴隶。但并非总是如此，它看起来不在此列。</Dest>
-    </String>
-    <String List="2">
-      <Source>And no doubt she spoke poorly of Eldawyn.  Her childish obsessions aside, it's true the High Elf is of some interest to me.</Source>
-      <Dest>毫无疑问，她低估了艾德温。在她孩子气的执着之外，这个高精灵其实对我有着一定的兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>For what is the point of having power if it is not applied?  Why craft a sharper sword if not to make war?</Source>
-      <Dest>拥有力量而不使用它，那力量有何意义？如果不去战斗，又何必磨利剑锋？</Dest>
-    </String>
-    <String List="2">
-      <Source>Perhaps Brenil thought the same.  He refused the Mage Lord and insisted on taking courses with the other novices.  </Source>
-      <Dest>也许布伦尼尔想的是一样的。他拒绝了巫师之王的教导，转而和一些新手一起上课。  </Dest>
-    </String>
-    <String List="2">
-      <Source>In either case, I learned the value of embracing the gifts I was given, and that the use of power was as vital as having it.</Source>
-      <Dest>无论一种情况，我都懂得了接受别人馈赠的礼物的价值，我也知道了使用力量和拥有力量同样重要。</Dest>
-    </String>
-    <String List="2">
-      <Source>A young mage, gifted with ice magic, terrible with tact.</Source>
-      <Dest>一个年轻的法师，在冰魔法上有着天赋，有着可怕的技巧。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, it doesn't.  I had hoped to avoid such an unpleasant topic.</Source>
-      <Dest>不，不行。我不想去聊那个讨厌的话题了。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, it doesn't.  I had hoped to avoid such an unpleasant topic.</Source>
-      <Dest>不，不行。我不想去聊那个讨厌的话题了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of this I will say no more.  Perhaps we may discuss it again when I know better where your allegiance lies.</Source>
-      <Dest>关于这点我不想再说什么了。或许我们可以再讨论一下以让我更好地了解你忠诚于何方！</Dest>
-    </String>
-    <String List="2">
-      <Source>Of this I will say no more.  Perhaps we may discuss it again when I know better where your allegiance lies.</Source>
-      <Dest>关于这点我不想再说什么了。或许我们可以再讨论一下以让我更好地了解你忠诚于何方！</Dest>
-    </String>
-    <String List="2">
-      <Source>I am sorry.  But know that while you may see only darkness, my eyes stretch further, and I see the light.</Source>
-      <Dest>我很抱歉。但要知道，当你只能看见满目黑暗之时，我的目光却延伸到更远处，然后我看见了光明。</Dest>
-    </String>
-    <String List="2">
-      <Source>I did.  It was just east of Vivec City, on the southern coast of Vvardenfell.</Source>
-      <Dest>我确实这样做了。它就在维瓦克的东边，凡尔登高地的南岸。</Dest>
+    <String List="0">
+      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
+      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
     </String>
     <String List="2">
       <Source>Yet I digress, the point that I am trying to make is that while my education was formal, I dictated the pace and manner with which I was taught.</Source>
       <Dest>好吧我离题了，我想说的是我受的教育很正规，我按照进度学习并据我所学来处理事情。</Dest>
     </String>
-    <String List="2">
-      <Source>The Mage Lord was desperate to harness my potential, as well as that of a visiting student from Cyrodiil.</Source>
-      <Dest>魔法领主极其想要束缚我的潜能，对那个来参观西罗帝尔的学生也是如此。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, apparently you lack tact and good taste. </Source>
-      <Dest>是的，显然你缺乏机敏和品味。</Dest>
-    </String>
-    <String List="2">
-      <Source>Even experimental failures provide their own measure of success, as future mages can narrow their avenues of research.</Source>
-      <Dest>即使是失败的实验也对成功有所贡献，因为将来的法师可以缩小他们的研究范围。</Dest>
-    </String>
-    <String List="2">
-      <Source>As I told your father, my death is only the beginning.  Yours, however, will prove nothing.</Source>
-      <Dest>就像我告诉你父亲的那样，我的死仅仅只是一个开始。而你的死，并不能证明任何事。</Dest>
-    </String>
-    <String List="2">
-      <Source>His name was Brenil, and he was my only peer, and a good friend.</Source>
-      <Dest>他叫布伦尼尔，他是我唯一的同伴，和好朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>It is unfortunate that her meddling will delay the proliferation of its contents.  Ancient magic is like a cellar full of vintage wine.</Source>
-      <Dest>真是太倒霉了，她的干涉会耽误它的施展。上古法术就像一个充满佳酿葡萄酒的地窖。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes...forgive me...I feel a sudden chill in the air.</Source>
-      <Dest>对的...原谅我...我突然在空气中感受到了一丝寒意.</Dest>
-    </String>
-    <String List="2">
-      <Source>It was also a house full of iconoclasts, of both the beautiful and the damned, the elegant and profane.  For me, it was a perfect fit.</Source>
-      <Dest>那还是一间满是反传统人士的房子，有美有丑，有雅有俗。对我来说，完美适合。</Dest>
-    </String>
-    <String List="2">
-      <Source>You say that with disdain, but I did not mean to imply that the Empire, like the caterpillar, has any more right to live than the wasp.</Source>
-      <Dest>你的语气有点轻蔑啊，我的意思可不是指帝国，就像说毛毛虫，没有什么比蜜蜂更高的生存权吧。</Dest>
+    <String List="0">
+      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
+      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
     </String>
     <String List="2">
       <Source>While the students labored in the Wizard's Tower listening to lectures on the dangers of destruction magic, I was testing its limits.</Source>
       <Dest>当学生们在法师塔里认真地听着关于毁灭魔法的危险性的课时，我在测试着它的极限。</Dest>
     </String>
-    <String List="2">
-      <Source>Some want to collect and preserve, others wish to drink.  Only one action serves the wine's true purpose.</Source>
-      <Dest>有的人喜欢收集和保存，有的人喜欢喝掉。只有一种行为能够体现酒的真正价值。</Dest>
+    <String List="0">
+      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
+      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
     </String>
     <String List="2">
-      <Source>Eldawyn's magical training has no such lineage. It is as sudden and unexpected as the dragons themselves.  That makes it...intriguing.</Source>
-      <Dest>艾德雯的魔法训练并不是既定事项。它就如龙一样来得突然而且不可预料。这使得它非常...复杂。</Dest>
+      <Source>The Mage Lord was desperate to harness my potential, as well as that of a visiting student from Cyrodiil.</Source>
+      <Dest>魔法领主极其想要束缚我的潜能，对那个来参观西罗帝尔的学生也是如此。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it's been some time since the Red Mountain erupted.</Source>
+      <Dest>是啊，从红山爆发之后过了好久了。</Dest>
     </String>
     <String List="2">
-      <Source>For now, you may continue your journey as you see fit.</Source>
-      <Dest>现在，你可以在感觉合适的时候继续你的旅程。</Dest>
+      <Source>His name was Brenil, and he was my only peer, and a good friend.</Source>
+      <Dest>他叫布雷尼，是我唯一的同伴，和好朋友。</Dest>
     </String>
-    <String List="2">
-      <Source>Come, daughter of Brenil, show me the power of Vanus' magic.</Source>
-      <Dest>来吧，布伦尼尔之女。向我展示万纳斯魔法的威力吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Come, daughter of Brenil, show me the power of Vanus' magic.</Source>
-      <Dest>来吧，布伦尼尔之女。向我展示万纳斯魔法的威力吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Whether it's in the study halls of a college or the umbral hideouts of witches, all great mages receive some sort of education to mature their gift.</Source>
-      <Dest>不管是在学院的学习大厅，还是女巫阴暗的藏身处，伟大的法师总需要一定程度的教育来激发、引导其天赋。</Dest>
+    <String List="0">
+      <Source>Where did you receive your magical training?</Source>
+      <Dest>你在哪里训练你的魔法？</Dest>
     </String>
     <String List="2">
       <Source>There are many places where I have studied, but not as a student.</Source>
       <Dest>我曾深入研究过很多地方，但不是以学生的身份。</Dest>
     </String>
-    <String List="2">
-      <Source>So the prodigal daughter returns.   Brenil's death was swift.  I promise to grant you a similar mercy.</Source>
-      <Dest>所以这个离家出走的女儿回来了。布伦尼尔死的很快，一点痛苦也没有。我可以赐予你同样的恩惠。</Dest>
-    </String>
-    <String List="2">
-      <Source>In fact, my acolytes were on the verge of a significant discovery before the intervention of a former member of the Mages Guild.</Source>
-      <Dest>事实上，我的学徒在那个法师公会的前成员介入之前，差一点儿就要有个重大发现了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nonsense. You are my guest, and I have open chair.  Please, sit.</Source>
-      <Dest>胡说。你是我的客人，而我就应该为你服务。请坐吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>It is not that formal education is flawed, but its pace is too deliberate. Like a caged animal, it will only grow as large as its surroundings allow.</Source>
-      <Dest>并不是正规教育本身有缺陷, 而是它的进程都太过束缚了. 就像束缚在囚笼里的野兽，永远也长不出笼子。</Dest>
-    </String>
-    <String List="2">
-      <Source>In the end, we were not separated by the stormy seas, but a gradual drift, our sails pointed in opposite directions.</Source>
-      <Dest>最终我们不是被什么大风大浪分开的，我们所向不同终会分开。</Dest>
-    </String>
-    <String List="2">
-      <Source>I am pleased to discover their fears were unwarranted, and I will no doubt call upon your service when the time arrives.</Source>
-      <Dest>我很高兴看到他们的忧虑是多余的, 无疑在适当的时候我会召唤你的侍候.</Dest>
-    </String>
-    <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>Powerful relics, spells and sorcery from time before and time to come.</Source>
-      <Dest>强大的遗迹，魔法，巫术，咒语，尽皆源于过去和未来。</Dest>
-    </String>
-    <String List="0">
-      <Source>A young mage, and a soon to be dead mage.</Source>
-      <Dest>一个年轻的法师，而且很快就会变成法尸。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you earn the "Knells of Loss?"</Source>
-      <Dest>你是怎样搞到“陨灭丧钟"的?</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you earn the "Knells of Loss?"</Source>
-      <Dest>你是怎样搞到“陨灭丧钟"的?</Dest>
-    </String>
-    <String List="0">
-      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
-      <Dest>陨灭丧钟。魔人大君。我发觉这并不是赞美。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
-      <Dest>陨灭丧钟。魔人大君。我发觉这并不是赞美。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
-      <Dest>陨灭丧钟。魔人大君。我发觉这并不是赞美。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
-      <Dest>陨灭丧钟。魔人大君。我发觉这并不是赞美。.</Dest>
-    </String>
-    <String List="0">
-      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
-      <Dest>陨灭丧钟。魔人大君。我发觉这并不是赞美。.</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>When did you train at The Arcane University?</Source>
-      <Dest>你是何时在奥术大学里受训的？</Dest>
-    </String>
-    <String List="0">
-      <Source>A young mage, and now a dead mage.</Source>
-      <Dest>年轻的法师，现在是法尸了。</Dest>
-    </String>
-    <String List="0">
-      <Source>Only an utter fool would deny himself such an opportunity.</Source>
-      <Dest>这样的机会只有傻瓜才会放弃。</Dest>
-    </String>
-    <String List="0">
-      <Source>Only an utter fool would deny himself such an opportunity.</Source>
-      <Dest>这样的机会只有傻瓜才会放弃。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seek power, but I'm curious as to what end.</Source>
-      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seek power, but I'm curious as to what end.</Source>
-      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seek power, but I'm curious as to what end.</Source>
-      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seek power, but I'm curious as to what end.</Source>
-      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your association with House Telvanni explains why Argonians dislike you.</Source>
-      <Dest>你与泰尔瓦尼家族的结盟正是亚龙人不喜欢你的原因。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your association with House Telvanni explains why Argonians dislike you.</Source>
-      <Dest>你与泰尔瓦尼家族的结盟正是亚龙人不喜欢你的原因。</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened in Cyrodiil?</Source>
-      <Dest>在赛瑞迪尔发生了什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened in Cyrodiil?</Source>
-      <Dest>在赛瑞迪尔发生了什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened in Cyrodiil?</Source>
-      <Dest>在赛瑞迪尔发生了什么?</Dest>
-    </String>
-    <String List="0">
-      <Source>What happened in Cyrodiil?</Source>
-      <Dest>在赛瑞迪尔发生了什么?</Dest>
-    </String>
     <String List="0">
       <Source>Where did you receive your magical training?</Source>
       <Dest>你在哪里训练你的魔法？</Dest>
     </String>
+    <String List="2">
+      <Source>The Arcane University in Cyrodiil, for one, and before that, Tel Branora in Vvardenfell, before the Red Mountain claimed it.</Source>
+      <Dest>赛瑞迪尔的奥术大学，而我上一个研究的地方，是被红山毁掉以前的瓦登弗岛上的泰尔布伦诺拉。</Dest>
+    </String>
     <String List="0">
       <Source>Where did you receive your magical training?</Source>
       <Dest>你在哪里训练你的魔法？</Dest>
-    </String>
-    <String List="0">
-      <Source>You accept dark mages into your guild?</Source>
-      <Dest>你允许暗法师加入你的公会了？</Dest>
-    </String>
-    <String List="0">
-      <Source>You accept dark mages into your guild?</Source>
-      <Dest>你允许暗法师加入你的公会了？</Dest>
-    </String>
-    <String List="0">
-      <Source>You accept dark mages into your guild?</Source>
-      <Dest>你允许暗法师加入你的公会了？</Dest>
-    </String>
-    <String List="0">
-      <Source>You accept dark mages into your guild?</Source>
-      <Dest>你允许暗法师加入你的公会了？</Dest>
-    </String>
-    <String List="0">
-      <Source>You accept dark mages into your guild?</Source>
-      <Dest>你允许暗法师加入你的公会了？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll be on the side of justice, naturally.</Source>
-      <Dest>我会在正义的一方，毋庸置疑。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll be on the side of justice, naturally.</Source>
-      <Dest>我会在正义的一方，毋庸置疑。</Dest>
-    </String>
-    <String List="0">
-      <Source>A friendly rivalry is good for developing talent.</Source>
-      <Dest>良性的竞争有利于人才的培养。</Dest>
-    </String>
-    <String List="0">
-      <Source>A friendly rivalry is good for developing talent.</Source>
-      <Dest>良性的竞争有利于人才的培养。</Dest>
-    </String>
-    <String List="0">
-      <Source>A friendly rivalry is good for developing talent.</Source>
-      <Dest>良性的竞争有利于人才的培养。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to know a lot about me.</Source>
-      <Dest>你好像很了解我啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>You seem to know a lot about me.</Source>
-      <Dest>你好像很了解我啊。</Dest>
-    </String>
-    <String List="0">
-      <Source>Or Ulfric is the wasp, and the Nords defend that which threatens their safety.</Source>
-      <Dest>或许乌弗瑞克狼子野心，而诺德人却拥护那些威胁他们的安全的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Or Ulfric is the wasp, and the Nords defend that which threatens their safety.</Source>
-      <Dest>或许乌弗瑞克狼子野心，而诺德人却拥护那些威胁他们的安全的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Very well.</Source>
-      <Dest>很好。</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your ultimate goal then?</Source>
-      <Dest>那你的终极目标是什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your ultimate goal then?</Source>
-      <Dest>那你的终极目标是什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your ultimate goal then?</Source>
-      <Dest>那你的终极目标是什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is your ultimate goal then?</Source>
-      <Dest>那你的终极目标是什么呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What made this wasp so intriguing?</Source>
-      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What made this wasp so intriguing?</Source>
-      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What made this wasp so intriguing?</Source>
-      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>What made this wasp so intriguing?</Source>
-      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
-    </String>
-    <String List="0">
-      <Source>This wasp, I imagine its venom contained interesting alchemical properties.</Source>
-      <Dest>这只黄蜂。我在想它的毒液里含有什么有趣的炼金效果。</Dest>
-    </String>
-    <String List="0">
-      <Source>This wasp, I imagine its venom contained interesting alchemical properties.</Source>
-      <Dest>这只黄蜂。我在想它的毒液里含有什么有趣的炼金效果。</Dest>
-    </String>
-    <String List="2">
-      <Source>I apologize, but I must ask you to leave.  There are matters which I must consider in private.  Perhaps another time.</Source>
-      <Dest>我很抱歉，但我必须要求你离开。有些事情我必须独自考虑。有机会的话，下次再来吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is the fate of all who hold power.  To test it, and be slain by it.  I do not mourn one who fulfilled her destiny.</Source>
-      <Dest>这就是拥有力量的人的宿命。要测试它，只要被它杀了就可以了。我不会悼念因命运使然而死的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ah, a guest.  Please, sit down.  Rest your weary feet.</Source>
-      <Dest>啊，一个客人。快请坐下吧。放松下您那疲乏的双脚。</Dest>
     </String>
     <String List="2">
       <Source>Which dates me, I'm afraid.  There is quite a large generation gap between Dunmer who know Morrowind for its beauty, and not its ash.</Source>
       <Dest>我恐怕我已经过时了。在黑暗精灵之中，老一辈的人曾看到晨风的美丽，而年轻一辈印象中的晨风却永远覆盖着厚厚的火山灰，这是两代人之间巨大的代沟。</Dest>
     </String>
-    <String List="2">
-      <Source>So when I say the Thalmor are parasites, I do not mean it as an insult.  The caterpillar is not a victim.  It is simply the weaker of the two.</Source>
-      <Dest>所以当我说梭默是寄生虫的时候，我没有什么侮辱的意思。毛毛虫不是一个受害者，它只是比较脆弱而已。</Dest>
+    <String List="0">
+      <Source>I'll be on the side of justice, naturally.</Source>
+      <Dest>我会在正义的一方，毋庸置疑。</Dest>
     </String>
     <String List="2">
-      <Source>Either way, it was a tremendous waste of potential, but an important lesson. Power could change one's fate, but only if you were willing to exert it.</Source>
-      <Dest>不管怎样，那都是对潜能的巨大浪费，不过也是重要的一课。力量可以改变人的命运，但只有在你有意愿使用它的时候。</Dest>
+      <Source>Then you will be forced to play both sides, as each will raise the banner of justice for their cause.</Source>
+      <Dest>那样你将被迫应付两边，因为每一方都会以自己的理由举起正义的旗帜。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll be on the side of justice, naturally.</Source>
+      <Dest>我会在正义的一方，毋庸置疑。</Dest>
     </String>
     <String List="2">
-      <Source>Some say you even roar like a dragon.  Breathe fire like a dragon.  Yet I can see the real fire is not on your breath, but in your eyes.</Source>
-      <Dest>甚至有人说你的咆哮声像一条巨龙。并且如龙般的喷出火焰。但我能看到，真正的火焰不在你的呼吸里，而是在你的眼中。</Dest>
+      <Source>I am inclined to believe, however, that we will be on opposite sides. Those who espouse simple ideology cannot see the merits of our justice.</Source>
+      <Dest>我很想相信，然而，那会使我们互相对立。那些只抱持单一观意识形态的人看不到我们所秉持的正义的必然性。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your ultimate goal then?</Source>
+      <Dest>那你的终极目标是什么呢？</Dest>
     </String>
     <String List="2">
-      <Source>I accepted a position as a professor in name only. I had no intention of instructing novices who were but intellectual minnows in a crowded pond.</Source>
-      <Dest>我只是名义上接受了这个教授的职位，我无意去教导这些没多少知识底蕴的初学者们。</Dest>
+      <Source>The will of The Radiant Dark is clear and simple.  To progress the field of magic.  To uncover its mysteries, and harness its power.</Source>
+      <Dest>黑暗光辉的意愿清晰明了。发展魔法领域，揭开它的奥秘，然后控制它的力量。</Dest>
     </String>
-    <String List="2">
-      <Source>It would have been, if Brenil could be convinced such a thing existed.  He chose to study with the other novices.</Source>
-      <Dest>恐怕已经是那样了。要是不能说服布伦尼尔相信这东西的存在。他就会去跟别的新手一起做研究。</Dest>
-    </String>
-    <String List="2">
-      <Source>Or a coward who could not handle the pressure of it.  Not all of us embrace success.  Some find talent to be a nuisance of expectations.</Source>
-      <Dest>或者是一个无法承受压力的胆小鬼。不是我们所有人都能取得成功的。一些人发现成为人才是一个恼人的期望。</Dest>
-    </String>
-    <String List="2">
-      <Source>Whenever someone asks me about my opinion on the Thalmor, I tell them of a parasitic wasp species I found north of Blackrose.</Source>
-      <Dest>每当有人询问我关于塔罗斯的意见时，我告诉他们我在黑玫瑰北部发现了一个寄生蜂种。</Dest>
+    <String List="0">
+      <Source>What is your ultimate goal then?</Source>
+      <Dest>那你的终极目标是什么呢？</Dest>
     </String>
     <String List="2">
       <Source>Only through power can we ascend to our rightful place as stewards of this world.</Source>
       <Dest>只有凭借力量，我们才能提升自己应有的地位，直至成为这个世界的管理者。</Dest>
     </String>
+    <String List="0">
+      <Source>What is your ultimate goal then?</Source>
+      <Dest>那你的终极目标是什么呢？</Dest>
+    </String>
     <String List="2">
-      <Source>The mother wasp's venom was such that the caterpillar would defend the larvae from predators as if they were its children.</Source>
-      <Dest>母胡蜂浓烈的毒液会让毛毛虫保护母胡蜂的孩子不受捕食者的侵扰，彷彿这些毛毛虫在保护自己的孩子一般。</Dest>
+      <Source>And when it arrives, when we spread our tendrils across Tamriel, it will not be a reckoning. It will be an awakening, a pivot in time.</Source>
+      <Dest>当这一切到来之时，我们的势力会在整个泰姆瑞尔大陆开枝散叶。它不会为人所预料，这是种觉醒，一种历史的转折。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your ultimate goal then?</Source>
+      <Dest>那你的终极目标是什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine you will be there to witness it.  The only question is, on which side.</Source>
+      <Dest>我想你会在那里见证它。唯一的问题是，在哪一边。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seek power, but I'm curious as to what end.</Source>
+      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>There are prophecies written in the writings of Shalidor, in the sundered libraries of the House Telvanni, on the lips of fishwives and old maids.</Source>
+      <Dest>预言已经在沙利德的笔记里被记录，在泰瓦尼家族的图书馆里被收藏，在老妇的口中被传唱。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seek power, but I'm curious as to what end.</Source>
+      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>They tell of a great reckoning, the return of ancient magics, born to darkness and sworn to darkness. Powerful spells that can fell the day itself.</Source>
+      <Dest>他们说了一个伟大的计划，古老的魔法回归，生于黑暗死于黑暗，强大的力量能使世界陨落。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seek power, but I'm curious as to what end.</Source>
+      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some believe that is my ultimate wish, to watch daylight die.</Source>
+      <Dest>有些人以为，我最大的心愿就是看到阳光熄灭。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seek power, but I'm curious as to what end.</Source>
+      <Dest>你在寻求力量，但我好奇的是结果会如何。</Dest>
     </String>
     <String List="2">
       <Source>Yet I have no interest in a world without light.  My crops, for one, would not survive the week.</Source>
       <Dest>但我可不想活在一片漆黑里。比如我的成果，在黑暗中可能不到一周就会死掉。</Dest>
     </String>
     <String List="2">
-      <Source>He said it was because he didn't want special treatment.  Sometimes I wonder if he was worried about our friendship, given how competitive I was.</Source>
-      <Dest>他说这是因为他不想要特殊的待遇。有时我想知道他是否是担心我的争强好胜会导致友谊的破裂。</Dest>
+      <Source>That is the fate of all who hold power.  To test it, and be slain by it.  I do not mourn one who fulfilled her destiny.</Source>
+      <Dest>这就是拥有力量的人的宿命。要测试它，只要被它杀了就可以了。我不会悼念因命运使然而死的人。</Dest>
     </String>
-    <String List="2">
-      <Source>There I researched much about the nature of magic, the energies of Light and Dark, and sought to continue my studies in Cyrodiil.</Source>
-      <Dest>在那里我对魔法的本源和光与暗能量意义上的本质做了大量的研究, 并伺机能在赛洛迪尔做深入的研究。</Dest>
-    </String>
-    <String List="2">
-      <Source>No, although I must admit I found them flattering.  Such ominous names are typically reserved for those of myth and legend.</Source>
-      <Dest>没有，但我必须承认，我发现了他们的阿谀奉承。这种不祥的名字通常是留给那些神话和传说中的人物的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Excellent.  Have a seat.</Source>
-      <Dest>好极了，请坐。</Dest>
-    </String>
-    <String List="2">
-      <Source>There is no finer example than your own existence, Dragonborn.  The dragon shout was meant to bind mortals into slavery.</Source>
-      <Dest>没有比你的存在更好的范例了，龙裔。这句吐目的效用是强迫凡人屈从于你。</Dest>
-    </String>
-    <String List="2">
-      <Source>Indeed.  Synthesized correctly and it could form a poison potent enough to bend the will of your worst enemy to your side.</Source>
-      <Dest>确实。正确调配的话就能做成足够强力的毒药，足以动摇你死敌的意志，让他站到你这边来。</Dest>
-    </String>
-    <String List="2">
-      <Source>I've been expecting you.  You are the one who speaks the dragon tongue, are you not?  You've made quite a name for yourself across Skyrim.</Source>
-      <Dest>我一直在等你。你就是那个龙佬腔是吧？现在你的事迹已经传遍天际省啦。</Dest>
-    </String>
-    <String List="2">
-      <Source>Please, sit.</Source>
-      <Dest>请坐。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Arcane University in Cyrodiil, for one, and before that, Tel Branora in Vvardenfell, before the Red Mountain claimed it.</Source>
-      <Dest>赛瑞迪尔的奥术大学，而我上一个研究的地方，是被红山毁掉以前的瓦登弗岛上的泰尔布伦诺拉。</Dest>
-    </String>
-    <String List="2">
-      <Source>The will of The Radiant Dark is clear and simple.  To progress the field of magic.  To uncover its mysteries, and harness its power.</Source>
-      <Dest>黑暗光辉的意愿清晰明了。发展魔法领域，揭开它的奥秘，然后控制它的力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>An interesting find for an alchemist, but my interests and expertise were limited to the developing of magical enhancements.</Source>
-      <Dest>对于一名炼金术师而言，这是个有趣的发现。但我的兴趣和专长仅限于对魔法效果的发展。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then you will be forced to play both sides, as each will raise the banner of justice for their cause.</Source>
-      <Dest>那样你将被迫应付两边，因为每一方都会以自己的理由举起正义的旗帜。</Dest>
-    </String>
-    <String List="2">
-      <Source>I earned my name, however, in my time in Black Marsh, long after the Argonians invaded Morrowind and laid waste to my former house.</Source>
-      <Dest>我已经获得我的名誉，不过，那是我在黑沼泽省的时候。那已经是亚龙人入侵晨风，毁掉我从前的房子的很久以后的事儿了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Agreed.  The parts are interchangeable, depending on where your loyalties lie, but remember that loyalty itself is but a tool to control others.</Source>
-      <Dest>同意。这部分是可以对换的，这取决于你忠于哪一方，但是要记住你的忠诚只是为了控制别人而使用的工具。</Dest>
-    </String>
-    <String List="2">
-      <Source>I imagine you will be there to witness it.  The only question is, on which side.</Source>
-      <Dest>我想你会在那里见证它。唯一的问题是，在哪一边。</Dest>
-    </String>
-    <String List="2">
-      <Source>If they show promise, most certainly.  There are plenty of magical discoveries in history that have come from dark origins.</Source>
-      <Dest>如果他们有成功的希望，当然了。要知道历史上很多神奇的发现来自黑暗的起源。</Dest>
-    </String>
-    <String List="2">
-      <Source>I was looking to craft a better magicka potion, and there are many unique species in the swamps that have yet to be studied by alchemists.</Source>
-      <Dest>我打算制作点更好的魔法药水，而这片沼泽有很多特殊物种有待炼金术师研究药效啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>I am inclined to believe, however, that we will be on opposite sides. Those who espouse simple ideology cannot see the merits of our justice.</Source>
-      <Dest>我很想相信，然而，那会使我们互相对立。那些只抱持单一观意识形态的人看不到我们所秉持的正义的必然性。</Dest>
-    </String>
-    <String List="2">
-      <Source>And when it arrives, when we spread our tendrils across Tamriel, it will not be a reckoning. It will be an awakening, a pivot in time.</Source>
-      <Dest>当这一切到来之时，我们的势力会在整个泰姆瑞尔大陆开枝散叶。它不会为人所预料，这是种觉醒，一种历史的转折。</Dest>
-    </String>
-    <String List="2">
-      <Source>I told her she reminded me of an old friend from Tel Branora, a fool by the name of Brenil.  She told me that fool was her father.</Source>
-      <Dest>我跟她说她让我想起了一位泰尔·布伦诺拉的老朋友，名叫布伦尼尔的傻瓜。她告诉我那个傻瓜是她爸爸。</Dest>
+    <String List="0">
+      <Source>A young mage, and now a dead mage.</Source>
+      <Dest>年轻的法师啊，你现在是法尸了。</Dest>
     </String>
     <String List="2">
       <Source>That is the fate of all who hold power.  To test it, and be slain by it.  I will not mourn her when she meets her destiny.</Source>
       <Dest>那就是能力者的命运。测试它，最后为其所害。她并不是被我杀死的，她只不过迎来了自己的命运而已。</Dest>
     </String>
-    <String List="2">
-      <Source>Yet you can see how ludicrous such a proposition would be. You can no more stop a mage from conducting research than a dragon from using its voice.</Source>
-      <Dest>但是你不觉得这么提议是多么荒谬吗？！就像无法让龙族闭嘴一样，你无法阻止法师们的魔法研究。</Dest>
+    <String List="0">
+      <Source>A young mage, and a soon to be dead mage.</Source>
+      <Dest>一个年轻的法师，而且很快就会变成死了的法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>A friendly rivalry is good for developing talent.</Source>
+      <Dest>良性的竞争有利于人才的培养。</Dest>
     </String>
     <String List="2">
-      <Source>It's that fire that allows you to hunt those that hunt the day.  And that is all any of us want.  One more day.</Source>
-      <Dest>正是这场大火才让你猎杀了那些追赶时间的人。这也是我们每个人都想要的。再活一天。</Dest>
+      <Source>It would have been, if Brenil could be convinced such a thing existed.  He chose to study with the other novices.</Source>
+      <Dest>恐怕已经是那样了。要是不能说服布伦尼尔相信这东西的存在。他就会去跟别的新手一起做研究。</Dest>
+    </String>
+    <String List="0">
+      <Source>A friendly rivalry is good for developing talent.</Source>
+      <Dest>良性的竞争有利于人才的培养。</Dest>
     </String>
     <String List="2">
-      <Source>I apologize.  I have you at a disadvantage.  It seems I know everything about you, and you nothing of me.</Source>
-      <Dest>我很抱歉。把你置于不利的境地。看来我对你的了解是相当全面，而你对我一无所知。</Dest>
+      <Source>He said it was because he didn't want special treatment.  Sometimes I wonder if he was worried about our friendship, given how competitive I was.</Source>
+      <Dest>他说这是因为他不想要特殊的待遇。有时我想知道他这样做是不是因为担心我俩的友谊，因为我太过争强好胜了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A friendly rivalry is good for developing talent.</Source>
+      <Dest>良性的竞争有利于人才的培养。</Dest>
     </String>
     <String List="2">
-      <Source>Her belief was that our number one priority as a faculty was to educate the students.</Source>
-      <Dest>在她的脑子里我们这儿第一要务应该是培养学徒。</Dest>
+      <Source>Either way, it was a tremendous waste of potential, but an important lesson. Power could change one's fate, but only if you were willing to exert it.</Source>
+      <Dest>不管怎样，那都是对潜能的巨大浪费，不过也是重要的一课。力量可以改变人的命运，但只有在你有意愿使用它的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>Only an utter fool would deny himself such an opportunity.</Source>
+      <Dest>这样的机会只有傻瓜才会放弃。</Dest>
     </String>
     <String List="2">
-      <Source>This is where their worst fears become prophecy.  For who better to test one's power upon, then those who interfere with its acquisition.</Source>
-      <Dest>这也就是他们那最深层次的恐惧变为预言的原因。那些力量越强的人就是被那力量所束缚的人。</Dest>
+      <Source>Or a coward who could not handle the pressure of it.  Not all of us embrace success.  Some find talent to be a nuisance of expectations.</Source>
+      <Dest>或者是一个无法承受压力的胆小鬼。不是我们所有人都能取得成功的。一些人发现成为人才是一个恼人的期望。</Dest>
     </String>
-    <String List="2">
-      <Source>That was how I met the ire of a Master Wizard.  Young, belligerent, staunchly idealistic, and incredibly powerful.</Source>
-      <Dest>我就是这样见识了魔法大师的愤怒。年轻，好战，奉行理想主义，并且强的难以置信。</Dest>
-    </String>
-    <String List="2">
-      <Source>After the eruption, I wandered around Tamriel for decades, and studied briefly with the master sorcerers in the Summerset Isle.</Source>
-      <Dest>在红山爆发后，我在泰姆瑞尔大陆游荡了数十年，然后在夏暮岛短暂地和大巫师们一同研究。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well.</Source>
-      <Dest>非常好。</Dest>
-    </String>
-    <String List="2">
-      <Source>There are prophecies written in the writings of Shalidor, in the sundered libraries of the House Telvanni, on the lips of fishwives and old maids.</Source>
-      <Dest>预言已经在沙利德的笔记里被记录，在泰瓦尼家族的图书馆里被收藏，在老妇的口中被传唱。</Dest>
-    </String>
-    <String List="2">
-      <Source>The wasp would sting a caterpillar to paralyze it, and then proceed to inject its young into its body.</Source>
-      <Dest>黄蜂会叮咬毛虫让它们瘫痪，然后在它们身里产下自己的后代。</Dest>
-    </String>
-    <String List="2">
-      <Source>The caterpillar, you see, is like the Empire, fighting to protect the very Thalmor that eat it from the inside.</Source>
-      <Dest>一条毛虫，你看，它跟帝国一个样，为了保护自己从内部慢慢啃噬的梭默而战。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet I have no concern for the rumors and superstitions of peasants.  I am a mage.  That alone makes me misunderstood.</Source>
-      <Dest>然而谣言和农民的迷信同我没关系，只是单单令我被误解罢了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some believe that is my ultimate wish, to watch daylight die.</Source>
-      <Dest>有些人以为，我最大的心愿就是看到阳光熄灭。</Dest>
+    <String List="0">
+      <Source>Only an utter fool would deny himself such an opportunity.</Source>
+      <Dest>这样的机会只有傻瓜才会放弃。</Dest>
     </String>
     <String List="2">
       <Source>The only competition Brenil truly feared was the one in the mirror.  The mage he was expected to become.</Source>
       <Dest>布雷尼最大的敌人是他自己。他一直盼望着成为法师。</Dest>
     </String>
-    <String List="2">
-      <Source>The larvae would gain sustenance by eating their way out of the caterpillar.  However, the most remarkable part came when they exited its flesh.</Source>
-      <Dest>幼虫会从毛虫体内爬出，并靠吃它们的身体活的养分。然而最辉煌的时刻还是它们从肉体中爬出的时候。</Dest>
+    <String List="0">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
     </String>
     <String List="2">
-      <Source>Not quite.  It's true that as slavers, the name House Telvanni brought no shortage of vitriol from my scaly brethren.</Source>
-      <Dest>不全对。事实上作为奴隶贩子，豪斯·泰瓦尼从不缺少从我那些有鳞片的兄弟们那儿带来的嘲讽。</Dest>
+      <Source>Excellent.  Have a seat.</Source>
+      <Dest>好极了，请坐。</Dest>
+    </String>
+    <String List="0">
+      <Source>This wasp, I imagine its venom contained interesting alchemical properties.</Source>
+      <Dest>这只黄蜂。我在想它的毒液里含有什么有趣的炼金效果。</Dest>
     </String>
     <String List="2">
-      <Source>They tell of a great reckoning, the return of ancient magics, born to darkness and sworn to darkness. Powerful spells that can fell the day itself.</Source>
-      <Dest>他们说了一个伟大的计划，古老的魔法回归，生于黑暗死于黑暗，强大的力量能使世界陨落。</Dest>
+      <Source>Indeed.  Synthesized correctly and it could form a poison potent enough to bend the will of your worst enemy to your side.</Source>
+      <Dest>确实。正确调配的话就能做成足够强力的毒药，足以动摇你死敌的意志，让他站到你这边来。</Dest>
+    </String>
+    <String List="0">
+      <Source>This wasp, I imagine its venom contained interesting alchemical properties.</Source>
+      <Dest>这只黄蜂。我在想它的毒液里含有什么有趣的炼金效果。</Dest>
+    </String>
+    <String List="2">
+      <Source>An interesting find for an alchemist, but my interests and expertise were limited to the developing of magical enhancements.</Source>
+      <Dest>对于一名炼金术师而言，这是个有趣的发现。但我的兴趣和专长仅限于对魔法效果的发展。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to know a lot about me.</Source>
+      <Dest>你好像很了解我啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize.  I have you at a disadvantage.  It seems I know everything about you, and you nothing of me.</Source>
+      <Dest>我很抱歉。把你置于不利的境地。看来我对你的了解是相当全面，而你对我一无所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to know a lot about me.</Source>
+      <Dest>你好像很了解我啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should be used to it by now.  Your footprints are like craters, altering the very landscape of Skyrim.</Source>
+      <Dest>You should be used to it by now.  Your footprints are like craters, altering the very landscape of Skyrim.</Dest>
+    </String>
+    <String List="0">
+      <Source>Or Ulfric is the wasp, and the Nords defend that which threatens their safety.</Source>
+      <Dest>或许乌佛瑞克狼子野心，而诺德人却拥护那些威胁他们的安全的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed.  The parts are interchangeable, depending on where your loyalties lie, but remember that loyalty itself is but a tool to control others.</Source>
+      <Dest>同意。这部分是可以对换的，这取决于你忠于哪一方，但是要记住你的忠诚只是为了控制别人而使用的工具。</Dest>
+    </String>
+    <String List="0">
+      <Source>Or Ulfric is the wasp, and the Nords defend that which threatens their safety.</Source>
+      <Dest>或许乌佛瑞克狼子野心，而诺德人却拥护那些威胁他们的安全的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>So when I say the Thalmor are parasites, I do not mean it as an insult.  The caterpillar is not a victim.  It is simply the weaker of the two.</Source>
+      <Dest>所以当我说梭默是寄生虫的时候，我没有什么侮辱的意思。毛毛虫不是一个受害者，它只是比较脆弱而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>You accept dark mages into your guild?</Source>
+      <Dest>你允许暗法师加入你的公会了？</Dest>
+    </String>
+    <String List="2">
+      <Source>If they show promise, most certainly.  There are plenty of magical discoveries in history that have come from dark origins.</Source>
+      <Dest>如果他们有成功的希望，当然了。要知道历史上很多神奇的发现来自黑暗的起源。</Dest>
+    </String>
+    <String List="0">
+      <Source>You accept dark mages into your guild?</Source>
+      <Dest>你允许暗法师加入你的公会了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Spells are no different than beds, cottages, or chairs. They may be owned by those with dark intent, but who's to say how the next one will use them?</Source>
+      <Dest>Spells are no different than beds, cottages, or chairs. They may be owned by those with dark intent, but who's to say how the next one will use them?</Dest>
+    </String>
+    <String List="0">
+      <Source>You accept dark mages into your guild?</Source>
+      <Dest>你允许暗法师加入你的公会了？</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no finer example than your own existence, Dragonborn.  The dragon shout was meant to bind mortals into slavery.</Source>
+      <Dest>没有比你的存在更好的范例了，龙裔。这句吐目的效用是强迫凡人屈从于你。</Dest>
+    </String>
+    <String List="0">
+      <Source>You accept dark mages into your guild?</Source>
+      <Dest>你允许暗法师加入你的公会了？</Dest>
     </String>
     <String List="2">
       <Source>Now it is the very weapon that sends the dragons to extinction.  Would the world have been better off if dragons never spoke?  Maybe.</Source>
       <Dest>那么这就是那把可以将巨龙灭绝的强大武器了。如果没有巨龙的咆哮世界会不会变的美好一点？也许吧。</Dest>
     </String>
     <String List="0">
-      <Source>Sounds like a convenient excuse to do wicked things.</Source>
-      <Dest>听着像是干坏事的方便借口。</Dest>
+      <Source>You accept dark mages into your guild?</Source>
+      <Dest>你允许暗法师加入你的公会了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet you can see how ludicrous such a proposition would be. You can no more stop a mage from conducting research than a dragon from using its voice.</Source>
+      <Dest>但是你不觉得这么提议是多么荒谬吗？！就像无法让龙族闭嘴一样，你无法阻止法师们的魔法研究。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize, but I must ask you to leave.  There are matters which I must consider in private.  Perhaps another time.</Source>
+      <Dest>我很抱歉，但我必须要求你离开。有些事情我必须独自考虑。有机会的话，下次再来吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, a guest.  Please, sit down.  Rest your weary feet.</Source>
+      <Dest>啊，一个客人。快请坐下吧。让你疲乏的双脚放松一下。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please, sit.</Source>
+      <Dest>请坐。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've been expecting you.  You are the one who speaks the dragon tongue, are you not?  You've made quite a name for yourself across Skyrim.</Source>
+      <Dest>我一直在等你。 你就是那个龙佬腔是吧？现在你的事迹已经传遍天际省啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say you even roar like a dragon.  Breathe fire like a dragon.  Yet I can see the real fire is not on your breath, but in your eyes.</Source>
+      <Dest>甚至有人说你的咆哮声像一条巨龙。并且如龙般的喷出火焰。但我能看到，真正的火焰不在你的呼吸里，而是在你的眼中。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's that fire that allows you to hunt those that hunt the day.  And that is all any of us want.  One more day.</Source>
+      <Dest>正是这火焰让你猎杀了那些追赶时间的人。这也是我们每个人都想要的。再多一天。</Dest>
     </String>
     <String List="0">
-      <Source>Sounds like a convenient excuse to do wicked things.</Source>
-      <Dest>听着像是干坏事的方便借口。</Dest>
+      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
+      <Dest>陨灭的丧钟。 魔人。我发觉这并不是赞美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>No, although I must admit I found them flattering.  Such ominous names are typically reserved for those of myth and legend.</Source>
+      <Dest>没有，但我必须承认，我发现了他们的阿谀奉承。这种不祥的名字通常是留给那些神话和传说中的人物的。</Dest>
     </String>
     <String List="0">
-      <Source>You seem to have fond memories of those days.</Source>
-      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
+      <Dest>陨灭的丧钟。 魔人。我发觉这并不是赞美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I have no concern for the rumors and superstitions of peasants.  I am a mage.  That alone makes me misunderstood.</Source>
+      <Dest>然而谣言和农民的迷信同我没关系，只是单单令我被误解罢了。</Dest>
     </String>
     <String List="0">
-      <Source>You seem to have fond memories of those days.</Source>
-      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
+      <Dest>陨灭的丧钟。 魔人。我发觉这并不是赞美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>When The Radiant Dark strives toward new frontiers, pushes the limits of what is possible, there are those who will not understand.</Source>
+      <Dest>When The Radiant Dark strives toward new frontiers, pushes the limits of what is possible, there are those who will not understand.</Dest>
     </String>
     <String List="0">
-      <Source>You seem to have fond memories of those days.</Source>
-      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
+      <Dest>陨灭的丧钟。 魔人。我发觉这并不是赞美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Their ignorance turns to anger, and anger to violence.  The chairs start to wobble.  So they must be replaced.</Source>
+      <Dest>Their ignorance turns to anger, and anger to violence.  The chairs start to wobble.  So they must be replaced.</Dest>
     </String>
     <String List="0">
-      <Source>You seem to have fond memories of those days.</Source>
-      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+      <Source>Knells of Loss. Dremora. Something tells me those aren't compliments.</Source>
+      <Dest>陨灭的丧钟。 魔人。我发觉这并不是赞美。.</Dest>
+    </String>
+    <String List="2">
+      <Source>This is where their worst fears become prophecy.  For who better to test one's power upon, then those who interfere with its acquisition.</Source>
+      <Dest>这也就是他们那最深层次的恐惧变为预言的原因。那些力量越强的人就是被那力量所束缚的人。</Dest>
     </String>
     <String List="0">
-      <Source>You seem to have fond memories of those days.</Source>
-      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>After the eruption, I wandered around Tamriel for decades, and studied briefly with the master sorcerers in the Summerset Isle.</Source>
+      <Dest>在红山爆发后，我在泰姆瑞尔大陆游荡了数十年，然后在夏暮岛短暂地和大巫师们一同研究。</Dest>
     </String>
     <String List="0">
-      <Source>A band of rogue, power-hungry mages?  I've sided with worse.</Source>
-      <Dest>一群对力量极为渴望的法师恶棍？我的处境可真够糟的。</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>There I researched much about the nature of magic, the energies of Light and Dark, and sought to continue my studies in Cyrodiil.</Source>
+      <Dest>在那里，我对魔法的本质和光与暗的能量做了大量的研究，并想要继续在赛洛迪尔做深入的研究。</Dest>
     </String>
     <String List="0">
-      <Source>A band of rogue, power-hungry mages?  I've sided with worse.</Source>
-      <Dest>一群对力量极为渴望的法师恶棍？我的处境可真够糟的。</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I accepted a position as a professor in name only. I had no intention of instructing novices who were but intellectual minnows in a crowded pond.</Source>
+      <Dest>我只是名义上接受了这个教授的职位，我无意去教导这些没多少知识底蕴的初学者们。</Dest>
     </String>
     <String List="0">
-      <Source>What she lacks in tact she more than makes up for in beauty.</Source>
-      <Dest>她缺乏智慧，但是被她的美貌所弥补了。</Dest>
+      <Source>What happened in Cyrodiil?</Source>
+      <Dest>在赛瑞迪尔发生了什么?</Dest>
     </String>
     <String List="0">
-      <Source>What she lacks in tact she more than makes up for in beauty.</Source>
-      <Dest>她缺乏智慧，但是被她的美貌所弥补了。</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>That was how I met the ire of a Master Wizard.  Young, belligerent, staunchly idealistic, and incredibly powerful.</Source>
+      <Dest>我就是这样见识了魔法大师的愤怒。年轻，好战，奉行理想主义，并且强的难以置信。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What happened in Cyrodiil?</Source>
+      <Dest>在赛瑞迪尔发生了什么?</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Her belief was that our number one priority as a faculty was to educate the students.</Source>
+      <Dest>在她的脑子里我们这儿第一要务应该是培养学徒。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What happened in Cyrodiil?</Source>
+      <Dest>在赛瑞迪尔发生了什么?</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>When did you train at The Arcane University?</Source>
+      <Dest>你是何时在奥术大学里受训的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I told her she reminded me of an old friend from Tel Branora, a fool by the name of Brenil.  She told me that fool was her father.</Source>
+      <Dest>我跟她说她让我想起了一位泰尔·布伦诺拉的老朋友，名叫布伦尼尔的傻瓜。她告诉我那个傻瓜是她爸爸。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What happened in Cyrodiil?</Source>
+      <Dest>在赛瑞迪尔发生了什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Not quite.  It's true that as slavers, the name House Telvanni brought no shortage of vitriol from my scaly brethren.</Source>
+      <Dest>不全对。事实上作为奴隶贩子，豪斯·泰瓦尼从不缺少从我那些有鳞片的兄弟们那儿带来的嘲讽。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>Your association with House Telvanni explains why Argonians dislike you.</Source>
+      <Dest>你与泰尔瓦尼家族的结盟正是亚龙人不喜欢你的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>I earned my name, however, in my time in Black Marsh, long after the Argonians invaded Morrowind and laid waste to my former house.</Source>
+      <Dest>我已经获得我的名誉，不过，那是我在黑沼泽省的时候。那已经是亚龙人入侵晨风，毁掉我从前的房子的很久以后的事儿了。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>Your association with House Telvanni explains why Argonians dislike you.</Source>
+      <Dest>你与泰尔瓦尼家族的结盟正是亚龙人不喜欢你的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was looking to craft a better magicka potion, and there are many unique species in the swamps that have yet to be studied by alchemists.</Source>
+      <Dest>我打算制作点更好的魔法药水，而这片沼泽有很多特殊物种有待炼金术师研究药效啊。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>How did you earn the "Knells of Loss?"</Source>
+      <Dest>你是怎样搞到“陨灭丧钟"的?</Dest>
+    </String>
+    <String List="2">
+      <Source>Whenever someone asks me about my opinion on the Thalmor, I tell them of a parasitic wasp species I found north of Blackrose.</Source>
+      <Dest>每当有人问我怎么看待梭默的时候，我都会告诉他们，我在黑色玫瑰的北面发现了一种寄生蜂。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>How did you earn the "Knells of Loss?"</Source>
+      <Dest>你是怎样搞到“陨灭丧钟"的?</Dest>
+    </String>
+    <String List="2">
+      <Source>The wasp would sting a caterpillar to paralyze it, and then proceed to inject its young into its body.</Source>
+      <Dest>黄蜂会叮咬毛虫让它们瘫痪，然后在它们身里产下自己的后代。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What made this wasp so intriguing?</Source>
+      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>The larvae would gain sustenance by eating their way out of the caterpillar.  However, the most remarkable part came when they exited its flesh.</Source>
+      <Dest>幼虫会从毛虫体内爬出，并靠吃它们的身体活的养分。然而最辉煌的时刻还是它们从肉体中爬出的时候。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What made this wasp so intriguing?</Source>
+      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>The mother wasp's venom was such that the caterpillar would defend the larvae from predators as if they were its children.</Source>
+      <Dest>雌蜂的毒液会让毛毛虫对雌蜂的幼虫视如己出，不计后果的从捕食者口中保护它们。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
+      <Source>What made this wasp so intriguing?</Source>
+      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
+    </String>
+    <String List="2">
+      <Source>The caterpillar, you see, is like the Empire, fighting to protect the very Thalmor that eat it from the inside.</Source>
+      <Dest>一条毛虫，你看，它跟帝国一个样，为了保护将自己从内部慢慢啃噬的梭默而战。</Dest>
     </String>
     <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you the owner of this cottage?</Source>
-      <Dest>你是这间小屋的主人吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I don't want any part of your guild.</Source>
-      <Dest>我不想跟你的公会扯上一点关系。</Dest>
-    </String>
-    <String List="0">
-      <Source>Whatever side has the best food.  Also gold.</Source>
-      <Dest>无论是哪边，只要有最好的食物，和金币。</Dest>
-    </String>
-    <String List="0">
-      <Source>Whatever side has the best food.  Also gold.</Source>
-      <Dest>无论是哪边，只要有最好的食物，和金币。</Dest>
-    </String>
-    <String List="0">
-      <Source>How was he unconventional?</Source>
-      <Dest>他是如何标新立异的呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>How was he unconventional?</Source>
-      <Dest>他是如何标新立异的呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tel Branora was part of the House Telvanni, was it not?</Source>
-      <Dest>泰尔·布伦诺拉也是泰瓦尼家族的成员，不是吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tel Branora was part of the House Telvanni, was it not?</Source>
-      <Dest>泰尔·布伦诺拉也是泰瓦尼家族的成员，不是吗？</Dest>
+      <Source>What made this wasp so intriguing?</Source>
+      <Dest>是什么让这个黄蜂如此有趣的？ </Dest>
     </String>
     <String List="0">
       <Source>Young folks these days lack tact.</Source>
       <Dest>现在的年轻人都没什么脑筋了。</Dest>
     </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about The Radiant Dark.</Source>
-      <Dest>给我讲讲黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're saying ownership is temporary. Or meaningless.</Source>
-      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're saying ownership is temporary. Or meaningless.</Source>
-      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're saying ownership is temporary. Or meaningless.</Source>
-      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>You're saying ownership is temporary. Or meaningless.</Source>
-      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
-    </String>
-    <String List="0">
-      <Source>Somehow I don't think you're Drelas.</Source>
-      <Dest>有时候我真不觉着你是德雷拉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Somehow I don't think you're Drelas.</Source>
-      <Dest>有时候我真不觉着你是德雷拉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
-      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
-    </String>
-    <String List="0">
-      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
-      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
-    </String>
-    <String List="0">
-      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
-      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
-    </String>
-    <String List="0">
-      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
-      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
-    </String>
-    <String List="0">
-      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
-      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, the end justifies the means.</Source>
-      <Dest>换句话说，意义取决于最终结果。</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, the end justifies the means.</Source>
-      <Dest>换句话说，意义取决于最终结果。</Dest>
-    </String>
-    <String List="0">
-      <Source>In other words, the end justifies the means.</Source>
-      <Dest>换句话说，意义取决于最终结果。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes, the Great House Telvanni, known for their ambition, their magic, and their slaves.  Not always, of course, in that order.</Source>
-      <Dest>没错，伟大的特瓦尼家族以他们的野心，魔法和奴隶闻名。当然，实际上，排列的顺序也是那样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Undoubtedly so.  There are many in the guild whose motivations are unsavory.  Yet again, the motivations mean nothing.</Source>
-      <Dest>毫无疑问就是那样。很多公会成员的动机并不正当。不过还是得强调一遍，动机没有任何意义。</Dest>
-    </String>
-    <String List="2">
-      <Source>Thus her presence in our guild is appropriate.  The aim of the Radiant Dark is power, and few things are as honest.</Source>
-      <Dest>这么说来她在我们公会的出现就合理了。黑暗光辉的目标就是权力，没什么正经的东西。</Dest>
-    </String>
-    <String List="2">
-      <Source>May your travels be swift.</Source>
-      <Dest>你的旅行也许会很快。</Dest>
-    </String>
-    <String List="2">
-      <Source>Just as great poems have been inspired by love, so too has great magic been crafted from the seeds of hate, anger, and greed.</Source>
-      <Dest>就像爱情可以产生伟大的诗篇一样，憎恨、贪婪和愤怒也能催生伟大的魔法。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Lord of Tel Branora, however, has always been an unconventional wizard.</Source>
-      <Dest>不过泰尔·布伦诺拉的领主一直是个不守规矩的魔法师。</Dest>
-    </String>
-    <String List="2">
-      <Source>The rust-colored banners, the coastal breeze, the tower roots coiled around spears of rock, the gate set like a wooden eye on a monstrous squid.</Source>
-      <Dest>这锈色的横幅，轻柔的海风，高塔被巨石环绕，大门看起来就像大王乌贼的一只木头眼睛。</Dest>
-    </String>
-    <String List="2">
-      <Source>I dreamt of the twin moons devouring the sun to flood the land in an endless night.</Source>
-      <Dest>我梦见双月凌空吞没旭日，大地在那永无止境的夜中被洪水所淹没。</Dest>
-    </String>
-    <String List="2">
-      <Source>Over the years as my body grew, my eyes adjusted more and more to the darkness, and his face began to take form.</Source>
-      <Dest>随着年龄的增长，我的眼睛逐渐适应了黑暗，他那张脸也在我眼中逐渐成形。</Dest>
-    </String>
-    <String List="2">
-      <Source>The Argonians called me Knells-of-Loss, and that became Nelos.  Some thought I was a Dremora, and perhaps the name Drelas is a conflation of both.</Source>
-      <Dest>那个亚龙人叫我陨灭丧钟，那很纳洛斯。有些人认为我是个魔人，或许德雷拉这个名字兼具了两者的意思。</Dest>
-    </String>
-    <String List="2">
-      <Source>It mattered not if you were an usurper, a Khajiit, or an Argonian, or a member of the very Mages Guild the Telvanni despised.</Source>
-      <Dest>不管你是一个篡位者，一个虎人，一个蜥蜴人，还是被提尔维尼家族鄙视的魔法公会的一员，都不重要。</Dest>
-    </String>
     <String List="2">
       <Source>I am inclined to agree.  At the same time, I have no quarrel with those who lack it.</Source>
       <Dest>基本上就是那样。不过，我觉得那也无可厚非。</Dest>
     </String>
-    <String List="2">
-      <Source>The items in this cottage are helpless to choose their master. They are slave to whoever has the power to use them.</Source>
-      <Dest>似乎是这样的，不是吗？这间屋子的主人应该是个叫德雷拉的黑暗精灵。我怎么看都觉得是他。</Dest>
+    <String List="0">
+      <Source>Whatever side has the best food.  Also gold.</Source>
+      <Dest>无论是哪边，只要有最好的食物，和金币。</Dest>
     </String>
     <String List="2">
-      <Source>I am disappointed to hear such words, but I am grateful for your honesty.</Source>
-      <Dest>这样的消息让我很失望，不过我很感激你的坦诚。</Dest>
+      <Source>An excellent philosophy to have.  One that will never betray you, so long as you know how to count.</Source>
+      <Dest>真是不错的处世哲学。只要你知道如何对付他，一个人就永远不会背叛你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Whatever side has the best food.  Also gold.</Source>
+      <Dest>无论是哪边，只要有最好的食物，和金币。</Dest>
     </String>
     <String List="2">
-      <Source>In fact, whatever criteria the Mage Lord did use seemed to make little sense at all.</Source>
-      <Dest>事实上，不管首席法师是怎么做的，看起来似乎确实起了一些作用。</Dest>
+      <Source>Then again, not all things need be bought with gold.  Power is its own currency.  Remember that when I call upon your service.</Source>
+      <Dest>还有，不是所有的东西都需要用钱买。力量是它自己的硬通货。当我召唤你的服侍的时候记住这一点。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
+      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
     </String>
     <String List="2">
-      <Source>You would do well to keep your distance, lest she stick to you like a tongue on a frozen chest plate.</Source>
-      <Dest>你最好保持好距离，免得她老以为你喜欢热脸贴上冷胸甲。</Dest>
+      <Source>She insists on calling me such, as if it were a pet name, not knowing the burden it carries.</Source>
+      <Dest>She insists on calling me such, as if it were a pet name, not knowing the burden it carries.</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
+      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
     </String>
     <String List="2">
-      <Source>Good or evil, light or dark, intent only concerns itself with the immediate, when such consequences are as fleeting as tears in the rain.</Source>
-      <Dest>善与恶，光与暗，若是存在目的，那就会像雨中的泪水一般稍纵即逝，仅能对其匆匆一瞥观测到它们的表面罢了。</Dest>
+      <Source>The girl is as honest as the void itself, with her feelings and her tongue.</Source>
+      <Dest>这姑娘如虚空本身一般坦诚，她的情感和言语亦是如此。</Dest>
     </String>
-    <String List="2">
-      <Source>The tide of shadow rises from east and west, and there I stand in the middle, no older than a boy.</Source>
-      <Dest>阴影的浪潮于东西两面汹涌的向我扑来，我就站在中间，不比一个男孩儿大多少。</Dest>
-    </String>
-    <String List="2">
-      <Source>The old mages believed that magic was a fundamental force in our world, one whose energies could reflect brightly, or darkly.</Source>
-      <Dest>老法师们相信魔力是我们这个世界的原力，是反映光，或者暗的力量。</Dest>
-    </String>
-    <String List="2">
-      <Source>The old mages believed that magic was a fundamental force in our world, one whose energies could reflect brightly, or darkly.</Source>
-      <Dest>老法师们相信魔力是我们这个世界的原力，是反映光，或者暗的力量。</Dest>
+    <String List="0">
+      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
+      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
     </String>
     <String List="2">
       <Source>Such truth can be an asset when the lies gather around you like dust on an untidy soul.</Source>
       <Dest>当谎言像蒙在一具不纯净的灵魂上的尘埃一样缠在你身边时，这样的事实是会很有用的。</Dest>
     </String>
-    <String List="2">
-      <Source>The Radiant Dark does not care about intent.  It is a guild founded on the principle of advancement.  Progress.  Power.</Source>
-      <Dest>黑暗光辉不在乎目的。这是一个以前进为宗旨建立的公会。进步。力量。</Dest>
+    <String List="0">
+      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
+      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
     </String>
     <String List="2">
-      <Source>Safe journeys.</Source>
-      <Dest>一路顺风！</Dest>
+      <Source>Thus her presence in our guild is appropriate.  The aim of the Radiant Dark is power, and few things are as honest.</Source>
+      <Dest>这么说来她在我们公会的出现就合理了。黑暗光辉的目标就是权力，没什么正经的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos. I know that name. You're Gilsi's master.</Source>
+      <Dest>纳洛斯，久仰大名！你是歌尔西的老师吧！.</Dest>
     </String>
     <String List="2">
-      <Source>The bed is owned by the one who sleeps in it.  The enchanting table is subject to the whim of the crafter.</Source>
-      <Dest>谁睡在上面，床就属于谁。而附魔桌应该属于附魔师的奇思妙想。</Dest>
+      <Source>Yet it is not enough to pursue power.  One must exert it.   There is no point in crafting a fire scroll if there is nothing to burn.</Source>
+      <Dest>然而仅仅追求力量是不够的，人必须学会使用，无物可燃而想制作火焰卷轴那是天方夜谭。</Dest>
+    </String>
+    <String List="0">
+      <Source>Somehow I don't think you're Drelas.</Source>
+      <Dest>有时候我真不觉着你是德雷拉斯。</Dest>
     </String>
     <String List="2">
-      <Source>The plates, the chairs, the books, the tables, none of these are bound to a specific person.</Source>
-      <Dest>盘子，椅子，书本，桌子，这些东西不非得是专属于某人的。</Dest>
+      <Source>Normally I would say that was a strange query, but in this land there is nothing unique about the living dead.</Source>
+      <Dest>通常我会说那是个奇怪的问题，但在这片土地上，活死人一点儿也不稀奇。</Dest>
+    </String>
+    <String List="0">
+      <Source>Somehow I don't think you're Drelas.</Source>
+      <Dest>有时候我真不觉着你是德雷拉斯。</Dest>
     </String>
     <String List="2">
       <Source>Yet I assure you Dragonborn, I am no corpse, and if you were to slay me here, my body would grow cold, and the worms would feast for days.</Source>
       <Dest>但我向你保证，龙裔，我不是具尸体。如果你在这儿杀了我，我的躯体会变冷，而那些蛆虫就有口福了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What she lacks in tact she more than makes up for in beauty.</Source>
+      <Dest>她缺乏智慧，但是被她的美貌所弥补了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The girl is chiseled out of ice, and while her mouth burns with fire, her soul is withdrawn and cold.</Source>
+      <Dest>The girl is chiseled out of ice, and while her mouth burns with fire, her soul is withdrawn and cold.</Dest>
+    </String>
+    <String List="0">
+      <Source>What she lacks in tact she more than makes up for in beauty.</Source>
+      <Dest>她缺乏智慧，但是被她的美貌所弥补了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You would do well to keep your distance, lest she stick to you like a tongue on a frozen chest plate.</Source>
+      <Dest>你最好保持好距离，免得她老以为你喜欢热脸贴上冷胸甲。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't want any part of your guild.</Source>
+      <Dest>我不想要你的公会的任何部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>I am disappointed to hear such words, but I am grateful for your honesty.</Source>
+      <Dest>这样的消息让我很失望，不过我很感激你的坦诚。</Dest>
+    </String>
+    <String List="0">
+      <Source>How was he unconventional?</Source>
+      <Dest>他是如何标新立异的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>It mattered not if you were an usurper, a Khajiit, or an Argonian, or a member of the very Mages Guild the Telvanni despised.</Source>
+      <Dest>不管你是一个篡位者，一个虎人，一个蜥蜴人，还是被提尔维尼家族鄙视的魔法公会的一员，都不重要。</Dest>
+    </String>
+    <String List="0">
+      <Source>How was he unconventional?</Source>
+      <Dest>他是如何标新立异的呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, whatever criteria the Mage Lord did use seemed to make little sense at all.</Source>
+      <Dest>事实上，不管首席法师是怎么做的，看起来似乎确实起了一些作用。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have fond memories of those days.</Source>
+      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I still remember the day I stood at the bridge to Tel Branora.</Source>
+      <Dest>我还记得那天我站在泰尔·布伦诺拉的桥上。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have fond memories of those days.</Source>
+      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>The rust-colored banners, the coastal breeze, the tower roots coiled around spears of rock, the gate set like a wooden eye on a monstrous squid.</Source>
+      <Dest>这锈色的横幅，轻柔的海风，高塔被巨石环绕，大门看起来就像大王乌贼的一只木头眼睛。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have fond memories of those days.</Source>
+      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>All of it like a painting drawn on the surface of my skull.  This was to be my tower, my coastal retreat at the edge of the world.</Source>
+      <Dest>这就好像是一幅画在我的头骨上的画作。这本来应当是我的塔楼，我位于世界边缘的海边理想乡。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have fond memories of those days.</Source>
+      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Most of the Mage Lords on the Council would have turned away one such as I, for fear of my ambition.  </Source>
+      <Dest>议会上的大多数法师领主都会对像我这样的人避而远之，因为他们惧怕我的野心。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have fond memories of those days.</Source>
+      <Dest>看上去你很喜欢回忆那些日子。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Lord of Tel Branora, however, has always been an unconventional wizard.</Source>
+      <Dest>不过泰尔·布伦诺拉的领主一直是个不守规矩的魔法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Branora was part of the House Telvanni, was it not?</Source>
+      <Dest>泰尔·布伦诺拉也是泰尔瓦尼家族的成员，不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, the Great House Telvanni, known for their ambition, their magic, and their slaves.  Not always, of course, in that order.</Source>
+      <Dest>没错，伟大的泰尔瓦尼家族以他们的野心，魔法和奴隶闻名。当然，实际上，并不一直如此。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tel Branora was part of the House Telvanni, was it not?</Source>
+      <Dest>泰尔·布伦诺拉也是泰尔瓦尼家族的成员，不是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was also a house full of iconoclasts, of both the beautiful and the damned, the elegant and profane.  For me, it was a perfect fit.</Source>
+      <Dest>那个家族满是敢于打破常规的家伙，美丽与诅咒，优雅与亵渎并存。对我来说，适合至极。</Dest>
+    </String>
+    <String List="0">
+      <Source>A band of rogue, power-hungry mages?  I've sided with worse.</Source>
+      <Dest>一群对力量极为渴望的法师恶棍？我的处境可真够糟的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You follow your own code then.  Assess each situation as it arrives, knowing not which way the wind blows, but eddying in its breath.</Source>
+      <Dest>那么你就遵循自己的法则。考虑各种情况的出现，不仅要了解风往哪边吹，漩涡的迹象也要考虑到。</Dest>
+    </String>
+    <String List="0">
+      <Source>A band of rogue, power-hungry mages?  I've sided with worse.</Source>
+      <Dest>一群对力量极为渴望的法师恶棍？我的处境可真够糟的。</Dest>
     </String>
     <String List="2">
       <Source>I will take your answer then to be as firm as a sellsword's oath.  A mage who will follow us only as far as your whims take you.</Source>
       <Dest>我需要你的回答犹如佣兵的誓言一般坚韧。法师只会因为你的想法而跟随我们。</Dest>
     </String>
     <String List="2">
-      <Source>To understand the objective of our guild, you must first understand the principles of Light and Dark magic itself.</Source>
-      <Dest>想要了解我们公会的目标，你必须首先了解光明与黑暗魔法本身的原理。</Dest>
+      <Source>Darkness may rule the day, but tomorrow such a spell could help thousands of sick and wounded.</Source>
+      <Dest>黑暗或许会统治大地，但是明天，对于数以千计的弱者伤残而言，永远是一剂良药。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, the end justifies the means.</Source>
+      <Dest>换句话说，意义取决于最终结果。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good or evil, light or dark, intent only concerns itself with the immediate, when such consequences are as fleeting as tears in the rain.</Source>
+      <Dest>善与恶，光与暗，若是存在目的，那就会像雨中的泪水一般稍纵即逝，仅能对其匆匆一瞥观测到它们的表面罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, the end justifies the means.</Source>
+      <Dest>换句话说，意义取决于最终结果。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Radiant Dark does not care about intent.  It is a guild founded on the principle of advancement.  Progress.  Power.</Source>
+      <Dest>黑暗光辉不在乎目的。这是一个以前进为宗旨建立的公会。进步。力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, the end justifies the means.</Source>
+      <Dest>换句话说，意义取决于最终结果。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're saying ownership is temporary. Or meaningless.</Source>
+      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>The items in this cottage are helpless to choose their master. They are slave to whoever has the power to use them.</Source>
+      <Dest>似乎是这样的，不是吗？这间屋子的主人应该是个叫德雷拉的黑暗精灵。我怎么看都觉得是他。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're saying ownership is temporary. Or meaningless.</Source>
+      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>Among strangers, names are no different.  They are a piece of clothing.  They can be worn, borrowed, and in some cases, seized.</Source>
+      <Dest>Among strangers, names are no different.  They are a piece of clothing.  They can be worn, borrowed, and in some cases, seized.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're saying ownership is temporary. Or meaningless.</Source>
+      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>In my life I have borrowed many names, and taken countless others.  The Ashlanders knew me as Neloth-Shalal.</Source>
+      <Dest>盘子，椅子，书，桌子，这些东西都没有特定的主人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're saying ownership is temporary. Or meaningless.</Source>
+      <Dest>你是说所有权是暂时的。或许毫无意义。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Argonians called me Knells-of-Loss, and that became Nelos.  Some thought I was a Dremora, and perhaps the name Drelas is a conflation of both.</Source>
+      <Dest>那些亚龙人叫我陨灭丧钟，于是陨灭丧钟就代替了纳洛斯。有些人认为我是个魔人，或许德瑞拉斯这个名字两者兼备。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It would seem so, would it not?  This cottage is owned by a Dunmer named Drelas. I am by all appearances he.</Source>
+      <Dest>看起来是这样的，不是吗？这间小屋的主人是一个名叫德瑞拉斯的黑暗精灵。表面看来，我就是他。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, names are such tenuous things, and faces even more so.  Who is to say I am Drelas?</Source>
+      <Dest>当然了，名字是个靠不住的东西，而长相更靠不住。谁能说我就是德瑞拉斯呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The plates, the chairs, the books, the tables, none of these are bound to a specific person.</Source>
+      <Dest>盘子，椅子，书本，桌子，这些东西不非得是专属于某人的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The bed is owned by the one who sleeps in it.  The enchanting table is subject to the whim of the crafter.</Source>
+      <Dest>谁睡在上面，床就属于谁。而附魔桌应该属于附魔师的奇思妙想。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
     </String>
     <String List="2">
       <Source>To understand the objective of our guild, you must first understand the principles of Light and Dark magic itself.</Source>
       <Dest>想要了解我们公会的目标，你必须首先了解光明与黑暗魔法本身的原理。</Dest>
     </String>
-    <String List="2">
-      <Source>Normally I would say that was a strange query, but in this land there is nothing unique about the living dead.</Source>
-      <Dest>通常我会说那是个奇怪的问题，但在这片土地上，活死人一点儿也不稀奇。</Dest>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
     </String>
     <String List="2">
-      <Source>You follow your own code then.  Assess each situation as it arrives, knowing not which way the wind blows, but eddying in its breath.</Source>
-      <Dest>那么你就遵循自己的法则。考虑各种情况的出现，不仅要了解风往哪边吹，漩涡的迹象也要考虑到。</Dest>
+      <Source>The old mages believed that magic was a fundamental force in our world, one whose energies could reflect brightly, or darkly.</Source>
+      <Dest>老法师们相信魔力是我们这个世界的原力，是反映光，或者暗的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
     </String>
     <String List="2">
-      <Source>All of it like a painting drawn on the surface of my skull.  This was to be my tower, my coastal retreat at the edge of the world.</Source>
-      <Dest>这就好像是一幅画在我的头骨上的画作。这本来应当是我的塔楼，我位于世界边缘的海边理想乡。</Dest>
+      <Source>Yet a spell by itself has no alignment.  Flames warm as easily as they burn.  Intent is the determining factor.</Source>
+      <Dest>但法术本身只是工具而已。火焰法术既能供人取暖也能把人烧成灰。使用者的意图才是起决定作用的因素。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now consider the crafting of a new spell. Do the same rules apply?  Should we condemn those who research magic based on their intent?</Source>
+      <Dest>现在如果制作一个新咒语还是用一样的法则么。我们用不用咨询一下那些潜心研究魔法的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Should breakthrough restoration research be suspended if the mage intends to use it for torture?</Source>
+      <Dest>要是有法师试图用回复系法术来辅助刑罚，是不是应该终止这种研究呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>To understand the objective of our guild, you must first understand the principles of Light and Dark magic itself.</Source>
+      <Dest>想要了解我们公会的目标，你必须首先了解光明与黑暗魔法本身的原理。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The old mages believed that magic was a fundamental force in our world, one whose energies could reflect brightly, or darkly.</Source>
+      <Dest>老法师们相信魔力是我们这个世界的原力，是反映光，或者暗的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet a spell by itself has no alignment.  Flames warm as easily as they burn.  Intent is the determining factor.</Source>
+      <Dest>但法术本身只是工具而已。火焰法术既能供人取暖也能把人烧成灰。使用者的意图才是起决定作用的因素。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now consider the crafting of a new spell. Do the same rules apply?  Should we condemn those who research magic based on their intent?</Source>
+      <Dest>现在如果制作一个新咒语还是用一样的法则么。我们用不用咨询一下那些潜心研究魔法的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you the owner of this cottage?</Source>
+      <Dest>你是这间小屋的主人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Should breakthrough restoration research be suspended if the mage intends to use it for torture?</Source>
+      <Dest>要是有法师试图用回复系法术来辅助刑罚，是不是应该终止这种研究呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about The Radiant Dark.</Source>
+      <Dest>给我讲讲黑暗光辉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a convenient excuse to do wicked things.</Source>
+      <Dest>听着像是干坏事的方便借口。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly so.  There are many in the guild whose motivations are unsavory.  Yet again, the motivations mean nothing.</Source>
+      <Dest>毫无疑问就是那样。很多公会成员的动机并不正当。不过还是得强调一遍，动机没有任何意义。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a convenient excuse to do wicked things.</Source>
+      <Dest>听着像是干坏事的方便借口。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as great poems have been inspired by love, so too has great magic been crafted from the seeds of hate, anger, and greed.</Source>
+      <Dest>就像爱情可以产生伟大的诗篇一样，憎恨、贪婪和愤怒也能催生伟大的魔法。</Dest>
+    </String>
+    <String List="2">
+      <Source>Over the years as my body grew, my eyes adjusted more and more to the darkness, and his face began to take form.</Source>
+      <Dest>随着年龄的增长，我的眼睛逐渐适应了黑暗，他那张脸也在我眼中逐渐成形。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until one night I dreamt and his face was as clear as day.  And then I knew the true meaning of destiny.</Source>
+      <Dest>直到一天晚上我梦到了他，就像白天一样我能很清楚的看到他的脸。自此之后我就明白了命运真正的含义。</Dest>
     </String>
     <String List="2">
       <Source>Of the Long Night that is all I can say.  All I will say.  The rest will come in time.</Source>
       <Dest>一切皆在长夜之中。这就是我能说的一切，也是我要说的一切。其余的部分终将到来。</Dest>
     </String>
     <String List="2">
-      <Source>In my life I have borrowed many names, and taken countless others.  The Ashlanders knew me as Neloth-Shalal.</Source>
-      <Dest>盘子，椅子，书，桌子，这些东西都没有特定的主人。</Dest>
-    </String>
-    <String List="2">
-      <Source>The girl is as honest as the void itself, with her feelings and her tongue.</Source>
-      <Dest>这姑娘如虚空本身一般坦诚，她的情感和言语亦是如此。</Dest>
-    </String>
-    <String List="2">
-      <Source>It was also a house full of iconoclasts, of both the beautiful and the damned, the elegant and profane.  For me, it was a perfect fit.</Source>
-      <Dest>那还是一间满是反传统人士的房子，有美有丑，有雅有俗。对我来说，完美适合。</Dest>
-    </String>
-    <String List="2">
-      <Source>Darkness may rule the day, but tomorrow such a spell could help thousands of sick and wounded.</Source>
-      <Dest>黑暗或许会统治大地，但是明天，对于数以千计的弱者伤残而言，永远是一剂良药。</Dest>
-    </String>
-    <String List="2">
-      <Source>Should breakthrough restoration research be suspended if the mage intends to use it for torture?</Source>
-      <Dest>要是有法师试图用回复系法术来辅助刑罚，是不是应该终止这种研究呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Should breakthrough restoration research be suspended if the mage intends to use it for torture?</Source>
-      <Dest>要是有法师试图用回复系法术来辅助刑罚，是不是应该终止这种研究呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course, names are such tenuous things, and faces even more so.  Who is to say I am Drelas?</Source>
-      <Dest>当然了，名字是个靠不住的东西，而长相更靠不住。谁能说我就是德雷拉呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>It would seem so, would it not?  This cottage is owned by a Dunmer named Drelas. I am by all appearances he.</Source>
-      <Dest>看起来是这样的，不是吗？这间小屋的主人是一个名叫德雷拉的黑暗精灵。表面看来，我就是他。</Dest>
-    </String>
-    <String List="2">
-      <Source>I still remember the day I stood at the bridge to Tel Branora.</Source>
-      <Dest>我还记得那天我站在泰尔·布伦诺拉的桥上。</Dest>
-    </String>
-    <String List="2">
-      <Source>An excellent philosophy to have.  One that will never betray you, so long as you know how to count.</Source>
-      <Dest>真是不错的处世哲学。只要你知道如何对付他，一个人就永远不会背叛你。</Dest>
-    </String>
-    <String List="2">
-      <Source>I look to the south, to the sun, where only a thin hourglass of light remains.  Below it, there stands a person, and behind him stands an army.</Source>
-      <Dest>我举目南眺，望向太阳，那里只剩下了丝丝光芒。在那之下，立着一个人，而在他身后立着一支军队。</Dest>
-    </String>
-    <String List="2">
-      <Source>Most of the Mage Lords on the Council would have turned away one such as I, for fear of my ambition.  </Source>
-      <Dest>议会上的大多数法师领主都会对像我这样的人避而远之，因为他们惧怕我的野心。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now consider the crafting of a new spell. Do the same rules apply?  Should we condemn those who research magic based on their intent?</Source>
-      <Dest>现在如果制作一个新咒语还是用一样的法则么。我们用不用咨询一下那些潜心研究魔法的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now consider the crafting of a new spell. Do the same rules apply?  Should we condemn those who research magic based on their intent?</Source>
-      <Dest>现在如果制作一个新咒语还是用一样的法则么。我们用不用咨询一下那些潜心研究魔法的人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet it is not enough to pursue power.  One must exert it.   There is no point in crafting a fire scroll if there is nothing to burn.</Source>
-      <Dest>然而仅仅追求力量是不够的，人必须学会使用，无物可燃而想制作火焰卷轴那是天方夜谭。</Dest>
-    </String>
-    <String List="2">
-      <Source>Then again, not all things need be bought with gold.  Power is its own currency.  Remember that when I call upon your service.</Source>
-      <Dest>还有，不是所有的东西都需要用钱买。力量是它自己的硬通货。当我召唤你的服侍的时候记住这一点。</Dest>
-    </String>
-    <String List="2">
-      <Source>Until one night I dreamt and his face was as clear as day.  And then I knew the true meaning of destiny.</Source>
-      <Dest>直到一天晚上我梦到了他，就像白天一样我能很清楚的看到他的脸。自此之后我就明白了命运真正的含义。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interesting.  Tell me about them.</Source>
-      <Dest>有趣。给我讲讲他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>The prophecy of the Long Night.  The one you spoke of at the cottage.</Source>
-      <Dest>《长夜之谶》。你在小屋里提及的那首诗。</Dest>
-    </String>
-    <String List="0">
-      <Source>It's obviously affecting your decision making.</Source>
-      <Dest>这会对你的抉择产生很明显的影响。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've come here to hear your side.  We'll see whether I take it.</Source>
-      <Dest>我来这儿是为了听你的意见的。看看我是不是能接受。</Dest>
-    </String>
-    <String List="0">
-      <Source>What prophecy do you speak of?</Source>
-      <Dest>你在说什么寓言？</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why were you after Vanus' research?</Source>
-      <Dest>你为什么追随万纳斯的研究？?</Dest>
-    </String>
-    <String List="0">
-      <Source>What happens now?</Source>
-      <Dest>接下来呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happens now?</Source>
-      <Dest>接下来呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>What happens now?</Source>
-      <Dest>接下来呢？</Dest>
-    </String>
-    <String List="0">
-      <Source>How about I throw you into the fire and see if that fixes it?</Source>
-      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
-    </String>
-    <String List="0">
-      <Source>How about I throw you into the fire and see if that fixes it?</Source>
-      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
-    </String>
-    <String List="0">
-      <Source>How about I throw you into the fire and see if that fixes it?</Source>
-      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
-    </String>
-    <String List="0">
-      <Source>If Vinnius is worried, I imagine Gilsi must be terrified.</Source>
-      <Dest>如果明尼尔斯是在担心，我猜歌尔西一定被吓坏了。</Dest>
-    </String>
-    <String List="0">
-      <Source>That's enough conversation for now. What is it you want from me?</Source>
-      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's enough conversation for now. What is it you want from me?</Source>
-      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's enough conversation for now. What is it you want from me?</Source>
-      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>That's enough conversation for now. What is it you want from me?</Source>
-      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>A bit of quiet contemplation is good for the soul.</Source>
-      <Dest>冥想有利于灵魂。</Dest>
-    </String>
-    <String List="0">
-      <Source>A bit of quiet contemplation is good for the soul.</Source>
-      <Dest>冥想有利于灵魂。</Dest>
-    </String>
-    <String List="0">
-      <Source>A bit of quiet contemplation is good for the soul.</Source>
-      <Dest>冥想有利于灵魂。</Dest>
-    </String>
-    <String List="0">
-      <Source>At the cottage, you told me the dream of your childhood, but not the others.</Source>
-      <Dest>在那个小房子里的时候，你告诉我的是你童年的梦想，而不是其他人的。</Dest>
-    </String>
-    <String List="0">
-      <Source>At the cottage, you told me the dream of your childhood, but not the others.</Source>
-      <Dest>在那个小房子里的时候，你告诉我的是你童年的梦想，而不是其他人的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
-      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
-      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
-      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
-      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>I want to return to my earlier questions.</Source>
-      <Dest>我想回到我刚才的问题。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Olivia mentioned you and her father were close.</Source>
-      <Dest>奥莉薇雅亚说过你跟她父亲走得很近。</Dest>
-    </String>
-    <String List="0">
-      <Source>Of course.</Source>
-      <Dest>当然。</Dest>
-    </String>
-    <String List="0">
-      <Source>He was just another faceless stranger.  But he was important to Olivia.</Source>
-      <Dest>他就是一个大众脸的陌生人。可他对于奥莉薇雅很重要。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just curious what happened to him, is all.</Source>
-      <Dest>我仅仅是好奇他身上发生了什么。</Dest>
-    </String>
-    <String List="0">
-      <Source>Just curious what happened to him, is all.</Source>
-      <Dest>我仅仅是好奇他身上发生了什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yes.  The one that haunts my nights, and fuels my days.  My destiny.  But come, let us speak of such matters in private.</Source>
-      <Dest>是的。我余下的日子里每晚都将被困扰，这是我的命运。可否让我们私下谈谈这些事。</Dest>
-    </String>
-    <String List="2">
-      <Source>Farewell.</Source>
-      <Dest>再会。</Dest>
-    </String>
-    <String List="2">
-      <Source>Welcome.</Source>
-      <Dest>欢迎。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now, you must have questions.  As you are a guest, I will answer what I can before I make my request.</Source>
-      <Dest>你一定有问题问我吧。因为你是客人，我先尽量回答你的问题，然后再说我的事。</Dest>
+      <Source>I am accosted every night by dreams.  Visions.  It began when I was a child, living in the canalworks of Vivec City and followed me to Tel Branora.</Source>
+      <Dest>每一晚，我都被梦，幻象所打扰。这状况始于当我孩童时期，当时我还住在维瓦克城的运河边，而后又伴随我到了泰尔布伦诺拉。</Dest>
     </String>
     <String List="2">
       <Source>I dreamt of the twin moons devouring the sun to flood the land in an endless night.</Source>
       <Dest>我梦见双月凌空吞没旭日，大地在那永无止境的夜中被洪水所淹没。</Dest>
     </String>
     <String List="2">
-      <Source>Your responses are measured, Dragonborn.  Good.  We will speak at length, but not here.  Come, let us find somewhere more private.</Source>
-      <Dest>你的回答令人满意，龙裔。非常好，我们可以进行一次长谈，但是不在这儿。来，我们去更私密的地方。</Dest>
-    </String>
-    <String List="2">
       <Source>The tide of shadow rises from east and west, and there I stand in the middle, no older than a boy.</Source>
       <Dest>阴影的浪潮于东西两面汹涌的向我扑来，我就站在中间，不比一个男孩儿大多少。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not affecting. Guiding. Since I was a child, this has been my destiny. My dreams have only been preparing me for the worst of it.</Source>
-      <Dest>不是影响，是引导。从我小时候起，就一直是我的命运。我所有的梦都是为了让我做好最坏的准备。</Dest>
-    </String>
-    <String List="2">
-      <Source>In the Radiant Dark, we do not acknowledge one's race or creed.  Membership comes from power, and power alone.</Source>
-      <Dest>在黑暗光辉，我们不会承认一个人的种族或信仰。会员资格来源于力量，只来自力量。 </Dest>
-    </String>
-    <String List="2">
-      <Source>No. Power is the mechanism of progress.  Just as a classroom moves at the pace of its poorest student, so is knowledge impeded by those who are weak.</Source>
-      <Dest>不。力量才是进步的途径。就像是一节课的进度跟着最差的学生走那样，知识的进步是被那些弱者阻碍的。</Dest>
-    </String>
-    <String List="2">
-      <Source>The birth pangs of progress, but I suffer them nonetheless.  It is a burden I am willing to bear.  No, one I must overcome.</Source>
-      <Dest>虽知创业之难,但我心依旧。这是我自己愿意承担的责任。不，我必须克服万难。</Dest>
-    </String>
-    <String List="2">
-      <Source>You will either come here to deliver the spells to the Radiant Dark, or use them to destroy it.  That decision I leave to you.</Source>
-      <Dest>你到这里来既可能是想把这些法术交给黑暗光辉的，也可能是想用魔法来毁灭它。我会让你来做出决定。</Dest>
-    </String>
-    <String List="2">
-      <Source>Vinnius thinks I should dispose of him.  The Imperial means well, but sometimes I wonder if he understands the purpose of this guild.</Source>
-      <Dest>明尼尔斯认为我应该处理掉他。我想这个帝国人是出于好心，但有些时候我怀疑他是不是能理解这个公会存在的目的到底是什么。</Dest>
-    </String>
-    <String List="2">
-      <Source>Strength can take many forms.  Vinnius possesses no magical skill, but he has a high understanding of one's character.</Source>
-      <Dest>所谓的力量能以多种形式展现。明尼尔斯并没有任何魔法技能，但他却在掌握别人的性格方面独具天赋。</Dest>
-    </String>
-    <String List="2">
-      <Source>I ask nothing of you.  You will no doubt return to Olivia, and tell her of our conversation.</Source>
-      <Dest>我没什么要求你的。毫无疑问你会回到奥莉薇雅身边，告诉她我们的谈话。</Dest>
-    </String>
-    <String List="2">
-      <Source>There is no knowledge to be gleaned from what is fundamental.</Source>
-      <Dest>这么简单的道理没必要深究。</Dest>
-    </String>
-    <String List="2">
-      <Source>Brenil and I were indeed close.  Childhood friends in Tel Branora. </Source>
-      <Dest>布伦尼尔和我确实很亲近。我们是在泰尔·布伦诺拉的儿时的朋友。</Dest>
-    </String>
-    <String List="2">
-      <Source>That is how she is.  Always telling you just enough to move forward, always leaving you in the dark.</Source>
-      <Dest>这就是她。总告诉你只需前进就已足够，总是把你留在黑暗中。</Dest>
-    </String>
-    <String List="2">
-      <Source>But the Imperial means well.  He fashions himself my steward, when I have insisted from the beginning there are no titles in this guild.</Source>
-      <Dest>但是帝国是很有手段的。他把自己当成我的宫廷大臣，那时我坚称这个行业里我们没钱赚。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hail.</Source>
-      <Dest>万岁。</Dest>
-    </String>
-    <String List="2">
-      <Source>Over the years as my body grew, my eyes adjusted more and more to the darkness, and his face became to take form.</Source>
-      <Dest>多年来随着我身体的成长，我的眼睛也越来越适应黑暗，而他的面容也渐渐变得清晰。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wealth beyond measure.</Source>
-      <Dest>无法估量的财富。</Dest>
-    </String>
-    <String List="2">
-      <Source>It did not end well for him.  But all friendships wither, no matter how strong, and all men die, no matter how brave.  We must...move forward.</Source>
-      <Dest>他的下场并不好，无论羁绊多深，它总是会消逝的，无论多勇敢，人总会辞世。我们必须……继续前行。.</Dest>
-    </String>
-    <String List="2">
-      <Source>Come, let us talk in private.</Source>
-      <Dest>来吧，我们私底下谈谈。</Dest>
-    </String>
-    <String List="2">
-      <Source>In truth, we seek only 5 relics.  It is my lifelong pursuit, and the culmination of my existence.  Five spells to usher in the Long Night.</Source>
-      <Dest>事实上，我们只找到了五座遗迹。但那是我终身的事业，是我本身存在的巅峰。那是五个引导漫漫长夜的明灯。</Dest>
-    </String>
-    <String List="2">
-      <Source>Undoubtedly, she will ask for your assistance.  You will then be presented with a choice.</Source>
-      <Dest>毫无疑问，她会找你帮忙。到时候你就有得选择了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Now...my work is finished.  I have set you on this path of destiny so that you, and you alone, may usher a new dawn.  </Source>
-      <Dest>我的工作完成了。我已经将你置于命运的道路上，你，并且只有你一个人，将会迎来新的曙光。</Dest>
-    </String>
-    <String List="2">
-      <Source>Gilsi and Offryn are the opposite.  They are raw energy and potential.   And Eldawyn draws her power from depths that even I do not comprehend.</Source>
-      <Dest>歌尔西和奥弗朗是对手。他们是原始的能量和潜力。艾德雯她的力量来自深渊，那种力量即使我也不能理解。</Dest>
-    </String>
-    <String List="2">
-      <Source>Greetings.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>The others...they are the events that come after.  Death.  Violence.  Screams.  </Source>
-      <Dest>其他的...都是随之而来的事件。死亡，暴力，惨叫声。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet ultimately, Vanus himself  never finished the spells.  They are merely an outline.  Which is why we must retrieve them.</Source>
-      <Dest>可是最终，万纳斯自己一直没能完成那些法术。只有个大致的轮廓。所以我们必须把它们夺回来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet ultimately, Vanus himself  never finished the spells.  They are merely an outline.  Which is why we must retrieve them.</Source>
-      <Dest>可是最终，万纳斯自己一直没能完成那些法术。只有个大致的轮廓。所以我们必须把它们夺回来。</Dest>
-    </String>
-    <String List="2">
-      <Source>As for me, my long, arduous night, is finally over.</Source>
-      <Dest>对于我来说，那漫长而又艰辛的夜，终于结束了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I couldn't have said it better myself.  Unfortunately, it requires even more lingual acrobatics to dance around Vinnius' disapproving stare.</Source>
-      <Dest>我以前从没做得这么好。不幸的是，要在明尼尔斯挑剔的眼光下获得认可，口齿还要再伶俐一些。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) You think like Gerrod.  He believes the only way to end war is to make war.  To make a fire hot enough to burn away the flames.</Source>
-      <Dest>（笑声） 你想问题和杰瑞真像。他相信要结束战争的唯一方式是挑起战争。就好比为了让火烧得更旺把火苗扑灭。</Dest>
-    </String>
-    <String List="2">
-      <Source>I mentioned at the cottage that our guild is in search of relics of power.  It implied we share the same goals as the Synod.</Source>
-      <Dest>我所提到的那个小屋是我们公会寻找圣迹之力时所处之地。这也暗示着我们与希诺有着共同的目标。</Dest>
-    </String>
-    <String List="2">
-      <Source>You seek answers for questions that are meaningless.  The weak die because they are weak.</Source>
-      <Dest>你所寻求的答案都是没有意义的。那些弱者死了是因为他们太弱了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.</Source>
-      <Dest>当然了。</Dest>
     </String>
     <String List="2">
       <Source>I look to the south, to the sun, where only a thin hourglass of light remains.  Below it, there stands a person, and behind him stands an army.</Source>
       <Dest>我举目南眺，望向太阳，那里只剩下了丝丝光芒。在那之下，立着一个人，而在他身后立着一支军队。</Dest>
     </String>
     <String List="2">
-      <Source>Yes...close.  She hasn't told you, has she?  It doesn't surprise me.</Source>
-      <Dest>是的……很近。她以前没跟你说过，对吧？这并不让我觉得意外。</Dest>
+      <Source>Safe journeys.</Source>
+      <Dest>一路顺风！</Dest>
     </String>
     <String List="2">
-      <Source>Her coming to Skyrim has nothing to do with Vanus' research, or whatever altruistic reasons she has given.  For her, this has always been personal.</Source>
-      <Dest>不管是万纳斯的研究还是她给出的无私理由，都与她来天际省没关系。对她来说，这是她自己的事。</Dest>
+      <Source>May your travels be swift.</Source>
+      <Dest>你的旅行也许会很快。</Dest>
     </String>
     <String List="2">
-      <Source>It is done.  May she find peace at her father's side.</Source>
-      <Dest>完成了。希望她能在她父亲那里找到安宁。</Dest>
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wealth beyond measure.</Source>
+      <Dest>无法估量的财富。</Dest>
     </String>
     <String List="2">
       <Source>Azura watch over you.</Source>
       <Dest>阿祖拉注视着你。</Dest>
     </String>
     <String List="2">
-      <Source>The prophecy of the Long Night.   My destiny.  But come, let us speak of such matters in private.</Source>
-      <Dest>漫漫长夜的预言.我的命运。但过来，我们应该私下谈论这些。</Dest>
+      <Source>Hail.</Source>
+      <Dest>你好啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome.</Source>
+      <Dest>欢迎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>If Vinnius is worried, I imagine Gilsi must be terrified.</Source>
+      <Dest>如果维尼乌斯是在担心，我猜歌尔西一定被吓坏了。</Dest>
     </String>
     <String List="2">
       <Source>(Laughs) The girl is blind to my frailties.  The Dunmer she knows as Nelos is an invincible god.  She does not worry about that which she cannot see.</Source>
       <Dest>(笑声) 那女孩看不见我的缺点。她所知道的暗精灵都是像纳洛斯一样所向披靡的神。她并不在意那些她看不到的东西。</Dest>
     </String>
     <String List="2">
-      <Source>For you see, the face in my vision, the one standing before an army...It has always been yours.</Source>
-      <Dest>你看，这些脸对我来说，就像是一整支军队前面的一个……即使那一直是你的脸。</Dest>
+      <Source>I am accosted every night by dreams.  Visions.  It began when I was a child, living in the canalworks of Vivec City and followed me to Tel Branora.</Source>
+      <Dest>每一晚，我都被梦，幻象所打扰。这状况始于当我孩童时期，当时我还住在维瓦克城的运河边，而后又伴随我到了泰尔布伦诺拉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I dreamt of the twin moons devouring the sun to flood the land in an endless night.</Source>
+      <Dest>我梦见双月凌空吞没旭日，大地在那永无止境的夜中被洪水所淹没。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The tide of shadow rises from east and west, and there I stand in the middle, no older than a boy.</Source>
+      <Dest>阴影的浪潮于东西两面汹涌的向我扑来，我就站在中间，不比一个男孩儿大多少。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>I look to the south, to the sun, where only a thin hourglass of light remains.  Below it, there stands a person, and behind him stands an army.</Source>
+      <Dest>我举目南眺，望向太阳，那里只剩下了丝丝光芒。在那之下，立着一个人，而在他身后立着一支军队。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>Over the years as my body grew, my eyes adjusted more and more to the darkness, and his face became to take form.</Source>
+      <Dest>多年来随着我身体的成长，我的眼睛也越来越适应黑暗，而他的面容也渐渐变得清晰。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  Tell me about them.</Source>
+      <Dest>有趣。给我讲讲他们。</Dest>
     </String>
     <String List="2">
       <Source>Until one night I dreamt and his face was as clear as day.  And then I knew the true meaning of destiny.</Source>
       <Dest>直到一天晚上我梦到了他，就像白天一样我能很清楚的看到他的脸。自此之后我就明白了命运真正的含义。</Dest>
     </String>
+    <String List="0">
+      <Source>At the cottage, you told me the dream of your childhood, but not the others.</Source>
+      <Dest>在那个小房子里的时候，你告诉我的是你童年的梦想，而不是其他人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The others...they are the events that come after.  Death.  Violence.  Screams.  </Source>
+      <Dest>其他的……都是随之而来的事件。死亡，暴力，惨叫。</Dest>
+    </String>
+    <String List="0">
+      <Source>At the cottage, you told me the dream of your childhood, but not the others.</Source>
+      <Dest>在那个小房子里的时候，你告诉我的是你童年的梦想，而不是其他人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>The birth pangs of progress, but I suffer them nonetheless.  It is a burden I am willing to bear.  No, one I must overcome.</Source>
+      <Dest>进步会产生阵阵痛苦，但我甘愿忍受。这是我自己愿意承担的责任。不，我必须克服万难。</Dest>
+    </String>
+    <String List="0">
+      <Source>He was just another faceless stranger.  But he was important to Olivia.</Source>
+      <Dest>他就是一个大众脸的陌生人。可他对于奥莉薇雅很重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine he was. She cared about her students, even the ones who had little potential.  Like father, like daughter.</Source>
+      <Dest>I imagine he was. She cared about her students, even the ones who had little potential.  Like father, like daughter.</Dest>
+    </String>
+    <String List="0">
+      <Source>How about I throw you into the fire and see if that fixes it?</Source>
+      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) You think like Gerrod.  He believes the only way to end war is to make war.  To make a fire hot enough to burn away the flames.</Source>
+      <Dest>（笑声） 你想问题和杰瑞真像。他相信要结束战争的唯一方式是挑起战争。就好比为了让火烧得更旺把火苗扑灭。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about I throw you into the fire and see if that fixes it?</Source>
+      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vinnius thinks I should dispose of him.  The Imperial means well, but sometimes I wonder if he understands the purpose of this guild.</Source>
+      <Dest> 维尼乌斯认为我应该处理掉他。我想这个帝国人是出于好心，但有些时候我怀疑他是不是能理解这个公会存在的目的到底是什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about I throw you into the fire and see if that fixes it?</Source>
+      <Dest>不如我把你扔进火里，然后看看你会不会自己修好。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the Radiant Dark, we do not acknowledge one's race or creed.  Membership comes from power, and power alone.</Source>
+      <Dest>在黑暗光辉，我们不会承认一个人的种族或信仰。会员资格来源于力量，只来自力量。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Just curious what happened to him, is all.</Source>
+      <Dest>我仅仅是好奇他身上发生了什么。.</Dest>
+    </String>
+    <String List="2">
+      <Source>You seek answers for questions that are meaningless.  The weak die because they are weak.</Source>
+      <Dest>你所寻求的答案都是没有意义的。那些弱者死了是因为他们太弱了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just curious what happened to him, is all.</Source>
+      <Dest>我仅仅是好奇他身上发生了什么。.</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no knowledge to be gleaned from what is fundamental.</Source>
+      <Dest>这么简单的道理没必要深究。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to return to my earlier questions.</Source>
+      <Dest>我想回到我刚才的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.</Source>
+      <Dest>当然。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.</Source>
+      <Dest>当然了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
+      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Power is the mechanism of progress.  Just as a classroom moves at the pace of its poorest student, so is knowledge impeded by those who are weak.</Source>
+      <Dest>不。力量才是进步的途径。就像是一节课的进度跟着最差的学生走那样，知识的进步是被那些弱者阻碍的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
+      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Strength can take many forms.  Vinnius possesses no magical skill, but he has a high understanding of one's character.</Source>
+      <Dest>所谓的力量能以多种形式展现。 维尼乌斯并没有任何魔法技能，但他却在掌握别人的性格方面独具天赋。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
+      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Gilsi and Offryn are the opposite.  They are raw energy and potential.   And Eldawyn draws her power from depths that even I do not comprehend.</Source>
+      <Dest>歌尔西和欧芙芳是对手。他们是原始的能量和潜力。艾德雯她的力量来自深渊，那种力量即使我也不能理解。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is power the ultimate goal of the Radiant Dark?</Source>
+      <Dest>黑暗光辉的最终目标是权利吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I encourage you to speak with them all individually, so you may form your own opinion.</Source>
+      <Dest>Yet I encourage you to speak with them all individually, so you may form your own opinion.</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes...close.  She hasn't told you, has she?  It doesn't surprise me.</Source>
+      <Dest>是的……很近。她以前没跟你说过，对吧？这并不让我觉得意外。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is how she is.  Always telling you just enough to move forward, always leaving you in the dark.</Source>
+      <Dest>这就是她。总告诉你只需前进就已足够，总是把你留在黑暗中。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
+    </String>
+    <String List="2">
+      <Source>Her coming to Skyrim has nothing to do with Vanus' research, or whatever altruistic reasons she has given.  For her, this has always been personal.</Source>
+      <Dest>不管是万纳斯的研究还是她给出的无私理由，都与她来天际省没关系。对她来说，这是她自己的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
+    </String>
+    <String List="2">
+      <Source>Brenil and I were indeed close.  Childhood friends in Tel Branora. </Source>
+      <Dest>布雷尼和我确实很亲近。我们是在泰尔‧布伦诺拉一起长大的朋友。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
+    </String>
     <String List="2">
       <Source>But when I left the Arcane University to form the Radiant Dark, he pursued me, much to the chagrin of his only daughter.</Source>
-      <Dest>但是当我离开魔法学院去黑光时，他却追踪我，显得比他那个女儿还委屈。</Dest>
+      <Dest>但是当我离开魔法学院，开始创建黑暗光辉的时候，他却缠着我不放，这让他唯一的女儿懊恼极了。</Dest>
     </String>
     <String List="0">
-      <Source>How will war and strife create a dawn of magic?</Source>
-      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
-    </String>
-    <String List="0">
-      <Source>How will war and strife create a dawn of magic?</Source>
-      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
-    </String>
-    <String List="0">
-      <Source>How will war and strife create a dawn of magic?</Source>
-      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
-    </String>
-    <String List="0">
-      <Source>How will war and strife create a dawn of magic?</Source>
-      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
-    </String>
-    <String List="0">
-      <Source>How will war and strife create a dawn of magic?</Source>
-      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you know about the spells?</Source>
-      <Dest>对于这个法术你了解多少？</Dest>
-    </String>
-    <String List="0">
-      <Source>No, don't get up.  I prefer to kill you on your throne.</Source>
-      <Dest>得了，不用站起来了，我更喜欢把你弄死在你的王座上。</Dest>
-    </String>
-    <String List="0">
-      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
-      <Dest>他是个朋友。我们一起的时间虽然短暂,但是我不会忘记的。他也不会。</Dest>
-    </String>
-    <String List="0">
-      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
-      <Dest>他是个朋友。我们一起的时间虽然短暂,但是我不会忘记的。他也不会。</Dest>
-    </String>
-    <String List="0">
-      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
-      <Dest>他是个朋友。我们一起的时间虽然短暂,但是我不会忘记的。他也不会。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are the two afflictions in any way related?</Source>
-      <Dest>这两种灾难有任何联系吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are the two afflictions in any way related?</Source>
-      <Dest>这两种灾难有任何联系吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Sounds like you have vampirism.</Source>
-      <Dest>听起来你想敲诈。</Dest>
-    </String>
-    <String List="0">
-      <Source>Sounds like you have vampirism.</Source>
-      <Dest>听起来你想敲诈。</Dest>
-    </String>
-    <String List="0">
-      <Source>Sounds like you have vampirism.</Source>
-      <Dest>听起来你想敲诈。</Dest>
-    </String>
-    <String List="0">
-      <Source>Sounds like you have vampirism.</Source>
-      <Dest>听起来你想敲诈。</Dest>
-    </String>
-    <String List="0">
-      <Source>The others seem concerned for you.</Source>
-      <Dest>大家都很关心你.</Dest>
-    </String>
-    <String List="0">
-      <Source>The others seem concerned for you.</Source>
-      <Dest>大家都很关心你.</Dest>
-    </String>
-    <String List="0">
-      <Source>The others seem concerned for you.</Source>
-      <Dest>大家都很关心你.</Dest>
-    </String>
-    <String List="0">
-      <Source>The others seem concerned for you.</Source>
-      <Dest>大家都很关心你.</Dest>
-    </String>
-    <String List="0">
-      <Source>What will happen if the research stays at Winterhold?</Source>
-      <Dest>如果继续呆在冬堡研究将会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What will happen if the research stays at Winterhold?</Source>
-      <Dest>如果继续呆在冬堡研究将会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What will happen if the research stays at Winterhold?</Source>
-      <Dest>如果继续呆在冬堡研究将会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What will happen if the research stays at Winterhold?</Source>
-      <Dest>如果继续呆在冬堡研究将会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>What will happen if the research stays at Winterhold?</Source>
-      <Dest>如果继续呆在冬堡研究将会怎样？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the Long Night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the Long Night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the Long Night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>I will never stand beside you.  I come for vengeance.</Source>
-      <Dest>我不会站在你那一边。我要的是复仇。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the long night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the long night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me about the long night.</Source>
-      <Dest>请告诉我关于”长夜“的事情。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait, so the Long Night is just a metaphor?</Source>
-      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait, so the Long Night is just a metaphor?</Source>
-      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait, so the Long Night is just a metaphor?</Source>
-      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait, so the Long Night is just a metaphor?</Source>
-      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
-    </String>
-    <String List="0">
-      <Source>A warm body and warm mead always helps me sleep at night.</Source>
-      <Dest>在夜里，温暖的胴体和热乎乎的蜜酒总能催我入眠。</Dest>
-    </String>
-    <String List="0">
-      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
-      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
-    </String>
-    <String List="0">
-      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
-      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
-    </String>
-    <String List="0">
-      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
-      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've come to join the Radiant Dark.</Source>
-      <Dest>我到这来加入黑暗光辉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Jadro'Ra's death. It was you, wasn't it.</Source>
-      <Dest>是你杀了贾卓拉，是不是？</Dest>
-    </String>
-    <String List="0">
-      <Source>What was that argument about?</Source>
-      <Dest>那场争辩是为了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What was that argument about?</Source>
-      <Dest>那场争辩是为了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What was that argument about?</Source>
-      <Dest>那场争辩是为了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>I understand.  This is war.  There are casualties.  Take you, for example.</Source>
-      <Dest>我理解，这是战争，有所缘由，比如，你。</Dest>
-    </String>
-    <String List="0">
-      <Source>I understand.  This is war.  There are casualties.  Take you, for example.</Source>
-      <Dest>我理解，这是战争，有所缘由，比如，你。</Dest>
-    </String>
-    <String List="0">
-      <Source>This Hall is full of darkness and dust.</Source>
-      <Dest>这个大厅满是灰尘和黑暗。</Dest>
-    </String>
-    <String List="0">
-      <Source>This Hall is full of darkness and dust.</Source>
-      <Dest>这个大厅满是灰尘和黑暗。</Dest>
-    </String>
-    <String List="0">
-      <Source>This Hall is full of darkness and dust.</Source>
-      <Dest>这个大厅满是灰尘和黑暗。</Dest>
-    </String>
-    <String List="0">
-      <Source>This Hall is full of darkness and dust.</Source>
-      <Dest>这个大厅满是灰尘和黑暗。</Dest>
+      <Source>Olivia mentioned you and her father were close.</Source>
+      <Dest>奥利维亚说过你跟她父亲走得很近。</Dest>
     </String>
     <String List="2">
-      <Source>Do you believe in the old adage, the hour is darkest before the dawn?</Source>
-      <Dest>你相信古老的谚语吗, 黎明之前的时刻是最黑暗的？</Dest>
+      <Source>It did not end well for him.  But all friendships wither, no matter how strong, and all men die, no matter how brave.  We must...move forward.</Source>
+      <Dest>他的下场并不好，无论羁绊多深，它总是会消逝的，无论多勇敢，人总会辞世。我们必须……继续前行。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I've come here to hear your side.  We'll see whether I take it.</Source>
+      <Dest>我来这儿是为了听你的意见的。看看我是不是能接受。</Dest>
     </String>
     <String List="2">
-      <Source>Yes. It is a weakness of mine. As the night of reckoning approaches, I seem to grow more and more weary of the light.</Source>
-      <Dest>没错。那是我的弱点。到了要算总账的那个晚上，我似乎也就变得越来越讨厌光了。</Dest>
+      <Source>Your responses are measured, Dragonborn.  Good.  We will speak at length, but not here.  Come, let us find somewhere more private.</Source>
+      <Dest>你的回答令人满意，龙裔。非常好，我们可以进行一次长谈，但是不在这儿。来，我们去更私密的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>A bit of quiet contemplation is good for the soul.</Source>
+      <Dest>冥想有利于灵魂。</Dest>
     </String>
     <String List="2">
-      <Source>In my youth, I used to couch myself by fires like this, watching the dance of flames as they guided me off to sleep.</Source>
-      <Dest>在我年轻时，我常常像这样躺卧在篝火边，看着跳动的火焰，让它们领我进入梦乡。</Dest>
+      <Source>I couldn't have said it better myself.  Unfortunately, it requires even more lingual acrobatics to dance around Vinnius' disapproving stare.</Source>
+      <Dest>我以前从没做得这么好。不幸的是，要在 维尼乌斯挑剔的眼光下获得认可，口齿还要再伶俐一些。</Dest>
     </String>
-    <String List="2">
-      <Source>Some were awe inspiring.  For instance, a conjuration spell to raise all the dead in Tamriel.</Source>
-      <Dest>一些是令人敬畏的。举个例子，一个召唤技能会提高泰姆瑞尔大陆的死亡率。</Dest>
-    </String>
-    <String List="2">
-      <Source>Some were awe inspiring.  For instance, a conjuration spell to raise all the dead in Tamriel.</Source>
-      <Dest>一些是令人敬畏的。举个例子，一个召唤技能会提高泰姆瑞尔大陆的死亡率。</Dest>
-    </String>
-    <String List="2">
-      <Source>Think of how the crafters harnessed the power of fire.  There are those who made cloaks, and those who made storms.</Source>
-      <Dest>想象一下那些驾驭火的力量的行家们是怎么做的。有些人专注于火焰斗篷，有些人则专注于火焰风暴。</Dest>
-    </String>
-    <String List="2">
-      <Source>But time is not measured by the hour.  Some nights are longer than others, even when they are not.</Source>
-      <Dest>时间可不是以时钟来衡量的。有些夜晚就是过得比平时更漫长，即使不是真的长夜。</Dest>
-    </String>
-    <String List="2">
-      <Source>If the weak have a place in this world, it is through service.</Source>
-      <Dest>如果弱者在这世界上有立足之地，那也是通过服务来保有的。</Dest>
-    </String>
-    <String List="2">
-      <Source>But to cast a curtain upon the world, one needs an army of darkness.  Vanus' spells will bring it to us.</Source>
-      <Dest>但是要想统治整个世界，那需要一整支黑暗军队。万纳斯的魔法会把它们带到我们面前。</Dest>
-    </String>
-    <String List="2">
-      <Source>But my favorite...well...Do you by chance remember the story I told you of the parasitic wasp of Blackrose?</Source>
-      <Dest>不过，我的最爱...好吧...你是否还能记起我告诉过你的那个关于黑玫瑰的寄生蜂的故事？</Dest>
-    </String>
-    <String List="2">
-      <Source>I have not ruled it out.  There are many diseases of the body that are rooted in the mind.</Source>
-      <Dest>我没有排除这种可能。很多时候，病由心生。</Dest>
-    </String>
-    <String List="2">
-      <Source>(Laughs) No, not exactly.  It is a prophecy.  Two moons eclipsing the sun.  In truth, it may only last an instant.</Source>
-      <Dest>(笑声)不，不完全是。这是一个预言。双月蔽日。事实上，那可能只有短短的一瞬间。 </Dest>
-    </String>
-    <String List="2">
-      <Source>That is what I strive for, a world where walls are torn down, where power reigns, and from it, knowledge blossoms.</Source>
-      <Dest>那就是我奋斗的目标，一个没有争斗的世界，人民当家做主，知识进步。</Dest>
-    </String>
-    <String List="2">
-      <Source>Still, there will come a dawn, Dragonborn, as there always has, since the beginning of time.  But enough of about prophecies.  Welcome.</Source>
-      <Dest>然而，黎明终会到来，在这一切的开端之时就已有预言，龙裔就是世界的拯救者。但预言什么的已经说够了。欢迎。</Dest>
-    </String>
-    <String List="2">
-      <Source>Your enthusiasm is appreciated, Dragonborn, but there will be time to discuss that later.  Come, let us speak in private.</Source>
-      <Dest>热情可嘉，龙裔，但还是晚点儿再讨论吧。来吧，让我们私下谈。</Dest>
-    </String>
-    <String List="2">
-      <Source>And the second moon rose to take its throne beside the first, and together they eclipsed the sun, and the night reigned forevermore.</Source>
-      <Dest>第二个月亮升起并与第一个月亮一起君临天下，太阳在它们的淫威下黯然失色，世界被永恒的黑夜所统治。</Dest>
-    </String>
-    <String List="2">
-      <Source>Vengeance is it?  The question is, for whom?  But come, let us speak of such matters in private.  </Source>
-      <Dest>这是个复仇吗？但问题是，这是谁的复仇？但先换个私人的地方，再谈论这个问题。</Dest>
-    </String>
-    <String List="2">
-      <Source>There is a difference between a long night and an eternal one.  Still, what you and I consider dawn may be opposing ideals.</Source>
-      <Dest>漫漫长夜和永恒长夜二者有很大区别。不过，我们所考虑的或许与黎明守卫的理想相反。</Dest>
-    </String>
-    <String List="2">
-      <Source>Yet your words are filled with anger.  Be careful you do not follow in Olivia's footsteps.</Source>
-      <Dest>虽然你的话语充满了愤怒。但是小心别步了奥利维亚的后尘。</Dest>
-    </String>
-    <String List="2">
-      <Source>As such, I have not slept for ages.  The light wears on my body, but the dreams...the nightmares as Vinnius calls them...wear on my mind.  </Source>
-      <Dest>因此因此，我已经好久没睡了。光线磨损我的身体，而梦……就像明尼尔斯称呼他们梦魇……磨损我的精神。  </Dest>
-    </String>
-    <String List="2">
-      <Source>Was he a friend?  If so, then nothing I will say will make amends.  Nor should have I to.</Source>
-      <Dest>他是朋友吗？如果是，我也不会说什么，覆水难收，我也不应该说。</Dest>
+    <String List="0">
+      <Source>A bit of quiet contemplation is good for the soul.</Source>
+      <Dest>冥想有利于灵魂。</Dest>
     </String>
     <String List="2">
       <Source>But the Imperial means well.  He fashions himself my steward, when I have insisted from the beginning there are no titles in this guild.</Source>
       <Dest>但是帝国是很有手段的。他把自己当成我的宫廷大臣，那时我坚称这个行业里我们没钱赚。</Dest>
     </String>
-    <String List="2">
-      <Source>But I choose not to waste my time on that which is temporary. Just as my afflictions guide me toward the night, so will the dawn grant me my freedom.</Source>
-      <Dest>但我并不打算把时间浪费在这些必不能长久的东西上。我所受的苦痛将我引入黑夜，一如深暗后的黎明将予我以自由。</Dest>
+    <String List="0">
+      <Source>A bit of quiet contemplation is good for the soul.</Source>
+      <Dest>冥想有利于灵魂。</Dest>
     </String>
     <String List="2">
-      <Source>Still, I can't help but find myself driven to old habits.  I come here every night.  To read, to bask, or merely to sit.  Despite Vinnius' protests.</Source>
-      <Dest>然而，我发现自己不由自主地回到老毛病上来，我每个晚上都会回到此地。看看书、烤烤火、亦或仅仅是坐一会儿。不顾明尼尔斯的反对。</Dest>
+      <Source>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Source>
+      <Dest>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough conversation for now. What is it you want from me?</Source>
+      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
     </String>
     <String List="2">
-      <Source>Every night I am plagued by dreams.  The vividness of which makes it hard to distinguish between this reality and that one.</Source>
-      <Dest>每天晚上我都忍受着梦境的拷问。它是如此的栩栩如生，以致于我难以将现实和梦境区分开来。</Dest>
+      <Source>I ask nothing of you.  You will no doubt return to Olivia, and tell her of our conversation.</Source>
+      <Dest>我没什么要求你的。毫无疑问你会回到奥莉薇雅身边，告诉她我们的谈话。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough conversation for now. What is it you want from me?</Source>
+      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
     </String>
     <String List="2">
-      <Source>Although Vinnius has not given up hope that there may be some connection.  He is nothing if not stubborn.</Source>
-      <Dest>即使明尼尔斯还坚持这可能有什么关系。可他除了倔脾气就什么都没有了。</Dest>
+      <Source>At which point, she will develop Vanus' spells, and hope to use them to enact her vengeance. </Source>
+      <Dest>At which point, she will develop Vanus' spells, and hope to use them to enact her vengeance. </Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough conversation for now. What is it you want from me?</Source>
+      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
     </String>
     <String List="2">
-      <Source>All the while our understanding of nature, of how both illness and alchemy work, becomes greater as a result.</Source>
-      <Dest>这段时间我们对于自然的理解，尤其是疾病和炼金的原理，变得越来越多。</Dest>
+      <Source>Undoubtedly, she will ask for your assistance.  You will then be presented with a choice.</Source>
+      <Dest>毫无疑问，她会找你帮忙。到时候你就有得选择了。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough conversation for now. What is it you want from me?</Source>
+      <Dest>现在，对话时间结束了，你想从我这里得到什么？</Dest>
     </String>
     <String List="2">
-      <Source>Others you appreciated for their efficiency.  Spells whose genius is not apparent by the level of destruction, but by the conservation of magicka.</Source>
-      <Dest>其他人你要评价他们的效率。真正有天赋的施法者不是靠毁灭的强度来辨别，而是通过对魔力的掌控来看出的。</Dest>
+      <Source>You will either come here to deliver the spells to the Radiant Dark, or use them to destroy it.  That decision I leave to you.</Source>
+      <Dest>你到这里来既可能是想把这些法术交给黑暗光辉的，也可能是想用魔法来毁灭它。我会让你来做出决定。</Dest>
     </String>
     <String List="2">
-      <Source>Others you appreciated for their efficiency.  Spells whose genius is not apparent by the level of destruction, but by the conservation of magicka.</Source>
-      <Dest>其他人你要评价他们的效率。真正有天赋的施法者不是靠毁灭的强度来辨别，而是通过对魔力的掌控来看出的。</Dest>
+      <Source>It is done.  May she find peace at her father's side.</Source>
+      <Dest>结束了。希望她能在她父亲那里找到安宁。</Dest>
     </String>
     <String List="2">
-      <Source>If it were so, the cure would be rather simple.  Unfortunately, I have exhausted all avenues in terms of the night-walker's disease.</Source>
-      <Dest>如果确实如此的话，治疗上应该相当简单。不幸的是，就吸血热而言我已经用尽了所有办法却是白费力气。</Dest>
+      <Source>Come, let us talk in private.</Source>
+      <Dest>来吧，我们私底下谈谈。</Dest>
     </String>
     <String List="2">
-      <Source>I am confident she will be able to develop the spells.  Her lack of direction, however, will cripple their efficacy.</Source>
-      <Dest>我相信她一定可以提高自己的技能的。无论如何，她所缺少的自信会成为成功路上的绊脚石。</Dest>
+      <Source>Now, you must have questions.  As you are a guest, I will answer what I can before I make my request.</Source>
+      <Dest>你一定有问题问我吧。因为你是客人，我先尽量回答你的问题，然后再说我的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's obviously affecting your decision making.</Source>
+      <Dest>这会对你的抉择产生很明显的影响。</Dest>
     </String>
     <String List="2">
-      <Source>You may mourn his loss, but it was something he was prepared for.  As all of us who stand on the brink of the end.</Source>
-      <Dest>你可能哀悼他的逝去，但有些东西他已准备好了，那边是在他的最后时刻站在他身边的我们。</Dest>
+      <Source>Not affecting. Guiding. Since I was a child, this has been my destiny. My dreams have only been preparing me for the worst of it.</Source>
+      <Dest>不是影响，是引导。从我小时候起，就一直是我的命运。我所有的梦都是为了让我做好最坏的准备。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
     </String>
     <String List="2">
-      <Source>I apologize that you had to witness that.  Vinnius worries about my health.  It is not enough that the light eats away at my soul.</Source>
-      <Dest>我很抱歉让你目睹那事.明尼尔斯担心我的健康.但黎明守卫想要侵蚀掉我的灵魂还早着呢！</Dest>
+      <Source>I mentioned at the cottage that our guild is in search of relics of power.  It implied we share the same goals as the Synod.</Source>
+      <Dest>我所提到的那个小屋是我们公会寻找圣迹之力时所处之地。这也暗示着我们与希诺有着共同的目标。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
     </String>
     <String List="2">
-      <Source>And some spells you appreciate for sentimental reasons.</Source>
-      <Dest>而有些魔法，你会因为感性原因而感激它。</Dest>
+      <Source>In truth, we seek only 5 relics.  It is my lifelong pursuit, and the culmination of my existence.  Five spells to usher in the Long Night.</Source>
+      <Dest>事实上，我们只找到了五座遗迹。但那是我终身的事业，是我本身存在的巅峰。那是五个引导漫漫长夜的明灯。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet ultimately, Vanus himself  never finished the spells.  They are merely an outline.  Which is why we must retrieve them.</Source>
+      <Dest>可是最终，万纳斯自己一直没能完成那些法术。只有个大致的轮廓。所以我们必须把它们夺回来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as a destiny of a child is molded by her parents, so too is the fate of these spells reliant on the one who crafts them.</Source>
+      <Dest>Just as a destiny of a child is molded by her parents, so too is the fate of these spells reliant on the one who crafts them.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
+    </String>
+    <String List="2">
+      <Source>It is my lifelong pursuit, and the culmination of my existence.  The five spells will serve as the catalyst for the Long Night.</Source>
+      <Dest>It is my lifelong pursuit, and the culmination of my existence.  The five spells will serve as the catalyst for the Long Night.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet ultimately, Vanus himself  never finished the spells.  They are merely an outline.  Which is why we must retrieve them.</Source>
+      <Dest>可是最终，万纳斯自己一直没能完成那些法术。只有个大致的轮廓。所以我们必须把它们夺回来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why were you after Vanus' research?</Source>
+      <Dest>你为什么追随万纳斯的研究？?</Dest>
+    </String>
+    <String List="2">
+      <Source>Just as a destiny of a child is molded by her parents, so too is the fate of these spells reliant on the one who crafts them.</Source>
+      <Dest>Just as a destiny of a child is molded by her parents, so too is the fate of these spells reliant on the one who crafts them.</Dest>
+    </String>
+    <String List="0">
+      <Source>The prophecy of the Long Night.  The one you spoke of at the cottage.</Source>
+      <Dest>《长夜之谶》。你在小屋里提及的那首诗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  The one that haunts my nights, and fuels my days.  My destiny.  But come, let us speak of such matters in private.</Source>
+      <Dest>是的。我余下的日子里每晚都将被困扰，这是我的命运。可否让我们私下谈谈这些事。</Dest>
+    </String>
+    <String List="0">
+      <Source>What prophecy do you speak of?</Source>
+      <Dest>你在说什么寓言？</Dest>
+    </String>
+    <String List="2">
+      <Source>The prophecy of the Long Night.   My destiny.  But come, let us speak of such matters in private.</Source>
+      <Dest>漫漫长夜的预言.我的命运。但过来，我们应该私下谈论这些。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens now?</Source>
+      <Dest>现在怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now...my work is finished.  I have set you on this path of destiny so that you, and you alone, may usher a new dawn.  </Source>
+      <Dest>我的工作完成了。我已经将你置于命运的道路上，你，并且只有你一个人，将会迎来新的曙光。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens now?</Source>
+      <Dest>现在怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>For you see, the face in my vision, the one standing before an army...It has always been yours.</Source>
+      <Dest>你看，我梦中所见的那张脸，独自站在整支军队前面的那个人……一直是你。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens now?</Source>
+      <Dest>现在怎么办？</Dest>
+    </String>
+    <String List="2">
+      <Source>As for me, my long, arduous night, is finally over.</Source>
+      <Dest>对于我来说，那漫长而又艰辛的夜，终于结束了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jadro'Ra's death. It was you, wasn't it.</Source>
+      <Dest>是你杀了贾卓’拉，是不是？</Dest>
+    </String>
+    <String List="2">
+      <Source>Was he a friend?  If so, then nothing I will say will make amends.  Nor should have I to.</Source>
+      <Dest>他是朋友吗？如果是，我也不会说什么，覆水难收，我也不应该说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, so the Long Night is just a metaphor?</Source>
+      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) No, not exactly.  It is a prophecy.  Two moons eclipsing the sun.  In truth, it may only last an instant.</Source>
+      <Dest>(笑声)不，不完全是。这是一个预言。双月蔽日。事实上，那可能只有短短的一瞬间。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, so the Long Night is just a metaphor?</Source>
+      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
+    </String>
+    <String List="2">
+      <Source>But time is not measured by the hour.  Some nights are longer than others, even when they are not.</Source>
+      <Dest>时间可不是以时钟来衡量的。有些夜晚就是过得比平时更漫长，即使不是真的长夜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, so the Long Night is just a metaphor?</Source>
+      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
+    </String>
+    <String List="2">
+      <Source>When the darkness falls, the dead shall rise.  The beasts will wake.  And so on and so forth.</Source>
+      <Dest>当黑暗降临，死人会复活。野兽将苏醒。诸如此类的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, so the Long Night is just a metaphor?</Source>
+      <Dest>等等，那么“长夜”这本书只是个象征？</Dest>
     </String>
     <String List="2">
       <Source>If you look past the ominous words and bedtime stories, what you have are the inklings of a spell.  Five, to be exact.  One for each school of magic.</Source>
       <Dest>如果你看看过去的警世之言及睡前故事，你会得到的是关于一个咒语的几个暗示。五个，准确地说。每一个对应着一所魔法学校。</Dest>
     </String>
     <String List="2">
-      <Source>But they will never have a place in the world we shape, for they only serve to slow the tide of progress.</Source>
-      <Dest>但他们在我们所造就的世界里永远没有一席之地，他们只会延缓历史的进程。</Dest>
+      <Source>And the second moon rose to take its throne beside the first, and together they eclipsed the sun, and the night reigned forevermore.</Source>
+      <Dest>第二个月亮升起并与第一个月亮一起君临天下，太阳在它们的淫威下黯然失色，世界被永恒的黑夜所统治。</Dest>
     </String>
     <String List="2">
-      <Source>It seemed, Vanus was inspired by the same, for his paralysis spell drives your foes to the ground, and when they rise, they are foes no more.</Source>
-      <Dest>看来，万纳斯也受到了同样的启发，他的麻痹法术把你的敌人撂倒在地，当他们的再次起身的时候，就不再是敌人了。</Dest>
+      <Source>Still, there will come a dawn, Dragonborn, as there always has, since the beginning of time.  But enough of about prophecies.  Welcome.</Source>
+      <Dest>然而，黎明终会到来，在这一切的开端之时就已有预言，龙裔就是世界的拯救者。但预言什么的已经说够了。欢迎。</Dest>
+    </String>
+    <String List="0">
+      <Source>A warm body and warm mead always helps me sleep at night.</Source>
+      <Dest>在夜里，温暖的胴体和热乎乎的蜜酒总能催我入眠。</Dest>
     </String>
     <String List="2">
-      <Source>When the darkness falls, the dead shall rise.  The beasts will wake.  And so on and so forth.</Source>
-      <Dest>当黑暗降临，死人会复活。野兽将苏醒。诸如此类的。</Dest>
+      <Source>(Laughs) I appreciate your gesture, Dragonborn, but I feel no village remedy will cure what ails me.  Nor do I seek one.</Source>
+      <Dest>(笑声)我对你的姿态表示感激。龙裔。但是我觉得我的病无药可治。我放弃了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I understand.  This is war.  There are casualties.  Take you, for example.</Source>
+      <Dest>我理解，这是战争，有所缘由，比如，你。</Dest>
     </String>
     <String List="2">
-      <Source>My death will give them strength, just as my life does. Such is the depth of will in those I have chosen. </Source>
-      <Dest>我的死亡将带给我力量，正如生命所赐于我的。这就是我做出选择的坚定意志。</Dest>
+      <Source>Yet your words are filled with anger.  Be careful you do not follow in Olivia's footsteps.</Source>
+      <Dest>虽然你的话语充满了愤怒。但是小心别步了奥利维亚的后尘。</Dest>
     </String>
-    <String List="2">
-      <Source>Ask any member of the guild, and they will have a different opinion of what will come.  To me, this dawn represents an era of new magic.</Source>
-      <Dest>去问问看工会的成员们，他们会就未来的走向有着不同的见解。对于我来说，这一开端意味着新的魔法时代的来临。</Dest>
+    <String List="0">
+      <Source>I understand.  This is war.  There are casualties.  Take you, for example.</Source>
+      <Dest>我理解，这是战争，有所缘由，比如，你。</Dest>
     </String>
     <String List="2">
       <Source>If you seek vengeance, yield to that feeling.  Trying to convince yourself you head is level will only weaken your resolve.</Source>
       <Dest>如果你想要复仇，那就屈服于这种感觉吧。如果是想要说服自己那种程度的话，也只会减少你的决心。</Dest>
     </String>
-    <String List="2">
-      <Source>It is not concern.  It is fear of unknown.  A strange contradiction, when death is the only thing that is certain.</Source>
-      <Dest>这没关系。它是对未知的恐惧。当死亡是唯一确定之事的时候，这是种奇怪的矛盾。</Dest>
+    <String List="0">
+      <Source>Are the two afflictions in any way related?</Source>
+      <Dest>这两种灾难有任何联系吗？</Dest>
     </String>
     <String List="2">
-      <Source>Each was driven by a singular desire.  Olivia, however, is conflicted.  Her mind is with her students.  Her heart demands vengeance.  </Source>
-      <Dest>每个人都只有单一的动机。然而奥莉薇雅则是冲突的。她的心思放在学生身上。她的灵魂却渴望复仇。</Dest>
+      <Source>I have not ruled it out.  There are many diseases of the body that are rooted in the mind.</Source>
+      <Dest>我没有排除这种可能。很多时候，病由心生。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the two afflictions in any way related?</Source>
+      <Dest>这两种灾难有任何联系吗？</Dest>
     </String>
     <String List="2">
-      <Source>Yet...Olivia Meronin is too much like her father.  Skilled, but ultimately limited by her own agenda.</Source>
-      <Dest>然而... 奥莉薇雅 梅洛妮 太像她父亲了。熟练却受到她自己的日常限制。</Dest>
+      <Source>But I choose not to waste my time on that which is temporary. Just as my afflictions guide me toward the night, so will the dawn grant me my freedom.</Source>
+      <Dest>但我并不打算把时间浪费在这些必不能长久的东西上。我所受的苦痛将我引入黑夜，一如深暗后的黎明将予我以自由。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, don't get up.  I prefer to kill you on your throne.</Source>
+      <Dest>得了，不用站起来了，我更喜欢把你弄死在你的王座上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Vengeance is it?  The question is, for whom?  But come, let us speak of such matters in private.  </Source>
+      <Dest>这是个复仇吗？但问题是，这是谁的复仇？但先换个私人的地方，再谈论这个问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will war and strife create a dawn of magic?</Source>
+      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a theory on disease. When a person is sick, they rush to the apothecary, imbibing potion after potion in hopes of curing it.</Source>
+      <Dest>There is a theory on disease. When a person is sick, they rush to the apothecary, imbibing potion after potion in hopes of curing it.</Dest>
+    </String>
+    <String List="0">
+      <Source>How will war and strife create a dawn of magic?</Source>
+      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
+    </String>
+    <String List="2">
+      <Source>Over time, in this war between sickness and health, new diseases are born, and new potions are developed.</Source>
+      <Dest>Over time, in this war between sickness and health, new diseases are born, and new potions are developed.</Dest>
+    </String>
+    <String List="0">
+      <Source>How will war and strife create a dawn of magic?</Source>
+      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
+    </String>
+    <String List="2">
+      <Source>All the while our understanding of nature, of how both illness and alchemy work, becomes greater as a result.</Source>
+      <Dest>这段时间我们对于自然的理解，尤其是疾病和炼金的原理，变得越来越多。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will war and strife create a dawn of magic?</Source>
+      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
+    </String>
+    <String List="2">
+      <Source>That is what I strive for, a world where walls are torn down, where power reigns, and from it, knowledge blossoms.</Source>
+      <Dest>那就是我奋斗的目标，一个没有争斗的世界，人民当家做主，知识进步。</Dest>
+    </String>
+    <String List="0">
+      <Source>How will war and strife create a dawn of magic?</Source>
+      <Dest>战争和冲突将制造一个怎样的魔法黎明？</Dest>
+    </String>
+    <String List="2">
+      <Source>But to cast a curtain upon the world, one needs an army of darkness.  Vanus' spells will bring it to us.</Source>
+      <Dest>但是要想统治整个世界，那需要一整支黑暗军队。万纳斯的魔法会把它们带到我们面前。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Hall is full of darkness and dust.</Source>
+      <Dest>这个大厅满是灰尘和黑暗。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. It is a weakness of mine. As the night of reckoning approaches, I seem to grow more and more weary of the light.</Source>
+      <Dest>没错。那是我的弱点。到了要算总账的那个晚上，我似乎也就变得越来越讨厌光了。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Hall is full of darkness and dust.</Source>
+      <Dest>这个大厅满是灰尘和黑暗。</Dest>
+    </String>
+    <String List="2">
+      <Source>In my youth, I used to couch myself by fires like this, watching the dance of flames as they guided me off to sleep.</Source>
+      <Dest>在我年轻时，我常常像这样躺卧在篝火边，看着跳动的火焰，让它们领我进入梦乡。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Hall is full of darkness and dust.</Source>
+      <Dest>这个大厅满是灰尘和黑暗。</Dest>
     </String>
     <String List="2">
       <Source>As time passed, the light seemed to sap my very strength, and I feel more at ease in the darkness.</Source>
       <Dest>随着时间的流逝，光开始夺走我的力量，而我也开始在黑暗中获得更多的安逸。</Dest>
     </String>
     <String List="2">
+      <Source>Still, I can't help but find myself driven to old habits.  I come here every night.  To read, to bask, or merely to sit.  Despite Vinnius' protests.</Source>
+      <Dest>然而，我发现自己不由自主地回到老毛病上来，我每个晚上都会回到此地。看看书、烤烤火、亦或仅仅是坐一会儿。不顾 维尼乌斯的反对。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Hall is full of darkness and dust.</Source>
+      <Dest>这个大厅满是灰尘和黑暗。</Dest>
+    </String>
+    <String List="2">
       <Source>Ah, yes. The Khajiit posing as a thief. Or perhaps, are you speaking of another? Come, let us discuss such matters in private.</Source>
       <Dest>哦是啊，虎人扮成了小偷。或者，你想说的是别的？来吧，让我们私下谈谈这些问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>I will never stand beside you.  I come for vengeance.</Source>
+      <Dest>我不会站在你那一边。我要的是复仇。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fortunately, they will be developed, if only as a counter measure to our presence.  In this, our goals are one and the same.</Source>
+      <Dest>幸运的是，他们会被加强，对我们来说只是个防范措施。在这件事上，我们的目的完全一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will happen if the research stays at Winterhold?</Source>
+      <Dest>如果继续呆在冬堡研究（调查）将会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet...Olivia Meronin is too much like her father.  Skilled, but ultimately limited by her own agenda.</Source>
+      <Dest>然而... 奥莉薇雅·梅洛妮太像她父亲了。熟练却受到她自己的日常限制。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will happen if the research stays at Winterhold?</Source>
+      <Dest>如果继续呆在冬堡研究（调查）将会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Think of how the crafters harnessed the power of fire.  There are those who made cloaks, and those who made storms.</Source>
+      <Dest>想象一下那些驾驭火的力量的行家们是怎么做的。有些人专注于火焰斗篷，有些人则专注于火焰风暴。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will happen if the research stays at Winterhold?</Source>
+      <Dest>如果继续呆在冬堡研究（调查）将会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Each was driven by a singular desire.  Olivia, however, is conflicted.  Her mind is with her students.  Her heart demands vengeance.  </Source>
+      <Dest>每个人都只有单一的动机。然而奥莉薇雅则是冲突的。她的心思放在学生身上。她的灵魂却渴望复仇。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will happen if the research stays at Winterhold?</Source>
+      <Dest>如果继续呆在冬堡研究（调查）将会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>I am confident she will be able to develop the spells.  Her lack of direction, however, will cripple their efficacy.</Source>
+      <Dest>我相信她一定可以提高自己的技能的。无论如何，她所缺少的自信会成为成功路上的绊脚石。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will happen if the research stays at Winterhold?</Source>
+      <Dest>如果继续呆在冬堡研究（调查）将会怎样？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not concern.  It is fear of unknown.  A strange contradiction, when death is the only thing that is certain.</Source>
+      <Dest>这没关系。它是对未知的恐惧。当死亡是唯一确定之事的时候，这是种奇怪的矛盾。</Dest>
+    </String>
+    <String List="0">
+      <Source>The others seem concerned for you.</Source>
+      <Dest>大家都很关心你.</Dest>
+    </String>
+    <String List="2">
+      <Source>My death will give them strength, just as my life does. Such is the depth of will in those I have chosen. </Source>
+      <Dest>我的死亡将带给我力量，正如生命所赐于我的。这就是我做出选择的坚定意志。</Dest>
+    </String>
+    <String List="0">
+      <Source>The others seem concerned for you.</Source>
+      <Dest>大家都很关心你.</Dest>
+    </String>
+    <String List="2">
+      <Source>If the weak have a place in this world, it is through service.</Source>
+      <Dest>如果弱者在这世界上有立足之地，那也是通过服务来保有的。</Dest>
+    </String>
+    <String List="0">
+      <Source>The others seem concerned for you.</Source>
+      <Dest>大家都很关心你.</Dest>
+    </String>
+    <String List="2">
+      <Source>But they will never have a place in the world we shape, for they only serve to slow the tide of progress.</Source>
+      <Dest>但他们在我们所造就的世界里永远没有一席之地，他们只会延缓历史的进程。</Dest>
+    </String>
+    <String List="0">
+      <Source>The others seem concerned for you.</Source>
+      <Dest>大家都很关心你.</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you believe in the old adage, the hour is darkest before the dawn?</Source>
+      <Dest>你相信古老的谚语吗，黎明之前的时刻是最黑暗的?</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>告诉我关于那漫长的一夜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>请告诉我关于”长夜“的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a difference between a long night and an eternal one.  Still, what you and I consider dawn may be opposing ideals.</Source>
+      <Dest>漫漫长夜和永恒长夜二者有很大区别。不过，我们所考虑的或许与黎明守卫的理想相反。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>告诉我关于那漫长的一夜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>请告诉我关于”长夜“的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ask any member of the guild, and they will have a different opinion of what will come.  To me, this dawn represents an era of new magic.</Source>
+      <Dest>去问问看工会的成员们，他们会就未来的走向有着不同的见解。对于我来说，这一开端意味着新的魔法时代的来临。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>告诉我关于那漫长的一夜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Long Night.</Source>
+      <Dest>请告诉我关于”长夜“的事情。</Dest>
     </String>
     <String List="2">
       <Source>Ah, such is the case when we are about to expire.  We say all the things we couldn't when we knew we could say them tomorrow.</Source>
       <Dest>啊，当我们满怀期待的时候事情就会变成这样。有些话我们不去说，是因为我们知道明天还有机会说。</Dest>
     </String>
-    <String List="2">
-      <Source>I believe you.  But as the Dragonborn, I assume death, tragedy and glory are nothing if not familiar.</Source>
-      <Dest>我相信你，但作为龙裔,我已见过太多的死亡，悲剧以及荣光。</Dest>
+    <String List="0">
+      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
+      <Dest>他是个朋友。我们一起的时间虽然短暂, 但是我不会忘记的.  包括他.</Dest>
     </String>
     <String List="2">
-      <Source>Fortunately, they will be developed, if only as a counter measure to our presence.  In this, our goals are one and the same.</Source>
-      <Dest>幸运的是，他们会被加强，对我们来说只是个防范措施。在这件事上，我们的目的完全一样。</Dest>
+      <Source>I believe you.  But as the Dragonborn, I assume death, tragedy and glory are nothing if not familiar.</Source>
+      <Dest>我相信你，但作为龙裔，我已见过太多的死亡，悲剧以及荣光。</Dest>
+    </String>
+    <String List="0">
+      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
+      <Dest>他是个朋友。我们一起的时间虽然短暂, 但是我不会忘记的.  包括他.</Dest>
+    </String>
+    <String List="2">
+      <Source>You may mourn his loss, but it was something he was prepared for.  As all of us who stand on the brink of the end.</Source>
+      <Dest>你可能还在沉痛于他的逝去，但这件事他其实早就料到了，和我们所有站在终结边缘的人一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>He was a friend.  Our time was short, but I'll remember it.  And him.</Source>
+      <Dest>他是个朋友。我们一起的时间虽然短暂, 但是我不会忘记的.  包括他.</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Is that how you view me, Dragonborn?  Do not let my languid appearance fool you.</Source>
+      <Dest>（笑声）你就是这么看我的吗，龙裔？不要让我懒洋洋的外表给骗了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
+      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>There is a reason why these mortals have followed me here to Skyrim.  Why countless more serve me in the field.</Source>
+      <Dest>There is a reason why these mortals have followed me here to Skyrim.  Why countless more serve me in the field.</Dest>
+    </String>
+    <String List="0">
+      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
+      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Source>
+      <Dest>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Dest>
+    </String>
+    <String List="0">
+      <Source>How interesting. You exalt strength, but you're a feckless weakling.</Source>
+      <Dest>真有趣。你很有实力，但你却是一个软弱的懦夫。</Dest>
+    </String>
+    <String List="2">
+      <Source>I apologize that you had to witness that.  Vinnius worries about my health.  It is not enough that the light eats away at my soul.</Source>
+      <Dest>我很抱歉让你目睹那事。 维尼乌斯在担心我的健康。 但黎明守卫想要侵蚀掉我的灵魂还早着呢！</Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Every night I am plagued by dreams.  The vividness of which makes it hard to distinguish between this reality and that one.</Source>
+      <Dest>每天晚上我都忍受着梦境的拷问。它是如此真实，以致于我难以将现实和梦境区分开来。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>As such, I have not slept for ages.  The light wears on my body, but the dreams...the nightmares as Vinnius calls them...wear on my mind.  </Source>
+      <Dest>因此因此，我已经好久没睡了。光线磨损我的身体，而那些梦…… 维尼乌斯称之为梦魇的东西……磨损我的精神。  </Dest>
+    </String>
+    <String List="0">
+      <Source>What was that argument about?</Source>
+      <Dest>那场争辩是为了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Your enthusiasm is appreciated, Dragonborn, but there will be time to discuss that later.  Come, let us speak in private.</Source>
+      <Dest>热情可嘉，龙裔，但还是晚点儿再讨论吧。来吧，让我们私下谈。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've come to join the Radiant Dark.</Source>
+      <Dest>我到这来加入黑暗光辉。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it were so, the cure would be rather simple.  Unfortunately, I have exhausted all avenues in terms of the night-walker's disease.</Source>
+      <Dest>如果确实如此的话，治疗上应该相当简单。不幸的是，就吸血热而言我已经用尽了所有办法却是白费力气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like you have vampirism.</Source>
+      <Dest>听起来你想敲诈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although Vinnius has not given up hope that there may be some connection.  He is nothing if not stubborn.</Source>
+      <Dest>即使维尼乌斯还坚持这可能有什么关系。可他除了倔脾气就什么都没有了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like you have vampirism.</Source>
+      <Dest>听起来你想敲诈。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the Imperial means well.  He fashions himself my steward, when I have insisted from the beginning there are no titles in this guild.</Source>
+      <Dest>但是帝国是很有手段的。他把自己当成我的宫廷大臣，那时我坚称这个行业里我们没钱赚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like you have vampirism.</Source>
+      <Dest>听起来你想敲诈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Source>
+      <Dest>Status comes from power.  Here, there are no aging Jarls clinging to a throne that they are not equipped for.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like you have vampirism.</Source>
+      <Dest>听起来你想敲诈。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some were awe inspiring.  For instance, a conjuration spell to raise all the dead in Tamriel.</Source>
+      <Dest>一些是令人敬畏的。举个例子，一个召唤技能会提高泰姆瑞尔大陆的死亡率。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Others you appreciated for their efficiency.  Spells whose genius is not apparent by the level of destruction, but by the conservation of magicka.</Source>
+      <Dest>其他人你要评价他们的效率。真正有天赋的施法者不是靠毁灭的强度来辨别，而是通过对魔力的掌控来看出的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>But my favorite...well...Do you by chance remember the story I told you of the parasitic wasp of Blackrose?</Source>
+      <Dest>不过，我的最爱……好吧...你是否还能记起我告诉过你的那个关于黑色玫瑰的寄生蜂的故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>It seemed, Vanus was inspired by the same, for his paralysis spell drives your foes to the ground, and when they rise, they are foes no more.</Source>
+      <Dest>看来，万纳斯也受到了同样的启发，他的麻痹法术把你的敌人撂倒在地，当他们的再次起身的时候，就不再是敌人了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Some were awe inspiring.  For instance, a conjuration spell to raise all the dead in Tamriel.</Source>
+      <Dest>一些是令人敬畏的。举个例子，一个召唤技能会提高泰姆瑞尔大陆的死亡率。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Others you appreciated for their efficiency.  Spells whose genius is not apparent by the level of destruction, but by the conservation of magicka.</Source>
+      <Dest>其他人你要评价他们的效率。真正有天赋的施法者不是靠毁灭的强度来辨别，而是通过对魔力的掌控来看出的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>And some spells you appreciate for sentimental reasons.</Source>
+      <Dest>而有些法术，你会因为感性的原因而感激它。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you know about the spells?</Source>
+      <Dest>对于这个法术你了解多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Such as, for instance, a paralysis spell that drives your foes to the ground, and when they rise, they are foes no more.</Source>
+      <Dest>Such as, for instance, a paralysis spell that drives your foes to the ground, and when they rise, they are foes no more.</Dest>
     </String>
     <String List="0">
       <Source>What do you know about the spells?</Source>
@@ -2075,12 +2199,12 @@
       <Dest>如此明亮...</Dest>
     </String>
     <String List="2">
-      <Source>Your concern is noted, but you know as well as I do that there is no place I can.</Source>
-      <Dest>随你怎么讲，反正大家都知道我没别的地方可去。</Dest>
-    </String>
-    <String List="2">
       <Source>Enough!  I will hear no more of this in front of our guest.</Source>
       <Dest>够了！我不想再在客人面前听到这样的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your concern is noted, but you know as well as I do that there is no place I can.</Source>
+      <Dest>随你怎么讲，反正大家都知道我没别的地方可去。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

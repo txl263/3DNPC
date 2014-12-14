@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,600 +7,624 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>I look forward to your continued existence as a hagraven.</Source>
-      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
-    </String>
-    <String List="0">
-      <Source>I look forward to your continued existence as a hagraven.</Source>
-      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
-    </String>
-    <String List="0">
-      <Source>I look forward to your continued existence as a hagraven.</Source>
-      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
-    </String>
-    <String List="0">
-      <Source>I look forward to your continued existence as a hagraven.</Source>
-      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the ritual itself? How do the organs help with the transformation?</Source>
-      <Dest>仪式怎么样了？器官在转换过程中帮助不小吧？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about the ritual itself? How do the organs help with the transformation?</Source>
-      <Dest>仪式怎么样了？器官在转换过程中帮助不小吧？</Dest>
-    </String>
-    <String List="0">
-      <Source>Thanks, I guess.</Source>
-      <Dest>那就，谢谢吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>Thanks, I guess.</Source>
-      <Dest>那就，谢谢吧。</Dest>
-    </String>
-    <String List="0">
-      <Source>There's only one way to find out.</Source>
-      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
-    </String>
-    <String List="0">
-      <Source>There's only one way to find out.</Source>
-      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
-    </String>
-    <String List="0">
-      <Source>There's only one way to find out.</Source>
-      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
-    </String>
-    <String List="0">
       <Source>I'll try and put it to good use.</Source>
       <Dest>我会尽力很好地使用它。</Dest>
-    </String>
-    <String List="0">
-      <Source>I'll try and put it to good use.</Source>
-      <Dest>我会尽力很好地使用它。</Dest>
-    </String>
-    <String List="0">
-      <Source>Absolutely not. What you're asking for is immoral.</Source>
-      <Dest>绝对不行。你的要求是不道德的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Absolutely not. What you're asking for is immoral.</Source>
-      <Dest>绝对不行。你的要求是不道德的。</Dest>
-    </String>
-    <String List="0">
-      <Source>This is not something I can condone, or allow.</Source>
-      <Dest>这是我不能容忍和允许的事。</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you sure you want to do this?</Source>
-      <Dest>你确定要这么干吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you sure you want to do this?</Source>
-      <Dest>你确定要这么干吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Are you sure you want to do this?</Source>
-      <Dest>你确定要这么干吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>What about a Spriggan? Taproot is a keen source of magical energy.</Source>
-      <Dest>那用树精也行吧？直立根可是很犀利的魔法材料。</Dest>
-    </String>
-    <String List="0">
-      <Source>What about a Spriggan? Taproot is a keen source of magical energy.</Source>
-      <Dest>那用树精也行吧？直立根可是很犀利的魔法材料。</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
-      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
-      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
-      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
-    </String>
-    <String List="0">
-      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
-      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
-    </String>
-    <String List="0">
-      <Source>Your Dremora seems rather docile.</Source>
-      <Dest>你的魔人似乎相当温顺。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your Dremora seems rather docile.</Source>
-      <Dest>你的魔人似乎相当温顺。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you need live bodies to perform a vivisection?</Source>
-      <Dest>所以你需要些活体来演出活体解剖？</Dest>
-    </String>
-    <String List="0">
-      <Source>So you need live bodies to perform a vivisection?</Source>
-      <Dest>所以你需要些活体来演出活体解剖？</Dest>
-    </String>
-    <String List="0">
-      <Source>Please don't do that. I mean you no harm.</Source>
-      <Dest>请别那样做。我不会伤害你。</Dest>
-    </String>
-    <String List="0">
-      <Source>What does this ritual require?</Source>
-      <Dest>这仪式需要什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What does this ritual require?</Source>
-      <Dest>这仪式需要什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
-      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
-      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
-      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
-      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
-      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
-    </String>
-    <String List="0">
-      <Source>Sure, that's not a problem, so long as it's a wild goat or some chicken.</Source>
-      <Dest>当然，那不成问题。只要是一只野羊或者野鸡什么的。</Dest>
-    </String>
-    <String List="0">
-      <Source>The Dremora won't listen to your commands?</Source>
-      <Dest>那个魔人不听你的命令？</Dest>
-    </String>
-    <String List="0">
-      <Source>I've been trying to leave, but you're standing in the doorway.</Source>
-      <Dest>我是想跑出去啊，是你死死堵住了门口好吧！</Dest>
-    </String>
-    <String List="0">
-      <Source>I've brought the ingredients for the ritual.</Source>
-      <Dest>我拿到了仪式所需的全部材料。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've brought the ingredients for the ritual.</Source>
-      <Dest>我拿到了仪式所需的全部材料。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've brought the ingredients for the ritual.</Source>
-      <Dest>我拿到了仪式所需的全部材料。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've brought the ingredients for the ritual.</Source>
-      <Dest>我拿到了仪式所需的全部材料。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh Gods, it's true...he's completely useless!</Source>
-      <Dest>天哪, 是真的...他是十足的废物!</Dest>
-    </String>
-    <String List="2">
-      <Source>Yeah, about that. I actually need organs from living people. But don't worry, it doesn't have to be people you like.</Source>
-      <Dest>是啊，关于这个。我确实需要从活人身上采集的器官。不过别担心，我不会从像你这样的人身上取的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Don't get me wrong, I'm sure they're nice people once you get to know them, but not nice enough that I'd feel guilty about harvesting their organs.</Source>
-      <Dest>别误会我，我确信当你和他们混熟了会觉得他们都是好人，不过有点糟的是我会对收集他们的器官有负罪感。</Dest>
-    </String>
-    <String List="2">
-      <Source>Okay, what comes next? Do I slaughter another goat?</Source>
-      <Dest>好了，接下来呢？要我接着宰另一只羊吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't want to scare you but...I need organs. And I need them fresh. Real fresh. As in, ripped out from the body.</Source>
-      <Dest>我不想吓到你但……我需要内脏。鲜血淋漓，还冒着腾腾的热气的新鲜的内脏。我得……现把他们从人体里扽出来。</Dest>
-    </String>
-    <String List="2">
-      <Source>Great! I know just the family. They live in a small cottage west of here, across from Lost Echo Cave.</Source>
-      <Dest>太好了！我仅仅知道这家人住在西边的一个小房子里，在失落回声洞穴对面。</Dest>
-    </String>
-    <String List="2">
-      <Source>By the crone, you did it! At least, it sure seems like you did, the way that cauldron's bubbling.</Source>
-      <Dest>天啊，你做到了！至少，看起来是没错, 那锅里冒的泡泡很像样。</Dest>
-    </String>
-    <String List="2">
-      <Source>You do realize we're talking about people, right? I mean, I need goat heads too, but we have plenty here already.</Source>
-      <Dest>你知道我们在谈论的人，对吗？我的意思是，我需要非常多的山羊头，但我们这里已经有很多了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I spent all night trying to figure out how to ignore you in case you made sense. This ritual isn't without its risks.</Source>
-      <Dest>我整晚都在试图避开你，防止你做些什么。这个仪式不是没有风险。</Dest>
-    </String>
-    <String List="2">
-      <Source>It's nothing personal, it's just the way it is. But to answer your question, the Gods do all the work. The sacrifices are just...well, a bribe.</Source>
-      <Dest>没什么可遮掩的，顺水推舟的事儿。不过要回答你的问题嘛，就是神灵保佑而已。那些祭品不过是……呃，贿赂吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>But yeah, just in case, let me give you your reward now. It's the spell tome that peddler gave me.</Source>
-      <Dest>但是, 就像说好的，让我把报酬拿给你。是一本小贩给的法术书。</Dest>
-    </String>
-    <String List="2">
-      <Source>Watch your step. I got a little carried away with the blood, and you don't want to slip and fall from here.</Source>
-      <Dest>注意脚下。我看到血就有点激动，以及你也不会想滑倒然后从这里摔下去吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know that sounds wicked, but there's no other choice. You understand, don't you?</Source>
-      <Dest>我知道这听上去挺邪恶的，不过我没有选择了。你能理解的对吧？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't know if this will work, or if I'll even survive, so here. This is the reward I promised you. It's the spell tome that peddler gave me.</Source>
-      <Dest>我不知道如果你没有接这个活儿的话，我还能不能活下来。所以拿去吧，这是我承诺的奖励。一个小贩给我的魔法书。</Dest>
-    </String>
-    <String List="2">
-      <Source>I need the father's liver, the mother's toes, and the child's heart.</Source>
-      <Dest>我需要这一家人中父亲的肝脏，母亲的脚趾，以及孩子的心。 </Dest>
-    </String>
-    <String List="2">
-      <Source>I mean, I was starting to doubt you just a little, but then I told myself, "Have faith, Misha, have faith..." and it worked!</Source>
-      <Dest>我的意思是,我开始有一点点的怀疑你,但是我告诉自己， "有信心，米莎，要有信心…… " 结果居然成功了！</Dest>
-    </String>
-    <String List="2">
-      <Source>I mean, I was starting to doubt you just a little, but then I told myself, "Have faith, Misha, have faith..." and it worked!</Source>
-      <Dest>我的意思是,我开始有一点点的怀疑你,但是我告诉自己， "有信心，米莎，要有信心…… " 结果居然成功了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Round about the cauldron stirs, from mortal skin to withered bird; From these four lives it drinks the stew, from witch to hag be born anew!</Source>
-      <Dest>搅拌着热腾腾的大汽锅，凡人的皮肤变干褶。喝下用四个人煮出的汤，女巫变鬼婆获新生！</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn it Misha, why can't you remember!</Source>
-      <Dest>该死的，米莎，为什么你就不能记住！</Dest>
-    </String>
-    <String List="2">
-      <Source>Wait, you don't like your gift? Damn it, I knew I should've went with a sack of gold. But people say that's so lazy.</Source>
-      <Dest>等等！你不喜欢这个礼物吗？真是，我就知道应该提一袋金子来的。可别人说那太没诚意了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I couldn't possibly ask you to steal people's organs for my own personal benefit. That is not who I am!</Source>
-      <Dest>我不可能让你为了自己的利益而去偷取人们的器官。如果连这都能放任不管的话，我就不是我了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Or was it the hawk beak first, then the goat? I know the feathers are last but...what comes before that?</Source>
-      <Dest>或者鹰嘴应该是第一个，然后是山羊？我知道羽毛是最后的但是……什么应该排在羽毛前面？</Dest>
-    </String>
-    <String List="2">
-      <Source>That's why I want to give you your reward now.</Source>
-      <Dest>那正是我要现在报答你的原因。</Dest>
-    </String>
-    <String List="2">
-      <Source>I have the whole ritual prepared. Right this way.</Source>
-      <Dest>我把整个仪式都准备好了。这边走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Why thank you! Here I thought you were going to try and talk me out of it.</Source>
-      <Dest>为啥要谢你！我以为你是来尝试开导我的。</Dest>
-    </String>
-    <String List="2">
-      <Source>That's the difference between a beating heart and a still one, even if it's in a jar.</Source>
-      <Dest>这种区别就像一个跳动的心脏和一个死亡的心脏，即使跳动的那个是被放在罐子里的。</Dest>
-    </String>
-    <String List="2">
-      <Source>I call upon the crone of old, to boil the venom of bubbled toad; in swirls of guts and liver chopped, cook the first in this blackened pot!</Source>
-      <Dest>我拜访年迈的老太婆，蛙毒的气泡儿沸满锅。内脏和碎肝打旋儿搅，黑乎乎的食物完成了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Really? So you aren't here to hurt me? But you're so scary! Then again, so is this Dremora, and he's completely useless!</Source>
-      <Dest>真的？那你不是来这儿伤害我的喽？但你长得实在太诡异了！可是，这个魔人也一样,而他可是屁用没有啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>I am? Oh! I am! That was silly of me. Maybe I didn't have to summon this worthless Dremora after all.</Source>
-      <Dest>我？哦！没错！我真是愚不可及！或许我根本就不应该召唤没用的魔人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh Gods no, I can't stomach all the blood. But there might be another way to remove the body parts without needles or sutures. </Source>
-      <Dest>额啊，天呐，我真受不了这血了。但是应该还有别的办法可以不用针线缝合就能把尸块儿移开。</Dest>
-    </String>
-    <String List="2">
-      <Source>When I ask him to fight, all he does is wave his stupid tankard around. It's like he's not even here.</Source>
-      <Dest>当我让他去战斗之时，他只会摇摇那愚蠢的啤酒杯。就好像他根本不在这里一样。</Dest>
-    </String>
-    <String List="2">
-      <Source>Wow, this woman had huge feet! And do you know what they say about women with huge feet? I don't either.</Source>
-      <Dest>哇喔，这女人的脚可真大！你知道他们都说大脚女人什么吗？我也不知道。</Dest>
-    </String>
-    <String List="2">
-      <Source>Eye of newt and flocks of crow, boil the broth with the second's toes; Fillet of snake and magics dark, drain the life of this child's heart.</Source>
-      <Dest>蝾螈眼睛和乌鸦的毛，煮肉汤附加上脚趾熬制；蛇肉切片加上黑魔法，吸取着这孩子心脏的生命力】。</Dest>
-    </String>
-    <String List="2">
-      <Source>Neither can I! I was...I was just testing you. And you passed! Good for you. I'll just be in the tower, not performing witchcraft.</Source>
-      <Dest>我也不能！我只是……我只是在考验你。而你通过了！对你来说是个好消息。我只是呆在塔里，不会施展什么巫术。</Dest>
-    </String>
-    <String List="2">
-      <Source>Either way, I guess it doesn't matter now. In about a minute, I'm going to be too powerful to care about anyone but myself.</Source>
-      <Dest>无论如何，现在都已无关紧要。在几分钟之内，我的力量就会强到顾不上其他人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Void salts, a torchbug thorax, and a drop of lemon juice is all you need. But I prefer we find bodies who live nearby.</Source>
-      <Dest>一把虚空之盐，一个萤火虫胸腔和一滴柠檬汁是你所需的所有材料。但我更喜欢从住在附近的人身上取材。</Dest>
-    </String>
-    <String List="2">
-      <Source>Living organs are like soul gem fragments. They have lingering echoes of the soul.</Source>
-      <Dest>鲜活的器官就像是灵魂石碎片，那里面有灵魂残余的回响。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh Gods, it sounds scary when you put it like that. But you're right. Courage Misha! You didn't come this far to back out now.</Source>
-      <Dest>诸神啊，你这样说的话那听起来有点可怕。但你说得没错。勇敢的米莎！现在就打退堂鼓还为时过早。</Dest>
-    </String>
-    <String List="2">
-      <Source>You can even make a heart beat for hours outside the body, if the jar's filled with a special solution.</Source>
-      <Dest>如果把这个瓶子装满特殊的溶液的话，你甚至可以让心脏在身体外跳动几个小时。 </Dest>
-    </String>
-    <String List="2">
-      <Source>Of course it is! That's why...I was kidding! Just making a joke, ha-ha!</Source>
-      <Dest>那当然不道德！这就是为什么……我一直在逗你！我只是在开玩笑，哈——哈！</Dest>
-    </String>
-    <String List="2">
-      <Source>If you do this for me, I'll pay you in gold. No, better than gold. I've got a special reward for you. You'll see.</Source>
-      <Dest>如果你能为我做到这件事，我会付你金子。不，比金子更好。我会给你准备一份特殊奖励。你会看到的。</Dest>
-    </String>
-    <String List="2">
-      <Source>Anyways, in you go!</Source>
-      <Dest>别废话了，赶紧滚！</Dest>
-    </String>
-    <String List="2">
-      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
-      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
-    </String>
-    <String List="2">
-      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
-      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
-    </String>
-    <String List="2">
-      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
-      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
-    </String>
-    <String List="2">
-      <Source>As I understand it, they're simply part of the sacrifice. Mother Eygis used to say "The Old Gods grow strong on the fat of live souls."</Source>
-      <Dest>当我理解的时候，他们仅仅是祭品的一部分。修女伊吉斯过去常说：“上古之神吞噬如同肥肉一般的活人的灵魂而变得强大。</Dest>
     </String>
     <String List="2">
       <Source>I'm glad you like it! You do like it, don't you? Oh Gods, should I have given you gold instead?</Source>
       <Dest>我很高兴你喜欢它！你喜欢它，对吧？哦，众神啊，难道我应该直接给你金子才对吗？</Dest>
     </String>
-    <String List="2">
-      <Source>I knew it! I knew you wouldn't let me down! </Source>
-      <Dest>我就知道！你一定不会让我失望的！ </Dest>
+    <String List="0">
+      <Source>I'll try and put it to good use.</Source>
+      <Dest>我会尽力很好地使用它。</Dest>
     </String>
     <String List="2">
-      <Source>I knew it! I knew you wouldn't let me down! </Source>
-      <Dest>我就知道！你一定不会让我失望的！ </Dest>
+      <Source>Well, I'm sorry, but I guess it doesn't matter now. In about a minute, I'm going to be too powerful to care about anyone but myself.</Source>
+      <Dest>Well, I'm sorry, but I guess it doesn't matter now. In about a minute, I'm going to be too powerful to care about anyone but myself.</Dest>
+    </String>
+    <String List="0">
+      <Source>Thanks, I guess.</Source>
+      <Dest>那就，谢谢吧。</Dest>
     </String>
     <String List="2">
-      <Source>It requires...ingredients. Well, not really ingredients, as in, feathers and plants.</Source>
-      <Dest>它需要一些原料。嗯，不是真的成分，如，羽毛和植物。</Dest>
+      <Source>Wait, you don't like your gift? Damn it, I knew I should've went with a sack of gold. But people say that's so lazy.</Source>
+      <Dest>等等！你不喜欢这个礼物吗？真是，我就知道应该提一袋金子来的。可别人说那太没诚意了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thanks, I guess.</Source>
+      <Dest>那就，谢谢吧。</Dest>
     </String>
     <String List="2">
-      <Source>There's something about them I don't like. Something...off.</Source>
-      <Dest>它们中有些东西我不喜欢，某些……陌生的东西。</Dest>
+      <Source>Either way, I guess it doesn't matter now. In about a minute, I'm going to be too powerful to care about anyone but myself.</Source>
+      <Dest>无论如何，现在都已无关紧要。在几分钟之内，我的力量就会强到顾不上其他人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you sure you want to do this?</Source>
+      <Dest>你确定要这么干吗？</Dest>
     </String>
     <String List="2">
       <Source>Well, it is kind of scary, but you know what's even scarier? Not doing it.</Source>
       <Dest>好吧,这有点吓人,但你知道什么更吓人么? 不这么做更吓人。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Are you sure you want to do this?</Source>
+      <Dest>你确定要这么干吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But yeah, just in case, let me give you your reward now. It's the spell tome that peddler gave me.</Source>
+      <Dest>但是, 就像说好的，让我把报酬拿给你。是一本小贩给的法术书。</Dest>
     </String>
     <String List="0">
-      <Source>How do you know the scene hasn't been tampered with?</Source>
-      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+      <Source>Are you sure you want to do this?</Source>
+      <Dest>你确定要这么干吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
+      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
     </String>
     <String List="0">
-      <Source>Are you saying you want to be a hagraven?</Source>
-      <Dest>你是说你想当个乌鸦鬼婆？</Dest>
+      <Source>I look forward to your continued existence as a hagraven.</Source>
+      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why thank you! Here I thought you were going to try and talk me out of it.</Source>
+      <Dest>为啥要谢你！我以为你是来尝试开导我的。</Dest>
     </String>
     <String List="0">
-      <Source>Are you saying you want to be a hagraven?</Source>
-      <Dest>你是说你想当个乌鸦鬼婆？</Dest>
+      <Source>I look forward to your continued existence as a hagraven.</Source>
+      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
+    </String>
+    <String List="2">
+      <Source>I spent all night trying to figure out how to ignore you in case you made sense. This ritual isn't without its risks.</Source>
+      <Dest>我整晚都在试图避开你，防止你做些什么。这个仪式不是没有风险。</Dest>
     </String>
     <String List="0">
-      <Source>It's happening because you chose to cavort with the wicked. Now, you die.</Source>
-      <Dest>事情之所以会发生是因为你选择了与这邪恶者为伍。而现在，你得死了。</Dest>
+      <Source>I look forward to your continued existence as a hagraven.</Source>
+      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I want to give you your reward now.</Source>
+      <Dest>那正是我要现在报答你的原因。</Dest>
     </String>
     <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
+      <Source>I look forward to your continued existence as a hagraven.</Source>
+      <Dest>我期待你继续做你的乌鸦鬼婆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
+      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
     </String>
     <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
+      <Source>There's only one way to find out.</Source>
+      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, it sounds scary when you put it like that. But you're right. Courage Misha! You didn't come this far to back out now.</Source>
+      <Dest>诸神啊，你这样说的话那听起来有点可怕。但你说得没错。勇敢的米莎！现在就打退堂鼓还为时过早。</Dest>
     </String>
     <String List="0">
-      <Source>Then we have much in common. Smiting one's enemies is a noble pursuit.</Source>
-      <Dest>我们有许多共同之处。重击你的敌人是个高尚的追求。</Dest>
+      <Source>There's only one way to find out.</Source>
+      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if this will work, or if I'll even survive, so here. This is the reward I promised you. It's the spell tome that peddler gave me.</Source>
+      <Dest>我不知道如果你没有接这个活儿的话，我还能不能活下来。所以拿去吧，这是我承诺的奖励。一个小贩给我的魔法书。</Dest>
     </String>
     <String List="0">
-      <Source>Well, good luck with that.</Source>
-      <Dest>嗯，祝你好运。</Dest>
+      <Source>There's only one way to find out.</Source>
+      <Dest>那只有一个方法能让这一切水落石出了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dravos doesn't fight, but he does draw attention. You know how it is. Pretty much everyone attacks the Dremora first.</Source>
+      <Dest>Dravos没有战斗，但他确确实实吸引了不少注意力。你知道这是怎么回事的。几乎所有人都会本能的首先攻击魔族。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the crone, you did it! At least, it sure seems like you did, the way that cauldron's bubbling.</Source>
+      <Dest>天啊，你做到了！至少，看起来是没错, 那锅里冒的泡泡很像样。</Dest>
     </String>
     <String List="0">
-      <Source>I don't like being lied to, and I've tortured people for less.</Source>
-      <Dest>我厌恶谎言，因而我通过刑讯从人们嘴里挖出更多的真相。</Dest>
+      <Source>I've brought the ingredients for the ritual.</Source>
+      <Dest>我拿到了仪式所需的全部材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew it! I knew you wouldn't let me down! </Source>
+      <Dest>我就知道！你一定不会让我失望的！ </Dest>
     </String>
     <String List="0">
-      <Source>I don't like being lied to, and I've tortured people for less.</Source>
-      <Dest>我厌恶谎言，因而我通过刑讯从人们嘴里挖出更多的真相。</Dest>
+      <Source>I've brought the ingredients for the ritual.</Source>
+      <Dest>我拿到了仪式所需的全部材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, I was starting to doubt you just a little, but then I told myself, "Have faith, Misha, have faith..." and it worked!</Source>
+      <Dest>我的意思是,我开始有一点点的怀疑你,但是我告诉自己， "有信心，米莎，要有信心…… " 结果居然成功了！</Dest>
     </String>
     <String List="0">
-      <Source>I'm just curious. You can tell me the truth.</Source>
-      <Dest>我只是有点好奇罢了。你可以告诉我真想的。</Dest>
+      <Source>I've brought the ingredients for the ritual.</Source>
+      <Dest>我拿到了仪式所需的全部材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I knew it! I knew you wouldn't let me down! </Source>
+      <Dest>我就知道！你一定不会让我失望的！ </Dest>
+    </String>
+    <String List="0">
+      <Source>I've brought the ingredients for the ritual.</Source>
+      <Dest>我拿到了仪式所需的全部材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, I was starting to doubt you just a little, but then I told myself, "Have faith, Misha, have faith..." and it worked!</Source>
+      <Dest>我的意思是,我开始有一点点的怀疑你,但是我告诉自己， "有信心，米莎，要有信心…… " 结果居然成功了！</Dest>
+    </String>
+    <String List="2">
+      <Source>I call upon the crone of old, to boil the venom of bubbled toad; in swirls of guts and liver chopped, cook the first in this blackened pot!</Source>
+      <Dest>我拜访年迈的老太婆，蛙毒的气泡儿沸满锅。内脏和碎肝打旋儿搅，黑乎乎的食物完成了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Eye of newt and flocks of crow, boil the broth with the second's toes; Fillet of snake and magics dark, drain the life of this child's heart.</Source>
+      <Dest>蝾螈眼睛和乌鸦的毛，煮肉汤附加上脚趾熬制；蛇肉切片加上黑魔法，吸取着这孩子心脏的生命力】。</Dest>
+    </String>
+    <String List="2">
+      <Source>Round about the cauldron stirs, from mortal skin to withered bird; From these four lives it drinks the stew, from witch to hag be born anew!</Source>
+      <Dest>搅拌着热腾腾的大汽锅，凡人的皮肤变干褶。喝下用四个人煮出的汤，女巫变鬼婆获新生！</Dest>
+    </String>
+    <String List="2">
+      <Source>Or was it the hawk beak first, then the goat? I know the feathers are last but...what comes before that?</Source>
+      <Dest>或者鹰嘴应该是第一个，然后是山羊？我知道羽毛是最后的但是……什么应该排在羽毛前面？</Dest>
+    </String>
+    <String List="2">
+      <Source>Damn it Misha, why can't you remember!</Source>
+      <Dest>该死的，米莎，为什么你就不能记住！</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose another goat wouldn't hurt. Can you do me a favor and grab a goat hide from the crate? Then toss it into the cauldron.</Source>
+      <Dest>I suppose another goat wouldn't hurt. Can you do me a favor and grab a goat hide from the crate? Then toss it into the cauldron.</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, what comes next? Do I slaughter another goat?</Source>
+      <Dest>好了，接下来呢？要我接着宰另一只羊吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Watch your step. I got a little carried away with the blood, and you don't want to slip and fall from here.</Source>
+      <Dest>注意脚下。我看到血就有点激动，以及你也不会想滑倒然后从这里摔下去吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, this woman had huge feet! And do you know what they say about women with huge feet? I don't either.</Source>
+      <Dest>哇喔，这女人的脚可真大！你知道他们都说大脚女人什么吗？我也不知道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyways, in you go!</Source>
+      <Dest>别废话了，赶紧滚！</Dest>
+    </String>
+    <String List="2">
+      <Source>I have the whole ritual prepared. Right this way.</Source>
+      <Dest>我把整个仪式都准备好了。这边走。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is not something I can condone, or allow.</Source>
+      <Dest>这是我不能容忍和允许的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Neither can I! I was...I was just testing you. And you passed! Good for you. I'll just be in the tower, not performing witchcraft.</Source>
+      <Dest>我也不能！我只是……我只是在考验你。而你通过了！对你来说是个好消息。我只是呆在塔里，不会施展什么巫术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
+      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Great! I know just the family. They live in a small cottage west of here, across from Lost Echo Cave.</Source>
+      <Dest>太好了！我仅仅知道这家人住在西边的一个小房子里，在失落回声洞穴对面。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
+      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's something about them I don't like. Something...off.</Source>
+      <Dest>它们中有些东西我不喜欢，某些……陌生的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
+      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't get me wrong, I'm sure they're nice people once you get to know them, but not nice enough that I'd feel guilty about harvesting their organs.</Source>
+      <Dest>别误会我，我确信当你和他们混熟了会觉得他们都是好人，不过有点糟的是我会对收集他们的器官有负罪感。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
+      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I need the father's liver, the mother's toes, and the child's heart.</Source>
+      <Dest>我需要这一家人中父亲的肝脏，母亲的脚趾，以及孩子的心。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, I'll help you. Just tell me what organs, and if need be, whose.</Source>
+      <Dest>别担心。我能帮你。只要告诉我要什么器官，以及如果有必要的话，谁身上的。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you do this for me, I'll pay you in gold. No, better than gold. I've got a special reward for you. You'll see.</Source>
+      <Dest>如果你能为我做到这件事，我会付你金子。不，比金子更好。我会给你准备一份特殊奖励。你会看到的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about a Spriggan? Taproot is a keen source of magical energy.</Source>
+      <Dest>那用树精也行吧？直立根可是很犀利的魔法材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, there's going to be taproot in the cauldron, and a lot of other ingredients. But that's not what I need to finish the brew. I need people.</Source>
+      <Dest>Oh, there's going to be taproot in the cauldron, and a lot of other ingredients. But that's not what I need to finish the brew. I need people.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about a Spriggan? Taproot is a keen source of magical energy.</Source>
+      <Dest>那用树精也行吧？直立根可是很犀利的魔法材料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know that sounds wicked, but there's no other choice. You understand, don't you?</Source>
+      <Dest>我知道这听上去挺邪恶的，不过我没有选择了。你能理解的对吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the ritual itself? How do the organs help with the transformation?</Source>
+      <Dest>仪式怎么样了？器官在转换过程中帮助不小吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>As I understand it, they're simply part of the sacrifice. Mother Eygis used to say "The Old Gods grow strong on the fat of live souls."</Source>
+      <Dest>当我理解的时候，他们仅仅是祭品的一部分。修女伊吉斯过去常说：“上古之神吞噬如同肥肉一般的活人的灵魂而变得强大。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the ritual itself? How do the organs help with the transformation?</Source>
+      <Dest>仪式怎么样了？器官在转换过程中帮助不小吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's nothing personal, it's just the way it is. But to answer your question, the Gods do all the work. The sacrifices are just...well, a bribe.</Source>
+      <Dest>没什么可遮掩的，顺水推舟的事儿。不过要回答你的问题嘛，就是神灵保佑而已。那些祭品不过是……呃，贿赂吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
+      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
+    </String>
+    <String List="2">
+      <Source>Living organs are like soul gem fragments. They have lingering echoes of the soul.</Source>
+      <Dest>鲜活的器官就像是灵魂石碎片，那里面有灵魂残余的回响。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
+      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the difference between a beating heart and a still one, even if it's in a jar.</Source>
+      <Dest>这种区别就像一个跳动的心脏和一个死亡的心脏，即使跳动的那个是被放在罐子里的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
+      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
+    </String>
+    <String List="2">
+      <Source>You can even make a heart beat for hours outside the body, if the jar's filled with a special solution.</Source>
+      <Dest>如果把这个瓶子装满特殊的溶液的话，你甚至可以让心脏在身体外跳动几个小时。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me more about the ritual. Why must the organs be fresh?</Source>
+      <Dest>告诉我更多关于仪式的事，为何要新鲜的脏器？</Dest>
+    </String>
+    <String List="2">
+      <Source>Void salts, a torchbug thorax, and a drop of lemon juice is all you need. But I prefer we find bodies who live nearby.</Source>
+      <Dest>一把虚空之盐，一个萤火虫胸腔和一滴柠檬汁是你所需的所有材料。但我更喜欢从住在附近的人身上取材。</Dest>
+    </String>
+    <String List="0">
+      <Source>Absolutely not. What you're asking for is immoral.</Source>
+      <Dest>绝对不行。你的要求是不道德的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course it is! That's why...I was kidding! Just making a joke, ha-ha!</Source>
+      <Dest>那当然不道德！这就是为什么……我一直在逗你！我只是在开玩笑，哈——哈！</Dest>
+    </String>
+    <String List="0">
+      <Source>Absolutely not. What you're asking for is immoral.</Source>
+      <Dest>绝对不行。你的要求是不道德的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I couldn't possibly ask you to steal people's organs for my own personal benefit. That is not who I am!</Source>
+      <Dest>我不可能让你为了自己的利益而去偷取人们的器官。如果连这都能放任不管的话，我就不是我了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, that's not a problem, so long as it's a wild goat or some chicken.</Source>
+      <Dest>当然，那不成问题。只要是一只野羊或者野鸡什么的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, about that. I actually need organs from living people. But don't worry, it doesn't have to be people you like.</Source>
+      <Dest>是啊，关于这个。我确实需要从活人身上采集的器官。不过别担心，我不会从像你这样的人身上取的。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you need live bodies to perform a vivisection?</Source>
+      <Dest>所以你需要些活体来演出活体解剖？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods no, I can't stomach all the blood. But there might be another way to remove the body parts without needles or sutures. </Source>
+      <Dest>额啊，天呐，我真受不了这血了。但是应该还有别的办法可以不用针线缝合就能把尸块儿移开。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you need live bodies to perform a vivisection?</Source>
+      <Dest>所以你需要些活体来演出活体解剖？</Dest>
+    </String>
+    <String List="2">
+      <Source>You do realize we're talking about people, right? I mean, I need goat heads too, but we have plenty here already.</Source>
+      <Dest>你知道我们在谈论的人，对吗？我的意思是，我需要非常多的山羊头，但我们这里已经有很多了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does this ritual require?</Source>
+      <Dest>这仪式需要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It requires...ingredients. Well, not really ingredients, as in, feathers and plants.</Source>
+      <Dest>它需要一些原料。嗯，不是真的成分，如，羽毛和植物。</Dest>
+    </String>
+    <String List="0">
+      <Source>What does this ritual require?</Source>
+      <Dest>这仪式需要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't want to scare you but...I need organs. And I need them fresh. Real fresh. As in, ripped out from the body.</Source>
+      <Dest>我不想吓到你但……我需要内脏。鲜血淋漓，还冒着腾腾的热气的新鲜的内脏。我得……现把他们从人体里扽出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dremora won't listen to your commands?</Source>
+      <Dest>那个魔人不听你的命令？</Dest>
+    </String>
+    <String List="2">
+      <Source>When I ask him to fight, all he does is wave his stupid tankard around. It's like he's not even here.</Source>
+      <Dest>当我让他去战斗之时，他只会摇摇那愚蠢的啤酒杯。就好像他根本不在这里一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Please don't do that. I mean you no harm.</Source>
+      <Dest>请别那样做。我不会伤害你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? So you aren't here to hurt me? But you're so scary! Then again, so is this Dremora, and he's completely useless!</Source>
+      <Dest>真的？那你不是来这儿伤害我的喽？但你长得实在太诡异了！可是，这个魔人也一样,而他可是屁用没有啊！</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been trying to leave, but you're standing in the doorway.</Source>
+      <Dest>我是想跑出去啊，是你死死堵住了门口好吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>I am? Oh! I am! That was silly of me. Maybe I didn't have to summon this worthless Dremora after all.</Source>
+      <Dest>我？哦！没错！我真是愚不可及！或许我根本就不应该召唤没用的魔人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Dremora seems rather docile.</Source>
+      <Dest>你的魔人似乎相当温顺。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well that...that's because he's channeling his rage! Just look at him! He's a killer! He's...</Source>
+      <Dest>Well that...that's because he's channeling his rage! Just look at him! He's a killer! He's...</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Dremora seems rather docile.</Source>
+      <Dest>你的魔人似乎相当温顺。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, it's true...he's completely useless!</Source>
+      <Dest>天哪, 是真的...他是十足的废物!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dravos doesn't fight. He parties.</Source>
+      <Dest>爪佛斯打的不是架，是酱油。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're wrong! He...He's just making sure he doesn't stain his armor when he tears off your head!</Source>
+      <Dest>你错了！当他撕下你的头颅时，他只想确保不把自己的盔甲弄脏！</Dest>
+    </String>
+    <String List="0">
+      <Source>Dravos doesn't fight. He parties.</Source>
+      <Dest>爪佛斯打的不是架，是酱油。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just wait...you'll see...Oh Gods, what am I saying, he's completely worthless!</Source>
+      <Dest>等着吧……你会看到的……哦，神啊，我说了什么，他根本一文不值！</Dest>
     </String>
     <String List="0">
       <Source>Come with me, girl. I will teach you everything you need to know.</Source>
       <Dest>跟我走把姑娘。我会把你需要知道的一切都教你。</Dest>
     </String>
-    <String List="0">
-      <Source>How are you able to summon this Dremora?</Source>
-      <Dest>你怎么可能召唤出这个魔人?</Dest>
+    <String List="2">
+      <Source>You'll do that? But why? You're not a slaver, are you? By the crone, you are! Oh dear, oh dear, oh dear!</Source>
+      <Dest>你要那样做? 为毛啊? 你又不是个奴隶贩子不是吗?我勒个去, 你不是那谁吗! 我天，我去，我擦类!</Dest>
     </String>
     <String List="0">
-      <Source>How are you able to summon this Dremora?</Source>
-      <Dest>你怎么可能召唤出这个魔人?</Dest>
+      <Source>Then we have much in common. Smiting one's enemies is a noble pursuit.</Source>
+      <Dest>我们有许多共同之处。重击你的敌人是个高尚的追求。</Dest>
     </String>
-    <String List="0">
-      <Source>How are you able to summon this Dremora?</Source>
-      <Dest>你怎么可能召唤出这个魔人?</Dest>
-    </String>
-    <String List="0">
-      <Source>So you do want to be a hag. Well, we've all thought about it at some point.</Source>
-      <Dest>这么说你确实想变成乌鸦鬼婆。好吧那咱们现在想到一块去了。</Dest>
+    <String List="2">
+      <Source>Do you mean it? You're not trying to make me let my guard down, are you? Oh no, I just did! I've fallen right into your trap!</Source>
+      <Dest>你是来真的？让我使得守卫感到失望，你不会这样做的，对吧？噢不，我刚这样干了！我中了你的诡计！</Dest>
     </String>
     <String List="0">
       <Source>Relax. I didn't kill your friends.</Source>
       <Dest>别紧张，我没有杀你的朋友们。</Dest>
     </String>
-    <String List="0">
-      <Source>Dravos doesn't fight. He parties.</Source>
-      <Dest>爪佛斯打的不是架，是酱油。</Dest>
-    </String>
-    <String List="0">
-      <Source>Dravos doesn't fight. He parties.</Source>
-      <Dest>爪佛斯打的不是架，是酱油。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any way I can help?</Source>
-      <Dest>我能帮上什么忙吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Is there any way I can help?</Source>
-      <Dest>我能帮上什么忙吗？</Dest>
-    </String>
     <String List="2">
       <Source>So you're not one of the bandits? But that means you're trespassing right now...just like a bandit!  Agh! I'm too pretty to die!</Source>
       <Dest>所以你不是强盗团伙的一员喽？但是这就说明你是强行侵入……反而像个强盗！啊哈！我简直牛逼坏了！</Dest>
     </String>
-    <String List="2">
-      <Source>Oh Gods, oh Gods, oh Gods, I didn't mean to lie, I swear! Yes, I want to be a matriarch! I want wrinkles and feathers and claws and bird feet!</Source>
-      <Dest>天哪，天哪，天哪！我不想撒谎，我发誓！是的，我想成为一名有能力的女性！我想要皱纹、羽毛、爪子和鸟类的脚！</Dest>
-    </String>
-    <String List="2">
-      <Source>But you saw it. Mother Eygis is dead. All my sisters too. Which means I'll probably never become a matriarch.</Source>
-      <Dest>如你所见。母亲Eygis已经死了，我所有的姐妹也一样。这意味着……哦亲爱的…我被困在这身体里了!</Dest>
-    </String>
-    <String List="2">
-      <Source>They call it the Bird's Eye. Some say it's because it touches the sky. Others say it's because it's infested with hags.</Source>
-      <Dest>人们管它叫“鸟瞰高塔”。有的说是因为它高耸入云。有的说是因为上面有乌鸦鬼婆。</Dest>
-    </String>
-    <String List="2">
-      <Source>But what I really wanted was the power! You understand, don't you? Please don't kill me!</Source>
-      <Dest>但我真正想要的是力量！你明白的，对吗？拜托了，别杀我！</Dest>
-    </String>
-    <String List="2">
-      <Source>See, I told you! That's a Dremora Lord, in the flesh! Leave, before I sick him on you!</Source>
-      <Dest>看，我告诉你！这是一个魔人王士，活生生的！在我教唆他攻击你之前，离开！</Dest>
+    <String List="0">
+      <Source>It's happening because you chose to cavort with the wicked. Now, you die.</Source>
+      <Dest>事情之所以会发生是因为你选择了与这邪恶者为伍。而现在，你得死了。</Dest>
     </String>
     <String List="2">
       <Source>Agh! Tell my family I regret nothing! Wait, they're all dead. In that case, I'll tell them myself!</Source>
       <Dest>哈！去给家族说我一点都不后悔吧！等下，他们全死光了。这种情况下我就能代表我的家族！</Dest>
     </String>
     <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+      <Source>Why is this happening! All I ever wanted was to learn a little magic...and maybe smite a few enemies.</Source>
+      <Dest>为什么会发生这种事！我只是想学一点点魔法……也许还能干掉那么一点点敌人。</Dest>
     </String>
     <String List="2">
-      <Source>You're wrong! He...He's just making sure he doesn't stain his armor when he tears off your head!</Source>
-      <Dest>你错了！当他撕下你的头颅时，他只想确保不把自己的盔甲弄脏！</Dest>
+      <Source>See, I told you! That's a Dremora Lord, in the flesh! Leave, before I sick him on you!</Source>
+      <Dest>看，我告诉你！这是一个魔人王士，活生生的！在我教唆他攻击你之前，离开！</Dest>
+    </String>
+    <String List="0">
+      <Source>How are you able to summon this Dremora?</Source>
+      <Dest>你怎么可能召唤出这个魔人?</Dest>
     </String>
     <String List="2">
-      <Source>Really? You'd do that for me? But we just met! Oh Gods, I didn't just talk you out of it, did I?</Source>
-      <Dest>真的？你要帮我这个忙？可我们才刚刚认识。噢天呐，我刚刚真的跟你说了那些吗？</Dest>
+      <Source>I don't know. I've heard only master conjurers can do it. But there was this peddler named Sam, and he sold me a tome.</Source>
+      <Dest>我不知道.我只听说幻术大师才能办到. 但是有个叫山姆的不法商贩, 他卖了给我一本这个魔法书.</Dest>
     </String>
-    <String List="2">
-      <Source>And those people down there, I-I never liked them anyway! I'm happy they're dead. Please, just don't hurt me!</Source>
-      <Dest>而这些死了的家伙，我……我就没喜欢过他们！他们死了我超开心！求你了，别伤害我！</Dest>
-    </String>
-    <String List="2">
-      <Source>That stranger's going to leave, Misha, just wait here and they'll leave you alone.</Source>
-      <Dest>米莎，那个陌生人准备离开了。在这里稍微等一会他们就都走了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I should have known it was too good to be true.</Source>
-      <Dest>我早该料到的，但这真是做梦也想不到。</Dest>
-    </String>
-    <String List="2">
-      <Source>You! In the chair! Don't get up! I swear on the Gods, I will push you over if you do!</Source>
-      <Dest>你！就坐椅子上！别起来！向众神发誓，你敢站起来我就敢推倒你！</Dest>
-    </String>
-    <String List="2">
-      <Source>You have? Oh! Of course you have! Their magic is so strong. I'd turn myself into a fungus if it meant having that power.</Source>
-      <Dest>我做到了？哦，你真的做到了，他们的魔法是那么的强大，我想我甚至不惜变成一个蘑菇，如果哪样做能获取他们的力量的话</Dest>
-    </String>
-    <String List="2">
-      <Source>No way, not me! I'm just a regular old student from the College of Windhelm, on her way back home.</Source>
-      <Dest>没门儿，不能是我！我只是风盔城大学的一个普通学生而已，正在回家的路上。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh no, you've gotten up! What am I going to do? Money! I will pay you money to get back in that chair!</Source>
-      <Dest>哦不，你已经起来了！我该咋办？银子！只要你坐回那张椅子上去，我就付你钱！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll have you know I'm no ordinary witch! Have you ever seen a Dremora Lord? Well, uh, his name is Dravos, and he's a trained killer!</Source>
-      <Dest>我会让你晓得我可不是一般的巫师！见过魔人王士没？哼，他叫德拉沃斯，一个训练有素的杀手！</Dest>
-    </String>
-    <String List="2">
-      <Source>You'll do that? But why? You're not a slaver, are you? By the crone, you are! Oh dear, oh dear, oh dear!</Source>
-      <Dest>你要那样做? 为毛啊? 你又不是个奴隶贩子不是吗?我勒个去, 你不是那谁吗! 我天，我去，我擦类!</Dest>
-    </String>
-    <String List="2">
-      <Source>No! Of course not! I mean, you people kill the mothers, right? Then...hehe...why would I want to be one?</Source>
-      <Dest>不！当然不！我的意思是，你们这些人弑亲嗜血，对吗？那么…呵呵…为什么我会想成为其中之一呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>Agh! You're still here! Well, I didn't want to do this, but y-you leave me no choice!</Source>
-      <Dest>啊！你居然还在这里！好吧，我本不想这么做，但是你-你让我别无选择！</Dest>
-    </String>
-    <String List="2">
-      <Source>Because there really might be a way, even without Mother Eygis. It's incredibly risky, and you might have to get your hands dirty.</Source>
-      <Dest>因为可能真的有办法，就算不靠Mother Eygis。那方法极其危险，而且你有可能需要动手做些不干净的事。</Dest>
+    <String List="0">
+      <Source>How are you able to summon this Dremora?</Source>
+      <Dest>你怎么可能召唤出这个魔人?</Dest>
     </String>
     <String List="2">
       <Source>He said it was special book made for novices. I can't tell you how excited I was when it actually worked.  But then I tried to command him.</Source>
       <Dest>他说这本书是特别为新手而写的，我简直无法表达当那本书里说的起效的时候我的兴奋之情。不过之后我就开始试着控制他了。</Dest>
     </String>
+    <String List="0">
+      <Source>How are you able to summon this Dremora?</Source>
+      <Dest>你怎么可能召唤出这个魔人?</Dest>
+    </String>
     <String List="2">
-      <Source>I don't know. I've heard only master conjurers can do it. But there was this peddler named Sam, and he sold me a tome.</Source>
-      <Dest>我不知道.我只听说幻术大师才能办到. 但是有个叫山姆的不法商贩, 他卖了给我一本这个魔法书.</Dest>
+      <Source>I should have known it was too good to be true.</Source>
+      <Dest>我早该料到的，但这真是做梦也想不到。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, good luck with that.</Source>
+      <Dest>嗯，那也只能祝你好运了。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the taproot, does this mean you're going to let me live? And I didn't even have to pay you! That's a load off my mind.</Source>
+      <Dest>By the taproot, does this mean you're going to let me live? And I didn't even have to pay you! That's a load off my mind.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any way I can help?</Source>
+      <Dest>我能帮上什么忙吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? You'd do that for me? But we just met! Oh Gods, I didn't just talk you out of it, did I?</Source>
+      <Dest>真的？你要帮我这个忙？可我们才刚刚认识。噢天呐，我刚刚真的跟你说了那些吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any way I can help?</Source>
+      <Dest>我能帮上什么忙吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Because there really might be a way, even without Mother Eygis. It's incredibly risky, and you might have to get your hands dirty.</Source>
+      <Dest>因为可能真的有办法，就算不靠Mother Eygis。那方法极其危险，而且你有可能需要动手做些不干净的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you do want to be a hag. Well, we've all thought about it at some point.</Source>
+      <Dest>这么说你确实想变成乌鸦鬼婆。好吧那咱们现在想到一块去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have? Oh! Of course you have! Their magic is so strong. I'd turn myself into a fungus if it meant having that power.</Source>
+      <Dest>我做到了？哦，你真的做到了，他们的魔法是那么的强大，我想我甚至不惜变成一个蘑菇，如果哪样做能获取他们的力量的话</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't like being lied to, and I've tortured people for less.</Source>
+      <Dest>我厌恶谎言，因而我通过刑讯从人们嘴里挖出更多的真相。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh Gods, oh Gods, oh Gods, I didn't mean to lie, I swear! Yes, I want to be a matriarch! I want wrinkles and feathers and claws and bird feet!</Source>
+      <Dest>天哪，天哪，天哪！我不想撒谎，我发誓！是的，我想成为一名有能力的女性！我想要皱纹、羽毛、爪子和鸟类的脚！</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't like being lied to, and I've tortured people for less.</Source>
+      <Dest>我厌恶谎言，因而我通过刑讯从人们嘴里挖出更多的真相。</Dest>
+    </String>
+    <String List="2">
+      <Source>But what I really wanted was the power! You understand, don't you? Please don't kill me!</Source>
+      <Dest>但我真正想要的是力量！你明白的，对吗？拜托了，别杀我！</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm just curious. You can tell me the truth.</Source>
+      <Dest>我只是有点好奇罢了。你可以告诉我真想的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh!  Well, in that case...maybe I do. But only because they're extremely powerful. It's not like I, you know, want to look like a vulture. Really.</Source>
+      <Dest>哦！好吧，既然如此……也许我会去干的。但仅仅是因为他们太强大了。你知道，这可不像我想要被别人看做秃鹫一样。真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you want to be a hagraven?</Source>
+      <Dest>你是说你想当个乌鸦鬼婆？</Dest>
+    </String>
+    <String List="2">
+      <Source>No! Of course not! I mean, you people kill the mothers, right? Then...hehe...why would I want to be one?</Source>
+      <Dest>不！当然不！我的意思是，你们这些人弑亲嗜血，对吗？那么…呵呵…为什么我会想成为其中之一呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you saying you want to be a hagraven?</Source>
+      <Dest>你是说你想当个乌鸦鬼婆？</Dest>
+    </String>
+    <String List="2">
+      <Source>No way, not me! I'm just a regular old student from the College of Windhelm, on her way back home.</Source>
+      <Dest>没门儿，不能是我！我只是风盔城大学的一个普通学生而已，正在回家的路上。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="2">
+      <Source>They call it the Bird's Eye. Some say it's because it touches the sky. Others say it's because it's infested with hags.</Source>
+      <Dest>人们管它叫“鸟瞰高塔”。有的说是因为它高耸入云。有的说是因为上面有乌鸦鬼婆。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is this place?</Source>
+      <Dest>这是什么地方？</Dest>
+    </String>
+    <String List="2">
+      <Source>But you saw it. Mother Eygis is dead. All my sisters too. Which means I'll probably never become a matriarch.</Source>
+      <Dest>如你所见。母亲Eygis已经死了，我所有的姐妹也一样。这意味着……哦亲爱的…我被困在这身体里了!</Dest>
     </String>
     <String List="2">
       <Source>Run!</Source>
       <Dest>撤！</Dest>
     </String>
     <String List="2">
-      <Source>Do you mean it? You're not trying to make me let my guard down, are you? Oh no, I just did! I've fallen right into your trap!</Source>
-      <Dest>你是来真的？让我使得守卫感到失望，你不会这样做的，对吧？噢不，我刚这样干了！我中了你的诡计！</Dest>
+      <Source>Don't believe me? T-Then feast your eyes on this!</Source>
+      <Dest>Don't believe me? T-Then feast your eyes on this!</Dest>
     </String>
     <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Source>I'll have you know I'm no ordinary witch! Have you ever seen a Dremora Lord? Well, uh, his name is Dravos, and he's a trained killer!</Source>
+      <Dest>我会让你晓得我可不是一般的巫师！见过魔人王士没？哼，他叫德拉沃斯，一个训练有素的杀手！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh! You're still here! Well, I didn't want to do this, but y-you leave me no choice!</Source>
+      <Dest>啊！你居然还在这里！好吧，我本不想这么做，但是你-你让我别无选择！</Dest>
+    </String>
+    <String List="2">
+      <Source>That stranger's going to leave, Misha, just wait here and they'll leave you alone.</Source>
+      <Dest>米莎，那个陌生人准备离开了。在这里稍微等一会他们就都走了。</Dest>
     </String>
     <String List="2">
       <Source>Oh no, you're getting up, aren't you? Money! I will pay you money to stay in that chair!</Source>
       <Dest>哦不！你起来了，对吧？钱！我会花钱让你坐到那张椅子上！</Dest>
     </String>
     <String List="2">
-      <Source>Just wait...you'll see...Oh Gods, what am I saying, he's completely worthless!</Source>
-      <Dest>等着吧……你会看到的……哦，神啊，我说了什么，他根本一文不值！</Dest>
+      <Source>Oh no, you've gotten up! What am I going to do? Money! I will pay you money to get back in that chair!</Source>
+      <Dest>哦不，你已经起来了！我该咋办？银子！只要你坐回那张椅子上去，我就付你钱！</Dest>
     </String>
     <String List="2">
-      <Source>Why is this happening! All I ever wanted was to learn a little magic...and maybe smite a few enemies.</Source>
-      <Dest>为什么会发生这种事！我只是想学一点点魔法……也许还能干掉那么一点点敌人。</Dest>
+      <Source>And those people down there, I-I never liked them anyway! I'm happy they're dead. Please, just don't hurt me!</Source>
+      <Dest>而这些死了的家伙，我……我就没喜欢过他们！他们死了我超开心！求你了，别伤害我！</Dest>
     </String>
     <String List="2">
-      <Source>Oh!  Well, in that case...maybe I do. But only because they're extremely powerful. It's not like I, you know, want to look like a vulture. Really.</Source>
-      <Dest>哦！好吧，既然如此……也许我会去干的。但仅仅是因为他们太强大了。你知道，这可不像我想要被别人看做秃鹫一样。真的。</Dest>
+      <Source>You! In the chair! Don't get up! I swear on the Gods, I will push you over if you do!</Source>
+      <Dest>你！就坐椅子上！别起来！向众神发誓，你敢站起来我就敢推倒你！</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know the scene hasn't been tampered with?</Source>
+      <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSTXMLRessources>
   <Params>
     <Addon>3DNPC.esp</Addon>
@@ -7,605 +7,152 @@
   </Params>
   <Content>
     <String List="2">
-      <Source>Would you like to buy a lady a drink?</Source>
-      <Dest>你能為一位小姐點杯飲料嗎？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="0">
-      <Source>What's your problem?</Source>
-      <Dest>你遇到什么问题了？</Dest>
-    </String>
-    <String List="0">
-      <Source>Very well.</Source>
-      <Dest>很好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let me know if there's anything else you need.</Source>
-      <Dest>如果你还有什么需要的话，请告诉我。</Dest>
-    </String>
-    <String List="2">
-      <Source>Good.</Source>
-      <Dest>很好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Very well.</Source>
-      <Dest>非常好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Can I help you?</Source>
-      <Dest>我能为你效劳吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>You want a drink?</Source>
-      <Dest>想喝点什么吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on in. Just stoked the fire. Take a seat and get the cold out.</Source>
-      <Dest>进来吧。赶紧烤烤火。坐下驱驱寒吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Let me know if you see anything you like.</Source>
-      <Dest>如果你看上了什么就请告诉我。</Dest>
-    </String>
-    <String List="0">
-      <Source>Would you mind cooking something for me?</Source>
-      <Dest>你介不介意帮我煮点吃的？</Dest>
-    </String>
-    <String List="0">
-      <Source>Has the store made any money?</Source>
-      <Dest>商店有赚钱吗？</Dest>
-    </String>
-    <String List="0">
-      <Source>Who are you?</Source>
-      <Dest>你是谁？</Dest>
-    </String>
-    <String List="0">
-      <Source>Yes. Let me show you.</Source>
-      <Dest>不错，让我展示给你看。</Dest>
-    </String>
-    <String List="0">
-      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
-      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="0">
-      <Source>I'd like us to move somewhere else.</Source>
-      <Dest>我想我们得移动到别的地方。</Dest>
-    </String>
-    <String List="2">
-      <Source>Excellent. I think you'll be glad that you made this decision.</Source>
-      <Dest>很好。你会庆幸你做出了这个英明的决定的。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you need?</Source>
-      <Dest>你想要什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>If you change your mind, you know where to find me.</Source>
-      <Dest>如果你改变主意，你知道到哪儿找我。</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>What do you mean?</Source>
-      <Dest>你是什么意思？</Dest>
-    </String>
-    <String List="2">
-      <Source>As you will.</Source>
-      <Dest>如你所愿。</Dest>
-    </String>
-    <String List="0">
-      <Source>Interested in me, are you?</Source>
-      <Dest>你对我有兴趣，没错吧？</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me. I need your help.</Source>
-      <Dest>跟着我。我需要你的帮助。</Dest>
-    </String>
-    <String List="0">
-      <Source>Is that all?</Source>
-      <Dest>就这样？</Dest>
-    </String>
-    <String List="0">
-      <Source>Anything else?</Source>
-      <Dest>还有其他事吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>Lead the way.</Source>
-      <Dest>带路吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Is that all?</Source>
-      <Dest>就这样？</Dest>
-    </String>
-    <String List="2">
-      <Source>Anything else?</Source>
-      <Dest>还有其他事吗？</Dest>
-    </String>
-    <String List="2">
-      <Source>I don't have to take this from the likes of you.</Source>
-      <Dest>我没必要照着你的喜好来办事。</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you escape?</Source>
-      <Dest>你是怎么逃脱的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you escape?</Source>
-      <Dest>你是怎么逃脱的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you escape?</Source>
-      <Dest>你是怎么逃脱的？</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope we bump into each other again.</Source>
-      <Dest>希望我们有机会再见面。</Dest>
-    </String>
-    <String List="2">
-      <Source>Want to talk? Go ahead.</Source>
-      <Dest>想谈谈吗？请便。</Dest>
-    </String>
-    <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
-    </String>
-    <String List="2">
-      <Source>Greetings, Arch-Mage.</Source>
-      <Dest>幸会，首席法师。</Dest>
-    </String>
-    <String List="2">
-      <Source>You want another one of those?</Source>
-      <Dest>你要另外一个？</Dest>
-    </String>
-    <String List="2">
-      <Source>Indeed.</Source>
-      <Dest>没错。</Dest>
-    </String>
-    <String List="2">
-      <Source>See you around, my beauty.</Source>
-      <Dest>再见了美人儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>See you around, handsome.</Source>
-      <Dest>再见了帅哥儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>You look like an adventurous one. I bet we're kindred spirits, you and I.</Source>
-      <Dest>你看起来很爱冒险，我打赌你和我是同一类人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, be careful!</Source>
-      <Dest>嘿，小心点！</Dest>
-    </String>
-    <String List="2">
-      <Source>What are you doing?</Source>
-      <Dest>你在幹什么？</Dest>
-    </String>
-    <String List="2">
-      <Source>I'm on your side!</Source>
-      <Dest>我是帮你的啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>Lead the way.</Source>
-      <Dest>带路吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Take care.</Source>
-      <Dest>多保重。</Dest>
-    </String>
-    <String List="0">
-      <Source>(Remain Silent)</Source>
-      <Dest>(保持沉默)</Dest>
-    </String>
-    <String List="0">
-      <Source>(Remain Silent)</Source>
-      <Dest>(保持沉默)</Dest>
-    </String>
-    <String List="0">
-      <Source>You're welcome.</Source>
-      <Dest>不用客气。</Dest>
-    </String>
-    <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
-    </String>
-    <String List="0">
-      <Source>What is this place?</Source>
-      <Dest>这是什么地方？</Dest>
-    </String>
-    <String List="2">
-      <Source>You're welcome.</Source>
-      <Dest>不用客气。</Dest>
-    </String>
-    <String List="0">
-      <Source>Wait here.</Source>
-      <Dest>在这里等着。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="0">
-      <Source>Follow me.</Source>
-      <Dest>跟我走。</Dest>
-    </String>
-    <String List="2">
-      <Source>Are you sure?</Source>
-      <Dest>你确定？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>What have you got for sale?</Source>
-      <Dest>你都卖些什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Hello.</Source>
-      <Dest>哈啰。</Dest>
-    </String>
-    <String List="2">
-      <Source>Hello.</Source>
-      <Dest>你好。</Dest>
-    </String>
-    <String List="2">
-      <Source>Take a look.</Source>
-      <Dest>随便看看。</Dest>
-    </String>
-    <String List="2">
-      <Source>Drink for the thirsty, food for the hungry.</Source>
-      <Dest>渴了畅饮美酒，饿了大啖美食。</Dest>
-    </String>
-    <String List="2">
-      <Source>Easily blocked!</Source>
-      <Dest>分分钟挡住！</Dest>
-    </String>
-    <String List="2">
-      <Source>Gah!</Source>
-      <Dest>嘎！</Dest>
-    </String>
-    <String List="2">
-      <Source>Gah!</Source>
-      <Dest>嘎！</Dest>
-    </String>
-    <String List="2">
-      <Source>Give up while you still can!</Source>
-      <Dest>趁你还有反悔的机会，投降吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Hyargh!</Source>
-      <Dest>嘿呀！</Dest>
-    </String>
-    <String List="2">
-      <Source>Ugh...</Source>
-      <Dest>呃……</Dest>
-    </String>
-    <String List="2">
-      <Source>Mercy!</Source>
-      <Dest>饶命啊！我祈求你的怜悯</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, vampire!</Source>
-      <Dest>去死吧，吸血鬼！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, beast!</Source>
-      <Dest>去死吧，畜生！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, dragon!</Source>
-      <Dest>去死吧，巨龙！</Dest>
-    </String>
-    <String List="2">
-      <Source>Damn you!</Source>
-      <Dest>混蛋！</Dest>
-    </String>
-    <String List="2">
-      <Source>You're nothing!</Source>
-      <Dest>你只是个无名小卒！</Dest>
-    </String>
-    <String List="2">
-      <Source>Do your worst!</Source>
-      <Dest>你还是做好最坏的打算吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>Come on!</Source>
-      <Dest>來吧！</Dest>
-    </String>
-    <String List="2">
-      <Source>No!</Source>
-      <Dest>不！</Dest>
-    </String>
-    <String List="2">
-      <Source>Argh!</Source>
-      <Dest>啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>You can't win this!</Source>
-      <Dest>就你这两下子还想获胜？！</Dest>
-    </String>
-    <String List="2">
-      <Source>Not impressed!</Source>
-      <Dest>没啥了不起的！</Dest>
-    </String>
-    <String List="2">
-      <Source>Die, damn you!</Source>
-      <Dest>去死吧，混蛋！</Dest>
-    </String>
-    <String List="2">
-      <Source>I've had enough of you!</Source>
-      <Dest>我受够你了！</Dest>
-    </String>
-    <String List="2">
-      <Source>Agh!</Source>
-      <Dest>啊！</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll have your head!</Source>
-      <Dest>我要剁你的脑袋！</Dest>
-    </String>
-    <String List="0">
-      <Source>Of course.</Source>
-      <Dest>当然。</Dest>
-    </String>
-    <String List="2">
-      <Source>Be careful!</Source>
-      <Dest>小心点！</Dest>
-    </String>
-    <String List="2">
-      <Source>Huh?</Source>
-      <Dest>哈？</Dest>
-    </String>
-    <String List="2">
-      <Source>Hey, watch it!</Source>
-      <Dest>嘿！小心！</Dest>
-    </String>
-    <String List="2">
-      <Source>I understand.</Source>
-      <Dest>我明白了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Nah. I don't think so.</Source>
-      <Dest>不要，我没兴趣。</Dest>
-    </String>
-    <String List="2">
-      <Source>Of course.</Source>
-      <Dest>当然了。</Dest>
-    </String>
-    <String List="2">
-      <Source>I'll teach you to talk to me that way!</Source>
-      <Dest>让我来教教你怎么说人话</Dest>
-    </String>
-    <String List="2">
-      <Source>How can I argue with that?</Source>
-      <Dest>我怎能不同意呢？</Dest>
+      <Source>What can't you get me, sweetie.</Source>
+      <Dest>还有什么你不能帮我弄到的，宝贝儿。</Dest>
     </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
+    <String List="2">
+      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
+      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
+    </String>
     <String List="0">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
-      <Source>You're welcome.</Source>
-      <Dest>不用客气。</Dest>
+    <String List="2">
+      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
+      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
     <String List="0">
-      <Source>I have to go. Thanks for your time.</Source>
-      <Dest>我得走了，感谢你的帮助。</Dest>
+      <Source>Beauty can reveal the beast in those who desire it.</Source>
+      <Dest>美女可以向野兽透露想捕捉它的人。（？）</Dest>
+    </String>
+    <String List="2">
+      <Source>I have so very many ways to deal with people. Even the most savage beasts.</Source>
+      <Dest>我有很多与人打交道的方法。即使那人像是最野蛮的野兽。</Dest>
     </String>
     <String List="0">
       <Source>I think you overestimate your beauty, and their intent.</Source>
       <Dest>我觉得你是老孔雀开屏———自作多情。</Dest>
     </String>
-    <String List="0">
-      <Source>Beauty can reveal the beast in those who desire it.</Source>
-      <Dest>只要有意為之，那怕野兽都能展现出美來。
-（？）</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to take of some business. Enjoy your stay.</Source>
-      <Dest>我有些事情需要去忙了，希望你过的愉快。.</Dest>
-    </String>
-    <String List="0">
-      <Source>I need to take of some business. Enjoy your stay.</Source>
-      <Dest>我有些事情需要去忙了，希望你过的愉快。.</Dest>
-    </String>
-    <String List="0">
-      <Source>You are indeed beautiful.</Source>
-      <Dest>你真的很美！</Dest>
-    </String>
-    <String List="0">
-      <Source>Is everyone treating you well? This place has a rough history.</Source>
-      <Dest>大家对你还好吗？这地方可是出了名的粗暴。</Dest>
+    <String List="2">
+      <Source>Well, if you say so.</Source>
+      <Dest>好吧，如果你这样说的话。</Dest>
     </String>
     <String List="0">
       <Source>Who would want to hurt you? Myself, for one.</Source>
       <Dest>有谁想要伤害你？算我一个！</Dest>
     </String>
     <String List="2">
-      <Source>Hm?  I smell blood.</Source>
-      <Dest>嗯？我闻到了血腥味。</Dest>
+      <Source>Oh dear! Whatever is a girl to do with such fearful brutes about her.</Source>
+      <Dest>哦亲爱的！有这样一个可怕的禽兽在附近，【那就别管姑娘家会做出什么反应来啦】。</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed beautiful.</Source>
+      <Dest>你真的很美！</Dest>
+    </String>
+    <String List="2">
+      <Source>I know. Few can resist my charms. Even fewer are worthy of them.</Source>
+      <Dest>我知道,很少有人能抵挡我的魔力。而值得我为之展示这份魅力的人就少之又少了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is everyone treating you well? This place has a rough history.</Source>
+      <Dest>大家对你还好吗？这地方可是出了名的粗暴。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh I don't believe those rumors my friend. Besides, who would ever want to harm such beauty?</Source>
+      <Dest>噢朋友我可不信那一套。另外，谁会想要伤害这样的美人儿呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to take of some business. Enjoy your stay.</Source>
+      <Dest>我有些事情需要去忙了，希望你过的愉快。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Later then.</Source>
+      <Dest>Later then.</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to take of some business. Enjoy your stay.</Source>
+      <Dest>我有些事情需要去忙了，希望你过的愉快。.</Dest>
+    </String>
+    <String List="0">
+      <Source>I have to go. Thanks for your time.</Source>
+      <Dest>我得走了，感谢你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're welcome.</Source>
+      <Dest>不用客气。</Dest>
     </String>
     <String List="2">
       <Source>You're welcome.</Source>
       <Dest>欢迎。</Dest>
     </String>
     <String List="2">
-      <Source>Until next time.</Source>
-      <Dest>下回见。</Dest>
-    </String>
-    <String List="2">
-      <Source>Would you like to buy a lady a drink?</Source>
-      <Dest>你能為一位小姐點杯飲料嗎？</Dest>
-    </String>
-    <String List="2">
       <Source>Take care of yourself.</Source>
-      <Dest>保重啊。</Dest>
-    </String>
-    <String List="2">
-      <Source>You look like an adventurous one. I bet we're kindred spirits, you and I.</Source>
-      <Dest>你看起来很爱冒险，我打赌你和我是一类人。</Dest>
-    </String>
-    <String List="2">
-      <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
-      <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
-    </String>
-    <String List="2">
-      <Source>You don't have enough gold, and I'm not cutting any deals.</Source>
-      <Dest>我总不能因为你带不够钱而降低交易价格吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh I don't believe those rumors my friend. Besides, who would ever want to harm such beauty?</Source>
-      <Dest>噢朋友我可不信那一套。另外，谁会想要伤害这样的美人儿呢？</Dest>
-    </String>
-    <String List="2">
-      <Source>{Applause}</Source>
-      <Dest>{掌声}</Dest>
-    </String>
-    <String List="2">
-      <Source>{Applause}</Source>
-      <Dest>{掌声}</Dest>
-    </String>
-    <String List="2">
-      <Source>I have so very many ways to deal with people. Even the most savage beasts.</Source>
-      <Dest>我有很多与人打交道的方法。即使那人像是最野蛮的野兽。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well, if you say so.</Source>
-      <Dest>好吧，如果你这样说的话。</Dest>
-    </String>
-    <String List="2">
-      <Source>I hope we bump into each other again.</Source>
-      <Dest>希望我们有机会再见面。</Dest>
-    </String>
-    <String List="2">
-      <Source>All right, then.</Source>
-      <Dest>那就这样吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>What can't you get me, sweetie.</Source>
-      <Dest>还有什么你不能帮我弄到的，宝贝儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>I know. Few can resist my charms. Even fewer are worthy of them.</Source>
-      <Dest>我知道,很少有人能抵挡我的魔力。而值得我为之展示这份魅力的人就少之又少了。</Dest>
-    </String>
-    <String List="2">
-      <Source>Well aren't you the pretty one. I bet all the men chase after you.</Source>
-      <Dest>哇噢你真是个美人儿啊。身边一定有一堆的男人追着吧。</Dest>
-    </String>
-    <String List="2">
-      <Source>See you around, my beauty.</Source>
-      <Dest>再见了美人儿。</Dest>
-    </String>
-    <String List="2">
-      <Source>Oh dear! Whatever is a girl to do with such fearful brutes about her.</Source>
-      <Dest>哦亲爱的！有这样一个可怕的禽兽在附近，【那就别管姑娘家会做出什么反应来啦】。</Dest>
-    </String>
-    <String List="2">
-      <Source>Ed, how can I argue with that.  Thank you.</Source>
-      <Dest>艾德，我怎么能就那个跟你吵呢。谢谢你。</Dest>
+      <Dest>照顾好自己。</Dest>
     </String>
     <String List="2">
       <Source>I'll see you around.</Source>
       <Dest>那就再见吧。</Dest>
     </String>
     <String List="2">
+      <Source>I hope we bump into each other again.</Source>
+      <Dest>希望我们有机会再见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you will.</Source>
+      <Dest>如你所愿。</Dest>
+    </String>
+    <String List="2">
       <Source>See you around, handsome.</Source>
       <Dest>再见了帅哥儿。</Dest>
     </String>
     <String List="2">
-      <Source>Yes?</Source>
-      <Dest>怎么了？</Dest>
+      <Source>See you around, my beauty.</Source>
+      <Dest>再见了美人儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you like to buy a lady a drink?</Source>
+      <Dest>你能请一位女士喝一杯吗？</Dest>
     </String>
     <String List="2">
       <Source>Well aren't you the handsome one. You and I should spend some time together.</Source>
       <Dest>好了，你难道不是个帅气的家伙么？你我应共度一段美好时光。</Dest>
     </String>
     <String List="2">
+      <Source>Well aren't you the pretty one. I bet all the men chase after you.</Source>
+      <Dest>哇噢你真是个美人儿啊。身边一定有一堆的男人追着吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You look like an adventurous one. I bet we're kindred spirits, you and I.</Source>
+      <Dest>你看起来像一个爱冒险的人。我觉得我们志趣相投，你和我。</Dest>
+    </String>
+    <String List="2">
       <Source>Want to talk? Go ahead.</Source>
       <Dest>想谈谈吗？请便。</Dest>
     </String>
     <String List="2">
-      <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他被迫在独孤城过了一夜。</Dest>
+      <Source>Ed, how can I argue with that.  Thank you.</Source>
+      <Dest>艾德，我怎么能就那个跟你吵呢。谢谢你。</Dest>
     </String>
     <String List="2">
-      <Source>Need something?</Source>
-      <Dest>需要些什么吗？</Dest>
+      <Source>Hm?  I smell blood.</Source>
+      <Dest>嗯？我闻到了血腥味。</Dest>
     </String>
     <String List="2">
-      <Source>What can I do for you?</Source>
-      <Dest>有什么可以效劳的？</Dest>
+      <Source>{Applause}</Source>
+      <Dest>{掌声}</Dest>
     </String>
     <String List="2">
-      <Source>As you will.</Source>
-      <Dest>如你所愿。</Dest>
+      <Source>{Applause}</Source>
+      <Dest>{掌声}</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't have enough gold, and I'm not cutting any deals.</Source>
+      <Dest>我总不能因为你带不够钱而降低交易价格吧。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
