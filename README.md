@@ -31,7 +31,7 @@ BLOG http://txl263.github.io/3DNPC/
 -   有其他任何问题都欢迎发issue，我们看到了会尽快回复。  
 
 ###认领章节记录  
-目前准备开始二校，一下是需要校对的NPC，文件位于/3.02/二校
+目前准备开始二校，一下是需要校对的NPC，文件位于/3.02/二校  
 1.  [ ]Helsig.xml  
 2.  [ ]Iria.xml  
 3.  [ ]Iris the Elder.xml 
