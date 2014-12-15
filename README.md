@@ -19,7 +19,7 @@ BLOG http://txl263.github.io/3DNPC/
 ###参与步骤  
 有些朋友可能不太清楚如何参与校对翻译，我这里写一个简单的流程，大家可以参考一下：  
 1.  Fork主仓库https://github.com/txl263/3DNPC/  
-2.  按照（页面）认领翻译(每次申请一个页面，页面有大有小，请量力而为)，在下面这个README.md里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；  
+2.  按照（页面）认领翻译(每次申请一个页面，页面有大有小，请量力而为，长时间没有pull可能会被取消占位。)，在下面这个README.md里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；  
 3.  提的pull request 被确认，合并到主仓库后，代表你申请的章节占位完成，开始翻译或者校对（或者到Issues里找文件名认领记录去申请）；  
 4.  翻译过程请参 _翻译协作规范_ ，完成翻译后提交pull request给主仓库的master分支；  
 
