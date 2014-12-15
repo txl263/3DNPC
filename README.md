@@ -6,7 +6,7 @@
 主页：http://3dnpc.com/  
 N网地址：http://skyrim.nexusmods.com/mods/8429/  
 ###Github托管主页  
-本页 https://github.com/txl263/3DNPC  
+https://github.com/txl263/3DNPC  
 BLOG http://txl263.github.io/3DNPC/  
 ###参与方式
 -   加入QQ交流群：188421046，向群主或者管理员提错误。
@@ -17,10 +17,12 @@ BLOG http://txl263.github.io/3DNPC/
 ###使用Github的步骤  
 有些朋友可能不太清楚Github的使用步骤，我这里写一个简单的流程，大家可以参考一下：  
 1.  注册一个Github账号（常用邮箱）  
-2.  登录自己的账号，然后打开本页，点击右上角的Fork。然后页面就转到https://github.com/'yourname'/3DNPC  
-3.  显示为  
+2.  登录自己的账号，然后打开本页，点击右上角的Fork。然后页面就转到https://github.com/*yourname*/3DNPC  
+    页面的主题显示为  
 ```
 Yourname/3DNPC  
 forked from txl263/3DNPC  
 ```
+在这个页面是没有Issues的，你如果需要提交Issues还是需要到https://github.com/txl263/3DNPC  
+以后你登录自己的账户，在自己的首页就会有一栏 'Popular repositories' 显示 '3DNPC'
 3.  下载安装Github for win或者for mac  
