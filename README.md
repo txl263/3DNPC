@@ -18,9 +18,9 @@ BLOG http://txl263.github.io/3DNPC/
 有些朋友可能不太清楚Github的使用步骤，我这里写一个简单的流程，大家可以参考一下：  
 1.  注册一个Github账号（常用邮箱）  
 2.  登录自己的账号，然后打开本页，点击右上角的Fork。然后页面就转到https://github.com/'yourname'/3DNPC  
-3.  显示为
-'''''
-Yourname/3DNPC
-forked from txl263/3DNPC
-'''''
+3.  显示为  
+'  
+Yourname/3DNPC  
+forked from txl263/3DNPC  
+'  
 3.  下载安装Github for win或者for mac  
