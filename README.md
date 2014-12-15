@@ -16,9 +16,6 @@ BLOG http://txl263.github.io/3DNPC/
 
 ###使用Github的步骤  
 有些朋友可能不太清楚Github的使用步骤，我这里写一个简单的流程，大家可以参考一下：  
-1.  注册一个Github账号（常用邮箱）  
-2.  登录自己的账号，然后打开本页，点击右上角的Fork。然后页面就转到https://github.com/*yourname*/3DNPC  
-    页面的主题显示为  ![标题](/image/title.png)  
-在这个页面是没有Issues的，你如果需要提交Issues还是需要到https://github.com/txl263/3DNPC  
-以后你登录自己的账户，在自己的首页就会有一栏 'Popular repositories' 显示 '3DNPC'
-3.  下载安装Github for win或者for mac  
+1.  Fork这个项目https://github.com/txl263/3DNPC/
+2.  按照（页面）认领翻译(每次申请一个页面，页面有大有小，请量力而为)，在下面这个README.md里找还没有被人申请的章节，写上（@你的github号），给主仓库的master分支提pull request；
+3.  提的pull request 被确认，合并到主仓库后，代表你申请的章节占位完成，开始翻译；
