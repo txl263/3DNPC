@@ -11,9 +11,8 @@ BLOG http://txl263.github.io/3DNPC/
 ###参与方式
 -   加入QQ交流群：188421046，向群主或者管理员提错误。
 -   提交Issues
--   使用Github
+-   使用Github  
 ###使用Github的步骤  
 -   注册一个Github账号（常用邮箱）
 
-=====
 有些朋友可能不太清楚Github的使用步骤，我这里写一个简单的流程，大家可以参考一下：
