@@ -39,7 +39,7 @@ BLOG http://txl263.github.io/3DNPC/
 - [ ] Morviah Hlaalu.xml
 - [ ] Mugnor.xml
 - [ ] Sahlene.xml
-- [x] 示例  
+- [x] 示例 @txl263
 
 
 
