@@ -31,13 +31,13 @@ BLOG http://txl263.github.io/3DNPC/
 -   有其他任何问题都欢迎发issue，我们看到了会尽快回复。  
 
 ###认领章节记录  
-
-二校
-    ├── [ ]Helsig.xml  
-    ├── [ ]Iria.xml  
-    ├── [ ]Iris the Elder.xml  
-    ├── [ ]Melvorn.xml  
-    ├── [ ]Morviah Hlaalu.xml  
-    ├── [ ]Mugnor.xml  
-    └── [ ]Sahlene.xml  
+目前准备开始二校，一下是需要校对的NPC，文件位于/3.02/二校
+1.  [ ]Helsig.xml  
+2.  [ ]Iria.xml  
+3.  [ ]Iris the Elder.xml 
+4.  [ ]Melvorn.xml  
+5.  [ ]Morviah Hlaalu.xml  
+6.  [ ]Mugnor.xml  
+7.  [ ]Sahlene.xml  
+8.  [√]示例
 
