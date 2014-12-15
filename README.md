@@ -40,7 +40,8 @@ BLOG http://txl263.github.io/3DNPC/
 6. [ ] Mugnor.xml
 7. [ ] Sahlene.xml
 - [ ] 示例  
-
+- [ ] Mercury
+- [x] Venus
 
 
 
