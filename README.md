@@ -27,7 +27,7 @@ BLOG http://txl263.github.io/3DNPC/
 -   需要校对翻译的文本位于<Dest>此为翻译文本</Dest>中。原文部分不要修改 <Source>此为原文</Source>  
 -   有其他任何问题都欢迎发issue，我们看到了会尽快回复。  
 ###认领章节记录  
-'''  
+```  
 二校
     ├── [ ]Helsig.xml  
     ├── [ ]Iria.xml  
@@ -36,4 +36,4 @@ BLOG http://txl263.github.io/3DNPC/
     ├── [ ]Morviah Hlaalu.xml  
     ├── [ ]Mugnor.xml  
     └── [ ]Sahlene.xml  
-'''  
+```  
