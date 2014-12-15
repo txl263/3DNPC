@@ -10,10 +10,12 @@ N网地址：http://skyrim.nexusmods.com/mods/8429/
 BLOG http://txl263.github.io/3DNPC/  
 ###参与方式
 -   加入QQ交流群：188421046，向群主或者管理员提错误。
--   提交Issues
--   使用Github  
+-   直接编辑（除`专有名词`外不推荐这种方法，注：此方法需要注册Github）
+-   提交Issues（本页右边的图标：圆圈里一个叹号的。注：此方法需要注册Github）
+-   使用Github fork项目（下面有步骤介绍。注：此方法需要注册Github）
 
 ###使用Github的步骤  
 -   注册一个Github账号（常用邮箱）
-
+-   下载安装Github for win或者for mac
+-   
 有些朋友可能不太清楚Github的使用步骤，我这里写一个简单的流程，大家可以参考一下：
