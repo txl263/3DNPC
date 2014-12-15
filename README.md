@@ -26,14 +26,14 @@ BLOG http://txl263.github.io/3DNPC/
 -   fork过去之后新建一个分支进行翻译，完成后pull request这个分支，没问题的话我会合并到 'master' 分支中
 -   需要校对翻译的文本位于<Dest>此为翻译文本</Dest>中。原文部分不要修改 <Source>此为原文</Source>  
 -   有其他任何问题都欢迎发issue，我们看到了会尽快回复。  
-
-'''
+###认领章节记录  
+'''  
 二校
-    ├── [ ]Helsig.xml
-    ├── [ ]Iria.xml
-    ├── [ ]Iris the Elder.xml
-    ├── [ ]Melvorn.xml
-    ├── [ ]Morviah Hlaalu.xml
-    ├── [ ]Mugnor.xml
-    └── [ ]Sahlene.xml
-'''
+    ├── [ ]Helsig.xml  
+    ├── [ ]Iria.xml  
+    ├── [ ]Iris the Elder.xml  
+    ├── [ ]Melvorn.xml  
+    ├── [ ]Morviah Hlaalu.xml  
+    ├── [ ]Mugnor.xml  
+    └── [ ]Sahlene.xml  
+'''  
