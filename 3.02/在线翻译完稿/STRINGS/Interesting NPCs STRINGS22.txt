@@ -1,0 +1,1623 @@
+下一页http://interestingnpcs.sync.in/24
+QQ群：188421046
+大家翻译以后退出前记得右上角Saved Ravisions里的Save now!
+右上角可以修改自己的名字和文本颜色
+右下角可以聊天，或者叫留言
+参与编辑的请在下面留下三大妈ID和翻译的条数 感谢大家
+因为是这种在线协作的模式 所以没有分派任务 大家有时间就上来翻译好
+当然喜欢离线自己翻译的也可以跟我说我给发送单独的段落
+至于还有其它的分工大家有什么想法可以说 比如帖子版面整理之类的
+剧本整理了一下供大家参考上下文
+剧本：https://www.evernote.com/shard/s1/sh/5eda1145-0bd9-459a-abad-918ca6cb6e91/595c418cb999dfdda3ab96ecdd324b0d
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+大家请注意标点符号
+译文请替换<Dest>中间的部分</Dest>
+有看到繁体的请顺手改成简体
+涉及到的专有名词例如人名地名请到 http://interestingnpcs.sync.in/28 查询
+不会翻译的名词可以不翻译也请转帖 http://interestingnpcs.sync.in/28 
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+--------------------------------------------------------------------------------------------------------------------------------------------------
+参与翻译人员：
+sqq2012
+感谢以上
+--------------------------------------------------------------------------------------------------------------------------------------------------
+    <String List="0" Partial="1">
+      <Source>Show some skin and nobody will care about decrepit old Urag and his dusty books.</Source>
+      <Dest>Show some skin 就没人会关心老不死的乌拉葛和他的破书了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>My chief concern was escape.  It wasn't about either of them.</Source>
+      <Dest>那时我最在乎的就是逃出去，跟他们谁都无关。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How about a salvaging song then?</Source>
+      <Dest>那么一首打捞曲怎么样？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>(Optional) Agree to Aid S'vashni in Her Quest for the Stance of Arkay</Source>
+      <Dest>（可选） 同意协助斯维雪妮 完成她the Stance of 阿尔凯的任务</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Don't worry.  We'll find her, and get your vengeance.</Source>
+      <Dest>别担心。我们会找到她的，并且给你报仇。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dibella Statue</Source>
+      <Dest>迪贝拉雕像</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do you choose your victims?</Source>
+      <Dest>你是怎么选择牺牲品的？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Retrieve the Page of Destruction</Source>
+      <Dest>取回毁灭法术的缺页</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Arcanaeum</Source>
+      <Dest>秘藏馆</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why escape? There are other means to survival.</Source>
+      <Dest>为啥逃跑？存活下来的方法多去了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Dark Brotherhood is looking for new recruits.</Source>
+      <Dest>黑暗兄弟会好像在招募新人。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Nords are indeed an honorable race.  Bribes are beneath them.</Source>
+      <Dest>诺德人当然是个光荣的种族。贿赂神马的都藏在暗处。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Soren</Source>
+      <Dest>索尔恩</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Tell me about the Order.</Source>
+      <Dest>告诉我你们的命令。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>She certainly is a welcome addition to this gathering.</Source>
+      <Dest>她能加入这个集会当然很受欢迎。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't think it works like that.</Source>
+      <Dest>我不认为它是那样起作用的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>She isn't ill by chance, is she? How come she didn't come to the party?</Source>
+      <Dest>她不会碰巧生病了，不是吗？她为什么不来参加派对呢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>At some point something will have to be done about Lund.</Source>
+      <Dest>在某个时间会有某些事情发生在Lund身上。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That was a wonderful feast.  I believe you promised me a story.</Source>
+      <Dest>那可是个精彩至极的盛会。我相信你还欠我一个故事。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Ever been to Solitude?  I own a place there called Proudspire Manor.</Source>
+      <Dest>去过独孤城吗？我在那儿有座房子叫豪塔别墅</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>No wonder you are so jubilant.  I hope to someday experience that myself.</Source>
+      <Dest>难怪你这么喜气洋洋的。以后我也要去亲自体验一下。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Brevity may be the essence of wit, but obviously not in your case.</Source>
+      <Dest>Brevity 或许颇有智慧，但显然这与你无关。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, it is.  Why aren't you laughing?</Source>
+      <Dest>是的没错，你笑什么啊？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Is it true what they say of Redguard men, my sweet? Are their swords...curved?</Source>
+      <Dest>他们说的红卫人的事都是真的吗亲爱的？他们的剑……是弯的？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So is there a contingency for being attacked by giant vampire worms?</Source>
+      <Dest>那么有没有被giant vampire worms袭击的突发事件呢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You sound like you almost resent Companion work.</Source>
+      <Dest>听你的意思差不多是痛恨战友团的工作了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>They use the river to take refugees and the tunnels to pose as the victims.</Source>
+      <Dest>打着运送祭品的旗号，他们用这条河运送难民和管道。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dialogue Lyrek</Source>
+      <Dest>Dialogue Lyrek</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>In any case, this is how it ends.  Your company has its peace.</Source>
+      <Dest>无论如何，就这样结束了。你们也得以安宁了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>If Bolar and Yatul were young, you could take them as wives.</Source>
+      <Dest>If Bolar and Yatul were young, you could take them as wives.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Wait, go back. There are Elves on the moon?</Source>
+      <Dest>Wait, go back. There are Elves on the moon?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gloomreach Hive</Source>
+      <Dest>阴郁河段蜂房</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I often forget my keys. Occasionally, I will need you to pick my lockbox.</Source>
+      <Dest>我经常找不到我的钥匙。偶尔还得把自己的箱子撬开。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Source>
+      <Dest>Yes, I'd rather not get mauled by some beast because we were enjoying the view.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I have no shortage of enemies.  Still, bandits don't usually write me letters.</Source>
+      <Dest>I have no shortage of enemies.  Still,强盗s don't usually write me letters.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Well, it's either you or Aela, and chances are she sings like a cow.</Source>
+      <Dest>Well, it's either you or Aela, and chances are she sings like a cow.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Luaffyn</Source>
+      <Dest>路阿芬</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gabania</Source>
+      <Dest>卡贝尼亚</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I was wondering if you could teach Rumarin a spell.</Source>
+      <Dest>我在想你是不是可以教罗美勒 一个法术/</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's a shame.  I wanted to be the one to kill him.</Source>
+      <Dest>耻辱啊。本来我想亲手杀死他的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I've retrieved the two Statues of Dibella.</Source>
+      <Dest>我拿回了那两尊迪贝拉雕像。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You shouldn't sell so hard boy, it makes you look desperate.</Source>
+      <Dest>你不应该这么辛苦卖命的，它让你看起来有点积极过头。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I've had better.</Source>
+      <Dest>我有更好的了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I plan on taking a nice long nap.</Source>
+      <Dest>我打算美美地睡一觉。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I lead.  Mjoll follows.  Aerin just waits here in Riften.  Alone.</Source>
+      <Dest>I lead.  Mjoll follows.  Aerin just waits here in 裂谷城.  Alone.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why not spend a little more on a male courtesan?</Source>
+      <Dest>Why not spend a little more on a male courtesan?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>At least you'll be inspired by something you appreciate.</Source>
+      <Dest>至少你能从中受到一些启迪。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So did you stay or report back to camp?</Source>
+      <Dest>So did you stay or report back to camp?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Labyrinthian Chasm</Source>
+      <Dest>迷之城裂口</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Winking Skeever</Source>
+      <Dest>眨眼雪鼠</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Just be quick about it.</Source>
+      <Dest>赶紧搞定算了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Strange, I thought we met somewhere else.  It wasn't all that memorable.</Source>
+      <Dest>Strange, I thought we met somewhere else.  It wasn't all that memorable.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Glathriel</Source>
+      <Dest>格拉里攸</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>No, I'd rather you stay alive and suffer like the rest of us.</Source>
+      <Dest>不，我更愿意让你活着受苦，就跟我们所有人一样。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, please do.</Source>
+      <Dest>是的，请吧！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Aspect of Boethiah</Source>
+      <Dest>Aspect of Boethiah</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Just concentrate and breathe deeply.</Source>
+      <Dest>请集中精力并深呼吸。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Were they dressed like the assassins at the inn?</Source>
+      <Dest>在旅馆里他们穿得像个刺客吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Temple of the Divines</Source>
+      <Dest>圣灵神殿</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't know her name. Brothel whores tend not to give them.</Source>
+      <Dest>我不知道她的名字。妓女们一般不会说名字的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you in charge here?</Source>
+      <Dest>这儿是你说了算吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You fancy Erik?</Source>
+      <Dest>You fancy Erik?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Skooma Addict</Source>
+      <Dest>Skooma Addict</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You should listen to your mouth.  Mine's wet and possibly hungry.</Source>
+      <Dest>You should listen to your mouth.  Mine's wet and possibly hungry.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Wait. I need to ask you about a journal you stole.</Source>
+      <Dest>等一下！我要问问关于你偷的一本日记的事。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I want someone to come home to.</Source>
+      <Dest>I want someone to come home to.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How are you able to summon this Dremora?</Source>
+      <Dest>你怎么可能召唤出这个 Dremora?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>This is a dangerous spot for a camp.</Source>
+      <Dest>这个营地是个危险的地方。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Meet Vartheim and Benild at Purewater Run</Source>
+      <Dest>在纯水奔流与瓦太和班利欧见面</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Investigate the Corpse</Source>
+      <Dest>调查那具尸体</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>But then it wouldn't be stealing.  That's the part I like best.</Source>
+      <Dest>可那样就不算是偷啦。那才是我最喜欢的部分。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Travel to Robber's Refuge</Source>
+      <Dest>前往劫匪庇护所</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm sorry. All that death must've been difficult.</Source>
+      <Dest>I'm sorry. All that death must've been difficult.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I actually have a copy of your book.</Source>
+      <Dest>我还真的有一本你的书。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lundvar Kleppr Scene</Source>
+      <Dest>Lundvar Kleppr Scene</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I didn't say.</Source>
+      <Dest>我可没说。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Slip the Altered Journal Back in Yngvar's Pocket</Source>
+      <Dest>回去找阿斯特里亚 and Await News from the 领主</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Tell me about illusion mages.</Source>
+      <Dest>给我讲讲幻术法师。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sabine Nytte.</Source>
+      <Dest>撒比尼．尼耶蒂。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It is a weak legacy.  Your thu'um is weak.  Wallow in your weakness, weakling.</Source>
+      <Dest>It is a weak legacy.  Your thu'um is weak.  Wallow in your weakness, weakling.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Steam breath</Source>
+      <Dest>Steam breath</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't have time to work out your problems.</Source>
+      <Dest>我没有时间帮你解决问题。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You could use some ice yourself on those bags under your eyes.</Source>
+      <Dest>你可以自己来点冰块，就在你眼前那些袋子里。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I imagine it would be a difficult choice to make.</Source>
+      <Dest>想象得出这个决定有多么艰难。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>ValgusMQ</Source>
+      <Dest>法格斯MQ</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How about "A Crabber's Life For Me?"</Source>
+      <Dest>"我的捕蟹者生涯"如何？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How's the mead at Haelga's today?</Source>
+      <Dest>今天哈尔嘉那儿的蜜酒怎样？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sylphiron</Source>
+      <Dest>舒派尔</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It's simple arithmetic. A lifetime of jobs is worth more than Maven's fortune.</Source>
+      <Dest>It's simple arithmetic. A lifetime of jobs is worth more than Maven's fortune.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What do you think this dream means?</Source>
+      <Dest>你觉得这个梦有什么含义？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Riften is always a home for thieves. The guild will provide you safe haven.</Source>
+      <Dest>裂谷城一直是盗贼的老家，有公会可以给你提供安全庇护。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dravos told me about what's going on here.</Source>
+      <Dest>爪佛斯告诉了我这里发生的事情。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There's no substitute for good body heat. Keep your wife close.</Source>
+      <Dest>温暖的肉体是不可替代的。跟你的妻子保持亲密。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What do you mean, saved? They died.</Source>
+      <Dest>你是什么意思，被拯救了？他们明明是死了！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>No, for the love of the Divines.  Please don't.</Source>
+      <Dest>不！看在圣灵之爱的份上。请不要！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Felena</Source>
+      <Dest>妃乐娜</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You're right. I will find someone who actually embodies the spirit of wisdom.</Source>
+      <Dest>你说得对。我要找一个真正的智慧灵魂的化身。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Falmer Servant</Source>
+      <Dest>雪精灵奴仆</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How about an underground guild full of gutter wizards?  Not informal enough?</Source>
+      <Dest>How about an underground guild full of gutter wizards?  Not informal enough?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You don't look particularly comfortable here.</Source>
+      <Dest>你好像在这里过的不大好。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Falmer Shaman</Source>
+      <Dest>雪精灵萨满</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Not yet, but I'm sure the courier will be arriving any day now.</Source>
+      <Dest>还没有，不过我确定那个信使这两天随时可能出现。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It was my pleasure. Congratulations.</Source>
+      <Dest>我很乐意。祝贺你们！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So you fell. But a good warrior never lets go of their weapon.</Source>
+      <Dest>这么说你败了。可是一个好战士是绝不会松开他的武器的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Well, I appreciate your honesty.</Source>
+      <Dest>嗯，我很感谢你的诚恳。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are there are a lot of contract farmers like yourself?</Source>
+      <Dest>你这样的佃农很多吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Well, I've seen worse drivel get published.  Let me find someone for you.</Source>
+      <Dest>行吧。我见过比这还傻的蠢话都能出版。我去给你找个人来。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I didn't mean it that way.  I don't fancy women.</Source>
+      <Dest>我不是那个意思啦。我不喜欢女人……</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'll take your key, Clown.</Source>
+      <Dest>我会拿走你的钥匙，小丑。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lylvieve Family's House</Source>
+      <Dest>李维弗斯的房子</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Don't worry, I'll find this heirloom of yours.</Source>
+      <Dest>别担心，我去把你家宝贝找回来吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>We should bring some wine and other party items.</Source>
+      <Dest>我们该带点酒和什么聚会玩的东东来才对。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Poor Batheru.  We should invite him up.</Source>
+      <Dest>可怜的贝德鲁。我们应该请他来的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I found a much more interesting discovery. A sentient Dwarven Spider.</Source>
+      <Dest>我找到了更有意思的东东。一个活蹦乱跳的矮人蜘蛛！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I doubt you've learned much of anything, drunk, but go on.</Source>
+      <Dest>我真怀疑你能学到什么东西，醉鬼，不过继续吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Please don't call me that.</Source>
+      <Dest>拜托别那样称呼我！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>She probably just wanted to learn about you so she could spread more lies.</Source>
+      <Dest>恐怕她只是想通过对你更多的了解来散布更多的谎言。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do I know it isn't?  I'll have to inspect it to make sure.</Source>
+      <Dest>我怎么知道它不是？我必须检查确认一下。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I defeated Alduin.  Sovngarde is safe.  The world is safe.</Source>
+      <Dest>我打败了奥杜因。松加德安全了，全世界得救了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Kill Olivia Meronin and Her Mages</Source>
+      <Dest>杀死奥利维亚．马荣尼还有她的法师</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Orphan's Tear</Source>
+      <Dest>Orphan's Tear</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do you manage to keep fed?</Source>
+      <Dest>你是怎么想办法填饱肚子的？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There will be danger, but I will protect you.</Source>
+      <Dest>那里会有危险，但我会保护你的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The last one who called me mad, I sewed his mouth shut.  Now he calls me "mmm."</Source>
+      <Dest>上一位管我叫疯子的，我把他的嘴缝上了。现在他管我叫"唔唔唔…"</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Where did you find this dog?</Source>
+      <Dest>你在哪儿找到这只狗的？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I think you're more of a snowberry than a banana.</Source>
+      <Dest>I think you're more of a snowberry than a banana.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Source>
+      <Dest>Dominance is always temporary.  Greater spells than Vanus' will emerge.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why are you at odds with the Thalmor?</Source>
+      <Dest>你为什么后来与梭默对立了？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you enjoying the party?</Source>
+      <Dest>你喜欢这个宴会吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do you like the tavern?</Source>
+      <Dest>你觉得这酒馆怎么样？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>If you led an army, then you were once a man of rank.</Source>
+      <Dest>要是你带过军队，那也算是个有身份的人呐。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Exactly what are you're doing up here?  Is this some sort of party?</Source>
+      <Dest>你们在这到底干嘛呢？这算是什么聚会吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you comfortable in that shell of yours?</Source>
+      <Dest>你在那层壳里能舒服吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What are your recollections of the night the Countess was assaulted?</Source>
+      <Dest>伯爵夫人遇袭的那晚的事你能记起什么吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sounds like a decent plan.</Source>
+      <Dest>听上去是个像样的计划。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>MoristheDraugr</Source>
+      <Dest>MoristheDraugr</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, my dumpling, I am. Are you experienced in kneading loaves?</Source>
+      <Dest>是啊我的小可爱，我就是的。揉长面包什么的你有经验吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Curved swords?  What's next, square shields?</Source>
+      <Dest>弯刀？接下来，方盾吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Rumarin</Source>
+      <Dest>罗美勒</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I've seen their teeth.  I've smelled their breath.  I wasn't impressed.</Source>
+      <Dest>我见过他们的牙，闻到过他们的呼吸，我不觉得有什么好。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Wars are senseless slaughter,  and Skyrim is irredeemable.</Source>
+      <Dest>战争都是毫无意义的杀戮，天际省已经不可救药了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Valla</Source>
+      <Dest>瓦拉</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You carry yourself with some authority.  Who are you exactly?</Source>
+      <Dest>你给人感觉很有范儿的样子啊。你到底是谁？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I've heard the Blades do not recruit those who will not serve.</Source>
+      <Dest>I've heard the Blades do not recruit those who will not serve.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Deirdre's Key</Source>
+      <Dest>Deirdre's Key</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You have no idea. I am &lt;Alias=Player&gt;. In time, my name will be legend.</Source>
+      <Dest>You have no idea. I am &lt;Alias=Player&gt;. In time, my name will be legend.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Find Eldritch's Journal</Source>
+      <Dest>找到艾卓曲的日记</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Alduin is such a coward.</Source>
+      <Dest>奥杜因</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Killing the guardsman couldn't have been easy.</Source>
+      <Dest>那个卫兵也不是太容易杀的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It just keeps getting better and better.  A true masterpiece.</Source>
+      <Dest>它一直在变得越来越好。一件真正的大师作品。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do you know he isn't a college mage?</Source>
+      <Dest>你怎么知道他不是个学院法师？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sorry, I've got better things to do than fetch your sword.</Source>
+      <Dest>抱歉，我还有比给你取剑更要紧的事去做。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>About what happened to your brother...</Source>
+      <Dest>关于你兄弟发生的事……</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I know.  I helped Madanach escape.</Source>
+      <Dest>我知道，我帮 Madanach 逃出来了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Reachcliff Cave</Source>
+      <Dest>延崖洞穴</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gorr Faction</Source>
+      <Dest>Gorr Faction</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Well, that's a relief.  Now I don't have to kill him.</Source>
+      <Dest>呼，解脱了。现在我不必非杀他不可了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Farmer</Source>
+      <Dest>农夫</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>This wasp, I imagine its venom contained interesting alchemical properties.</Source>
+      <Dest>这只黄蜂。我在想它的毒液里含有什么有趣的炼金效果。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you an adventurer?</Source>
+      <Dest>你是个冒险家吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's pretty much the craziest sodding thing I've ever heard.</Source>
+      <Dest>那简直是我听说过最疯狂的倒霉事儿了</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are there any messages for me?</Source>
+      <Dest>有什么给我的消息吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I wish to hear the tale from the 2nd text.</Source>
+      <Dest>I wish to hear the tale from the 2nd text.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Oh no, I don't care about the politics.  I just thought you looked silly.</Source>
+      <Dest>喔不，我才不关心政治。我只是觉得你看起来有点二.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I think you are beautiful.</Source>
+      <Dest>我觉得你很漂亮！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Tasmal</Source>
+      <Dest>塔斯米尔</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Not really. He was too inexperienced to be King.</Source>
+      <Dest>不见得。他太没资历做国王了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I understand.  Respect the darkness, but don't depend on it.</Source>
+      <Dest>我明白了。敬畏黑暗，而不是依赖它。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Let's play our song, love.</Source>
+      <Dest>我们来玩自己的音乐吧亲爱的！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Really? It can't even fetch things?</Source>
+      <Dest>真的？它连取个东西都做不到？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Me?  Oh no.  Just the occasional dragon slaying trip.</Source>
+      <Dest>我？哦不。我只是偶尔去屠屠龙罢了</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Is there any chance you will be reinstated?</Source>
+      <Dest>你以后还有没有可能复职呢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You've gotten rather murderous. I like it.</Source>
+      <Dest>你是越来越穷凶极恶啦。我喜欢！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You were once a prisoner here?</Source>
+      <Dest>你也在这儿坐过牢？Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>When are you going to introduce me to some of them?</Source>
+      <Dest>你什么时候才肯把我介绍给他们呐？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Had I known he was Jadro'Ra's killer, he would've died in that cottage.</Source>
+      <Dest>Had I known he was 贾卓拉's killer, he would've died in that cottage.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The vampire at Cronvangr. His sister lives in Windhelm.</Source>
+      <Dest>The vampire at Cronvangr. His sister lives in 风舵城.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Save the Princess</Source>
+      <Dest>救出公主</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A potion should fix you right up.</Source>
+      <Dest>一瓶药水就能马上帮你解决。<Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You still haven't told me why you quit the Red Wave.</Source>
+      <Dest>你还是没告诉我为什么要退出 Red Wave.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The dead go to Winterhold, where they are resurrected as pets.</Source>
+      <Dest>死者去往冬堡，他们曾在哪被复活做随从的地方。Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>True, those roads are certainly notorious.</Source>
+      <Dest>True, those roads are certainly notorious.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You don't have to fight bad men. A Familiar can do it for you.</Source>
+      <Dest>你不需要跟坏人打架。召唤宠物可以帮你打。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You said "Altmer" wrong.  How embarrassing not to know your own race.</Source>
+      <Dest>你连“高精灵”都说错了。多丢人呐连自己的种族名都搞不清。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Silus Vesuius's House</Source>
+      <Dest>希鲁斯．瓦休斯的房子</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>From his journal, it doesn't appear he thinks highly of Gren.</Source>
+      <Dest>从他的日记里，看不出他对格伦有什么尊重可言。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm not a bandit, but odds are I might kill you anyway.</Source>
+      <Dest>我倒不是强盗，不过不管我是什么都可以杀了你。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I imagine it's difficult to wager on fighters you don't know.</Source>
+      <Dest>我觉得在你不认识的选手身上下注恐怕不容易吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Do you know anything about how this man died?</Source>
+      <Dest>你知道任何关于这个人死因的情况吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That poor boy.  It should've been you.</Source>
+      <Dest>可怜的孩子。那不应该是你。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Let her stay.  That's what she wants.</Source>
+      <Dest>让她留下，那是她的意愿。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>He's different now. Hardened. Stronger.</Source>
+      <Dest>现在他已经不同了！坚定了，也更强壮了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You'll make a fine keeper.  Just remember who your friends are.</Source>
+      <Dest>你会成为一个好店主的，要记得你的朋友们啊。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm sure recent events must have influenced your departure.</Source>
+      <Dest>我相信最近很多事件一定对你的离开造成了影响。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Thalmor are indeed a bunch of parasitic bugs.</Source>
+      <Dest>那些梭默根本就是一堆寄生虫！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Let's go back to my earlier questions.</Source>
+      <Dest>我们回到刚才的话题。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>And you gained compassion for animals.</Source>
+      <Dest>而且你都很同情动物。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Shadow's End</Source>
+      <Dest>Shadow's End</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Don't worry, Jaree-Ra found someone else.  Someone who isn't a total coward.</Source>
+      <Dest>别担心， Jaree-Ra找到另一个人了。一个大概不会那么没用的人。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The blessing of Hircine is a gift.  You ought to try it.</Source>
+      <Dest>海尔辛的祝福是一种天赋。你太应该试一下了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's the dumbest sodding idea I've ever heard.</Source>
+      <Dest>那是我听过最蠢的馊主意。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, it's quite lovely.</Source>
+      <Dest>是的，这挺可爱的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dwarven Centurion</Source>
+      <Dest>Dwarven Centurion</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gorr the Wanderer</Source>
+      <Dest>Gorr the Wanderer</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Find the Bard to Soothe the Giant to Sleep</Source>
+      <Dest>找到墨索尔城里的英雄</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The roar of the crowd inspires many fighters to overachieve.</Source>
+      <Dest>观众的叫喊声会刺激选手们超常发挥。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bladebinder</Source>
+      <Dest>Bladebinder</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Thank you, my friend. I won't let you down.</Source>
+      <Dest>多谢，我的朋友。我不会让你失望的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>And they meet the dullest mortal in all of Tamriel.</Source>
+      <Dest>And they meet the dullest mortal in all of Tamriel.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Windhelm is a fine choice. Give my best to the Jarl when you get there.</Source>
+      <Dest>风舵城是个理想选择。到了那儿替我向领主带个好儿。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You're bold. I'd like to know your name so I can carve it on your headstone.</Source>
+      <Dest>你很勇敢。我有兴趣问问你的名字，到时候好刻在你墓碑上。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lurgok says the corpse was a gift to Malacath. Why condemn him to die?</Source>
+      <Dest>路卡 says the corpse was a gift to Malacath. Why condemn him to die?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Larsdon</Source>
+      <Dest>劳斯登</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's a horrible thing to say to a child!</Source>
+      <Dest>对孩子说这种话真是要命！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Divines will not hear your pleas. Better to give the boy a sword.</Source>
+      <Dest>圣灵们不会听见你的祈求。不如给那孩子一把剑。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Not much of a talker, are you?</Source>
+      <Dest>你不是一个爱说话的人，对吧？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You miss your old company, don't you?</Source>
+      <Dest>You miss your old company, don't you?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's a surprisingly dignified response.</Source>
+      <Dest>That's a surprisingly dignified response.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Plants using magic. Right.</Source>
+      <Dest>Plants using magic. Right.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You will be the champion of Zenithar and carry the banner of the Divines.</Source>
+      <Dest>你将会成为泽尼萨尔的勇士，以圣灵的名义行事。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Fort Sungard Oubliette</Source>
+      <Dest>森加德堡垒地牢</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I enjoy conversing with everyday people.  There's always something to learn.</Source>
+      <Dest>我喜欢和平常的人们说话。总是能学到点东西。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Fire/Frost/Shock Mage</Source>
+      <Dest>Fire/Frost/Shock Mage</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>They're also filthy beasts. I guess that's why I like them and you don't.</Source>
+      <Dest>他们也是肮脏的野兽。也许那就是为什么我喜欢他们而你不。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What makes you think your friend is in danger?</Source>
+      <Dest>你为什么会觉得你朋友此刻有危险？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Fear not. The Singer will call your name.</Source>
+      <Dest>Fear not. The Singer will call your name.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>SaltyThroat</Source>
+      <Dest>SaltyThroat</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Where are you headed? Perhaps I can be of some help.</Source>
+      <Dest>你要去哪儿？也许我能帮把手。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Purple ones?  Do you mean like nightshade?</Source>
+      <Dest>紫色的？你是说夜茄吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bandits are an excellent form of exercise.  You should be luring them.</Source>
+      <Dest>强盗们是多好的陪练呐。你应该主动勾引他们。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Companions do more than good work. They're heroes.</Source>
+      <Dest>战友团的功劳可不止是很大而已。他们都是英雄的存在。.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I liked you better when you were just hideous.</Source>
+      <Dest>我还是觉得你原来很丑的时候更可爱。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How long will I have your services?</Source>
+      <Dest>你能为我服务到多久？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Wait, what do you mean I'm dead?</Source>
+      <Dest>等等，你说我死了是什么意思？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I met a talking dragon named Paarthurnax.</Source>
+      <Dest>我遇见了一条会说话的龙名字叫帕图纳克斯。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't know him well enough to form a judgment.</Source>
+      <Dest>以我对他的了解还不足以作出判断。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How do I walk the supplicant's road?</Source>
+      <Dest>How do I walk the supplicant's road?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It doesn't matter.  I lead you fools now.</Source>
+      <Dest>不要紧。我来带领你们这些傻瓜。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Deneris' Note</Source>
+      <Dest>Deneris' Note</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Someone wants her dead.</Source>
+      <Dest>有人想要她死。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Reflect Blows</Source>
+      <Dest>Reflect Blows</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You speak of a tree. All of history is written on its pages.</Source>
+      <Dest>你说到一棵树。所有的历史都写在它的页面上。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why would he betray them?</Source>
+      <Dest>他为什么会背叛他们？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sorry. Try someone else.</Source>
+      <Dest>抱歉，找别人。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why did you and your wife split up?</Source>
+      <Dest>你和妻子为什么分开了？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>S'vashni said the Stance of Arkay must be passed on through single combat.</Source>
+      <Dest>斯维雪妮说 the Stance of 阿尔凯 一定要通过单挑决斗才能得到。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>In my house, you will have nothing but cucumbers from my personal garden.</Source>
+      <Dest>在我家的花园里你只能吃到黄瓜，别的什么也没有。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How's life on the farm working out for you?</Source>
+      <Dest>How's life on the farm working out for you?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I couldn't live like that.  I spend my gold faster than I can earn it.</Source>
+      <Dest>我没法过那样的日子。我花钱比挣得快多了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't know what your problem is. We come here all the time.</Source>
+      <Dest>我不明白你们有什么问题。我们一直到这里来。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why do they call you a bastard?</Source>
+      <Dest>他们为什么叫你杂种？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What are you in for?</Source>
+      <Dest>你为什么参与进去？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You thought this fool was a college mage?  Open your eyes, woman.</Source>
+      <Dest>你以为这货是个学院法师？睁大眼睛仔细看看吧，女人。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Is there anything about your previous life you remember?</Source>
+      <Dest>你前世的记忆还能想起什么吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I would like to attend one of these dinners.</Source>
+      <Dest>我可以出席其中一场宴会。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Y</Source>
+      <Dest>Y</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Do you have Elandir's writings with you?</Source>
+      <Dest>Do you have Elandir's writings with you?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sure, that's not a problem, so long as it's a wild goat or some chicken.</Source>
+      <Dest>当然，那不成问题。只要是一只野羊或者野鸡什么的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So, ready to get moving? We ought to test out that new armor of yours.</Source>
+      <Dest>那，准备好行动了吗？咱得好好测试一下你的新装甲。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yngvar's List of Renowned Bards</Source>
+      <Dest>伊戈瓦尔的著名吟遊诗人名单</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It's simple. You can start by raising this mast.</Source>
+      <Dest>It's simple. You can start by raising this mast.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Guild didn't warn you there would be consequences?</Source>
+      <Dest>The Guild didn't warn you there would be consequences?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It all makes sense now. The Thalmor and the Stormcloaks are working together.</Source>
+      <Dest>这下就对上号了，那帮梭默是跟风暴斗篷一伙的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, being a vampire is wrong. Very, very wrong. Which is why it must be fun.</Source>
+      <Dest>是啊，做一个吸血鬼是个错误，非常离谱的错误。所以一定超有乐子！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Return to Falatild</Source>
+      <Dest>回去找菲菈缇儿</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Something about you seems off.  Tell me, what does cabbage smell like?</Source>
+      <Dest>Something about you seems off.  Tell me, what does cabbage smell like?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>This must be the nightmare. Which means our bodies are still in Ivarstead.</Source>
+      <Dest>这肯定是在那个噩梦里面。我们真正的身体都还在 Ivarstead.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Because small children annoy me and I like to beat them senseless.</Source>
+      <Dest>Because small children annoy me and I like to beat them senseless.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That would make for an...interesting performance.</Source>
+      <Dest>That would make for an...interesting performance.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I find them both awful and I'd lop off my ears before hearing another verse.</Source>
+      <Dest>I find them both awful and I'd lop off my ears before hearing another verse.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why do you consider the Thalmor your savior?</Source>
+      <Dest>你为什么把梭默当成救星呢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bruca's Leap Redoubt</Source>
+      <Dest>布兰卡跳跃据点</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Vilkmund</Source>
+      <Dest>威尔克蒙</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Mistress?  Perhaps you two are better off serving Dibella.</Source>
+      <Dest>女主人？也许你俩更适合去侍奉迪贝拉.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Rothvine Armor</Source>
+      <Dest>罗凡护甲</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I assumed consuming mortal flesh was less about religion and more about taste.</Source>
+      <Dest>我认为食用人肉这件事与其说为了信仰还不如说是味道。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm sure the story's fine.  The telling needs a little work.</Source>
+      <Dest>我敢肯定这个故事不错。只要花点心思讲好。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I wasn't aware the Gods were so sensitive.</Source>
+      <Dest>我没想到做神灵的也这么敏感。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I am afraid my heart belongs to another.</Source>
+      <Dest>恐怕我的心已经属于别人了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Ureni</Source>
+      <Dest>优瑞尼</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't understand how bitter enemies can be cordial.</Source>
+      <Dest>I don't understand how bitter enemies can be cordial.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Then why are you out here.  It seems Nelos doesn't care for you at all.</Source>
+      <Dest>所以你现在在这儿。看来纳洛斯根本不在乎你啊。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Nothing killing a few assassins can't fix.</Source>
+      <Dest>Nothing killing a few assassins can't fix.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Imperial.</Source>
+      <Dest>帝国人。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>No, I was just being sarcastic. Something you're incapable of understanding.</Source>
+      <Dest>不，我只是讽刺而已。有些东西是你没法理解的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>True wisdom is to avoid injuries and sickness, not heal them.</Source>
+      <Dest>真正的智慧是去避免伤害和病痛，而不是治疗它。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>My mistake.  I presumed you had some dignity left.</Source>
+      <Dest>都是我的错。我希望你还留有一点自尊。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Could use some carrots.  Maybe some minced onion.</Source>
+      <Dest>可以来点胡萝卜。再加点洋葱丁。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I understood what you meant.</Source>
+      <Dest>我是明白你的意思的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sadrin Reloro Dialogue</Source>
+      <Dest>Sadrin Reloro Dialogue</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Worthy of what? What is there to prove?</Source>
+      <Dest>哪里值得了？有什么证据？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A party in my honor?  I wouldn't entrust such an important event to you.</Source>
+      <Dest>A party in my honor?  I wouldn't entrust such an important event to you.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Brakh, I need you to do a task for me.</Source>
+      <Dest>布拉卡，我需要你帮我做件事。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Do you feel a connection to her?</Source>
+      <Dest>你感觉到和她之间有种联结感吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sometimes child, the real monsters are people like you and me.</Source>
+      <Dest>孩子，有时候真正的怪物会是像你我一样的人类。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The two of you can stay for all I care.  Just get me out this nightmare.</Source>
+      <Dest>你们俩想留在这儿请便吧。赶紧让我离开这个噩梦啊。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So what is it about you that women find attractive?</Source>
+      <Dest>那个女人在你身上找到了什么魅力啊？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Don't be foolish.  Nord guards are paragons of integrity.</Source>
+      <Dest>别傻了。诺德人的卫兵都是正直诚实的模范。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Top what?  What are you working on?</Source>
+      <Dest>Top what?  What are you working on?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Uldvar AnumLa Scene</Source>
+      <Dest>Uldvar AnumLa Scene</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Eleven times? You can't be serious.</Source>
+      <Dest>十一次？你开玩笑吧！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>(Optional) Find the Spell Tome to Conjure the Spirit Wolf</Source>
+      <Dest>取回the Blood Spell Tome</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A Warrior's Heart</Source>
+      <Dest>Dialogue Two-Tails</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Except your relics will be fake.</Source>
+      <Dest>Except your relics will be fake.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Whistling Mine</Source>
+      <Dest>笛声矿场</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What brings you to the dungeon?</Source>
+      <Dest>是什么风把你吹来地牢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Collywobbles?  I don't know what that is but please don't cough on me.</Source>
+      <Dest>肚子疼？我不知道那是什么毛病不过拜托别冲我咳嗽。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Oh, what kind of loot?</Source>
+      <Dest>哦？什么样的赃物？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>While you think of something, here. An advance for your work (100 gold)</Source>
+      <Dest>在你考虑的同时，来，你的预付金先（100金币）。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>My love, be careful. This one looks dangerous.</Source>
+      <Dest>亲爱的，小心呐。这个看起来很危险。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The world could end, and cockroaches like us will survive until the next one.</Source>
+      <Dest>这个世界也许会结束。而像我们这样的蟑螂们会幸存到下一个世界的到来。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you the local blacksmith?</Source>
+      <Dest>你是本地的铁匠吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I know a "potion" that will end your existence. So watch what you eat.</Source>
+      <Dest>I know a "potion" that will end your existence. So watch what you eat.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you performances well known throughout Riften?</Source>
+      <Dest>你的表演在裂谷城很出名吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Should I know you?</Source>
+      <Dest>我应该认识你吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Melvorn</Source>
+      <Dest>玛佛</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I think you know exactly what you're saying. You're implying I owe you.</Source>
+      <Dest>我完全明白你的意思。你就是说我欠你的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There are people who find animal fighting abhorrent.</Source>
+      <Dest>有很多人觉得斗动物比赛令人憎恶。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Do you own this shack?</Source>
+      <Dest>这间小屋是你的吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What do you mean by "the voice?"</Source>
+      <Dest>你说“那个声音”是什么意思？"</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Uttering Hills Cave</Source>
+      <Dest>出言山洞穴</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There must be a story behind that burn scar.</Source>
+      <Dest>那个灼烧的伤痕背后一定有个故事吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So I have this friend...He's trapped in a miserable marriage and wants out.</Source>
+      <Dest>So I have this friend...他被困在悲惨的婚姻里想出来.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Did you play a role in stopping Gren's rebellion?</Source>
+      <Dest>你有没有在阻止格伦叛乱的行动中扮演什么角色？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I once escaped a dragon and the executioner's block.  At the same time.</Source>
+      <Dest>我曾经一次逃脱了两场大难。巨龙的袭击和刽子手的行刑台。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Neither Olivia or Nelos have sway over what I do.</Source>
+      <Dest>奥利维亚和纳洛斯都改变不了我要做的事。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I was referring to the fact that skeletons don't have tongues.</Source>
+      <Dest>我指的是骷髅没有舌头这个事实。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Neither you nor the Breton are any good. This is just to humor my friend.</Source>
+      <Dest>Neither you nor the Breton are any good. This is just to humor my friend.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dialogue Eldawyn Iria Scene</Source>
+      <Dest>Dialogue Eldawyn Iria Scene</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dwarven Spider</Source>
+      <Dest>矮人蜘蛛</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What is it you want from me?</Source>
+      <Dest>你想从我这儿得到什么？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Who exactly are you looking for?</Source>
+      <Dest>你到底要找谁？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are these wolves your pets?  </Source>
+      <Dest>这些狼是你的宠物？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Explain this theory.</Source>
+      <Dest>解释下这个原理。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>One of your ancestors was Khajiit?</Source>
+      <Dest>你的一个祖先是虎人 ?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Dremora won't listen to your commands?</Source>
+      <Dest>那个魔人不听你的命令？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Okay, I'm curious. What's so eccentric about Erikur's love life?</Source>
+      <Dest>好吧我很好奇。艾利科尔的爱情生活有什么离奇之处。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A Daedra in the Dark</Source>
+      <Dest>A Daedra in the Dark</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>And so this journal corroborates that theory.</Source>
+      <Dest>所以这本日记证明了那个理论。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What sort of crimes justify a kill?</Source>
+      <Dest>What sort of crimes justify a kill?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't see how blood has anything to do with it.</Source>
+      <Dest>我没看出鲜血在这里有什么用。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, I imagine it gets quite noisy in this place.</Source>
+      <Dest>是的。我猜这里会变得很吵.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Leather Boots</Source>
+      <Dest>Leather Boots</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Riften is a fine place to visit, especially from Hearthfire to Frostfall.</Source>
+      <Dest>裂谷城是个观光的好地方。尤其是从 Hearthfire 到 Frostfall 的时节。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The appetite for bloodsport could not have been high after the war.</Source>
+      <Dest>The appetite for bloodsport could not have been high after the war.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I assume you explained this to the ones who came before me.</Source>
+      <Dest>我猜你已经把这事解释给我之前来的那个人听了吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Law Always Wins</Source>
+      <Dest>The Law Always Wins</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It will be, when I kill everyone.</Source>
+      <Dest>它会的，当我杀掉所有人之后。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There's nothing romantic about artists.  They're filthy.  Just like Rumarin.</Source>
+      <Dest>艺术家什么的一点都不浪漫。他们都很邋遢。就跟罗米勒一样。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Investigate Lorne's Shack in Falkreath</Source>
+      <Dest>Investigate Lorne's Shack in Falkreath</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>He was just another faceless stranger.  But he was important to Olivia.</Source>
+      <Dest>他就是一个大众脸的陌生人。可他对于奥莉薇雅很重要。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gabania Faction</Source>
+      <Dest>Gabania Faction</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's all I've got for now.</Source>
+      <Dest>我手头就有这些了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Greenwood Shack</Source>
+      <Dest>绿木小屋</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>This person seems trustworthy enough.  If not, we can just kill him.</Source>
+      <Dest>这个人看起来可以相信了。要是还不可靠，杀了他就是。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bones?  Who doesn't love bones?</Source>
+      <Dest>骨头？谁不喜欢骨头呢？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why wouldn't you want to be a Jarl's long lost son?</Source>
+      <Dest>Why wouldn't you want to be a Jarl's long lost son?</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Actually you can, by examining this journal I found.</Source>
+      <Dest>实际上你可以的，看看我找到的这本日记。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why are you here stewing over it?  Kill this man.</Source>
+      <Dest>你还在磨蹭什么？杀了他！</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Sellswords are ruthless.  She'll be lucky if they just kill her.</Source>
+      <Dest>佣兵都是残忍无情的。要是她直接被杀了就算幸运的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Do either of you have an idea of where he might be?</Source>
+      <Dest>你们谁知道点他的下落吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You were cold itself.  When wisps move, it chimes like the wind on frozen teeth.</Source>
+      <Dest>You were cold itself.  When wisps move, it chimes like the wind on frozen teeth.</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What about the second test?</Source>
+      <Dest>第二个测试又怎样？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It's like a light tap on the shoulder, only on your mouth.</Source>
+      <Dest>就像是轻碰你的肩膀一样，只是用的是嘴巴。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I don't have time for this.</Source>
+      <Dest>我在赶时间。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>All I see is a sheet of white.</Source>
+      <Dest>我只能看到一片白色。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So slavery, rape, and destruction are part of the grand scheme. Good to know.</Source>
+      <Dest>因此，奴役，强奸，毁灭都是这个宏伟计划的一部分？了解了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Deliver the Lease Document to Herran in Winterhold</Source>
+      <Dest>把租约文档送给冬堡的赫伦</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I was told only one woman is capable of playing that song.</Source>
+      <Dest>有人告诉我只有一个女人能够弹唱那首歌。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm afraid Jadro'Ra is dead.</Source>
+      <Dest>我恐怕贾卓拉已经死了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A cult of mad Dibellan harlots will really drum up interest.</Source>
+      <Dest>由迪贝拉的婊子信徒们举行的仪式绝对吸引眼球。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I've retrieved the Statue of Dibella.</Source>
+      <Dest>我拿回了那尊迪贝拉雕像。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Were you born in a Stronghold? That would make your father chief.</Source>
+      <Dest>你是在兽人要塞里出生的？意思是你的父亲是个酋长？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Alright, you fooled me. Now stay in your cage and serve out your sentence.</Source>
+      <Dest>好吧，你耍我。那就在你的笼子里呆到刑满释放吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Two-Tails</Source>
+      <Dest>双尾</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A farm is a lot of work.</Source>
+      <Dest>经营一个农场有很多事要做。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>A septim or two, to get you a few meals, if I like what you say.</Source>
+      <Dest>一两个金币，拿去买点吃的，如果你说话我爱听的话。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What happens beyond fifty paces?</Source>
+      <Dest>五十步之后会发生什么？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It's the alchemist's fault. He must have screwed up the potion.</Source>
+      <Dest>这是那个炼金师的错。他肯定把药水搞错了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Tell me about this dream.</Source>
+      <Dest>告诉我这个梦的内容。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>True.  I get a headache just listening to her.</Source>
+      <Dest>真的。我只要听她说话就头疼。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Have you ever thought about visiting Valenwood?</Source>
+      <Dest>你有想过拜访威木省吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Travel to Orphan Rock</Source>
+      <Dest>前往 孤儿岩</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>That's all the questions I have.</Source>
+      <Dest>我的问题问完了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Violence can beget more violence.</Source>
+      <Dest>暴力会引发更多的暴力。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>We already had one of those. Remember, after Gren's rebellion.</Source>
+      <Dest>我们已经得到其中之一了。记得把，在格伦的叛乱之后。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What about Angeline's Aromatics?  They can probably formulate a cleaning agent.</Source>
+      <Dest>那 Angeline's Aromatics 呢？  他们很可能制造一种清洁药剂。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>As I've told you before, we all have weaknesses. The others fill in the gaps.</Source>
+      <Dest>我跟你说过，人人都有弱点。可以由其他人来填补。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I am on a pilgrimage to Honor the Divines, and require Stendarr's blessing.</Source>
+      <Dest>我正在一条 Honor the Divines 的朝圣之路上，并且需要斯坦达的祝福。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>He doesn't sound so smart to me.</Source>
+      <Dest>他听起来不那么聪明。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Dragonsreach</Source>
+      <Dest>龙临堡</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>And if you don't make a cure, you'll be a dead alchemist.</Source>
+      <Dest>而要是不做出解药，你就是个死炼金师了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Giant is guarding a treasure. We'll split it four ways.</Source>
+      <Dest>那个巨人在守着宝藏。我们分四路行动。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What makes you such a prolific Giant slayer?</Source>
+      <Dest>什么让你成为了一个老道的巨人狩猎者？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I bet I could bed more maidens than you.</Source>
+      <Dest>我敢打赌我睡的姑娘比你多。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You should come.  We can pretend you're my servant.</Source>
+      <Dest>你应该来。咱们装作你是我的仆从。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Is that when you woke up?</Source>
+      <Dest>那正是你醒来的时候？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Who was the war-teacher?</Source>
+      <Dest>那个战争教头是谁？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It's mad enough to work, but stupid enough to fail.</Source>
+      <Dest>干这活儿是太疯狂，可没干成是太愚蠢。</Dest>
+    </String>
