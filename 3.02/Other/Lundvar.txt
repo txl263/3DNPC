@@ -1,41 +1,41 @@
-
-stragglers Òë³ÉÓÎµ´ÕßËÆºõ²»¹»Î¶£¬Ô­ÎÄµÄÒâË¼ÊÇ¶ñ¹÷±©Í½Ö®ÀàµÄ°É¡£ÄÇ¸ö¡°µô¶Ó¡±µÄº¬ÒåÓ¦¸ÃÊÇÏà¶ÔÓÚÕıÒåµÄ¼ÛÖµ¹Û¶øÑÔµÄ
+ï»¿
+stragglers è¯‘æˆæ¸¸è¡è€…ä¼¼ä¹ä¸å¤Ÿå‘³ï¼ŒåŸæ–‡çš„æ„æ€æ˜¯æ¶æ£æš´å¾’ä¹‹ç±»çš„å§ã€‚é‚£ä¸ªâ€œæ‰é˜Ÿâ€çš„å«ä¹‰åº”è¯¥æ˜¯ç›¸å¯¹äºæ­£ä¹‰çš„ä»·å€¼è§‚è€Œè¨€çš„
 
 ------------
 
     <String List="2" Partial="1">
       <Source>The ones who killed my brother will rot in Cidhna Mine until the end of days, but it will be the Jarl who gives the sentence.</Source>
-      <Dest>É±ÎÒĞÖµÜµÄĞ×ÊÖ½«ÔÚĞÁµÏÄÇ¿ó¿ÓÖÕÉúÊÜ·££¬¶øÕâÃüÁîÒªÓÉÁìÖ÷À´ÏÂ·¢¡£</Dest>
+      <Dest>æ€æˆ‘å…„å¼Ÿçš„å‡¶æ‰‹å°†åœ¨è¾›è¿ªé‚£çŸ¿å‘ç»ˆç”Ÿå—ç½šï¼Œè€Œè¿™å‘½ä»¤è¦ç”±é¢†ä¸»æ¥ä¸‹å‘ã€‚</Dest>
    </String>
 
 
     <String List="2" Partial="1">
       <Source>I kept telling him, stop making us look bad!  But he not ony kept at it, he pushed me to do the same.</Source>
-      <Dest>ÎÒ¸úËûËµ±ğÄÇÃ´ÂôÁ¦£¬ÈÃÎÒÃÇÏÔµÃÌ«ÀÁ£¡¿ÉËû²»¹â²»Ìı£¬»¹ËËÓÁÎÒÒ²¸úËûÒ»ÑùÇÚ¿ì¡£</Dest>
+      <Dest>æˆ‘è·Ÿä»–è¯´åˆ«é‚£ä¹ˆå–åŠ›ï¼Œè®©æˆ‘ä»¬æ˜¾å¾—å¤ªæ‡’ï¼å¯ä»–ä¸å…‰ä¸å¬ï¼Œè¿˜æ€‚æ¿æˆ‘ä¹Ÿè·Ÿä»–ä¸€æ ·å‹¤å¿«ã€‚</Dest>
    </String>
 
 
     <String List="2" Partial="1">
       <Source>Now, if you'll excuse me, I need to think about what I'm going to say to the Captain.</Source>
-      <Dest>ÄÇÈç¹ûÄãÃ»±ğµÄÊÂ¶ùÁË£¬ÎÒÒªÌÚ³öÊ±¼äÏëÏë¸ÃÔõÃ´¸ú¶Ó³¤»ã±¨ÁË¡£</Dest>
+      <Dest>é‚£å¦‚æœä½ æ²¡åˆ«çš„äº‹å„¿äº†ï¼Œæˆ‘è¦è…¾å‡ºæ—¶é—´æƒ³æƒ³è¯¥æ€ä¹ˆè·Ÿé˜Ÿé•¿æ±‡æŠ¥äº†ã€‚</Dest>
    </String>
 
 
     <String List="2" Partial="1">
       <Source>By the time he returned, the Forsworn raiders had left, and my brother had fallen.  The guard manning the tower?  Arrow to the throat.</Source>
-      <Dest>µÈµ½Ëû¸Ï»ØÀ´µÄÊ±ºò£¬ÄÇĞ©ÆúÊÄÕßÒÑ¾­ÅÜµô£¬ÎÒĞÖµÜÒ²ÒÑ¾­ËÀÁË¡£ÄÇËşÂ¥ÉÏµÄÎÀ±øÄØ£¿ÒÑ¾­Àû¼ı´©ºí¡£</Dest>
+      <Dest>ç­‰åˆ°ä»–èµ¶å›æ¥çš„æ—¶å€™ï¼Œé‚£äº›å¼ƒèª“è€…å·²ç»è·‘æ‰ï¼Œæˆ‘å…„å¼Ÿä¹Ÿå·²ç»æ­»äº†ã€‚é‚£å¡”æ¥¼ä¸Šçš„å«å…µå‘¢ï¼Ÿå·²ç»åˆ©ç®­ç©¿å–‰ã€‚</Dest>
    </String>
 
 
     <String List="2" Partial="1">
       <Source>(Laughs) I assure you, this was the craftiest mudcrab in all the Reach.  But in all seriousness, things like this happen in the wild.</Source>
-      <Dest>£¨Ğ¦£©ÎÒ¸úÄã±£Ö¤£¬ÄÇÖ»¿Ï¶¨ÊÇÈ«Èğ³Û×î½Æ»«µÄÄàÕÓĞ·À²¡£²»¹ıËµÆğÀ´£¬ÔÚÒ°ÍâÂïÊ²Ã´ÊÂ¶¼ÓĞ¿ÉÄÜ·¢Éú¡£</Dest>
+      <Dest>ï¼ˆç¬‘ï¼‰æˆ‘è·Ÿä½ ä¿è¯ï¼Œé‚£åªè‚¯å®šæ˜¯å…¨ç‘é©°æœ€ç‹¡çŒ¾çš„æ³¥æ²¼èŸ¹å•¦ã€‚ä¸è¿‡è¯´èµ·æ¥ï¼Œåœ¨é‡å¤–å˜›ä»€ä¹ˆäº‹éƒ½æœ‰å¯èƒ½å‘ç”Ÿã€‚</Dest>
    </String>
 
 
     <String List="2" Partial="1">
       <Source>They teach us in the guard to never leave home without your potions. One for health, one for disease.</Source>
-      <Dest>ÕâĞ©¶«Î÷½ÌÓıÎÒÃÇ³öÃÅÒ»¶¨Òª´øºÃÒ©¼Á£¬Ò»ÖÖ²¹ÑªµÄ£¬Ò»ÖÖÖÎ²¡µÄ¡£</Dest>
+      <Dest>è¿™äº›ä¸œè¥¿æ•™è‚²æˆ‘ä»¬å‡ºé—¨ä¸€å®šè¦å¸¦å¥½è¯å‰‚ï¼Œä¸€ç§è¡¥è¡€çš„ï¼Œä¸€ç§æ²»ç—…çš„ã€‚</Dest>
    </String>
 
     <String List="2" Partial="1">
@@ -45,32 +45,32 @@ stragglers Òë³ÉÓÎµ´ÕßËÆºõ²»¹»Î¶£¬Ô­ÎÄµÄÒâË¼ÊÇ¶ñ¹÷±©Í½Ö®ÀàµÄ°É¡£ÄÇ¸ö¡°µô¶Ó¡±µÄº¬Ò
 
     <String List="2" Partial="1">
       <Source>This is a happy occasion friend, and when you say such things about my brother, I think I'd be happier if you were dead.</Source>
-      <Dest>Õ¾×ÅËµ»°²»ÑüÌÛ°¡ÅóÓÑ£¬ÄãÕâÑùËµÎÒĞÖµÜµÄ»°£¬ÎÒ¾ÍÏ£ÍûËÀµÄÊÇÄã²ÅºÃ¡£</Dest>
+      <Dest>ç«™ç€è¯´è¯ä¸è…°ç–¼å•Šæœ‹å‹ï¼Œä½ è¿™æ ·è¯´æˆ‘å…„å¼Ÿçš„è¯ï¼Œæˆ‘å°±å¸Œæœ›æ­»çš„æ˜¯ä½ æ‰å¥½ã€‚</Dest>
    </String>
 
     <String List="2" Partial="1">
       <Source>If both of them died in battle, the Forsworn would have killed all of us in our sleep, and I wouldn't have the displeasure of talking to you.</Source>
-      <Dest>ÒªÊÇËûÁ©¶¼ËÀÔÚ»ìÕ½ÖĞ£¬ÄÇĞ©ÆúÊÄÕß¾ÍÄÜ³ÃÎÒÃÇÊìË¯Ò»¹ø¶ËÁË£¬ÎÒ½ñÌìÒ²¾Í²»ÓÃÔÚÕâ¶ùÌıÄã·Ï»°ÁË¡£</Dest>
+      <Dest>è¦æ˜¯ä»–ä¿©éƒ½æ­»åœ¨æ··æˆ˜ä¸­ï¼Œé‚£äº›å¼ƒèª“è€…å°±èƒ½è¶æˆ‘ä»¬ç†Ÿç¡ä¸€é”…ç«¯äº†ï¼Œæˆ‘ä»Šå¤©ä¹Ÿå°±ä¸ç”¨åœ¨è¿™å„¿å¬ä½ åºŸè¯äº†ã€‚</Dest>
    </String>
 
     <String List="2" Partial="1">
       <Source>A bloody priest, he was.  Gods bless his memory.</Source>
-      <Dest>Ò»Ö»ÑªĞÈµÄÄÁÊ¦°¡¡£ÉñÁé±£ÓÓËûµÄ¼ÇÒä¡£</Dest>
+      <Dest>ä¸€åªè¡€è…¥çš„ç‰§å¸ˆå•Šã€‚ç¥çµä¿ä½‘ä»–çš„è®°å¿†ã€‚</Dest>
    </String>
 
     <String List="2" Partial="1">
       <Source>That's it, I've had just about enough of this conversation.  Away with you!</Source>
-      <Dest>ĞĞÁË£¬»°²»Í¶»ú°ë¾ä¶à¡£×ß°ÉÄã£¡</Dest>
+      <Dest>è¡Œäº†ï¼Œè¯ä¸æŠ•æœºåŠå¥å¤šã€‚èµ°å§ä½ ï¼</Dest>
    </String>
 
     <String List="2" Partial="1">
       <Source>Fled?  Shor's beard, what do you mean, fled?  What in Oblivion would he be running from?</Source>
-      <Dest>ÌÓÀë£¿ÎÒµÄÊæ¶û´óÉñÄÅ£¬ÄãËµµÄÌÓÀëÊÇÊ²Ã´ÒâË¼£¿ËûËûÂèµÄ¸ÉÂïÒªÌÓ°¡£¿</Dest>
+      <Dest>é€ƒç¦»ï¼Ÿæˆ‘çš„èˆ’å°”å¤§ç¥å‘ï¼Œä½ è¯´çš„é€ƒç¦»æ˜¯ä»€ä¹ˆæ„æ€ï¼Ÿä»–ä»–å¦ˆçš„å¹²å˜›è¦é€ƒå•Šï¼Ÿ</Dest>
    </String>
 
     <String List="2" Partial="1">
       <Source>I wear it with pride stranger, and I won't ever change my colors. I don't care who wins the war, I don't care if a damn Forsworn sits on the throne!</Source>
-      <Dest>ÎÒÊÇ´ø×Å½¾°Á´©×ÅËüµÄ£¬Ä°ÉúÈË£¬¶øÇÒÒ²¾ø²»»á»»ÑÕÉ«¡£ÎÒ²Å²»ÔÚºõÊÇË­Ó®µÃÕ½Õù£¬¾ÍËãÍõ×ùÉÏ×øµÄÊÇÆúÊÄÕßÒ²ÎŞËùÎ½£¡</Dest>
+      <Dest>æˆ‘æ˜¯å¸¦ç€éª„å‚²ç©¿ç€å®ƒçš„ï¼Œé™Œç”Ÿäººï¼Œè€Œä¸”ä¹Ÿç»ä¸ä¼šæ¢é¢œè‰²ã€‚æˆ‘æ‰ä¸åœ¨ä¹æ˜¯è°èµ¢å¾—æˆ˜äº‰ï¼Œå°±ç®—ç‹åº§ä¸Šåçš„æ˜¯å¼ƒèª“è€…ä¹Ÿæ— æ‰€è°“ï¼</Dest>
    </String>
 
     <String List="2" Partial="1">
