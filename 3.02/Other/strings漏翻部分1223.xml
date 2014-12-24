@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0" Partial="1">
+      <Source>Gross. I don't condone that sort of behavior.</Source>
+      <Dest>我不会容忍这种行为的，真恶心。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The business with Gorr and the horker went well, I take it?</Source>
+      <Dest>与戈尔和三牙海象的生意进行的还不错？我说对了吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Be a poet. You certainly have the angst.</Source>
+      <Dest>作为一个诗人。你当然会感慨人生苦短。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Don't they have a store like that in Solitude?</Source>
+      <Dest>他们不是有一个商店吗？就像独孤城的那个。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Would there be any? Profits?</Source>
+      <Dest>居然还有这种生意？有利润吗？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What happens if she conjures you again?</Source>
+      <Dest>当她再次召唤你时，会发生什么？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Preach, my inebriated friend, preach.</Source>
+      <Dest>布教，我的酒鬼朋友，布教。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>An End to Keep</Source>
+      <Dest>命运的另一端</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What was the significance of the Shadow sign?</Source>
+      <Dest>暗影标记有什么意义？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Hit Rumarin with Friendly Fire </Source>
+      <Dest>用火焰魔法轻轻击中罗米勒</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Conspiracy of the Steps</Source>
+      <Dest>台阶的阴谋</Dest>
+    </String>
+    <String List="0">
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Find the Gossip Nythriel for Information on a Publisher</Source>
+      <Dest>找到那个包打听奈瑞儿并从其嘴里挖出关于出版商的信息</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Toss 3 Ingredients into the Cauldron</Source>
+      <Dest>往大锅里放入3种原料</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Right.  A spouse would leave you over-encumbered.</Source>
+      <Dest>没错。配偶这种生物本来就是为了让你不堪重负而存在的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Find Information on S'vashni's Mentor and the Way of the Nine</Source>
+      <Dest>寻找关于斯维雪妮的导师以及九圣灵之道的信息</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>One for each of the troubadours who brought Valerion to the Psijics.</Source>
+      <Dest>给那些把瓦列翁带去给赛伊克人的吟游诗人们一人一个</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>(Military Camp or Fort) The war has left plenty of casualties.</Source>
+      <Dest>（军营或堡垒）战争带来巨大伤亡。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Arya</Source>
+      <Dest>阿雅</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm having issues springing you on my own.</Source>
+      <Dest>我在躲开你的时候出了点儿差错。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>And I take it he has you stand by and watch?</Source>
+      <Dest>我能理解为你一直偷偷躲在角落里看着他么？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Talk to the Forger's Contact</Source>
+      <Dest>跟铁匠的熟人聊聊</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>"Krin, Renrij."</Source>
+      <Dest>"克林，仁里加。"</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>DialogueRaynesHellos</Source>
+      <Dest>DialogueRaynesHellos</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Pay Off the Merc of Zenithar</Source>
+      <Dest>给泽尼萨尔的雇佣兵结账</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Consult the Wandering Healer about Assisting Rumarin</Source>
+      <Dest>向旅行医者请教该如何帮助罗米勒</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>None taken.</Source>
+      <Dest>一个都没说对。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Deliver the Scroll to the Cultists</Source>
+      <Dest>把卷轴带给教徒们</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Better keep it brief.</Source>
+      <Dest>尽量长话短说。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>You're pathetic. I hope the cold takes you.</Source>
+      <Dest>你真可怜。愿你直接冻死。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Retrieve the Shivs</Source>
+      <Dest>重组那剃刀</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Attend Zora Fair-Child's Match at Skytemple Ruins</Source>
+      <Dest>出席在天空神庙遗迹进行的与佐拉的比赛</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Being blind, I imagine someone relays this information to you.</Source>
+      <Dest>作为盲人，我猜有人把这条信息留给了你。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The mistreatment of Dunmer in the Gray Quarter.</Source>
+      <Dest>在灰民区上演的那些对暗精灵的迫害事件。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Yes, I remember the Red Year fondly.  Although I prefer white wine myself.</Source>
+      <Dest>是的，红年仍然深深铭刻在我的记忆中。虽然我自己倒是更喜欢白葡萄酒。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>An Orc.  Big, green, although you left out the "master race" part.</Source>
+      <Dest>一个兽人。硕大，稚嫩，不过你漏了“优等民族”那部分。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Meet Isobel's Contact at the East Empire Company Office in Windhelm</Source>
+      <Dest>与在风舵城东帝国公司办公室的伊莎贝尔的熟人碰面</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Thonar is dead.  Markarth is free of the Silver-Bloods.</Source>
+      <Dest>托纳尔死了。马卡斯城终于摆脱银血家族的控制了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Worse than average.  You're obviously terrible at it, to be here.</Source>
+      <Dest>比平均水平更糟。你在这儿简直算是糟透了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Who is Yngrid Far-Sky?</Source>
+      <Dest>银丽德·远天是谁？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>It could have been a Lamia.</Source>
+      <Dest>说不定是只蛇身妖怪呢。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Zora usually respects people's privacy. I'm the one rifling through your stuff.</Source>
+      <Dest>佐拉向来尊重人们的隐私。我只是为了你的财物而来的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lunar Lake Seranada.</Source>
+      <Dest>银月湖小夜曲。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gren claiming to be a bastard king probably made giving up your quest easier.</Source>
+      <Dest>格伦声称要当个混账国王，或许听了这个你会更容易放弃你的任务一些。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>"Broom Floor Sweep."  If only that worked on people.</Source>
+      <Dest>“拿着扫帚扫地去。”大概只有这句话能对人们起作用吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>"Dir Vol Aan!"</Source>
+      <Dest>"德 沃兰！"</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Beauty is subjective, but you're objectively shallow.</Source>
+      <Dest>美是主观的，但你从客观上来说就不行。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Filthy mages. Figures they'd have no respect for the sanctity of life.</Source>
+      <Dest>肮脏的法师。看来他们对生命的神圣之处没有半点尊重。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bah!  If that tale gets any taller, it'll strike a moon.</Source>
+      <Dest>呸！若是故事再长下去，它可是会撞到月亮的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you joking?  I barely knew Savrot Iron and Miriam Irvine.</Source>
+      <Dest>你是在开玩笑吗？我几乎都没听说过Savrot Iron 和Miriam Irvine。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Are you "trolling" me right now?</Source>
+      <Dest>你这是在“钓”我上钩？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>How about another crabber song?</Source>
+      <Dest>再来首捕蟹人之歌如何？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Investigate Bodan's Lead in Falkreath</Source>
+      <Dest>在佛克瑞斯调查波登的领导力</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>"Pessial the Pink."  I wish my mother had thought of that first.</Source>
+      <Dest>“粉衣帕索”。可惜我老妈头一个想到的名字却不是它。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Was their anything distinctive about this woman?</Source>
+      <Dest>这个女人身上有什么特别之处吗？</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Mingle or Talk to the Fair Lady to Proceed with the Match</Source>
+      <Dest>与窈窕淑女联系或聊天来推动比赛的进程</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>DialogueHaakonHellos</Source>
+      <Dest>DialogueHaakonHellos</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Find the Fence in Riften or Winterhold</Source>
+      <Dest>找到裂谷城或东堡的销赃者</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Confront Marla About the Potions</Source>
+      <Dest>在药剂的问题上与玛勒对抗</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Why not. I can play a little. (Draw Weapon When Done)</Source>
+      <Dest>为什么不呢，我倒是想玩一玩呢。（完成时拔出武器）</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Return to the Argonian Salvager</Source>
+      <Dest>回去找亚龙人救助者</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lunar Lake Serenada.</Source>
+      <Dest>银月湖小夜曲。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Meet the Brute of Talos</Source>
+      <Dest>见识下塔洛斯的残忍之处</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Speak with Jaspar Regarding Adonato's Odd Critique</Source>
+      <Dest>就阿多纳托那些奇怪的批评与贾斯帕谈谈</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>In terms of strategy, using overhead strikes would avoid the walls completely.</Source>
+      <Dest>自战略层面上来看，如果从头顶往下攻击的话就能完美地避开墙壁了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Finally, someone to explain things.  I'm confused.  Help me understand.</Source>
+      <Dest>终于有人出面解释了。我很困惑，帮我理解一下吧。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>There is a cure, but you must feed first to tip the scales toward life.</Source>
+      <Dest>是有治疗的方法，但你首先得吃饱，这是维持生命的基本。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Pathetic. I should do the world a favor and finish what the bandits started.</Source>
+      <Dest>可怜。我应该帮整个世界一个大忙，把那强盗行为扼杀在摇篮里。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>DualFlurry</Source>
+      <Dest>DualFlurry</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Heroes are as poor as beggars. A good smith should be rewarded for their work.</Source>
+      <Dest>英雄们就跟乞丐一样穷。好铁匠总该为他们的手艺获得奖赏。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Hail to you, mighty builder.</Source>
+      <Dest>强大的建造者，我向您致敬。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Right, because getting felt up by filthy knaves is a good thing.</Source>
+      <Dest>没错，因为被那些肮脏的贱种摸着却有了感觉是件美妙的事情。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Meet the Potential Housecarl</Source>
+      <Dest>与有潜力成为侍卫的人见面</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Forsworn rebels.  Lay down your arms or have your arms cut off.</Source>
+      <Dest>弃誓者听好了，缴械不杀。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Many people share a resemblance, but the similarities end there.</Source>
+      <Dest>很多人是挺相似，但在这点上，就显出差别来了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Tails are overrated.</Source>
+      <Dest>尾巴的作用被高估了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Funny.  A High Elf named Eldawyn said as much, and Gilsi mentioned her too.</Source>
+      <Dest>有意思。一个名叫艾德雯的高精灵也这么说，而歌尔西也提到了她。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>(Optional) Agree to Aid S'vashni in Her Quest for the Stance of Arkay</Source>
+      <Dest>（可选）同意帮助斯維雪妮来完成她那关于阿尔凯之势的任务</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>So did you stay or report back to camp?</Source>
+      <Dest>那你是留下来了还是回去报告给营地了？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Had I known he was Jadro'Ra's killer, he would've died in that cottage.</Source>
+      <Dest>如果我事先知道他就是杀死贾卓拉的凶手的话，那他会直接死在那座小屋里的。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Lurgok says the corpse was a gift to Malacath. Why condemn him to die?</Source>
+      <Dest>勒高克认为尸体是献给玛拉凯斯的礼物。为何要将他处以极刑？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The appetite for bloodsport could not have been high after the war.</Source>
+      <Dest>那种血腥残忍的爱好可比战争好不了多少。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Children Fair</Source>
+      <Dest>The Children Fair</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Hogni is a smart man.  The bloodier, the better.</Source>
+      <Dest>霍尼是聪明人。越残忍越好。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Krog died valiantly. A true warrior to be sure.</Source>
+      <Dest>克罗格死得很英勇。毫无疑问他是个真正的战士。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Odd. I was sick once, and I prayed to Talos and it healed me.</Source>
+      <Dest>奇怪。我以前也得过病，我向塔洛斯祈祷，于是它治好了我。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Have Marigoth Teleport You Inside the Crystal</Source>
+      <Dest>让梅莉卡把你送入晶石内部</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Hidden Blade</Source>
+      <Dest>隐之刃</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Wait for the Fence to Arrive at the Graveyard</Source>
+      <Dest>等待销赃者抵达墓地</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The Way to a Big Oaf's Heart</Source>
+      <Dest>The Way to a Big Oaf's Heart</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Good riddance to that murdering bitch.</Source>
+      <Dest>终于摆脱那个天杀的婊子了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>(Thieves Guild Questline) I've returned the Skeleton Key.</Source>
+      <Dest>（盗贼工会任务）我已经归还了骷髅钥匙。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Hopefully, not a dream of Ivarstead.</Source>
+      <Dest>还好，没梦见紫杉镇。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Follow the Letter Trail to the Location of the Bloodgrass</Source>
+      <Dest>跟随字母的线索找到血草的位置</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Life and death are but words.  You stand here, as do I.</Source>
+      <Dest>生存与死亡无非只是嘴上说说罢了。你站在这儿，所以我也在这儿。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Ancient relics, immortal beasts...just another day out in the tundra for me.</Source>
+      <Dest>远古遗物，不朽的巨兽…对我来说，不过是我在苔原时所经历的日常罢了。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Any friend of House Dres is a friend of mine.</Source>
+      <Dest>德莱议会的朋友就是我的朋友。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The way you describe it, your business must have its ups and downs.</Source>
+      <Dest>按你的话说，生意也有起起落落。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>The wise course is to approach her, but with caution.</Source>
+      <Dest>靠近她是个不错的选择，但是要小心。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Gilsi spoke of a "Long Night."</Source>
+      <Dest>歌尔西提到过“长夜”。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Eliminate or Pickpocket a Suspect</Source>
+      <Dest>除掉一个嫌疑犯或者从他身上窃取证物</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>Bring Rinori to the Summoning Circle During the Light Hours</Source>
+      <Dest>在日间将瑞诺丽带到召唤阵去</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
