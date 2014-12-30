@@ -92,11 +92,11 @@
     </String>
     <String List="0">
       <Source>So you're saying he does neither well.</Source>
-      <Dest>你的意思是说他根本还没好？</Dest>
+      <Dest>你的意思是说他什么都做不好？</Dest>
     </String>
     <String List="0">
       <Source>So you're saying he does neither well.</Source>
-      <Dest>你的意思是说他根本还没好？</Dest>
+      <Dest>你的意思是说他什么都做不好？</Dest>
     </String>
     <String List="0">
       <Source>Tell me about yourself.</Source>
@@ -120,15 +120,15 @@
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>You should care. The world could very well end tomorrow.</Source>
@@ -188,7 +188,7 @@
     </String>
     <String List="2">
       <Source>Just the basics.  Sword and shield.  No fancy knight training.  What I know, they don't teach you in any tourney.</Source>
-      <Dest>只是基础而已。只是使用剑和盾的基本方法，不是复杂的骑士训练。我猜他们在比赛的时候什么都没有教你。</Dest>
+      <Dest>随便耍两招而已。挥挥剑举举盾什么的，不是潇洒的骑士训练。我猜骑士训练的时候练不了什么有用的东西。</Dest>
     </String>
     <String List="2">
       <Source>It's pretty simple.  In this world, you got people who want other people dead.  They pay me to kill them.</Source>
@@ -208,7 +208,7 @@
     </String>
     <String List="2">
       <Source>The choice is as clear as the reasons, brother.</Source>
-      <Dest>兄弟，这选择跟理由一样明确。</Dest>
+      <Dest>兄弟，这还需要理由么。</Dest>
     </String>
     <String List="2">
       <Source>In that case, you might be alright with Belrand.  It's not like he's some decrepit old sellsword with a brain the size of my balls.  Oh wait.</Source>
@@ -224,15 +224,15 @@
     </String>
     <String List="2">
       <Source>Then that person pays me more gold to slice off yours.  Everybody wins.</Source>
-      <Dest>那个家伙付了我更多的钱来干掉你。这对大家都有好处。</Dest>
+      <Dest>然后那个家伙会付我更多的钱来干掉你，共赢。</Dest>
     </String>
     <String List="2">
       <Source>Don't say I didn't warn you.  Actually, you probably won't be saying much of anything with that old man at your back.</Source>
-      <Dest>别说我没提醒过你。事实上，你可能不会和你背后的老人多说什么。</Dest>
+      <Dest>别说我没提醒过你。事实上，你可能不会和躲在你身后的老人多说些什么。</Dest>
     </String>
     <String List="2">
       <Source>Of course, if one day the bandits all trade in their blades for jousting spears, then by all means, find yourself a knight.</Source>
-      <Dest>当然，如果哪天强盗都愿意拿武器来换取【比试长矛】，那你就能算是当上骑士了。</Dest>
+      <Dest>当然，如果哪天强盗都愿意跟你点到为止的话，那你差不多可以去做个骑士了。</Dest>
     </String>
     <String List="2">
       <Source>Well, I'd almost do it for free, except I don't know what that word means. If I had to take a guess, it means 1200 septims.</Source>
@@ -252,7 +252,7 @@
     </String>
     <String List="2">
       <Source>It's not like all those skulls scattered around Skyrim bashed themselves in!</Source>
-      <Dest>散布在天际省的骨头可不全是自己折腾成那样的！【不作死就不会死】</Dest>
+      <Dest>你以为天际的那些王八蛋们都是怎么死的！</Dest>
     </String>
     <String List="2">
       <Source>Probably.  So's killing men. I'll stick to what I know.</Source>
@@ -264,7 +264,7 @@
     </String>
     <String List="2">
       <Source>The choice is as clear as the reasons, sister.</Source>
-      <Dest>姐妹，这选择跟理由一样明确。</Dest>
+      <Dest>妹子，这还需要理由么。</Dest>
     </String>
     <String List="2">
       <Source>More to life than gold, huh.  Say...that's pretty deep.  I'll remember to carve it on your tombstone.</Source>
@@ -276,7 +276,7 @@
     </String>
     <String List="2">
       <Source>I've been called worse.  In fact, "tool" pretty much sums up what I do.  And this tool costs about 1500 gold to use.</Source>
-      <Dest>我更惨。事实上，“工具”大概就能概括我是干什么的。并且工具的使用费大概是1500个金币。</Dest>
+      <Dest>要我说，还不如垫脚石呢。事实上，“垫脚石”大概概括了我能干什么。并且垫脚石的使用费大概是1500个金币。</Dest>
     </String>
     <String List="2">
       <Source>Is that right? Didn't really think about it.  Just tried to put a number on what you're getting.</Source>
@@ -304,11 +304,11 @@
     </String>
     <String List="2">
       <Source>You keep the clink flowing, and I'll be more than happy to buy you more drinks.  Might even offer you my blade, if you're in need of it.</Source>
-      <Dest>只要你【继续弹奏】，然后我说不定一时开心就多请你几杯酒了。甚至如果你要的话，我的剑都可以给你。</Dest>
+      <Dest>只要我能一直听见金币的响声，然后我说不定一时开心就多请你几杯酒了。甚至如果你需要的话，我甚至可以为你效劳。</Dest>
     </String>
     <String List="2">
       <Source>Hey sister, you look thirsty.  Tell you what, you give me 1000 gold pieces, and I'll buy you a drink.</Source>
-      <Dest>嗨姐姐，你看起来很渴啊.  告诉你吧,给我1000金币, 我就给你买喝的.</Dest>
+      <Dest>嗨姐姐，你看起来很渴啊。告诉你吧，给我1000金币，我就给你买喝的。</Dest>
     </String>
     <String List="2">
       <Source>So we're in complete agreement.  Knights are dumb.</Source>
@@ -340,15 +340,15 @@
     </String>
     <String List="2">
       <Source>It's just the way it is.  Maybe if you're some kind of genius you could pull it off. Or maybe if you're young and fast enough, it won't matter.</Source>
-      <Dest>那本应如此。也许如果你是个什么天才的话就可以把这事推了。或者说你很年轻动作足够快，也没什么关系。</Dest>
+      <Dest>本来就是。如果你天赋异禀的话就可以横扫全天际了。或者说你身强体壮，动作敏捷，也能混得下去。</Dest>
     </String>
     <String List="2">
       <Source>It's like you're out for a meal, and you got a choice of pie, or fish.  Belrand is like a pie made out of fish.  Why not have both?  That's why.</Source>
-      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个没有鱼的馅饼。为什么不全吃呢？这就是原因。</Dest>
+      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个鱼肉馅饼。</Dest>
     </String>
     <String List="2">
       <Source>It's like you're out for a meal, and you got a choice of pie, or fish.  Belrand is like a pie made out of fish.  Why not have both?  That's why.</Source>
-      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个没有鱼的馅饼。为什么不全吃呢？这就是原因。</Dest>
+      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个鱼肉馅饼。</Dest>
     </String>
     <String List="2">
       <Source>Yeah?  It might cost you extra, depending on how dangerous it is.  Hell, make it dangerous enough, and it might cost you less.  But it'll still cost.</Source>
