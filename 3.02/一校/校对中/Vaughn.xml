@@ -8,15 +8,15 @@
   <Content>
     <String List="0">
       <Source>Any interesting news, rumors...thoughts?</Source>
-      <Dest>任何有趣的消息，传闻...想法？</Dest>
+      <Dest>对时下的消息、传闻……你怎么看？</Dest>
     </String>
     <String List="0">
       <Source>Any interesting news, rumors...thoughts?</Source>
-      <Dest>任何有趣的消息，传闻...想法？</Dest>
+      <Dest>对时下的消息、传闻……你怎么看？</Dest>
     </String>
     <String List="0">
       <Source>Any interesting news, rumors...thoughts?</Source>
-      <Dest>任何有趣的消息，传闻...想法？</Dest>
+      <Dest>对时下的消息、传闻……你怎么看？</Dest>
     </String>
     <String List="0">
       <Source>That sounds like a horrible deal.</Source>
@@ -32,11 +32,11 @@
     </String>
     <String List="0">
       <Source>An excellent trade good sir, where should I deposit the gold?</Source>
-      <Dest>真是一次棒极了的交易，好心的先生，那么我该去哪里存放这些金币呢？</Dest>
+      <Dest>真是一次棒极了的交易，好心的先生，那么我该把这些金币放在哪里呢？</Dest>
     </String>
     <String List="0">
       <Source>An excellent trade good sir, where should I deposit the gold?</Source>
-      <Dest>真是一次棒极了的交易，好心的先生，那么我该去哪里存放这些金币呢？</Dest>
+      <Dest>真是一次棒极了的交易，好心的先生，那么我该把这些金币放在哪里呢？</Dest>
     </String>
     <String List="0">
       <Source>Killing dragons can be quite profitable.</Source>
@@ -92,11 +92,11 @@
     </String>
     <String List="0">
       <Source>So you're saying he does neither well.</Source>
-      <Dest>你的意思是說他根本還沒好？</Dest>
+      <Dest>你的意思是说他什么都做不好？</Dest>
     </String>
     <String List="0">
       <Source>So you're saying he does neither well.</Source>
-      <Dest>你的意思是說他根本還沒好？</Dest>
+      <Dest>你的意思是说他什么都做不好？</Dest>
     </String>
     <String List="0">
       <Source>Tell me about yourself.</Source>
@@ -112,23 +112,23 @@
     </String>
     <String List="0">
       <Source>Consider yourself hired. (1000 Gold)</Source>
-      <Dest>你被雇佣了。(1000金币)</Dest>
+      <Dest>行，买去吧。(1000金币)</Dest>
     </String>
     <String List="0">
       <Source>Consider yourself hired. (1000 Gold)</Source>
-      <Dest>你被雇佣了。(1000金币)</Dest>
+      <Dest>行，买去吧。(1000金币)</Dest>
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>Exactly.  Specialization is key.  The question is, what's yours.</Source>
-      <Dest>很对。特化是关键。但问题是你的特别之处在哪里？</Dest>
+      <Dest>很对。特长是关键。但问题是你的特别之处在哪里？</Dest>
     </String>
     <String List="0">
       <Source>You should care. The world could very well end tomorrow.</Source>
@@ -180,7 +180,7 @@
     </String>
     <String List="2">
       <Source>I have no idea what you just said, but it sounds expensive.  1200 gold ought to do it.</Source>
-      <Dest>我搞不懂你刚都说了什么, 但觉得很厉害的样子.  1200 金币该给的值.</Dest>
+      <Dest>我搞不懂你刚都说了什么，但觉得很厉害的样子。1200 金币该给的值。</Dest>
     </String>
     <String List="2">
       <Source>You're a little short on coin.  Best go gather up some more.</Source>
@@ -188,7 +188,7 @@
     </String>
     <String List="2">
       <Source>Just the basics.  Sword and shield.  No fancy knight training.  What I know, they don't teach you in any tourney.</Source>
-      <Dest>只是基础而已。只是使用剑和盾的基本方法，不是复杂的骑士训练。我猜他们在比赛的时候什么都没有教你。</Dest>
+      <Dest>随便耍两招而已。挥挥剑举举盾什么的，不是潇洒的骑士训练。我猜骑士训练的时候练不了什么有用的东西。</Dest>
     </String>
     <String List="2">
       <Source>It's pretty simple.  In this world, you got people who want other people dead.  They pay me to kill them.</Source>
@@ -208,7 +208,7 @@
     </String>
     <String List="2">
       <Source>The choice is as clear as the reasons, brother.</Source>
-      <Dest>兄弟，这选择跟理由一样明确。</Dest>
+      <Dest>兄弟，这还需要理由么。</Dest>
     </String>
     <String List="2">
       <Source>In that case, you might be alright with Belrand.  It's not like he's some decrepit old sellsword with a brain the size of my balls.  Oh wait.</Source>
@@ -224,19 +224,19 @@
     </String>
     <String List="2">
       <Source>Then that person pays me more gold to slice off yours.  Everybody wins.</Source>
-      <Dest>那个家伙付了我更多的钱来干掉你。这对大家都有好处。</Dest>
+      <Dest>然后那个家伙会付我更多的钱来干掉你，共赢。</Dest>
     </String>
     <String List="2">
       <Source>Don't say I didn't warn you.  Actually, you probably won't be saying much of anything with that old man at your back.</Source>
-      <Dest>别说我没提醒过你。事实上，你可能不会和你背后的老人多说什么。</Dest>
+      <Dest>别说我没提醒过你。事实上，你可能不会和躲在你身后的老人多说些什么。</Dest>
     </String>
     <String List="2">
       <Source>Of course, if one day the bandits all trade in their blades for jousting spears, then by all means, find yourself a knight.</Source>
-      <Dest>当然，如果哪天强盗都愿意拿武器来换取【比试长矛】，那你就能算是当上骑士了。</Dest>
+      <Dest>当然，如果哪天强盗都愿意跟你点到为止的话，那你差不多可以去做个骑士了。</Dest>
     </String>
     <String List="2">
       <Source>Well, I'd almost do it for free, except I don't know what that word means. If I had to take a guess, it means 1200 septims.</Source>
-      <Dest>嗯，我其实想免费做的，只是我不明白那个词的意思。要是非让我猜，大概是表示1200金币吧。</Dest>
+      <Dest>嗯，我其实挺想免费的，只是我不明白那个词的意思。要是非让我猜，大概是表示1200金币吧。</Dest>
     </String>
     <String List="2">
       <Source>Why, you looking to hire yourself? (Laughs)  Because you can't be talking about me.</Source>
@@ -252,11 +252,11 @@
     </String>
     <String List="2">
       <Source>It's not like all those skulls scattered around Skyrim bashed themselves in!</Source>
-      <Dest>散布在天际省的骨头可不全是自己折腾成那样的！【不作死就不会死】</Dest>
+      <Dest>你以为天际的那些王八蛋们都是怎么死的！</Dest>
     </String>
     <String List="2">
       <Source>Probably.  So's killing men. I'll stick to what I know.</Source>
-      <Dest>或许吧，其实杀人也挺容易来钱的。[我会遵从我所知道的那些]。</Dest>
+      <Dest>或许吧，其实杀人也挺容易来钱的。我只会这个。</Dest>
     </String>
     <String List="2">
       <Source>Otherwise, you're better off paying me.</Source>
@@ -264,19 +264,19 @@
     </String>
     <String List="2">
       <Source>The choice is as clear as the reasons, sister.</Source>
-      <Dest>姐妹，这选择跟理由一样明确。</Dest>
+      <Dest>妹子，这还需要理由么。</Dest>
     </String>
     <String List="2">
       <Source>More to life than gold, huh.  Say...that's pretty deep.  I'll remember to carve it on your tombstone.</Source>
-      <Dest>生命比金重，恩，看吧...这很深奥。我会记得把它刻在我的墓碑上。</Dest>
+      <Dest>金币诚可贵，生命价更高，嗯...这很深奥。我会记得把它刻在我的墓碑上。</Dest>
     </String>
     <String List="2">
       <Source>Right in my pockets is a good place to start.  Then maybe my coin purse, and my sack too.  Or just dump it on the table, I'm not all that picky.</Source>
-      <Dest>我的右边衣兜儿是个开始的好地方。接着也许是我的钱包，还有我的口袋。或者干脆把它放在桌子上好了，我没那么多事儿的。</Dest>
+      <Dest>我的右边衣兜儿是个好地方。还有我的钱包，我的口袋。或者干脆把它放在桌子上好了，我没那么多事儿的。</Dest>
     </String>
     <String List="2">
       <Source>I've been called worse.  In fact, "tool" pretty much sums up what I do.  And this tool costs about 1500 gold to use.</Source>
-      <Dest>我更惨。事实上，“工具”大概就能概括我是干什么的。并且工具的使用费大概是1500个金币。</Dest>
+      <Dest>要我说，还不如垫脚石呢。事实上，“垫脚石”大概概括了我能干什么。并且垫脚石的使用费大概是1500个金币。</Dest>
     </String>
     <String List="2">
       <Source>Is that right? Didn't really think about it.  Just tried to put a number on what you're getting.</Source>
@@ -284,7 +284,7 @@
     </String>
     <String List="2">
       <Source>Hey brother, you look thirsty.  Tell you what, you give me 1000 gold pieces, and I'll buy you a drink.</Source>
-      <Dest>嗨伙计，你看上去渴了，告诉你吧，如果你给我1000个金币，我就给你买瓶水来！</Dest>
+      <Dest>嗨伙计，你看上去渴了，告诉你吧，如果你给我1000个金币，我就给你买点喝的来！</Dest>
     </String>
     <String List="2">
       <Source>You got yourself a deal. And don't worry, you're getting the better end of it.</Source>
@@ -304,11 +304,11 @@
     </String>
     <String List="2">
       <Source>You keep the clink flowing, and I'll be more than happy to buy you more drinks.  Might even offer you my blade, if you're in need of it.</Source>
-      <Dest>只要你[继续弹奏]，然后我说不定一时开心就多请你几杯酒了。甚至如果你要的话，我的剑都可以给你。</Dest>
+      <Dest>只要我能一直听见金币的响声，然后我说不定一时开心就多请你几杯酒了。甚至如果你需要的话，我甚至可以为你效劳。</Dest>
     </String>
     <String List="2">
       <Source>Hey sister, you look thirsty.  Tell you what, you give me 1000 gold pieces, and I'll buy you a drink.</Source>
-      <Dest>嗨姐姐，你看起来很渴啊.  告诉你吧,给我1000金币, 我就给你买喝的.</Dest>
+      <Dest>嗨姐姐，你看起来很渴啊。告诉你吧，给我1000金币，我就给你买喝的。</Dest>
     </String>
     <String List="2">
       <Source>So we're in complete agreement.  Knights are dumb.</Source>
@@ -316,15 +316,15 @@
     </String>
     <String List="2">
       <Source>He likes to say that a lot, "Why not have both?"  I'll tell you why.</Source>
-      <Dest>他喜欢说很多话，“为什么不呢？”我会告诉你为什么。</Dest>
+      <Dest>他总是这样说，“为什么不呢？”我会告诉你为什么。</Dest>
     </String>
     <String List="2">
       <Source>He likes to say that a lot, "Why not have both?"  I'll tell you why.</Source>
-      <Dest>他喜欢说很多话，“为什么不呢？”我会告诉你为什么。</Dest>
+      <Dest>他总是这样说，“为什么不呢？”我会告诉你为什么。</Dest>
     </String>
     <String List="2">
       <Source>My next opinion of the war will be my first.</Source>
-      <Dest>我对战争的下一个观点将成为第一个。</Dest>
+      <Dest>我对战争的观点跟上一个一样。</Dest>
     </String>
     <String List="2">
       <Source>You got that right.  They pay us to kill, not to care.</Source>
@@ -340,15 +340,15 @@
     </String>
     <String List="2">
       <Source>It's just the way it is.  Maybe if you're some kind of genius you could pull it off. Or maybe if you're young and fast enough, it won't matter.</Source>
-      <Dest>那本应如此。也许如果你是个什么天才的话就可以把这事推了。或者说你很年轻动作足够快，也没什么关系。</Dest>
+      <Dest>本来就是。如果你天赋异禀的话就可以横扫全天际了。或者说你身强体壮，动作敏捷，也能混得下去。</Dest>
     </String>
     <String List="2">
       <Source>It's like you're out for a meal, and you got a choice of pie, or fish.  Belrand is like a pie made out of fish.  Why not have both?  That's why.</Source>
-      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个没有鱼的馅饼。为什么不全吃呢？这就是原因。</Dest>
+      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个鱼肉馅饼。</Dest>
     </String>
     <String List="2">
       <Source>It's like you're out for a meal, and you got a choice of pie, or fish.  Belrand is like a pie made out of fish.  Why not have both?  That's why.</Source>
-      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个没有鱼的馅饼。为什么不全吃呢？这就是原因。</Dest>
+      <Dest>就像你出去吃饭，然后你得选你是吃鱼还是吃馅饼。博兰德就像是一个鱼肉馅饼。</Dest>
     </String>
     <String List="2">
       <Source>Yeah?  It might cost you extra, depending on how dangerous it is.  Hell, make it dangerous enough, and it might cost you less.  But it'll still cost.</Source>
@@ -372,7 +372,7 @@
     </String>
     <String List="2">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
-      <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
+      <Dest>要不是我父亲那晚上被困在独孤城了，卫兵们才抓不到他呢。</Dest>
     </String>
     <String List="2">
       <Source>I was just about suggest that myself.  You need me again, you come by the Skeever.  And bring money.</Source>
