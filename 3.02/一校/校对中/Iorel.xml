@@ -6,1071 +6,935 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How did you manage to get past the soul-snare?</Source>
-      <Dest>你是怎么通过灵魂陷阱的？</Dest>
+      <Dest>您是怎么通过灵魂陷阱的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>My queen, I will do my best not to let you down.</Source>
-      <Dest>我的女王，我将会竭尽全力不要让你失望。</Dest>
+      <Dest>我的女王，我将会竭尽全力不使您失望。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>My queen, I will do my best not to let you down.</Source>
-      <Dest>我的女王，我将会竭尽全力不要让你失望。</Dest>
+      <Dest>我的女王，我将会竭尽全力不使您失望。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Have you spoken with Ysgramor?</Source>
-      <Dest>你与伊斯格拉谟谈过了吗？</Dest>
+      <Dest>你见过伊斯格拉谟了吗？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why does everyone here speak strangely?</Source>
-      <Dest>為什麼大家都在這裡都說些奇奇怪怪的話？</Dest>
+      <Dest>为什么这里的大家都说些奇奇怪怪的话？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why does everyone here speak strangely?</Source>
-      <Dest>為什麼大家都在這裡都說些奇奇怪怪的話？</Dest>
+      <Dest>为什么这里的大家都说些奇奇怪怪的话？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why does everyone here speak strangely?</Source>
-      <Dest>為什麼大家都在這裡都說些奇奇怪怪的話？</Dest>
+      <Dest>为什么这里的大家都说些奇奇怪怪的话？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>In any case, it was good to see you once more, my queen.</Source>
-      <Dest>很高兴能再次见到你，我的女皇。</Dest>
+      <Dest>很高兴能再次见到你，我的女王。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>In any case, it was good to see you once more, my queen.</Source>
-      <Dest>很高兴能再次见到你，我的女皇。</Dest>
+      <Dest>很高兴能再次见到你，我的女王。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>In any case, it was good to see you once more, my queen.</Source>
-      <Dest>很高兴能再次见到你，我的女皇。</Dest>
+      <Dest>很高兴能再次见到你，我的女王。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I don't understand how bitter enemies can be cordial.</Source>
-      <Dest>[我不清楚敌人要厉害成什么样才会让我兴奋。]</Dest>
+      <Dest>我不明白昔日的死敌如何能这般热情。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>The warriors here are from a time forgotten, and speak an old and forgotten tongue.</Source>
+      <Dest>这里的战士们来自于久被遗忘的年代，他们说的是一种久被遗忘的古老语言。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>It was good to see you as well, my champion.</Source>
       <Dest>很高兴见到你，我的勇士。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You may not recognize me now that I have flesh, but I am Iorel, who was once a Draugr, and before that a queen.</Source>
-      <Dest>你也许现在不认识我，毕竟我的肉体已经是这个样子了。但我是柔落, 一个曾经的尸鬼，在那之前是一名女王。</Dest>
+      <Dest>也许你认不出我拥有肉身的样子。但我是柔落, 一个曾经的尸鬼，在那之前则是一名女王。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The Dov-Rha knew a word that could part the clouds and save the sun.  I was fortunate to have known it on this day.</Source>
-      <Dest>这个多瓦知道，一个单词就能吹散乌云，露出阳光。幸运的是我在那一天就已经知道了。</Dest>
+      <Dest>龙语中有一则词句能够驱云现日。而今我有幸知道这句龙语。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yet as much as it pains me not to celebrate our reunion, that day will have to wait.</Source>
-      <Dest>可是只要【不为我们的重逢而庆祝】，那一天就不会到来。</Dest>
+      <Dest>然而我为无法欢庆我们的重逢而感到心痛，欢庆的日子必须被延后。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>For now it is the world that needs saving, and I know you will do us all proud.</Source>
+      <Dest>因为现在世界需要被拯救，而我知道我们所有人都会为你感到骄傲。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>But rather, for providing a simple act of kindness, a small flicker of warmth, at a time and a place when I needed it most.</Source>
-      <Dest>更值得记住的是，一个小小的善举，一丝闪现的温暖，在我最需要它的那一时一地。</Dest>
+      <Dest>我铭记你，只因一个小小的善举，一丝闪现的温暖，在我最需要它的那一时一地。</Dest>
     </String>
-    <String List="2">
+        <String List="2" Partial="1">
+      <Source>My champion, that you will never do.  For I will not remember you for the beasts you slay or the worlds you save.</Source>
+      <Dest>你永远不会令我失望的，我的勇士。我不会因你屠杀的巨兽或是你拯救的世界而铭记你。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Argh!</Source>
       <Dest>啊！</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>However, I thought to dismiss with such custom, in the presence of an old friend.</Source>
-      <Dest>但是，在老朋友面前我想让这样的顾客离开。</Dest>
+      <Dest>不过我想，在一位老友面前，就不必拘于这种习俗了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Hyargh!</Source>
       <Dest>嘿呀！</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Perhaps in time, the fates will grant us another day, when there are no battles to fight, and no tears to shed.</Source>
-      <Dest>也许在某个时候，命运的三女神将会赐予我们崭新的一天，全无纷争，亦无泪水的世界</Dest>
+      <Dest>也许某一天，命运会让我们再次相见，那时将没有迫在眉睫的战斗，也没有催人泪下的离别。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>I will wait for you now as I did then, until that day finally comes.</Source>
+      <Dest>我会如之前那样静候于你，直到那天最终到来。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Now, thanks to you, I am a queen once more.</Source>
-      <Dest>现在，幸赖你的帮助，我再一次登上女王之位。</Dest>
+      <Dest>而今，幸赖你的帮助，我再次成为了女王。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I too once spoke, in this honor-swathed prose, as usually custom is, in the realm of soul's end.</Source>
-      <Dest>我曾经说过，这种看似荣誉实则枯燥无聊的话语， 一般习惯上来讲，反应出了他枯竭的内心。</Dest>
+      <Dest>往常，我也会说这样荣耀而单调的话语，因为在灵魂尽头的世界里，这是一种常见的习俗。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ah, it's you. My savior, my champion, to whom I am forever grateful.  </Source>
       <Dest>啊，是你。我的救主，我的勇士，我永远感激的人。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>One day, you will know it as well, but today is not that day.  You have a world to save, and I wish you luck.</Source>
-      <Dest>总有一天，你会明白这件事的，但不是今天。你还有整个世界要去拯救呢，祝你好运。</Dest>
+      <Dest>总有一天，你也将明白，但不是今天。世界还等着你来拯救，祝你好运。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>In the realm of eternity, anger is as pointless as a candle in the ocean.  There is no room for rivalries, rudeness, or rancor.  Only revelry.</Source>
       <Dest>在永恒的领域中，愤怒就像是大海中的一支蜡烛一样毫无意义。这里没有敌意，粗鲁，或怨恨。这里只有狂欢。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Agh!</Source>
       <Dest>啊！</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Well, I'm glad someone here isn't a complete stranger.</Source>
-      <Dest>好吧，我很高兴这里有人不是完全的陌生人。</Dest>
+      <Dest>好把，我很高兴这有一个并不完全陌生的人。</Dest>
     </String>
-    <String List="0">
-      <Source>Well, I'm glad someone here isn't a complete stranger.</Source>
-      <Dest>好吧，我很高兴这里有人不是完全的陌生人。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, I want to ask you a few more questions first.</Source>
-      <Dest>等等,我还有些问题要问.</Dest>
+      <Dest>等等,我还有些问题要问。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So you betrayed the Nedes.  How many died at your hands?</Source>
-      <Dest>所以你背叛了Nedes。有多少人死在你的手上？</Dest>
+      <Dest>所以你背叛了内德人。有多少人死在你的手上？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>That's enough translations.</Source>
-      <Dest>这么解答已经足够。</Dest>
+      <Dest>翻译这些足够了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Your skin looks a bit dry.  You should speak to an alchemist.</Source>
       <Dest>你的皮肤看起来有点干啊。你该去和一位炼金术士谈谈。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Your skin looks a bit dry.  You should speak to an alchemist.</Source>
       <Dest>你的皮肤看起来有点干啊。你该去和一位炼金术士谈谈。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Your skin looks a bit dry.  You should speak to an alchemist.</Source>
       <Dest>你的皮肤看起来有点干啊。你该去和一位炼金术士谈谈。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>They say Ysgramor established Saarthal.</Source>
-      <Dest>他们说 Ysgramor 建立了 Saarthal.</Dest>
+      <Dest>他们说伊思格拉谟建造了萨瑟尔。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>They say Ysgramor established Saarthal.</Source>
-      <Dest>他们说 Ysgramor 建立了 Saarthal.</Dest>
+      <Dest>他们说伊思格拉谟建造了萨瑟尔。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Enough of your whining Draugr. I'm turning you into bonemeal.</Source>
-      <Dest>够了！你们这群呜呜叫的尸鬼，我要把你们打成骨粉。</Dest>
+      <Dest>我受够了你这呜呜叫的尸鬼。我要把你们打成骨粉。</Dest>
     </String>
-    <String List="0">
-      <Source>Enough of your whining Draugr. I'm turning you into bonemeal.</Source>
-      <Dest>够了！你们这群呜呜叫的尸鬼，我要把你们打成骨粉。</Dest>
-    </String>
-    <String List="0">
-      <Source>Enough of your whining Draugr. I'm turning you into bonemeal.</Source>
-      <Dest>够了！你们这群呜呜叫的尸鬼，我要把你们打成骨粉。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Look at you?  Who would dare set their eyes upon such a hideous monster?</Source>
       <Dest>看着你？谁敢看着这样可怕的怪物？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Look at you?  Who would dare set their eyes upon such a hideous monster?</Source>
       <Dest>看着你？谁敢看着这样可怕的怪物？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The Atmora worshiped dragons?</Source>
-      <Dest>The Atmora 崇拜龙？</Dest>
+      <Dest>阿特莫拉人崇拜龙？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The Atmora worshiped dragons?</Source>
-      <Dest>The Atmora 崇拜龙？</Dest>
+      <Dest>阿特莫拉人崇拜龙？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The Atmora worshiped dragons?</Source>
-      <Dest>The Atmora 崇拜龙？</Dest>
+      <Dest>阿特莫拉人崇拜龙？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not a problem. I was going to kill you anyway.</Source>
       <Dest>没问题！反正我早晚要弄死你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not a problem. I was going to kill you anyway.</Source>
       <Dest>没问题！反正我早晚要弄死你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not a problem. I was going to kill you anyway.</Source>
       <Dest>没问题！反正我早晚要弄死你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not a problem. I was going to kill you anyway.</Source>
       <Dest>没问题！反正我早晚要弄死你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not a problem. I was going to kill you anyway.</Source>
       <Dest>没问题！反正我早晚要弄死你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Ah, I know of this Elf.</Source>
-      <Dest>啊，我知道這個精靈。.</Dest>
+      <Dest>啊，我知道这个精灵。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Ah, I know of this Elf.</Source>
-      <Dest>啊，我知道這個精靈。.</Dest>
+      <Dest>啊，我知道这个精灵。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Ah, I know of this Elf.</Source>
-      <Dest>啊，我知道這個精靈。.</Dest>
+      <Dest>啊，我知道这个精灵。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Ah, I know of this Elf.</Source>
-      <Dest>啊，我知道這個精靈。.</Dest>
+      <Dest>啊，我知道这个精灵。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Do you know the phrase "Bolog Aaz, Mal Lir?"</Source>
-      <Dest>你知道"Bolog Aaz, Mal Lir?"这句古诺德语吗？</Dest>
+      <Dest>你知道"Bolog Aaz, Mal Lir?"这句话吗？</Dest>
     </String>
-    <String List="0">
+    <String List="2" Partial="1">
+      <Source>(Laughs) "Bolog Aaz" means "Beg for mercy", but I cannot translate "Mal Lir". It is an insult so great that it has no words in the common tongue.</Source>
+      <Dest>（笑声）“Bolog Aaz”意为“求饶吧”，但我没法翻译“Mal Lir”。这是句非常恶毒的侮辱，在通用语中没有对应的词语。</Dest>
+    </String>
+    <String List="0" Partial="1">
       <Source>The Merethic Era passed long ago. How are you still alive?</Source>
-      <Dest>这神秘的纪元已过去了很久，你怎么仍然活着?</Dest>
+      <Dest>神秘纪元已过去了很久，你怎么仍然活着？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The Merethic Era passed long ago. How are you still alive?</Source>
-      <Dest>这神秘的纪元已过去了很久，你怎么仍然活着?</Dest>
+      <Dest>神秘纪元已过去了很久，你怎么仍然活着？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The Merethic Era passed long ago. How are you still alive?</Source>
-      <Dest>这神秘的纪元已过去了很久，你怎么仍然活着?</Dest>
+      <Dest>神秘纪元已过去了很久，你怎么仍然活着？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Who was this Mer the Frost Dragon lent his powers to?</Source>
       <Dest>这位持有霜龙之力的精灵是谁？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Who was this Mer the Frost Dragon lent his powers to?</Source>
       <Dest>这位持有霜龙之力的精灵是谁？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Who was this Mer the Frost Dragon lent his powers to?</Source>
       <Dest>这位持有霜龙之力的精灵是谁？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Who was this Mer the Frost Dragon lent his powers to?</Source>
       <Dest>这位持有霜龙之力的精灵是谁？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I apologize, but such a request goes against my principles.</Source>
-      <Dest>我很抱歉，但如此要求确实有悖于我的原则.</Dest>
+      <Dest>我很抱歉，但如此要求确实有悖于我的原则。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I want to return to my earlier questions.</Source>
       <Dest>我想回到我刚才的问题。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>There must be some record of your previous existence.</Source>
-      <Dest>关于你的前世一定有什么记载的。</Dest>
+      <Dest>你生前一定留下了些记载的。</Dest>
     </String>
-    <String List="0">
-      <Source>There must be some record of your previous existence.</Source>
-      <Dest>关于你的前世一定有什么记载的。</Dest>
-    </String>
-    <String List="0">
-      <Source>There must be some record of your previous existence.</Source>
-      <Dest>关于你的前世一定有什么记载的。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Very well.</Source>
       <Dest>很好。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Pure white and camouflaged in the snow. What happened next?</Source>
-      <Dest>穿的一身白然后隐藏在雪地里。接下来会发生什么？</Dest>
+      <Dest>全身雪白并潜伏于雪地中。接下来发生了什么？</Dest>
     </String>
-    <String List="0">
-      <Source>Pure white and camouflaged in the snow. What happened next?</Source>
-      <Dest>穿的一身白然后隐藏在雪地里。接下来会发生什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Pure white and camouflaged in the snow. What happened next?</Source>
-      <Dest>穿的一身白然后隐藏在雪地里。接下来会发生什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>Pure white and camouflaged in the snow. What happened next?</Source>
-      <Dest>穿的一身白然后隐藏在雪地里。接下来会发生什么？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why is that?</Source>
       <Dest>那是怎么一回事？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why is that?</Source>
       <Dest>那是怎么一回事？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why is that?</Source>
       <Dest>那是怎么一回事？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why is that?</Source>
       <Dest>那是怎么一回事？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It will be my honor.</Source>
       <Dest>这将是我的荣幸。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It will be my honor.</Source>
       <Dest>这将是我的荣幸。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It will be my honor.</Source>
       <Dest>这将是我的荣幸。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It will be my honor.</Source>
       <Dest>这将是我的荣幸。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It will be my honor.</Source>
       <Dest>这将是我的荣幸。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The Nedes came to Mereth to escape war, not find themselves entrenched in another.  However, they are a prideful people.</Source>
-      <Dest>内德人来到梅拉斯躲避战火，没想到掉进另一个坑。不过他们还算是群高傲的人。</Dest>
+      <Dest>内德人来到梅拉斯躲避战火，却未料被卷入了另一场战争。但是，他们是个高傲的民族。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>He was the Prince of Solstheim, and he was granted the power of ice and snow.</Source>
       <Dest>他是索瑟姆的王，他被授予冰雪之力。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The old Nedic tradition says there is no greater honor than to die in battle, and that is my final request.</Source>
-      <Dest> 在Nedic的古老传统中，死于战斗之中是至高荣耀，这也是我最后的请求。” </Dest>
+      <Dest> 在内德的古老传统中，死于战斗之中是至高荣耀，这也是我最后的请求。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The old Nedic tradition says there is no greater honor than to die in battle, and that is my final request.</Source>
-      <Dest> 在Nedic的古老传统中，死于战斗之中是至高荣耀，这也是我最后的请求。” </Dest>
+      <Dest> 在内德的古老传统中，死于战斗之中是至高荣耀，这也是我最后的请求。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>If you wish to fight, then I welcome your steel. Many Draugr who are slain rise again, at the behest of the priests who give life to their husks.</Source>
+      <Dest>如果你愿意战斗，那将我迎接你的刀锋。被杀死的尸鬼大都会死而复生，这是赐他们躯壳以生命的祭祀的命令。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>However, with the Dov-Rha who imbued me with life slain by the Blades, perhaps I will truly find peace.</Source>
-      <Dest>尽管如此，有了被刀锋会屠杀的龙魂注入我的身体，也许我会找到真正的安宁。</Dest>
+      <Dest>然而，如果刀锋会已经杀死了赋予我生命的巨龙，也许我能得到真正的安息。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>A subject approaches...No, you must not look at me...not like this.</Source>
-      <Dest>有试验品来了……不，你不能看着我……这样不行。</Dest>
+      <Dest>有人来了……不，你不能看着我……不能以这种方式。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>...so that someday perhaps, in the great halls where all spirits are laid to rest, we can meet again, and you can know me for who I truly am.</Source>
-      <Dest>……有时候会遐想， 在所有灵魂都安葬在那里的大厅中，我们会再度相遇， 那时你会知道一个真正的我。</Dest>
+      <Dest>……那么也许某天，在所有灵魂安息的大殿中，我们会再度相遇， 而那时你就能知道我真正的样子。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You choose to use humor, but if I laugh, it is only because my sadness has exhausted all tears.  </Source>
-      <Dest>你想用幽默来逗笑我，但就算我笑了，也只是因为我的悲伤已经耗干了所有的泪。</Dest>
+      <Dest>你想用幽默来逗笑我，但就算我笑了，那也只因为我的悲伤已经耗干了所有的泪。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>He baited the Mer into an attack on farmers, hunters, and maids.</Source>
-      <Dest>他把精灵引诱入一次农民，猎手和女仆们的围攻中。</Dest>
+      <Dest>他引诱精灵向农民，猎人和侍女们发起进攻。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>What I do know is my pact with Kodiinaus remained.  For I am a Draugr, bound to serve, even as my master is dead.</Source>
-      <Dest>我知道我和Kodiinaus的契约仍在继续。因为我是个尸鬼，注定要去服务，即使我的主人已经死了。</Dest>
+      <Dest>但我知道我和柯汀纳斯的契约仍然有效。因为我是个尸鬼，注定要去服务，即便我的主人已经死了。</Dest>
     </String>
-    <String List="2">
-      <Source>What I do know is my pact with Kodiinaus remained.  For I am a Draugr, bound to serve, even as my master is dead.</Source>
-      <Dest>我知道我和Kodiinaus的契约仍在继续。因为我是个尸鬼，注定要去服务，即使我的主人已经死了。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That you slay me as you would any nameless Draugr, and that you forget that I was anything else.</Source>
-      <Dest>你就像追杀那些无名尸鬼一样地追杀我，你完全忘记了我跟它们是不一样的。</Dest>
+      <Dest>我请求你像杀一个无名的尸鬼那样杀死我，忘掉我和它们有什么不同。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That you slay me as you would any nameless Draugr, and that you forget that I was anything else.</Source>
-      <Dest>你就像追杀那些无名尸鬼一样地追杀我，你完全忘记了我跟它们是不一样的。</Dest>
+      <Dest>我请求你像杀一个无名的尸鬼那样杀死我，忘掉我和它们有什么不同。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>To worship does not mean to be enslaved. The dragon priests respected the Dov-rha for their might and power.</Source>
-      <Dest>崇拜并不意味着被奴役。而龙祭祀们却就这样臣服在了Dov-rha的力量之下。</Dest>
+      <Dest>崇拜并不意味着被奴役。龙祭祀出于巨龙的权威和力量而崇拜龙。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>She was a squire. A girl. Mad with fury and grief for her mother, but still just a girl.  So say the tales, but who knows how much is truth.</Source>
-      <Dest>她在只是个女孩儿的时候，就当上了护卫。她的妈妈又愤怒又悲伤，但她仍只是个女孩儿。所以说这是个故事，但谁知道有多少是真的呢。</Dest>
+      <Dest>她是一个侍女。一个小姑娘。尽管因丧母的悲愤而疯狂，但仍只是一个小姑娘。故事是这么讲的，但谁知道真相如何呢。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>She was a squire.  A girl.  Mad with fury and grief for her mother, but still just a girl.  So say the tales, but who knows how much is truth.</Source>
+      <Dest>她是一个侍女。一个小姑娘。尽管因丧母的悲愤而疯狂，但仍只是一个小姑娘。故事是这么讲的，但谁知道真相如何呢。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Will you grant me this kindness, stranger?  My body may resist, but my mind...my voice...it will not shout.</Source>
-      <Dest>你能帮我这个忙吗，陌生人？我的躯体也许在抗拒。但我的内心……我的声音……不会叫喊。</Dest>
+      <Dest>你会将这仁慈施予我吗，陌生人？我的躯体也许会反抗。但我的内心……我的声音……不会嘶喊。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I understand.  Feel free to ask as many as you like, but I hope we can revisit this topic later.</Source>
-      <Dest>我懂的。想问多少就问多少吧，但我希望我们先回到这个话题。</Dest>
+      <Dest>我明白了。想问多少请尽管问吧，但我希望稍后我们能回到这个话题。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I was once the envy of all...a queen, Queen Iorel of Mereth, and my subjects averted their gaze out of respect, and not disgust.</Source>
-      <Dest>我曾经很羡慕某个女王...那个梅拉斯的柔落女王，我的臣民都是出于尊重而非厌恶来避免与我对视。</Dest>
+      <Dest>我曾是众人倾慕的对象……一位女王，梅拉斯的柔落女王，我的臣民出于尊敬不敢忤视于我，而不是出于嫌恶。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>All that remains of who I am...my beauty, my fears, my heart...lies in this caricature of a human being.</Source>
-      <Dest>我曾拥有的一切……我的美丽，我的恐惧，我的心……全都仅剩遗骸，构成了这讽刺画一般的残躯。</Dest>
+      <Dest>我生前的一切……我的美丽，我的恐惧，我的心……全都留在这具讽刺画一般的残躯里。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You make it sound as these are your last days, my champion, when this is just the beginning of what will be a feast of glory.</Source>
-      <Dest>你听起来就像是把这当成你最后的日子似的。我的战士，这只是个开始，这终将会是荣誉的盛宴。</Dest>
+      <Dest>你的语气就像这将是你的末日，但我的勇士，这只不过是你荣誉盛宴的开始。</Dest>
     </String>
-    <String List="2">
+        <String List="2" Partial="1">
+      <Source>Join the fight, vanquish Alduin, and someday, you will have time to meet the others.  But that time is not now.  Goodbye, and good luck.</Source>
+      <Dest>去战斗吧，消灭奥杜因，然后总有一天，你会有充足的时间去见其他人。现在并不是时候。再见，祝你好运。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>I am a Draugr. Drah-gkon Servants such as myself are despised for our loyalties, as we are thought to have betrayed man to aid the dragons.</Source>
-      <Dest>用你们后辈的话讲，我就是一尸鬼。我们这些侍龙者曾经因我们的忠心饱受鄙视，因为人们认为我们放着好好地人不做跑去跟龙穿一条裤子。 </Dest>
+      <Dest>我是一个尸鬼。像我这样侍奉龙族的人总因我们的忠心而受人鄙夷，因为他们认为我们背叛了人类，转而投靠龙族。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The massacre in Saarthal gave Ysgramor the perfect excuse to eradicate the Mer from this land.</Source>
       <Dest>在萨瑟尔城发生的大屠杀给了斯格拉默屠灭精灵族的绝佳借口。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Thank you. Your words are unkind, but your actions have mercy, and both are sincere.</Source>
-      <Dest> 谢谢你，尽管语出不善，但是行为仁慈，而且是发自内心的。</Dest>
+      <Dest> 谢谢你，尽管语出不善，但是你行为仁慈，而且二者皆为真心诚意。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yes, it's a very concise language, but I much rather prefer the elegance of the common tongue.</Source>
-      <Dest>是的，这是一种非常简洁的语言，但对我而言，方言的那种优雅感要讨人喜欢得多。</Dest>
+      <Dest>是的，这是一种非常简洁的语言，但我更钟爱优雅的通用语。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You are right. I am everything you say. I am a corpse. A monster.</Source>
-      <Dest>你说的对。我就是你说的那样。我是具尸体。一个怪物。</Dest>
+      <Dest>你说的对。我正如你所言。我是具尸体。一个怪物。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Without a Dragon Priest to conduct the rituals, it was left to me to teach my people the old ways.</Source>
-      <Dest>没有龙祭司来主持仪式，现在只剩下我来把古老的方式教导给人民了。</Dest>
+      <Dest>没有龙祭司来主持仪式，就只能由我来把古老的方式教导给人民了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>...so that someday perhaps, in the great halls where all spirits are laid to rest, we can meet again, and you can know me for who I am.</Source>
-      <Dest>...也许有那么一天，这个大厅的所有灵魂都能得以安息，我们也会再次相遇，然后你就能知道我是谁了。</Dest>
+      <Dest>……那么也许会有一天，在灵魂安息的殿堂里，我们将再度相遇，而你会见到真正的我。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ha! That one means "Die horribly, slave!" What an odd thing to say...</Source>
-      <Dest>哈！那个的意思是“死翘翘吧！奴隶！”这话说起来有点诡异啊。</Dest>
+      <Dest>哈！那个的意思是“惨死于此吧！奴隶！”会这么说真是古怪……</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>When I look back at everything I was, from my flesh to my name, it feels like I am staring at a portrait of someone else's memories.</Source>
-      <Dest>当我回顾过去，从我的躯体到我的姓名，那种感觉就像我在盯着别人记忆的肖像。</Dest>
+      <Dest>每当我回顾过去，从我的躯体到我的姓名，我总会感觉我在看着一份属于别人的记忆。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Many great warriors died by his hand, and thus it was the cruelest irony for him to be slain by a child.</Source>
       <Dest>许多伟大的战士都死在他的手上。因此，对他来说，被一个孩子杀死真是莫大的讽刺。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Many great warriors died by his hand, and thus it was the cruelest irony for him to be slain by a child.</Source>
       <Dest>许多伟大的战士都死在他的手上。因此，对他来说，被一个孩子杀死真是莫大的讽刺。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>All the while he and his sons built an army of Companions in the caverns to the north.</Source>
-      <Dest>他和他的儿子一直在北面的山洞处为战友团添兵加将。</Dest>
+      <Dest>与此同时他和他的儿子们在北边的山洞中建立了一支战友团的军队。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Neither tome nor song will sing my praises, if they sing for me at all.</Source>
-      <Dest>即便我的赞歌曾被歌颂过，也再无书本或诗歌让它们继续流传。</Dest>
+      <Dest>即便我曾被歌颂过，也不会有书卷或诗歌得以流传。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Thank you. You are both kind and merciful, and while I may be queen, I am humbled by your grace.</Source>
       <Dest>谢谢你。你是如此的宽容而又仁慈，而我虽贵为女王，仍由衷地感激你的慈悲。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>They say he rode in on a horse of pure white, his armor and spear a beacon of hope in the dark terror of war.</Source>
       <Dest>人们说，他驾着一匹纯白的骏马，身上铠甲与手中长矛的辉光如希望之灯塔，将战争的恐惧斩落。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>There, on that island to the east, is what remained of the Snow Elf people, and where they would make their final stand.</Source>
-      <Dest>那儿，就在那东边的小岛上，是雪精灵族的遗民，也是他们将要做最后一搏的地方。</Dest>
+      <Dest>那儿，就在那东边的小岛上，是雪精灵族留下的遗迹，那里也是他们做最后一搏的地方。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>On the ruins of a kingdom. Our kingdom. Ysgramor came as a settler, and stayed as a conqueror. He was a tyrant.</Source>
-      <Dest>那是一个王国的遗迹。我们的王国。伊斯格拉谟以移民者之名而来，行之以征服之事。他是个暴君。</Dest>
+      <Dest>建立在另一个王国的遗迹之上。我们的王国。伊斯格拉谟以移民者之名而来，行之以征服之事。他是个暴君。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>For the dead can suffer no greater wound, no harsher penalty than the hollows of empty silence.</Source>
-      <Dest>死者不可能受到更多的伤害，没有什么惩罚比彻底的寂静更残酷。</Dest>
+      <Dest>因为对死者而言没有哪种折磨，哪种刑罚比空虚的死寂更加残忍。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>We paid tribute to them, and in return lived in harmony. In Mereth, no such order had been established.</Source>
-      <Dest>我们对他们表达了敬意，生活重归和谐的正轨。在梅拉斯，没可能建立如此的秩序。</Dest>
+      <Dest>我们向它们奉献贡品，作为回报我们得以和睦地生活。在梅拉斯，从未有过如此井然的秩序。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You know not of our ways. To die in battle brings considerable esteem, but to die against a worthy foe...that is a great and unimpeachable honor.</Source>
-      <Dest>你不了解我们的行事方式。战殁者颇受尊重，但死于与强大仇敌的战斗中……则是伟大崇高且毫无置疑之余地的荣誉。</Dest>
+      <Dest>你不了解我们的行事方式。战殁者颇受尊重，但死于与强大仇敌的战斗中……则是伟大崇高且不容置疑的荣誉。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Imbued with a new strength, the Prince rode into the Battle of the Moesring, where Ysgramor's armies marched through a field of crimson snow.</Source>
-      <Dest>周身注入了全新的力量之后，王子驾着雪白的战马冲进了莫斯林的战阵中。而此时，这里的白雪已被伊斯格拉默军的锋刃染得鲜红。</Dest>
+      <Dest>在获得了全新的力量之后，雪王子驭马冲进了莫斯林的战阵中。而此时，这里的白雪已被伊斯格拉默军的锋刃染得鲜红。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I once had skin that glistened without the aid of oil, and seemed only to grow smoother and softer with age.</Source>
-      <Dest>我的皮肤曾经不用抹油也闪闪发光，但似乎这随着年龄的增长而逐渐光滑而柔软了。</Dest>
+      <Dest>我的皮肤曾经不用抹油也富有光泽，而且似乎随着年龄的增长只会变得越发柔滑。</Dest>
     </String>
-    <String List="2">
+    <String List="0" Partial="1">
+      <Source>"Dir Vol Aan!"</Source>
+      <Dest>“Dir Vol Aan！”</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>"Faas! Pook! Dinok!"</Source>
+      <Dest>“Faas！Pook！Dinok！”</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>(Laughs heartily) Do they really say that? "Fear! Stink! Death!" Goodness, is it only me, or am I the only Draugr with half a brain?</Source>
       <Dest>（放声笑）他们真的这么说了？“恐惧！腐臭！死亡！”哦天啊，我难道是唯一一个还有点脑子的尸鬼了吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yet I was once something more...a queen, Queen Iorel of Mereth, and my subjects averted their gaze out of respect, and not disgust.</Source>
-      <Dest>然而我曾更加高贵……我曾是女王，神秘纪元的柔落女王，臣民们不敢忤视我，因为尊敬，而非嫌恶。</Dest>
+      <Dest>然而我曾经高贵……贵为女王，梅拉斯的柔落女王，我的臣民出于尊敬不敢忤视于我，而不是出于嫌恶。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>And it seems I myself am a poor caretaker of that legacy.  </Source>
-      <Dest>而我，似乎不适合看守遗产。</Dest>
+      <Dest>而我，似乎不适合承载这份遗物。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Very well.</Source>
       <Dest>非常好。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>He swept through the Nedes like a violent gale, felling them one by one in a storm of spears.</Source>
-      <Dest>他像是一阵飓风一般横扫过Nedes，在矛锋组成的风暴之中，把他们一个接一个的击倒。</Dest>
+      <Dest>他像是一阵飓风般横扫过内德战士，在矛锋组成的风暴之中把他们一个一个全部击倒。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I beg you, forget you ever spoke to this rattle of bones, this ugly carcass, this foul, stinking corpse.  I ask that you forget who I was...</Source>
-      <Dest>我求求你，忘了你曾经对这把喋喋不休的骨头说话的事儿吧，这只是一堆丑陋的残骸，这只是具污秽不堪的，发臭的尸体。请你忘了我是谁吧……</Dest>
+      <Dest>我请求你，忘记你曾见过这副嘎吱作响的骨架，这堆丑陋的遗骸，这具发臭、腐烂的尸体。请你忘了我是谁吧……</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I beg you, forget you ever spoke to this rattle of bones, this ugly carcass, this foul, stinking corpse.  I ask that you forget who I was...</Source>
-      <Dest>我求求你，忘了你曾经对这把喋喋不休的骨头说话的事儿吧，这只是一堆丑陋的残骸，这只是具污秽不堪的，发臭的尸体。请你忘了我是谁吧……</Dest>
+      <Dest>我请求你，忘记你曾见过这副嘎吱作响的骨架，这堆丑陋的遗骸，这具发臭、腐烂的尸体。请你忘了我是谁吧……</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The Snow Prince. He swept through the Nedes like a violent gale, felling them one by one in a storm of spears.</Source>
-      <Dest>他像是一阵飓风一般横扫过Nedes，在矛锋组成的风暴之中，把他们一个接一个的击倒。</Dest>
+      <Dest>雪王子。他像是一阵飓风一般横扫过内德斯，在枪刃的风暴中将他们一一击杀。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Thus my reign lasted no more than a season. All that effort, all the goodwill I had established...shattered by the blade of his inglorious axe.</Source>
-      <Dest>因此我的统治不过超过一季。所有的努力，所有我建立起来的名誉……都被他可耻的斧刃砍的支离破碎。</Dest>
+      <Dest>所以我的统治未超过一季。所有的努力，所有我建立起来的名誉……都被他可耻的斧刃砍的支离破碎。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I...understand. If by chance you wish to consider, I will be here.</Source>
-      <Dest>我……明白。如果你偶然间想要考虑这些，我会一直在这等着你。</Dest>
+      <Dest>我……明白。如果你偶然间想要重新考虑，我会一直在这等着你。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Queen of Mereth. You speak names from an age long past. This land is Skyrim.</Source>
-      <Dest>Queen of Mereth. 你提到的是一个来自于远古的名字，而你现在所在的地方是天际。</Dest>
+      <Dest>梅拉斯的女王。你提到的是一个来自于远古的名字，而你现在所在的地方是天际。</Dest>
     </String>
-    <String List="0">
-      <Source>Queen of Mereth. You speak names from an age long past. This land is Skyrim.</Source>
-      <Dest>Queen of Mereth. 你提到的是一个来自于远古的名字，而你现在所在的地方是天际。</Dest>
-    </String>
-    <String List="0">
-      <Source>Queen of Mereth. You speak names from an age long past. This land is Skyrim.</Source>
-      <Dest>Queen of Mereth. 你提到的是一个来自于远古的名字，而你现在所在的地方是天际。</Dest>
-    </String>
-    <String List="0">
-      <Source>Queen of Mereth. You speak names from an age long past. This land is Skyrim.</Source>
-      <Dest>Queen of Mereth. 你提到的是一个来自于远古的名字，而你现在所在的地方是天际。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Queen Iorel? Never heard of you.</Source>
-      <Dest>Iorel皇后? 我从来没听说过你。</Dest>
+      <Dest>柔落女王？我从来没听说过你。</Dest>
     </String>
-    <String List="0">
-      <Source>Queen Iorel? Never heard of you.</Source>
-      <Dest>Iorel皇后? 我从来没听说过你。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>My lady, you need not turn away.  You are as radiant as ever.</Source>
-      <Dest>我的夫人，你不需要离开。你像以往受欢迎。</Dest>
+      <Dest>我的夫人，您不需要背过身去。您仍如以往一般光彩照人。</Dest>
     </String>
-    <String List="0">
-      <Source>My lady, you need not turn away.  You are as radiant as ever.</Source>
-      <Dest>我的夫人，你不需要离开。你像以往受欢迎。</Dest>
-    </String>
-    <String List="0">
-      <Source>My lady, you need not turn away.  You are as radiant as ever.</Source>
-      <Dest>我的夫人，你不需要离开。你像以往受欢迎。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What were those early settlements like?</Source>
       <Dest>那些早期的定居点是怎样的?</Dest>
     </String>
-    <String List="0">
-      <Source>What were those early settlements like?</Source>
-      <Dest>那些早期的定居点是怎样的?</Dest>
-    </String>
-    <String List="0">
-      <Source>What were those early settlements like?</Source>
-      <Dest>那些早期的定居点是怎样的?</Dest>
-    </String>
-    <String List="0">
-      <Source>What were those early settlements like?</Source>
-      <Dest>那些早期的定居点是怎样的?</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Fine, I'll just have to kill you with my eyes closed.</Source>
       <Dest>好吧，那我只能闭着眼把你给杀了。</Dest>
     </String>
-    <String List="0">
-      <Source>Fine, I'll just have to kill you with my eyes closed.</Source>
-      <Dest>好吧，那我只能闭着眼把你给杀了。</Dest>
+    <String List="2" Partial="1">
+      <Source>No!  Halt!  You speak to Iorel, High Queen of Mereth. Or...what is left of her.</Source>
+      <Dest>不！等等！你面前的是柔落，梅拉斯的至高女王。或者……她的残存的东西。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So what did you do?</Source>
       <Dest>那么你做了什么？</Dest>
     </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="0">
-      <Source>So what did you do?</Source>
-      <Dest>那么你做了什么？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I think you are blessed and I am blessed to have met you.</Source>
-      <Dest>我想你是幸运的，而我也是幸运的，因为我遇见了你。</Dest>
+      <Dest>我认为你受到了祝福，而我也受到了祝福，因为我有幸遇见你。</Dest>
     </String>
-    <String List="0">
-      <Source>I think you are blessed and I am blessed to have met you.</Source>
-      <Dest>我想你是幸运的，而我也是幸运的，因为我遇见了你。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I've never met a Draugr who could talk.</Source>
       <Dest>我从来没有见过会说话的尸鬼。</Dest>
     </String>
-    <String List="0">
-      <Source>I've never met a Draugr who could talk.</Source>
-      <Dest>我从来没有见过会说话的尸鬼。</Dest>
-    </String>
-    <String List="0">
-      <Source>I've never met a Draugr who could talk.</Source>
-      <Dest>我从来没有见过会说话的尸鬼。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>History is written by the victors.  Ysgramor's triumph is celebrated by all.</Source>
-      <Dest>历史是由胜利者书写的，伊斯格拉谟的胜利值得普天同庆。</Dest>
+      <Dest>历史是由胜利者书写的。伊斯格拉谟的胜利得到了普天同庆。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Your existence would say otherwise.</Source>
-      <Dest> 不然你的存在会说明一切。</Dest>
+      <Dest>你的现状可不像这回事。</Dest>
     </String>
-    <String List="0">
-      <Source>Your existence would say otherwise.</Source>
-      <Dest> 不然你的存在会说明一切。</Dest>
-    </String>
-    <String List="0">
-      <Source>Your existence would say otherwise.</Source>
-      <Dest> 不然你的存在会说明一切。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>There are those would kill for such power.</Source>
-      <Dest>这是些为权力而杀戮的人。</Dest>
+      <Dest>有人愿意为这样的力量大开杀戒。</Dest>
     </String>
-    <String List="0">
-      <Source>There are those would kill for such power.</Source>
-      <Dest>这是些为权力而杀戮的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>There are those would kill for such power.</Source>
-      <Dest>这是些为权力而杀戮的人。</Dest>
-    </String>
-    <String List="0">
-      <Source>Can you speak to other Draugr?</Source>
-      <Dest>你能和别的尸鬼对话吗?</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So you settled on occupied land. Some might call that an invasion.</Source>
-      <Dest>这么说你们驻扎在了已经被占领的地方。有人恐怕把这会称为侵略。</Dest>
+      <Dest>这么说你们定居在了已经被占据的地方。恐怕有人会把这称为侵略。</Dest>
     </String>
-    <String List="0">
-      <Source>So you settled on occupied land. Some might call that an invasion.</Source>
-      <Dest>这么说你们驻扎在了已经被占领的地方。有人恐怕把这会称为侵略。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you settled on occupied land. Some might call that an invasion.</Source>
-      <Dest>这么说你们驻扎在了已经被占领的地方。有人恐怕把这会称为侵略。</Dest>
-    </String>
-    <String List="0">
-      <Source>So you settled on occupied land. Some might call that an invasion.</Source>
-      <Dest>这么说你们驻扎在了已经被占领的地方。有人恐怕把这会称为侵略。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>About your request...</Source>
       <Dest>关于你的请求……</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>You're Queen of Mereth? What land is that?</Source>
       <Dest>你是梅拉斯的女王？那是什么地方？</Dest>
     </String>
-    <String List="0">
-      <Source>You're Queen of Mereth? What land is that?</Source>
-      <Dest>你是梅拉斯的女王？那是什么地方？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How about "Kren Sos Aal?"</Source>
-      <Dest>"Kren Sos Aal"怎么样？</Dest>
+      <Dest>“Kren Sos Aal”呢？</Dest>
     </String>
-    <String List="0">
+    <String List="2" Partial="1">
+      <Source>Hmm... "Kren Sos Aal" basically means "May your blood break". I suppose it's some sort of battlecry, though the wording is very clumsy.</Source>
+      <Dest>嗯……“Kren Sos Aal”的大意是“愿你的血破裂”。我猜这是某种战吼，不过这用词真是粗鄙。</Dest>
+    </String>
+    <String List="0" Partial="1">
       <Source>No, I'd rather you stay alive and suffer like the rest of us.</Source>
       <Dest>不，我更愿意让你活着受苦，就跟我们所有人一样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>History says the Mer were threatened by the Nedes, and sought to banish them.</Source>
       <Dest>史料记载，当时的精灵族把“内德人”视为威胁，并试图驱逐他们。</Dest>
     </String>
-    <String List="0">
-      <Source>History says the Mer were threatened by the Nedes, and sought to banish them.</Source>
-      <Dest>史料记载，当时的精灵族把“内德人”视为威胁，并试图驱逐他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>History says the Mer were threatened by the Nedes, and sought to banish them.</Source>
-      <Dest>史料记载，当时的精灵族把“内德人”视为威胁，并试图驱逐他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>History says the Mer were threatened by the Nedes, and sought to banish them.</Source>
-      <Dest>史料记载，当时的精灵族把“内德人”视为威胁，并试图驱逐他们。</Dest>
-    </String>
-    <String List="0">
-      <Source>History says the Mer were threatened by the Nedes, and sought to banish them.</Source>
-      <Dest>史料记载，当时的精灵族把“内德人”视为威胁，并试图驱逐他们。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How did you become a Draugr?</Source>
       <Dest>你怎么会变成了尸鬼的？</Dest>
     </String>
-    <String List="0">
-      <Source>How did you become a Draugr?</Source>
-      <Dest>你怎么会变成了尸鬼的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you become a Draugr?</Source>
-      <Dest>你怎么会变成了尸鬼的？</Dest>
-    </String>
-    <String List="0">
-      <Source>How did you become a Draugr?</Source>
-      <Dest>你怎么会变成了尸鬼的？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Then the power of the dragons exists inside you.</Source>
-      <Dest>这么说那些龙的力量仍在你身体里继续活跃着</Dest>
+      <Dest>这么说龙族的力量仍流淌在你体内。</Dest>
     </String>
-    <String List="0">
-      <Source>Then the power of the dragons exists inside you.</Source>
-      <Dest>这么说那些龙的力量仍在你身体里继续活跃着</Dest>
-    </String>
-    <String List="0">
-      <Source>Then the power of the dragons exists inside you.</Source>
-      <Dest>这么说那些龙的力量仍在你身体里继续活跃着</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Thus you turned to an even darker influence than war.</Source>
-      <Dest>因此，你变成了一个比战争的影响还更加黑暗的存在？</Dest>
+      <Dest>于是你变成了一个比战争的阴影更黑暗的存在。</Dest>
     </String>
-    <String List="0">
-      <Source>Thus you turned to an even darker influence than war.</Source>
-      <Dest>因此，你变成了一个比战争的影响还更加黑暗的存在？</Dest>
-    </String>
-    <String List="0">
-      <Source>Thus you turned to an even darker influence than war.</Source>
-      <Dest>因此，你变成了一个比战争的影响还更加黑暗的存在？</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Do you mean to mock me, stranger?  Surely you know the name of the land we stand on.</Source>
-      <Dest>你在嘲笑我吗, 外地人?  你要清楚我们现在在谁的地盘上。</Dest>
+      <Dest>你想嘲弄我吗, 陌生人?  你当然知道我们所在的大陆叫什么名字。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Mereth, settled by the descendants of the first men.  Or has history erased all that I am as punishment for my deeds?</Source>
+      <Dest>梅拉斯，由第一个人类的子嗣建立起的地方。还是说为了惩罚我的所作所为，历史已经消除了关于我的一切？</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>So while I thank you for your words, in my mind they are as empty as I am.</Source>
       <Dest>谢谢你的安慰，但我还是不能释怀。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>To think that a person's entire existence can be brushed away with the stroke of a quill and the strum of a liar's tongue.</Source>
-      <Dest>想象一下，一个人的一切都可以在鹅毛笔或是骗子的巧舌下一笔勾销。</Dest>
+      <Dest>想象一下，一个人的一切都可以在鹅毛笔的轻划或是骗子的巧舌下一笔勾销。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I can never again feel the warmth of another, or be able to reward that warmth with a smile.</Source>
-      <Dest>我再也不能从另一个人身上感受到这份温暖，并对此回以一个微笑了。</Dest>
+      <Dest>我再也感受不到他人的温暖，再也不能回报那些温暖以微笑。</Dest>
     </String>
-    <String List="2">
-      <Source>I can never again feel the warmth of another, or be able to reward that warmth with a smile.</Source>
-      <Dest>我再也不能从另一个人身上感受到这份温暖，并对此回以一个微笑了。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Our people learned to cooperate with the Mer, just as we did with the Dov-rha, the dragons whom we worshiped and served.</Source>
-      <Dest>我们这些人已经学会了如何跟精灵族相处，就像以前跟那些‘杜瓦’，那些龙族一样，崇拜着，侍奉着。</Dest>
+      <Dest>我们学会了跟精灵族相处，就像以前跟那些“杜瓦”，些我们崇拜和侍奉着的龙族一样。</Dest>
     </String>
-    <String List="2">
-      <Source>Our people learned to cooperate with the Mer, just as we did with the Dov-rha, the dragons whom we worshiped and served.</Source>
-      <Dest>我们这些人已经学会了如何跟精灵族相处，就像以前跟那些‘杜瓦’，那些龙族一样，崇拜着，侍奉着。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Slowly we began to establish cities.  Some might dare to call it a kingdom. </Source>
-      <Dest>慢慢地，我们开始建立城市。有些人可能会敢于把它称为一个王国。  </Dest>
+      <Dest>慢慢地，我们开始建立城市。有些人可能会敢于把它称为一个王国。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Slowly we began to establish cities.  Some might dare to call it a kingdom. </Source>
-      <Dest>慢慢地，我们开始建立城市。有些人可能会敢于把它称为一个王国。  </Dest>
+      <Dest>慢慢地，我们开始建立城市。有些人可能会敢于把它称为一个王国。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>It encompassed a small stretch of land along the Broken Cape, but the palace sat at its center like a great jewel.</Source>
+      <Dest>它依着碎裂角延伸出的的小块土地而建，但在它的中心一座宫殿如宝石般屹立。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Yes, have you considered what I said? Will you grant me the peace I desire?</Source>
-      <Dest>是的,你考虑过我说的话吗?你能授予我渴望已久的和平吗?</Dest>
+      <Dest>是的，你考虑过我说的话吗？你能授予我渴望已久的宁静吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I have an existence not unlike my previous one, and yet different enough in almost every way that made me human.</Source>
-      <Dest>我这条命【not unlike】上一条，而且也和让我成为人类的所有因素都相当的不同。</Dest>
+      <Dest>我现在的样子有别于以往，其区别之大甚至使我无法再自称为人类。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>History rarely tells the whole truth. It was true that the Mer attacked Saarthal, but it was not for fear of our strength.</Source>
+      <Dest>历史很少是完全真实的。精灵确实进攻了萨瑟尔，但并因为他们忌惮我们的力量。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>The Mer thought it to be older than the world itself, the all-seeing Eye of the great architect, the blind witness to all of creation.  Magnus.</Source>
-      <Dest>梅尔认为它比世界本身更加古老， 伟大造物主的全视之眼，盲人见证着所有的创造。 玛格努斯。</Dest>
+      <Dest>精灵认为它比世界本身更加古老，伟大造物主的全视之眼，见证了所有造物的目盲者。玛格努斯。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The same is true for my existence. I am not a Draugr bound to the will of any priest. I have been granted life and speech by a Dov-Rha. A dragon.</Source>
-      <Dest>我的存在也是一样真实。我不是被某个祭司驱使的尸鬼。我的生命由杜瓦的言语所赐。杜瓦就是龙！</Dest>
+      <Dest>我的存在同样也仰赖于此。我并不是受束于某位龙祭司的尸鬼。我的生命和语言都是由“杜瓦”，由龙族授予的。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Alone, unguarded, I stole away to the lair of the frost dragon, Kodiinaus, perched atop a spire of stone on a snow-capped hill.</Source>
-      <Dest>独自一龙，毫无防备，我在冰霜巨龙的巢穴大偸一番， Kodiinaus歇息在一个在白雪覆盖山上的尖顶的石头上。</Dest>
+      <Dest>独自一人，毫无防备，我悄悄潜入了一条冰龙的巢穴，柯汀纳斯，栖息在覆雪山尖的一块巨石上。</Dest>
     </String>
-    <String List="2">
-      <Source>Alone, unguarded, I stole away to the lair of the frost dragon, Kodiinaus, perched atop a spire of stone on a snow-capped hill.</Source>
-      <Dest>独自一龙，毫无防备，我在冰霜巨龙的巢穴大偸一番， Kodiinaus歇息在一个在白雪覆盖山上的尖顶的石头上。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It is normally blasphemous for anyone not of the priesthood to use this tongue, but as Queen it was my duty to serve and speak for the Dov-Rha gods.</Source>
-      <Dest>一般而言如果不是身为牧师说这样的话就是罪过了，可我作为女皇的职责就是为龙族的神灵服务和代言。</Dest>
+      <Dest>没有龙祭司身份的人使用这种语言是一种亵渎，但作为女王我的职责便是服侍龙神并为他们代言。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yes, some would call it a blessing. How am I blessed? What sort of madman would call this anything but a curse?</Source>
-      <Dest>是的，确实有人会把它叫做祝福。看看我是如何被“祝福”的？只有疯子才不会把它称为诅咒！</Dest>
+      <Dest>是的，有人会把它成为祝福。看看我是如何被“祝福”的？只有疯子才不会把它称为诅咒！</Dest>
     </String>
-    <String List="2">
-      <Source>Yes, some would call it a blessing. How am I blessed? What sort of madman would call this anything but a curse?</Source>
-      <Dest>是的，确实有人会把它叫做祝福。看看我是如何被“祝福”的？只有疯子才不会把它称为诅咒！</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The Draugr exist on but a whisper of life, granted by the word of a Drah-gkon Priest, who themselves were granted eternity by the Dov-rha.</Source>
-      <Dest>尸鬼的存在仰赖于稀薄的生命力，这种生命力由龙祭祀们授予，而龙祭祀们本身的不朽又由龙族来保障。</Dest>
+      <Dest>尸鬼的存在仰赖于稀薄的生命力，这种生命力由龙祭祀们授予，而龙祭祀们本身的不朽又是龙族赐予的。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>So they say, but the truth has a way of mottling even the whitest of lies.</Source>
-      <Dest>就如人们所说的，哪怕谎言再苍白，也会给真相蒙上阴影。</Dest>
+      <Dest>他们是这么宣称的，但哪怕谎言再苍白，也会给真相蒙上阴影。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>What I did I did for my people. So that history would not stain their hands in blood.  I sought the old alliances. The power of the Dov-Rha.</Source>
-      <Dest>什么我做的每件事都是为了我的人民。这样历史就不会把他们沾满鲜血的双手书写上去了。我在寻找盟友。多瓦（龙）的力量。</Dest>
+      <Dest>不管我做了什么我都是为了我的人民。这样历史就不会让他们的双手染满鲜血。我去寻找昔日的盟友。去借助“杜瓦”的力量。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>In my time this land was to the south, a land whose winter was far warmer than the summers in Atmora.</Source>
-      <Dest>在我的印象中这块土地位于南方，是一块在阿特莫拉冬天远比夏天要暖和得多的土地。</Dest>
+      <Dest>在我的印象中这块土地位于南方，这里的冬天比阿特莫拉的夏天还暖和。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I understand their shouts, but they do not comprehend my speech.  I can, however, translate their words for you, if you're interested.</Source>
-      <Dest>我理解他们的吼叫，但他们却不理解我的话。你要是感兴趣的话，我可以把他们的话翻译给你。</Dest>
+      <Dest>我能听懂他们的嘶吼，但他们却不理解我的话语。不过，我能为你翻译他们说的话，如果你感兴趣的话。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Vengeance begets vengeance, and war never ends. Not without the murder of an entire people, the death of a thousand children who committed no crime.</Source>
-      <Dest>冤冤相报何时了，争战永不息。不止是普通人被杀，连上千无辜孩童都遇难了。</Dest>
+      <Dest>仇恨招致仇恨，争战永不停息。至少不会在整个族群被屠灭，数以千计无辜的孩童被杀害之前停息。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Then came The Night of Tears, and Ysgramor's Return, when all beginnings came to an end, and all ends came for a single beginning.</Source>
-      <Dest>然后泪水之夜到来了，而伊斯格拉谟也回归了，所有的开始都迎来了结局，所有的结局都有着同一个开始。</Dest>
+      <Dest>于是泪水之夜到来了，之后是伊斯格拉谟的回归，所有的开始都迎来了同一个结局，所有的结局只因为同一个开始。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Now I am something else entirely.  One who lost not only her birthright, but the right to a peaceful and honorable death.</Source>
       <Dest>现在的我已经与过去的自己彻底决裂了。我不只丧失了自己与生俱来的权利，也将无法安详而荣耀地离开这个世界。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>My people no longer wanted peace. They wanted blood, and even those who were steadfastly loyal to me crowned Ysgramor their leader and king.</Source>
-      <Dest>我的人民不再需要和平。他们渴求鲜血，甚至是那些对我忠心耿耿的人也加冕伊斯格拉谟为他们的领导者和国王。</Dest>
+      <Dest>我的人民不再渴望和平。他们渴求鲜血，甚至是那些忠心于我的人也加冕伊斯格拉谟为他们的领袖和国王。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I gave myself into his service, for a boon. To imbue a Mer with the powers of Frost. To give their people a chance to survive.</Source>
-      <Dest>为了赐福我将自己投身于他的服务事业之中。为了能让精灵获予寒霜之力，为了让他们的人民有机会幸存。</Dest>
+      <Dest>我许诺终生侍奉于他，只为他的赐福。赐予一个精灵以冰霜之力。给他们的族民一线生机。</Dest>
     </String>
-    <String List="2">
-      <Source>I gave myself into his service, for a boon. To imbue a Mer with the powers of Frost. To give their people a chance to survive.</Source>
-      <Dest>为了赐福我将自己投身于他的服务事业之中。为了能让精灵获予寒霜之力，为了让他们的人民有机会幸存。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>What I did I did for my people.  So that history would not stain their hands in blood.  I sought the old alliances.  The power of the Dov-Rha.</Source>
-      <Dest>我所做的一切都是为了我的人民。为了不让历史使得他们的双手沾满鲜血。我在寻求故有的盟友。 Dov-Rha的力量。</Dest>
+      <Dest>我所做的一切都是为了我的人民。这样历史就不会让他们的双手染满鲜血。我去寻找昔日的盟友。去借助“杜瓦”的力量。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ah, a most tragic tale, indeed...It was after the Night of Tears, when Ysgramor returned to Mereth with five hundred warriors in tow.</Source>
-      <Dest>哦，多么悲壮的故事，确实如此...那是在夜之泪之后的事了，那时伊斯格拉默率领着500勇士重返梅拉斯。</Dest>
+      <Dest>啊，这是个凄惨的故事，当然了……这发生在泪水之夜后，伊斯格拉谟带着五百勇士回到梅拉斯的时候。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>As I had led one of the original settlements, and had once trained to become a Dragon Priest, I was chosen as Queen.</Source>
-      <Dest>我领导着一只原始部落的时候，曾一度被训练成为一名龙祭司，并被选为了女王。</Dest>
+      <Dest>由于我曾是最初几个定居点之一的领袖，而且曾接受过成为龙祭司的训练，因此我被选为女王。</Dest>
     </String>
-    <String List="2">
-      <Source>As I had led one of the original settlements, and had once trained to become a Dragon Priest, I was chosen as Queen.</Source>
-      <Dest>我领导着一只原始部落的时候，曾一度被训练成为一名龙祭司，并被选为了女王。</Dest>
+    <String List="0" Partial="1">
+      <Source>"Aav Dilon!" is a phrase often repeated by Draugr.</Source>
+      <Dest>“Aav Dilon！”是一句尸鬼经常说起的话。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>"Join the dead."  So dreary. Am I right in guessing that all these phrases are said in the heat of battle?</Source>
+      <Dest>“加入死者。”真可怕。我猜这些话都是在激烈的战斗中说出的，对吧？</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>What about "Unslaad Krosis?"</Source>
+      <Dest>那么“Unslaad Krosis”呢？</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Ah, it means "Eternal sorrow."  Not an uncommon phrase in a land that knows little else.</Source>
-      <Dest>哦，它的意思是“永恒的悲痛”。这在一块除此之外几无所知的土地上并不是个罕见的词语。</Dest>
+      <Dest>哦，它的意思是“永受折磨”。在只知道折磨的地方这种用法并不少见。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>They sought that which was promised to them. A great source of power, a shimmering ball of Magicka, encased in runes of an ancient tongue.</Source>
-      <Dest>他们找到了他们承诺要找的东西，一个被用古语写成的符文包裹，充满着巨大力量的闪着淡淡光芒的魔力球体。</Dest>
+      <Dest>他们在追寻应允之物。那是巨大力量的源泉，闪着光芒的魔力之球，被包裹于古老的符文当中。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>The Eye was the price of peace. Only when our kingdom was conquered by Ysgramor, he deemed it too heavy a price to pay.</Source>
+      <Dest>马格努斯之眼即为和平相处的代价。伊斯格拉谟征服了我们的王国后，他认为这代价过于沉重。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>The Draugr know words of power, but they are not lucid like you and I.  They are mindless puppets, doomed to walk the earth as the undead.</Source>
-      <Dest>尸鬼懂得言语中所蕴含的力量，但他们不像你我一样清醒。他们是无意识的木偶，注定作为不死生物行走于尘世。</Dest>
+      <Dest>尸鬼懂得力量之语，但他们不像你我一样拥有清醒的神智。他们是无意识的木偶，注定作为不死生物行走于尘世。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>There were many who fled south to escape the war, but I led my people here because the crops tended to flourish in lands baked in the sun.</Source>
-      <Dest>许多人逃往南方以躲避战火，但我引导我​​的人民到这里，因为庄稼往往在阳光照耀下的土地上生长得更茂盛。</Dest>
+      <Dest>许多人逃往南方以躲避战火，但我引导我​​的人民到这里，因为庄稼在阳光照耀的土地上会生长得更茂盛。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I was frustrated. Angry. Were they blind to the truth? Did they learn nothing from the wars in Atmora?</Source>
-      <Dest>我感到愤懑不平。他们为什么对真相视而不见？难道他们没有从亚特莫拉的战争中吸取教训吗？</Dest>
+      <Dest>我感到愤懑不平。他们为什么对真相视而不见？难道他们没有从阿特莫拉的战争中吸取教训吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>If you believe this to be the rim of sky and heaven, then your people have not ventured further north.</Source>
-      <Dest>如果你相信这就是天边，就说明你们那儿没人去过更北面了。</Dest>
+      <Dest>如果你相信这就是天空的尽头，就说明你们那儿没人去过更北面了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>He who plants kind words grows a garden of friendship, and every day it becomes stronger, every day a new spring.</Source>
-      <Dest>他是那种会把亲切的话语种在友情的花园里的人，每天它都长得更好，每天都是一个新的春天。</Dest>
+      <Dest>种下和言的人会收获友谊，这友谊会随着时间茁壮成长，每天都将是新春。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>It has been a long time since I met one who saw past this husk of rags and bones to the queen whose soul remains captive inside.</Source>
+      <Dest>我已经很久没见过有人能看出囚禁在这副残躯中的是一个属于女王的灵魂了。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>You words disappoint me, but there is a little I can do to persuade one who revels in cruelty.   Perhaps another will come who will grant me my wish.</Source>
-      <Dest>你说的话让我失望，但是面对陷入残酷的狂欢的人，我还不算完全束手。说不定有人会循我的祈愿而来。</Dest>
+      <Dest>你说的话让我失望，而我很难说服因冷酷而狂喜的人。也许其他人会到此赐予我渴求的安宁。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Unfortunately I am not surprised. It is a punishment served by historians who find my fate to be a stain on the legacy of our people.</Source>
-      <Dest>不幸的是你这个反应我倒是不觉得惊讶。那些历史学家发现我的命运就是我的人民那漫长的历史传承中的一个污点，因而他们对我做出了惩罚。</Dest>
+      <Dest>不幸的是我并不觉得惊讶。史官们认为我的所做所为会给子孙留下污点，而这就是他们给我的惩罚。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>There is no greater jewel, no gem more precious in this world than an act of everyday kindness. Yet no amount of cajoling can change the truth.</Source>
-      <Dest>在这个世界上，没有任何珠宝，没有任何宝石能比每天的善举更可贵。然而再多的哄骗也无法改变真相。</Dest>
+      <Dest>在这个世界上，没有任何珠宝，没有任何宝石能比每日的善举更可贵。然而再多的谄媚也无法改变真相。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yet as to your original question, any conversation I have with Draugr is strictly one way.</Source>
       <Dest>但回到最初的问题上，我和尸鬼的任何一次对话都是条完完全全的单行线。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>For I am Queen Iorel. The dead Queen Iorel of Mereth.</Source>
-      <Dest>因为我是柔落女王.  死去的柔落女王.  那个至高无上却已经死去的梅拉斯的柔落女王.</Dest>
+      <Dest>因为我是柔落女王。死去的柔落女王。那个至高无上却已经死去的梅拉斯的柔落女王.</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Those who migrated here named this land Mereth, in honor of the Mer who called it home.</Source>
-      <Dest>那些移民到此的人把这命名为梅拉斯, 以此纪念这里的原住民梅尔.</Dest>
+      <Dest>那些移民到此的人把这命名为梅拉斯，以此纪念这里的原住民精灵。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Not even the wind deigns to acknowledge my presence.  It passes through my body like a cold shoulder.</Source>
-      <Dest>即使风屈尊承认我的存在。它吹过我的身体时我也就像吃了一个闭门羹一样。</Dest>
+      <Dest>连微风都不肯承认我的存在。它只会漠不关心地穿我而过。</Dest>
     </String>
-    <String List="2">
-      <Source>Not even the wind deigns to acknowledge my presence.  It passes through my body like a cold shoulder.</Source>
-      <Dest>即使风屈尊承认我的存在。它吹过我的身体时我也就像吃了一个闭门羹一样。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Typical spoiled royalty.  So you've lost some weight. You're still alive.</Source>
-      <Dest>典型被宠坏的皇室，减减肥不会死。</Dest>
+      <Dest>典型被宠坏的皇室。你减掉了些体重。而且你还活着。</Dest>
     </String>
-    <String List="0">
-      <Source>Typical spoiled royalty.  So you've lost some weight. You're still alive.</Source>
-      <Dest>典型被宠坏的皇室，减减肥不会死。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What if I slew you?  Would you be able to rest?</Source>
       <Dest>我杀了你如何？你会安息吗？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What if I slew you?  Would you be able to rest?</Source>
       <Dest>我杀了你如何？你会安息吗？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What if I slew you?  Would you be able to rest?</Source>
       <Dest>我杀了你如何？你会安息吗？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Tell me what "Qiilaan Us Dilon" means.</Source>
       <Dest>跟我说说"Qiilaan Us Dilon"是什么意思。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Siding with the Elves was the hard thing.  And the honorable one.</Source>
       <Dest>与精灵为伍很难得，也很光荣。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>You have your mind.  Be thankful for that when others are ash and dust.</Source>
-      <Dest>当他人化为尘土时感谢自己把握好自己吧</Dest>
+      <Dest>你有自己的想法。你应该懂得感激，因为别人早已化作了尘土。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>As Queen of Mereth, you must have dealt with the Snow Elves.</Source>
-      <Dest>Mereth王后，你必须处理这些雪精灵。.</Dest>
+      <Dest>作为梅拉斯的女王，你一定和雪精灵打过交道。.</Dest>
     </String>
-    <String List="0">
-      <Source>As Queen of Mereth, you must have dealt with the Snow Elves.</Source>
-      <Dest>Mereth王后，你必须处理这些雪精灵。.</Dest>
-    </String>
-    <String List="0">
-      <Source>As Queen of Mereth, you must have dealt with the Snow Elves.</Source>
-      <Dest>Mereth王后，你必须处理这些雪精灵。.</Dest>
-    </String>
-    <String List="0">
-      <Source>As Queen of Mereth, you must have dealt with the Snow Elves.</Source>
-      <Dest>Mereth王后，你必须处理这些雪精灵。.</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Can you speak to other Draugr?</Source>
-      <Dest>你能和别的尸鬼对话吗?</Dest>
+      <Dest>你能和别的尸鬼对话吗？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Can you speak to other Draugr?</Source>
-      <Dest>你能和别的尸鬼对话吗?</Dest>
+      <Dest>你能和别的尸鬼对话吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It was the hardest thing I have ever done. Yet as Queen, my duty was always to protect my people.  Even if it meant from themselves.</Source>
       <Dest>这是我做过的最难的事。然而，作为女王，我的职责是保护我的人民。即使这意味着我要从他们自己的手里保护他们。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I...I do not know. Many Draugr who are slain rise again, but only because they are granted life by the priests they serve.</Source>
       <Dest>我……我不知道。许多被杀的尸鬼都会死而复生。但只是因为他们被那些他们服务着的祭司再次赋予了生命。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Will you grant me this kindness, stranger? My body may resist, but my mind...my voice...it will not shout.</Source>
-      <Dest>你能发发慈悲吗，陌生人？我的身体会抗拒，但我的心……我的声音……不会【喊叫】。 </Dest>
+      <Dest>你能施予我这样的仁慈吗，陌生人？我的身体也许会抗拒，但我的心……我的声音……不会嘶喊。 </Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Some believe the Draugr are cannibals for whom this existence is a penalty. Others believe they are thought cursed for betraying mankind.</Source>
       <Dest>一些人相信尸鬼是对同类相食者的惩罚，而另一些则认为它们是受到诅咒的背叛者。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Their bodies are indeed ash and dust, but their spirits live on. How I long for the same.</Source>
       <Dest>他们的肉体已化为尘埃，但他们的精神依旧存在。我多么渴望可以和他们一样啊。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>And it wasn't just for my own people. If I shed my pride and spoke the Elven tongue, perhaps they too would be willing to embrace our customs.</Source>
-      <Dest>这不仅仅是对我的子民而言的。如果我不再坚持着自己的所谓荣耀，并选择说精灵语，或许他们就会愿意接受我们的习俗。</Dest>
+      <Dest>而我不仅仅是为我的子民。如果我不再坚持着自己的所谓荣耀，并选择说精灵语，或许精灵们就会乐于接受我们的习俗。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The Dov-Rha who imbued me with life was slain many centuries ago, and with him gone, perhaps I too can finally rest.</Source>
-      <Dest>那个用生命来感染我的多瓦在很多世纪以前就被杀了，随着他的逝去，也许我终于能休息了。</Dest>
+      <Dest>赐予我生命的“杜瓦”在数百年前已经被杀死了，也许在他死后，我终于能得以安息。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>In truth, the Draugr are simply dead bones, brought to animation by the power of the Dov-Rha, but not to life.</Source>
-      <Dest>事实上，这些尸鬼只不过是死人骨头，因多瓦之力而苏醒过来而已，但却早就死得不能再死了。</Dest>
+      <Dest>事实上，这些尸鬼只不过是一堆枯骨，藉由“杜瓦”之力得以行动，而非复活。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>For our people, the spoken word is a powerful weapon. One that can lead an army. Yet by adopting another's word, I chose to lead by example.</Source>
-      <Dest>对于我们的人民来说，话语就是强力的武器。这武器能领导一支军队。因而我愿接受另一句话语来以身作则。</Dest>
+      <Dest>对于我们的族人，语言是强有力的武器。可以统领军队的武器。然而但我选择接纳另一种语言来以身作则。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Some considered it heresy. Yet I knew that for both our races to survive in this cold and unforgiving land, we needed to work as partners.</Source>
+      <Dest>也许会有人把我的行为视作异端。然而我知道若想在这片寒冷而残酷的土地上生存，我们两族应通力协作。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Goodbye stranger, and thank you. May the wind forever be on your back, and kindness forever in your heart.</Source>
-      <Dest>再见陌生人，谢谢你。五月的清风永远索绕在你身边，善良之意永远驻扎于你的心头。</Dest>
+      <Dest>再见陌生人，谢谢你。愿五月的清风永远索绕在你身边，善良之意永远驻扎于你的心头。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>We shared resources. Knowledge. And to bridge this gap, I abandoned the old Nedic tongue in order to ensure nothing would be lost in translation.</Source>
-      <Dest>我们共享资源，共享知识。为了消除我们之间的隔阂，我抛弃了古诺迪克语以使得在语言互译时保持信息的完整。</Dest>
+      <Dest>我们共享资源，共享知识。为了消除我们之间的隔阂，我抛弃了古内德语以保证语义不会因互译而错漏。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Well, "Qiilaan" means "Bow" and "Dilon" means "Die". I would assume that the phrase means something like "Bow to me or die!"</Source>
-      <Dest>呃，"Qiilaan" 的意思是 "弯腰" ，而 "Dilon" 的意思是"死亡"。我认为这句话的意思有点像是 "要么弯腰，要么死！"</Dest>
+      <Dest>呃，"Qiilaan" 的意思是 "臣服" ，而 "Dilon" 的意思是"死亡"。我认为这句话的意思有点像是 "要么臣服，要么死！"</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>But I am not a person, am I. I am a Draugr, and try as I might, I cannot convince myself otherwise.</Source>
       <Dest>(叹息)但我不是一个人，对吗。我是个尸鬼。不管我作何尝试，都无法说服自己。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Must you mock me in my current state?  Queen or pauper, I am still a person. I did not think I would live to see the death of common decency.</Source>
-      <Dest>你非要嘲笑我的现状么。不管是女皇还是乞丐，我都是个人。我从没想过我会有这么落魄的一天.</Dest>
+      <Dest>你非要嘲笑我的现状么。不管是女皇还是乞丐，我都是个人。我从未想过我会活着看到公德沦丧的一天。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
