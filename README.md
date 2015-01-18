@@ -31,8 +31,10 @@ BLOG http://txl263.github.io/3DNPC/
 -   有其他任何问题都欢迎发issue，我们看到了会尽快回复。  
 
 ###3.02版本翻译工作
+#####一校部分名单   
+[一校部分名单/3.02/README.md](/3.02/README.md)其他部分在JJ管理时期录入了excel，在[/3.02/Other/NPC List_全进度统计_1128.xlsx](/3.02/Other/NPC List_全进度统计_1128.xlsx)中
 #####二校认领章节记录（一校认领完毕。二校暂停认领，待一校完毕后视质量继续。）
-目前准备开始二校，一下是需要校对的NPC，文件位于/3.02/二校   
+目前准备开始二校，以下是需要校对的NPC，文件位于/3.02/二校   
 - [x] Helsig.xml  @Ðig Ðrëäm  
 - [x] Iria.xml  @雷比亚  
 - [x] Iris the Elder.xml  @雷比亚  
