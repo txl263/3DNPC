@@ -41,7 +41,7 @@ BLOG http://txl263.github.io/3DNPC/
 - [x] Sahlene.xml @雷比亚  
 
 ###3.08版本翻译认领记录  
-[翻译分配记录.md](https://github.com/txl263/3DNPC/blob/master/3.08/%E7%BF%BB%E8%AF%91%E5%88%86%E9%85%8D%E8%AE%B0%E5%BD%95.md)  
+[翻译分配记录.md](/tree/master/3.08/翻译分配记录.md)  
 
 
 
