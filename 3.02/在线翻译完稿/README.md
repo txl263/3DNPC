@@ -25,3 +25,27 @@
 69 真紅の稲妻     2014-6-7 完成100条 转 Marchello·Infinius  
 70 Cpt.Jeams-Foley  
 71 Cpt.Jeams-Foley
+###初翻
+枫染流年,jjmint123, 钛壳儿蜥, sqq2012, Cpt.Jeams-Foley, 滴草, Lothario.Auditore,  
+
+一个人（single), usanhuang, 恶魔ノ承諾, Sarsdd, Txl263, AI, KILK,ruinelec（陌路不堪归）,  
+
+Gwenyer, YLW, (*^__^*), 猹, 娇躯一震, 夕夕多, Hylcn, wetmoss,runanx,abyss0313,qqjkloo,  
+
+vitahush,zyf2008,chunjin,stuk123,冒失鬼,速度速sd度速度,tyuizx,白鹰（she442321279),  
+
+joyparkray,Mouzzi,Patric_txc,qeqe008,windkenlu,沫沫汨,遗忘往昔,7431923,Aurn,sandrain,  
+
+ssxnew,矮人miguo,背后残酷，劲龙追风,迷彩的SF,asdqweufoo,cordyxuan,ECJX,jeffreeyshe,  
+
+jimusa,natsu1988,pyf882233,qqqween007,suanyuliusha,waltboyu,背剑牧童（skyisly）,柯影，  
+
+方糖大hentai,孤侠(yaokaiwd),花间醉雪,墨蝶,四级菜鸟,真紅ノ稲妻,136218135,﹌蜡笔小没良心↘,  
+
+apollohelious,grandb22873,hn925,hqnzsk,jonnyx,kenlu771019,leosr001,Leraph,ljt0640p,
+  
+omiguoo,PatchouliHina,Rail,Razer丶,richdboy,she442321279,shidavidyu,steiner森,
+  
+suntao143,不带汽的可乐,非特异性扩增,华安9527,蜡笔小新,桑之沃若,森の妖精,午睡的骆驼,  
+
+洋葱8.0,折戟沉沙,朱厚熜  
