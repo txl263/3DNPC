@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>请便。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish.</Source>
+      <Dest>As you wish. </Dest>
+    </String>
+    <String List="2">
+      <Source>Yet, that dagger was as fresh as codling, forged three weeks before we left dock and not a sign of rust!</Source>
+      <Dest>而且那把匕首新得像未熟的苹果一样，是在我们离开码头前三个星期打造的，一点儿锈迹都没有！</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't trawl for ideas in my ocean lad, you're the writer.</Source>
+      <Dest>你是个作家，但是别在我的海洋里撒网找灵感，小伙子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then you're one of the crew.</Source>
+      <Dest>Then you're one of the crew.</Dest>
+    </String>
+    <String List="2">
+      <Source>That I am. My name is Frik. Just a deckhand with more calluses than sense.</Source>
+      <Dest>That I am. My name is Frik. Just a deckhand with more calluses than sense.</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Frik. Just a deckhand with more calluses than sense.</Source>
+      <Dest>My name is Frik. Just a deckhand with more calluses than sense.</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're not the captain, who are you then?</Source>
+      <Dest>If you're not the captain, who are you then?</Dest>
+    </String>
+    <String List="2">
+      <Source>I take it you think I'm the Captain of The Sea Squall. It must be the beard.  </Source>
+      <Dest>我理解为你把我当成了海风暴号的船长。大概是因为胡子吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hate to disappoint you, but not every person who wears a beard is a rugged leader of men.</Source>
+      <Dest>Hate to disappoint you, but not every person who wears a beard is a rugged leader of men.</Dest>
+    </String>
+    <String List="2">
+      <Source>Some of us are just ruggedly handsome. No, the one you want to talk to is the boy. Captain Leif Wayfinder.</Source>
+      <Dest>Some of us are just ruggedly handsome. No, the one you want to talk to is the boy. Captain Leif Wayfinder.</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't say I haven't thought about it.  Although I'm not sure how that would work.  I suppose it's no different than mating with an Argonian.</Source>
+      <Dest>Can't say I haven't thought about it.  Although I'm not sure how that would work.  I suppose it's no different than mating with an Argonian.</Dest>
+    </String>
+    <String List="0">
+      <Source>We must find these creatures, and if possible, mate with them.</Source>
+      <Dest>我们必须找到那些生物，如果可能的话并它们展开合作。</Dest>
+    </String>
+    <String List="2">
+      <Source>You might have more luck than I would, being you're practically half fish.</Source>
+      <Dest>这一点上你就比我幸运很多，事实上你就是一个人鱼啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>We must find these creatures, and if possible, mate with them.</Source>
+      <Dest>我们必须找到那些生物，如果可能的话并它们展开合作。</Dest>
+    </String>
+    <String List="0">
+      <Source>It isn't a man's beard, but strength and bravery that makes a good captain.</Source>
+      <Dest>It isn't a man's beard, but strength and bravery that makes a good captain.</Dest>
+    </String>
+    <String List="2">
+      <Source>The old captain was like that. A born slaver and ugly as a ghoul, with a bosom that touched her toes.</Source>
+      <Dest>The old captain was like that. A born slaver and ugly as a ghoul, with a bosom that touched her toes.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank Arkay he finally offed the hag and left us with the boy, although I can't say I enjoy looking at that travesty he wears on his face.</Source>
+      <Dest>感谢阿尔凯 ，他终于把那个老巫婆从我们和那孩子身边带走了，尽管我不确定我真的喜欢看着他脸上那扭曲的表情。</Dest>
+    </String>
+    <String List="0">
+      <Source>It isn't a man's beard, but strength and bravery that makes a good captain.</Source>
+      <Dest>It isn't a man's beard, but strength and bravery that makes a good captain.</Dest>
+    </String>
+    <String List="2">
+      <Source>Flattery, huh. Can't say I'm not used to it.  Not a mortal in all of Mundus who doesn't fancy a sailor.</Source>
+      <Dest>奉承，哼嗯。不能说我没做过。在梦达思没有一个凡人不曾幻想成为一名水手的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed both rugged and handsome.</Source>
+      <Dest>你真是又强壮又帅气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some people think it takes a lot of hard work to achieve this level of magnificence.  For most people, maybe.</Source>
+      <Dest>有些人认为，想要达到这般高贵的话，需要大量辛苦的工作。对于大多数人来说，也许是的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed both rugged and handsome.</Source>
+      <Dest>你真是又强壮又帅气。</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed both rugged and handsome.</Source>
+      <Dest>你真是又强壮又帅气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How is it different for you?</Source>
+      <Dest>Why? How is it different for you?</Dest>
+    </String>
+    <String List="2">
+      <Source>I just keep a healthy trim, and treat my beard with respect, and it gladly returns the favor.</Source>
+      <Dest>I just keep a healthy trim, and treat my beard with respect, and it gladly returns the favor.</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed both rugged and handsome.</Source>
+      <Dest>你真是又强壮又帅气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How is it different for you?</Source>
+      <Dest>Why? How is it different for you?</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is more than I can say for the boy. Don't know what he thinks he sees when he stares at his reflection in the morning.</Source>
+      <Dest>Which is more than I can say for the boy. Don't know what he thinks he sees when he stares at his reflection in the morning.</Dest>
+    </String>
+    <String List="0">
+      <Source>You are indeed both rugged and handsome.</Source>
+      <Dest>你真是又强壮又帅气。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why? How is it different for you?</Source>
+      <Dest>Why? How is it different for you?</Dest>
+    </String>
+    <String List="2">
+      <Source>Whatever it is, it can't be the same thing the rest of us laugh at behind his back.</Source>
+      <Dest>但无论他做了什么事，我们也不该在背地里嘲笑他。</Dest>
+    </String>
+    <String List="0">
+      <Source>How is he sentimental?</Source>
+      <Dest>他是怎么个多愁善感的？</Dest>
+    </String>
+    <String List="2">
+      <Source>He wants to walk the same path as the old wench, and if he fails, no amount of pity will brighten his spirits.</Source>
+      <Dest>He wants to walk the same path as the old wench, and if he fails, no amount of pity will brighten his spirits.</Dest>
+    </String>
+    <String List="0">
+      <Source>How is he sentimental?</Source>
+      <Dest>他是怎么个多愁善感的？</Dest>
+    </String>
+    <String List="2">
+      <Source>On the other hand, if you don't care whether you succeed or fail, you can sit back, relax and enjoy some cold mead.</Source>
+      <Dest>另一方面，如果你不在乎成败与否，你可以坐下来，放轻松，享受一些冰凉爽口的蜜酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>By admitting you can't win, a man can never lose.</Source>
+      <Dest>By admitting you can't win, a man can never lose.</Dest>
+    </String>
+    <String List="0">
+      <Source>How is he sentimental?</Source>
+      <Dest>他是怎么个多愁善感的？</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's his wager?</Source>
+      <Dest>他的赌注是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He wants to walk the same path as the old wench, and if he fails, no amount of pity will brighten his spirits.</Source>
+      <Dest>He wants to walk the same path as the old wench, and if he fails, no amount of pity will brighten his spirits.</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's his wager?</Source>
+      <Dest>他的赌注是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>On the other hand, if you don't care whether you succeed or fail, you can sit back, relax and enjoy some cold mead.</Source>
+      <Dest>另一方面，如果你不在乎成败与否，你可以坐下来，放轻松，享受一些冰凉爽口的蜜酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>By admitting you can't win, a man can never lose.</Source>
+      <Dest>By admitting you can't win, a man can never lose.</Dest>
+    </String>
+    <String List="0">
+      <Source>So what's his wager?</Source>
+      <Dest>他的赌注是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, having emotions is like gambling, or investing in a shop. Ravam's betting on pride.</Source>
+      <Dest>Well, having emotions is like gambling, or investing in a shop. Ravam's betting on pride.</Dest>
+    </String>
+    <String List="0">
+      <Source>Apathy can deprive you of both pain and joy.</Source>
+      <Dest>Apathy 能剥夺你的痛苦与喜乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he becomes a captain someday, all that bitterness and envy he feels now will pay off. </Source>
+      <Dest>要是他有一天当上了船长，一切的苦难和嫉妒也就都值了。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Apathy can deprive you of both pain and joy.</Source>
+      <Dest>Apathy 能剥夺你的痛苦与喜乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apathy can deprive you of both pain and joy.</Source>
+      <Dest>Apathy 能剥夺你的痛苦与喜乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he doesn't, well, he'll start to resent himself as much as he resents the world. </Source>
+      <Dest>要是他当不上的话，唔嗯，他就会像恨全世界一样的恨自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apathy can deprive you of both pain and joy.</Source>
+      <Dest>Apathy 能剥夺你的痛苦与喜乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the other sailors?</Source>
+      <Dest>What about the other sailors?</Dest>
+    </String>
+    <String List="2">
+      <Source>Guthrum's invested in romance. The old horker wants one last voyage, and if it doesn't come, it'll only leave him regretful and unfulfilled.</Source>
+      <Dest>Guthrum's invested in romance. The old horker wants one last voyage, and if it doesn't come, it'll only leave him regretful and unfulfilled.</Dest>
+    </String>
+    <String List="0">
+      <Source>Apathy can deprive you of both pain and joy.</Source>
+      <Dest>Apathy 能剥夺你的痛苦与喜乐。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the other sailors?</Source>
+      <Dest>What about the other sailors?</Dest>
+    </String>
+    <String List="2">
+      <Source>Our boss, he's made his wager too. The ship's his mother's, and Captain Thumb-sucker, as Ravam likes to call him, is a sentimental boy.  </Source>
+      <Dest>我们老大也下注了。那艘船是她妈妈的，还有个老是吸指头的船长，正如拉瓦经常叫他的那样，是个多愁善感的孩子。  </Dest>
+    </String>
+    <String List="2">
+      <Source>I'd sooner shave my beard than help him. Ravam is prideful and ambitious. A bad mix of ale if you ask me.</Source>
+      <Dest>I'd sooner shave my beard than help him. Ravam is prideful and ambitious. A bad mix of ale if you ask me.</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Ravam were to mutiny?</Source>
+      <Dest>假如拉瓦反叛了怎么办?</Dest>
+    </String>
+    <String List="2">
+      <Source>The first thing he'll want to do is prove he's a real captain, and that'll mean some risky venture out into the Sea of Ghosts.</Source>
+      <Dest>The first thing he'll want to do is prove he's a real captain, and that'll mean some risky venture out into the Sea of Ghosts.</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Ravam were to mutiny?</Source>
+      <Dest>假如拉瓦反叛了怎么办?</Dest>
+    </String>
+    <String List="2">
+      <Source>The sooner he stops caring about what people think, the sooner he'll be able to enjoy the reign of Captain Shore-Finder.</Source>
+      <Dest>他越早把别人对他的看法放到一边，就能越早享受寻岸船长统治下的生活。</Dest>
+    </String>
+    <String List="0">
+      <Source>What if Ravam were to mutiny?</Source>
+      <Dest>假如拉瓦反叛了怎么办?</Dest>
+    </String>
+    <String List="0">
+      <Source>He can't possibly be that bad.</Source>
+      <Dest>He can't possibly be that bad.</Dest>
+    </String>
+    <String List="2">
+      <Source>The other day he got the Lover and the Shadow mixed up, and nearly sailed us right into a glacier teeming with ice wraiths.</Source>
+      <Dest>前几天他把爱人和阴影搞混了，差点儿把我们载到一个满布寒冰幽灵的冰川。</Dest>
+    </String>
+    <String List="0">
+      <Source>He can't possibly be that bad.</Source>
+      <Dest>He can't possibly be that bad.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank the Divines Guthrum smacked the boy and took the helm. The place was a sodding death trap. </Source>
+      <Dest>谢天谢地古斯鲁姆终于把那小子胖揍一顿然后掌了舵。这地方遍布死亡的陷阱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost would've preferred the Captain sailed us into Oblivion.  One of these days, he just might.</Source>
+      <Dest>I almost would've preferred the Captain sailed us into Oblivion.  One of these days, he just might.</Dest>
+    </String>
+    <String List="0">
+      <Source>He can't possibly be that bad.</Source>
+      <Dest>He can't possibly be that bad.</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The other day he got the Lover and the Shadow mixed up, and nearly sailed us right into a glacier teeming with ice wraiths.</Source>
+      <Dest>前几天他把爱人和阴影搞混了，差点儿把我们载到一个满布寒冰幽灵的冰川。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank the Divines Guthrum smacked the boy and took the helm. The place was a sodding death trap. </Source>
+      <Dest>谢天谢地古斯鲁姆终于把那小子胖揍一顿然后掌了舵。这地方遍布死亡的陷阱。</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost would've preferred the Captain sailed us into Oblivion.  One of these days, he just might.</Source>
+      <Dest>I almost would've preferred the Captain sailed us into Oblivion.  One of these days, he just might.</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you give me an example?</Source>
+      <Dest>你能给我举个例子吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>The boy does seem green for a Captain.</Source>
+      <Dest>对队长来说，那个男孩确实嫩了点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greener than pondscum, and just as wet behind the ears. The boy needs a bloody chart just to find his crotch.  </Source>
+      <Dest>Greener than pondscum, and just as wet behind the ears. The boy needs a bloody chart just to find his crotch.  </Dest>
+    </String>
+    <String List="0">
+      <Source>It could have been a Lamia.</Source>
+      <Dest>说不定是只蛇身妖怪呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard of such creatures, but these were deep waters, no place for serpent women.  </Source>
+      <Dest>我听说过这种生物。但是这里是深水，不适合女蛇人生活。</Dest>
+    </String>
+    <String List="0">
+      <Source>It could have been a Lamia.</Source>
+      <Dest>说不定是只蛇身妖怪呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it doesn't explain the tail section, shaped like the fluke of a whale, but it shimmered like Elven glass.</Source>
+      <Dest>但那无法解释尾部的样子，形状就像一条依附在鲸鱼肚子底下的鲽鱼，但又像精灵的玻璃一样闪闪发光。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like a cynic. Cynicism is a refuge for the jilted and the joyless.</Source>
+      <Dest>You sound like a cynic. Cynicism is a refuge for the jilted and the joyless.</Dest>
+    </String>
+    <String List="2">
+      <Source>True, I'm not romantic like Guthrum, or sentimental like the Captain.  I like to live in a little province known as reality.</Source>
+      <Dest>说真的，我不喜欢像古斯鲁姆那样想入非非的家伙，也不喜欢像船长一样多愁善感的人。我只喜欢生活在现实之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sound like a cynic. Cynicism is a refuge for the jilted and the joyless.</Source>
+      <Dest>You sound like a cynic. Cynicism is a refuge for the jilted and the joyless.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I know you think cynics are nothing more than jilted idealists. But that's not the case. I've always been too lazy to care about anything. </Source>
+      <Dest>现在我知道你认为愤世嫉俗的人不过是被抛弃的理想主义者。但是事情并非如此。我曾经懒得关心任何事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and no. It wasn't until we docked at Solitude and the Imperial went on his way, that the Captain took me aside.</Source>
+      <Dest>清楚，但不完全清楚。直到我们在独孤城靠岸，和那个帝国人分道扬镳之后，船长把我拉到一边。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He asked me, "Are you blind, boy?  Did you not see the dagger? The way that Imperial was dressed?"</Source>
+      <Dest>He asked me, "Are you blind, boy?  Did you not see the dagger? The way that Imperial was dressed?"</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was never much for paying attention, but like a sailor mapping a constellation, I began to connect the stars. </Source>
+      <Dest>他的话我没怎么听，但就像一个绘制星相图的水手那样，我开始试着把那些星星连接起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you notice about him that was different?</Source>
+      <Dest>What did you notice about him that was different?</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not as if the clothes and the dagger hailed from across the ocean, but they were just foreign enough to be strange.</Source>
+      <Dest>It's not as if the clothes and the dagger hailed from across the ocean, but they were just foreign enough to be strange.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you notice about him that was different?</Source>
+      <Dest>What did you notice about him that was different?</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you ever find out who he was?</Source>
+      <Dest>你弄清楚过他到底是谁么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What did you notice about him that was different?</Source>
+      <Dest>What did you notice about him that was different?</Dest>
+    </String>
+    <String List="0">
+      <Source>Any trouble with storms and bad weather?</Source>
+      <Dest>风暴和坏天气会带来什么麻烦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I've yet to see a storm strong enough to capsize her, although one came close when we were off the coast of Illiac Bay.</Source>
+      <Dest>我还没见到过强到能把她倾覆的暴风，尽管在我们在伊利亚克湾沿岸的时候遭遇到的那场暴风雨差一点儿就做到了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any trouble with storms and bad weather?</Source>
+      <Dest>风暴和坏天气会带来什么麻烦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Wasn't really a storm so much as the waves. They eddied and swayed with no direction, as if the ocean itself was confused.</Source>
+      <Dest>Wasn't really a storm so much as the waves. They eddied and swayed with no direction, as if the ocean itself was confused.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any trouble with storms and bad weather?</Source>
+      <Dest>风暴和坏天气会带来什么麻烦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>When the eye hit us, I ran over to the port side and emptied my stomach.  It's then that I saw a school of shadowy figures pass under the hull.</Source>
+      <Dest>当那只眼睛迎上我们的时候，我跑到了港口边儿上，吐干净了我的胃。然后我看到一群人影从船身下面经过。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any trouble with storms and bad weather?</Source>
+      <Dest>风暴和坏天气会带来什么麻烦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Dolphins, I thought. Only something was odd about the way their tails lashed under the water.  And the curve of their bodies was like no fish I know.</Source>
+      <Dest>我觉得是海豚。只有路线出了问题他们的尾巴才会在水下猛烈扇动，而且海豚的身体流线和我所知道的任何鱼类都不同。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any trouble with storms and bad weather?</Source>
+      <Dest>风暴和坏天气会带来什么麻烦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And their heads.  Long, wispy, almost like...hair.  And when it strummed the water, I could almost hear the melody of the ocean in my head.</Source>
+      <Dest>还有他们的脑袋。长长的，一束束的，简直就像...头发。当它轻拨水面时，我甚至能聆听到那大海的旋律。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've yet to see a storm strong enough to capsize her, although one came close when we were off the coast of Illiac Bay.</Source>
+      <Dest>我还没见到过强到能把她倾覆的暴风，尽管在我们在伊利亚克湾沿岸的时候遭遇到的那场暴风雨差一点儿就做到了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The Sea of Ghosts can be perilous for an unworthy vessel.</Source>
+      <Dest>好。幽灵海是危险的的容器。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The Sea of Ghosts can be perilous for an unworthy vessel.</Source>
+      <Dest>好。幽灵海是危险的的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wasn't really a storm so much as the waves. They eddied and swayed with no direction, as if the ocean itself was confused.</Source>
+      <Dest>Wasn't really a storm so much as the waves. They eddied and swayed with no direction, as if the ocean itself was confused.</Dest>
+    </String>
+    <String List="2">
+      <Source>When the eye hit us, I ran over to the port side and emptied my stomach. It's then that I saw a school of shadowy figures pass under the hull.</Source>
+      <Dest>When the eye hit us, I ran over to the port side and emptied my stomach. It's then that I saw a school of shadowy figures pass under the hull.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The Sea of Ghosts can be perilous for an unworthy vessel.</Source>
+      <Dest>好。幽灵海是危险的的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dolphins, I thought. Only something was odd about the way their tails lashed under the water. And the curve of their bodies was like no fish I know.</Source>
+      <Dest>Dolphins, I thought. Only something was odd about the way their tails lashed under the water. And the curve of their bodies was like no fish I know.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The Sea of Ghosts can be perilous for an unworthy vessel.</Source>
+      <Dest>好。幽灵海是危险的的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>And their heads. Long, wispy, almost like...hair. And when it strummed the water, I could almost hear the melody of the ocean in my head.</Source>
+      <Dest>And their heads. Long, wispy, almost like...hair. And when it strummed the water, I could almost hear the melody of the ocean in my head.</Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The Sea of Ghosts can be perilous for an unworthy vessel.</Source>
+      <Dest>好。幽灵海是危险的的容器。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Sea Squall.</Source>
+      <Dest>给我讲讲海风暴号吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, the ship's got but one mast, so it's not the fastest vessel, and doesn't handle particularly well either.</Source>
+      <Dest>喔，这艘船只有一根桅杆，所以它不是最快的，也不好操控。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about the Sea Squall.</Source>
+      <Dest>给我讲讲海风暴号吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>But she's sturdy, and has a hull bigger than a wetnurse's backside, so you know the cargo is going to get there, if not on time.</Source>
+      <Dest>但她可坚固得很，船身结实得堪比老妈子的肥臀，那货物肯定能到，只不过是早点晚点的事儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right on both counts. But I also don't care about the fact that I'm pathetic and lazy.  </Source>
+      <Dest>Right on both counts. But I also don't care about the fact that I'm pathetic and lazy.  </Dest>
+    </String>
+    <String List="0">
+      <Source>You're lazy and pathetic.</Source>
+      <Dest>你真是既懒惰又可悲。.</Dest>
+    </String>
+    <String List="0">
+      <Source>Admit it. You want to talk about their facial hair.</Source>
+      <Dest>是的。你想说的是他们的胡子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I do, but wasn't sure if you wanted to hear my critique. Guthrum has one of those wispy mustaches that looks like a whale's fluke.</Source>
+      <Dest>I do, but wasn't sure if you wanted to hear my critique. Guthrum has one of those wispy mustaches that looks like a whale's fluke.</Dest>
+    </String>
+    <String List="0">
+      <Source>Admit it. You want to talk about their facial hair.</Source>
+      <Dest>是的。你想说的是他们的胡子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Man needs to act his age and get a beard.  As for Ravam, can't say he has much of anything, which is probably for the best.</Source>
+      <Dest>年龄和胡子对男人而言同样重要。至于拉瓦，不能说他什么，但也许这就是最好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Admit it. You want to talk about their facial hair.</Source>
+      <Dest>是的。你想说的是他们的胡子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Better to not even try than grow one out and look like a fool.</Source>
+      <Dest>你最好别再像个白痴一样试个没完。</Dest>
+    </String>
+    <String List="2">
+      <Source>Passion is like fire, good for warmth, bad for the skin. Like the old captain. Spent all night drinking and sailing and serenading the stars.</Source>
+      <Dest>Passion is like fire, good for warmth, bad for the skin. Like the old captain. Spent all night drinking and sailing and serenading the stars.</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to think the woman was a vampire the way she never slept, except she paid for every minute with those puffy, clamshell eyes.</Source>
+      <Dest>我一直觉得这女人是个吸血鬼，因为她从不睡觉，不过她的眼睛倒是一直涨的跟个蚌壳似的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you and the old captain ever get along?</Source>
+      <Dest>Did you and the old captain ever get along?</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, you get lonely out at sea, and they say sometimes if you stare at the ocean long enough, even the fish grow bosoms.</Source>
+      <Dest>Well, you get lonely out at sea, and they say sometimes if you stare at the ocean long enough, even the fish grow bosoms.</Dest>
+    </String>
+    <String List="2">
+      <Source>But I'd sooner make love to a slaughterfish than touch that leathery old woman.</Source>
+      <Dest>我宁愿去肏一条食人鱼也不去碰那个跟硬皮甲一样的老娘们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you and the old captain ever get along?</Source>
+      <Dest>Did you and the old captain ever get along?</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the rest of the crew?</Source>
+      <Dest>What about the rest of the crew?</Dest>
+    </String>
+    <String List="2">
+      <Source>Ravam, he would've taken the old hag, if she offered. Probably figured she'd leave him the ship.</Source>
+      <Dest>Ravam, he would've taken the old hag, if she offered. Probably figured she'd leave him the ship.</Dest>
+    </String>
+    <String List="2">
+      <Source>The poor fool had no idea she had a son. No wonder he's so bitter.</Source>
+      <Dest>The poor fool had no idea she had a son. No wonder he's so bitter.</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, the only emotion a person needs is unrelenting fury.</Source>
+      <Dest>实际上，毫无同情的愤怒才是人唯一该有的情绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the rest of the crew?</Source>
+      <Dest>What about the rest of the crew?</Dest>
+    </String>
+    <String List="0">
+      <Source>What's wrong with Captain Wayfinder's beard?</Source>
+      <Dest>威凡达船长的胡子是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, have you seen it? Thing makes him look like some sort of diseased owl.</Source>
+      <Dest>Well, have you seen it? Thing makes him look like some sort of diseased owl.</Dest>
+    </String>
+    <String List="2">
+      <Source>I know the youth like to style their beards. You got kids today with mustaches and mutton chops, forks and sparrows, puffs and patches.</Source>
+      <Dest>I know the youth like to style their beards. You got kids today with mustaches and mutton chops, forks and sparrows, puffs and patches.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's wrong with Captain Wayfinder's beard?</Source>
+      <Dest>威凡达船长的胡子是怎么一回事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's wrong with Captain Wayfinder's beard?</Source>
+      <Dest>威凡达船长的胡子是怎么一回事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well I say mutton chops are for muttonheads, forked beards mean forked tongues, and whatever the captain's sporting is worse than all of them.</Source>
+      <Dest>依我看，只有蠢蛋才会留络腮胡。而脸上有八字儿胡的，都是些言不由衷的家伙，无论船长有多公正，也比那些人要糟糕的多。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you'll go far in life. Just look at me. My pockets are heavy and my burdens are light.</Source>
+      <Dest>Then you'll go far in life. Just look at me. My pockets are heavy and my burdens are light.</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Emotions cloud judgment. Better to stay even keel.</Source>
+      <Dest>I agree. Emotions cloud judgment. Better to stay even keel.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wasn't always so, the way old lady Wayfinder worked us. She always wanted the knots redone, or the deck washed, or the mast inspected.  </Source>
+      <Dest>Wasn't always so, the way old lady Wayfinder worked us. She always wanted the knots redone, or the deck washed, or the mast inspected.  </Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Emotions cloud judgment. Better to stay even keel.</Source>
+      <Dest>I agree. Emotions cloud judgment. Better to stay even keel.</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Emotions cloud judgment. Better to stay even keel.</Source>
+      <Dest>I agree. Emotions cloud judgment. Better to stay even keel.</Dest>
+    </String>
+    <String List="0">
+      <Source>How is Captain Wayfinder different?</Source>
+      <Dest>How is Captain Wayfinder different?</Dest>
+    </String>
+    <String List="2">
+      <Source>The boy wouldn't know the mast from the bow if it wasn't written down in some book.</Source>
+      <Dest>The boy wouldn't know the mast from the bow if it wasn't written down in some book.</Dest>
+    </String>
+    <String List="2">
+      <Source>Guthrum keeps the vessel seaworthy, but as far as I'm concerned, we ought to stay on land and let the boy play Captain of the docks.</Source>
+      <Dest>古斯鲁姆在费劲巴拉的让船能保持航行，但就我而言，我们应该呆在陆地上，让男孩儿到了码头再撒了欢儿的玩儿什么船长游戏。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree. Emotions cloud judgment. Better to stay even keel.</Source>
+      <Dest>I agree. Emotions cloud judgment. Better to stay even keel.</Dest>
+    </String>
+    <String List="0">
+      <Source>How is Captain Wayfinder different?</Source>
+      <Dest>How is Captain Wayfinder different?</Dest>
+    </String>
+    <String List="0">
+      <Source>You're taking advantage of the poor lad.</Source>
+      <Dest>你在占一个可怜的家伙的便宜。.</Dest>
+    </String>
+    <String List="2">
+      <Source>That I am. Another way to look at it is, I'm teaching him a lesson. Either way, there's one thing the lad ain't. Poor.</Source>
+      <Dest>That I am. Another way to look at it is, I'm teaching him a lesson. Either way, there's one thing the lad ain't. Poor.</Dest>
+    </String>
+    <String List="2">
+      <Source>We've lost shipments, bungled orders, and punched more holes in the Squall than an Argonian maid.</Source>
+      <Dest>我们弄丢了货物，搞砸了这笔订单，而且在海风暴号上捅了个比一个亚龙人女仆还大的洞。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're taking advantage of the poor lad.</Source>
+      <Dest>你在占一个可怜的家伙的便宜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're taking advantage of the poor lad.</Source>
+      <Dest>你在占一个可怜的家伙的便宜。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the good captain always pays on time.  Even the customers get their deliveries eventually.</Source>
+      <Dest>不过，一个好船长总会准时付款。即使客人终归会得到他们的货物。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're taking advantage of the poor lad.</Source>
+      <Dest>你在占一个可怜的家伙的便宜。.</Dest>
+    </String>
+    <String List="0">
+      <Source>How do the customers get their shipments?</Source>
+      <Dest>How do the customers get their shipments?</Dest>
+    </String>
+    <String List="2">
+      <Source>The Captain just dips into his bottomless coin purse and pays some adventurer to finish the job, while we drink and prepare to botch the next one.</Source>
+      <Dest>船长会掏出他鼓鼓囊囊的钱包，然后雇佣一些冒险家来给工作擦屁股，而我们则一边大口喝酒，一边准备把下一趟活儿搞糟。</Dest>
+    </String>
+    <String List="2">
+      <Source>The old mariner's got one foot in the trench already, and he ain't the type to make waves.  Besides, he thinks the boy is learning.</Source>
+      <Dest>那个老水手早就一只脚踏入棺材了，才不是什么会兴风作浪的人。再说了，他认为那孩子正在学习呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why doesn't Guthrum vie to be Captain?</Source>
+      <Dest>为什么古斯鲁姆不去当队长呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>What he means by that is anyone's guess.  The boy doesn't even know how to tie his shoes.  Can't see how he can hoist a sail.</Source>
+      <Dest>他说的正是大家想说的。这小子连绑鞋带都不会。没人信他能升起帆来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why doesn't Guthrum vie to be Captain?</Source>
+      <Dest>为什么古斯鲁姆不去当队长呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's enough about the crew.</Source>
+      <Dest>不说船员的事了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine.</Source>
+      <Dest>好嘛。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Nord?</Source>
+      <Dest>What about the Nord?</Dest>
+    </String>
+    <String List="2">
+      <Source>Guthrum, he's a salty old sea-dog. Knows the ocean better than the Jarl knows ugly, and those two are pretty well acquainted.</Source>
+      <Dest>Guthrum, he's a salty old sea-dog. Knows the ocean better than the Jarl knows ugly, and those two are pretty well acquainted.</Dest>
+    </String>
+    <String List="2">
+      <Source>It must pain him to be docked in this snow-ridden hovel, but if he's angry with the captain, he doesn't show it.</Source>
+      <Dest>在那种被雪所覆盖的小屋里呆着一定让他非常难受。但若不是他在跟船长赌气，那也不至于到这个地步。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Nord?</Source>
+      <Dest>What about the Nord?</Dest>
+    </String>
+    <String List="2">
+      <Source>When he complains, that's the pride talking. He doesn't like taking orders from a child.  He'll get over it.</Source>
+      <Dest>When he complains, that's the pride talking. He doesn't like taking orders from a child.  He'll get over it.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think Ravam complains then?</Source>
+      <Dest>Why do you think Ravam complains then?</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about the crew.</Source>
+      <Dest>我想了解一下那个船员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ravam is the Dunmer who's always complaining about the captain.  </Source>
+      <Dest>拉瓦是个总是抱怨船长的暗精灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>In truth, the sodding Elf is lazier than I am, but he has too much pride to let anyone know it.</Source>
+      <Dest>事实上，这该死的精灵比我更加懒散，但他有太多的骄傲以至于不会让其他人知道这件事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about the crew.</Source>
+      <Dest>我想了解一下那个船员。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like to know about the crew.</Source>
+      <Dest>我想了解一下那个船员。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you choose to be a sailor?</Source>
+      <Dest>是什么让你选择成为一名水手？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a good question. I like the ocean, but I don't love it.  </Source>
+      <Dest>That's a good question. I like the ocean, but I don't love it.  </Dest>
+    </String>
+    <String List="0">
+      <Source>What made you choose to be a sailor?</Source>
+      <Dest>是什么让你选择成为一名水手？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not like these salt-sniffers who use clams as coin purses and have more barnacles on their crotch than hair.</Source>
+      <Dest>我才不像这些拿蛤蚌壳当钱包用，裤裆里藤壶的比体毛还茂盛，天天吸得一鼻子盐的人呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you choose to be a sailor?</Source>
+      <Dest>是什么让你选择成为一名水手？</Dest>
+    </String>
+    <String List="0">
+      <Source>So why become a sailor if you hate the job?</Source>
+      <Dest>So why become a sailor if you hate the job?</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess I chose it because it's the thing I hate the least.  </Source>
+      <Dest>我想我之所以选择它，是因为那是我最痛恨的。  </Dest>
+    </String>
+    <String List="0">
+      <Source>What made you choose to be a sailor?</Source>
+      <Dest>是什么让你选择成为一名水手？</Dest>
+    </String>
+    <String List="0">
+      <Source>So why become a sailor if you hate the job?</Source>
+      <Dest>So why become a sailor if you hate the job?</Dest>
+    </String>
+    <String List="2">
+      <Source>And every day I see these miners walk out soaked in sweat, I realize I made the right choice.</Source>
+      <Dest>以及当我看到这些矿工每天累死累活的满身大汗的时候，我意识到自己做了一个无比正确的一个决定。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you choose to be a sailor?</Source>
+      <Dest>是什么让你选择成为一名水手？</Dest>
+    </String>
+    <String List="0">
+      <Source>So why become a sailor if you hate the job?</Source>
+      <Dest>So why become a sailor if you hate the job?</Dest>
+    </String>
+    <String List="2">
+      <Source>Although if I were a miner, I reckon I'd figure some way to weasel out of working.  No point breaking your back for a job with no future.</Source>
+      <Dest>如果我是个矿工我想我会想一些办法偷懒。 没有理由为了一个没有前途的工作伤害自己的身体。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call that a beard? I've seen children with thicker coats of hair.</Source>
+      <Dest>You call that a beard? I've seen children with thicker coats of hair.</Dest>
+    </String>
+    <String List="2">
+      <Source>A beard's majesty is not in its length. A lot of men, and some women, often forget that.</Source>
+      <Dest>A beard's majesty is not in its length. A lot of men, and some women, often forget that.</Dest>
+    </String>
+    <String List="0">
+      <Source>You call that a beard? I've seen children with thicker coats of hair.</Source>
+      <Dest>You call that a beard? I've seen children with thicker coats of hair.</Dest>
+    </String>
+    <String List="2">
+      <Source>When I see a Nord man gallivanting around with a pair of dead rodents wrestling around his lips, it makes me shake my head in shame.</Source>
+      <Dest>每当看见一个诺德人嘴边只长着两抹鼠须还到处调情，我都得羞愧地摇摇头。</Dest>
+    </String>
+    <String List="0">
+      <Source>You call that a beard? I've seen children with thicker coats of hair.</Source>
+      <Dest>You call that a beard? I've seen children with thicker coats of hair.</Dest>
+    </String>
+    <String List="2">
+      <Source>Captain Wayfinder for instance. Old Frida nearly put a broom to his face the other day, screaming something about rats.</Source>
+      <Dest>就拿威凡达船长来说吧。前几天，老福瑞达几乎把扫帚抵在了他脸上，冲着那耗子大喊大叫。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's a beard worthy of any captain.</Source>
+      <Dest>Well, that's a beard worthy of any captain.</Dest>
+    </String>
+    <String List="2">
+      <Source>That it is. Doesn't require much in the way of combing. Just wake up in the morning, trim the hedges, and the old boy's as smooth as velvet.</Source>
+      <Dest>That it is. Doesn't require much in the way of combing. Just wake up in the morning, trim the hedges, and the old boy's as smooth as velvet.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's a beard worthy of any captain.</Source>
+      <Dest>Well, that's a beard worthy of any captain.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your secret?</Source>
+      <Dest>What's your secret?</Dest>
+    </String>
+    <String List="2">
+      <Source>The secret is in the trim. Some Nord men walk around with dead squirrels on their chins because they don't bother to do the maintenance.</Source>
+      <Dest>The secret is in the trim. Some Nord men walk around with dead squirrels on their chins because they don't bother to do the maintenance.</Dest>
+    </String>
+    <String List="2">
+      <Source>No, a good beard is more like a house cat. You have to raise it, nurture it, and every now and then, pet it.  </Source>
+      <Dest>No, a good beard is more like a house cat. You have to raise it, nurture it, and every now and then, pet it.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's a beard worthy of any captain.</Source>
+      <Dest>Well, that's a beard worthy of any captain.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your secret?</Source>
+      <Dest>What's your secret?</Dest>
+    </String>
+    <String List="2">
+      <Source>If only I could sick this cat on the litter of rodents Captain Wayfinder calls a beard.</Source>
+      <Dest>If only I could sick this cat on the litter of rodents Captain Wayfinder calls a beard.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, that's a beard worthy of any captain.</Source>
+      <Dest>Well, that's a beard worthy of any captain.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your secret?</Source>
+      <Dest>What's your secret?</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it his mother would not put up with a milk-drinker for a son.</Source>
+      <Dest>我知道他母亲不会培养出一个奶瓶嘴儿儿子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure. If his mother were here she'd tell him to be assertive.  Confident.  The boy certainly tries to be, and some days he halfway gets there.</Source>
+      <Dest>当然。如果他母亲还在，然后告诉他要果断点，信心点的话，那孩子肯定会听她的。船到桥头自然直。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it his mother would not put up with a milk-drinker for a son.</Source>
+      <Dest>我知道他母亲不会培养出一个奶瓶嘴儿儿子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only being halfway confident is like being halfway pregnant.  All I have to do is complain a bit, and he'll fold faster than a torn sail.</Source>
+      <Dest>只有半吊子的自信就像是怀了一半的孕。只要我损上几句，他的脸立马耷拉的比被撕裂的船帆还快。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a good thing too. The boy's too scared of Ravam, and he doesn't like pushing Guthrum in his old age.  That just leaves me.</Source>
+      <Dest>这也是件好事。那个男孩太害怕拉瓦了，他也不想在晚年的时候变成古斯鲁姆那个样子。那就只剩我了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it his mother would not put up with a milk-drinker for a son.</Source>
+      <Dest>我知道他母亲不会培养出一个奶瓶嘴儿儿子的。</Dest>
+    </String>
+    <String List="0">
+      <Source>How would his mother have raised him?</Source>
+      <Dest>他的母亲是怎么把他养大的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, if his mother were here she'd tell him to be assertive.  Confident.  The boy certainly tries to be, and some days he halfway gets there.</Source>
+      <Dest>那个，如果他母亲还在，然后告诉他要果断点，信心点的话，那孩子肯定会听她的。船到桥头自然直。</Dest>
+    </String>
+    <String List="0">
+      <Source>How would his mother have raised him?</Source>
+      <Dest>他的母亲是怎么把他养大的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only being halfway confident is like being halfway pregnant.  All I have to do is complain a bit, and he'll fold faster than a torn sail.</Source>
+      <Dest>只有半吊子的自信就像是怀了一半的孕。只要我损上几句，他的脸立马耷拉的比被撕裂的船帆还快。</Dest>
+    </String>
+    <String List="0">
+      <Source>How would his mother have raised him?</Source>
+      <Dest>他的母亲是怎么把他养大的？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a good thing too. The boy's too scared of Ravam, and he doesn't like pushing Guthrum in his old age.  That just leaves me.</Source>
+      <Dest>这也是件好事。那个男孩太害怕拉瓦了，他也不想在晚年的时候变成古斯鲁姆那个样子。那就只剩我了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect Captain Wayfinder.</Source>
+      <Dest>你看起来并不尊敬寻路者队长。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't have to respect the boy to like him. He inherited the ship from his hagraven of a mother, and it was nothing short of a miracle.</Source>
+      <Dest>I don't have to respect the boy to like him. He inherited the ship from his hagraven of a mother, and it was nothing short of a miracle.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect Captain Wayfinder.</Source>
+      <Dest>你看起来并不尊敬寻路者队长。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, did you say you like the Captain?</Source>
+      <Dest>Wait, did you say you like the Captain?</Dest>
+    </String>
+    <String List="2">
+      <Source>I do. I've served under a few sea captains in my day, and most of them were unruly taskmasters.</Source>
+      <Dest>I do. I've served under a few sea captains in my day, and most of them were unruly taskmasters.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect Captain Wayfinder.</Source>
+      <Dest>你看起来并不尊敬寻路者队长。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, did you say you like the Captain?</Source>
+      <Dest>Wait, did you say you like the Captain?</Dest>
+    </String>
+    <String List="2">
+      <Source>Fortunately, the boy is soft as seaweed. Grew up on land with his father, some coin counter for the East Empire Company.</Source>
+      <Dest>Fortunately, the boy is soft as seaweed. Grew up on land with his father, some coin counter for the East Empire Company.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect Captain Wayfinder.</Source>
+      <Dest>你看起来并不尊敬寻路者队长。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, did you say you like the Captain?</Source>
+      <Dest>Wait, did you say you like the Captain?</Dest>
+    </String>
+    <String List="2">
+      <Source>So the boy has no experience at sea, and even less with men. He doesn't like raising his voice, or telling the crew what to do.</Source>
+      <Dest>So the boy has no experience at sea, and even less with men. He doesn't like raising his voice, or telling the crew what to do.</Dest>
+    </String>
+    <String List="0">
+      <Source>If they're a fish, they can be hunted and eaten like the rest.</Source>
+      <Dest>如果他们是鱼，就能像其他人那样被宰杀和吃掉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I reckon you could get away with eating the lower half.  Anything north of the border and you risk becoming a cannibal.</Source>
+      <Dest>好吧,我想你可能能侥幸吃下鱼的那一半儿。任何北部边境的生物都和你一样有成为食人魔的风险。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bah! If that tale gets any taller, it'll strike a moon.</Source>
+      <Dest>Bah! If that tale gets any taller, it'll strike a moon.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ravam thought the same.  Even the Captain couldn't help but smile when the Elf called me mad.</Source>
+      <Dest>拉瓦也那样想。在听到那个精灵叫我疯子的时候就连船长也忍不住笑了出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bah! If that tale gets any taller, it'll strike a moon.</Source>
+      <Dest>Bah! If that tale gets any taller, it'll strike a moon.</Dest>
+    </String>
+    <String List="2">
+      <Source>Guthrum though, he didn't say a word.  I think he saw them too.  Or just knew enough not to doubt me.</Source>
+      <Dest>但是古斯鲁姆，他……他一句话也没说。我想他也看见他们了。或者只是知道不应该怀疑我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Man doesn't spend that long at sea without seeing some things that'll make your beard stand on end.</Source>
+      <Dest>在海上生活了那么久的人绝对不会没见过一些能让你毛骨悚然的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bah! If that tale gets any taller, it'll strike a moon.</Source>
+      <Dest>Bah! If that tale gets any taller, it'll strike a moon.</Dest>
+    </String>
+    <String List="0">
+      <Source>You could've been a barber.</Source>
+      <Dest>你可以做个理发师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Couldn't stomach it.  All these children walking in with a couple strands of seaweed on their face, asking me to trim their "beard."</Source>
+      <Dest>忍不了啦！那堆熊孩子的脸上都贴了一绺海藻，还老让我给他们剪“胡子”。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you got them old Nords, who got beards so mangy they got a colony of birds roosting inside.  Thanks, but no thanks.</Source>
+      <Dest>然后你把他们搞成了胡子里藏污纳垢的老诺德人，里面还能养一群鸟。不谢，我叫红领巾。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could've been a barber.</Source>
+      <Dest>你可以做个理发师。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing good ever came out of caring. There's two ways to happiness in this world. One's bitter and cold and comes in a bottle.</Source>
+      <Dest>Nothing good ever came out of caring. There's two ways to happiness in this world. One's bitter and cold and comes in a bottle.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's wrong with that?</Source>
+      <Dest>那有什么错？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's wrong with that?</Source>
+      <Dest>那有什么错？</Dest>
+    </String>
+    <String List="2">
+      <Source>The other's just learning to be cold. </Source>
+      <Dest>对待其他的事只要学会麻木就好了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Boy or not, the Captain can replace you if you aren't careful.</Source>
+      <Dest>管你是不是男孩，如果粗心大意，队长会替换你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's not likely. It takes stones to strip a man of his livelihood. It's like killing someone, only you have to look them in the eye.</Source>
+      <Dest>根本不可能。用几块儿石头就想剥夺一个人的生计？这就像是你想杀死某人，却只用眼睛盯着他们看一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Boy or not, the Captain can replace you if you aren't careful.</Source>
+      <Dest>管你是不是男孩，如果粗心大意，队长会替换你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's you and you alone who has to tell him his children will starve.</Source>
+      <Dest>你是唯一一个跟他说他的孩子会挨饿的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You have to stand before him, man to man, and tell him he has to sell his wife to a Stronghold, to spend the rest of her life as some Orc love slave.</Source>
+      <Dest>你必须站在他面前，开诚布公的告诉他，他不得不把他妻子卖到一处要塞，让她的余生都在那里做兽人的爱奴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Boy or not, the Captain can replace you if you aren't careful.</Source>
+      <Dest>管你是不是男孩，如果粗心大意，队长会替换你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only the Captain wouldn't do that. He wants to be liked. He cares too much. We aren't sailors to him, we're family.  </Source>
+      <Dest>Only the Captain wouldn't do that. He wants to be liked. He cares too much. We aren't sailors to him, we're family.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Boy or not, the Captain can replace you if you aren't careful.</Source>
+      <Dest>管你是不是男孩，如果粗心大意，队长会替换你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sailing is just as perilous as mining. I'm surprised you survived this long.</Source>
+      <Dest>Sailing is just as perilous as mining. I'm surprised you survived this long.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's true, the first few years I labored and toiled like the rest of them. You got no choice, when you're as green as a tadpole.</Source>
+      <Dest>It's true, the first few years I labored and toiled like the rest of them. You got no choice, when you're as green as a tadpole.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sailing is just as perilous as mining. I'm surprised you survived this long.</Source>
+      <Dest>Sailing is just as perilous as mining. I'm surprised you survived this long.</Dest>
+    </String>
+    <String List="2">
+      <Source>Only once you've lived through a couple storms, it doesn't matter how poorly you scrub the deck or how much ale you drink.</Source>
+      <Dest>只要你真的经历过几次大风大浪，现在喝多少酒吃多少亏就都觉得没什么大不了了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Out in the open sea, you never know when you'll be surrounded by rogue waves and gales that'll flog your backside.</Source>
+      <Dest>在海上，你永远也不知道什么时候你会被巨浪所困，什么时候你会被狂风鞭打你的身后。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sailing is just as perilous as mining. I'm surprised you survived this long.</Source>
+      <Dest>Sailing is just as perilous as mining. I'm surprised you survived this long.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sailing is just as perilous as mining. I'm surprised you survived this long.</Source>
+      <Dest>Sailing is just as perilous as mining. I'm surprised you survived this long.</Dest>
+    </String>
+    <String List="2">
+      <Source>When that time comes, when it's nothing but your crew standing between you and the bottom of the ocean, you want a deckhand with experience.</Source>
+      <Dest>如果那一时刻真的到来，如果你只能依靠你的水手才能避免沉入海底，你会期望有个经验丰富的舱面水手的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sailing is just as perilous as mining. I'm surprised you survived this long.</Source>
+      <Dest>Sailing is just as perilous as mining. I'm surprised you survived this long.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I have no trouble finding work, even if I plan on doing so little of it.  </Source>
+      <Dest>所以我毫不吃力的找到了工作，即使我没有多做什么准备。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's possible to survive for eight days with the right skill set, but unlikely.</Source>
+      <Dest>只要掌握了正确的技能，确实可以生存八天，不过这不现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe if he was Argonian, it would've made sense. Only this man was an Imperial, and by all accounts had nothing more than a cold.</Source>
+      <Dest>如果这家伙是亚龙人，这一切就说的通了。偏偏他却是个帝国人,性格除了冷血之外再也没别的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He never said so much as a word the rest of the voyage, but he had the crew spooked.  It was more than just the circumstances of his arrival.</Source>
+      <Dest>他在剩下的航行中一句话都没说，但是他吓到船员了。在到达目的地以后他仍然沉默不语。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's possible to survive for eight days with the right skill set, but unlikely.</Source>
+      <Dest>只要掌握了正确的技能，确实可以生存八天，不过这不现实。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's possible to survive for eight days with the right skill set, but unlikely.</Source>
+      <Dest>只要掌握了正确的技能，确实可以生存八天，不过这不现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish as I was, I tried to speak with him once, only the Captain himself wrenched me aside and told me to stay away.</Source>
+      <Dest>我当时蠢到居然试图与他进行对话，但船长他只是把我晾在一边让我离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one could have survived that long.</Source>
+      <Dest>没人能活那么长时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe if he was Argonian, it would've made sense. Only this man was an Imperial, and by all accounts had nothing more than a cold.</Source>
+      <Dest>如果这家伙是亚龙人，这一切就说的通了。偏偏他却是个帝国人,性格除了冷血之外再也没别的了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He never said so much as a word the rest of the voyage, but he had the crew spooked.  It was more than just the circumstances of his arrival.</Source>
+      <Dest>他在剩下的航行中一句话都没说，但是他吓到船员了。在到达目的地以后他仍然沉默不语。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one could have survived that long.</Source>
+      <Dest>没人能活那么长时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>No one could have survived that long.</Source>
+      <Dest>没人能活那么长时间。</Dest>
+    </String>
+    <String List="2">
+      <Source>Foolish as I was, I tried to speak with him once, only the Captain himself wrenched me aside and told me to stay away.</Source>
+      <Dest>我当时蠢到居然试图与他进行对话，但船长他只是把我晾在一边让我离开。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other stories?</Source>
+      <Dest>还有些什么故事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure. It happened when I was but a minnow, working on a different boat.  I was more stowaway than deckhand. </Source>
+      <Dest>当然。这个故事发生在我还是另一条船上的无名小卒的时候。那时我的地位比最普通的水手还低。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Now you hear stories about men going overboard, getting swept away by a rough wind, or going mad from the heat.</Source>
+      <Dest>Now you hear stories about men going overboard, getting swept away by a rough wind, or going mad from the heat.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other stories?</Source>
+      <Dest>还有些什么故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other stories?</Source>
+      <Dest>还有些什么故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens to the ones who go overboard?</Source>
+      <Dest>What happens to the ones who go overboard?</Dest>
+    </String>
+    <String List="2">
+      <Source>Most of them get picked up, but some captains will let a man drown. If that happens, there's no way a man can survive.</Source>
+      <Dest>Most of them get picked up, but some captains will let a man drown. If that happens, there's no way a man can survive.</Dest>
+    </String>
+    <String List="0">
+      <Source>Any other stories?</Source>
+      <Dest>还有些什么故事？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happens to the ones who go overboard?</Source>
+      <Dest>What happens to the ones who go overboard?</Dest>
+    </String>
+    <String List="2">
+      <Source>Except on this voyage, we found a man.  Eight days off the shore, and there he was, clinging to a plank out in the middle of nowhere.  </Source>
+      <Dest>除了在这次航行中，我们发现了一个人。八天之前，我们在一个前不着村后不着店的海岸发现他时，他正紧紧扒着一块儿木板。 </Dest>
+    </String>
+    <String List="2">
+      <Source>That's exactly my point.  If you want the day to pass by sooner, you aren't exactly enjoying the day.</Source>
+      <Dest>That's exactly my point.  If you want the day to pass by sooner, you aren't exactly enjoying the day.</Dest>
+    </String>
+    <String List="0">
+      <Source>Mining isn't all that bad. When you work, the day goes by faster.</Source>
+      <Dest>Mining isn't all that bad. When you work, the day goes by faster.</Dest>
+    </String>
+    <String List="2">
+      <Source>Safe journey, friend.</Source>
+      <Dest>Safe journey, friend.</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hello there.</Source>
+      <Dest>你好啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're looking well.</Source>
+      <Dest>你看上去不错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>贵安。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>As you wish, Captain.</Source>
+      <Dest>如你所愿，船长。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was wondering seeing as the ship is docked and the we aren't out in the elements, you think maybe it's time to shave that...(gulp)...beard?</Source>
+      <Dest>我在想，既然船靠岸了，而我们又不在外面呆着，你说这是不是刮胡子的时间到了……(吞咽)……胡子？</Dest>
+    </String>
+    <String List="2">
+      <Source>Captain, may I have a word?</Source>
+      <Dest>船长，我可以插句话吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Who said anything about sailing?  Ever wonder why I'm here every night?  It ain't because we're at sea.</Source>
+      <Dest>没人说过任何出航的事情吧？没想过为什么我每晚都在这吧？还不是因为我们在海上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hey Jaspar, you should get off your bottom and join our crew.  The Captain could always use another deckhand.</Source>
+      <Dest>嘿，贾斯帕，你应该脱了鞋上船和我们一起，船长永远需要每一个水手。</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

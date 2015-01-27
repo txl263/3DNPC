@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Has the store made any money?</Source>
+      <Dest>商店有赚钱吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I have. Flin says it's selling quite well. And as we're married, my gold is yours. Here, this is your share.</Source>
+      <Dest>Yes, I have. Flin says it's selling quite well. And as we're married, my gold is yours. Here, this is your share.</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you made any money from your book sales?</Source>
+      <Dest>Have you made any money from your book sales?</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to think publishing my book would be the happiest day of my life. But now, it hardly even compares.</Source>
+      <Dest>I used to think publishing my book would be the happiest day of my life. But now, it hardly even compares.</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess all that's left now is deciding on a place to live.</Source>
+      <Dest>I guess all that's left now is deciding on a place to live.</Dest>
+    </String>
+    <String List="0">
+      <Source>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Source>
+      <Dest>RelationshipMarriagePostWeddingLoveInterestBlockingTopic</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall.</Source>
+      <Dest>勇士堑山庄。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor.</Source>
+      <Dest>文斯塔德庄园。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor.</Source>
+      <Dest>湖景林居。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't mind. It's like moving from one chapter to the next. Where do you want to live?</Source>
+      <Dest>I don't mind. It's like moving from one chapter to the next. Where do you want to live?</Dest>
+    </String>
+    <String List="0">
+      <Source>I'd like us to move somewhere else.</Source>
+      <Dest>我想我们得去别的什么地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor, my house in Solitude.</Source>
+      <Dest>傲矛别墅，我在独孤城的家。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim, my house in Windhelm.</Source>
+      <Dest>霜宅，我在风盔城的房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall, my house in Markarth.</Source>
+      <Dest>林德尔会堂，我在马卡斯城的房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside, my house in Riften.</Source>
+      <Dest>甜蜜湾，我在裂谷城的房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome, my house in Whiterun.</Source>
+      <Dest>风宅，我在雪漫城的房子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay. I'll meet you there.</Source>
+      <Dest>Okay. I'll meet you there.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your old place would suit us just fine.</Source>
+      <Dest>你的老地方会很适合我们的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Would you mind cooking something for me?</Source>
+      <Dest>你介意帮我煮点吃的吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here, this is fresh. I'll have another meal ready for you tomorrow..</Source>
+      <Dest>Here, this is fresh. I'll have another meal ready for you tomorrow..</Dest>
+    </String>
+    <String List="2">
+      <Source>So this is our home. It's beautiful. I'll need a quiet place for my writing, but the rest of it is yours.</Source>
+      <Dest>So this is our home. It's beautiful. I'll need a quiet place for my writing, but the rest of it is yours.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's good to have you back, love.</Source>
+      <Dest>It's good to have you back, love.</Dest>
+    </String>
+    <String List="2">
+      <Source>Welcome back. I missed you.</Source>
+      <Dest>Welcome back. I missed you.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you need anything, let me know.</Source>
+      <Dest>If you need anything, let me know.</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe I can pen one of your adventures into a story. Of course, they'd probably accuse me of bias. It'd be better to ask Flin.</Source>
+      <Dest>Maybe I can pen one of your adventures into a story. Of course, they'd probably accuse me of bias. It'd be better to ask Flin.</Dest>
+    </String>
+    <String List="2">
+      <Source>For my next book, I might write a romance. After all, they say write what you know.</Source>
+      <Dest>For my next book, I might write a romance. After all, they say write what you know.</Dest>
+    </String>
+    <String List="2">
+      <Source>There have been many men who've inspired me. But only you...leave me speechless.</Source>
+      <Dest>There have been many men who've inspired me. But only you...leave me speechless.</Dest>
+    </String>
+    <String List="2">
+      <Source>When you leave, it feels like my heart is being wrenched apart. But when you're near me, it feels like it's about to burst.</Source>
+      <Dest>When you leave, it feels like my heart is being wrenched apart. But when you're near me, it feels like it's about to burst.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry, but I can't return those feelings.</Source>
+      <Dest>I'm sorry, but I can't return those feelings.</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I understand. If you'll excuse me.</Source>
+      <Dest>I...I understand. If you'll excuse me.</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I am. I've always been. I'm almost embarrassed to say this, but...every so often I'd write down how I felt about you. </Source>
+      <Dest>Yes, I am. I've always been. I'm almost embarrassed to say this, but...every so often I'd write down how I felt about you. </Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I'd close the book and stash it away, somewhere you'd never see it.</Source>
+      <Dest>Then I'd close the book and stash it away, somewhere you'd never see it.</Dest>
+    </String>
+    <String List="2">
+      <Source>But now I feel like I can let my words, and my feelings, see the light.</Source>
+      <Dest>But now I feel like I can let my words, and my feelings, see the light.</Dest>
+    </String>
+    <String List="0">
+      <Source>Interested in me, are you?</Source>
+      <Dest>你对我有兴趣，没错吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then...I really must be dreaming. And I pray to Mara, that I never wake up.</Source>
+      <Dest>Then...I really must be dreaming. And I pray to Mara, that I never wake up.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let's get married.</Source>
+      <Dest>Yes. Let's get married.</Dest>
+    </String>
+    <String List="2">
+      <Source>An Amulet of Mara? If someone like you has trouble finding love, what hope is there for the rest of us?</Source>
+      <Dest>An Amulet of Mara? If someone like you has trouble finding love, what hope is there for the rest of us?</Dest>
+    </String>
+    <String List="0">
+      <Source>Let me guess, she was a beautiful damsel?</Source>
+      <Dest>让我猜猜，她曾是个美丽的大家闺秀？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, not unless you fancy ropes of muscle. No, my muse was no beauty. It wasn't even a "she."  My muse was an Orc.</Source>
+      <Dest>Ha, not unless you fancy ropes of muscle. No, my muse was no beauty. It wasn't even a "she."  My muse was an Orc.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Nords are somewhat primitive. Some still think wearing fine clothes without fur means you worship Daedra.</Source>
+      <Dest>The Nords are somewhat primitive. Some still think wearing fine clothes without fur means you worship Daedra.</Dest>
+    </String>
+    <String List="0">
+      <Source>Then why stay in Skyrim?</Source>
+      <Dest>那你为什么还留在 天际省?</Dest>
+    </String>
+    <String List="2">
+      <Source>But simple minds can foster strong emotion. The Nords are people willing to swear their undying fealty to a feeling. That's what I want to capture. </Source>
+      <Dest>但简单的头脑也会孕育出真挚的感情。这些诺德人都是些仅凭感情就愿意宣誓永远忠诚的人。这就是我感兴趣的原因。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Then why stay in Skyrim?</Source>
+      <Dest>那你为什么还留在 天际省?</Dest>
+    </String>
+    <String List="0">
+      <Source>A war that never ends. I wouldn't want it any other way.</Source>
+      <Dest>战争永远不会结束。我不希望以其它任何方式结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Spoken like a true warrior. Or a writer. For them, when the blood splatters on the wall it's like a flower in bloom. The first sign of spring.</Source>
+      <Dest>Spoken like a true warrior. Or a writer. For them, when the blood splatters on the wall it's like a flower in bloom. The first sign of spring.</Dest>
+    </String>
+    <String List="0">
+      <Source>A war that never ends. I wouldn't want it any other way.</Source>
+      <Dest>战争永远不会结束。我不希望以其它任何方式结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even as the snow falls around them.  </Source>
+      <Dest>雪花恰恰飘落在他们周围。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Some things are fundamental. The sun will rise in the east. The snow will fall in Winterhold. And I will never be the man people want me to be.</Source>
+      <Dest>有些事是基础常识。太阳从东边升起，冬堡常年下雪。我总不遂人愿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Enough of this drivel. Come with me, and I will make you a man.</Source>
+      <Dest>别在这儿扯淡了。跟我走，我让你变成男子汉。</Dest>
+    </String>
+    <String List="0">
+      <Source>This is a city? I've seen Falmer caves with more people.</Source>
+      <Dest>This is a city? I've seen Falmer caves with more people.</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe you prefer Solitude then. When it comes to people, the name is misleading. It applies only to the atmosphere.</Source>
+      <Dest>Maybe you prefer Solitude then. When it comes to people, the name is misleading. It applies only to the atmosphere.</Dest>
+    </String>
+    <String List="2">
+      <Source>Corpulus once told me the same thing. Maybe I would've taken his advice. Then I met my muse. Never felt so alive.</Source>
+      <Dest>科尔普鲁斯曾经跟我说过同样的话。也许我本会听从他的意见的。之后我遇见了自己的缪斯女神。在那以前，从来没有如此真切地感觉到自己活着。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've heard enough of your whimpering. Just kill yourself.</Source>
+      <Dest>I've heard enough of your whimpering. Just kill yourself.</Dest>
+    </String>
+    <String List="0">
+      <Source>Some drunk at the Skeever.  But he seems wealthy, so there's that.</Source>
+      <Dest>眨眼雪鼠里的醉鬼，看上去却很有钱的样子，就是那个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, well, I suppose the true judge of the manuscript will come from its readership.</Source>
+      <Dest>啊，恩，我想这手稿真正的评判者是它的读者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, I want to express my gratitude once more for all you've done. </Source>
+      <Dest>即使这样，我还是要为你所做的再一次表达我的感激之情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some drunk at the Skeever.  But he seems wealthy, so there's that.</Source>
+      <Dest>眨眼雪鼠里的醉鬼，看上去却很有钱的样子，就是那个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, when I look out from the lighthouse, I no longer feel so much despair.  I feel....hope. </Source>
+      <Dest>现在，每当我从灯塔向外观望。我不再感到那么绝望了。我感到了……希望。</Dest>
+    </String>
+    <String List="0">
+      <Source>Some drunk at the Skeever.  But he seems wealthy, so there's that.</Source>
+      <Dest>眨眼雪鼠里的醉鬼，看上去却很有钱的样子，就是那个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Flin Horstad?  The man who wrote "The Duke of Beards?"  Suddenly I'm not so sure if I trust his endorsement.</Source>
+      <Dest>福林·豪斯泰德那个写了"公爵胡须"的家伙？我突然不确定是否应该相信他的担保了。</Dest>
+    </String>
+    <String List="0">
+      <Source>A fellow writer by the name of Flin Horstad.</Source>
+      <Dest>一个名叫福林·豪斯泰德的作家同伴.</Dest>
+    </String>
+    <String List="0">
+      <Source>A fellow writer by the name of Flin Horstad.</Source>
+      <Dest>一个名叫福林·豪斯泰德的作家同伴.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but I confess, I haven't read his recent work.  I've heard that is far more substantial.</Source>
+      <Dest>啊，我得忏悔，我没读过他最近的作品。我听说那有非常多的内容。</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I'm grateful to you both.</Source>
+      <Dest>不管怎样，我很感激你俩。</Dest>
+    </String>
+    <String List="0">
+      <Source>A fellow writer by the name of Flin Horstad.</Source>
+      <Dest>一个名叫福林·豪斯泰德的作家同伴.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, when I look out from the lighthouse, I no longer feel so much despair.  I feel....hope. </Source>
+      <Dest>现在，每当我从灯塔向外观望。我不再感到那么绝望了。我感到了……希望。</Dest>
+    </String>
+    <String List="0">
+      <Source>A fellow writer by the name of Flin Horstad.</Source>
+      <Dest>一个名叫福林·豪斯泰德的作家同伴.</Dest>
+    </String>
+    <String List="2">
+      <Source>I won't.  Oh, and by the way, I never asked you...who exactly is this publisher in Solitude?</Source>
+      <Dest>不会的。噢，对了。我还没问过你……你说的那个独孤城的出版人到底是谁啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Yeah, yeah. Just don't lose yourself again.</Source>
+      <Dest>阿，是呀，你别再迷失自我了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was to me.  But if you don't mind, I'd like to ask one more thing before you go...who exactly is this publisher in Solitude?</Source>
+      <Dest>我是这么认为的。但是如果你不介意的话，在你走之前我想问一件事……这个在孤独城中的出版商到底是谁?</Dest>
+    </String>
+    <String List="0">
+      <Source>It wasn't that big of a deal.</Source>
+      <Dest>这算神马大不了的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're welcome.</Source>
+      <Dest>不用客气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I imagine you're off to go on more adventures.  But before you go, tell me...who exactly is this publisher in Solitude?</Source>
+      <Dest>好吧，我料想你大概又想去冒险了吧。不过在你离开之前，告诉我……独孤城的这个出版商究竟是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>You're welcome.</Source>
+      <Dest>欢迎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four...four hundred septims!  By Zenithar, are you sure?  This...this is too much.  Thank you.</Source>
+      <Dest>四…四百名诺德战士！哦，泽尼萨尔在上，你确定吗？这…这太多了。不过，谢谢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here.  Your advance.  You deserve every piece.  (400 gold)</Source>
+      <Dest>给。你的定金。每一个金币都是你应得的。（400 金）</Dest>
+    </String>
+    <String List="2">
+      <Source>250 septims!  This is more than I could have ever hoped!  By the Gods, thank you.</Source>
+      <Dest>250个金币！比我期望的还要多！众神在上，谢谢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe this will get your tongue waggling.  (250 gold)</Source>
+      <Dest>这些或许能让你说出来。（250金币）</Dest>
+    </String>
+    <String List="2">
+      <Source>100 septims! I've never had so much gold in my hand.  You didn't have to do all this for me.  Thank you.</Source>
+      <Dest>100个金币！我手里从来没有拿过这麽多的钱。其实你没必要将这些都给我，谢谢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>While you think of something, here. An advance for your work (100 gold)</Source>
+      <Dest>在你考虑的同时，来，你的预付金先（100金币）。</Dest>
+    </String>
+    <String List="0">
+      <Source>Say thank you. (Give no Gold)</Source>
+      <Dest>道谢。（不给金币）</Dest>
+    </String>
+    <String List="2">
+      <Source>I...uh...thank you.</Source>
+      <Dest>我......呃......谢谢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your work is going to be published. Congratulations.</Source>
+      <Dest>你的成果将会被公之于众，祝贺你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wow, I...I don't know what to say.  </Source>
+      <Dest>哇哦……我不知道该说什么。  </Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you go to drink?</Source>
+      <Dest>你要去哪里喝上一杯？</Dest>
+    </String>
+    <String List="2">
+      <Source>I spent my nights at the Winking Skeever, and my mornings outside its door.  Even Octieve San found my behavior uncouth.</Source>
+      <Dest>I spent my nights at the Winking Skeever, and my mornings outside its door.  Even Octieve San found my behavior uncouth.</Dest>
+    </String>
+    <String List="0">
+      <Source>Where did you go to drink?</Source>
+      <Dest>你要去哪里喝上一杯？</Dest>
+    </String>
+    <String List="2">
+      <Source>One night Corpulus got fed up.  He kicked me out into the street and told me to never come back.  That's when I met my muse.</Source>
+      <Dest>有一天晚上科尔普鲁斯实在忍不了了。他把我踢到路上然后告诉我再也别回去了。我就是在那个时候找到了灵感。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>I spent my nights at the Winking Skeever, and my mornings outside its door.  Even Octieve San found my behavior uncouth.</Source>
+      <Dest>I spent my nights at the Winking Skeever, and my mornings outside its door.  Even Octieve San found my behavior uncouth.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>One night Corpulus got fed up.  He kicked me out into the street and told me to never come back.  That's when I met my muse.</Source>
+      <Dest>有一天晚上科尔普鲁斯实在忍不了了。他把我踢到路上然后告诉我再也别回去了。我就是在那个时候找到了灵感。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've tried. In fact, when I was in Solitude I wrote maybe hundreds of tales, but none worth reading. I was still maturing then, looking for my voice.</Source>
+      <Dest>我试过了，事实上，当我在独孤城的时候，曾写了数以百计的故事，但没有一个值得一读。寻找到我的声音，还是在我成熟之后。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="2">
+      <Source>I would look back on something I penned a week before, and shake my head at how shallow the words were.  How empty they felt.</Source>
+      <Dest>我会去回味我上周所写下的文字，并为那语句中所流露出的哀伤而摇头叹息。它们读上去让人如此地空虚寂寞。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="2">
+      <Source>I began to doubt if I could ever write anything of substance, and found solace at the bottom of a flagon.</Source>
+      <Dest>我开始怀疑自己是否能写出什么有营养的东西了，为此我开始借酒消愁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Orc?</Source>
+      <Dest>这个兽人是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a titan, with arms like tree trunks cut from the Great Forest. Only something wasn't right about the way he looked at the tavern sign.  </Source>
+      <Dest>He was a titan, with arms like tree trunks cut from the Great Forest. Only something wasn't right about the way he looked at the tavern sign.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Orc?</Source>
+      <Dest>这个兽人是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>When I asked him what was wrong, he managed to force out a word, his bottom lip quivering like a child who just dropped his sweet roll.</Source>
+      <Dest>我指出他过错的时候,他就想回嘴，他的嘴唇抖得像个丢掉糖的孩子一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything notable?</Source>
+      <Dest>Have you written anything notable?</Dest>
+    </String>
+    <String List="2">
+      <Source>The word he said was "skeever."  Here was a giant, with shoulders larger than the domes of the Blue Palace, and he was absolutely terrified of rats.</Source>
+      <Dest>他说的词是“雪鼠”。之前这里有一个巨人，他的肩膀比蓝色宫殿的屋顶还高大，但他却害怕老鼠。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was this Orc?</Source>
+      <Dest>这个兽人是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>You need to try a new occupation.  The Windpeak Inn might need a dishwasher.</Source>
+      <Dest>你应该试试别的职位，风岳旅店没准需要个洗盘子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd probably make a better jester...if you think my career is so funny.</Source>
+      <Dest>我会努力去做一个更好的小丑……如果你觉得我的职业这么有趣的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you've lost your hearing.  A shame.  But I prefer damaged men.</Source>
+      <Dest>所以说你听不见了。真丢人啊。但是我喜欢残疾人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you have a very handsome voice.</Source>
+      <Dest>我可不觉得你的嗓音多么有磁性。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you have a very handsome voice.</Source>
+      <Dest>我可不觉得你的嗓音多么有磁性。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you've lost your hearing.  A shame.  But there's nothing more sad and beautiful than a lady who's damaged.  </Source>
+      <Dest>那么说来你这是聋了啊。真可惜。不过残疾的女人是最忧伤的，因而也是最美丽的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I came for the view. It's excellent.</Source>
+      <Dest>我是过来访问的，太棒了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It really is. They say somewhere north of here is where the world ends. Yet looking out there now, it still looks so boundless.</Source>
+      <Dest>It really is. They say somewhere north of here is where the world ends. Yet looking out there now, it still looks so boundless.</Dest>
+    </String>
+    <String List="2">
+      <Source>In Solitude, views like this are reserved for royalty, and I don't know about you, but I don't wear a crown.</Source>
+      <Dest>在独孤城，如此之景都是为皇室成员保留的。 我不了解你，但我也不会戴上王冠。</Dest>
+    </String>
+    <String List="0">
+      <Source>I came for the view. It's excellent.</Source>
+      <Dest>我是过来访问的，太棒了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It really is. They say somewhere north of here is where the world ends.  Yet looking out there, it still looks so boundless.</Source>
+      <Dest>It really is. They say somewhere north of here is where the world ends.  Yet looking out there, it still looks so boundless.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll have to check out the view for myself sometime.</Source>
+      <Dest>我有时必须审视自己的观点。</Dest>
+    </String>
+    <String List="2">
+      <Source>In Solitude, views like this are reserved for royalty, and I don't know about you, but I don't wear a crown.</Source>
+      <Dest>在独孤城，如此之景都是为皇室成员保留的。 我不了解你，但我也不会戴上王冠。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'll have to check out the view for myself sometime.</Source>
+      <Dest>我有时必须审视自己的观点。</Dest>
+    </String>
+    <String List="0">
+      <Source>That. Sounds. Terrible.</Source>
+      <Dest>那听起来真可怕。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.  I have my fears.  But like the explorer, my fears are mollified by a sense of adventure.</Source>
+      <Dest>我知道。我也有我恐惧的东西。但就像探险者一样，我的恐惧被冒险的感觉所舒缓了。</Dest>
+    </String>
+    <String List="0">
+      <Source>And it was rejected?</Source>
+      <Dest>被拒绝？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was. By none other than the author of "Olaf and the Dragon." He said...he said it read like it was written by a blacksmith.</Source>
+      <Dest>是啊，不是别的人，正是 "奥拉夫与龙"  的作者。他说……他说这读着就像是个铁匠写的。</Dest>
+    </String>
+    <String List="0">
+      <Source>And it was rejected?</Source>
+      <Dest>被拒绝？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I gave it to one. A man in Morthal named Al'Hassan. At least now it will sound more authentic.</Source>
+      <Dest>所以我把它给别人了。墨索尔城一个叫艾哈森的男人。至少现在听起来它更像那么回事了。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I was better off writing a romance.  Something like Fjori and Holgeir.  An old tune to play the heart strings of teary-eyed milk-drinkers.</Source>
+      <Dest>(大笑)我最好写个浪漫点儿的故事。就像是《佛乔里和霍吉尔》那样的。用古老的曲调去拨动满含热泪的小屁孩儿的心弦。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it the publisher wasn't nearly as enthusiastic.</Source>
+      <Dest>我觉着出版商并不是那么热情。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it the publisher wasn't nearly as enthusiastic.</Source>
+      <Dest>我觉着出版商并不是那么热情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe an epic tome about warriors.  A story about brave Nords who walk through snowstorms naked and aren't afraid of anything.</Source>
+      <Dest>或者是一个关于勇士的史诗巨着。一个勇敢的诺德人无所畏惧的在暴风雪中裸奔的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or how about some tale about Daedra.  With lines drawn between good and evil.  Let the reader know who to root for.</Source>
+      <Dest>或者一些关于迪德拉的传说怎么样。善恶双方泾渭分明，会让读者明白该支持哪一方。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it the publisher wasn't nearly as enthusiastic.</Source>
+      <Dest>我觉着出版商并不是那么热情。</Dest>
+    </String>
+    <String List="2">
+      <Source>On my way back to Solitude I stopped by Morthal.  I met a Redguard there.  A blacksmith. I thought, who better to give the manuscript to.</Source>
+      <Dest>在回独孤城的路上我在莫萨尔停了下来。我在那儿遇到了一个红卫铁匠。在我看来，将手稿托付给这个铁匠似乎是个不错的选择。</Dest>
+    </String>
+    <String List="0">
+      <Source>What became of the manuscript?</Source>
+      <Dest>手稿成了什么样子？</Dest>
+    </String>
+    <String List="0">
+      <Source>What became of the manuscript?</Source>
+      <Dest>手稿成了什么样子？</Dest>
+    </String>
+    <String List="2">
+      <Source>When I set the book on his table, it felt like a period. An end. But maybe it was more like a comma. Maybe all I needed was to start anew.</Source>
+      <Dest>当我把这本书放在他的桌子上的时候，它就像一个句号，一个结局。但也许那更像是一个逗号，也许我需要的只是重新开始。</Dest>
+    </String>
+    <String List="2">
+      <Source>So from Morthal I went east, not west. And here I am.</Source>
+      <Dest>所以我从莫萨尔往东行，而不是往西。然后我就到这儿了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What became of the manuscript?</Source>
+      <Dest>手稿成了什么样子？</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the book about?</Source>
+      <Dest>那本书是有关什么的?</Dest>
+    </String>
+    <String List="2">
+      <Source>About an Orc who wouldn't follow. About the definition of strength, and the fragile nature of the mind.</Source>
+      <Dest>About an Orc who wouldn't follow. About the definition of strength, and the fragile nature of the mind.</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the book about?</Source>
+      <Dest>那本书是有关什么的?</Dest>
+    </String>
+    <String List="2">
+      <Source>About how even the bravest and the boldest among us can succumb to an ordinary fear.</Source>
+      <Dest>书里面说，就连我们中最勇敢以及最胆大的人都会屈服于出自本能的恐惧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should write a story about werewolves and vampires. That never gets old.</Source>
+      <Dest>You should write a story about werewolves and vampires. That never gets old.</Dest>
+    </String>
+    <String List="2">
+      <Source>I prefer to write fiction.</Source>
+      <Dest>我更喜欢写小说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you train at the college?</Source>
+      <Dest>你在学院里学习过？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alas, no. I've heard a writer's words must sing from the page. A bard takes this interpretation literally.</Source>
+      <Dest>Alas, no. I've heard a writer's words must sing from the page. A bard takes this interpretation literally.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you train at the college?</Source>
+      <Dest>你在学院里学习过？</Dest>
+    </String>
+    <String List="2">
+      <Source>I tried it once.  Singing.  The demand for Bards is much higher than for writers. Which is evident by the number of people in Skyrim who can read.  </Source>
+      <Dest>I tried it once.  Singing.  The demand for Bards is much higher than for writers. Which is evident by the number of people in Skyrim who can read.  </Dest>
+    </String>
+    <String List="2">
+      <Source>That night, for the first time, I wrote with purpose. There was none of the doubt or fear that marred my previous work.</Source>
+      <Dest>那晚我第一次以自己的意愿写作，把之前的创作付之一炬也毫不迟疑和畏惧。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The words came faster than I could jot them down.  For three days and three nights I continued, and when I was done, I knew the work was true.</Source>
+      <Dest>那些话冒出来的速度比我记录得快。我连续记了三天三夜，到了终于完成的时候，我才知道真的有这么回事。</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was the best manuscript I had ever wrote.  It was the best I could ever write.</Source>
+      <Dest>It was the best manuscript I had ever wrote.  It was the best I could ever write.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened next?</Source>
+      <Dest>接下来发生了什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>说说你的事吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about yourself.</Source>
+      <Dest>Tell me about yourself. </Dest>
+    </String>
+    <String List="2">
+      <Source>The name's Jaspar Gaerston. I'm a writer. Aspiring writer. I always forget to add that word. Funny how large the chasm is between the two.</Source>
+      <Dest>The name's Jaspar Gaerston. I'm a writer. Aspiring writer. I always forget to add that word. Funny how large the chasm is between the two.</Dest>
+    </String>
+    <String List="2">
+      <Source>When a man pours his soul into a thing only to watch it die, he will cry harder than any infant, and mourn longer than any mother.</Source>
+      <Dest>当一个男人只能眼睁睁看着自己倾注全部灵魂的事业，只能渐渐消亡。他会哭地比婴儿更伤心，比任何母亲感到更加的悲伤。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on...do I hear an infant crying?  Oh wait, that's just you.</Source>
+      <Dest>等一下……我好像听见婴儿哭声？哦不对，就是你的声音。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was it a dragon? Those things are pretty inspiring.</Source>
+      <Dest>那是条龙吗？那些事可真是鼓舞人心啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, but as big as he was, I wouldn't bet against him even if the World Eater himself was his opponent.</Source>
+      <Dest>不，但像他那么大，我不敢说谁能战胜他，即使是世界吞噬者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was it a dragon? Those things are pretty inspiring.</Source>
+      <Dest>那是条龙吗？那些事可真是鼓舞人心啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>My muse was an Orc.</Source>
+      <Dest>我心中的女神是个兽人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I need a bit more time.  Just need to pare down some of these long paragraphs.</Source>
+      <Dest>我还需要多一点时间，只是需要减少一些长长的段落。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Good.  Just a few more days to work out the pacing.</Source>
+      <Dest>很好，再有几天功夫就能跟上节奏了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually...it's done.  I can't say for sure if the publisher will like it.  At this point, I don't really mind if he doesn't.</Source>
+      <Dest>其实……它已经写完了。我不确定版商是否喜欢它。如果不喜欢，我也不介意。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>All that means is, I have room to grow.  I know I'm still aspiring, and my journey is far from over.</Source>
+      <Dest>那一切都意味着，我还有成长的空间。我知道自己仍有一腔热血，而我的旅程也还远没有结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Still, the very fact that he was willing to listen, and you were willing to help, means it's also far from hopeless.  Here.</Source>
+      <Dest>事实上他仍然希祈聆听，而你也想要协助，这意味着一切还都有救。给。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's the rewrite coming along?</Source>
+      <Dest>改写进展如何？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's not style that you lack, it's experience.  Go out and see the world.</Source>
+      <Dest>你缺乏的不是特色而是经验。出去见识见识吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Traveling to Windhelm changed me in two ways.  I now lack the funds to travel, and more importantly, the constitution.</Source>
+      <Dest>我去风盔城这件事因为两个方面而暂时搁浅了。我现在没钱旅行，更重要的还是在宪法方面出了些问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>And what about you, stranger? What about this city speaks to you?</Source>
+      <Dest>And what about you, stranger? What about this city speaks to you?</Dest>
+    </String>
+    <String List="0">
+      <Source>I came for the fresh air.</Source>
+      <Dest>我来是为了新鲜空气。.</Dest>
+    </String>
+    <String List="2">
+      <Source>I understand that all too well. I migrated from Solitude. Every structure there is like a mausoleum.</Source>
+      <Dest>I understand that all too well. I migrated from Solitude. Every structure there is like a mausoleum.</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you leave Solitude?</Source>
+      <Dest>你为什么离开孤独城？</Dest>
+    </String>
+    <String List="2">
+      <Source>Solitude, for lack of a better word, is suffocating.  It's not just the walls and the people.  It's the inside of the buildings too.</Source>
+      <Dest>独孤城，没有比“令人窒息”更好的形容词了。不仅是城墙和人民，里面的建筑物也同样让人透不过气来。</Dest>
+    </String>
+    <String List="2">
+      <Source>They all have the same thick, musky smell, like the kind you find in abandoned shacks with boarded up windows, where the air is freckled with dust.</Source>
+      <Dest>他们都带有浓重的、麝香似的体味，就像那种窗户被封死、扬尘弥漫的废弃屋子里面的空气味道。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you leave Solitude?</Source>
+      <Dest>你为什么离开孤独城？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only in Solitude the windows are frosted, and when the light gets filtered through them even the sun feels cold.</Source>
+      <Dest>只有在独孤城，所有建筑物的窗户才都是结着霜的，每当阳光透过窗洒进来的时候，你甚至会觉得连太阳都散发着冷气。</Dest>
+    </String>
+    <String List="0">
+      <Source>What made you leave Solitude?</Source>
+      <Dest>你为什么离开孤独城？</Dest>
+    </String>
+    <String List="0">
+      <Source>By the Divines, give it up. Get a real job picking wheat or chopping wood.</Source>
+      <Dest>By the Divines, give it up. Get a real job picking wheat or chopping wood.</Dest>
+    </String>
+    <String List="2">
+      <Source>You make it sound easy. I may not be able to write, but I know I can't chop wood.</Source>
+      <Dest>你说的倒容易。就算我不会写字，至但我也知道我没办法劈柴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can't be worse than Viarmo. It's like someone taught a skeever to recite poetry.</Source>
+      <Dest>那也不会比维阿墨要糟，他吟唱起诗歌来跟雪鼠没什么区别。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, but Viarmo is a poetic Bard, not a singing one.  He is also a talented lutist.  I do none of the three.</Source>
+      <Dest>噢，但维阿墨是个擅长写诗的吟游诗人，对唱歌倒不怎么在行。不过他弹鲁特琴也是一绝。而我这三样儿都干不来。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not this time. Probably never will. My muse was different. He was a warrior. An Orc.</Source>
+      <Dest>No, not this time. Probably never will. My muse was different. He was a warrior. An Orc.</Dest>
+    </String>
+    <String List="0">
+      <Source>The dour attitude all makes sense now. This is really all about a woman.</Source>
+      <Dest>难怪态度这么严厉。这真的全是女人的问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you manage to publish it?</Source>
+      <Dest>那么你最终把它发表了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I tried. I bound the book and took it to a writer named Adonato Leotelli. I told him the author was anonymous. Said so right on the first page.</Source>
+      <Dest>I tried. I bound the book and took it to a writer named Adonato Leotelli. I told him the author was anonymous. Said so right on the first page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you manage to publish it?</Source>
+      <Dest>那么你最终把它发表了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't want his opinion colored by my presence. I'm not sure it would've mattered. Do you know what he told me?</Source>
+      <Dest>I didn't want his opinion colored by my presence. I'm not sure it would've mattered. Do you know what he told me?</Dest>
+    </String>
+    <String List="0">
+      <Source>Did you manage to publish it?</Source>
+      <Dest>那么你最终把它发表了么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He said the story read like it was written by a blacksmith. That's when I knew. I was still aspiring. Maybe I always will be.</Source>
+      <Dest>He said the story read like it was written by a blacksmith. That's when I knew. I was still aspiring. Maybe I always will be.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>The inspiration was there, but not the voice to shape its thoughts.  Yet now, I feel confident I can make it heard.</Source>
+      <Dest>灵感是存在的，但却并不是某种能形成自己思想的声音。而现在，我相信我能听到。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can tell the story of this Orc the way it was meant to be written.</Source>
+      <Dest>讲起这个兽人的故事来我能出口成章。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you'll give me a few days to rewrite it, I'll have something for you.  Unless there's anything else you want to add.</Source>
+      <Dest>如果你给我几天时间重写它，我会帮你弄好的。除非你还有什么想加上去。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean?</Source>
+      <Dest>你是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to &lt;Alias=Player&gt;.</Source>
+      <Dest>我们还要把这位主角的名字改成 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to &lt;Alias=Player&gt;.</Source>
+      <Dest>我们还要把这位主角的名字改成 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Ghorbash.</Source>
+      <Dest>我们还得把领头人的名字换成格巴什.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Ghorbash.</Source>
+      <Dest>我们还得把领头人的名字换成格巴什.</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for respecting my wishes.  I'll have the manuscript ready in a few days.</Source>
+      <Dest>你能尊重我的愿望这点我深表感激。我会在几天之内准备好手抄稿的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Staying anonymous is fine.</Source>
+      <Dest>保持低调是好事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Gromash.</Source>
+      <Dest>我们也要把主角的名字改成格罗摩西。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Gromash.</Source>
+      <Dest>我们也要把主角的名字改成格罗摩西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to &lt;Alias=Player&gt;.</Source>
+      <Dest>我们还要把这位主角的名字改成 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to &lt;Alias=Player&gt;.</Source>
+      <Dest>我们还要把这位主角的名字改成 &lt;Alias=Player&gt;.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Ghorbash.</Source>
+      <Dest>我们还得把领头人的名字换成格巴什.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Ghorbash.</Source>
+      <Dest>我们还得把领头人的名字换成格巴什.</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it's your novel, I leave it to you.</Source>
+      <Dest>别，这是你的小说，还是把它留给你好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.  I'll do my best to reward your faith.</Source>
+      <Dest>好的。 我会尽全力回报你的信任的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Source>
+      <Dest>Well, I'm not married to the name.  To be frank, I wasn't sure if "Bogakh" was authentic.  I'll leave that to you and the publisher to decide.</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Gromash.</Source>
+      <Dest>我们也要把主角的名字改成格罗摩西。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll get to work on it right away.  Come back in a few days and I should have something for you.</Source>
+      <Dest>我会立刻着手做这件事。几天后再过来吧，到时我应该会有些东西给你。</Dest>
+    </String>
+    <String List="0">
+      <Source>We also need to change the protagonist's name to Gromash.</Source>
+      <Dest>我们也要把主角的名字改成格罗摩西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, on the off chance you're telling the truth this time, I'm willing to give it a try, on one condition.  I ask that you leave it anonymous.</Source>
+      <Dest>Well, on the off chance you're telling the truth this time, I'm willing to give it a try, on one condition.  I ask that you leave it anonymous.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the publisher? He actually is interested if you clean it up a little.</Source>
+      <Dest> 那个出版商怎么样？实际上他还是感兴趣的，如果你能稍微整理一下的话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe in the future, I'll look back at those words and not see a stranger.  Until then, I can't give him a name.</Source>
+      <Dest>也许在将来，我会重新审视这些话，或许那时看到的将不再是一个陌生人。但那之前，我还不能给他一个名分。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the publisher? He actually is interested if you clean it up a little.</Source>
+      <Dest> 那个出版商怎么样？实际上他还是感兴趣的，如果你能稍微整理一下的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not a problem.  I'll find someone who will give it an honest critique.</Source>
+      <Dest>不成问题。我会找到能够诚实地评判这个的人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost don't want to open that door, and give in to hope.  But if you're willing to do this, I can keep my eyes to the east.</Source>
+      <Dest>我可不想开门，然后让步。但是要是你乐意去做这件事情的话，我会一直朝着东边看，你懂的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Not a problem.  I'll find someone who will give it an honest critique.</Source>
+      <Dest>不成问题。我会找到能够诚实地评判这个的人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may find someone back west.  Where the story was conceived.  Back in Solitude.</Source>
+      <Dest>你也许会找到一个回归西部之人， 这个故事的构思之地。独孤城的后面。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I admit, I never thought of that.  Is it possible he never bothered to read it?</Source>
+      <Dest>我……我承认。我从来没想过。也许他从来没费心读过这本书？</Dest>
+    </String>
+    <String List="0">
+      <Source>Good or bad, the critique was odd.  Blacksmiths are simple.  Your book was not.</Source>
+      <Dest>无论好与坏，评价都不合适。铁匠活很明了，而你的书不是。</Dest>
+    </String>
+    <String List="0">
+      <Source>Good or bad, the critique was odd.  Blacksmiths are simple.  Your book was not.</Source>
+      <Dest>无论好与坏，评价都不合适。铁匠活很明了，而你的书不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder if I should get a second opinion.  But I don't know if my heart could take another rejection.</Source>
+      <Dest>我考虑自己是不是该有第二个想法。但我不知道我的心脏是否还能承受再一次打击。</Dest>
+    </String>
+    <String List="2">
+      <Source>When we first met, I was on the verge of doing just that.  </Source>
+      <Dest>我们第一次见面时，我差不多就是这么做的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I lied. His only real suggestion was that you give up writing.</Source>
+      <Dest>我说谎了。他的真正建议是让你放弃写作。</Dest>
+    </String>
+    <String List="2">
+      <Source>Adonato's words left me lost.  I knew I had to grow as a writer, but I thought I lacked direction.</Source>
+      <Dest>阿多纳托的话让我感到很失落。我明白我必须成长为一名作家，但我认为我缺少方向。</Dest>
+    </String>
+    <String List="0">
+      <Source>I lied. His only real suggestion was that you give up writing.</Source>
+      <Dest>我说谎了。他的真正建议是让你放弃写作。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wrote night after night, and felt like I was running in circles.</Source>
+      <Dest>我写了一夜又一夜，却只感觉自己在绕圈子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I lied. His only real suggestion was that you give up writing.</Source>
+      <Dest>我说谎了。他的真正建议是让你放弃写作。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't until I had the courage to look through my old drafts, that I realized how awful they were...and how much I've changed.</Source>
+      <Dest>直到我有了勇气去读读我以前的旧草稿，我才意识到那些玩意儿有多糟糕……以及我自己改变了多少。</Dest>
+    </String>
+    <String List="0">
+      <Source>I lied. His only real suggestion was that you give up writing.</Source>
+      <Dest>我说谎了。他的真正建议是让你放弃写作。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm maturing as a writer.  Slowly, but steadily.  And while I'm still an aspiring writer, for the first time, I feel as if my words have a voice.</Source>
+      <Dest>我是个有经验的作家。缓慢而平稳。我也是个有抱负的作家，我第一次想，如果我的词汇能够自己发声。</Dest>
+    </String>
+    <String List="0">
+      <Source>I lied. His only real suggestion was that you give up writing.</Source>
+      <Dest>我说谎了。他的真正建议是让你放弃写作。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's that bad, I don't see why it would help.  But that book has no owner.  Do with it as you wish.  </Source>
+      <Dest>如果有那么糟，我不知道会有什么用。但是书没有主人，所以随便你处置了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've seen worse drivel get published.  Let me find someone for you.</Source>
+      <Dest>行吧。我见过比这还傻的蠢话都能出版。我去给你找个人来。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you're headed that way, maybe you'll find someone back west, in Solitude, where the book was conceived.</Source>
+      <Dest>如果你沿着这条路走，也许你会发现某个往西回走的人。那里是独孤城，孕育书籍的温床。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've seen worse drivel get published.  Let me find someone for you.</Source>
+      <Dest>行吧。我见过比这还傻的蠢话都能出版。我去给你找个人来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will stay here, and pray that someday, I will pen something worthy of a name.</Source>
+      <Dest>我要留在这儿，祈祷总有一天，我能写出什么名副其实的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I've seen worse drivel get published.  Let me find someone for you.</Source>
+      <Dest>行吧。我见过比这还傻的蠢话都能出版。我去给你找个人来。</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's a mediocre piece, then I would be crazy to put it out there, right?  But I...I don't know anymore.</Source>
+      <Dest>如果它只是一个平庸的作品，那我就该是发疯了才会把它发布出来，对吗？但我……我也不知道了。</Dest>
+    </String>
+    <String List="0">
+      <Source>He says it's apprentice level work, but is otherwise marketable.</Source>
+      <Dest>他说虽然只是新手级的作品, 却分外让人印象深刻。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to mock Alexandre Simon, but maybe it was just fear.  If you're an unknown writer, an aspiring writer, you can never be a bad one.</Source>
+      <Dest>我曾经嘲笑过亚历山大·西蒙，但也许这只是恐惧。如果你是一个不知名的作家，一个有抱负的作家，你永远也不可能成为一个坏人。</Dest>
+    </String>
+    <String List="0">
+      <Source>He says it's apprentice level work, but is otherwise marketable.</Source>
+      <Dest>他说虽然只是新手级的作品, 却分外让人印象深刻。</Dest>
+    </String>
+    <String List="2">
+      <Source>Writers like Simon are brave.  Not afraid to be wrong, or foolish.  They aren't afraid to grow.</Source>
+      <Dest>Writers like Simon are brave.  Not afraid to be wrong, or foolish.  They aren't afraid to grow.</Dest>
+    </String>
+    <String List="0">
+      <Source>He says it's apprentice level work, but is otherwise marketable.</Source>
+      <Dest>他说虽然只是新手级的作品, 却分外让人印象深刻。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, this publisher you met...he isn't wrong. I look back at my old drafts, and I hardly recognize the words.</Source>
+      <Dest>实际上，你遇到的出版商……不是他的错。我翻阅了我自己以前的草稿，连我自己都基本上认不出来我的字迹。</Dest>
+    </String>
+    <String List="0">
+      <Source>He says it's apprentice level work, but is otherwise marketable.</Source>
+      <Dest>他说虽然只是新手级的作品, 却分外让人印象深刻。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know.  Brevity has never been my strength.  Language is so colorful, and at times I can't help but splatter the landscape with paint.</Source>
+      <Dest>我懂。但是简洁从来就不是我的风格。语言是如此的富有美感，有时候我仅仅是情不自禁。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a bit wordy and tangled for my taste.</Source>
+      <Dest>那给我嚐起来有点罗嗦及紊乱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Some say I've compounded my folly by choosing Skyrim as my canvas.  A place where the language I speak is as foreign as the desert sand.</Source>
+      <Dest>有些人说我选择天际省这个我说什么都别人都听不懂的地方作为驻扎地简直傻的要命。 </Dest>
+    </String>
+    <String List="0">
+      <Source>It was a bit wordy and tangled for my taste.</Source>
+      <Dest>那给我嚐起来有点罗嗦及紊乱。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a bit wordy and tangled for my taste.</Source>
+      <Dest>那给我嚐起来有点罗嗦及紊乱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps I thought here, I would find a new voice.  Something visceral.  Something real.  </Source>
+      <Dest>也许当我想到这里时，我会找到新的声音。发自内心的声音，真实的声音。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe then I could learn to speak in a way that people would listen.  Maybe then all my words wouldn't die as whispers.</Source>
+      <Dest>也许那样我才能学会说些别人原意听的话。也许那样我的话才不会变成耳边风。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a bit wordy and tangled for my taste.</Source>
+      <Dest>那给我嚐起来有点罗嗦及紊乱。</Dest>
+    </String>
+    <String List="2">
+      <Source>That...isn't necessarily a bad thing.  I've been thinking...Adonato's criticism blinded me to my own failings.</Source>
+      <Dest>这……未必是一件坏事。我一直在想……是阿多纳托的评论使我看不见自己的失败。</Dest>
+    </String>
+    <String List="0">
+      <Source>He wants you to make the work more accessible to the average Nord reader.</Source>
+      <Dest>他想让你把这个作品写得更容易被普通的诺德读者理解。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was trying to be less like a blacksmith, when I should've been embracing a more simple approach.</Source>
+      <Dest>I was trying to be less like a blacksmith, when I should've been embracing a more simple approach.</Dest>
+    </String>
+    <String List="0">
+      <Source>He wants you to make the work more accessible to the average Nord reader.</Source>
+      <Dest>他想让你把这个作品写得更容易被普通的诺德读者理解。</Dest>
+    </String>
+    <String List="2">
+      <Source>Looking back at my old drafts, I don't even recognize the person who wrote them.</Source>
+      <Dest>回头看看我以前的草稿，我甚至认不出来是谁写了这些。</Dest>
+    </String>
+    <String List="0">
+      <Source>He wants you to make the work more accessible to the average Nord reader.</Source>
+      <Dest>他想让你把这个作品写得更容易被普通的诺德读者理解。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apologize to Al'Hassan. He's the one you're attributing that mess of prose to.</Source>
+      <Dest>抱歉，艾哈森. 他是你要找的来负责这些乱七八糟的书的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I take it that's the name of the blacksmith.  You're right.  It was childish of me to burden him that way.</Source>
+      <Dest>我以铁匠之名接受他。你是对的，这样打扰他太任性了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apologize to Al'Hassan. He's the one you're attributing that mess of prose to.</Source>
+      <Dest>抱歉，艾哈森. 他是你要找的来负责这些乱七八糟的书的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Childish, and cowardly. If I had any integrity at all, I would've just burned it.  I would have silenced its broken voice.</Source>
+      <Dest>幼稚，又懦弱。如果我还有什么诚信可言的话，我会直接把它烧了。我会掩盖它破碎的声音。</Dest>
+    </String>
+    <String List="2">
+      <Source>But part of me still wanted to believe there was someone out there who would listen.  Someone to lend an ear to its dying whisper.</Source>
+      <Dest>然而我仍然抱有一丝希望，希望着这里会有人去倾听，会有某人去倾听它那垂死的低语。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apologize to Al'Hassan. He's the one you're attributing that mess of prose to.</Source>
+      <Dest>抱歉，艾哈森. 他是你要找的来负责这些乱七八糟的书的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I know.  It's something I've been wrestling with ever since I realized Adonato lied to me.</Source>
+      <Dest>我……我知道。自从发现阿多纳托骗了我以后我就一直在搞这事。</Dest>
+    </String>
+    <String List="0">
+      <Source>He said you were talented, but your prose needs to be cleaner.</Source>
+      <Dest>他说你是个天才，不过你那些乏味的话需要再精练些。</Dest>
+    </String>
+    <String List="2">
+      <Source>After you left, I dug up some of my old drafts on that novel, hoping to find some vindication.</Source>
+      <Dest>你走之后，我从那小说里挖出了一些我们以前的草稿，以求澄清事实。</Dest>
+    </String>
+    <String List="0">
+      <Source>He said you were talented, but your prose needs to be cleaner.</Source>
+      <Dest>他说你是个天才，不过你那些乏味的话需要再精练些。</Dest>
+    </String>
+    <String List="0">
+      <Source>He said you were talented, but your prose needs to be cleaner.</Source>
+      <Dest>他说你是个天才，不过你那些乏味的话需要再精练些。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I found was...a stranger.  I don't recognize the person who wrote those words.</Source>
+      <Dest>What I found was...a stranger.  I don't recognize the person who wrote those words.</Dest>
+    </String>
+    <String List="0">
+      <Source>It was extremely well written.  Adonato was wrong to dismiss it.</Source>
+      <Dest>这写的真是太好了。阿多纳托废止了它真是个错误的选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for the compliment.  Sometimes I wonder if that's enough.  If just one person enjoyed my work, maybe it was all worth it.</Source>
+      <Dest>谢谢你的夸奖，我有时会想这一切到底够不够。只要有一个人喜欢我的作品的话，那也值了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was extremely well written.  Adonato was wrong to dismiss it.</Source>
+      <Dest>这写的真是太好了。阿多纳托废止了它真是个错误的选择。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe then it all had purpose.  Even as my voice was reduced to a whisper, there was someone out there bothering to listen.</Source>
+      <Dest>也许到那时，一切就都有所目的了。即使我的声音降低到如耳语那般轻微，也同样有人会费力的去听一听。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) I figured this was all a jest.  That sums up my entire career up until this point.  Only now...I'm not so sure that's how it will end.</Source>
+      <Dest>(叹气) 我想这就是个笑话。我的职业生涯恐怕到此为止了。至于现在……我不知道到底怎么让这一切停下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I realized Adonato never read the book, I went back to my old drafts.  I thought I would find vindication.</Source>
+      <Dest>When I realized Adonato never read the book, I went back to my old drafts.  I thought I would find vindication.</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I found...was a stranger.  I don't recognize the person who wrote those words.</Source>
+      <Dest>我所发现的……是一个陌生人。我不认识写下这些言语的那个人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which means two things.  I may have been a poor writer after all.  But I've also grown in the months since then.</Source>
+      <Dest>这意味着两件事。毕竟我一直是一个糟糕的作家，但我也那之后的几个月里成长了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eventually, I'm going to write a real book.  Only, I don't have to start writing it today. </Source>
+      <Dest>终于，我要写一本真正的书了。只是，我没必要今天就开始写。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know. Something about the main character being a horse.</Source>
+      <Dest>我不太清楚。好像我们的主人公是一匹马。</Dest>
+    </String>
+    <String List="2">
+      <Source>I may still be an aspiring writer, but I'm also a maturing one.</Source>
+      <Dest>也许我仍然是一个有抱负的小作家，但是我也足够老练了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book was terrible.  It's better off as kindling.</Source>
+      <Dest>你的书写得糟透了。不如拿去烧火用。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I had any integrity at all, that would have been its fate.  When I started writing it, the book had a voice.</Source>
+      <Dest>如果我笔下还有任何正直可言，那这将会是它的命运。当我把它写出来时，那本书就有了它自己的声音。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book was terrible.  It's better off as kindling.</Source>
+      <Dest>你的书写得糟透了。不如拿去烧火用。</Dest>
+    </String>
+    <String List="2">
+      <Source>That voice was muzzled, and soon, it was nothing more than an echo.  Yet still, it spoke to me, and I had naught the courage to silence it.</Source>
+      <Dest>那声音很开始模糊，很快就变得如同回声一般。然而，它在对我说话，而我已经失去了让这个声音闭嘴的勇气。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wanted desperately to believe in that echo, that dying whisper. That perhaps there was someone out there who would listen.</Source>
+      <Dest>我把全部希望寄托在那些回声里，那些逐渐消失的低语……也许那一端会有某个人听得见吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your book was terrible.  It's better off as kindling.</Source>
+      <Dest>你的书写得糟透了。不如拿去烧火用。</Dest>
+    </String>
+    <String List="0">
+      <Source>That book you wrote. The Stone Hand. I've read it.</Source>
+      <Dest>我读了你写的那本名为《石拳》的书</Dest>
+    </String>
+    <String List="2">
+      <Source>I see. You must have been curious, to seek out one man's a trifle in a world full of them.</Source>
+      <Dest>I see. You must have been curious, to seek out one man's a trifle in a world full of them.</Dest>
+    </String>
+    <String List="0">
+      <Source>That book you wrote. The Stone Hand. I've read it.</Source>
+      <Dest>我读了你写的那本名为《石拳》的书</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost feel the need to apologize, for wasting your time.</Source>
+      <Dest>我几乎觉得自己该为浪费了你的时间而道歉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've found you a publisher.  He just needs a few changes.</Source>
+      <Dest>我已经个发现你是个出版商。他只是需要点小钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>By Dibella...you mean...someone wants to publish my book?  Wait...what do you mean by changes?</Source>
+      <Dest>迪贝拉在上……你是说……有人想出版我的书？等等……你说的有所变动是什么意思？</Dest>
+    </String>
+    <String List="0">
+      <Source>Have you written anything lately?</Source>
+      <Dest>你写什么了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Not since Adonato rejected my last work. I'm trying a new style. Less words. More pith. As if each sentence were its own story.</Source>
+      <Dest>No. Not since Adonato rejected my last work. I'm trying a new style. Less words. More pith. As if each sentence were its own story.</Dest>
+    </String>
+    <String List="0">
+      <Source>Successful people are often dismissive of unknown works.</Source>
+      <Dest>成功的人往往不乐意做默默无闻的工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>And the delusional often exaggerate their own worth.  </Source>
+      <Dest>妄想通常会扩大他们自身的价值。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Successful people are often dismissive of unknown works.</Source>
+      <Dest>成功的人往往不乐意做默默无闻的工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>I could be a genius ahead of his time, a writer without peer.  I could be a failure who doesn't belong, scribbling words that have no soul.</Source>
+      <Dest>我可能是个天才作家，是他这个时代的先驱者，无人能与我相提并论。我也有可能是个孤独的失败者，在纸上涂写着那些没有灵魂的词句。</Dest>
+    </String>
+    <String List="0">
+      <Source>Successful people are often dismissive of unknown works.</Source>
+      <Dest>成功的人往往不乐意做默默无闻的工作。</Dest>
+    </String>
+    <String List="2">
+      <Source>To walk either path is to go down a lonely road.  But that...is Skyrim. </Source>
+      <Dest>无论如何选择都是一条孤独的道路。但那就是……天际省. </Dest>
+    </String>
+    <String List="0">
+      <Source>Good. The prose today is like a writer pleasuring himself with fancy words.</Source>
+      <Dest>对。现在的文章就是作者在自娱自乐。</Dest>
+    </String>
+    <String List="2">
+      <Source>True.  Desire gets in the way.  We want to dress up our words in brocaded garments, and lose sight of the rawness underneath.</Source>
+      <Dest>对，有志者事竟成。我们要舌灿莲花，扬长避短。</Dest>
+    </String>
+    <String List="0">
+      <Source>Be a poet. You certainly have the angst.</Source>
+      <Dest>作为一个诗人。你当然会感慨人生苦短。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you ever heard of the Bard's Leap?  Better a corpse than a poet.</Source>
+      <Dest>你听说过诗人之跃吗？一具尸体都比一个诗人强。</Dest>
+    </String>
+    <String List="0">
+      <Source>I bet it sounded like a frost troll mounting a cave bear.</Source>
+      <Dest>我敢打赌，这就像是说冰雪巨魔骑着一只穴熊一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Close.  It wasn't as emotive as your description.  It still cleared the room, however.</Source>
+      <Dest>关上它吧。它不像你描述的那样有感情。虽然它还是整理了这个房间。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a writer, doesn't war provide good material?</Source>
+      <Dest>As a writer, doesn't war provide good material?</Dest>
+    </String>
+    <String List="2">
+      <Source>The story I wrote was about a warrior. But good tales are never about the wars, but the people who fight them.</Source>
+      <Dest>The story I wrote was about a warrior. But good tales are never about the wars, but the people who fight them.</Dest>
+    </String>
+    <String List="0">
+      <Source>As a writer, doesn't war provide good material?</Source>
+      <Dest>As a writer, doesn't war provide good material?</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why wars are so personal.  Everyone has someone they lost.  All of our fates are woven through this single loom.</Source>
+      <Dest>那就是为什么战争总与个人联系起来。每个人都会失去亲朋好友。我们的命运都在某个织布机上交织着。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a writer, doesn't war provide good material?</Source>
+      <Dest>As a writer, doesn't war provide good material?</Dest>
+    </String>
+    <String List="2">
+      <Source>Except mine.  The world has its problems, and I have my problems, and neither one cares about the other.</Source>
+      <Dest>除了我的。这个世界有它的问题，我也有我自己的麻烦，彼此都没什么好关心的。</Dest>
+    </String>
+    <String List="0">
+      <Source>This isn't just any war. The fate of Nirn rests on what happens here in Skyrim.</Source>
+      <Dest>这不是一场普通的战争。在天际省，在这里发生的事会决定Nirn的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>So it did in the Great War, in the Oblivion Crisis, and countless times before.  The return of an ancient evil.  The birth of a new one.</Source>
+      <Dest>So it did in the Great War, in the Oblivion Crisis, and countless times before.  The return of an ancient evil.  The birth of a new one.</Dest>
+    </String>
+    <String List="0">
+      <Source>This isn't just any war. The fate of Nirn rests on what happens here in Skyrim.</Source>
+      <Dest>这不是一场普通的战争。在天际省，在这里发生的事会决定Nirn的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Somewhere out there, a hero is waking up in a strange room, in a dungeon, or in their bed, rubbing eyes to slow music and a bottle of warm mead.</Source>
+      <Dest>在世界的某处，一个英雄正从陌生的房间醒来，在一间地牢，或者在他们的床上，惺忪的睡眼，舒缓的音乐，一瓶温热的蜂蜜酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>This isn't just any war. The fate of Nirn rests on what happens here in Skyrim.</Source>
+      <Dest>这不是一场普通的战争。在天际省，在这里发生的事会决定Nirn的命运。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then it happens.  The bard bangs his drum.  The mead goes down like a knife in the throat.  A city burns.  A treasure is found.  A boy meets a girl.</Source>
+      <Dest>就这样发生了。吟游诗人敲击着鼓点。蜂蜜酒如同利刃穿过喉咙。烧毁城市，寻获财宝。 一个男孩遇到了一个女孩。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>Live your days so the day will not outlive you.  Of course, the Nords have a word for this.  Cowardice. </Source>
+      <Dest>“本分地过自己平凡的的日子，平凡的日子日子也不会离开你”，当然，诺德人有一个词是专门形容它的。“懦弱”。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>If you're headed toward Solitude, don't buy your drinks at the tavern.  Go purchase the spiced wine directly from Evette San in the market.</Source>
+      <Dest>如果你是去独孤城，不要在旅馆里买酒。去市场里买爱芙缇·珊的香料酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>Just don't let Corpulus see you bringing it in.</Source>
+      <Dest>就是别让科普卢斯看见你把它带进来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>A Bard's song will make you pick up a sword.  A soldier's life will make you put it down.</Source>
+      <Dest>一个吟游诗人的歌会让你充满斗志，而一个士兵的人生则会让你得知生命的可贵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't fall victim to nostalgia.  It's just another kind of loneliness.</Source>
+      <Dest>不要成为怀旧的受害者。这只是另一种孤独。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>Never ask Karita to play you a sad song.  She doesn't understand melancholy.</Source>
+      <Dest>不要找卡利塔演奏忧伤的歌曲。她根本不理解什么是忧伤。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>The lighthouse is more than a beacon. It's fire is an embrace, welcoming the weary sailor home. When it dies, so does chivalry. </Source>
+      <Dest>这灯塔的信标像是火焰的拥抱，欢迎疲倦的水手回家。这就是骑士精神。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>My light is all but extinguished. So my advice is to talk to people, every day, and keep yours aflame. </Source>
+      <Dest>属于我的那份阳光已经耗尽。所以我只能建议你多跟别人交流，每天都有互动，保持自己的活力旺盛。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. Don't become a writer.</Source>
+      <Dest>对啊。当什么也别当作家。</Dest>
+    </String>
+    <String List="0">
+      <Source>Any words of advice?</Source>
+      <Dest>一点建议？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm the second worst person to seek advice from.  The worst is Alexandre Simon.  At least my failures were never published for all the world to read.</Source>
+      <Dest>我是倒数第二个去寻求建议的，最糟糕的是亚历山大•西蒙。至少我的失败从没被人在世界范围宣扬。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wars are fought so that we can have peace.</Source>
+      <Dest>战争之后才能享有和平。</Dest>
+    </String>
+    <String List="2">
+      <Source>And those who lose will never find it, until they rise to fight again.</Source>
+      <Dest>并且那些输了的人将永远找不到它，直到他们再次站起来战斗。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that speech you gave part of a novel?</Source>
+      <Dest>你的那场演讲是小说里的一部分吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it was a wandering thought, passed on to a stranger. I was looking at the ocean this morning, and came to a realization.</Source>
+      <Dest>No, it was a wandering thought, passed on to a stranger. I was looking at the ocean this morning, and came to a realization.</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that speech you gave part of a novel?</Source>
+      <Dest>你的那场演讲是小说里的一部分吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Skyrim is a tale with no end. You flip back to a previous page only to find the lines have changed.   </Source>
+      <Dest>Skyrim is a tale with no end. You flip back to a previous page only to find the lines have changed.   </Dest>
+    </String>
+    <String List="0">
+      <Source>Was that speech you gave part of a novel?</Source>
+      <Dest>你的那场演讲是小说里的一部分吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But the old themes remain. There will always be war. Suffering. Glory. And love. Time never grows old.</Source>
+      <Dest>但那些陈旧的主题是永恒不变的。战争，痛苦，荣耀和爱长久存在着。时间永不变老。</Dest>
+    </String>
+    <String List="0">
+      <Source>Was that speech you gave part of a novel?</Source>
+      <Dest>你的那场演讲是小说里的一部分吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's a season unending, a story everlasting.</Source>
+      <Dest>这是无尽的季节，永恒的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>You hear the old stories, sweet enough to play on a Bard's lute. </Source>
+      <Dest>你听了那个古老的故事，都甜到能以吟游诗人的鲁特琴来演奏了。</Dest>
+    </String>
+    <String List="2">
+      <Source>They always start the same. Something like "Once upon a time, in a world not unlike a dream..."</Source>
+      <Dest>They always start the same. Something like "Once upon a time, in a world not unlike a dream..."</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes I wonder if this is all just that. A story. Yours. Mine. Maybe the tavern owner's. </Source>
+      <Dest>Sometimes I wonder if this is all just that. A story. Yours. Mine. Maybe the tavern owner's. </Dest>
+    </String>
+    <String List="2">
+      <Source>All of Skyrim just a cold drink of ale poured into a frozen glass. </Source>
+      <Dest>整个天际就像是把冷冻麦芽酒倒进一只冰着的玻璃杯里一样。 </Dest>
+    </String>
+    <String List="2">
+      <Source>That's why I'm always at the lighthouse. Just to take it all in, before it melts away.</Source>
+      <Dest>这就是为什么我总在灯塔眺望。我只需要在这一切融化前，把它铭记于心。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Funny thing is, I should be used to rejection by now. But this one hurts a little bit more.</Source>
+      <Dest>(Sigh) Funny thing is, I should be used to rejection by now. But this one hurts a little bit more.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I really should pay Flin of visit and thank him.  Is he still in Solitude?</Source>
+      <Dest>I really should pay Flin of visit and thank him.  Is he still in Solitude?</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>贵安。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>很高兴见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>贵安。</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>你想谈什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>What's on your mind?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you again for all you've done.</Source>
+      <Dest>再次感谢你所做的一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think for my next novel, I'll pen a tale about an adventurer who walks from town to town, helping the locals.</Source>
+      <Dest>我思考了一下我的下一部小说，我应该会写一个关于四处旅行，帮助当地人的旅行者的故事。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't wait to visit a library, and find my book on a shelf. I'll think of all those long nights, never knowing if my words would find a home.</Source>
+      <Dest>I can't wait to visit a library, and find my book on a shelf. I'll think of all those long nights, never knowing if my words would find a home.</Dest>
+    </String>
+    <String List="2">
+      <Source>I almost stopped reading. It was too painful. I was constantly critiquing other authors, and measuring myself against them. Now, I know I belong.</Source>
+      <Dest>I almost stopped reading. It was too painful. I was constantly critiquing other authors, and measuring myself against them. Now, I know I belong.</Dest>
+    </String>
+    <String List="2">
+      <Source>Berg was in here the other day. I mentioned my book, and he asked if he could read it. You have to admire his tenacity.</Source>
+      <Dest>Berg was in here the other day. I mentioned my book, and he asked if he could read it. You have to admire his tenacity.</Dest>
+    </String>
+    <String List="2">
+      <Source>I wonder what Solitude is like this time of year.</Source>
+      <Dest>我想知道每年的这个时候，独孤城是什么样子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm an aspiring writer, Frik.  Not a real one.</Source>
+      <Dest>I'm an aspiring writer, Frik.  Not a real one.</Dest>
+    </String>
+    <String List="2">
+      <Source>I was wondering. Do you by chance have any good sailing tales you could share?</Source>
+      <Dest>我很好奇。你会不会碰巧有一个有趣的关于航海的故事想要分享？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sorry Frik, I don't know the first thing about sailing.</Source>
+      <Dest>对不起福瑞克，我对关于航海的事儿一窍不通。</Dest>
+    </String>
+    <String List="2">
+      <Source>You make it sound easy.</Source>
+      <Dest>你说的倒容易。</Dest>
+    </String>
+    <String List="2">
+      <Source>I guess that would work, if I were attracted to the fairer sex.</Source>
+      <Dest>不论我是否被那美妇所吸引，我觉得那计划会顺利进行的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, most writers I've known are romantics...but I confess I know little about love.</Source>
+      <Dest>好吧，我所认识的大部分作家都是浪漫主义者……不过我确实得承认我对爱情所知甚少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Believe it or not Flin, I used to be much worse.</Source>
+      <Dest>不管你信不信，福林，我曾经比这要糟糕多了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You should come to Dawnstar.  The snow is beautiful, and oddly...sad.</Source>
+      <Dest>你应该去晨星城。那里的雪很美，奇怪的是……也很忧伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

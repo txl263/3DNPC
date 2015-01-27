@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Public perception is valuable in war. Scandals can be more damaging than spies.</Source>
+      <Dest>Public perception is valuable in war. Scandals can be more damaging than spies.</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed, but it never should've become a scandal. You think what happened in Karthwasten is the exception?</Source>
+      <Dest>Agreed, but it never should've become a scandal. You think what happened in Karthwasten is the exception?</Dest>
+    </String>
+    <String List="0">
+      <Source>Public perception is valuable in war. Scandals can be more damaging than spies.</Source>
+      <Dest>Public perception is valuable in war. Scandals can be more damaging than spies.</Dest>
+    </String>
+    <String List="2">
+      <Source>Innocent blood is shed every day, and those who shed it are immortalized in tome and song.</Source>
+      <Dest>无辜的鲜血每天都在流，而那些洒下它们的人都在书籍和歌曲中成为不朽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Public perception is valuable in war. Scandals can be more damaging than spies.</Source>
+      <Dest>Public perception is valuable in war. Scandals can be more damaging than spies.</Dest>
+    </String>
+    <String List="2">
+      <Source>The difference between them and me is that one of my soldiers lost his backbone and squealed like a stuck pig.</Source>
+      <Dest>我和他们的区别在于我的一个士兵失去了他的脊梁，惨叫得就像是在杀猪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Public perception is valuable in war. Scandals can be more damaging than spies.</Source>
+      <Dest>Public perception is valuable in war. Scandals can be more damaging than spies.</Dest>
+    </String>
+    <String List="2">
+      <Source>An enemy is an enemy.  Mothers and daughters, fathers and sons, old and young.  Death has a thousand faces.</Source>
+      <Dest>敌人就是敌人。管他是母亲还是女儿，父亲还是儿子，老人还是少年。死神可以有上千种不同的脸。</Dest>
+    </String>
+    <String List="0">
+      <Source>I can send you to Sovngarde right now if you wish.</Source>
+      <Dest>要是你想的话我可以马上送你去松加德。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like that. I'd like it more if you opened this cage and gave me a weapon first.</Source>
+      <Dest>我喜欢这样。如果你能打开笼子，然后先给我把武器，我就更喜欢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does anyone ever come down here to visit?</Source>
+      <Dest>有人曾经到此参观吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. I get visitors who come to revel in my punishment. Forsworn sympathizers and some of my former men.</Source>
+      <Dest>Yes. I get visitors who come to revel in my punishment. Forsworn sympathizers and some of my former men.</Dest>
+    </String>
+    <String List="0">
+      <Source>Does anyone ever come down here to visit?</Source>
+      <Dest>有人曾经到此参观吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>They assure me the torturer is behind that wall, warming up his tongs.  They say Oengul is out by the forge, tending to my headstone.</Source>
+      <Dest>They assure me the torturer is behind that wall, warming up his tongs.  They say Oengul is out by the forge, tending to my headstone.</Dest>
+    </String>
+    <String List="0">
+      <Source>Does anyone ever come down here to visit?</Source>
+      <Dest>有人曾经到此参观吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Or that the executioner is waiting at the door, using his axe to clip his toenails.</Source>
+      <Dest>Or that the executioner is waiting at the door, using his axe to clip his toenails.</Dest>
+    </String>
+    <String List="0">
+      <Source>Does anyone ever come down here to visit?</Source>
+      <Dest>有人曾经到此参观吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet I never see any of these cowards, even if I welcome their arrival, for Sovngarde awaits me in the next life.</Source>
+      <Dest>但我还从没看见过这样的懦夫，即使如此，我也欢迎他们的到来，松加德会等待着我。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Torygg was angry. But I thought Ulfric and Galmar would have defended you.</Source>
+      <Dest>托依格很生气。但我想乌弗瑞克和加尔玛会保护你。</Dest>
+    </String>
+    <String List="2">
+      <Source>The veins in Galmar's neck almost popped when I told him. Man like him, you think he spits acid and chews glass, but he's as soft as mudcrab's belly.</Source>
+      <Dest>在我告诉加尔玛的时候，我能看见他脖子上的青筋蹦跶了好几下。他那样的人，你以为他可怕得像个怪物，其实他本人就跟泥沼蟹的腹部一样软。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Torygg was angry. But I thought Ulfric and Galmar would have defended you.</Source>
+      <Dest>托依格很生气。但我想乌弗瑞克和加尔玛会保护你。</Dest>
+    </String>
+    <String List="2">
+      <Source>He aimed to send me to Solitude as a gift. Make Torygg think the Cloaks were on his side.</Source>
+      <Dest>他打算把我当做礼物送去独孤城。让托依格相信风暴斗篷是站在他这边的。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Torygg was angry. But I thought Ulfric and Galmar would have defended you.</Source>
+      <Dest>托依格很生气。但我想乌弗瑞克和加尔玛会保护你。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I told the old bear what I really thought of him, and then I reached for my axe. I would've had Galmar's neck if Ulfric didn't shout me down.</Source>
+      <Dest>所以我告诉了这头老熊我是多么想念他，然后伸手拔出了我的斧子。如果乌佛瑞克没把我吼倒的话，我的斧子铁定就和伽尔玛的脖子亲密接触了。</Dest>
+    </String>
+    <String List="0">
+      <Source>So Torygg was angry. But I thought Ulfric and Galmar would have defended you.</Source>
+      <Dest>托依格很生气。但我想乌弗瑞克和加尔玛会保护你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hearing that thu'um, it made me want to tear out his throat and use it as a flute.</Source>
+      <Dest>听到那龙吼声，让我很想把他的喉咙剜出来当笛子吹。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your actions were vile, and Torygg was right. But how did the Stormcloaks react?</Source>
+      <Dest>真卑鄙啊你们，看来托依格是对的，那么风暴斗篷的反应如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>The veins in Galmar's neck almost popped when I told him. Man like him, you think he spits acid and chews glass, but he's as soft as mudcrab's belly.</Source>
+      <Dest>在我告诉加尔玛的时候，我能看见他脖子上的青筋蹦跶了好几下。他那样的人，你以为他可怕得像个怪物，其实他本人就跟泥沼蟹的腹部一样软。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your actions were vile, and Torygg was right. But how did the Stormcloaks react?</Source>
+      <Dest>真卑鄙啊你们，看来托依格是对的，那么风暴斗篷的反应如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>He aimed to send me to Solitude as a gift. Make Torygg think the Cloaks were on his side.</Source>
+      <Dest>他打算把我当做礼物送去独孤城。让托依格相信风暴斗篷是站在他这边的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your actions were vile, and Torygg was right. But how did the Stormcloaks react?</Source>
+      <Dest>真卑鄙啊你们，看来托依格是对的，那么风暴斗篷的反应如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I told the old bear what I really thought of him, and then I reached for my axe. I would've had Galmar's neck if Ulfric didn't shout me down.</Source>
+      <Dest>所以我告诉了这头老熊我是多么想念他，然后伸手拔出了我的斧子。如果乌佛瑞克没把我吼倒的话，我的斧子铁定就和伽尔玛的脖子亲密接触了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your actions were vile, and Torygg was right. But how did the Stormcloaks react?</Source>
+      <Dest>真卑鄙啊你们，看来托依格是对的，那么风暴斗篷的反应如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hearing that thu'um, it made me want to tear out his throat and use it as a flute.</Source>
+      <Dest>听到那龙吼声，让我很想把他的喉咙剜出来当笛子吹。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you committed no crime, then why the punishment?</Source>
+      <Dest>如果你本就没有犯罪，那何必遭受惩罚？</Dest>
+    </String>
+    <String List="2">
+      <Source>King Torygg didn't take kindly to my methods.  He wanted me in Solitude to stand trial for my crimes.  (Scoffs) What crimes?</Source>
+      <Dest>至高王托依格不愿意接受我的方法。他想让我在独孤城里受审。(讥笑) 凭什么审我？</Dest>
+    </String>
+    <String List="0">
+      <Source>If you committed no crime, then why the punishment?</Source>
+      <Dest>如果你本就没有犯罪，那何必遭受惩罚？</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't just the milkmaids in Solitude.  Even Galmar took umbrage with the way I disposed of the urchins.</Source>
+      <Dest>不仅是独孤城的挤奶女工，就连加尔玛都对我处置那帮混小子的方式表示不满。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you committed no crime, then why the punishment?</Source>
+      <Dest>如果你本就没有犯罪，那何必遭受惩罚？</Dest>
+    </String>
+    <String List="2">
+      <Source>At first I took their tongues.  I meant to spare them their lives.  Then I remembered some of them might know how to write. </Source>
+      <Dest>起初我切了他们的舌头。我本想放他们生路。但我又想起来他们中的某些人或许会写字。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you committed no crime, then why the punishment?</Source>
+      <Dest>如果你本就没有犯罪，那何必遭受惩罚？</Dest>
+    </String>
+    <String List="2">
+      <Source>So I took their thumbs too.  But even then they still had their hearts, and those boiled with hatred for my soldiers.</Source>
+      <Dest>所以我也控制了他们的行动。但尽管如此，他们还保有他们的真性，还保有着满腔对我的士兵的憎恶。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean spies as opposed to military forces.</Source>
+      <Dest>我以为你说间谍而不是军事力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, Karthwasten had a very large Breton population, little bilge rats loyal to the Forsworn.</Source>
+      <Dest>是的，西卡斯镇有一大批布莱顿居民，而他们中有些无聊的鼠辈为弃誓者卖命。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean spies as opposed to military forces.</Source>
+      <Dest>我以为你说间谍而不是军事力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was no way to distinguish the cowards from the spies.  They saw our numbers, they knew our troop positions.</Source>
+      <Dest>我没法儿把懦夫和间谍区分出来。他们看见了我们的编号，他们知道了我们的军队位置。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean spies as opposed to military forces.</Source>
+      <Dest>我以为你说间谍而不是军事力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>All that was left to do was relay them.  The only way to protect my brothers and sisters was to order a purge.</Source>
+      <Dest>最后要做的就是告诉他们。保护我兄弟姐妹唯一的办法就是进行一次净化了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean spies as opposed to military forces.</Source>
+      <Dest>我以为你说间谍而不是军事力量。</Dest>
+    </String>
+    <String List="2">
+      <Source>So we lined them up, a soldier to a man, and took every one of their heads.</Source>
+      <Dest>所以我们得团结起来，一个士兵对付一个人，把他们的头全都砍下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by "enemy?"</Source>
+      <Dest>你说的“敌人”是什麽意思？"</Dest>
+    </String>
+    <String List="2">
+      <Source>Karthwasten had a very large Breton population, little bilge rats loyal to the Forsworn.</Source>
+      <Dest>西卡斯镇有一大批布莱顿原住民，而他们中有些无聊的鼠辈为弃誓者卖命。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by "enemy?"</Source>
+      <Dest>你说的“敌人”是什麽意思？"</Dest>
+    </String>
+    <String List="2">
+      <Source>There was no way to distinguish the cowards from the spies.  They saw our numbers, they knew our troop positions.</Source>
+      <Dest>我没法儿把懦夫和间谍区分出来。他们看见了我们的编号，他们知道了我们的军队位置。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by "enemy?"</Source>
+      <Dest>你说的“敌人”是什麽意思？"</Dest>
+    </String>
+    <String List="2">
+      <Source>All that was left to do was relay them.  The only way to protect my brothers and sisters was to order a purge.</Source>
+      <Dest>最后要做的就是告诉他们。保护我兄弟姐妹唯一的办法就是进行一次净化了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by "enemy?"</Source>
+      <Dest>你说的“敌人”是什麽意思？"</Dest>
+    </String>
+    <String List="2">
+      <Source>So we lined them up, a soldier to a man, and took every one of their heads.</Source>
+      <Dest>所以我们得团结起来，一个士兵对付一个人，把他们的头全都砍下来。</Dest>
+    </String>
+    <String List="0">
+      <Source>For what crimes are you imprisoned?</Source>
+      <Dest>你是犯的什么事儿进来的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I live in this box of mammoth piss, but on account of no crime. I was one of the commanders who helped Ulfric retake the Reach from the Forsworn.</Source>
+      <Dest>我住在这个盛长毛象尿的盒子里 ，但我却是无罪的。我是曾帮助乌佛瑞克将边塞领从弃誓者手中夺回的指挥官之一。</Dest>
+    </String>
+    <String List="0">
+      <Source>For what crimes are you imprisoned?</Source>
+      <Dest>你是犯的什么事儿进来的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Like anyone with half a brain, Ulfric knew the road to Markarth went through Karthwasten.</Source>
+      <Dest>Like anyone with half a brain, Ulfric knew the road to Markarth went through Karthwasten.</Dest>
+    </String>
+    <String List="0">
+      <Source>For what crimes are you imprisoned?</Source>
+      <Dest>你是犯的什么事儿进来的？</Dest>
+    </String>
+    <String List="2">
+      <Source>The mines there could be harvested and used to craft weapons, and the river supplied fresh water for the troops and horses.</Source>
+      <Dest>矿山可以开采矿产并用它们来制造武器。而这条河可以给兵马提供新鲜的水源。</Dest>
+    </String>
+    <String List="0">
+      <Source>For what crimes are you imprisoned?</Source>
+      <Dest>你是犯的什么事儿进来的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet in order to take the town we first needed to clear it of the enemy.  </Source>
+      <Dest>要占领这座城镇我们首先得把敌人给清除干净。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I have.  Next time I'll come with a fresh pie, just to taunt you.</Source>
+      <Dest>肯定的，我有。下回我会拿出一个新鲜的馅饼，只是为了嘲笑你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead. The ones that taunt me are my favorites.  They think the bars and the guards will save them.  </Source>
+      <Dest>那就来吧。我最喜欢那些嘲笑我的家伙了。他们总以为（我把他们打趴下的时候）酒保或是守卫会救他们。  </Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I have.  Next time I'll come with a fresh pie, just to taunt you.</Source>
+      <Dest>肯定的，我有。下回我会拿出一个新鲜的馅饼，只是为了嘲笑你。</Dest>
+    </String>
+    <String List="2">
+      <Source>They get brave, and when they get brave, they get close.  It only takes a fraction of a second to snap their necks.</Source>
+      <Dest>他们有胆量了，越有胆量，就越会靠近。近到我只要一瞬间就能扭断他们的脖子。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want, boy?  Come to the butcher's stall to stare at the meat?  The Bloodworks are no place for an urchin fresh off his mother's teat.</Source>
+      <Dest>你想要什么，孩子？到屠夫的肉店来盯着肉看吗？ 血牢可不是乳臭未干的家伙该来的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want, lizard?  Come to the butcher's stall to stare at the meat?  The Bloodworks are no place for one so freshly hatched.</Source>
+      <Dest>你想要什么，蜥蜴？跑到屠户的摊位面前就为了盯着肉看？血牢可不是你这种鳞片都还没长齐的家伙该来的地方。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want, kitty? Come to the menagerie to stare at the other animals?  The Bloodworks are no place for a cat days out of the litter.</Source>
+      <Dest>你想做什么，猫咪？来动物园盯着其他动物看？血牢可没有位置给整天出来刨垃圾的小猫。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want, girl?  Come to the menagerie to stare at the animals?  The Bloodworks are no place for one as delicate as you.</Source>
+      <Dest>你想要什么，妹子？去动物园看动物吗？血牢可没有你这么纤细的姑娘的位置。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe they just forgot to execute you. It happens.</Source>
+      <Dest>也可能他们只是忘了给你行刑。这也是偶尔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I will make them remember with every guard that relaxes near my cell door.  </Source>
+      <Dest>然后我会让他们牢记每一个在我门口休息的卫兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe they just forgot to execute you. It happens.</Source>
+      <Dest>也可能他们只是忘了给你行刑。这也是偶尔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will reach through these bars and snatch every last one of them, thrust a shiv into all of their throats until they bow my head upon the stone.</Source>
+      <Dest>我会到这些酒吧去然后把他们一个不剩的全都抢个遍，用剃刀刺穿他们的喉咙直到他们屈服于我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a decent plan.</Source>
+      <Dest>听上去是个像样的计划。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can even tell them if you like.  They'll come to me all the same.  These little quillswords can't help themselves.</Source>
+      <Dest>随便你怎么跟他们说。他们来到我的结果也一样。这些三脚猫帮不了自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds like a decent plan.</Source>
+      <Dest>听上去是个像样的计划。</Dest>
+    </String>
+    <String List="2">
+      <Source>Soldiers don't like guards, and the feeling is more than mutual.  So they can't help but taunt a warrior whose very existence mocks them.</Source>
+      <Dest>士兵们不喜欢守卫，反过来也一样。所以他们都情不自禁的嘲讽那些蔑视自己的人</Dest>
+    </String>
+    <String List="0">
+      <Source>You aren't afraid I'd warn them?</Source>
+      <Dest>你不怕我去告诉他们先？</Dest>
+    </String>
+    <String List="2">
+      <Source>They'll come to me all the same. These little quillswords can't help themselves.</Source>
+      <Dest>他们来到我的结果也一样。这些三脚猫帮不了自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>You aren't afraid I'd warn them?</Source>
+      <Dest>你不怕我去告诉他们先？</Dest>
+    </String>
+    <String List="2">
+      <Source>Soldiers don't like guards, and the feeling is more than mutual.  So they can't help but taunt a warrior whose very existence mocks them.</Source>
+      <Dest>士兵们不喜欢守卫，反过来也一样。所以他们都情不自禁的嘲讽那些蔑视自己的人</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>The women's necks come halfway up the third stone.  The men's come nearly all the way to the top of it.  I've made notches in the wall for each.</Source>
+      <Dest>女人的脖子有墙上第三块石头那么高，男人的脖子几乎和墙顶一样高。我都已经在墙上做好记号了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Next guard who comes by and asks me if someone stole my sweetroll, I'm going to stick a shiv right into their neck.</Source>
+      <Dest>要是再有个守卫到我跟前问我是不是有人偷了我的甜甜圈，我绝壁要拿刀狠插他脖子。</Dest>
+    </String>
+    <String List="0">
+      <Source>When's the last time a visitor came?</Source>
+      <Dest>没有访客却在这待着真是蠢死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Few come to gawk anymore, for few remember Karthwasten now that all of Skyrim is drenched in blood.</Source>
+      <Dest>再没几个会蠢到来这里的呆子了，还有多少人记得西卡斯镇，现在是被整个天际省卷入血雨腥风里了。</Dest>
+    </String>
+    <String List="0">
+      <Source>When's the last time a visitor came?</Source>
+      <Dest>没有访客却在这待着真是蠢死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My only visitors are the guards.  They come around to spit at me and hurl their inane insults.  Some of them got more saliva than others. </Source>
+      <Dest>My only visitors are the guards.  They come around to spit at me and hurl their inane insults.  Some of them got more saliva than others. </Dest>
+    </String>
+    <String List="0">
+      <Source>When's the last time a visitor came?</Source>
+      <Dest>没有访客却在这待着真是蠢死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've gotten bored of strangling them.  So  I've started studying their height, or more precisely, the height of their throats.</Source>
+      <Dest>我厌倦了勒颈的玩法，所以转而研究他们的高度，或者准确的说，他们喉咙的高度。</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you smarter than most generals?</Source>
+      <Dest>是什么让你比普通人更聪明的？</Dest>
+    </String>
+    <String List="2">
+      <Source>A warrior's genius is different from a thinker's. It can't be explained, because its very essence relies on the silencing of thought.</Source>
+      <Dest>战士的天赋不同于智者。这很难解释，因为它的本质依赖于压制思想。</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you smarter than most generals?</Source>
+      <Dest>是什么让你比普通人更聪明的？</Dest>
+    </String>
+    <String List="2">
+      <Source>It relies on instinct. You see, a warrior must whittle existence into an unshakeable truth, and channel that trust into a single action.</Source>
+      <Dest>它依靠本能。你看，一个战士必须将自己的生活方式削减成一种不可动摇的真理，然后把这种真理灌注到单一的行动中去。</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you smarter than most generals?</Source>
+      <Dest>是什么让你比普通人更聪明的？</Dest>
+    </String>
+    <String List="2">
+      <Source>A thinker analyzes, worries, fears, doubts.  A warrior does. A thinker seeks an answer.  A warrior provides it.</Source>
+      <Dest>智者会分析、焦虑、恐惧、怀疑，而战士则直接行动。智者寻求答案，战士提供答案。</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you smarter than most generals?</Source>
+      <Dest>是什么让你比普通人更聪明的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think, I do what needs to be done. It's why Ulfric chose me to lead his men, why Karthwasten was purged, and why the war was won.</Source>
+      <Dest>我不这么认为，我会做我该做之事。这就是为何乌弗里克选我来带领他的士兵，这就是为何西卡斯镇会被“净化”，这也是为何胜利属于我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, that's the first word that comes to mind. Genius.</Source>
+      <Dest>是的，这就是第一个想到的词。天才。</Dest>
+    </String>
+    <String List="2">
+      <Source>A warrior's genius is different from a thinker's. It can't be explained, because its very essence relies on the silencing of thought.</Source>
+      <Dest>战士的天赋不同于智者。这很难解释，因为它的本质依赖于压制思想。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, that's the first word that comes to mind. Genius.</Source>
+      <Dest>是的，这就是第一个想到的词。天才。</Dest>
+    </String>
+    <String List="2">
+      <Source>It relies on instinct. You see, a warrior must whittle existence into an unshakeable truth, and channel that trust into a single action.</Source>
+      <Dest>它依靠本能。你看，一个战士必须将自己的生活方式削减成一种不可动摇的真理，然后把这种真理灌注到单一的行动中去。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, that's the first word that comes to mind. Genius.</Source>
+      <Dest>是的，这就是第一个想到的词。天才。</Dest>
+    </String>
+    <String List="2">
+      <Source>A thinker analyzes, worries, fears, doubts.  A warrior does. A thinker seeks an answer.  A warrior provides it.</Source>
+      <Dest>智者会分析、焦虑、恐惧、怀疑，而战士则直接行动。智者寻求答案，战士提供答案。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, that's the first word that comes to mind. Genius.</Source>
+      <Dest>是的，这就是第一个想到的词。天才。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't think, I do what needs to be done. It's why Ulfric chose me to lead his men, why Karthwasten was purged, and why the war was won.</Source>
+      <Dest>我不这么认为，我会做我该做之事。这就是为何乌弗里克选我来带领他的士兵，这就是为何西卡斯镇会被“净化”，这也是为何胜利属于我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do they call you a bastard?</Source>
+      <Dest>他们为什么叫你杂种？</Dest>
+    </String>
+    <String List="2">
+      <Source>Because I wasn't a true Son of Skyrim.  I never cared about Talos or purging the land of those who weren't kin.</Source>
+      <Dest>因为我不是个真正的天际之子。不管是塔洛斯，还是把这片土地上的入侵者赶出去之类的事我都毫不关心。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do they call you a bastard?</Source>
+      <Dest>他们为什么叫你杂种？</Dest>
+    </String>
+    <String List="2">
+      <Source>I value one thing and one thing only.  Strength.  Power.  Ulfric was a better warrior than all the other Jarls of the realm, and thus a better man.</Source>
+      <Dest>我只看重一件事。力量。实力。乌弗瑞克比任何领主都骁勇，因此比任何领主都优秀。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do they call you a bastard?</Source>
+      <Dest>他们为什么叫你杂种？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ulfric saw it too.  I was raw.  Rough.  Nothing more than a barbarian.  But he saw my power.  My genius.</Source>
+      <Dest>乌佛瑞克也看出来了。我当时还很嫩。粗暴得跟个野蛮人没什么两样。可他看得出我的力量，我的天分。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well done. I'm surprised they didn't give you some boon.</Source>
+      <Dest>干得好。我很惊讶他们竟没有给你一些赏赐。</Dest>
+    </String>
+    <String List="2">
+      <Source>They did.  Ulfric rewarded me for my service, and then shoved me in this manure crate when I outlived my usefulness.</Source>
+      <Dest>They did.  Ulfric rewarded me for my service, and then shoved me in this manure crate when I outlived my usefulness.</Dest>
+    </String>
+    <String List="0">
+      <Source>That poor girl.</Source>
+      <Dest>那个可怜的姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>She was honorable and brave.  Took to death like a real warrior.  </Source>
+      <Dest>她既高尚又勇敢，即使面对死亡也像是一名真正的战士。</Dest>
+    </String>
+    <String List="0">
+      <Source>That poor girl.</Source>
+      <Dest>那个可怜的姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>Even after Bronmir sliced off her strong hand, she stumbled about the ground trying to pick the blade up with the other.</Source>
+      <Dest>甚至在博瑞米尔切下她一只强有力的手之后，她依然和另一个人跌跌撞撞的试着从地上捡起武器。</Dest>
+    </String>
+    <String List="0">
+      <Source>That poor girl.</Source>
+      <Dest>那个可怜的姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought about killing Bronmir and healing the girl. Would've made for a better soldier than that snitch.</Source>
+      <Dest>我曾经想过杀掉博瑞米尔然后治好那个女孩。比那个告密者，她对我来说会是个更好的士兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>That poor girl.</Source>
+      <Dest>那个可怜的姑娘。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I still needed to tend to the urchins, and she wouldn't abide by that.</Source>
+      <Dest>But I still needed to tend to the urchins, and she wouldn't abide by that.</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't forget aunts, uncles, and cousins.  I like to think I kill whole families.</Source>
+      <Dest>别忘了还有七大姑八大姨，叔叔舅舅外甥侄子……我就喜欢琢磨灭门神马的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I'm the one they put in a cage.</Source>
+      <Dest>而我就是那位他们关进笼子里的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems Sovngarde will take just about anyone.</Source>
+      <Dest>听起来好像松加德是谁都让进的呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's home to Nords of mettle and valor.  And while it's said that Nords are born valorous, not all of them die as such.</Source>
+      <Dest>It's home to Nords of mettle and valor.  And while it's said that Nords are born valorous, not all of them die as such.</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems Sovngarde will take just about anyone.</Source>
+      <Dest>听起来好像松加德是谁都让进的呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You jest, fool, but I know my place in Shor's hall is secure.  Then I will settle my score with Galmar once and for all.</Source>
+      <Dest>你在开玩笑吧，呆子，但我知道我在舒尔的大厅会很安全。然后我就该跟加尔玛彻彻底底地把账算清。</Dest>
+    </String>
+    <String List="0">
+      <Source>War doesn't justify brutality. We must do what is right even when it's hard.</Source>
+      <Dest>战争不是暴行的接口。我们就算再难也要做正确的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>A warrior who clings to morals is like a whore who values chastity. Go sit in a cabbage patch boy, you're too green to be anything but a vegetable.</Source>
+      <Dest>A warrior who clings to morals is like a whore who values chastity. Go sit in a cabbage patch boy, you're too green to be anything but a vegetable.</Dest>
+    </String>
+    <String List="0">
+      <Source>War doesn't justify brutality. We must do what is right even when it's hard.</Source>
+      <Dest>战争不是暴行的接口。我们就算再难也要做正确的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>A warrior who clings to morals is like a whore who values chastity. Go sit in a cabbage patch girl, you're too green to be anything but a vegetable.</Source>
+      <Dest>A warrior who clings to morals is like a whore who values chastity. Go sit in a cabbage patch girl, you're too green to be anything but a vegetable.</Dest>
+    </String>
+    <String List="0">
+      <Source>My mother told me it's not polite to stare.</Source>
+      <Dest>我母亲告诉我，盯着是不礼貌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Is that so? And does she know where you are?  Run home to her little girl, and let her kiss away your nightmares.</Source>
+      <Dest>(笑声)是这样吗？她知道你在哪里吗？快赶回家吧，小姑娘，让她的吻驱走你的梦魇。</Dest>
+    </String>
+    <String List="0">
+      <Source>My mother told me it's not polite to stare.</Source>
+      <Dest>我母亲告诉我，盯着是不礼貌的。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Is that so?  And does she know where you are?  Run home to her little boy, and forget you ever wanted to become a man.</Source>
+      <Dest>(Laughs) Is that so?  And does she know where you are?  Run home to her little boy, and forget you ever wanted to become a man.</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Bronmir. I'll say that coward's name all the way to the executioner's block, and he better pray to the Divines that I don't meet him along the way.</Source>
+      <Dest>博瑞米尔。我会一路念叨这个胆小鬼的名字，念到上了侩子手的断头台才算完。他最好跟圣灵祈祷我不会在以后碰到他。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>This was even before the business with the guttersnipes, as we had them locked up in the miner's barracks as hostages.</Source>
+      <Dest>这甚至发生在的在我们把一群流浪小鬼头锁在矿工营地做人质的事情之前。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>As I said, we had the adults lined up, soldier to a man, and I gave the signal to lop off their heads.</Source>
+      <Dest>正如我所说的，我们让成年人们排着队， 一个士兵对一个人，只要我一声令下就得砍掉他们的脑袋。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only when I inspected the line, one of the miners, young girl about 17, had her head still attached.  Bronmir's kill. The boy refused my order.</Source>
+      <Dest>只是当我检查那排死人的时候，其中一个矿工，一个大概17岁的年轻女孩，她的脑袋却还没分家。博瑞米尔本该杀死她的。这个男孩儿违抗了我的命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>He said the girl reminded him of his sister. So I stood this girl up and cut her bonds. I still remember the look of relief on Bronmir's stupid face.</Source>
+      <Dest>他说这个女孩儿让他想起了他的妹妹。所以我让这个女孩儿站起来，然后切断了她的镣铐。我现在仍记着博瑞米尔那张蠢脸上安心了的表情。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then I gave the girl my sword, and told her if she killed Bronmir, I would let her and the children go free.</Source>
+      <Dest>然后我把我的剑给了那个女孩，告诉她说，如果她能把博瑞米尔给杀了的话，我就放她和那些孩子们走。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>You should've seen the look on that fool's face turn upside down when she charged.  He ended up taking her arm.  </Source>
+      <Dest>你真该看看在女孩按我的话照做时，那个傻子扭曲了的蠢脸。他最后切下了她的一条胳膊。 </Dest>
+    </String>
+    <String List="0">
+      <Source>How did word of Karthwasten spread to King Torygg?</Source>
+      <Dest>西卡斯镇的话是怎么传到至高王托依格耳朵里的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Was a lot more painful his way, with her twisting around spraying blood like that.</Source>
+      <Dest>但这么一来他也更为痛苦，她扭转着剑锋，他的鲜血就那么喷了出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you led an army, then you were once a man of rank.</Source>
+      <Dest>要是你带过军队，那也算是个有身份的人呐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I once wore the uniform of a Stormcloak commander, although I was first known for my fists.  </Source>
+      <Dest>是啊，我曾经穿过风暴斗篷指挥官的制服，虽然我还是以铁拳而闻名。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you led an army, then you were once a man of rank.</Source>
+      <Dest>要是你带过军队，那也算是个有身份的人呐。</Dest>
+    </String>
+    <String List="2">
+      <Source>No son or daughter of Skyrim, not even Hjornskar Head-Smasher could take me in a brawl.  </Source>
+      <Dest>天际的子女中没有人打架能打得赢我，就连碎颅者·乔斯卡也不行。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you led an army, then you were once a man of rank.</Source>
+      <Dest>要是你带过军队，那也算是个有身份的人呐。</Dest>
+    </String>
+    <String List="2">
+      <Source>It also seemed like the more Cloaks I pummeled, the better my rank became.</Source>
+      <Dest>而且看起来被我胖揍的风暴斗篷越多，我的军衔就越高。</Dest>
+    </String>
+    <String List="0">
+      <Source>If you led an army, then you were once a man of rank.</Source>
+      <Dest>要是你带过军队，那也算是个有身份的人呐。</Dest>
+    </String>
+    <String List="2">
+      <Source>Only now I wear the uniform of a murderer, a traitor, and a disgrace.  The bastard Son of Skyrim, they call me.</Source>
+      <Dest>只不过现在我披着一个杀手，一个叛徒，和一个耻辱的外衣。天际省的私生子，他们这么称呼我。</Dest>
+    </String>
+    <String List="0">
+      <Source>Given the takeover, I just assumed you were an Imperial prisoner.</Source>
+      <Dest>鉴于收购, 我以为你是一名帝国囚犯。.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Imperial scum would've never taken me alive.  Which speaks to their honor, and Ulfric's weakness.</Source>
+      <Dest>“帝国的渣渣永远不会活捉我。”这对帝国而言是荣誉，也是乌佛瑞克的死穴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, death only has one face.  You're looking at it.</Source>
+      <Dest>事实上，死亡只有一副面孔。而你正在看着它。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then come for me, but do me a favor and open this cage first, so I can tell my ancestors that death is no milk-drinker.</Source>
+      <Dest>那就来吧。但先帮我个忙，帮我打开这个笼子，这样我就能告诉我的祖先，死亡不是你这种吃奶的货。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could have held them captive.  Such measures were unnecessary.</Source>
+      <Dest>你当然可以囚禁他们。这些措施都是没必要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you know why they call war "A Season Unending?"  It doesn't stop when the warriors put down their blades.</Source>
+      <Dest>你知道为什么战争被称为“无尽之季”吗？因为即便战士们都放下屠刀，战争也永不结束。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could have held them captive.  Such measures were unnecessary.</Source>
+      <Dest>你当然可以囚禁他们。这些措施都是没必要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These people would have resented us.  Their children would have loathed us. Some of them may have grown into leaders of men.</Source>
+      <Dest>这些人会恨我们。他们的孩子会讨厌我们。他们中的一些人可能已经成长为了领袖。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could have held them captive.  Such measures were unnecessary.</Source>
+      <Dest>你当然可以囚禁他们。这些措施都是没必要的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're naive if you think to spare a life means to save a life.  Somebody is going to die.  Might as well be them.</Source>
+      <Dest>你要是以为饶他们一命等于救他们一命就太天真了。总有人要死。恐怕死的还是他们。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was excessively cruel.  You could've just killed the girl yourself.</Source>
+      <Dest>这太残忍了。你刚刚亲手杀了那个女孩儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>You don't understand war one bit, do you?  The girl's life isn't the important thing here.  Bronmir refused an order.</Source>
+      <Dest>你根本一点都不明白战争是怎么回事对吧？那个女孩的命在这里并不重要。博瑞米尔拒绝执行命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>That was excessively cruel.  You could've just killed the girl yourself.</Source>
+      <Dest>这太残忍了。你刚刚亲手杀了那个女孩儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>An army must act as a cohesive unit.  Every garrison, every soldier is dependent on each other.</Source>
+      <Dest>An army must act as a cohesive unit.  Every garrison, every soldier is dependent on each other.</Dest>
+    </String>
+    <String List="0">
+      <Source>That was excessively cruel.  You could've just killed the girl yourself.</Source>
+      <Dest>这太残忍了。你刚刚亲手杀了那个女孩儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>Without orders, an army is a pile of bricks without mortar.  With them, they form an impenetrable wall.</Source>
+      <Dest>一支军队不能令行禁止，就会像一堆没有砂浆砌合的砖头。只有经过砌合的砖头，才能组成一道坚不可摧的城墙。</Dest>
+    </String>
+    <String List="0">
+      <Source>You ask us to be animals.</Source>
+      <Dest>你想让我们都去当畜生。</Dest>
+    </String>
+    <String List="2">
+      <Source>I demand you be a soldier.</Source>
+      <Dest>我要求你成为一名士兵。</Dest>
+    </String>
+    <String List="0">
+      <Source>You failed to discipline your men.</Source>
+      <Dest>你没能约束好你的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I did the best I could with the lot I was given.  These soldiers were farmers and peasants with bloody carrots for thumbs.  </Source>
+      <Dest>我已经尽了最大努力，把我能做的都做了。这些士兵全是农民，握着见鬼的胡萝卜不放手的农民。</Dest>
+    </String>
+    <String List="0">
+      <Source>You failed to discipline your men.</Source>
+      <Dest>你没能约束好你的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>None of them fit to hold a blade, let alone stomach what happens when you use it.</Source>
+      <Dest>他们中没有一个适合拿剑的，更别提有什么用剑的欲望了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bronmir.  If I run into him, I'll make sure to introduce him to the void.</Source>
+      <Dest>博瑞米尔，如果我遇到他，我铁定会将他推入湮灭虚空的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. But don't make it quick. Give some color to his pretty little face first. I wanna imagine your knuckles decorating his cheeks in purple rouge.</Source>
+      <Dest>好极了。不过利落点。先给他那张可爱的小脸上来一下。用你的膝盖给他的面颊上点紫色的妆（指淤青）吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodworks?</Source>
+      <Dest>铁血营?</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what they call this place.  The name on the door may say "Barracks," and the name on your tongue may call it a dungeon, but make no mistake;</Source>
+      <Dest>这就是他们所说的这个地方。写作“兵营” ，但毫无疑问，这地方其实读作“地牢”；</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodworks?</Source>
+      <Dest>铁血营?</Dest>
+    </String>
+    <String List="2">
+      <Source>This place is a sodding blood factory, and the only thing more plentiful are the screams.</Source>
+      <Dest>这里是万恶的血腥工厂，在这里唯有尖叫。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodworks?</Source>
+      <Dest>铁血营?</Dest>
+    </String>
+    <String List="2">
+      <Source>But my tongue and my balls are iron, so you'll never hear a peep from me.</Source>
+      <Dest>不过我的舌头和我的蛋蛋都是铁做的，所以你永远也不会听说我是个偷窥狂之类的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sought to teach the boy a lesson.</Source>
+      <Dest>你想给这孩子好好上一课。</Dest>
+    </String>
+    <String List="2">
+      <Source>And it was a lesson well learned.  He never hesitated afterward when it came to the children.</Source>
+      <Dest>这件事情让他学乖了。以后只要涉及到孩子们他绝不犹豫。</Dest>
+    </String>
+    <String List="0">
+      <Source>You sought to teach the boy a lesson.</Source>
+      <Dest>你想给这孩子好好上一课。</Dest>
+    </String>
+    <String List="2">
+      <Source>But in the end he kept that traitor's spirit in him, burrowed deep under the covers.</Source>
+      <Dest>但是最终他在自己体内保留了叛徒的灵魂，埋藏在内心的最深处。</Dest>
+    </String>
+    <String List="0">
+      <Source>I wish I knew what I wanted.  But I know blood and torture is close to it.</Source>
+      <Dest>我希望我知道想要的是什么。但我明白其实鲜血和折磨离我想要的更接近。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you've come to watch.  Too bad.  None of my jailers seem interested in playing their parts.</Source>
+      <Dest>所以你就来看了。真糟糕。我的狱卒们似乎没有人一个对扮演他们的角色感兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="0">
+      <Source>DialogueHaakonHellos</Source>
+      <Dest>DialogueHaakonHellos</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>DialogueHaakonHellos</Source>
+      <Dest>DialogueHaakonHellos</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说。</Dest>
+    </String>
+    <String List="0">
+      <Source>DialogueHaakonHellos</Source>
+      <Dest>DialogueHaakonHellos</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

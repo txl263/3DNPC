@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Do you have any idea how powerful those spells are?</Source>
+      <Dest>你知道那些咒术有多强大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, I guess they're powerful.  Just not what I expected is all.  I thought the walls would start crumbling down.</Source>
+      <Dest>是啊，我猜它们很强大。只不过都不符合我的期望。我认为这堵墙就要塌了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea how powerful those spells are?</Source>
+      <Dest>你知道那些咒术有多强大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe the floor would split into two, and you could see into the center of Mundus.  That's the kind of spells I was expecting.</Source>
+      <Dest>也许地面会分裂成两块儿，你可以看到梦达思的中央。这就是我期待的那种法术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea how powerful those spells are?</Source>
+      <Dest>你知道那些咒术有多强大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you think those spells are good enough, then I say we free Solitude from tyranny tonight.</Source>
+      <Dest>But if you think those spells are good enough, then I say we free Solitude from tyranny tonight.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea how powerful those spells are?</Source>
+      <Dest>你知道那些咒术有多强大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>We can break open the East Empire Warehouse and fill it with beggars.  I say, "Let the people eat!"</Source>
+      <Dest>我们可以弄坏东帝国仓库的门，然后弄一堆乞丐进去。我说“让人民放开肚皮大吃！”</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea how powerful those spells are?</Source>
+      <Dest>你知道那些咒术有多强大吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>We liberate Solitude and we'll send a message to the rest of the Jarls oiling their rumps with jelly.  Just say the word, and I'm with you.</Source>
+      <Dest>我们会解放独孤城然后给剩下的领主一个警告叫他们拍屁股滚蛋。一句话，我就是你的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>True power comes not from spells. It comes from being me.  Olivia was not.</Source>
+      <Dest>真正的力量不是来自咒语，而是自身.  奥利维亚 没有做到.</Dest>
+    </String>
+    <String List="2">
+      <Source>So you're the only who's powerful?  Ha, you haven't seen me in action.  You ought to take me as a companion, Guildmaster.</Source>
+      <Dest>那你就是这儿唯一那个能打的？哈，你还没见识过我的真本事呢。你最好还是把我当做同伴吧，会长。</Dest>
+    </String>
+    <String List="0">
+      <Source>True power comes not from spells. It comes from being me.  Olivia was not.</Source>
+      <Dest>真正的力量不是来自咒语，而是自身.  奥利维亚 没有做到.</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, if you're trying to say true power comes from within, well, I don't doubt that either.  But why train when you can just read a tome?</Source>
+      <Dest>当然，如果你想说真正的力量来源于内心，我并不会质疑，既然如此，我们不如只说不做？</Dest>
+    </String>
+    <String List="0">
+      <Source>True power comes not from spells. It comes from being me.  Olivia was not.</Source>
+      <Dest>真正的力量不是来自咒语，而是自身.  奥利维亚 没有做到.</Dest>
+    </String>
+    <String List="2">
+      <Source>Let the crafters and enchanters do all the work.  Leaders like us need to concentrate on reshaping the world.</Source>
+      <Dest>这些活儿全都留给工匠和巫师吧。我们这样的领导者需要的是集中精力修正这个世界。</Dest>
+    </String>
+    <String List="0">
+      <Source>True power comes not from spells. It comes from being me.  Olivia was not.</Source>
+      <Dest>真正的力量不是来自咒语，而是自身.  奥利维亚 没有做到.</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, if you have the power, and I have the power, then I say we free Solitude from tyranny tonight.</Source>
+      <Dest>事实上，如果我和你都有足够的力量的话，那我会说我们今晚就能从独孤城的专政中解放出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>True power comes not from spells. It comes from being me.  Olivia was not.</Source>
+      <Dest>真正的力量不是来自咒语，而是自身.  奥利维亚 没有做到.</Dest>
+    </String>
+    <String List="2">
+      <Source>We liberate Solitude and we'll send a message to the rest of the Jarls oiling their rumps with jelly.  Just say the word, and I'm with you.</Source>
+      <Dest>我们会解放独孤城然后给剩下的领主一个警告叫他们拍屁股滚蛋。一句话，我就是你的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia could only craft the spells based on efficiency.</Source>
+      <Dest>奥莉薇雅只会根据效率来创造法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see...then the other 3 spells, those must be the ones in the prophecy!</Source>
+      <Dest>我瞧瞧……还有其他3个魔法，这些一定都是在预言中的！</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia could only craft the spells based on efficiency.</Source>
+      <Dest>奥莉薇雅只会根据效率来创造法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pity the woman couldn't be bothered to craft them.  I had already drawn up plans for the sacking of Solitude.</Source>
+      <Dest>可惜的是这个女人甚至懒得制作它们。我都准备好计划洗劫独孤城了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia could only craft the spells based on efficiency.</Source>
+      <Dest>奥莉薇雅只会根据效率来创造法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, basically it was a crude drawing of the Blue Palace burning up in flames, but it's not like we really need an actual plan.</Source>
+      <Dest>好吧，实际上把蓝宫烧毁什么的还只是个大致的想法，但却不是我们真正需要的实际计划。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia could only craft the spells based on efficiency.</Source>
+      <Dest>奥莉薇雅只会根据效率来创造法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, if you think those spells are good enough, then I say we free Solitude from tyranny tonight.</Source>
+      <Dest>事实上，如果你以为这些法术足够好，那我得说我们今晚就能从独孤城的专制中解放出来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Olivia could only craft the spells based on efficiency.</Source>
+      <Dest>奥莉薇雅只会根据效率来创造法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>We liberate Solitude and we'll send a message to the rest of the Jarls oiling their rumps with jelly.  Just say the word, and I'm with you.</Source>
+      <Dest>我们会解放独孤城然后给剩下的领主一个警告叫他们拍屁股滚蛋。一句话，我就是你的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Too bad.  I'm killing Nelos, then I'm coming back here for you.</Source>
+      <Dest>那太糟了，我要去杀了纳洛斯，然後我会回来杀你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine by me, although Nelos is no slouch.  I'd prefer you rest after you beat him, as I believe in fair play.</Source>
+      <Dest>我倒是没什么，虽然纳洛斯不是好对付的家伙。我觉得吧，如果想来一场公平的竞争，你还是在打倒他之后休息一下比较好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Too bad.  I'm killing Nelos, then I'm coming back here for you.</Source>
+      <Dest>那太糟了，我要去杀了纳洛斯，然後我会回来杀你。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) No, I'm kidding, I'll take every advantage I can get.  But you believed me, right?  </Source>
+      <Dest>(笑声) 不，我是在开玩笑，我会得到我该得到的一切利益。你也相信我，对么?？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, you want to kill Nelos?</Source>
+      <Dest>等等，你想杀了纳洛斯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course!  How else am I going to be leader of this guild?  I could best Gerrod, but what would that make me?  The cook?</Source>
+      <Dest>当然！除了我以外还有谁有资格当这个公会的老大？我能打败杰瑞，但这会让我成为什么？一个厨子？</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait, you want to kill Nelos?</Source>
+      <Dest>等等，你想杀了纳洛斯？</Dest>
+    </String>
+    <String List="2">
+      <Source>The only way to be leader is to take down the leader.  It's nothing personal against Nelos.  It's just the way it is.</Source>
+      <Dest>要当上首领唯一的方法就是做掉前任首领。这不是对纳洛斯的区别对待，而是原本就是如此。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop sulking, boy.  Your Guildmaster commands you.</Source>
+      <Dest>别生气了，孩子。这是工会大师的命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, normally, I'd say that title was temporary, but I don't know.  I just had Vanus' spells built up so much and they couldn't even kill 2 mages.</Source>
+      <Dest>好吧，一般意义上来所，我得说这个名号是暂时的，但我也不清楚。我只是能够自如地使用万纳斯的法术罢了，而他们根本连2个法师都杀不了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop sulking, boy.  Your Guildmaster commands you.</Source>
+      <Dest>别生气了，孩子。这是工会大师的命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that I wanted that old witch to win.  I just thought I'd be the one to avenge you and Master Nelos.</Source>
+      <Dest>我不是想要那个老女巫赢。我只是想要报复你和纳洛斯大师。</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop sulking, boy.  Your Guildmaster commands you.</Source>
+      <Dest>别生气了，孩子。这是工会大师的命令。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I'm not even sure if it's worth challenging you for them.</Source>
+      <Dest>现在我甚至不能确定对他们而言是否值得来挑战你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Show more respect for your leader, grunt.</Source>
+      <Dest>对你的上级表示一点尊重好吗二货？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I respect him and his ideals to the utmost.  That's why I'm going to best him, and take my rightful place as leader.</Source>
+      <Dest>噢，我尊重他和他远大的理想。这就是我要战胜他，然后取得我应得的领导者的地位的原因。</Dest>
+    </String>
+    <String List="0">
+      <Source>Show more respect for your leader, grunt.</Source>
+      <Dest>对你的上级表示一点尊重好吗二货？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what's so great about the Radiant Dark.  You don't have to run a hundred errands to be Arch-Mage.  </Source>
+      <Dest>这也就是黑暗光辉的伟大之处。你不用先从跑腿的做起就能成为首席法师。  </Dest>
+    </String>
+    <String List="0">
+      <Source>Show more respect for your leader, grunt.</Source>
+      <Dest>对你的上级表示一点尊重好吗二货？</Dest>
+    </String>
+    <String List="2">
+      <Source>You just need to be better than the next guy.</Source>
+      <Dest>你只需比下一个家伙强。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Vanus' spells. That old witch had them, right? She used them and yet you're still here. We're all still here. The whole sodding fort is still here!</Source>
+      <Dest>万纳斯的法术。那个老女巫肯等用了他们对吧？ 但是为什么你还在这，我们还在这，这该死的堡垒还在这！</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your problem?</Source>
+      <Dest>你遇到什么问题了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't understand.  Vanus' spells were supposed to be capable of destroying worlds.  Was it all a lie?</Source>
+      <Dest>我不明白。万纳斯的魔法应该能够摧毁世界才对的。 难道这一切都是个谎言吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You here to kill Nelos?  Well, I hate to disappoint you, but he's not the most powerful mage here.</Source>
+      <Dest>你是来杀纳洛斯的？呃，很遗憾地通知你，他不是这儿最强的法师。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you want him dead, just wait.  I'll take care of him for you.</Source>
+      <Dest>如果你想要他死，只需等待。我会替你料理他。</Dest>
+    </String>
+    <String List="2">
+      <Source>So that's it then.  Somehow I just...I just feel so empty.</Source>
+      <Dest>就这样了。我只是……我只觉得很空虚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you join this guild?</Source>
+      <Dest>你加入这个行会的原因是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Why?  Because I'm tired of Jarls and politics and wealthy nobles, thanes, and barons who don't give two septims about the people.</Source>
+      <Dest>怎么？我已经受够了领主、政治、有钱有势的贵族、武卫，还有都不肯掏出两个金币给人们的狗屁男爵了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you join this guild?</Source>
+      <Dest>你加入这个行会的原因是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Meanwhile, the Thalmor are breathing down our necks, and the dragons are breathing on them.</Source>
+      <Dest>Meanwhile, the Thalmor are breathing down our necks, and the dragons are breathing on them.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you join this guild?</Source>
+      <Dest>你加入这个行会的原因是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But do the Jarls care?  No. They're up on their thrones, eating pies and lathering their stomachs with gravy.  </Source>
+      <Dest>但领主们在乎吗？不，他们高踞在宝座上，吃着各种各样的派，脑满肠肥。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Why did you join this guild?</Source>
+      <Dest>你加入这个行会的原因是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I just want to make a difference, and the only way to do that, is with power.</Source>
+      <Dest>我只是想做点改变，而要做到这点的唯一途径，就是靠力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any family to speak of?</Source>
+      <Dest>你有什么值得一提的家人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I left them years ago.  Pa used to say my name was apt.  Always "off and running."</Source>
+      <Dest>不，我多年前就离开了他们。爸爸常说我的名字特别贴切。我总能“掉头就跑”。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any family to speak of?</Source>
+      <Dest>你有什么值得一提的家人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He's a great man.  He's the one who first taught me power was something that could change worlds.  He just never thought I had it.</Source>
+      <Dest>他是个大好人。是他第一个告诉我力量是可以改变世界的。只不过他没想到我就拥有这个力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any family to speak of?</Source>
+      <Dest>你有什么值得一提的家人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Didn't want to baby me like my sister, me being his only true blood son.  Either way, I'm going to prove to him I'm every bit as strong as him.</Source>
+      <Dest>我不想像我的姐妹一样被宠着，不想被当做他唯一的真正的后裔。不管怎么说，我要向他证明我比他还要强壮一些。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any family to speak of?</Source>
+      <Dest>你有什么值得一提的家人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And when I change this world, the first thing I'm going to do is give Pa a hug and say, "Hey, I forgive you."</Source>
+      <Dest>And when I change this world, the first thing I'm going to do is give Pa a hug and say, "Hey, I forgive you."</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn.  The worst ruler since Pelagius the Mad.</Source>
+      <Dest>奥弗朗皇帝。继疯子佩拉吉奥斯以来最糟糕的统治者。</Dest>
+    </String>
+    <String List="2">
+      <Source>If anyone says that, it's because they fear my power.  </Source>
+      <Dest>如果有人这么说的话，一定是因为他们害怕我的力量。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn.  The worst ruler since Pelagius the Mad.</Source>
+      <Dest>奥弗朗皇帝。继疯子佩拉吉奥斯以来最糟糕的统治者。</Dest>
+    </String>
+    <String List="2">
+      <Source>People always complain.  I'm going to give them food and clothing and all the comforts they can ask for, and they'll sill whine about something.  </Source>
+      <Dest>人们总是在抱怨。我能给他们提供食物、衣物，他们想要的所有慰藉我都能给他们，但他们仍然不会停止抱怨。</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn.  The worst ruler since Pelagius the Mad.</Source>
+      <Dest>奥弗朗皇帝。继疯子佩拉吉奥斯以来最糟糕的统治者。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'll just use Vanus' permanent calm spell to turn the complainers into mutes, then I'll burn the tome with the cure.</Source>
+      <Dest>那么我将会使用永恒的平静法术让这群抱怨者闭嘴，然后再烧了这些书。</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn.  The worst ruler since Pelagius the Mad.</Source>
+      <Dest>奥弗朗皇帝。继疯子佩拉吉奥斯以来最糟糕的统治者。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not malicious though.  It's like telling a child not to go exploring in caves.  Sometimes people need to be told what's good for them.</Source>
+      <Dest>不过我没有恶意。这就像要告诫一个孩子不要去探索洞穴。有时人们需要把对他们好的事说一说。</Dest>
+    </String>
+    <String List="0">
+      <Source>Will the others in the guild subject themselves to your rule?</Source>
+      <Dest>其他公会成员会服从你所制定的规则吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course.  The opportunity to challenge Nelos is always there.</Source>
+      <Dest>当然。如果想要挑战纳洛斯的话，那什么时候挑战都可以。</Dest>
+    </String>
+    <String List="0">
+      <Source>Will the others in the guild subject themselves to your rule?</Source>
+      <Dest>其他公会成员会服从你所制定的规则吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't be a child of destiny if you can't even best your own acolytes.</Source>
+      <Dest>如果你甚至不能比你的助手强的话，你就不能成为命运之子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Will the others in the guild subject themselves to your rule?</Source>
+      <Dest>其他公会成员会服从你所制定的规则吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>What he doesn't know is, my destiny is even bigger than his.  It's just unfortunate his had to get trampled in my path.</Source>
+      <Dest>他所不知道的，我的命运蓝图要比他宏大得多。他那样轻视我的人生轨迹还真是不幸。</Dest>
+    </String>
+    <String List="0">
+      <Source>I look forward to your reign, my liege.</Source>
+      <Dest>我期待着您的霸业，吾王。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, you won't have to do that. No need to curtsy or fancy talk of any kind.  There's no need for such artifice in my kingdom.</Source>
+      <Dest>噢你不用那么做。什么屈膝礼节还是客套话全都不要。在我的地盘上用不着那么做作。</Dest>
+    </String>
+    <String List="0">
+      <Source>I look forward to your reign, my liege.</Source>
+      <Dest>我期待着您的霸业，吾王。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, you don't need to address me by a title of any kind.</Source>
+      <Dest>事实上，在你称呼我的时候，什么头衔也不用加。</Dest>
+    </String>
+    <String List="0">
+      <Source>I look forward to your reign, my liege.</Source>
+      <Dest>我期待着您的霸业，吾王。</Dest>
+    </String>
+    <String List="2">
+      <Source>When I rebuild the world, you won't have to say "my liege."  All I want you to say is "Thank you."</Source>
+      <Dest>当我重建了世界，你不会被迫向我俯首称臣。我唯一希望你做的，只是说一声“谢谢你。”</Dest>
+    </String>
+    <String List="0">
+      <Source>I've just met you, and I already think you would make a terrible Emperor.</Source>
+      <Dest>我第一眼看到你就知道你将会变成一个可怕的皇帝。</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  That's because I haven't put on the charm.  </Source>
+      <Dest>真的吗？这是因为我还没有对着他们释放我的魅力。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've just met you, and I already think you would make a terrible Emperor.</Source>
+      <Dest>我第一眼看到你就知道你将会变成一个可怕的皇帝。</Dest>
+    </String>
+    <String List="2">
+      <Source>And by that I mean a charm spell.  I mean, why bother learning speechcraft when I can just wizard myself the words. </Source>
+      <Dest>我是说诱惑法术。就是说，既然我可以用魔法来实现语言的作用，干嘛还要学什么口才呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn does have a nice ring to it.</Source>
+      <Dest>欧芙芳皇帝确实有个很棒的指环与之相配。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not in it for the title.  But I suppose I could get used to it. It'd really just be the frosting on the sweetroll.  Well, not Felena's Sweetroll.</Source>
+      <Dest>我干这个不是为了名声。 但我想我能习惯它。它真的只是甜甜圈上的糖霜。呃，不是妃乐娜的 那个甜甜圈先生。</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor Offryn does have a nice ring to it.</Source>
+      <Dest>欧芙芳皇帝确实有个很棒的指环与之相配。</Dest>
+    </String>
+    <String List="2">
+      <Source>Gods, why did she have to name that thing after my favorite food?</Source>
+      <Dest>天啊，为何她要以我最爱的食物来命名那东西？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you change as leader of the Radiant Dark?</Source>
+      <Dest>作为黑暗光辉的首领，你会改变什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't know.  Just about everything.  Look, I know Nelos' heart is in the right place.</Source>
+      <Dest>哦，我不知道。我能作任何事。你看，我知道纳洛斯的心脏在它该在的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you change as leader of the Radiant Dark?</Source>
+      <Dest>作为黑暗光辉的首领，你会改变什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>He wants to push the limits of magic.  Better magic means a better world.</Source>
+      <Dest>He wants to push the limits of magic.  Better magic means a better world.</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you change as leader of the Radiant Dark?</Source>
+      <Dest>作为黑暗光辉的首领，你会改变什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>My point is, instead leaving it all to chance, why not make the better world yourself?</Source>
+      <Dest>我的观点是，与其一切靠机遇，为何不自己动手创造美好世界呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you change as leader of the Radiant Dark?</Source>
+      <Dest>作为黑暗光辉的首领，你会改变什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>With Vanus' spells, I could be Emperor, and shape the land as I see fit.</Source>
+      <Dest>有了万纳斯的法术，我就能当皇帝，把国土塑造成我理想中的样子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I would love to get my hands on such a spell.</Source>
+      <Dest>是的，我愿意学习这个法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>You and everyone else, but I don't know if Nelos is right about releasing the tomes after we take down these dumb Jarls.</Source>
+      <Dest>你和其他人都是，但我怀疑纳洛斯在我们干掉这几个笨蛋领主后再公开那本书是不是正确的行为。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I would love to get my hands on such a spell.</Source>
+      <Dest>是的，我愿意学习这个法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sounds like he's got a little too much Vanus in him.  </Source>
+      <Dest>听起来他受到太多万纳斯的影响。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I would love to get my hands on such a spell.</Source>
+      <Dest>是的，我愿意学习这个法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why not just keep the power for yourself?  Nelos wants to invite resistance.   He wants more war.</Source>
+      <Dest>为什么不给自己保存这份力量呢？纳洛斯想要招致抵抗。他想要更多的战争。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, I would love to get my hands on such a spell.</Source>
+      <Dest>是的，我愿意学习这个法术。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which kind of defeats the purpose, if you ask me.  But  I'll change things once I'm leader.</Source>
+      <Dest>Which kind of defeats the purpose, if you ask me.  But  I'll change things once I'm leader.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet we all live in Tamriel. Destroying it would destroy yourself.</Source>
+      <Dest>既然我们都身处泰姆瑞尔大陆。摧毁它也就摧毁了你自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, that's not true.  There's 5 spells in Vanus' research.  I'm sure there's like some special ward in there.</Source>
+      <Dest>不，不对。万纳斯的研究中用到了五个魔法。我敢肯定那里有些特设的房间。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yet we all live in Tamriel. Destroying it would destroy yourself.</Source>
+      <Dest>既然我们都身处泰姆瑞尔大陆。摧毁它也就摧毁了你自己。</Dest>
+    </String>
+    <String List="2">
+      <Source>Or maybe some super restoration spell that can regrow all the grass and all the animals.  I just know it.</Source>
+      <Dest>或者也许一些超级回复法术可以再生所有的草和所有的动物。我就是知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want to rule over rubble?  Why destroy Tamriel?</Source>
+      <Dest>你想要统治一片废墟吗？为什么要摧毁塔玛瑞尔？</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't you get it?  It's not about ruling, it's about taking down those in power.</Source>
+      <Dest>你没明白？我并不是想要统治一切，只是我的力量太过于强大罢了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want to rule over rubble?  Why destroy Tamriel?</Source>
+      <Dest>你想要统治一片废墟吗？为什么要摧毁塔玛瑞尔？</Dest>
+    </String>
+    <String List="2">
+      <Source>When you turn something to rubble, someone's got to rebuild that rubble.</Source>
+      <Dest>当你搞砸一件事时，就有人不得不收拾你的烂摊子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want to rule over rubble?  Why destroy Tamriel?</Source>
+      <Dest>你想要统治一片废墟吗？为什么要摧毁塔玛瑞尔？</Dest>
+    </String>
+    <String List="2">
+      <Source>You keep knocking it down, and people get better at building.</Source>
+      <Dest>你搞的破坏越多，人们就越善于建造。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want to rule over rubble?  Why destroy Tamriel?</Source>
+      <Dest>你想要统治一片废墟吗？为什么要摧毁塔玛瑞尔？</Dest>
+    </String>
+    <String List="2">
+      <Source>Meanwhile the Radiant Dark gets better at destruction.  I'm already really good at it.</Source>
+      <Dest>同时黑暗光辉还是覆灭了比较好。我向来很擅长这个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you want to rule over rubble?  Why destroy Tamriel?</Source>
+      <Dest>你想要统治一片废墟吗？为什么要摧毁塔玛瑞尔？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what Nelos doesn't understand.  There's no need to build and rebuild.  When I rebuild it, it's gonna be perfect.  </Source>
+      <Dest>这就是纳洛斯没法儿弄明白的了。没有必要建了又建。当我建好它们，他们就将是完美的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds highly improbable.</Source>
+      <Dest>听起来真是不可思议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why?  How would you know?  Vanus was one of the greatest mages in history.  Almost as powerful as me.</Source>
+      <Dest>为什么？你怎么知道的？万纳斯是史上最伟大的魔法师。几乎跟我一样强。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds highly improbable.</Source>
+      <Dest>听起来真是不可思议。</Dest>
+    </String>
+    <String List="2">
+      <Source>You should see me use lightning. But I'm even better with illusion.  </Source>
+      <Dest>你该看看我用闪电术的样子，但是我更擅长幻术。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Sounds highly improbable.</Source>
+      <Dest>听起来真是不可思议。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why bother shocking someone if you can just convince him he's shocked?</Source>
+      <Dest>要是能直接用说的让一个人以为自己被电到了，就没必要施法放电了吧？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was your guild after Vanus' research?</Source>
+      <Dest>万纳斯的研究之后为什么是你的工会？</Dest>
+    </String>
+    <String List="2">
+      <Source>In a word, power.  Untapped, unlimited power.</Source>
+      <Dest>用一个词说就是，力量。尚未使用的，无限的力量。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was your guild after Vanus' research?</Source>
+      <Dest>万纳斯的研究之后为什么是你的工会？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't care what Felena and Vinnius say, I have no doubt Vanus' spells are the one's we've been waiting for.</Source>
+      <Dest>我才不管妃乐娜和 维尼乌斯说些什么，我相当确定万纳斯的法术就是我们一直在等的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why was your guild after Vanus' research?</Source>
+      <Dest>万纳斯的研究之后为什么是你的工会？</Dest>
+    </String>
+    <String List="2">
+      <Source>I bet there's a destruction spell that would blow up the Jarl's Keep!  Two keeps, in fact! No, all of Solitude!</Source>
+      <Dest>我打赌这个毁灭系法术肯定会摧毁掉领主要塞的，肯定的！不，甚至是整个独孤城！</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings Guildmaster. Has Vinnius told you of my plan to sack Markarth?</Source>
+      <Dest>Greetings Guildmaster. Has Vinnius told you of my plan to sack Markarth?</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings Guildmaster.</Source>
+      <Dest>你好，会长。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, what are you-</Source>
+      <Dest>等等，你——</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it looks like Nelos was wrong about the Dragonborn.  He's wrong about a lot of things.  Luckily, I'm around to fix his mistakes.</Source>
+      <Dest>Well, it looks like Nelos was wrong about the Dragonborn.  He's wrong about a lot of things.  Luckily, I'm around to fix his mistakes.</Dest>
+    </String>
+    <String List="2">
+      <Source>But those days are over.  We'll keep Vanus' spells for ourselves, and when I'm Emperor, I'll make sure the rest of you get a place in my court.</Source>
+      <Dest>但那些日子已经过去了。我们会把万纳斯的法术留下自己用，而且在我当上皇帝以后，我会确保你在宫里有一官半职。</Dest>
+    </String>
+    <String List="2">
+      <Source>A corpse? Then father...No, I refuse to believe it!  You're not even his blood!</Source>
+      <Dest>一具尸体？爸爸……不，我不敢相信！你甚至不是他的血亲！</Dest>
+    </String>
+    <String List="2">
+      <Source>Sister!  What are you doing here?  And you're with them!  Why?  What's the meaning of this?</Source>
+      <Dest>姐姐！你在这儿干什么？跟他们在一起！为什么？这是什么意思啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me. I need your help.</Source>
+      <Dest>跟着我。我需要你的帮助。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right away, Guildmaster.  Let's go change the world.</Source>
+      <Dest> 走吧，会长，让我们去改变世界。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alas, it's time for us to part ways.</Source>
+      <Dest>行啦，是咱们分道扬镳的时候啦。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be back at the Hall if you need me.</Source>
+      <Dest>如果你需要我的话，我就在大厅。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's nothing. Never mind.</Source>
+      <Dest>没什么事，不用担心。</Dest>
+    </String>
+    <String List="0">
+      <Source>On second thought, I don't need anything.</Source>
+      <Dest>仔细考虑了一下，我不需要任何东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Got it.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. Let me show you.</Source>
+      <Dest>对，我来告诉你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some things with you.</Source>
+      <Dest>我要和你交换物品。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need to trade some items with you.</Source>
+      <Dest>我要和你交易些东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take what you will.  I've got everything I need right in these hands.</Source>
+      <Dest>拿走你想拿的东西。我已经把我所有需要的东西拿在手上了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I need you to do something for me.</Source>
+      <Dest>我需要你帮我做些事。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you need, Guildmaster?</Source>
+      <Dest>你需要什么，会长大人？</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow me.</Source>
+      <Dest>跟着我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Lead the way.</Source>
+      <Dest>带路吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here.</Source>
+      <Dest>在这里等着。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait here for a moment.</Source>
+      <Dest>在这儿等一下.</Dest>
+    </String>
+    <String List="2">
+      <Source>Got it.</Source>
+      <Dest>了解。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right away, Guildmaster.</Source>
+      <Dest>马上就来，会长。</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

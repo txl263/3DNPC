@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>The more you talk about Jaree-Ra, the more I wish I hadn't killed him.</Source>
+      <Dest>越是听你说加雷·拉的事，我就越后悔杀了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes I don't know whether you're joking, trying to raise my spirits, or just mean.  Maybe all three.  </Source>
+      <Dest>有时候我不知道你到底是在跟我开玩笑，还是在激励我，或仅仅是个低劣的恶作剧。也有可能三种兼备。</Dest>
+    </String>
+    <String List="0">
+      <Source>The more you talk about Jaree-Ra, the more I wish I hadn't killed him.</Source>
+      <Dest>越是听你说加雷·拉的事，我就越后悔杀了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>If he's truly dead, then maybe I won't have to live in fear anymore.  But either way, I have Ma'zaka to thank for saving my life.</Source>
+      <Dest>如果他真的死了，那么也许我再也不会生活在恐惧之中了。但是不管怎么说，我必须谢谢马扎卡救了我的命。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I appreciate you seeing the whole picture.  Some would not absolve me of my crimes, even after knowing how I was manipulated.</Source>
+      <Dest>我很感激你看到了整个过程。有些人不能免除我的罪行, 即使知道我是如何任人摆布的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The truth is, I never had many friends growing up.  People who genuinely cared about me.  </Source>
+      <Dest>事实是，我从小就没什么朋友。没有人真正关心我。  </Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When you go to a tavern, they have stools and tables.  I always opted for the stool.  It's hard sometimes, drinking alone.</Source>
+      <Dest>你进到一个酒馆儿的时候，他们有板凳和桌子。我老是挑板凳。独酌有时候真的是很艰难的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Especially when so many are in the company of friends.  I used to hate the way they laughed. Jaree-Ra noticed too.  Said they barked like hounds.</Source>
+      <Dest>特别是当看到大部分人都有朋友陪伴的时候。我曾经挺讨厌他们大笑时的样子的。加雷-拉也注意到了这点，他说他们吠起来就像猎犬一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how we met.  Suddenly I was the one sitting at the tables.  Drinking in a good cheer.  Laughing. </Source>
+      <Dest>我们就是这么认识的。出乎意料地，我坐在桌子边上，喝酒吃菜，大笑起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out I laugh like a mammoth grunts.  It's funny, but even now I look back on those times fondly.</Source>
+      <Dest>事实证明我笑起来像一个长毛象打呼噜。这很有趣，但即使是现在，我也喜欢回顾那段日子。</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I might've been a fool, but I don't see how I had any other choice.  Not in a tavern.  I needed to come here, but how could I have known that?</Source>
+      <Dest>我可能显得很傻，但是我只能这么做。不是在酒馆里。也许我应该到这来，但是我不知道！</Dest>
+    </String>
+    <String List="0">
+      <Source>I agree.  It was a heinous thing to take advantage of your weakness.</Source>
+      <Dest>我同意。抓住你的软肋这种做法真是太卑鄙了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would have never guessed that an old Khajiit lighthouse keeper would become my best friend.</Source>
+      <Dest>我从没有想到一个看守灯塔的老虎人会成为我最好的朋友.</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the keepers assigned?</Source>
+      <Dest>那些守卫是怎么分派的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Usually one of the Jarl's Thanes has one of his attendants get a recommendation.  Naturally, the previous keeper's input carries a lot of weight.</Source>
+      <Dest>一般做法是，领主的男爵通过举荐的形式来任命他的随从。因而，来自于前一任雇主的评价就非常重要了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the keepers assigned?</Source>
+      <Dest>那些守卫是怎么分派的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Once the names are recommended, the captain of the guard checks the candidates for potential criminal history.</Source>
+      <Dest>一旦被推荐，守卫队长就会检查候选人是否有潜在的犯罪史。</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the keepers assigned?</Source>
+      <Dest>那些守卫是怎么分派的？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what worries me most.  I've never been officially accused of a crime, but Jaree-Ra's reputation could come back to haunt me.</Source>
+      <Dest>这是让我最担心的。我从来没有被正式指控犯罪过，但加雷-拉的名声非得让我不得安生。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except most crowds are too busy talking about me to stare at you.</Source>
+      <Dest>除大部分人都忙着讨论我盯着你看的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you some sort of hero?  Wow.  I never would have thought someone like you would take an interest in me.</Source>
+      <Dest>你是个英雄人物吗？哇噻，想不到我能有幸受到您的关注。</Dest>
+    </String>
+    <String List="0">
+      <Source>I understand. Occasionally I forget there are people who shouldn't be killed.</Source>
+      <Dest>我理解。有时候我会忘记有些人不该杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope I'm not one of them.  I may not be a hero, or a priest, by I don't want to die.</Source>
+      <Dest>我希望我不是他们中的一员。我可能不会成为什么英雄好汉，因为我才不想英年早逝呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll get the hang of it.  You're talking to me right now.</Source>
+      <Dest>你会得到窍门的。你正在和我说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and Ma'zaka is here too, although with him mostly I just listen.</Source>
+      <Dest>是的，而且马扎卡也在这里，尽管和他在一起的时候我大多只是听他说话。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll get the hang of it.  You're talking to me right now.</Source>
+      <Dest>你会得到窍门的。你正在和我说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you.  With Ma'zaka gone, it's so lonely here.</Source>
+      <Dest>谢谢你。马扎卡走了，稍微有点寂寞。</Dest>
+    </String>
+    <String List="0">
+      <Source>Someone like you doesn't deserve to be the keeper of the flame.</Source>
+      <Dest>你这样的人不配做火焰的看守者。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's fine...I don't have to be the keeper.  Just please, don't tell the guard I'm staying here.  I don't want Ma'zaka to get into trouble.</Source>
+      <Dest>好吧……我并不是非要成为看守者……求求你，别去告诉守卫我还在这儿。我可不想给马扎卡惹麻烦。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I would kill you now, but you aren't worth staining my boots.</Source>
+      <Dest>可怜虫，我真想现在杀了你，又不值得弄脏我的靴子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please, I know I'm a terrible person.  Worse than dirt.  I never meant to lead a wicked life.</Source>
+      <Dest>拜托了！我知道我是一个烂人，连烂泥都不如。但我从没想过要做恶人啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I would kill you now, but you aren't worth staining my boots.</Source>
+      <Dest>可怜虫，我真想现在杀了你，又不值得弄脏我的靴子。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you'll spare me, I promise, I'm doing my best to change.  Just ask Ma'zaka.</Source>
+      <Dest>但是如果你能饶了我，我保证，我会尽我所能来有所改变。不信去问马扎卡。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I would kill you now, but you aren't worth staining my boots.</Source>
+      <Dest>可怜虫，我真想现在杀了你，又不值得弄脏我的靴子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please, I know I'm a terrible person. Worse than dirt.  I never meant to lead a wicked life.</Source>
+      <Dest>拜托了！我知道我是一个烂人，连烂泥都不如。但我从没想过要做恶人啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I would kill you now, but you aren't worth staining my boots.</Source>
+      <Dest>可怜虫，我真想现在杀了你，又不值得弄脏我的靴子。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if you'll spare me, I promise, I'm doing my best to change. Before he died, Ma'zaka showed me how to tend the lighthouse. </Source>
+      <Dest>但如果你放了我，我发誓，我会尽我全力变得更好。在马扎卡死前，他曾教过我该如何照管灯塔。 </Dest>
+    </String>
+    <String List="0">
+      <Source>You're pathetic. I would kill you now, but you aren't worth staining my boots.</Source>
+      <Dest>可怜虫，我真想现在杀了你，又不值得弄脏我的靴子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I live an honest life now, I swear on the Divines!</Source>
+      <Dest>我以圣灵的名义起誓，现在我已经不做伤天害理的事了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra used you.  Some people do that.</Source>
+      <Dest>加雷·拉利用了你，其他人也是。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know that now. I was such a fool.  He never wanted my friendship. I was just some tool he used to steal coin. Never even gave me a proper cut.</Source>
+      <Dest>现在我知道了。我真是个傻瓜。他从来没有把我当朋友，我只是他用来偷盗钱财的工具而已。他甚至从来没有让我穿过一件体面的衣服。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra used you.  Some people do that.</Source>
+      <Dest>加雷·拉利用了你，其他人也是。</Dest>
+    </String>
+    <String List="2">
+      <Source>He knew I wouldn't care.  Toward the end, he didn't even bother with reasons.  All he'd do is raise another toast.</Source>
+      <Dest>He knew I wouldn't care.  Toward the end, he didn't even bother with reasons.  All he'd do is raise another toast.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll pay for what you've done, boy.  Whatever that is.</Source>
+      <Dest>无论你做了什么，你都将为你所作所为付出代价，少年。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You mean...you aren't with Jaree-Ra? (Gasps) By the Divines, when you said I'd pay...my heart almost stopped.</Source>
+      <Dest>你是说……你没和加雷-拉在一起？（喘气）圣灵在上，你说要我付出代价的时候……我的心跳都快停了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Also worm food.</Source>
+      <Dest>也是温暖的食物。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Then...then it's over.  I'm free!</Source>
+      <Dest>然后……然后就结束了。我自由了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy, young man. What's the problem?</Source>
+      <Dest>放松点，年轻人。出了什么事?</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait...so you aren't here to kill me? Oh thank the Divines!</Source>
+      <Dest>Wait...so you aren't here to kill me? Oh thank the Divines!</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the plan?</Source>
+      <Dest>那个计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The plan was to extinguish the flame at the lighthouse, so that the ships would lose sight of the docks and crash.</Source>
+      <Dest>这个计划是熄灭灯塔上的火焰，使船寻觅不到码头所在，继而撞毁沉没。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the plan?</Source>
+      <Dest>那个计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't want to do it.  Stealing is one thing, but killing a man...but Jaree-Ra assured me no one would die.</Source>
+      <Dest>我不想那么做。偷抢尸一回事，而杀人却……但是加雷-拉向我保证过没人会丧命。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the plan?</Source>
+      <Dest>那个计划是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He said they'd thank us for rescuing them. And I believed him. </Source>
+      <Dest>他说他们会感谢我们的救命之恩。而我相信了他。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Jaree-Ra recruit you?</Source>
+      <Dest>加雷·拉是怎么招募你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was at the Skeever, when Jaree-Ra came by with his Marauder friends.  The ones that make me nervous.  </Source>
+      <Dest>当加雷-拉 和他的掠夺者朋友来的时候，我在雪鼠那里。那些家伙搞得我有点儿紧张。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Jaree-Ra recruit you?</Source>
+      <Dest>加雷·拉是怎么招募你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>But Jaree-Ra put his arm around my shoulder and mussed my hair with those coarse fingers of his.  That always put me at ease.</Source>
+      <Dest>但加雷-拉搂住了我，用他粗糙的手指拨乱了我的头发，这样让我很舒服。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did Jaree-Ra recruit you?</Source>
+      <Dest>加雷·拉是怎么招募你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then he tells me about this new plan of his.  He says he needs me.  That nobody can do it but me. </Source>
+      <Dest>然后他向我讲述了他的这个新计划。他说他需要我，因为只有我才能完成它。 </Dest>
+    </String>
+    <String List="0">
+      <Source>How did Jaree-Ra recruit you?</Source>
+      <Dest>加雷·拉是怎么招募你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I think one of his gang snickered.  But Jaree-Ra told him to shut his mouth, and that made me feel good.</Source>
+      <Dest>我想他的一个同伙在窃笑。但加雷-拉要他闭嘴，这让我感觉不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that simple.  I never had many friends growing up.  People who genuinely cared about me.  </Source>
+      <Dest>这种事不是那么简单。我从小就没什么朋友。没有人真正关心我。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>When you go to a tavern, they have stools and tables.  I always opted for the stool.  It's hard sometimes, drinking alone.</Source>
+      <Dest>你进到一个酒馆儿的时候，他们有板凳和桌子。我老是挑板凳。独酌有时候真的是很艰难的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>Especially when so many are in the company of friends.  I used to hate the way they laughed. Jaree-Ra noticed too.  Said they barked like hounds.</Source>
+      <Dest>特别是当看到大部分人都有朋友陪伴的时候。我曾经挺讨厌他们大笑时的样子的。加雷-拉也注意到了这点，他说他们吠起来就像猎犬一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's how we met.  Suddenly I was the one sitting at the tables.  Drinking in good cheer.  Laughing.</Source>
+      <Dest>我们就是这么认识的。出乎意料地，我坐在桌子边上，喝酒吃菜，大笑起来。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>It turns out I laugh like a mammoth grunts.  It's funny, but even now I look back on those times fondly.</Source>
+      <Dest>事实证明我笑起来像一个长毛象打呼噜。这很有趣，但即使是现在，我也喜欢回顾那段日子。</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I might've been a fool, but I don't see how I had any other choice.  Not in a tavern.  I needed to come here, but how could I have known that?</Source>
+      <Dest>我可能显得很傻，但是我只能这么做。不是在酒馆里。也许我应该到这来，但是我不知道！</Dest>
+    </String>
+    <String List="0">
+      <Source>The manipulated aren't necessarily victims.  At some point you have to be smart.</Source>
+      <Dest>就算被操纵也未必都是牺牲品。在某些关键时候你还是得有脑子。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would have never guessed that an old Khajiit lighthouse keeper would become my best friend.</Source>
+      <Dest>我从没有想到一个看守灯塔的老虎人会成为我最好的朋友.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I don't think you should feel guilty.  Stealing is fun.</Source>
+      <Dest>我觉得你不必怀有任何罪恶感，偷窃可是件好玩的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>It wasn't for me.  I didn't do it for the rush, or for the coin.  I did it because I thought Jaree-Ra was my friend.</Source>
+      <Dest>这不是为了我自己。我不是一时冲动，也不是为了钱。我这么做是因为我觉得加雷-拉是我的朋友。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, I don't think you should feel guilty.  Stealing is fun.</Source>
+      <Dest>我觉得你不必怀有任何罪恶感，偷窃可是件好玩的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>He manipulated me.  Fooled me.  If there's a reason I shouldn't feel guilty, it's because I'm the victim.</Source>
+      <Dest>他操纵我，愚弄我。我觉得问心无愧是因为我才是受害者。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll make a fine keeper.  Just remember who your friends are.</Source>
+      <Dest>你会成为一个好店主的，要记得你的朋友们啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thank you for your kind words.  May the Divines keep the flame of righteousness alive in both our hearts.</Source>
+      <Dest>谢谢你的吉言。愿圣灵保佑我们心中永燃正义之火。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you help tend to the Lighthouse now?</Source>
+      <Dest>你现在帮忙注意哪里有灯塔吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not officially, but I assist Ma'zaka any way I can, in exchange for room and board.</Source>
+      <Dest>还没正式决定，但我尽我所能的协助马扎卡，以此换取食宿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you help tend to the Lighthouse now?</Source>
+      <Dest>你现在帮忙注意哪里有灯塔吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>If he were to pass on, perhaps he might recommend me for the job.  Or maybe I could tend to the lighthouse in Dawnstar.</Source>
+      <Dest>如果他去世了，也许他会推荐我去做这份工作的。或许我更偏重于去晨星城灯塔。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you help tend to the Lighthouse now?</Source>
+      <Dest>你现在帮忙注意哪里有灯塔吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if I've earned the right to be the keeper here.  There's still so much I need to atone for.</Source>
+      <Dest>不知我是否已然得到了成为这里看守者的权利，我所要偿还的还是太多太多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ever the coward, still blaming others instead of owning up to your part.</Source>
+      <Dest>这个胆小鬼，不承认自己的错误，还去指责别人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not cowardice.  I told you, Jaree-Ra manipulated me.  Ma'zaka said I'm a good man.  And I never wanted to hurt anyone.  </Source>
+      <Dest>这不是懦弱。我跟你说，是加雷-拉控制了我。马扎卡说我是个好人。我从来没想过要伤害任何人。  </Dest>
+    </String>
+    <String List="0">
+      <Source>You're obviously guilty of something.</Source>
+      <Dest>很明显你不是无辜的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please, just here me out, it's not what you think.  I haven't done anything wrong.</Source>
+      <Dest>哦拜托了，听我把话说完，不是你想的那样。我没做错什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Who...who are you?  By the Divines, you're here for me, aren't you.  I swear I tried, I was going to do it!  Please, don't hurt me!</Source>
+      <Dest>你……你是谁？圣灵在上，你在这儿等着我，是不是。我发誓我试过了，我会去做的！别伤害我，拜托了！</Dest>
+    </String>
+    <String List="0">
+      <Source>Ever feel guilty for your crimes?</Source>
+      <Dest>曾经为你的罪行感到内疚吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>I do.  I'm not proud of the things I did.  But it's Jaree-Ra's fault.  He used me.  I would've never been in that situation if it weren't for him.</Source>
+      <Dest>我承认。我并不为我所做的一切令人自豪，但是这是加雷-拉的错，他利用了我。要不是因为他我本打算再也不要卷入这浑水之中。</Dest>
+    </String>
+    <String List="0">
+      <Source>They say mortals are slaves to habit.</Source>
+      <Dest>他们说人类已经习惯成为奴隶了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know that all too well.  And part of me worries that I'll go back to my old ones.  But Ma'zaka keeps me strong.</Source>
+      <Dest>我知道得太清楚了。我担心我会变回原来的我。但马扎卡使我坚强。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's what made you do it. You didn't want a circlet. You wanted a friend.</Source>
+      <Dest>那就是你这样做的原因。你不是想要一个戒指。你就是想要一个朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma'zaka said the same thing.  Looking back, you're both right.  I hated stealing.</Source>
+      <Dest>马扎卡也这么说。回想起来，你都是对的。我讨厌偷东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's what made you do it. You didn't want a circlet. You wanted a friend.</Source>
+      <Dest>那就是你这样做的原因。你不是想要一个戒指。你就是想要一个朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>But when Jaree-Ra gave his toast, everyone would smile and salute me.  It was the camaraderie that I wanted.  The feeling that I belonged.</Source>
+      <Dest>而当加雷-拉举杯祝酒时，每个人都朝我微笑致意。我需要的就是这样的同志感情，这种有所归属的感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>It' s peaceful.  I don't yearn for company like I used to, nor am I afraid of being alone.</Source>
+      <Dest>It' s peaceful.  I don't yearn for company like I used to, nor am I afraid of being alone.</Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Although sometimes when I head up to the docks for supplies, I get a little anxious.</Source>
+      <Dest>虽然有时去码头买补给品时，我会有点紧张。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's like learning to ride a horse again.  Pretty much every young boy is taught how to ride a horse and nock an arrow.</Source>
+      <Dest>就跟再学一次骑马一个样儿。几乎每个年轻男孩儿都会被教导如何骑马射箭。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>But not all of us can be soldiers.  Or rich enough to buy a horse.  So you kind of forget how.</Source>
+      <Dest>但不是我们每个人都能成为一名士兵，或是有钱买一匹马的。所以你尽管忘了该怎么来吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's what it feels like being around crowds.  Like everyone's staring at me.  </Source>
+      <Dest>这感觉就像置身于人群当中，就像每个人都盯着我一样。 </Dest>
+    </String>
+    <String List="0">
+      <Source>How's life at the lighthouse?</Source>
+      <Dest>灯塔里的生活怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>And when people say hello, I sometimes lose the words.  Can you imagine? Forgetting something so simple as a greeting.</Source>
+      <Dest>当有人向我打招呼，有时我会突然忘记怎么回答他，你能想象吗？忘记一件简单的就像问候的事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't be so hard on yourself.  I fell for the same trick.</Source>
+      <Dest>别太苛责自己啦，我也栽在这上头过</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?  That makes me feel a little better.  I hope you didn't go through with it.</Source>
+      <Dest>真的吗？这让我好过些。我真希望你没有经历过这些。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't be so hard on yourself.  I fell for the same trick.</Source>
+      <Dest>别太苛责自己啦，我也栽在这上头过</Dest>
+    </String>
+    <String List="2">
+      <Source>But...but if you did I won't say a word.  I swear.  After all, I almost did the same.</Source>
+      <Dest>但是...如果你真的这么做了，我发誓什么都不会说。不管怎样，我也几乎做了同样的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, Jaree-Ra found someone else.  Someone who isn't a total coward.</Source>
+      <Dest>别担心，加雷·拉找到另一个人了。一个大概不会那么没用的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you're that determined, I can't stop you.  But please, I implore you, to think on what you're about to do.</Source>
+      <Dest>如果你下定了决心，那我就无法阻止你了。但是，算我求你了，请再考虑一下你做了以后的后果吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Don't worry, Jaree-Ra found someone else.  Someone who isn't a total coward.</Source>
+      <Dest>别担心，加雷·拉找到另一个人了。一个大概不会那么没用的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know, I was about to make the same mistake. </Source>
+      <Dest>我知道，我差点就犯了同样的错误。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra sounds like bad news.</Source>
+      <Dest>加雷·拉听起来像坏消息。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then my suggestion is to stay away from him. After I failed him, someone fearless like you may be exactly who he's looking for.</Source>
+      <Dest>我的建议是离他远点。我失败之后，像你这么无畏的人可能正对他的胃口。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra?  He's dead.  I killed him.</Source>
+      <Dest>加雷·拉?他死了。我杀了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>You...what?  And Deeja?</Source>
+      <Dest>你....什么？迪彻呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Jaree-Ra sent me here.  He wanted me to extinguish the fire in the lighthouse.  I don't know why I said yes.</Source>
+      <Dest>加雷-拉让我到这儿来，要我把灯塔的火给灭掉。我稀里糊涂地就答应了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>We used to be friends.  At least I thought so.  Then he started having me do things.  Things I regretted later.</Source>
+      <Dest>我们曾是朋友，至少我自以为我们是朋友。但后来他开始要我做些事，要我做那些不久之后就让我后悔不已的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of things did Jaree-Ra have you do?</Source>
+      <Dest>加雷·拉让你做什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>It started out with just stealing.  I would walk into store and Jaree-Ra would distract the shopkeep, and I'd stuff anything I could into my tunic.  </Source>
+      <Dest>最开始只是偷窃。我走进商店，加雷-拉分散店主的注意力，然后我把所有偷到的东西都塞进外套里。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of things did Jaree-Ra have you do?</Source>
+      <Dest>加雷·拉让你做什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I still remember that first time.  I was so scared.  We were in Radiant Raiment, and Jaree-Ra was trying on clothes a Jarl couldn't afford.</Source>
+      <Dest>我仍记得那一次。我们在锦衣，然后加雷-拉想要去试一件连领主都买不起的衣服。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of things did Jaree-Ra have you do?</Source>
+      <Dest>加雷·拉让你做什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>There was a circlet on the counter. Gold and emerald. Endarie never even noticed when I switched it with the copper one I was wearing.</Source>
+      <Dest>柜台上摆放着一个绿宝石金饰头环。我把它换成我自己戴的铜制山寨货，而恩达蕊根本没注意到。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of things did Jaree-Ra have you do?</Source>
+      <Dest>加雷·拉让你做什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>I felt horrible afterward. But Jaree-Ra always found a way to make it seem okay. Those haughty knife-ears got what they deserved, he said.</Source>
+      <Dest>我有些后怕，但加雷-拉总能找到办法让一切看上去毫无问题。他说，那些傲慢的尖耳朵（精灵）完全是自作自受。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened.</Source>
+      <Dest>告诉我发生什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of things did Jaree-Ra have you do?</Source>
+      <Dest>加雷·拉让你做什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>And when we went drinking at the inn to celebrate, Jaree-Ra would pat me on the back and give a toast in my honor.</Source>
+      <Dest>And when we went drinking at the inn to celebrate, Jaree-Ra would pat me on the back and give a toast in my honor.</Dest>
+    </String>
+    <String List="0">
+      <Source>I myself like to blame others for my crimes.  It's rather convenient.</Source>
+      <Dest>我个人习惯于将自己罪行怪罪到他人身上，这样省事多了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't mean it that way.  I'm the victim here. Jaree-Ra is the one who took advantage of me.</Source>
+      <Dest>我不是那个意思，我就是个受害者。加雷-拉才是利用我的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra was right.  Stealing's not a crime when the target deserves it.</Source>
+      <Dest>加雷·拉是对的。偷该偷之人的钱财不算犯罪。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ma'zaka said that wasn't the point.  He said it doesn't matter if Jaree-Ra was right, because his intent was wrong.</Source>
+      <Dest>马扎卡说那无所谓。他说就算加雷-拉那套理论是对的也无所谓，因为他的出发点是错的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jaree-Ra was right.  Stealing's not a crime when the target deserves it.</Source>
+      <Dest>加雷·拉是对的。偷该偷之人的钱财不算犯罪。</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought he wanted to comfort me.  But all he really wanted was to deceive me.</Source>
+      <Dest>我以为他想安慰我。但其实他是想骗我。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've been asked to do the same, but I don't exactly trust Jaree-Ra's intentions.</Source>
+      <Dest>我也被告知要我做同样的事。但我其实并不确信扎里拉的意图。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please, I implore you, reconsider!  I should know, I almost made the same mistake. </Source>
+      <Dest>拜托！求求你，再考虑考虑啊！我应该知道的，我曾经差点犯下一模一样的错误。</Dest>
+    </String>
+    <String List="0">
+      <Source>I was duped by Jaree-Ra as well.  But I'm the sort who does something about it.</Source>
+      <Dest>我也被加雷·拉忽悠了，但不同的是：我不会善罢甘休。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then the Divines have blessed you with courage.  Not all of us are so lucky.  But I'm glad they've given me their mercy instead.</Source>
+      <Dest>圣灵会赐予你勇气。不是所有人都如此幸运。但我很高兴他们最终用仁慈包容了我。</Dest>
+    </String>
+    <String List="0">
+      <Source>The more you talk about Jaree-Ra, the more I want to befriend him.</Source>
+      <Dest>你说扎里拉的事越多，我就越想和他交朋友。</Dest>
+    </String>
+    <String List="2">
+      <Source>You may like him now, but he'll use you and then toss you away like an old boot.  There are better to people to befriend.  People like Ma'Zaka.</Source>
+      <Dest>你也许现在喜欢他，但他会狠狠利用完你再把你像个旧鞋子一般的丢掉。想交朋友的话这里有更好的人选。马扎卡的为人就不错。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what are you waiting for?  Do whatever it is you're supposed to do.</Source>
+      <Dest>那你还等什么呢？干你该干的事儿去！</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait...so...you don't know who I am?  Oh by the Nine Divines, what a relief!</Source>
+      <Dest>等等……所以……你不知道我是谁？哦九圣灵在上，真让我松了口气儿！</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the significance of the Shadow sign?</Source>
+      <Dest>暗影标记有什么意义？</Dest>
+    </String>
+    <String List="2">
+      <Source>He said as a Khajiit born under the shadow, many told him his destiny was to be a brigand, or a thief.</Source>
+      <Dest>他说作为生于阴影中的虎人，很多人都说他命中注定会成为一个夜匪，或是窃贼。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the significance of the Shadow sign?</Source>
+      <Dest>暗影标记有什么意义？</Dest>
+    </String>
+    <String List="2">
+      <Source>He told me how he spent his life as a pirate, and still misses the clash of sabres, and the ocean smell tickling his whiskers.</Source>
+      <Dest>他告诉了我他的海盗生涯，而且依然怀念短剑的摩擦声，海洋的味道依然挑逗着他的胡须。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the significance of the Shadow sign?</Source>
+      <Dest>暗影标记有什么意义？</Dest>
+    </String>
+    <String List="2">
+      <Source>But in the end, he preferred the quiet life. And it wasn't until he reached an old age that he learned we make our own destiny.</Source>
+      <Dest>但是最后，他还是选择回归平静的生活。当他步入暮年，他才终于意识到，自己的命运还是由自己来左右的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the significance of the Shadow sign?</Source>
+      <Dest>暗影标记有什么意义？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then he invited me downstairs for tea. And I've been with him ever since.</Source>
+      <Dest>然后他邀请我去楼下喝茶。从那以后我一直跟他在一起。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why didn't you extinguish the lighthouse flame? What changed?</Source>
+      <Dest>你为什么不把灯塔的火灭掉？发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was standing before the fire, holding a tankard of water when Ma'zaka came up behind me.  When I saw him, my face flushed with blood, and I froze.</Source>
+      <Dest>当马扎卡出现在我身后时，我正端着一杯水，站在壁炉前。当我看到他时，就止不住的血气上涌，浑身冰凉。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why didn't you extinguish the lighthouse flame? What changed?</Source>
+      <Dest>你为什么不把灯塔的火灭掉？发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought he was going to attack me, or have me arrested.  But you know what he said?  "The weather is nice today, is it not?"</Source>
+      <Dest>我以为他得攻击我，或有我要被捕了。但你知道他说什么了吗？”今天天气真好，不是吗？”</Dest>
+    </String>
+    <String List="0">
+      <Source>Why didn't you extinguish the lighthouse flame? What changed?</Source>
+      <Dest>你为什么不把灯塔的火灭掉？发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was Deeja again?</Source>
+      <Dest>谁又是蒂亚?</Dest>
+    </String>
+    <String List="2">
+      <Source>His sister. No...if she's still alive...you can't tell anyone you saw me here, please!</Source>
+      <Dest>His sister. No...if she's still alive...you can't tell anyone you saw me here, please!</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>很高兴见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>贵安。</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

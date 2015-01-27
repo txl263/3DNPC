@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How ironic they come to you to comfort their fears.</Source>
+      <Dest>多明显呐，他们来找你是为了解除自己的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) Yes it would be ironic, if their fears were actually had to do with being afraid.</Source>
+      <Dest>(笑声)没错，那确实出乎意料，如果他们的恐惧真得跟害怕有关的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>How ironic they come to you to comfort their fears.</Source>
+      <Dest>多明显呐，他们来找你是为了解除自己的恐惧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's more like they're afraid the battle won't come, and are sort of impatiently demanding my head for not bringing it sooner.</Source>
+      <Dest>这更像是他们害怕战斗不会到来，然后才有点不耐烦的要求我别把战斗带来的那么快。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos himself said there is no need to coddle weaklings.  I agree.</Source>
+      <Dest>纳洛斯自己说不需要同情懦夫。我同意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh.  Right.  I'd say the master allows for weakness, so long as your association with the guild is based on strength.</Source>
+      <Dest>哦好吧。我得说主人也能容忍弱者，只要你能够以公会作为后盾提供强大帮助就可以了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos himself said there is no need to coddle weaklings.  I agree.</Source>
+      <Dest>纳洛斯自己说不需要同情懦夫。我同意。</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't wield a sword or cast a spell, but I provide research and insight.  But I misspoke in a sense, the acolytes aren't scared of battle.</Source>
+      <Dest>我不会挥剑也不能释放魔法，但我能做调查研究，我能提供见解。 某种意义上我说错了，助手是不会在战斗面前打怵的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos himself said there is no need to coddle weaklings.  I agree.</Source>
+      <Dest>纳洛斯自己说不需要同情懦夫。我同意。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would say they're more scared that a battle won't come.  That's the fear I try to allay.</Source>
+      <Dest>我得说他们更害怕战争不会降临。这就是我试图缓轻的恐惧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except it actually isn't.  Preordained.</Source>
+      <Dest>除非注定的确实不是那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh.  I understand.  You're a doubter.  Hmm...well, I'll tell you what I tell the rest.</Source>
+      <Dest>哦，我懂了。你是个怀疑论者。嗯……好吧，我会把已经告诉给别人的东西全都告诉你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except it actually isn't.  Preordained.</Source>
+      <Dest>除非注定的确实不是那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think of a prophecy as a jigsaw puzzle, and every day is a puzzle piece.</Source>
+      <Dest>把预言想成一个拼图游戏吧，每一天都是一块儿拼图。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except it actually isn't.  Preordained.</Source>
+      <Dest>除非注定的确实不是那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if the pieces form a different picture than the one in the prophecy, you'd know right away.</Source>
+      <Dest>现在，就算有不属于这个传说的其他碎片混进来，你一眼就看得出来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Except it actually isn't.  Preordained.</Source>
+      <Dest>除非注定的确实不是那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>But so far, everything Master Nelos has achieved has gone according to the form.</Source>
+      <Dest>但到现在为止，纳洛斯主人所得到的一切都因这结构随风而逝。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem different than the other members of the Radiant Dark.</Source>
+      <Dest>感觉你跟黑暗光辉的其他成员有些不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't really consider myself a member.  I'm not a mage, after all.</Source>
+      <Dest>哦，我并不认为我是你们的一员。毕竟我是个法师。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem different than the other members of the Radiant Dark.</Source>
+      <Dest>感觉你跟黑暗光辉的其他成员有些不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm a scholar. I study the texts and provide counsel to any of the acolytes who may have some trepidation about the war ahead.</Source>
+      <Dest>我是名学者。我研究这些文献，并且向每个对这场战争走势有些许不安的新手们提供些建议。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem different than the other members of the Radiant Dark.</Source>
+      <Dest>感觉你跟黑暗光辉的其他成员有些不同。</Dest>
+    </String>
+    <String List="2">
+      <Source>I try to assuage any fears that what they're doing here isn't all preordained.</Source>
+      <Dest>我尝试着去告诉自己他们在这儿所做的一切并不是注定的，并借此平息恐惧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me how you met Nelos.</Source>
+      <Dest>告诉我你怎么见到纳洛斯的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I was working as an archivist at the Arcane University when Nelos first approached me.</Source>
+      <Dest>当纳洛斯最开始接近我的时候，我在奥术大学当着个档案保管员。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me how you met Nelos.</Source>
+      <Dest>告诉我你怎么见到纳洛斯的。</Dest>
+    </String>
+    <String List="2">
+      <Source>He wanted to know if there were any texts on cross-cultural prophecies.  Specifically, the one of the Long Night.</Source>
+      <Dest>He wanted to know if there were any texts on cross-cultural prophecies.  Specifically, the one of the Long Night.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me how you met Nelos.</Source>
+      <Dest>告诉我你怎么见到纳洛斯的。</Dest>
+    </String>
+    <String List="2">
+      <Source>As it so happens, I told him, there was one book that compiled all of the history regarding the prophecy.</Source>
+      <Dest>事情就是那样，我告诉过他了，只有一本书上罗列了关于那则语言的所有历史。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me how you met Nelos.</Source>
+      <Dest>告诉我你怎么见到纳洛斯的。</Dest>
+    </String>
+    <String List="2">
+      <Source>It was replete with information, history, and analysis.  In short, it sought to determine whether the prophecy itself had any basis in reality.</Source>
+      <Dest>那本书里囊括了资料，历史以及分析。一言以蔽之，它以现实为基础试图预测出未来的走向。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me how you met Nelos.</Source>
+      <Dest>告诉我你怎么见到纳洛斯的。</Dest>
+    </String>
+    <String List="2">
+      <Source>He asked me if he could see the book.  I told him he could, as soon as I was finished writing it.</Source>
+      <Dest>他问我他能不能看看这本书。我说行，不过等我写完再说。</Dest>
+    </String>
+    <String List="0">
+      <Source>When will the rest of my spells be ready?</Source>
+      <Dest>我下面的法术什么时候准备好？</Dest>
+    </String>
+    <String List="2">
+      <Source>My apologies, Guildmaster.  The acolytes inform me the question is not "when" but "if."  Master Meronin chose the spells she did for a reason.</Source>
+      <Dest>我很抱歉，会长。助手告诉我，问题不在 "时间" 而在"可能 " 。马荣尼大师选择这个魔法有她该这么做的原因。</Dest>
+    </String>
+    <String List="0">
+      <Source>When will the rest of my spells be ready?</Source>
+      <Dest>我下面的法术什么时候准备好？</Dest>
+    </String>
+    <String List="2">
+      <Source>Those were the ones based on efficiency.  We're still in the process of recruiting new researchers, let alone doing the research.</Source>
+      <Dest>那些事情得有效率的完成。我们现在仍处于寻找新的弓箭手这个阶段，这些弓箭手都必须能够独自进行调查任务。</Dest>
+    </String>
+    <String List="0">
+      <Source>When will the rest of my spells be ready?</Source>
+      <Dest>我下面的法术什么时候准备好？</Dest>
+    </String>
+    <String List="2">
+      <Source>You see, Nelos was quite popular amongst some the other chapters.  He not only founded the guild, he unified its members.</Source>
+      <Dest>要知道，纳洛斯曾经一度是这里的大人物。他不仅建立了公会，还统一了它的成员们。</Dest>
+    </String>
+    <String List="0">
+      <Source>When will the rest of my spells be ready?</Source>
+      <Dest>我下面的法术什么时候准备好？</Dest>
+    </String>
+    <String List="2">
+      <Source>If he had died in battle, it would be one thing, but some still feel you haven't earned your title.   Not I, of course.</Source>
+      <Dest>如果他在战斗中死了，那是一回事，但有些人仍然认为你所做的不足以赚到你的头衔。当然我不是这么想的。</Dest>
+    </String>
+    <String List="0">
+      <Source>When will the rest of my spells be ready?</Source>
+      <Dest>我下面的法术什么时候准备好？</Dest>
+    </String>
+    <String List="2">
+      <Source>But rest assured, as a scholar, I know you've earned it by the one measure that counts.  You earned Master Nelos' respect.</Source>
+      <Dest>但是放心，作为一名学者我知道你已经经过测量得到那个读数了。你赢得了纳洛斯大师的尊重。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was rather illuminating.  Apparently Nelos is completely mad.</Source>
+      <Dest>它是相当的明亮。 显然纳洛斯完全疯了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mad?  What do you mean?  Oh...I get it, you're making a joke.  (Laughs) Good one.</Source>
+      <Dest>疯了？你是什么意思？噢...我知道了，你是在开玩笑。(笑声) 好的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was rather illuminating.  Apparently Nelos is completely mad.</Source>
+      <Dest>它是相当的明亮。 显然纳洛斯完全疯了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It speaks to his leadership that even his subordinates feel comfortable enough to mock him.  Although I never would.  He's too great of an Elf.</Source>
+      <Dest>It speaks to his leadership that even his subordinates feel comfortable enough to mock him.  Although I never would.  He's too great of an Elf.</Dest>
+    </String>
+    <String List="0">
+      <Source>It was rather illuminating.  Apparently Nelos is completely mad.</Source>
+      <Dest>它是相当的明亮。 显然纳洛斯完全疯了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Vinnius.  I'm sort of the scholar around here.  I can answer any questions you have regarding the long night.</Source>
+      <Dest>我叫维尼乌斯。我在这里算是个学者了。我可以回答你任何有关于长夜的任何问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter.  I lead you fools now.</Source>
+      <Dest>不要紧。我来带领你们这些傻瓜。</Dest>
+    </String>
+    <String List="2">
+      <Source>You?  But that's impossible...unless, unless the prophecy refers to someone else, someone Nelos was meant to deliver.</Source>
+      <Dest>你？没道理啊……除非…除非这个预言指的是另外什么人，另外的一个纳洛斯指定的人。.</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't matter.  I lead you fools now.</Source>
+      <Dest>不要紧。我来带领你们这些傻瓜。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Divines...the visions he spoke of.  They were of you!</Source>
+      <Dest>我的神呐……他所说的那些幻象。是关于你的！</Dest>
+    </String>
+    <String List="0">
+      <Source>Get lost, fool.</Source>
+      <Dest>滚开，蠢蛋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh.  Well...I'll do that then.  Right away.</Source>
+      <Dest>噢.  好的，我会去做的.立即去.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm a blunt instrument, and to put it bluntly, I don't care about the prophecy.</Source>
+      <Dest>我是个迟钝的人，所以说穿了，我不关心那预言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, to be honest, I actually spend most of my time with members like yourself, who don't care to read my books or decipher the poems.</Source>
+      <Dest>呃，老实说，我确实在像你自己这样对阅读我的书籍或者解析我的诗歌全不关心的成员身上度过了我大部分的时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm a blunt instrument, and to put it bluntly, I don't care about the prophecy.</Source>
+      <Dest>我是个迟钝的人，所以说穿了，我不关心那预言。</Dest>
+    </String>
+    <String List="2">
+      <Source>Think of me as a book you don't have to read.  I can help clear up any misconceptions you have regarding what's to come. </Source>
+      <Dest>想象我是一本书，而你却不必去阅读。 你关于未来的误解我可以为你解释清楚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and I will need your guidance in making that vision come true.</Source>
+      <Dest>是的，而且我需要你的指导，使这幻影成为现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, of course!  I will be happy to, and I'm sure the others will...well except Eldawyn, but you can always bribe her with wine.</Source>
+      <Dest>当然，当然！我会开心地去做，并且我保证其他人也会……额，除了艾德雯，但你总可以用酒来贿赂她。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and I will need your guidance in making that vision come true.</Source>
+      <Dest>是的，而且我需要你的指导，使这幻影成为现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>The first order of business will be developing Vanus' spells.</Source>
+      <Dest>做生意的第一步将会是发展万纳斯的法术。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and I will need your guidance in making that vision come true.</Source>
+      <Dest>是的，而且我需要你的指导，使这幻影成为现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nelos was certain Olivia would bring the tomes with her. Those are yours.  Yet there is still the matter of the other three.</Source>
+      <Dest>纳洛斯很确定奥利维亚会带着那些书一起来。这些是你的。但还有其他三件事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and I will need your guidance in making that vision come true.</Source>
+      <Dest>是的，而且我需要你的指导，使这幻影成为现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>With her gone, it should be easy to retrieve the research.  I will instruct your moles at the College to do so.</Source>
+      <Dest>没有她在的话，要拿回研究资料就容易了。我会指引你在学院的内线去搞定的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, and I will need your guidance in making that vision come true.</Source>
+      <Dest>是的，而且我需要你的指导，使这幻影成为现实。</Dest>
+    </String>
+    <String List="2">
+      <Source>For now, we are all at your command.  Welcome to the Radiant Dark, Guildmaster.</Source>
+      <Dest>眼下我们都听你指挥。欢迎来到黑暗光辉，会长。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, that won't be necessary.</Source>
+      <Dest>不，那不是必须的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh.  Well, if you have time, you can also read one of the books on the Long Night scattered around this place.</Source>
+      <Dest>噢，好的。如果你有时间，你也可以去读一本在长夜时期就散落在这个地方的书。</Dest>
+    </String>
+    <String List="0">
+      <Source>No, that won't be necessary.</Source>
+      <Dest>不，那不是必须的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I actually wrote one of them, if you can believe that.</Source>
+      <Dest>如果你肯相信的话，我其实是其中一部的作者。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it seems to me no one is clear on what the Long Night actually is.</Source>
+      <Dest>对，在我看来似乎没有人清楚“长夜”是什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, in their defense, prophecies are by nature open to interpretation.  We have a lot of acolytes, so we have a lot of different interpretations.</Source>
+      <Dest>呃，要是照他们那么说，对于预言的理解仁者见仁的话。我们有很多的追随者，所以我们要有很多不同的解释。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, it seems to me no one is clear on what the Long Night actually is.</Source>
+      <Dest>对，在我看来似乎没有人清楚“长夜”是什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's my job as a scholar to narrow down what's real and guide Nelos forward.  I can do the same for you, if you wish.</Source>
+      <Dest>作为学者去缩小真正引导纳洛斯前进之物的范围正是我的工作。如果你希望的话，我可以为你做同样的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about some stupid prophecy.  I want Vanus' spells.</Source>
+      <Dest>管你什么愚蠢的预言，我要的是万纳斯的魔法！</Dest>
+    </String>
+    <String List="2">
+      <Source>The spells, yes...she never gave them to you, did she?  They must be on the body.</Source>
+      <Dest>咒语，是啊…她从没有把咒语给过你，不是吗？那些咒语必定是写在身上的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about some stupid prophecy.  I want Vanus' spells.</Source>
+      <Dest>管你什么愚蠢的预言，我要的是万纳斯的魔法！</Dest>
+    </String>
+    <String List="2">
+      <Source>Nelos was certain she would bring them with her. He said she would be conflicted regarding whether to give them to you.</Source>
+      <Dest>纳洛斯毫无疑问会随身带着那些东西。但他说她对于是否要把那些东西交给你这一点有些犹豫。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about some stupid prophecy.  I want Vanus' spells.</Source>
+      <Dest>管你什么愚蠢的预言，我要的是万纳斯的魔法！</Dest>
+    </String>
+    <String List="2">
+      <Source>More importantly, with her gone, it should be easy to retrieve the actual research.  I will instruct your moles at the College to do so.</Source>
+      <Dest>更重要的是，随着她的离开，要重启实质上的研究也容易了起来。我会命令你那些在学院里的伙计们去做那些研究的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about some stupid prophecy.  I want Vanus' spells.</Source>
+      <Dest>管你什么愚蠢的预言，我要的是万纳斯的魔法！</Dest>
+    </String>
+    <String List="2">
+      <Source>I do think you should reconsider your position on the prophecy, but these things have a way of working themselves out.</Source>
+      <Dest>我真心认为你不需要按照语言重新定位你自己，但这些东西自会有结果的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't care about some stupid prophecy.  I want Vanus' spells.</Source>
+      <Dest>管你什么愚蠢的预言，我要的是万纳斯的魔法！</Dest>
+    </String>
+    <String List="2">
+      <Source>For now, we are all at your command.  Welcome to the Radiant Dark, Guildmaster.</Source>
+      <Dest>眼下我们都听你指挥。欢迎来到黑暗光辉，会长。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think I understand it well enough.</Source>
+      <Dest>我想我对它理解得足够了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you sure?  I'm more than happy to clear up any misconceptions you may have.</Source>
+      <Dest>你确定啊？我非常高兴能够解开你的误会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, now I'm just going to kill the lot of you.</Source>
+      <Dest>实际上，我现在只想把你们都给砍了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You...what?  But why?  And...all of us?  I'm...I'm not even a mage! </Source>
+      <Dest>你...什么?  但是为啥?  而且还是。。我们所有人? 但是我连个法师都不是! </Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, now I'm just going to kill the lot of you.</Source>
+      <Dest>实际上，我现在只想把你们都给砍了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't understand.  What could you possibly have to gain?  Unless you simply enjoy killing for killing's sake!</Source>
+      <Dest>我听不懂。你还需要什么？除非你只是单纯喜欢为杀戮而杀！</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, now I'm just going to kill the lot of you.</Source>
+      <Dest>实际上，我现在只想把你们都给砍了。</Dest>
+    </String>
+    <String List="2">
+      <Source>And Vanus' remaining spells!  You wouldn't just abandon an entire network of mages for a few cheap thrills, would you?</Source>
+      <Dest>还有万纳斯的保留法术！你不会为了几个小东西放弃整个法师网络的，对吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, now I'm just going to kill the lot of you.</Source>
+      <Dest>实际上，我现在只想把你们都给砍了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, please think this through Guildmaster.  We are all at your mercy.</Source>
+      <Dest>是的，但请看在公会首领的面子上吧。我们都听你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Explain to me what's fact and what's fiction.</Source>
+      <Dest>好。给我讲下什么是事实，什么是虚构。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I think it's safe to assume any literal interpretation of the "Long Night" is specious at best.</Source>
+      <Dest>好吧，我想任何关于”长夜“的充其量是似是而非的文字性解释的假设是不会引起什么问题的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Explain to me what's fact and what's fiction.</Source>
+      <Dest>好。给我讲下什么是事实，什么是虚构。</Dest>
+    </String>
+    <String List="2">
+      <Source>The Empire wasn't built in a day, let alone a single night. </Source>
+      <Dest>帝国不是一日建成的，更别说一个晚上了。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Explain to me what's fact and what's fiction.</Source>
+      <Dest>好。给我讲下什么是事实，什么是虚构。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if the moons eclipsed the sun and literally caused an endless night, I could see how things could rapidly deteriorate.  </Source>
+      <Dest>现在，如果产生日食，世界将无尽黑暗，我能想象世界坏成什么样。 </Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Explain to me what's fact and what's fiction.</Source>
+      <Dest>好。给我讲下什么是事实，什么是虚构。</Dest>
+    </String>
+    <String List="2">
+      <Source>Crops would fail, people would starve, and likely turn to vampirism.  Of course, in that scenario, we wouldn't need an army.  Just time.</Source>
+      <Dest>作物将会枯萎，人们将会挨饿，然后人们将渴望变成吸血鬼。当然，这种情况下，我们将不再需要军队，仅仅是时间而已。</Dest>
+    </String>
+    <String List="0">
+      <Source>Alright.  Explain to me what's fact and what's fiction.</Source>
+      <Dest>好。给我讲下什么是事实，什么是虚构。</Dest>
+    </String>
+    <String List="2">
+      <Source>My theory is that the long night is a metaphor for war.  A long, extended conquest that eliminates the concept of rulers.</Source>
+      <Dest>我看那所谓的长夜是关于战争的隐喻。  漫长的扩张战争消弱了统治者的影响力.</Dest>
+    </String>
+    <String List="0">
+      <Source>Finally, someone to explain things.  I'm confused.  Help me understand.</Source>
+      <Dest>终于有人出面解释了。我很困惑，帮我理解一下吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, prophecies are by nature open to interpretation.  It can be difficult to sift through all the metaphors and exaggerations.</Source>
+      <Dest>好吧，预言的解释自预言诞生的那时起就是开放的。要分辨出何处是隐喻何处又是夸大陈词还是非常困难的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Finally, someone to explain things.  I'm confused.  Help me understand.</Source>
+      <Dest>终于有人出面解释了。我很困惑，帮我理解一下吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's my job as a scholar to narrow down what's real and guide Nelos forward.  I can do the same for you, if you wish.</Source>
+      <Dest>作为学者去缩小真正引导纳洛斯前进之物的范围正是我的工作。如果你希望的话，我可以为你做同样的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos lied to you all.  The prophecy was a sham.</Source>
+      <Dest>纳洛斯对你们所有人撒了谎！那个预言是假的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that doesn't sound like him at all.  Are you sure that's what he said?</Source>
+      <Dest>这听起来不像是他能说的，你确定这是他说的话吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos lied to you all.  The prophecy was a sham.</Source>
+      <Dest>纳洛斯对你们所有人撒了谎！那个预言是假的！</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) My life's work...all of it...gone, just like that.  Worse than gone, proven to be false.</Source>
+      <Dest>（叹气）我一生的工作……这一切……都结束了，就这样。比一切都结束更糟糕的是，它还被证明是错误的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos lied to you all.  The prophecy was a sham.</Source>
+      <Dest>纳洛斯对你们所有人撒了谎！那个预言是假的！</Dest>
+    </String>
+    <String List="2">
+      <Source>I can never show my face in academic circles again.  Unless...unless by chance you would be willing to work toward its fruition?</Source>
+      <Dest>我不能再在学术界抛头露面了。除非……除非你无意之中愿意帮我把它实现。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was incredibly enlightening.  Thank you.</Source>
+      <Dest>这给了我极大的启发，谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>He's a special one, isn't he?  I felt that way the first time I spoke with him.</Source>
+      <Dest>他很特别，对吧？我第一次跟他说话就有这种感觉。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was incredibly enlightening.  Thank you.</Source>
+      <Dest>这给了我极大的启发，谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>As someone who's studied the prophecy for years, it was a life altering experience.</Source>
+      <Dest>对那些学预言术学了好几年的人来说，那是一种改变生活的经历。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was incredibly enlightening.  Thank you.</Source>
+      <Dest>这给了我极大的启发，谢谢你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, but I haven't introduced myself.  My name is Vinnius.  I'm sort of the scholar around here. I help the acolytes better understand the Long Night.</Source>
+      <Dest>哦，不好意思，忘记自我介绍了。我叫维尼乌斯。是附近的一名学者，负责教授侍僧《长夜》。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's over, but Nelos is dead.</Source>
+      <Dest>结束了，但是纳洛斯死了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Dead?  But, how can this be?  What about the prophecy?</Source>
+      <Dest>死了？但是，怎么会这样？但是预言怎么办？</Dest>
+    </String>
+    <String List="0">
+      <Source>It's none of your business.</Source>
+      <Dest>这不关你的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, uh right.  I was just making small talk.  My name is Vinnius.  I'm sort of the scholar around these parts.</Source>
+      <Dest>哦，嗯。我就随便说说。我叫 维尼乌斯。我是专门研究这方面的。.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's none of your business.</Source>
+      <Dest>这不关你的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can also think of me as kind of a steward, not just of the hall, but of the still unwritten history of the Long Night.</Source>
+      <Dest>你可以把我想象成一个管理着这座礼堂同时也管理着有关于“长夜”的所有未被记录的历史的管理员。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's none of your business.</Source>
+      <Dest>这不关你的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of the acolytes come to me for questions regarding its meaning.  I do my best to answer what I can.</Source>
+      <Dest>许多助手来找我询问这问题的意思。我都尽自己所能的来回答。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was me.  I am the one the prophecy spoke of.</Source>
+      <Dest>是我，我就是那个预言提到的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>You?  You are the one who will bring the Long Night?  Then the mortal Nelos described in his visions...</Source>
+      <Dest>你？你就是那个将带来无尽长夜的人？在纳洛斯的预言幻像中所描述的那个凡人……</Dest>
+    </String>
+    <String List="0">
+      <Source>It was me.  I am the one the prophecy spoke of.</Source>
+      <Dest>是我，我就是那个预言提到的人。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the Divines!  It was you all along, wasn't it?</Source>
+      <Dest>圣灵在上！一直都是你，对不对？</Dest>
+    </String>
+    <String List="0">
+      <Source>It went as expected.</Source>
+      <Dest>事情就像预料的那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good, I hope.  Master Nelos is a wellspring of wisdom.  You would do well to listen to him.</Source>
+      <Dest>好，希望如此。纳洛斯大师简直是智慧的源泉。你应该好好听听他的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>It went as expected.</Source>
+      <Dest>事情就像预料的那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>My name is Vinnius, by the way. You can think of me as the steward, not just of the hall, but of the prophecy of the Long Night.</Source>
+      <Dest>顺便说一句,我的名字叫维尼乌斯。你可以认为我是管家,不仅仅是这座大厅的，更是漫漫长夜的预言的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It went as expected.</Source>
+      <Dest>事情就像预料的那样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many of the acolytes come to me for questions regarding its meaning.  I do my best to answer what I can.</Source>
+      <Dest>许多助手来找我询问这问题的意思。我都尽自己所能的来回答。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it over?  We were instructed to stay clear.  Nelos insisted it would be you and him alone that had the honor.</Source>
+      <Dest>完事儿了吗？我们被命令离远点儿。纳洛斯坚持这样做的话就能有幸跟你独处了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Take your time.  It's a privilege to speak with Nelos alone.</Source>
+      <Dest>别紧张，能跟纳洛斯讲话是你的荣幸。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, I trust your meeting with Master Nelos went well?</Source>
+      <Dest>你好，我猜你跟纳洛斯主人的会面挺顺利的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine, but when the time comes, you won't be spared.</Source>
+      <Dest>好吧。不过等真正的时辰到了，你还是躲不过的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I know the risks. I don't expect any special treatment. Not from you or Master Nelos.</Source>
+      <Dest>我…知道有什么风险。也不期望任何特殊待遇。不管是你还是你主人纳洛斯。</Dest>
+    </String>
+    <String List="0">
+      <Source>Regardless, you chose the winning side.  Just don't get in the way.</Source>
+      <Dest>没关系，你选了胜利的那一方。只要别在中途插手就行了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, yes, of course.  I'll do my best to be invisible.</Source>
+      <Dest>噢，是的，当然。我会尽力让不然别人看见的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you not concerned with the consequences of your actions?</Source>
+      <Dest>你不考虑那么做的后果么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I think you overestimate my importance.  If it wasn't me, it would be someone else.  I'm just glad it is me that gets to chronicle all this.</Source>
+      <Dest>好吧，我想你高估我的重要性了。即便没有我，也会有其他人来做。我只是很高兴有机会去纪录这一切。</Dest>
+    </String>
+    <String List="0">
+      <Source>So why are you here?  Why do you help the Radiant Dark?</Source>
+      <Dest>那么你为什么来到这里？为什么帮助黑暗光辉?</Dest>
+    </String>
+    <String List="2">
+      <Source>Intellectual curiosity, probably.  Camaraderie, maybe.  I just enjoy doing the research, and conversing with the members.</Source>
+      <Dest>理性的好奇，大概是。同事关怀，也许吧。我只是享受做研究的感觉，还有跟同伴交流的乐趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>So why are you here?  Why do you help the Radiant Dark?</Source>
+      <Dest>那么你为什么来到这里？为什么帮助黑暗光辉?</Dest>
+    </String>
+    <String List="2">
+      <Source>Finding out their motivations and goals sort of fleshes out my understanding as well.</Source>
+      <Dest>找出他们的动机和目的也使我的理解更加具体。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a scholar, but it sounds like you have a stake in the outcome.</Source>
+      <Dest>你是个学者。但听起来你和这结果有点利益关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>True, since I'm an expert on the prophecy of the Long Night, it does sort of help in that regard.</Source>
+      <Dest>真的，虽然我是长夜预言的专家，但是在那方面这一点用处都没有。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a scholar, but it sounds like you have a stake in the outcome.</Source>
+      <Dest>你是个学者。但听起来你和这结果有点利益关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if my aim were to sell books, I probably would want Master Nelos to fail.  </Source>
+      <Dest>但如果我的目的是卖书，我也许会希望纳洛斯领主失败。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a scholar, but it sounds like you have a stake in the outcome.</Source>
+      <Dest>你是个学者。但听起来你和这结果有点利益关系。</Dest>
+    </String>
+    <String List="2">
+      <Source>No one's going to want to read about the Long Night if it's happening outside their window.</Source>
+      <Dest>除非那就发生在他们的窗外，不然那帮人绝对不会想去读长夜那本书的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to return to my earlier questions.</Source>
+      <Dest>我想回到我刚才的问题。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure.  What would you like to know?</Source>
+      <Dest>当然。你想知道些什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think he's ill?</Source>
+      <Dest>你为什么认为他病了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, at first, I assumed vampirism.  Maybe Felena had gotten to him, but the symptoms aren't limited to sunlight.</Source>
+      <Dest>是，在最初的时候，我假装相信吸血鬼的存在。也许妃乐娜已经遇到过他们，但症状不止局限于阳光。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think he's ill?</Source>
+      <Dest>你为什么认为他病了？</Dest>
+    </String>
+    <String List="2">
+      <Source>The prophecy does mention the child gathering darkness, and I've long assumed that was in reference to an army.</Source>
+      <Dest>预言提到，这个孩子会聚拢黑暗。我一直以为那是指组建一支军队呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think he's ill?</Source>
+      <Dest>你为什么认为他病了？</Dest>
+    </String>
+    <String List="2">
+      <Source>But what if it wasn't metaphor?  What if it was literal? As in, Master Nelos was collecting shadows, almost as if he was building a reserve?</Source>
+      <Dest>但如果不是某种隐喻，而是就字面意思呢？就像是，纳洛斯大师在收集阴影，就像是他在做出某些储备。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think he's ill?</Source>
+      <Dest>你为什么认为他病了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Given the literature on the twin moons, it's possible they aren't referring to Masser and Secunda.   What if the moons are the metaphors?</Source>
+      <Dest>根据双月的相关文献，大概指的不是玛撒尔和塞康达。或许这里的月亮只是暗喻？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why do you think he's ill?</Source>
+      <Dest>你为什么认为他病了？</Dest>
+    </String>
+    <String List="2">
+      <Source>That would mean there's another person involved in ushering in the Long Night, but none of the other texts seem to collaborate that theory.</Source>
+      <Dest>这里的意思是会有另一个人在长夜中迎接你，但是这个推测并没有系统的提及这个事情。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does he tell you he's having nightmares?</Source>
+      <Dest>他跟你说过他在做恶梦吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He doesn't have to.  We can hear him screaming.  Eventually, he stopped going to sleep altogether.</Source>
+      <Dest>用不着。我们可以听到他的尖叫声。最终，他会停下来然后陷入永眠。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the other acolytes not allowed in this area?</Source>
+      <Dest>其他追随者不允许进入这个地方？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, they are, but there isn't really much to do.  Gilsi's probably the only one we had to forcefully remove by having her stand watch.</Source>
+      <Dest>是的他们进不来，可也真没什么办法了。歌尔西大概是唯一让我们只能以让她盯梢为借口把她支走的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are the other acolytes not allowed in this area?</Source>
+      <Dest>其他追随者不允许进入这个地方？</Dest>
+    </String>
+    <String List="2">
+      <Source>I stop by every now and then, to see how Master Nelos is faring.  Eldawyn hangs around as well, because she's just creepy that way.</Source>
+      <Dest>我不时地在这里伫足，看看主人纳洛斯的进步。艾德雯也在周围晃荡，但她只是为了吓人。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I came in, you seem worried about Nelos' health.</Source>
+      <Dest>我进来的时候，你好像在担心纳洛斯的健康。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes.  It's no secret the nightmares have become more violent as the days have gone on.</Source>
+      <Dest>没错。很显然，噩梦来的越来越猛烈了。。</Dest>
+    </String>
+    <String List="0">
+      <Source>When I came in, you seem worried about Nelos' health.</Source>
+      <Dest>我进来的时候，你好像在担心纳洛斯的健康。</Dest>
+    </String>
+    <String List="2">
+      <Source>Master Nelos believes it's confirmation that the Long Night is close.  I'm not entirely sure it isn't some other affliction.</Source>
+      <Dest> 纳洛斯大师确信这是长夜即将到来的证明。我不是完全肯定这是不是另一场苦难。.</Dest>
+    </String>
+    <String List="0">
+      <Source>When I came in, you seem worried about Nelos' health.</Source>
+      <Dest>我进来的时候，你好像在担心纳洛斯的健康。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the meantime, we've kept this area mostly dark, and that seems to help with his fatigue.</Source>
+      <Dest>与此同时，我们已经让这地方黑得差不多了, 看上去对他休息有帮助。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean my retrieval of the Vanus' texts.</Source>
+      <Dest>我知道你指的是我取回了万纳斯的文章。</Dest>
+    </String>
+    <String List="2">
+      <Source>Actually, no, not exactly.  Remember, we had the texts for some time.  It's not so much losing them as what was inside.</Source>
+      <Dest>事实上，不，不准确。记住，我们保存这份文件有段时间了，与其说是失败，不如说内有玄机。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean my retrieval of the Vanus' texts.</Source>
+      <Dest>我知道你指的是我取回了万纳斯的文章。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was some opinion amongst the mages that the spells, while impressive, were ultimately useless.</Source>
+      <Dest>在法师们中间有种说法，那些效果过于显着的法术，最终都会是无用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean my retrieval of the Vanus' texts.</Source>
+      <Dest>我知道你指的是我取回了万纳斯的文章。</Dest>
+    </String>
+    <String List="2">
+      <Source>Primarily because they would require an almost impossible and near endless reserve of magicka to cast.</Source>
+      <Dest>主要原因是要施放这个法术的话，他们需要有近乎无穷大的法力储备。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you mean my retrieval of the Vanus' texts.</Source>
+      <Dest>我知道你指的是我取回了万纳斯的文章。</Dest>
+    </String>
+    <String List="2">
+      <Source>Master Nelos is a great Elf, but he isn't a god.  If he were, I wouldn't worry about his health as much as I do.</Source>
+      <Dest>纳洛斯大师是位伟大的精灵，但他不是神。如果他是的话，我就不会担心如同担心自己一般的担心他的健康了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Had I known, I would've never helped Olivia.</Source>
+      <Dest>如果我知道，我绝对不会帮奥莉薇雅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, not even Master Nelos faults you for that.  Besides, that wasn't what I was referring to.</Source>
+      <Dest>哦，甚至纳洛斯主人也[因此而责备你。不过话说回来，那不该是我该提及的.</Dest>
+    </String>
+    <String List="0">
+      <Source>Had I known, I would've never helped Olivia.</Source>
+      <Dest>如果我知道，我绝对不会帮奥莉薇雅。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was some opinion amongst the mages that the spells, while impressive, were ultimately useless.</Source>
+      <Dest>在法师们中间有种说法，那些效果过于显着的法术，最终都会是无用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Had I known, I would've never helped Olivia.</Source>
+      <Dest>如果我知道，我绝对不会帮奥莉薇雅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Primarily because they would require an almost impossible and near endless reserve of magicka to cast.</Source>
+      <Dest>主要原因是要施放这个法术的话，他们需要有近乎无穷大的法力储备。</Dest>
+    </String>
+    <String List="0">
+      <Source>Had I known, I would've never helped Olivia.</Source>
+      <Dest>如果我知道，我绝对不会帮奥莉薇雅。</Dest>
+    </String>
+    <String List="2">
+      <Source>Master Nelos is a great Elf, but he isn't a god.  If he were, I wouldn't worry about his health as much as  I do.</Source>
+      <Dest>纳洛斯大师是一个伟大的精灵，但他不是神。如果他在，我就不会担心他的健康。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos mentioned a spell that would be more efficient and require less magicka.</Source>
+      <Dest>提到过一个法术，这个法术更有效且需要的法力也较少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, right. The alteration spell. Yes, he's rather fond of that one, and it does fit into the notion of fate.</Source>
+      <Dest>Oh, right. The alteration spell. Yes, he's rather fond of that one, and it does fit into the notion of fate.</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos mentioned a spell that would be more efficient and require less magicka.</Source>
+      <Dest>提到过一个法术，这个法术更有效且需要的法力也较少。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think it's possible that this is one of the five spells we're looking for, with the remaining four to be found from other sources.</Source>
+      <Dest>我认为这有可能就是我们寻找的五个符咒中的一个，剩余的可以在其他地方找到。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos mentioned a spell that would be more efficient and require less magicka.</Source>
+      <Dest>提到过一个法术，这个法术更有效且需要的法力也较少。</Dest>
+    </String>
+    <String List="2">
+      <Source>But we'll never know unless it's wielded by him personally, as opposed to Master Meronin.</Source>
+      <Dest>但是我们永远不会知道除非这是他个人所为，用以对抗马荣尼之主。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos mentioned a spell that would be more efficient and require less magicka.</Source>
+      <Dest>提到过一个法术，这个法术更有效且需要的法力也较少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way, my opinion holds little weight in this regard.  Master Nelos is married to the idea that these five spells are the ones in his vision.</Source>
+      <Dest>无所谓，我的看法是无足轻重，纳洛斯大师一心认定那五个法术正是他所憧憬的.</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelos mentioned a spell that would be more efficient and require less magicka.</Source>
+      <Dest>提到过一个法术，这个法术更有效且需要的法力也较少。</Dest>
+    </String>
+    <String List="2">
+      <Source>The appearance of the Dragonborn only further entrenched that belief.</Source>
+      <Dest>龙裔的长相只是进一步的验证了这种共识而已、.</Dest>
+    </String>
+    <String List="0">
+      <Source>That it's then?  You're giving up?</Source>
+      <Dest>就这么算了？你决定放弃了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not on the prophecy, oh no, that's my life's work.  I meant moving on from the connection to Vanus' spells.</Source>
+      <Dest>不是预言，哦不，这是我一生的工作。[我的意思是从这个联系到万纳斯的技能。]</Dest>
+    </String>
+    <String List="0">
+      <Source>That it's then?  You're giving up?</Source>
+      <Dest>就这么算了？你决定放弃了？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's my fault, really.  I'm the one who insisted they were the same spells he saw in his vision.</Source>
+      <Dest>我的错，真的。我就是那个坚持认为这些在他眼里是同样的法术的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>That it's then?  You're giving up?</Source>
+      <Dest>就这么算了？你决定放弃了？</Dest>
+    </String>
+    <String List="2">
+      <Source>But after we recovered them, I'm beginning to doubt if the spells are even possible.  I mean, they can be crafted, but...</Source>
+      <Dest>但在回复他们以后，我开始怀疑咒语是否可能。我是说，精心制作他们可能，但。。。</Dest>
+    </String>
+    <String List="0">
+      <Source>That it's then?  You're giving up?</Source>
+      <Dest>就这么算了？你决定放弃了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, there was some opinion amongst the mages that they would require an almost impossible and near endless reserve of magicka to cast.</Source>
+      <Dest>当然所有的魔法师都会接受这个观点，那就是他们需要无穷无尽的魔法。</Dest>
+    </String>
+    <String List="0">
+      <Source>That it's then?  You're giving up?</Source>
+      <Dest>就这么算了？你决定放弃了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Master Nelos is a great Elf, but he isn't a god.  If he were, I wouldn't worry about his health as much as I do.</Source>
+      <Dest>纳洛斯大师是位伟大的精灵，但他不是神。如果他是的话，我就不会担心如同担心自己一般的担心他的健康了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh.  No, you misunderstand me, it's not that...although I am in awe of your presence.</Source>
+      <Dest>哦，不，你误解我的意思了，不是那样...虽然我敬畏你。</Dest>
+    </String>
+    <String List="0">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You forget, Master Nelos' acolytes had Vanus' research for some time before you recovered it.  </Source>
+      <Dest>You forget, Master Nelos' acolytes had Vanus' research for some time before you recovered it.  </Dest>
+    </String>
+    <String List="0">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was some opinion amongst the mages that the spells, while impressive, were ultimately useless.</Source>
+      <Dest>在法师们中间有种说法，那些效果过于显着的法术，最终都会是无用的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Primarily because they would require an almost impossible and near endless reserve of magicka to cast.</Source>
+      <Dest>主要原因是要施放这个法术的话，他们需要有近乎无穷大的法力储备。</Dest>
+    </String>
+    <String List="0">
+      <Source>I accept your surrender.  It's wise not to challenge a Dragonborn.</Source>
+      <Dest>我接受你的投降。聪明人不会想挑战龙裔的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Master Nelos is a great Elf, but he isn't a god.  If he were, I wouldn't worry about his health as much as  I do.</Source>
+      <Dest>纳洛斯大师是一个伟大的精灵，但他不是神。如果他在，我就不会担心他的健康。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a scholar, did you play a role in researching Vanus' spells?</Source>
+      <Dest>作为一个学者,你扮演一个角色在研究万纳斯的法术吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>Why yes, I was actually the one who alerted Nelos to the debate over the validity of Trechtus' journals.</Source>
+      <Dest>啊是的，其实我就是那个提醒了纳洛斯检查崔特斯日记真伪的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a scholar, did you play a role in researching Vanus' spells?</Source>
+      <Dest>作为一个学者,你扮演一个角色在研究万纳斯的法术吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>It was then he told me of his vision, and how it revealed the casting of five extraordinary spells.  Spells he himself was unfamiliar with.</Source>
+      <Dest>就在那时他向我讲述了他的幻境，和其中是如何展示了五种奇异法术的施展。那都是他不熟悉的法术。</Dest>
+    </String>
+    <String List="0">
+      <Source>As a scholar, did you play a role in researching Vanus' spells?</Source>
+      <Dest>作为一个学者,你扮演一个角色在研究万纳斯的法术吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>At the time, I was certain Vanus' spells were the ones he saw in his vision.  But given recent events, my opinion is that we should move on.</Source>
+      <Dest>当时我很确定，万纳斯所用的法术就是他从幻境中看到的那些。不过从最近发生的事看来，我想我们该走了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I be of service to you, Guildmaster?</Source>
+      <Dest>我能帮你什么忙吗，会长？</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Need something?</Source>
+      <Dest>有事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Congratulations on your wedding, master.  I wish you a long happy life...um, death, together.</Source>
+      <Dest>恭祝您新婚大喜，我的主人。  祝你们白头偕老，长命百岁...恩，共赴黄泉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let me know if you need anything else, Guildmaster.</Source>
+      <Dest>你还需要什么东西吗，会长。</Dest>
+    </String>
+    <String List="2">
+      <Source>As you will, Guildmaster.</Source>
+      <Dest>如您所愿，公会大师。</Dest>
+    </String>
+    <String List="2">
+      <Source>But Master Nelos...</Source>
+      <Dest>但纳洛斯大师……</Dest>
+    </String>
+    <String List="2">
+      <Source>Your health is deteriorating by the day.  You need to rest or fatigue will claim you before the night.</Source>
+      <Dest>你的健康在日益恶化.  你必须休息否者等不到晚上疲劳就会让你付出代价..</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
