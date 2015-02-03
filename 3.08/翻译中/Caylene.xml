@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="2">
+      <Source>Oh, right. Do thieves really smell? I mean, couldn't they just steal more soap? At least beggars have an excuse.</Source>
+      <Dest>Oh, right. Do thieves really smell? I mean, couldn't they just steal more soap? At least beggars have an excuse.</Dest>
+    </String>
+    <String List="2">
+      <Source>It has Mjoll, at least so far. Would you like to hear the tale of Fjori and Holgeir? It will only cost you a septim.</Source>
+      <Dest>It has Mjoll, at least so far. Would you like to hear the tale of Fjori and Holgeir? It will only cost you a septim.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you performances well known throughout Riften?</Source>
+      <Dest>你的表演在裂谷城很出名吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Absolutely. A beggar is nothing without her patrons, and I owe everything I have to the townsfolk here.</Source>
+      <Dest>那是绝对的。做乞丐嘛离了施舍人就啥也不是，所以我所有的一切都是欠这些居民的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you performances well known throughout Riften?</Source>
+      <Dest>你的表演在裂谷城很出名吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's why as a pretend artist, I do my best to give them more of what they want. Namely, me.</Source>
+      <Dest>所以说扮作艺术家的我，要尽全力给他们带去更多他们想要的东西。也就是……我自己。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you performances well known throughout Riften?</Source>
+      <Dest>你的表演在裂谷城很出名吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Sometimes, that means running around with a bucket on my head. Other times, I'm using that bucket as a drum.</Source>
+      <Dest>有时候，那意味着我在头上戴个水桶跑来跑去。有的时候，我又把这水桶当作鼓敲。</Dest>
+    </String>
+    <String List="0">
+      <Source>It seems you've fallen on hard times.</Source>
+      <Dest>你好像已陷入困境。</Dest>
+    </String>
+    <String List="2">
+      <Source>My luck may be down, but my spirits are high. But they'll feel even higher with a coin or two.</Source>
+      <Dest>我的运气可能是比较背，但我的精神境界高啊。但要能多来一两个金币的话就更高啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, being an artist and a beggar is pretty much the same thing.</Source>
+      <Dest>好吧，艺术家和乞丐的生活方式其实是差不多的。</Dest>
+    </String>
+    <String List="2">
+      <Source>True enough. Besides, I may be poor, but everyone tells me I have a noble soul. Hearing that always makes me smile.</Source>
+      <Dest>太对了. 除此之外，我也许很穷，但每个见到我的人都告诉我有高贵的灵魂。听到这个总是让我倍感高兴。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why pretend to be an artist?</Source>
+      <Dest>为毛要装成艺术家啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, the Nords value hard work. Some people like it when a beggar shows a little gumption.</Source>
+      <Dest>嗯，因为诺德人欣赏努力工作的人。一个乞丐展现出一点儿进取心的话就会有人买账。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why pretend to be an artist?</Source>
+      <Dest>为毛要装成艺术家啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>If I say I'm an artist, the locals do their best to keep my name on the wind.</Source>
+      <Dest>而我说自己是个艺术家，这里的人们就会给我格外好的照顾。</Dest>
+    </String>
+    <String List="0">
+      <Source>That explains why I've never heard of you.</Source>
+      <Dest>这就是我为什么没听说过你的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>Exactly, but just because I'm a beggar, it doesn't mean I can't fake being a busker. It's a fine line, you know.</Source>
+      <Dest>没错，可就算我是个乞丐，也不代表我不能扮成街头艺人。这没啥不合理的，你说呐。</Dest>
+    </String>
+    <String List="0">
+      <Source>That explains why I've never heard of you.</Source>
+      <Dest>这就是我为什么没听说过你的原因。</Dest>
+    </String>
+    <String List="2">
+      <Source>One gets paid out of pity, the other gets to pretend they earned it.</Source>
+      <Dest>一个是靠可怜相讨钱，另一个可以装作是在挣钱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings, traveler. I don't think we've met. The name's Caylene.</Source>
+      <Dest>你好啊，旅行者。我们似乎从没见过吧。我叫凯琳。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right, the Caylene. Professional bard, playwright, and stage actress.</Source>
+      <Dest>没错，就是那个有名的凯琳。专业的吟游诗人，剧作家和舞台女演员。</Dest>
+    </String>
+    <String List="2">
+      <Source>Okay, I'm really just a beggar, but you didn't hear that from me.</Source>
+      <Dest>好吧，其实我只是乞丐。但那可不是我说的啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear you do a play.</Source>
+      <Dest>我想听你演奏一曲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Certainly. This play is called "A Beggar No More."</Source>
+      <Dest>没问题。这出戏名叫《不再是乞丐》。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear you do a play.</Source>
+      <Dest>我想听你演奏一曲。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to see you perform a stage play.</Source>
+      <Dest>我想看你表演一个话剧。</Dest>
+    </String>
+    <String List="2">
+      <Source>This play is called "The Jarl and the Jarless."</Source>
+      <Dest>这出戏叫做《领主和母领主》”。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear you do a play.</Source>
+      <Dest>我想听你演奏一曲。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to see you perform a play.</Source>
+      <Dest>我想要看你的演出。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wonderful. This one is called, "The Beggar Prince."</Source>
+      <Dest>太好了。这出戏名叫“乞丐王子”。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear you do a play.</Source>
+      <Dest>我想听你演奏一曲。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's see you do a play.</Source>
+      <Dest>演一出戏剧让我们看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you. This one is called "One of Us."</Source>
+      <Dest>谢谢。这一部戏名叫“我们中的一个。”</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to hear you do a play.</Source>
+      <Dest>我想听你演奏一曲。</Dest>
+    </String>
+    <String List="0">
+      <Source>Let's see you do a play.</Source>
+      <Dest>演一出戏剧让我们看看。</Dest>
+    </String>
+    <String List="2">
+      <Source>This one is called "Fjori and Holgeir."</Source>
+      <Dest>This one is called "Fjori and Holgeir."</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of performances do you do? Any original stories or compositions?</Source>
+      <Dest>你要做什么样的表演呢？任何真实或者自创的故事？</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Why try to reinvent the wheel? Why not make it faster and...rounder.</Source>
+      <Dest>不啊。何必循规蹈矩呢？为什么不搞得更干脆……更好玩呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of performances do you do? Any original stories or compositions?</Source>
+      <Dest>你要做什么样的表演呢？任何真实或者自创的故事？</Dest>
+    </String>
+    <String List="2">
+      <Source>We try and improve on the old favorites. For instance, last week me and some of the other beggars did a stirring rendition of Fjori and Holgeir.</Source>
+      <Dest>我们在以前的经典故事上进一步发挥改良。比如上礼拜我就跟几个乞丐一起演绎了激情四射的新版佛乔里和霍吉尔。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of performances do you do? Any original stories or compositions?</Source>
+      <Dest>你要做什么样的表演呢？任何真实或者自创的故事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only in this play, Fjori was a vampire and Holgeir was the sun. Earned us two septims a piece. We ate real good that night.</Source>
+      <Dest>只不过这出戏里，佛乔里是吸血鬼而霍吉尔是太阳。结果一下给我们赚了两个金币。那晚我们真是美美的吃了一顿。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't need a performance. Just spend it wisely.</Source>
+      <Dest>我不需要任何表演，别乱花这些钱就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Many thanks. I'll do my best.</Source>
+      <Dest>非常感谢。我会尽力的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. Have a gold coin.</Source>
+      <Dest>拿着这个金币。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you, traveler. What would you like me to perform?</Source>
+      <Dest>多谢，旅行者。想让我演个啥节目？</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a song?</Source>
+      <Dest>来首歌听怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, this one is called "Winter in Whiterun."</Source>
+      <Dest>没问题，这部剧的名字叫做《白漫的冬天》。</Dest>
+    </String>
+    <String List="0">
+      <Source>How about a song?</Source>
+      <Dest>来首歌听怎么样？</Dest>
+    </String>
+    <String List="0">
+      <Source>I would like to hear you sing.</Source>
+      <Dest>我想听你唱歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent. This one is called "In the Clouds."</Source>
+      <Dest>棒极了，这首歌叫做《云在飘》。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that's your heart. Because you love me. But also because you're a vampire.</Source>
+      <Dest>嗯，那是你的心。因为你爱我。也因为你是个吸血鬼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I too feel something burning inside of me.</Source>
+      <Dest>我也觉得有东西在我身体里燃烧。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I said you were my sunshine. Occasionally, you fill me with a burning hot passion.</Source>
+      <Dest>不，我说的是你是我的阳光。有时，你会用热得发烫的激情来充满我。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I suppose that is not unusual, given I am a ball of fire.</Source>
+      <Dest>不过我觉得也没那么特别，因为我就是一团热火。</Dest>
+    </String>
+    <String List="2">
+      <Source>You said I was the sun!</Source>
+      <Dest>你说过我才是太阳！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that is because you are a vampire, and I am the sun.</Source>
+      <Dest>哎，那是因为你是吸血鬼，而我是太阳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then why does it hurt to look at you?</Source>
+      <Dest>那为什么看见你就会觉得痛？</Dest>
+    </String>
+    <String List="2">
+      <Source>But my dear, it is I, Holgeir, your one true love.</Source>
+      <Dest>可是亲爱的，是我，霍吉尔，你的真爱啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>Halt! Do not approach me!</Source>
+      <Dest>站住！别靠近我！</Dest>
+    </String>
+    <String List="2">
+      <Source>And that concludes today's show.</Source>
+      <Dest>本场演出到此结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>And all of Riften came to a stop. The End.</Source>
+      <Dest>然后整个裂谷城的所有人都站住了。——完。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stop! A thief!</Source>
+      <Dest>站住！小偷！</Dest>
+    </String>
+    <String List="2">
+      <Source>Simple. To control the price of diamonds.</Source>
+      <Dest>很简单。要控制钻石的价格嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Why in Oblivion would you do that?</Source>
+      <Dest>你这样胡搞算是图啥呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I meant, there's no difference. As in, it's the same story. The Prince and the Beggar just switch places.</Source>
+      <Dest>不，我的意思是，根本就没什么区别。就是说，完全一样的故事。只是把王子跟乞丐换了下位置。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well yes. One's a diamond in the rough. The other's a well polished rock.</Source>
+      <Dest>啊是的。一边是未经雕琢的钻石，另一边是加工精美的石头。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is there a difference?</Source>
+      <Dest>这有区别吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>And that concludes today's show.</Source>
+      <Dest>本场演出到此结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait. Is that the one about the Prince who became a beggar, or the beggar who became a Prince?</Source>
+      <Dest>等等。这故事说的是王子沦为乞丐，还是乞丐当上了王子？</Dest>
+    </String>
+    <String List="2">
+      <Source>All across the farm, they did their namesakes proud, all save the wistful farmer, whose head was in the clouds.</Source>
+      <Dest>放眼望去整个农场，它们使自己感到骄傲，共同守着那迷糊的农民，脑袋里一团云在飘。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sheeps were always sheepish, the plants planted in the ground, the ducks were always ducking, and the horses horsed around.</Source>
+      <Dest>绵羊们一定要咩咩叫，庄稼一定要在地里笑，鸭子都要在岸边靠，马匹只能在附近跑。</Dest>
+    </String>
+    <String List="2">
+      <Source>There was once a simple farmer, who ruled with an iron foot, and made sure that his livestock, were acting as they should.</Source>
+      <Dest>从前有一个单纯的农夫，用一只铁脚掌管他的土地，确保他所有的牲畜，都老实地做它们该做的事。</Dest>
+    </String>
+    <String List="2">
+      <Source>And that concludes today's show.</Source>
+      <Dest>本场演出到此结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>The less we know, the better.</Source>
+      <Dest>这事我们知道的越少，就越好。</Dest>
+    </String>
+    <String List="2">
+      <Source>But only one person can make the law. Who's on top and who's the bottom?</Source>
+      <Dest>可只有一个人可以制订法律。谁主谁副才对呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then her husband, if she had one, would be the Jarless. </Source>
+      <Dest>Then her husband, if she had one, would be the Jarless. </Dest>
+    </String>
+    <String List="2">
+      <Source>But Jarl Laila is a Jarl, not a Jarless.</Source>
+      <Dest>但莱拉领主只称为领主，不叫母领主。</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe that's what a Jarless is. A woman. Like a prince and princess.</Source>
+      <Dest>那也许就是啦，所谓的“女领主”，好像老虎跟母老虎一样意思。</Dest>
+    </String>
+    <String List="2">
+      <Source>But there is a Jarl. More than one, in fact. Men and women.</Source>
+      <Dest>但领主是存在的啊。还不止一个，实际上，是有男有女的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think she means there ain't no Jarl. As in, "This hold is Jarl-less."</Source>
+      <Dest>我想她的意思是根本不存在领主。就是说“木有“领主。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, hold on. What's a Jarless?</Source>
+      <Dest>等等，打住。“母”领主是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>And that concludes today's show.</Source>
+      <Dest>本场演出到此结束。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's because I am. And you're blind.</Source>
+      <Dest>那是因为我就是，而你是个瞎子。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a matter of fact, milord, you do.</Source>
+      <Dest>确实啊，老爷，您真像。</Dest>
+    </String>
+    <String List="2">
+      <Source>How should I know? Do I look like Septimus Signus to you?</Source>
+      <Dest>我怎么知道？你看我像大哲学家吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>But if I don't smell no more, milord, does that mean I won't be a beggar?</Source>
+      <Dest>可是大人，如果我身上的味道都没了，我会不会就不再是乞丐啦？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, that is why I am going to shower you. Because you smell.</Source>
+      <Dest>是的，所以说我要给你洗澡。因为你有味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well milord, I am hungry like a beggar, and I smell like a beggar, but perhaps after this shower I will not smell so much.</Source>
+      <Dest>呃这位大人，我真是跟叫乞丐一样饿，也浑身都是乞丐味儿，不过洗完这个澡的话味就不会这么重了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hark! Are you a beggar? If so, I am obligated to shower you with gold!</Source>
+      <Dest>嘿！你是乞丐吗？要是的话，我可得给你洗个金币澡啦！</Dest>
+    </String>
+    <String List="2">
+      <Source>But then there came a dragon, from the ancient days of yore, and it ate up all the people, on both sides of the war.</Source>
+      <Dest>结果出现了一条龙，从传说中的远古时空，于是它吃掉了所有人，战争的双方都没剩。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ulfric scratched his beard, and Tullius clutched his back, as neither man was man enough, to begin the day's attack!</Source>
+      <Dest>乌福瑞克捋着胡须，图留斯则按着后背，两个人都不够爷们，丝毫不敢轻举妄动！</Dest>
+    </String>
+    <String List="2">
+      <Source>The Stormcloaks and Imperials sat in their little camps, Not a single creature was stirring, not even the muddy crabs;</Source>
+      <Dest>风暴斗篷和帝国军都窝在他们的小营帐。附近一只活物都没有，连泥沼蟹都不出现。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do come back!</Source>
+      <Dest>一定常来呀！</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>Can I help you?</Source>
+      <Dest>我能为你效劳吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Would you like to hear a performance?</Source>
+      <Dest>你愿意欣赏一次表演么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Music? Plays? Musical plays? What can I do for you?</Source>
+      <Dest>乐曲? 戏剧? 歌剧? 你想让我演什么?</Dest>
+    </String>
+    <String List="2">
+      <Source>Will do, my lady. Your husband's the one who spends his nights at Haelga's, isn't he? I'll be sure to ask him.</Source>
+      <Dest>Will do, my lady. Your husband's the one who spends his nights at Haelga's, isn't he? I'll be sure to ask him.</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you sure? It's as fresh as flounders. I stuck a pen in my ear and reeled the lyrics out this morning. It'll only cost you a septim.</Source>
+      <Dest>Are you sure? It's as fresh as flounders. I stuck a pen in my ear and reeled the lyrics out this morning. It'll only cost you a septim.</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings milady, would you care to hear the song of the day?</Source>
+      <Dest>Greetings milady, would you care to hear the song of the day?</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

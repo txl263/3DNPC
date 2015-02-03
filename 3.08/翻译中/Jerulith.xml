@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Do you know where the merc is now?</Source>
+      <Dest>Do you know where the merc is now?</Dest>
+    </String>
+    <String List="2">
+      <Source>The barbarians likely took him. They think he's hiding some grand treasure. </Source>
+      <Dest>The barbarians likely took him. They think he's hiding some grand treasure. </Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know where the merc is now?</Source>
+      <Dest>Do you know where the merc is now?</Dest>
+    </String>
+    <String List="2">
+      <Source>When they hear the word valuable, the imbeciles can't conceive of anything beyond gold and gems.</Source>
+      <Dest>When they hear the word valuable, the imbeciles can't conceive of anything beyond gold and gems.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you know where the merc is now?</Source>
+      <Dest>Do you know where the merc is now?</Dest>
+    </String>
+    <String List="2">
+      <Source>But who knows where they live. Probably underground with the rest of the vermin.</Source>
+      <Dest>But who knows where they live. Probably underground with the rest of the vermin.</Dest>
+    </String>
+    <String List="2">
+      <Source>Still he was ugly and malodorous, so for that you have my gratitude. What is it you wish to know?</Source>
+      <Dest>Still he was ugly and malodorous, so for that you have my gratitude. What is it you wish to know?</Dest>
+    </String>
+    <String List="0">
+      <Source>The Justiciars are too skilled to be felled by any normal attacker.</Source>
+      <Dest>The Justiciars are too skilled to be felled by any normal attacker.</Dest>
+    </String>
+    <String List="2">
+      <Source>Agreed. They say it's the work of an Akaviri swordsman. A Blade. Hmph. Nonsense. The Blades are all dead.</Source>
+      <Dest>Agreed. They say it's the work of an Akaviri swordsman. A Blade. Hmph. Nonsense. The Blades are all dead.</Dest>
+    </String>
+    <String List="0">
+      <Source>Nope. Not a clue.</Source>
+      <Dest>Nope. Not a clue.</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose you wouldn't. It was pointless of me to even ask.</Source>
+      <Dest>I suppose you wouldn't. It was pointless of me to even ask.</Dest>
+    </String>
+    <String List="0">
+      <Source>S'vashni's work, probably.</Source>
+      <Dest>S'vashni's work, probably.</Dest>
+    </String>
+    <String List="2">
+      <Source>A Khajiit? Interesting. The rumors say it's the work of a Blade, but I suppose it's irrelevant now. The damage has been done.</Source>
+      <Dest>A Khajiit? Interesting. The rumors say it's the work of a Blade, but I suppose it's irrelevant now. The damage has been done.</Dest>
+    </String>
+    <String List="0">
+      <Source>You mean besides the three I killed to save my friend here? No.</Source>
+      <Dest>You mean besides the three I killed to save my friend here? No.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, so that explains your friend's attitude. He certainly has Bolund's sneer.</Source>
+      <Dest>Ah, so that explains your friend's attitude. He certainly has Bolund's sneer.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened here? Who are these men?</Source>
+      <Dest>What happened here? Who are these men?</Dest>
+    </String>
+    <String List="2">
+      <Source>Barbarians, obviously. They see a door, and they kick it down. It never occurs to them to use the knob.</Source>
+      <Dest>Barbarians, obviously. They see a door, and they kick it down. It never occurs to them to use the knob.</Dest>
+    </String>
+    <String List="2">
+      <Source>Normally, the Justiciars would make swift work of them, but our numbers here have been dwindling.</Source>
+      <Dest>Normally, the Justiciars would make swift work of them, but our numbers here have been dwindling.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened here? Who are these men?</Source>
+      <Dest>What happened here? Who are these men?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened here? Who are these men?</Source>
+      <Dest>What happened here? Who are these men?</Dest>
+    </String>
+    <String List="2">
+      <Source>You wouldn't happen to know anything about that, would you?</Source>
+      <Dest>You wouldn't happen to know anything about that, would you?</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah yes, him. Supposedly he's in possession of something valuable to the cause.</Source>
+      <Dest>Ah yes, him. Supposedly he's in possession of something valuable to the cause.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did this mercenary have that was so valuable?</Source>
+      <Dest>What did this mercenary have that was so valuable?</Dest>
+    </String>
+    <String List="2">
+      <Source>A name. This Khajiit came to the Embassy insisting he knew the identity of a traitor in our group.</Source>
+      <Dest>A name. This Khajiit came to the Embassy insisting he knew the identity of a traitor in our group.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>What did this mercenary have that was so valuable?</Source>
+      <Dest>What did this mercenary have that was so valuable?</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, some of his information was accurate enough to make high ranking Justiciars take pause.</Source>
+      <Dest>In fact, some of his information was accurate enough to make high ranking Justiciars take pause.</Dest>
+    </String>
+    <String List="2">
+      <Source>The Khajiit's price was unreasonable. It was nothing short of extortion.</Source>
+      <Dest>The Khajiit's price was unreasonable. It was nothing short of extortion.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>So why put him in chains?</Source>
+      <Dest>So why put him in chains?</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>So why put him in chains?</Source>
+      <Dest>So why put him in chains?</Dest>
+    </String>
+    <String List="2">
+      <Source>The Justiciars decided the best way to extract the information was through torture.</Source>
+      <Dest>The Justiciars decided the best way to extract the information was through torture.</Dest>
+    </String>
+    <String List="2">
+      <Source>Isn't it obvious? I put myself in.</Source>
+      <Dest>Isn't it obvious? I put myself in.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>Who put you in this cage?</Source>
+      <Dest>Who put you in this cage?</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you imprison yourself?</Source>
+      <Dest>Why would you imprison yourself?</Dest>
+    </String>
+    <String List="2">
+      <Source>Because when they asked the Khajiit for a name, He told them mine.</Source>
+      <Dest>Because when they asked the Khajiit for a name, He told them mine.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about a merc that was jailed?</Source>
+      <Dest>What can you tell me about a merc that was jailed?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why would you imprison yourself?</Source>
+      <Dest>Why would you imprison yourself?</Dest>
+    </String>
+    <String List="2">
+      <Source>I turned myself in to prove I was innocent.</Source>
+      <Dest>I turned myself in to prove I was innocent.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ungh.</Source>
+      <Dest>Ungh.</Dest>
+    </String>
+    <String List="2">
+      <Source>Believe me, it pains me as much as it does you. But these bandits killed Justiciars. This cannot go unpunished. </Source>
+      <Dest>Believe me, it pains me as much as it does you. But these bandits killed Justiciars. This cannot go unpunished. </Dest>
+    </String>
+    <String List="2">
+      <Source>And suffice to say I doubt you have the skill to do so.</Source>
+      <Dest>And suffice to say I doubt you have the skill to do so.</Dest>
+    </String>
+    <String List="2">
+      <Source>You're braver than I thought. You do realize what you're saying, don't you? I could kill you both in an instant.</Source>
+      <Dest>You're braver than I thought. You do realize what you're saying, don't you? I could kill you both in an instant.</Dest>
+    </String>
+    <String List="2">
+      <Source>You may have a point. But I have no time for riddles, furball. What are you getting at?</Source>
+      <Dest>You may have a point. But I have no time for riddles, furball. What are you getting at?</Dest>
+    </String>
+    <String List="2">
+      <Source>Forget it, rug. I have no interest in your quest for pointless trinkets. Be thankful I haven't roasted you alive. </Source>
+      <Dest>Forget it, rug. I have no interest in your quest for pointless trinkets. Be thankful I haven't roasted you alive. </Dest>
+    </String>
+    <String List="2">
+      <Source>How can you insist on singing those irritating Nord tunes of yours? They are as awful as they are repetitive.</Source>
+      <Dest>How can you insist on singing those irritating Nord tunes of yours? They are as awful as they are repetitive.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's almost like you want me to fill your ears with ice spikes.</Source>
+      <Dest>It's almost like you want me to fill your ears with ice spikes.</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet you seek to punish the bandits who have adopted your stance on "free will."</Source>
+      <Dest>And yet you seek to punish the bandits who have adopted your stance on "free will."</Dest>
+    </String>
+    <String List="2">
+      <Source>Accepting flaws doesn't make you a paragon. It makes you a hypocrite.</Source>
+      <Dest>Accepting flaws doesn't make you a paragon. It makes you a hypocrite.</Dest>
+    </String>
+    <String List="2">
+      <Source>That is what you don't understand. Flaws, imperfections, these are all constructs forced upon us by Talos and this pathetic world of his.</Source>
+      <Dest>That is what you don't understand. Flaws, imperfections, these are all constructs forced upon us by Talos and this pathetic world of his.</Dest>
+    </String>
+    <String List="2">
+      <Source>When we ascend from this miserable plane, you will thank the Aldmeri for whatever pain we have wrought.</Source>
+      <Dest>When we ascend from this miserable plane, you will thank the Aldmeri for whatever pain we have wrought.</Dest>
+    </String>
+    <String List="2">
+      <Source>I never said we were the vampires.</Source>
+      <Dest>I never said we were the vampires.</Dest>
+    </String>
+    <String List="2">
+      <Source>The mortal concept of good and evil is based on perspective. </Source>
+      <Dest>The mortal concept of good and evil is based on perspective. </Dest>
+    </String>
+    <String List="2">
+      <Source>For a vampire, the sun is wicked. For a plant, it is a source of nourishment. </Source>
+      <Dest>For a vampire, the sun is wicked. For a plant, it is a source of nourishment. </Dest>
+    </String>
+    <String List="2">
+      <Source>The one you killed. He mentioned a keep not far from here. We should start there. </Source>
+      <Dest>The one you killed. He mentioned a keep not far from here. We should start there. </Dest>
+    </String>
+    <String List="2">
+      <Source>My thoughts exactly.</Source>
+      <Dest>My thoughts exactly.</Dest>
+    </String>
+    <String List="2">
+      <Source>My thoughts exactly.</Source>
+      <Dest>我就是这么想的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph. Interesting. All right, I'll tell you where they are. On one condition. I'm coming with you.</Source>
+      <Dest>Hmph. Interesting. All right, I'll tell you where they are. On one condition. I'm coming with you.</Dest>
+    </String>
+    <String List="2">
+      <Source>And why should I do that? What do I get in return?  </Source>
+      <Dest>And why should I do that? What do I get in return?  </Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I forget you Bosmer are as thick as the trees you worship.</Source>
+      <Dest>Ah, I forget you Bosmer are as thick as the trees you worship.</Dest>
+    </String>
+    <String List="2">
+      <Source>Killing the sellsword would only embolden his claim. Torturing him would only lead to more lies. </Source>
+      <Dest>Killing the sellsword would only embolden his claim. Torturing him would only lead to more lies. </Dest>
+    </String>
+    <String List="2">
+      <Source>When I look at him, I don't see a witness. I see a waste of a perfectly good whip.</Source>
+      <Dest>When I look at him, I don't see a witness. I see a waste of a perfectly good whip.</Dest>
+    </String>
+    <String List="2">
+      <Source>Maybe. But it's not what you think. I have no interest in finding or interrogating the sellsword.</Source>
+      <Dest>Maybe. But it's not what you think. I have no interest in finding or interrogating the sellsword.</Dest>
+    </String>
+    <String List="2">
+      <Source>Him? You killed a flea.</Source>
+      <Dest>Him? You killed a flea.</Dest>
+    </String>
+    <String List="2">
+      <Source>And your words are empty, considering you aren't the one who put me here.</Source>
+      <Dest>And your words are empty, considering you aren't the one who put me here.</Dest>
+    </String>
+    <String List="2">
+      <Source>A brilliant observation. What will you tell me next, that I'm not a man? Even Bolund has more sense than you cretins.</Source>
+      <Dest>A brilliant observation. What will you tell me next, that I'm not a man? Even Bolund has more sense than you cretins.</Dest>
+    </String>
+    <String List="2">
+      <Source>Bravo. I rather enjoyed watching that man die.</Source>
+      <Dest>Bravo. I rather enjoyed watching that man die.</Dest>
+    </String>
+    <String List="2">
+      <Source>You think yourself clever, cat. But the only reason you're still alive is because you're worthless to me dead.</Source>
+      <Dest>You think yourself clever, cat. But the only reason you're still alive is because you're worthless to me dead.</Dest>
+    </String>
+    <String List="2">
+      <Source>That's poor advice, cretin. The furball should be worried. He should take great pains not to give me a reason to kill him considering what he's done.</Source>
+      <Dest>That's poor advice, cretin. The furball should be worried. He should take great pains not to give me a reason to kill him considering what he's done.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wood Elf?</Source>
+      <Dest>Wood Elf?</Dest>
+    </String>
+    <String List="2">
+      <Source>I never asked you, Bosmer. Why are you here? What do you care what happens to this rug?</Source>
+      <Dest>I never asked you, Bosmer. Why are you here? What do you care what happens to this rug?</Dest>
+    </String>
+    <String List="0">
+      <Source>No, not really. You're terrible at this.</Source>
+      <Dest>No, not really. You're terrible at this.</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is why I suggested we simply light this manor on fire. It's not too late, you know.</Source>
+      <Dest>Which is why I suggested we simply light this manor on fire. It's not too late, you know.</Dest>
+    </String>
+    <String List="0">
+      <Source>I have bested you in battle. But only a drinking contest can truly settle this.</Source>
+      <Dest>I have bested you in battle. But only a drinking contest can truly settle this.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha, how befitting. Nords are indeed only capable of two things. Shouting and drinking.</Source>
+      <Dest>Ha, how befitting. Nords are indeed only capable of two things. Shouting and drinking.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't fool me, Numinex. Fus Ro Dah!</Source>
+      <Dest>You don't fool me, Numinex. Fus Ro Dah!</Dest>
+    </String>
+    <String List="2">
+      <Source>What does that even mean? But fine, the power of your monkey magic is too much for me to bear.</Source>
+      <Dest>What does that even mean? But fine, the power of your monkey magic is too much for me to bear.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't fool me, Numinex. Fus Ro Dah!</Source>
+      <Dest>You don't fool me, Numinex. Fus Ro Dah!</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't fool me, Numinex. Foos Rawr Bah!</Source>
+      <Dest>You don't fool me, Numinex. Foos Rawr Bah!</Dest>
+    </String>
+    <String List="2">
+      <Source>What does that even mean? But fine, the power of your monkey magic is too much for me to bear.</Source>
+      <Dest>What does that even mean? But fine, the power of your monkey magic is too much for me to bear.</Dest>
+    </String>
+    <String List="0">
+      <Source>You speak to Solaf Seven-Toes, and my heart is as big as the sun.</Source>
+      <Dest>You speak to Solaf Seven-Toes, and my heart is as big as the sun.</Dest>
+    </String>
+    <String List="2">
+      <Source>Really? Is it hard to walk with seven toes? But as a lesser being, I imagine that's the least of your deformities.</Source>
+      <Dest>Really? Is it hard to walk with seven toes? But as a lesser being, I imagine that's the least of your deformities.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd like to see you try, pitiful human.</Source>
+      <Dest>I'd like to see you try, pitiful human.</Dest>
+    </String>
+    <String List="0">
+      <Source>I will tell you my name later. First, let me introduce you to my axe.</Source>
+      <Dest>I will tell you my name later. First, let me introduce you to my axe.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wrong dragon. It is I, Olaf Six-Eye, a legendary Argonian Shadowscale!</Source>
+      <Dest>Wrong dragon. It is I, Olaf Six-Eye, a legendary Argonian Shadowscale!</Dest>
+    </String>
+    <String List="2">
+      <Source>Argonian? Then why in Oblivion are you helping Nords?</Source>
+      <Dest>Argonian? Then why in Oblivion are you helping Nords?</Dest>
+    </String>
+    <String List="0">
+      <Source>I may be an ape, but I am far from puny. Taste my dragon shout!</Source>
+      <Dest>I may be an ape, but I am far from puny. Taste my dragon shout!</Dest>
+    </String>
+    <String List="2">
+      <Source>I thought that part comes later. But fine, let's speed this along. Hit me with your mighty pig shout.</Source>
+      <Dest>I thought that part comes later. But fine, let's speed this along. Hit me with your mighty pig shout.</Dest>
+    </String>
+    <String List="2">
+      <Source>You do know your way to the docks, don't you? Don't tell me I need to escort you there.</Source>
+      <Dest>You do know your way to the docks, don't you? Don't tell me I need to escort you there.</Dest>
+    </String>
+    <String List="2">
+      <Source>Somehow I know I'm going to regret this.</Source>
+      <Dest>Somehow I know I'm going to regret this.</Dest>
+    </String>
+    <String List="2">
+      <Source>I think I'm starting to doubt the Bosmer's claim. None of the monkeys I've seen have ever worn such a hat.</Source>
+      <Dest>I think I'm starting to doubt the Bosmer's claim. None of the monkeys I've seen have ever worn such a hat.</Dest>
+    </String>
+    <String List="2">
+      <Source>Who goes there! Don't tell me it's another puny ape.</Source>
+      <Dest>Who goes there! Don't tell me it's another puny ape.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh yes, this monkey's breath is quite loud and poisonous. Better?</Source>
+      <Dest>Oh yes, this monkey's breath is quite loud and poisonous. Better?</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh please. There's no need to mourn this killer. If you listened to him talk, he was practically begging for it. </Source>
+      <Dest>Oh please. There's no need to mourn this killer. If you listened to him talk, he was practically begging for it. </Dest>
+    </String>
+    <String List="2">
+      <Source>Now I suggest we hurry back to the boat before I kill you two as well.</Source>
+      <Dest>Now I suggest we hurry back to the boat before I kill you two as well.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh please. There's no need to mourn this madman. He probably plunged the knives into his heart because he thought they were thirsty.</Source>
+      <Dest>Oh please. There's no need to mourn this madman. He probably plunged the knives into his heart because he thought they were thirsty.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now I suggest we hurry back to the boat before I kill you two as well.</Source>
+      <Dest>Now I suggest we hurry back to the boat before I kill you two as well.</Dest>
+    </String>
+    <String List="2">
+      <Source>You nearly died, I barely broke a sweat. </Source>
+      <Dest>You nearly died, I barely broke a sweat. </Dest>
+    </String>
+    <String List="2">
+      <Source>In other words, there was never really a need for subterfuge. They all died in the end.</Source>
+      <Dest>In other words, there was never really a need for subterfuge. They all died in the end.</Dest>
+    </String>
+    <String List="2">
+      <Source>Does it matter? The Baroness is dead. Our job is done.</Source>
+      <Dest>Does it matter? The Baroness is dead. Our job is done.</Dest>
+    </String>
+    <String List="2">
+      <Source>You almost sound like a soothsayer, Dunmer.</Source>
+      <Dest>You almost sound like a soothsayer, Dunmer.</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps you'll also predict what happens tomorrow, when I invite you into a quiet room and proceed to melt your flesh.</Source>
+      <Dest>Perhaps you'll also predict what happens tomorrow, when I invite you into a quiet room and proceed to melt your flesh.</Dest>
+    </String>
+    <String List="2">
+      <Source>Why? Don't tell me you're actually frightened?</Source>
+      <Dest>Why? Don't tell me you're actually frightened?</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course it is. We didn't come all this way to eliminate a bunch of impoverished apes. Just a wealthy one.</Source>
+      <Dest>Of course it is. We didn't come all this way to eliminate a bunch of impoverished apes. Just a wealthy one.</Dest>
+    </String>
+    <String List="2">
+      <Source>And tell the Khajiit the next time he puts my name in his mouth, I won't hesitate to kill him.</Source>
+      <Dest>And tell the Khajiit the next time he puts my name in his mouth, I won't hesitate to kill him.</Dest>
+    </String>
+    <String List="2">
+      <Source>At this point, I don't care if it makes me look guilty.</Source>
+      <Dest>At this point, I don't care if it makes me look guilty.</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't. In fact, pray to your tree gods we never meet again. </Source>
+      <Dest>I don't. In fact, pray to your tree gods we never meet again. </Dest>
+    </String>
+    <String List="2">
+      <Source>Why should I? The Baroness is dead. Our debt has been paid. Any further association will only endanger your life.</Source>
+      <Dest>Why should I? The Baroness is dead. Our debt has been paid. Any further association will only endanger your life.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll let you handle that, Bosmer.</Source>
+      <Dest>I'll let you handle that, Bosmer.</Dest>
+    </String>
+    <String List="2">
+      <Source>It appears this Justiciar was suffering from brain rot, as he let Tiber Septim out of his cage.</Source>
+      <Dest>It appears this Justiciar was suffering from brain rot, as he let Tiber Septim out of his cage.</Dest>
+    </String>
+    <String List="2">
+      <Source>But the truth was he was merely baiting him, using his superior mind to fool the ape into trusting him.</Source>
+      <Dest>But the truth was he was merely baiting him, using his superior mind to fool the ape into trusting him.</Dest>
+    </String>
+    <String List="2">
+      <Source>That's when he lit the man on fire, and reminded him of his place in the world.</Source>
+      <Dest>That's when he lit the man on fire, and reminded him of his place in the world.</Dest>
+    </String>
+    <String List="2">
+      <Source>The trap was left by a hunter, who was long dead. Killed by a Justiciar for being insufferable.</Source>
+      <Dest>The trap was left by a hunter, who was long dead. Killed by a Justiciar for being insufferable.</Dest>
+    </String>
+    <String List="2">
+      <Source>Upon seeing the pathetic weakling, the Justiciar said:</Source>
+      <Dest>Upon seeing the pathetic weakling, the Justiciar said:</Dest>
+    </String>
+    <String List="2">
+      <Source>But unfortunately, having caught the scent of meat in the air, he would soon fall victim to a simple trap designed for wolves. </Source>
+      <Dest>But unfortunately, having caught the scent of meat in the air, he would soon fall victim to a simple trap designed for wolves. </Dest>
+    </String>
+    <String List="2">
+      <Source>Like most beasts of limited intelligence, Septim had an instinctual drive to hoard simple foods. </Source>
+      <Dest>Like most beasts of limited intelligence, Septim had an instinctual drive to hoard simple foods. </Dest>
+    </String>
+    <String List="2">
+      <Source>Isn't that right, Wood Elf?</Source>
+      <Dest>Isn't that right, Wood Elf?</Dest>
+    </String>
+    <String List="2">
+      <Source>What do I think? I think that throne of hers would make for excellent kindling.</Source>
+      <Dest>What do I think? I think that throne of hers would make for excellent kindling.</Dest>
+    </String>
+    <String List="2">
+      <Source>These Nord vessels are designed for cretins. So obviously you're the best candidate for the job.</Source>
+      <Dest>These Nord vessels are designed for cretins. So obviously you're the best candidate for the job.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh. Let's just get back to Skyrim before I incinerate all of you.</Source>
+      <Dest>Ugh. Let's just get back to Skyrim before I incinerate all of you.</Dest>
+    </String>
+    <String List="2">
+      <Source>In this rare case, it's possible. But only because you are of such pathetic stock you are an exception to the rule.</Source>
+      <Dest>In this rare case, it's possible. But only because you are of such pathetic stock you are an exception to the rule.</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure. Despite his mood, he's clearly capable of intelligent conversation. Unlike a certain Bosmer I know.</Source>
+      <Dest>Sure. Despite his mood, he's clearly capable of intelligent conversation. Unlike a certain Bosmer I know.</Dest>
+    </String>
+    <String List="2">
+      <Source>But I enjoy the way I look. I enjoy being an incorrigible bitch. For you, this attitude of yours almost seems like a punishment.</Source>
+      <Dest>But I enjoy the way I look. I enjoy being an incorrigible bitch. For you, this attitude of yours almost seems like a punishment.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, that much is obvious. You really should have that face of yours looked at. It seems to be stuck.</Source>
+      <Dest>Yes, that much is obvious. You really should have that face of yours looked at. It seems to be stuck.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh look Dunmer, it appears you have a fan.</Source>
+      <Dest>Oh look Dunmer, it appears you have a fan.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be in the boat while you imbeciles cuddle.</Source>
+      <Dest>I'll be in the boat while you imbeciles cuddle.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing that's thin is my patience. Particularly when dealing with madmen like yourself. </Source>
+      <Dest>The only thing that's thin is my patience. Particularly when dealing with madmen like yourself. </Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that isn't creepy or anything.</Source>
+      <Dest>Well, that isn't creepy or anything.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that isn't creepy or anything.</Source>
+      <Dest>好吧，那不是什么可怕的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sneaking around and stabbing people in the back. Ugh, you assassins are the worst.</Source>
+      <Dest>Sneaking around and stabbing people in the back. Ugh, you assassins are the worst.</Dest>
+    </String>
+    <String List="2">
+      <Source>And gods forbid your stupid knives don't get to drink.</Source>
+      <Dest>And gods forbid your stupid knives don't get to drink.</Dest>
+    </String>
+    <String List="2">
+      <Source>It went precisely how I said it would. There was no need for subterfuge. They all died in the end.</Source>
+      <Dest>It went precisely how I said it would. There was no need for subterfuge. They all died in the end.</Dest>
+    </String>
+    <String List="2">
+      <Source>You say that like it's a bad thing. But if you fools don't have the stomach for it, then you can stay here and rot for all I care. I'm leaving.</Source>
+      <Dest>You say that like it's a bad thing. But if you fools don't have the stomach for it, then you can stay here and rot for all I care. I'm leaving.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I for one, think she got exactly what she deserved. The woman was insufferable. </Source>
+      <Dest>Well, I for one, think she got exactly what she deserved. The woman was insufferable. </Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you don't mind, let's get back to the boat. After being on this island for a few hours, I almost miss Falkreath. </Source>
+      <Dest>Now, if you don't mind, let's get back to the boat. After being on this island for a few hours, I almost miss Falkreath. </Dest>
+    </String>
+    <String List="2">
+      <Source>For once, we're in agreement.</Source>
+      <Dest>For once, we're in agreement.</Dest>
+    </String>
+    <String List="2">
+      <Source>Any other bright ideas, Bosmer?</Source>
+      <Dest>Any other bright ideas, Bosmer?</Dest>
+    </String>
+    <String List="2">
+      <Source>Finally.</Source>
+      <Dest>终于。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suggest we kill them all.</Source>
+      <Dest>I suggest we kill them all.</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you factor an escape into this ridiculous plan of yours?</Source>
+      <Dest>Did you factor an escape into this ridiculous plan of yours?</Dest>
+    </String>
+    <String List="2">
+      <Source>I think it's already too late, cretin.</Source>
+      <Dest>I think it's already too late, cretin.</Dest>
+    </String>
+    <String List="2">
+      <Source>Nauseous.</Source>
+      <Dest>Nauseous.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh fine.</Source>
+      <Dest>Oh fine.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you think I'm going to drink this Nord swill-</Source>
+      <Dest>If you think I'm going to drink this Nord swill-</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps it is because I am playing the role of a Nord weakling. </Source>
+      <Dest>Perhaps it is because I am playing the role of a Nord weakling. </Dest>
+    </String>
+    <String List="2">
+      <Source>You look...serviceable as well.</Source>
+      <Dest>You look...serviceable as well.</Dest>
+    </String>
+    <String List="2">
+      <Source>Hmph. You have no idea what I'm capable of.</Source>
+      <Dest>Hmph. You have no idea what I'm capable of.</Dest>
+    </String>
+    <String List="2">
+      <Source>We begin our tale in the forest, where the man known as Tiber Septim was gathering nuts for the winter.</Source>
+      <Dest>We begin our tale in the forest, where the man known as Tiber Septim was gathering nuts for the winter.</Dest>
+    </String>
+    <String List="2">
+      <Source>Now that that's settled, let us present to you, "The Aldmeri Prisoner."</Source>
+      <Dest>Now that that's settled, let us present to you, "The Aldmeri Prisoner."</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing, your eminence. Our lead actor was simply suffering from a bit of stage fright.</Source>
+      <Dest>Nothing, your eminence. Our lead actor was simply suffering from a bit of stage fright.</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I don't think it will be anything of the sort.</Source>
+      <Dest>No, I don't think it will be anything of the sort.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, right. Ahem.</Source>
+      <Dest>Oh, right. Ahem.</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>You stupid ape, I will do no such thing. I am going to incinerate you and every single one of your men.</Source>
+      <Dest>You stupid ape, I will do no such thing. I am going to incinerate you and every single one of your men.</Dest>
+    </String>
+    <String List="2">
+      <Source>Fair warning. You hit me, you die.</Source>
+      <Dest>Fair warning. You hit me, you die.</Dest>
+    </String>
+    <String List="2">
+      <Source> You don't have any objections, do you, bard?</Source>
+      <Dest> You don't have any objections, do you, bard?</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh yes, my lady, that we can do.</Source>
+      <Dest>Oh yes, my lady, that we can do.</Dest>
+    </String>
+    <String List="2">
+      <Source>I think I'm starting to like this woman.</Source>
+      <Dest>I think I'm starting to like this woman.</Dest>
+    </String>
+    <String List="2">
+      <Source>No, by all means, continue. I'd very much like to know what happened to them.</Source>
+      <Dest>No, by all means, continue. I'd very much like to know what happened to them.</Dest>
+    </String>
+    <String List="2">
+      <Source>Just out of curiosity, steward...may I ask how many years these bards had trained?</Source>
+      <Dest>Just out of curiosity, steward...may I ask how many years these bards had trained?</Dest>
+    </String>
+    <String List="2">
+      <Source>You won't see much of anything when I light your face on fire.</Source>
+      <Dest>You won't see much of anything when I light your face on fire.</Dest>
+    </String>
+    <String List="2">
+      <Source>What?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>And here I thought being exiled from the Thalmor was my lowest moment.</Source>
+      <Dest>And here I thought being exiled from the Thalmor was my lowest moment.</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, you should be thankful this one came as he did. His best clothes are likely stained in blood.</Source>
+      <Dest>In any case, you should be thankful this one came as he did. His best clothes are likely stained in blood.</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait, you mean to tell me there are people who actually hold these peasant rags in high esteem?</Source>
+      <Dest>Wait, you mean to tell me there are people who actually hold these peasant rags in high esteem?</Dest>
+    </String>
+    <String List="2">
+      <Source>Not only are they incredibly uncomfortable, they are patently hideous. How long am I expected to wear this hat?</Source>
+      <Dest>Not only are they incredibly uncomfortable, they are patently hideous. How long am I expected to wear this hat?</Dest>
+    </String>
+    <String List="2">
+      <Source>No, you are the person who is annoying me today. For that, you will die.</Source>
+      <Dest>No, you are the person who is annoying me today. For that, you will die.</Dest>
+    </String>
+    <String List="2">
+      <Source>You have a point. Perhaps you are not the person who annoyed me yesterday.</Source>
+      <Dest>You have a point. Perhaps you are not the person who annoyed me yesterday.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh please. You were certainly one yesterday. I remember you plain as day. The fool with the ridiculous brown hat.</Source>
+      <Dest>Oh please. You were certainly one yesterday. I remember you plain as day. The fool with the ridiculous brown hat.</Dest>
+    </String>
+    <String List="2">
+      <Source>Ugh.  Do not tell me you are backing out now. I thought you Nord monkeys were supposed to be brave.</Source>
+      <Dest>Ugh.  Do not tell me you are backing out now. I thought you Nord monkeys were supposed to be brave.</Dest>
+    </String>
+    <String List="2">
+      <Source>Go where?  What are you babbling about? It's a wonder why the Divines gave you beasts tongues.</Source>
+      <Dest>Go where?  What are you babbling about? It's a wonder why the Divines gave you beasts tongues.</Dest>
+    </String>
+    <String List="2">
+      <Source>What happened to your tail, monkey? Did you lose it cutting wood?</Source>
+      <Dest>What happened to your tail, monkey? Did you lose it cutting wood?</Dest>
+    </String>
+    <String List="2">
+      <Source>Careful where you say those words, girl.  You know not what you speak.</Source>
+      <Dest>Careful where you say those words, girl.  You know not what you speak.</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't mind humoring this Khajiit for a little longer. I'll meet you two in Falkreath. Perhaps I'll be adding a new grave to my collection.</Source>
+      <Dest>I don't mind humoring this Khajiit for a little longer. I'll meet you two in Falkreath. Perhaps I'll be adding a new grave to my collection.</Dest>
+    </String>
+    <String List="2">
+      <Source>Go on, run along on your little errands. I doubt this meeting will start unless all of us our present.</Source>
+      <Dest>Go on, run along on your little errands. I doubt this meeting will start unless all of us our present.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, it sounds to me like your plan is idiotic. Which is all the better seeing as I'll get to kill more monkeys.</Source>
+      <Dest>Well, it sounds to me like your plan is idiotic. Which is all the better seeing as I'll get to kill more monkeys.</Dest>
+    </String>
+    <String List="2">
+      <Source>And what makes you think I can play this "straight man?"</Source>
+      <Dest>And what makes you think I can play this "straight man?"</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. Tell us your grand plan. I could use a good laugh.</Source>
+      <Dest>Fine. Tell us your grand plan. I could use a good laugh.</Dest>
+    </String>
+    <String List="2">
+      <Source>We don't have to do anything. Especially if the idea comes out of your mouth. We just need to kill everyone on that island.</Source>
+      <Dest>We don't have to do anything. Especially if the idea comes out of your mouth. We just need to kill everyone on that island.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I think we can all agree that sneaking around back like cowards is not an option.</Source>
+      <Dest>Well, I think we can all agree that sneaking around back like cowards is not an option.</Dest>
+    </String>
+    <String List="2">
+      <Source>And I suppose you would have us march right through the front gate. </Source>
+      <Dest>And I suppose you would have us march right through the front gate. </Dest>
+    </String>
+    <String List="2">
+      <Source>I kill a lot of people. I make it a point not to care.</Source>
+      <Dest>I kill a lot of people. I make it a point not to care.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing I understand is that you're the one responsible for wasting my time.</Source>
+      <Dest>The only thing I understand is that you're the one responsible for wasting my time.</Dest>
+    </String>
+    <String List="2">
+      <Source>Or is there some other person I need to kill to end this meeting.</Source>
+      <Dest>Or is there some other person I need to kill to end this meeting.</Dest>
+    </String>
+    <String List="2">
+      <Source>Unf!</Source>
+      <Dest>唔嗯！</Dest>
+    </String>
+    <String List="2">
+      <Source>Agh! Watch where you're aiming, simpleton! That almost scratched me!</Source>
+      <Dest>Agh! Watch where you're aiming, simpleton! That almost scratched me!</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, this charade ends now!</Source>
+      <Dest>All right, this charade ends now!</Dest>
+    </String>
+    <String List="2">
+      <Source>Because they lack your courage.</Source>
+      <Dest>因为他们不具备你的勇气。</Dest>
+    </String>
+    <String List="2">
+      <Source>Figures. Then again, I suppose I should commend you for having the ability to stand.</Source>
+      <Dest>Figures. Then again, I suppose I should commend you for having the ability to stand.</Dest>
+    </String>
+    <String List="2">
+      <Source>The speaking part will have to come during the next evolutionary cycle.</Source>
+      <Dest>The speaking part will have to come during the next evolutionary cycle.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you have something to say to me Bolund, say it. Don't just stand there looking stupid.</Source>
+      <Dest>If you have something to say to me Bolund, say it. Don't just stand there looking stupid.</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't converse with Imperial swine.</Source>
+      <Dest>我不和帝国狗说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you do your ears a great service. Although if you mill about with Stormcloaks, I cannot say the same for your dignity.</Source>
+      <Dest>Then you do your ears a great service. Although if you mill about with Stormcloaks, I cannot say the same for your dignity.</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't converse with Imperial swine.</Source>
+      <Dest>我不和帝国狗说话。</Dest>
+    </String>
+    <String List="2">
+      <Source>In the end, the only side that matters is the winning one. I hope to rejoin it soon.</Source>
+      <Dest>In the end, the only side that matters is the winning one. I hope to rejoin it soon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any chance you will be reinstated?</Source>
+      <Dest>那以后你还有没有复职的可能呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course. The Thalmor are not the Empire. We do not share their frothing obsession with bureaucracy.</Source>
+      <Dest>Of course. The Thalmor are not the Empire. We do not share their frothing obsession with bureaucracy.</Dest>
+    </String>
+    <String List="2">
+      <Source>Talk to them, and you'll see. Find a soldier, and ask him to file a report. Then watch as his mouth becomes a pond of saliva.</Source>
+      <Dest>Talk to them, and you'll see. Find a soldier, and ask him to file a report. Then watch as his mouth becomes a pond of saliva.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any chance you will be reinstated?</Source>
+      <Dest>那以后你还有没有复职的可能呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the Thalmor different than the Empire?</Source>
+      <Dest>How are the Thalmor different than the Empire?</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any chance you will be reinstated?</Source>
+      <Dest>那以后你还有没有复职的可能呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>How are the Thalmor different than the Empire?</Source>
+      <Dest>How are the Thalmor different than the Empire?</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I suggest you don a helmet in advance, one of those Dwarven ones, lest his response shower your cheek.</Source>
+      <Dest>不过我得建议你事先戴上头盔，矮人造的全包那种，免得那家伙的口水滴到你你脸上。</Dest>
+    </String>
+    <String List="0">
+      <Source>One must maintain a guise of admiration for the fools he dupes.</Source>
+      <Dest>为了让蠢货们上当，必须要保持伪装。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sound like a diplomat I once knew. He thinks we can win this war with words.</Source>
+      <Dest>You sound like a diplomat I once knew. He thinks we can win this war with words.</Dest>
+    </String>
+    <String List="0">
+      <Source>One must maintain a guise of admiration for the fools he dupes.</Source>
+      <Dest>为了让蠢货们上当，必须要保持伪装。</Dest>
+    </String>
+    <String List="2">
+      <Source>But Hammerfell is proof that some fools will never yield. And when this war resumes, I will rejoin my brethren.</Source>
+      <Dest>But Hammerfell is proof that some fools will never yield. And when this war resumes, I will rejoin my brethren.</Dest>
+    </String>
+    <String List="2">
+      <Source>On the contrary, Ondolemar was quite intelligent, and intelligent Mer often find it difficult when they are asked to perform such menial tasks.</Source>
+      <Dest>正相反，昂多勒马非常聪明，而当聪明的精灵被要求做一些不怎么体面的任务时总会发现一些麻烦。</Dest>
+    </String>
+    <String List="0">
+      <Source>He doesn't sound so smart to me.</Source>
+      <Dest>听起来他不那么聪明啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>He doesn't sound so smart to me.</Source>
+      <Dest>听起来他不那么聪明啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>The apprehension of Talos worshippers had become a game. One that was far more intellectually stimulating if done with self-imposed restrictions.</Source>
+      <Dest>The apprehension of Talos worshippers had become a game. One that was far more intellectually stimulating if done with self-imposed restrictions.</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the problem?</Source>
+      <Dest>What was the problem?</Dest>
+    </String>
+    <String List="2">
+      <Source>Everyone assumed I was the murderer. It didn't help that I've been a rather vocal proponent of mass execution.</Source>
+      <Dest>Everyone assumed I was the murderer. It didn't help that I've been a rather vocal proponent of mass execution.</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the problem?</Source>
+      <Dest>What was the problem?</Dest>
+    </String>
+    <String List="2">
+      <Source>So, we decided it was best to use this perception to our advantage.</Source>
+      <Dest>So, we decided it was best to use this perception to our advantage.</Dest>
+    </String>
+    <String List="0">
+      <Source>What was the problem?</Source>
+      <Dest>What was the problem?</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, I never confessed to the crime, but I was stripped of my rank and exiled. This gave the perception that justice was served.</Source>
+      <Dest>Now, I never confessed to the crime, but I was stripped of my rank and exiled. This gave the perception that justice was served.</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy. I'm on your side.</Source>
+      <Dest>放轻松。我在你身边。</Dest>
+    </String>
+    <String List="2">
+      <Source>A peculiar position to take, seeing that I have no side to speak of. If you are with the Thalmor, then I am no longer with you.</Source>
+      <Dest>A peculiar position to take, seeing that I have no side to speak of. If you are with the Thalmor, then I am no longer with you.</Dest>
+    </String>
+    <String List="2">
+      <Source>If you are an enemy of the Thalmor, then I am no longer against you. Regardless, we are in no way in league with each other.</Source>
+      <Dest>If you are an enemy of the Thalmor, then I am no longer against you. Regardless, we are in no way in league with each other.</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy. I'm on your side.</Source>
+      <Dest>放轻松。我在你身边。</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect the Empire.</Source>
+      <Dest>你对帝国的态度不像是尊重的样子。</Dest>
+    </String>
+    <String List="2">
+      <Source>We are the first people, mortals fashioned in the mold of the Divines.  We don't have to respect anyone save ourselves.</Source>
+      <Dest>We are the first people, mortals fashioned in the mold of the Divines.  We don't have to respect anyone save ourselves.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't seem to respect the Empire.</Source>
+      <Dest>你对帝国的态度不像是尊重的样子。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is the whole point for this war. To put everyone in their rightful place.</Source>
+      <Dest>That is the whole point for this war. To put everyone in their rightful place.</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath does have its charm.</Source>
+      <Dest>福克瑞斯确实独具魅力。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I have noticed. "Dead Man's Drink." "Grave Concoctions." How quaint.</Source>
+      <Dest>Yes, I have noticed. "Dead Man's Drink." "Grave Concoctions." How quaint.</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath does have its charm.</Source>
+      <Dest>福克瑞斯确实独具魅力。</Dest>
+    </String>
+    <String List="2">
+      <Source>The humor does not extend to the barracks or the cemetery, however. I find it counterproductive, considering that is where it is needed most.</Source>
+      <Dest>The humor does not extend to the barracks or the cemetery, however. I find it counterproductive, considering that is where it is needed most.</Dest>
+    </String>
+    <String List="0">
+      <Source>Heathens? Here I thought you were remorseful.</Source>
+      <Dest>异教徒？还以为你后悔了呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>For what should I show remorse? For restoring the proper hierarchy of Man and Mer? For refusing to equate a mortal man with the Eight Divines?</Source>
+      <Dest>For what should I show remorse? For restoring the proper hierarchy of Man and Mer? For refusing to equate a mortal man with the Eight Divines?</Dest>
+    </String>
+    <String List="0">
+      <Source>Heathens? Here I thought you were remorseful.</Source>
+      <Dest>异教徒？还以为你后悔了呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>My departure from the Thalmor is not a reprimand of the ideals for which I joined.  It is my distaste for Ondolemar's tactics that caused this rift.</Source>
+      <Dest>退出梭默的行为并非对自己当初加入理想事业的背弃。而是我对昂多勒马行事方式的厌恶。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was shrewd to take advantage of their deaths. You should be proud.</Source>
+      <Dest>那样利用他们的死亡很高明啊。你该感到荣幸！</Dest>
+    </String>
+    <String List="2">
+      <Source>Proud? Hardly. That is the fundamental difference between the Thalmor and this pathetic excuse for a rebellion.</Source>
+      <Dest>Proud? Hardly. That is the fundamental difference between the Thalmor and this pathetic excuse for a rebellion.</Dest>
+    </String>
+    <String List="0">
+      <Source>It was shrewd to take advantage of their deaths. You should be proud.</Source>
+      <Dest>那样利用他们的死亡很高明啊。你该感到荣幸！</Dest>
+    </String>
+    <String List="2">
+      <Source>There is no special reward for upholding one's duty.</Source>
+      <Dest>There is no special reward for upholding one's duty.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did he give you anything? Or mention a bard named Bodan?</Source>
+      <Dest>他有没有给你什么东西？或者提到一个名叫波登的诗人？</Dest>
+    </String>
+    <String List="2">
+      <Source>As a matter of fact, he did mention a bard by that name. Here. Take this. I certainly have no need for it.</Source>
+      <Dest>As a matter of fact, he did mention a bard by that name. Here. Take this. I certainly have no need for it.</Dest>
+    </String>
+    <String List="2">
+      <Source>No need to thank me, killing fools is standard protocol for one of my rank.</Source>
+      <Dest>不用谢我，除掉傻瓜也是我这级别的份内之事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you. You saved me the trouble of killing that fool myself.</Source>
+      <Dest>多谢。你杀了那个傻瓜就省得我亲自动手了。</Dest>
+    </String>
+    <String List="2">
+      <Source>One of these days, these apes are going to need to build another cemetery just to hold my victims.</Source>
+      <Dest>总有一天, 这些臭猴子得专门建一个墓地去存放我的牺牲品。</Dest>
+    </String>
+    <String List="0">
+      <Source>Thank you. You saved me the trouble of killing that fool myself.</Source>
+      <Dest>多谢。你杀了那个傻瓜就省得我亲自动手了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Almost isn't good enough, Thalmor. I should kill you now.</Source>
+      <Dest>这可不太好，梭默人。我现在就应该杀了你。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Right. Except you will not. You, after all, are not one who murders without just cause.</Source>
+      <Dest>是的。不过你不会这么干。你这人，毕竟不是那种毫无理由就杀人的类型。</Dest>
+    </String>
+    <String List="0">
+      <Source>Almost isn't good enough, Thalmor. I should kill you now.</Source>
+      <Dest>这可不太好，梭默人。我现在就应该杀了你。.</Dest>
+    </String>
+    <String List="2">
+      <Source>At least, that is what you are implying, by arguing so vehemently on behalf of this idiot I just extinguished.</Source>
+      <Dest>至少，你的表现就是这个样子。为了一个刚被我干掉的白痴费尽口舌争辩半天。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will be whatever I want to be. That is my right as one of the first children.  It is the other races that must adapt to our whims.</Source>
+      <Dest>我想做什么人就做什么人。这是我作为一流种族的权力。而其他族群必须顺应我们的一切意愿。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're all heart, Jerulith.</Source>
+      <Dest>你真霸气啊，【捷尔勒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, when you put it that way, I am indeed sorry for my actions. I will simply have to murder more Nords to compensate.</Source>
+      <Dest>Now, when you put it that way, I am indeed sorry for my actions. I will simply have to murder more Nords to compensate.</Dest>
+    </String>
+    <String List="0">
+      <Source>So you killed a murderer and saved a few Nords. Bravo.</Source>
+      <Dest>这么说你干掉了一个凶手并拯救了几个诺德人，干得漂亮。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope that will serve as an appropriate apology.</Source>
+      <Dest>我希望这样的道歉形式可以接受吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>So you killed a murderer and saved a few Nords. Bravo.</Source>
+      <Dest>这么说你干掉了一个凶手并拯救了几个诺德人，干得漂亮。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea who that man was?</Source>
+      <Dest>你知道那人是谁吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm...now that I think about it, perhaps I have seen that muskrat of a beard before.</Source>
+      <Dest>Hm...now that I think about it, perhaps I have seen that muskrat of a beard before.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea who that man was?</Source>
+      <Dest>你知道那人是谁吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He might have recruited me assassinate some hunters. Come to think of it, I might have even agreed to the contract.</Source>
+      <Dest>He might have recruited me assassinate some hunters. Come to think of it, I might have even agreed to the contract.</Dest>
+    </String>
+    <String List="2">
+      <Source>It sounds like something I would do. I am almost sorry I terminated him.</Source>
+      <Dest>It sounds like something I would do. I am almost sorry I terminated him.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you have any idea who that man was?</Source>
+      <Dest>你知道那人是谁吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>You could have been framed.</Source>
+      <Dest>你恐怕是被陷害的。</Dest>
+    </String>
+    <String List="2">
+      <Source>By whom? Bemoril? That imbecile thinks the lesser beings are children we must care for and protect.  </Source>
+      <Dest>By whom? Bemoril? That imbecile thinks the lesser beings are children we must care for and protect.  </Dest>
+    </String>
+    <String List="2">
+      <Source>The faces change, the taunts are the same. It seems originality is the only dead thing which the Nords have failed to reanimate.</Source>
+      <Dest>The faces change, the taunts are the same. It seems originality is the only dead thing which the Nords have failed to reanimate.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I will tell you what I tell all the others. I am no longer a Justiciar.  </Source>
+      <Dest>I will tell you what I tell all the others. I am no longer a Justiciar.  </Dest>
+    </String>
+    <String List="2">
+      <Source>If you still wish to duel me, then I will end your miserable life come morning. However, as of this moment I am not in the mood.</Source>
+      <Dest>If you still wish to duel me, then I will end your miserable life come morning. However, as of this moment I am not in the mood.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="2">
+      <Source>There's nothing I despise more than a High Elf who abdicates their position of superiority to frolic with lesser beasts.</Source>
+      <Dest>我最瞧不上的就是那种背离自己尊位去和低等禽兽混在一起的高精灵。</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a shame that I must now call you an equal, for I am no longer a Thalmor, and no longer of superior rank.</Source>
+      <Dest>而现在的我必须忍辱承认与你平等，因为我不再是梭默，也没有什么高阶层身份了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="2">
+      <Source>If you still wish to duel me, then I will put an end to your miserable self-loathing come morning.  However, as of this moment I am not in the mood.</Source>
+      <Dest>要是你还打算跟我决斗，那么我明早有空帮你结束这可悲的自暴自弃。而现在我没这个兴致。</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll face me like a soldier, Thalmor bitch.</Source>
+      <Dest>咱们早晚战场上见，梭默贱人。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's the cemetery, although I suppose it's rather underwhelming.</Source>
+      <Dest>There's the cemetery, although I suppose it's rather underwhelming.</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose that's the point. A huge cemetery is not something people want to see during wartime. It's bad for morale.</Source>
+      <Dest>I suppose that's the point. A huge cemetery is not something people want to see during wartime. It's bad for morale.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Aldmeri will be a welcome change from this mudcrab's excuse for a kingdom.</Source>
+      <Dest>对这片螃蟹地来说先祖神洲的文明统治会很受欢迎的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That it will. When superior minds are allowed to govern, the benefits will proliferate to all who are subject to their rule.  </Source>
+      <Dest>That it will. When superior minds are allowed to govern, the benefits will proliferate to all who are subject to their rule.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Why come to Falkreath?</Source>
+      <Dest>为什么来到佛克瑞斯？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a temporary escape. I do not plan on remaining in this hovel of a kingdom beyond the next season.  </Source>
+      <Dest>It is a temporary escape. I do not plan on remaining in this hovel of a kingdom beyond the next season.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Why come to Falkreath?</Source>
+      <Dest>为什么来到佛克瑞斯？</Dest>
+    </String>
+    <String List="2">
+      <Source>My plan is to return to the Summerset Isle, but after doing a little sightseeing.</Source>
+      <Dest>我有计划要回去夏暮岛，但得先在这儿观光够了才走。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the townsfolk think of you?</Source>
+      <Dest>市民们是怎么看待你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>They are tolerant, because they are afraid. As for the Jarl, it matters not whether Siddgeir or Dengeir is in charge.</Source>
+      <Dest>They are tolerant, because they are afraid. As for the Jarl, it matters not whether Siddgeir or Dengeir is in charge.</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the townsfolk think of you?</Source>
+      <Dest>市民们是怎么看待你的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="2">
+      <Source>Because when two buffoons of equally damaged minds vie for a throne, the reasonable citizens lose interest in the process.</Source>
+      <Dest>Because when two buffoons of equally damaged minds vie for a throne, the reasonable citizens lose interest in the process.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the townsfolk think of you?</Source>
+      <Dest>市民们是怎么看待你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>As such, more voice is given to the fools. And with fools in charge, the law becomes meaningless.</Source>
+      <Dest>As such, more voice is given to the fools. And with fools in charge, the law becomes meaningless.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>What do the townsfolk think of you?</Source>
+      <Dest>市民们是怎么看待你的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here, power makes the rules.</Source>
+      <Dest>Here, power makes the rules.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>Why is that? </Dest>
+    </String>
+    <String List="0">
+      <Source>Why is that?</Source>
+      <Dest>为什么呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>I hope you arrested every one of those Talos worshipping scum.</Source>
+      <Dest>我希望你把每一个崇拜塔洛斯的人渣都抓光光。</Dest>
+    </String>
+    <String List="2">
+      <Source>We should have done so swiftly, for they are indeed scum. Alas, I fear Ondolemar preferred a more circuitous route, if only to present a challenge.</Source>
+      <Dest>We should have done so swiftly, for they are indeed scum. Alas, I fear Ondolemar preferred a more circuitous route, if only to present a challenge.</Dest>
+    </String>
+    <String List="0">
+      <Source>You'll have to go through me first.</Source>
+      <Dest>你得先过了我这一关。</Dest>
+    </String>
+    <String List="2">
+      <Source>Exactly. That is the part that those who seek diplomatic strategies will never understand. That you are willing to be run through.</Source>
+      <Dest>Exactly. That is the part that those who seek diplomatic strategies will never understand. That you are willing to be run through.</Dest>
+    </String>
+    <String List="0">
+      <Source>By your own admission the townsfolk have the power to harm you.</Source>
+      <Dest>是你自己的默许使那些市民对你造成了威胁。</Dest>
+    </String>
+    <String List="2">
+      <Source>They are not organized. There are the occasional challenges, brought forth by those emboldened by drink.</Source>
+      <Dest>They are not organized. There are the occasional challenges, brought forth by those emboldened by drink.</Dest>
+    </String>
+    <String List="0">
+      <Source>By your own admission the townsfolk have the power to harm you.</Source>
+      <Dest>是你自己的默许使那些市民对你造成了威胁。</Dest>
+    </String>
+    <String List="2">
+      <Source>I usually deflect their taunts and tell them to return in the morning when they have sobered. None ever do.</Source>
+      <Dest>I usually deflect their taunts and tell them to return in the morning when they have sobered. None ever do.</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're no longer with the Thalmor, that explains why you're alone.</Source>
+      <Dest>If you're no longer with the Thalmor, that explains why you're alone.</Dest>
+    </String>
+    <String List="2">
+      <Source>Interesting. I was quite certain this conversation would become gradually more belligerent, not less.</Source>
+      <Dest>Interesting. I was quite certain this conversation would become gradually more belligerent, not less.</Dest>
+    </String>
+    <String List="0">
+      <Source>If you're no longer with the Thalmor, that explains why you're alone.</Source>
+      <Dest>If you're no longer with the Thalmor, that explains why you're alone.</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it possible that there is one individual in this bull netch of a province that is capable of reason?</Source>
+      <Dest>你说在这么大的一个省份中会不会出现那么一个通情达理的人呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's a duel you seek stranger, then I suggest you leave.</Source>
+      <Dest>If it's a duel you seek stranger, then I suggest you leave.</Dest>
+    </String>
+    <String List="2">
+      <Source>I am not here to fulfill your desire for pain, or free you from your wretched existence. At least, not today.</Source>
+      <Dest>I am not here to fulfill your desire for pain, or free you from your wretched existence. At least, not today.</Dest>
+    </String>
+    <String List="0">
+      <Source>You mock your own allies. Further proof the Thalmor are tyrants.</Source>
+      <Dest>你们连自己的盟友都耍，进一步证明了梭默的残暴。</Dest>
+    </String>
+    <String List="2">
+      <Source>I tire of this game. When a mortal hunts a beast for food and fur, is he a tyrant?  </Source>
+      <Dest>I tire of this game. When a mortal hunts a beast for food and fur, is he a tyrant?  </Dest>
+    </String>
+    <String List="2">
+      <Source>That is all we are doing. When this war resumes, we will conquer the beasts who are not fit to rule.</Source>
+      <Dest>That is all we are doing. When this war resumes, we will conquer the beasts who are not fit to rule.</Dest>
+    </String>
+    <String List="0">
+      <Source>You mock your own allies. Further proof the Thalmor are tyrants.</Source>
+      <Dest>你们连自己的盟友都耍，进一步证明了梭默的残暴。</Dest>
+    </String>
+    <String List="0">
+      <Source>I could kill you myself.</Source>
+      <Dest>I could kill you myself.</Dest>
+    </String>
+    <String List="2">
+      <Source>And you wish to advertise this fact to me? You are worse than that idiot Bolund. At least his threats are somewhat veiled.</Source>
+      <Dest>And you wish to advertise this fact to me? You are worse than that idiot Bolund. At least his threats are somewhat veiled.</Dest>
+    </String>
+    <String List="2">
+      <Source>But why bother with the foreplay? You seek vengeance for your loved ones. That's why you want to talk. That's why everyone wants to talk.</Source>
+      <Dest>But why bother with the foreplay? You seek vengeance for your loved ones. That's why you want to talk. That's why everyone wants to talk.</Dest>
+    </String>
+    <String List="0">
+      <Source>We could start with something simple, like a name.</Source>
+      <Dest>We could start with something simple, like a name.</Dest>
+    </String>
+    <String List="0">
+      <Source>We could start with something simple, like a name.</Source>
+      <Dest>We could start with something simple, like a name.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well you are too late. I am no longer a Thalmor. The clothes are just that. Clothes. I will not discard a perfectly adequate robe.</Source>
+      <Dest>Well you are too late. I am no longer a Thalmor. The clothes are just that. Clothes. I will not discard a perfectly adequate robe.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, I love discussing religion and politics.</Source>
+      <Dest>Sure, I love discussing religion and politics.</Dest>
+    </String>
+    <String List="2">
+      <Source>But why bother with the foreplay? You seek vengeance for your loved ones. That's why you want to talk. That's why everyone wants to talk.</Source>
+      <Dest>But why bother with the foreplay? You seek vengeance for your loved ones. That's why you want to talk. That's why everyone wants to talk.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, I love discussing religion and politics.</Source>
+      <Dest>Sure, I love discussing religion and politics.</Dest>
+    </String>
+    <String List="2">
+      <Source>Well you are too late. I am no longer a Thalmor. The clothes are just that. Clothes. I will not discard a perfectly adequate robe.</Source>
+      <Dest>Well you are too late. I am no longer a Thalmor. The clothes are just that. Clothes. I will not discard a perfectly adequate robe.</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I just wanted to talk.</Source>
+      <Dest>其实，我只是想聊天。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah yes, and what, pray tell, do you wish to converse about? Hm? Politics? Religion? My two favorite subjects!</Source>
+      <Dest>Ah yes, and what, pray tell, do you wish to converse about? Hm? Politics? Religion? My two favorite subjects!</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I just wanted to talk.</Source>
+      <Dest>其实，我只是想聊天。</Dest>
+    </String>
+    <String List="2">
+      <Source>Perhaps you wish to discuss both! How delightful!</Source>
+      <Dest>Perhaps you wish to discuss both! How delightful!</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm going to tell the Jarl you said that.</Source>
+      <Dest>我会把你的话转告领主大人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead. He will tell you all the requisite platitudes, that the issue will be taken care of in due time.</Source>
+      <Dest>Go ahead. He will tell you all the requisite platitudes, that the issue will be taken care of in due time.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm going to tell the Jarl you said that.</Source>
+      <Dest>我会把你的话转告领主大人的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is a response he most surely believes. Again, he is a fool put in charge by fools.</Source>
+      <Dest>Which is a response he most surely believes. Again, he is a fool put in charge by fools.</Dest>
+    </String>
+    <String List="2">
+      <Source>The only thing I know is the person was quite efficient and extremely disturbed. The rest would be mere speculation.</Source>
+      <Dest>The only thing I know is the person was quite efficient and extremely disturbed. The rest would be mere speculation.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who do you suspect murdered the family?</Source>
+      <Dest>你觉得谋杀那家人的凶手是谁？</Dest>
+    </String>
+    <String List="0">
+      <Source>At least the other Justiciar seems merciful, if misguided.</Source>
+      <Dest>At least the other Justiciar seems merciful, if misguided.</Dest>
+    </String>
+    <String List="2">
+      <Source>It is futile to attempt to win over those who despise you with mercy. The children were unsalvageable and required execution.</Source>
+      <Dest>It is futile to attempt to win over those who despise you with mercy. The children were unsalvageable and required execution.</Dest>
+    </String>
+    <String List="0">
+      <Source>At least the other Justiciar seems merciful, if misguided.</Source>
+      <Dest>At least the other Justiciar seems merciful, if misguided.</Dest>
+    </String>
+    <String List="2">
+      <Source>The issue was made irrelevant, however, when the entire family was found murdered.</Source>
+      <Dest>但这问题很快失去了意义，因为后来发现那家人全被谋杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should show more compassion. These are children you speak of.</Source>
+      <Dest>你有理由表示更多同情。毕竟提到的是孩子们。</Dest>
+    </String>
+    <String List="2">
+      <Source>They were future rebels. The moment we arrested their parents they would forever despise us. The wisest course was to execute them.</Source>
+      <Dest>They were future rebels. The moment we arrested their parents they would forever despise us. The wisest course was to execute them.</Dest>
+    </String>
+    <String List="0">
+      <Source>You should show more compassion. These are children you speak of.</Source>
+      <Dest>你有理由表示更多同情。毕竟提到的是孩子们。</Dest>
+    </String>
+    <String List="2">
+      <Source>The issue was made irrelevant, however, when the entire family was found murdered.</Source>
+      <Dest>但这问题很快失去了意义，因为后来发现那家人全被谋杀了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly led to your departure?</Source>
+      <Dest>那究竟是什么原因导致你的退出呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who murdered the family?</Source>
+      <Dest>Who murdered the family?</Dest>
+    </String>
+    <String List="2">
+      <Source>That is insignificant. The family was dead, and no longer worshiped Talos.</Source>
+      <Dest>That is insignificant. The family was dead, and no longer worshiped Talos.</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly led to your departure?</Source>
+      <Dest>那究竟是什么原因导致你的退出呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Who murdered the family?</Source>
+      <Dest>Who murdered the family?</Dest>
+    </String>
+    <String List="2">
+      <Source>Moreover, by letting a murderer run amok, we prevented the family from becoming martyrs. There was just one problem.</Source>
+      <Dest>Moreover, by letting a murderer run amok, we prevented the family from becoming martyrs. There was just one problem.</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly led to your departure?</Source>
+      <Dest>那究竟是什么原因导致你的退出呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ondolemar estimated that Talos worship would decrease by a third in the wake of the murders.</Source>
+      <Dest>Ondolemar estimated that Talos worship would decrease by a third in the wake of the murders.</Dest>
+    </String>
+    <String List="0">
+      <Source>Did dismissing you have any noticeable effects?</Source>
+      <Dest>Did dismissing you have any noticeable effects?</Dest>
+    </String>
+    <String List="0">
+      <Source>What exactly led to your departure?</Source>
+      <Dest>那究竟是什么原因导致你的退出呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Did dismissing you have any noticeable effects?</Source>
+      <Dest>Did dismissing you have any noticeable effects?</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if that's true, but I wouldn't doubt his calculation.</Source>
+      <Dest>I don't know if that's true, but I wouldn't doubt his calculation.</Dest>
+    </String>
+    <String List="0">
+      <Source>There's nothing to see here. Just trees.</Source>
+      <Dest>这里没啥好看的，全是树。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're forgetting the graveyard. The preponderance of Nord bodies is always a delight to see.</Source>
+      <Dest>You're forgetting the graveyard. The preponderance of Nord bodies is always a delight to see.</Dest>
+    </String>
+    <String List="0">
+      <Source>This man wanted vengeance against the Thalmor?</Source>
+      <Dest>This man wanted vengeance against the Thalmor?</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, and this is after I told him I was no longer a Justiciar. But he was a rather stubborn Nord.</Source>
+      <Dest>Yes, and this is after I told him I was no longer a Justiciar. But he was a rather stubborn Nord.</Dest>
+    </String>
+    <String List="2">
+      <Source>Him? He doesn't count. That wasn't technically a challenge. Then again, none of them are.</Source>
+      <Dest>Him? He doesn't count. That wasn't technically a challenge. Then again, none of them are.</Dest>
+    </String>
+    <String List="0">
+      <Source>You said that was your last challenge. What about the person you just killed?</Source>
+      <Dest>You said that was your last challenge. What about the person you just killed?</Dest>
+    </String>
+    <String List="0">
+      <Source>You said that was your last challenge. What about the person you just killed?</Source>
+      <Dest>You said that was your last challenge. What about the person you just killed?</Dest>
+    </String>
+    <String List="2">
+      <Source>I kill them all like a spider kills flies. Lying down. I might do the same to you. Tomorrow.</Source>
+      <Dest>I kill them all like a spider kills flies. Lying down. I might do the same to you. Tomorrow.</Dest>
+    </String>
+    <String List="0">
+      <Source>How about tomorrow, then?</Source>
+      <Dest>那么明天如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, yes, tomorrow I will have your head on an ice spike and your ears in a box.</Source>
+      <Dest>Yes, yes, tomorrow I will have your head on an ice spike and your ears in a box.</Dest>
+    </String>
+    <String List="0">
+      <Source>How about tomorrow, then?</Source>
+      <Dest>那么明天如何？</Dest>
+    </String>
+    <String List="2">
+      <Source>But please, at least make some effort not to embarrass yourself. When you face a former Justiciar, that should be your primary goal.</Source>
+      <Dest>But please, at least make some effort not to embarrass yourself. When you face a former Justiciar, that should be your primary goal.</Dest>
+    </String>
+    <String List="2">
+      <Source>Only a fool thinks that way. Using death for political gain is not a tactic exclusive to the Thalmor.</Source>
+      <Dest>Only a fool thinks that way. Using death for political gain is not a tactic exclusive to the Thalmor.</Dest>
+    </String>
+    <String List="0">
+      <Source>You Thalmor are worse than the killer, using death for politics.</Source>
+      <Dest>You Thalmor are worse than the killer, using death for politics.</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you at odds with the Thalmor?</Source>
+      <Dest>你为什么会跟梭默对立的？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is a rather simple matter. I disobeyed a direct order from my superior.</Source>
+      <Dest>其实事情很简单。我没有遵从上级的一条直接命令。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you at odds with the Thalmor?</Source>
+      <Dest>你为什么会跟梭默对立的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I was stationed in Markarth with two others. We were investigating a family that kept abnormal hours, staying up well past midnight.</Source>
+      <Dest>I was stationed in Markarth with two others. We were investigating a family that kept abnormal hours, staying up well past midnight.</Dest>
+    </String>
+    <String List="0">
+      <Source>What order did you disobey?</Source>
+      <Dest>What order did you disobey?</Dest>
+    </String>
+    <String List="0">
+      <Source>Why are you at odds with the Thalmor?</Source>
+      <Dest>你为什么会跟梭默对立的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Unfortunately, myself and one of the other Justiciars got into an argument over the children. The fool thought they were innocent.</Source>
+      <Dest>Unfortunately, myself and one of the other Justiciars got into an argument over the children. The fool thought they were innocent.</Dest>
+    </String>
+    <String List="0">
+      <Source>What order did you disobey?</Source>
+      <Dest>What order did you disobey?</Dest>
+    </String>
+    <String List="0">
+      <Source>That seems a little contradictory.</Source>
+      <Dest>这似乎有点矛盾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Just because this land as a whole is irredeemable, does not mean there are not the occasional sparkles of beauty.</Source>
+      <Dest>仅仅因为整片土地都不可救药，并不意味着这里不会偶尔闪现美好的火花。</Dest>
+    </String>
+    <String List="0">
+      <Source>That seems a little contradictory.</Source>
+      <Dest>这似乎有点矛盾。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, the squalor works to its advantage.  </Source>
+      <Dest>实际上，卑污也有其存在的优点。</Dest>
+    </String>
+    <String List="0">
+      <Source>That seems a little contradictory.</Source>
+      <Dest>这似乎有点矛盾。</Dest>
+    </String>
+    <String List="0">
+      <Source>How so?</Source>
+      <Dest>怎么说？</Dest>
+    </String>
+    <String List="2">
+      <Source>In the Summerset Isle even the dirt has a place in the pantheon of wonder, here there are no aesthetics to compete with.</Source>
+      <Dest>In the Summerset Isle even the dirt has a place in the pantheon of wonder, here there are no aesthetics to compete with.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about the men you've dueled?</Source>
+      <Dest>What can you tell me about the men you've dueled?</Dest>
+    </String>
+    <String List="2">
+      <Source>There's nothing to tell. They act brave and fight poorly.</Source>
+      <Dest>There's nothing to tell. They act brave and fight poorly.</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about the men you've dueled?</Source>
+      <Dest>What can you tell me about the men you've dueled?</Dest>
+    </String>
+    <String List="2">
+      <Source>The last one who challenged me was too busy rattling off the names of the relatives I had supposedly extinguished to even bother raising his shield.</Source>
+      <Dest>上一个挑战我的人为了念完那些估计是被我干掉的亲属的名字以致都没来得及举起盾牌。</Dest>
+    </String>
+    <String List="0">
+      <Source>What can you tell me about the men you've dueled?</Source>
+      <Dest>What can you tell me about the men you've dueled?</Dest>
+    </String>
+    <String List="2">
+      <Source>I think he was fumbling through what must have been a small army of second cousins when I set his weapon on fire.</Source>
+      <Dest>当我点燃他的武器时，似乎他正念诵到一群远房表亲的名字。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rest assured, there will be no attempts made upon your drink. All we ask is that you acknowledge the truth.</Source>
+      <Dest>Rest assured, there will be no attempts made upon your drink. All we ask is that you acknowledge the truth.</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't really care for politics. Just don't touch my ale.</Source>
+      <Dest>政治什么的我都管不着，只要有酒喝就行。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right then.</Source>
+      <Dest>那好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Very well.</Source>
+      <Dest>很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>What.</Source>
+      <Dest>怎么。</Dest>
+    </String>
+    <String List="2">
+      <Source>What do you want?</Source>
+      <Dest>你想要什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Be quick about it.</Source>
+      <Dest>赶紧去搞定。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's like I said, I have no interest in lingering here any longer. You and the Bosmer go do what you have to do.</Source>
+      <Dest>It's like I said, I have no interest in lingering here any longer. You and the Bosmer go do what you have to do.</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't think this little adventure makes us friends. In fact, the warning I gave the Bosmer applies to you as well.</Source>
+      <Dest>Don't think this little adventure makes us friends. In fact, the warning I gave the Bosmer applies to you as well.</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, it's you. I trust the Khajiit's client was pleased with the outcome?</Source>
+      <Dest>Oh, it's you. I trust the Khajiit's client was pleased with the outcome?</Dest>
+    </String>
+    <String List="2">
+      <Source>The Justiciars are still investigating the Khajiit's claims. I'll have to wait another season before I kill him.</Source>
+      <Dest>The Justiciars are still investigating the Khajiit's claims. I'll have to wait another season before I kill him.</Dest>
+    </String>
+    <String List="2">
+      <Source>Why do I keep coming back here? There's really nowhere else suitable.</Source>
+      <Dest>Why do I keep coming back here? There's really nowhere else suitable.</Dest>
+    </String>
+    <String List="2">
+      <Source>When I left Falkreath, I couldn't imagine Skyrim could get any more dreadful. But it continues to surprise me.</Source>
+      <Dest>When I left Falkreath, I couldn't imagine Skyrim could get any more dreadful. But it continues to surprise me.</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not that the clothes are comfortable, mind you. I'm simply tired of taking challenges.</Source>
+      <Dest>It's not that the clothes are comfortable, mind you. I'm simply tired of taking challenges.</Dest>
+    </String>
+    <String List="2">
+      <Source>And I can't believe they let cretins like you run the sawmill. It's a miracle you still have all the knobby potatoes you call fingers.</Source>
+      <Dest>And I can't believe they let cretins like you run the sawmill. It's a miracle you still have all the knobby potatoes you call fingers.</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

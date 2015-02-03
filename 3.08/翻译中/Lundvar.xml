@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>This Wuuthmar fellow is obviously a traitor.</Source>
+      <Dest>巫斯莫这家伙显然是一个叛徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not right to besmirch a man's honor, when he isn't here to defend it.</Source>
+      <Dest>在背后随意玷污一个人的荣誉是不对的，因为对方不在现场，完全无法反驳。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Wuuthmar fellow is obviously a traitor.</Source>
+      <Dest>巫斯莫这家伙显然是一个叛徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wuuthmar was more than a watch-brother to me and Ungveir.  He was our best friend.  We even made him an honorary member of the family.</Source>
+      <Dest>对我和安吉维尔而言，巫斯莫不仅仅是岗哨战友。他还是我们最好的朋友。我们甚至认他为家族的荣誉成员。</Dest>
+    </String>
+    <String List="0">
+      <Source>This Wuuthmar fellow is obviously a traitor.</Source>
+      <Dest>巫斯莫这家伙显然是一个叛徒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thick as thieves, the three of us, ever since childhood. I'd sooner believe Thongvor craps silver before I'd believe Wuuthmar is a liar.</Source>
+      <Dest>我们三个从小形影不离。我宁愿相信【松瓦能拉出银子，也不相信巫斯莫会骗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can insult me all you want, but don't talk about my brother that way.  You didn't know him.</Source>
+      <Dest>你可以随意侮辱我，但别那么说我兄弟。你对他一无所知。</Dest>
+    </String>
+    <String List="2">
+      <Source>I wear it with pride stranger, and I won't ever change my colors. I don't care who wins the war, I don't care if a damn Forsworn sits on the throne!</Source>
+      <Dest>我是带着骄傲穿着它的，陌生人，而且也绝不会换颜色。我才不在乎是谁赢得战争，就算王座上坐的是弃誓者也无所谓！</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm curious about your uniform.</Source>
+      <Dest>我对你这套衣服很感兴趣。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm curious about your uniform.</Source>
+      <Dest>我对你这套衣服很感兴趣。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is the uniform my brother wore, and this is the uniform I'll wear when I meet him in Sovngarde!</Source>
+      <Dest>这是我兄弟的制服，也是我去松加德和他团聚之时要穿的衣服！</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, it was a bit peculiar given how sneaky they usually are.  But Wuuthmar assured me it all happened as they said.</Source>
+      <Dest>是啊，相比他们平时偷偷摸摸的行踪来说确实有点儿怪。但巫斯莫向我保证过他说的那些都是实情。</Dest>
+    </String>
+    <String List="0">
+      <Source>A frontal assault seems out of character.  Even if they were stragglers.</Source>
+      <Dest>他们就是些散兵游勇，正面攻击似乎不是他们的作风。.</Dest>
+    </String>
+    <String List="0">
+      <Source>A frontal assault seems out of character.  Even if they were stragglers.</Source>
+      <Dest>他们就是些散兵游勇，正面攻击似乎不是他们的作风。.</Dest>
+    </String>
+    <String List="2">
+      <Source>He was on duty that night as well.  Ungveir told him to run into the city and the wake the guard when the horn didn't sound.</Source>
+      <Dest>他那天晚上也在值勤，号角没有响所以安吉维尔要他赶紧去城内叫醒守卫。</Dest>
+    </String>
+    <String List="2">
+      <Source>By the time he returned, the Forsworn raiders had left, and my brother had fallen.  The guard manning the tower?  Arrow to the throat.</Source>
+      <Dest>等到他赶回来的时候，那些弃誓者已经跑掉，我兄弟也已经死了。那塔楼上的卫兵呢？已经利箭穿喉。</Dest>
+    </String>
+    <String List="0">
+      <Source>A frontal assault seems out of character.  Even if they were stragglers.</Source>
+      <Dest>他们就是些散兵游勇，正面攻击似乎不是他们的作风。.</Dest>
+    </String>
+    <String List="0">
+      <Source>A frontal assault seems out of character.  Even if they were stragglers.</Source>
+      <Dest>他们就是些散兵游勇，正面攻击似乎不是他们的作风。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Who knows how many more would have died that day, if Ungveir wasn't there to save them.</Source>
+      <Dest>如果那天【安吉维尔没有去救他们的话，谁知道还要死多少人。</Dest>
+    </String>
+    <String List="0">
+      <Source>A frontal assault seems out of character.  Even if they were stragglers.</Source>
+      <Dest>他们就是些散兵游勇，正面攻击似乎不是他们的作风。.</Dest>
+    </String>
+    <String List="2">
+      <Source>My brother died a hero.  A savior of the Reach!  Anyone who says otherwise, feel free to raise your hand, and punch yourself in the face!</Source>
+      <Dest>我兄弟是以身殉职的英雄，瑞驰的拯救者！谁要是不这么认为的话，就请举起的手掌，用力扇自己个耳光吧！</Dest>
+    </String>
+    <String List="0">
+      <Source>Only the worst kind of filth takes a bribe.  Sounds like Nords to me.</Source>
+      <Dest>只有最差劲的败类才收受贿赂，就像诺德人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that a jest?  Have you looked in the mirror lately?  You aren't exactly brimming with scales!</Source>
+      <Dest>你是在逗我吗？你最近有照过镜子吗？你身上可不是都是闪闪发光的鳞片呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's it, I've had just about enough of this conversation.  Away with you!</Source>
+      <Dest>行了，话不投机半句多。走吧你！</Dest>
+    </String>
+    <String List="0">
+      <Source>Only the worst kind of filth takes a bribe.  Sounds like Nords to me.</Source>
+      <Dest>只有最差劲的败类才收受贿赂，就像诺德人。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's nothing to be ashamed of.  You did your best.</Source>
+      <Dest>那就没什么好惭愧的。你已经尽力而为了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Tell that to my watch-brothers!  (Laughs)  But you're right, if any of them raises a stink, I'll just beat them to a pulp.</Source>
+      <Dest>这话你还是跟我那些守卫兄弟们说吧！（笑）不过也是，如果他们中有谁说三道四，我就把他们剁成肉酱。</Dest>
+    </String>
+    <String List="0">
+      <Source>There's nothing to be ashamed of.  You did your best.</Source>
+      <Dest>那就没什么好惭愧的。你已经尽力而为了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only bigger shame than a man who was bested by a mudcrab is losing to that man in a brawl.</Source>
+      <Dest>唯一比身为男人却打不过泥沼蟹更大的耻辱是，连这个被泥沼蟹击垮的男人都打不过。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pardon me stranger, will you help me raise a flagon for my dear departed brother?  May he find peace in Sovngarde!</Source>
+      <Dest>原谅我，陌生人，你愿意和我一起为我死去的兄弟举杯吗？愿他在松加德寻得平静！</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a member of the city guard here in Markarth.  Worked the night watch out by the entrance.</Source>
+      <Dest>他以前也是一名马卡斯卫兵。在城门口站夜班岗。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wasn't like them lazy gargoyles who just sleep through their shift and hope that Madanach isn't cooking them breakfast in the morning!</Source>
+      <Dest>他不会像其他那些懒鬼一样随便睡倒在那儿只盼着迈德纳奇别来找他们麻烦！</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, he stood at his post every night like a bloody Draugr, and only when the sun finally crawled over the mountains would he sheathe his sword.</Source>
+      <Dest>不，他每晚都像个凶残的尸鬼一样站在岗上，直到太阳爬上山顶他才收剑回鞘。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Best damn soldier in the Reach.  Best man in all of Skyrim.</Source>
+      <Dest>全瑞弛最牛的士兵，全天际最大的好人。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry for your loss.</Source>
+      <Dest>对你的不幸我很遗憾。</Dest>
+    </String>
+    <String List="2">
+      <Source>No need to be sorry lad, these are happy times, and he's in a better place, drinking far better mead than we could ever imagine.</Source>
+      <Dest>没啥抱歉的，小伙子，都是美好的回忆，他也去了更好的地方，那儿喝的蜜酒滋味美得没法想呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry for your loss.</Source>
+      <Dest>对你的不幸我很遗憾。</Dest>
+    </String>
+    <String List="2">
+      <Source>No need to be sorry lass, these are happy times, and he's in a better place, drinking far better mead than we could ever imagine.</Source>
+      <Dest>No need to be sorry lass, these are happy times, and he's in a better place, drinking far better mead than we could ever imagine.</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't toast strangers.</Source>
+      <Dest>我不拿陌生人做烤肉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh don't be such a sod!  We're all friends here!  But if you're the sort who needs a man's name, then call me Lundvar.</Source>
+      <Dest>哦别那么害羞！在这儿的大家都是朋友！不过要是你不知道我名字就不会说话，那就叫我伦德瓦吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, why not.</Source>
+      <Dest>好啊，为什么不呢？</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, why not.</Source>
+      <Dest>当然，为什么不呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then let's raise a toast to the best, bravest, and handsomest damn Nord I ever knew.  My twin brother, Ungveir!</Source>
+      <Dest>让我们为最出色的，最勇敢的，我所认识的最他妈英俊的诺德人——我的孪生兄弟安吉维尔，干杯！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You take that back you sodding fur-licker!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>收回那句话你个王八蛋！我的兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That isn't true you ugly son of a werecroc!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>那不是事实你这个丑陋的兔崽子！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You take that back snout lips!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>闭上你那张臭嘴！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Silence you Forsworn dog!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>闭嘴你个弃誓狗！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>You've got some nerve, triangle face!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>你胆子不小啊，三角脸！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You take that back you Imperial monkey!  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>给我闭嘴你个帝国猴子！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>I've heard just about enough from you, desert slime! My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>我听够你的胡言乱语了，土鳖！我兄弟可是美德的典范！他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I think you're mistaken, friend.  My brother was a paragon of virtue!  Talos himself would've knelt under his light!</Source>
+      <Dest>我想你弄错了，朋友。我的兄弟是一位真君子。他的光辉就连塔洛斯都该拜服！</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>First you refuse to toast him, and now this.  That's twice now you've insulted my brother, and I'd rather you not do it again.</Source>
+      <Dest>你刚才拒绝为他祝酒，现在又来这套。两次侮辱我兄弟了，现在我劝你别再惹我。</Dest>
+    </String>
+    <String List="0">
+      <Source>We always remember the dead as honorable. I bet he was a lazy drunk like you.</Source>
+      <Dest>我们总是敬畏死者。我敢打赌你喝醉了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is supposed to be a happy occasion, after all.</Source>
+      <Dest>这本该是个愉快的话题呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I told him as much myself!  Called him everything from a bloodsucker to a cave bat. </Source>
+      <Dest>（笑）我自己也跟他这么说的！给他起外号从吸血鬼到洞穴蝙蝠什么的都用过。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a vampire.</Source>
+      <Dest>听起来他是个吸血鬼。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a vampire.</Source>
+      <Dest>听起来他是个吸血鬼。</Dest>
+    </String>
+    <String List="2">
+      <Source>I would've bolted his chair to the ceiling too, if it weren't for all this stone.  Yet gracious as he was, he took it all in stride.</Source>
+      <Dest>要不是这儿的一切都是石头的话，我真想把他的椅子也钉在天花板上。不过像他那么亲切和蔼的人，一定会欣然接受的。</Dest>
+    </String>
+    <String List="2">
+      <Source>A bloody priest, he was.  Gods bless his memory.</Source>
+      <Dest>一只血腥的牧师啊。神灵保佑他的记忆。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a vampire.</Source>
+      <Dest>听起来他是个吸血鬼。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should be embarrassed. A mudcrab? I'm embarrassed to be seen with you.</Source>
+      <Dest>你真不嫌丢人。就一只螃蟹？我都不好意思让人看见我跟你在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I assure you, this was the craftiest mudcrab in all the Reach.  But in all seriousness, things like this happen in the wild.</Source>
+      <Dest>(笑声) 我和你打包票，这螃蟹怕是全瑞驰最奸猾的一只了。不过实话讲，这样的事儿在野外可不少见.</Dest>
+    </String>
+    <String List="2">
+      <Source>They teach us in the guard to never leave home without your potions. One for health, one for disease.</Source>
+      <Dest>这些东西教育我们出门一定要带好药剂，一种补血的，一种治病的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should be embarrassed. A mudcrab? I'm embarrassed to be seen with you.</Source>
+      <Dest>你真不嫌丢人。就一只螃蟹？我都不好意思让人看见我跟你在一起。</Dest>
+    </String>
+    <String List="0">
+      <Source>You should be embarrassed. A mudcrab? I'm embarrassed to be seen with you.</Source>
+      <Dest>你真不嫌丢人。就一只螃蟹？我都不好意思让人看见我跟你在一起。</Dest>
+    </String>
+    <String List="2">
+      <Source>They never told me not all potions were the same!  Sometimes I wish I was an alchemist.</Source>
+      <Dest>他们从没告诉过我并不是所有药剂都一样的！有时我恨不得自己是个炼金师。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your opinion on the Silver-Bloods?</Source>
+      <Dest>你对银血家族有什么看法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, perhaps you've heard stories then, of how Silver-Blood money has tainted our ranks since the day this Dwarven city was settled.</Source>
+      <Dest>啊，这么说在这座矮人城市定居以来那银手家族一直用臭钱玷污我们的故事，你也都听说过啦。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your opinion on the Silver-Bloods?</Source>
+      <Dest>你对银血家族有什么看法？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a lie!  We Nords are a proud race, and no amount of coin is worth staining our honor!</Source>
+      <Dest>那都是瞎说！我们诺德人是个崇高的种族，再多的金钱也不值得我们玷污自己的荣誉！</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your opinion on the Silver-Bloods?</Source>
+      <Dest>你对银血家族有什么看法？</Dest>
+    </String>
+    <String List="2">
+      <Source>A Nord would sooner give up his own thumbs than use them to pocket a piece of tainted gold.</Source>
+      <Dest>一个诺德人宁愿剁掉自己的手指也不愿用它们偷一块肮脏的金子。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your opinion on the Silver-Bloods?</Source>
+      <Dest>你对银血家族有什么看法？</Dest>
+    </String>
+    <String List="2">
+      <Source>If my brother were here, he'd vomit at the very notion of a Nord taking a bribe. </Source>
+      <Dest>我兄弟要是今天在这儿，听你说诺德人受贿肯定会吐出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, there was never any corruption in this city, and there never will be, no matter who sits on the throne, so long as Nords man the towers.</Source>
+      <Dest>不，这座城市从来没有任何的腐败，永远也不会有。无论坐在宝座之上的是谁，只要是诺德人就没问题。</Dest>
+    </String>
+    <String List="0">
+      <Source>What is your opinion on the Silver-Bloods?</Source>
+      <Dest>你对银血家族有什么看法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course you would think so.  You're not a Nord.  You wouldn't understand.</Source>
+      <Dest>你当然会这么想。你自己不是诺德人。就不会明白的。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a bit naive, don't you think?</Source>
+      <Dest>有点天真，你不这样认为吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a bit naive, don't you think?</Source>
+      <Dest>有点天真，你不这样认为吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It shocks me to see a fellow Nord say such blasphemy. </Source>
+      <Dest>一个诺德人能说出如此亵渎神灵的话真令我震惊。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's a bit naive, don't you think?</Source>
+      <Dest>有点天真，你不这样认为吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It is not naive to hold your people to a different standard, and not arrogant when your people achieve it.</Source>
+      <Dest>让人们遵从高尚的标准不能叫天真，而他们对这一标准的达成也不是鲁莽。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was a member of the city guard here in Markarth.  Worked the night watch out by the entrance.</Source>
+      <Dest>他以前也是一名马卡斯卫兵。在城门口站夜班岗。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wasn't like them lazy gargoyles who just sleep through their shift and hope that Madanach isn't cooking them breakfast in the morning!</Source>
+      <Dest>他不会像其他那些懒鬼一样随便睡倒在那儿只盼着迈德纳奇别来找他们麻烦！</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, he stood at his post every night like a bloody Draugr, and only when the sun finally crawled over the mountains would he sheathe his sword.</Source>
+      <Dest>不，他每晚都像个凶残的尸鬼一样站在岗上，直到太阳爬上山顶他才收剑回鞘。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about your brother.</Source>
+      <Dest>给我讲讲你兄弟的事情。</Dest>
+    </String>
+    <String List="2">
+      <Source>Best damn soldier in the Reach.  Best man in all of Skyrim.</Source>
+      <Dest>全瑞弛最牛的士兵，全天际最大的好人。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Bravely, as only he could.  A group of Forsworn stragglers, covered by darkness, made a daring attack on the front gate!</Source>
+      <Dest>英勇无比，他一贯如此。有一群弃誓【游荡者趁着夜色的掩护，在城门发动了一场大胆的攻击！</Dest>
+    </String>
+    <String List="2">
+      <Source>My brother caught sight of them immediately, and ran up the steps to fire the mechanical bow.</Source>
+      <Dest>我兄弟一下子就看到他们了，迅速跑到楼上用机械弓向他们射箭。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Only some foolish sod must've forgot to grease it or something, because the lever was jammed.</Source>
+      <Dest>可是某些白痴忘了给它上油或者其他什么的，结果那杠杆卡住了。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Worse yet, the guard manning the tower was fast asleep, and didn't sound the horn.  My brother would have to defend the city gates by himself.</Source>
+      <Dest>更糟的是，塔楼的警卫都睡得很熟，没有听到号角声。我兄弟不得不独自守卫城门。</Dest>
+    </String>
+    <String List="2">
+      <Source>He may have died, but I'm proud to say he took three of those savages and a Briarheart with him.</Source>
+      <Dest>他也许是战死了，但我可以骄傲的说，他拉了三个野蛮人和一个荆棘之心给他垫背。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother took on a horde of Forsworn by himself?</Source>
+      <Dest>你哥哥独自对抗一大群弃誓吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother took on a horde of Forsworn by himself?</Source>
+      <Dest>你哥哥独自对抗一大群弃誓吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>He put the fear of Talos in the rest of those stragglers, let them know that every Reachman was worth a dozen of those Forsworn bastards!</Source>
+      <Dest>他让所有那些【游荡者都尝到了塔洛斯的厉害，让他们知道每一个瑞驰人都比得上一打的弃誓者混蛋！</Dest>
+    </String>
+    <String List="0">
+      <Source>How did your brother die?</Source>
+      <Dest>你的兄弟是怎么死的？</Dest>
+    </String>
+    <String List="0">
+      <Source>How did the invasion end?</Source>
+      <Dest>入侵是怎么结束的？</Dest>
+    </String>
+    <String List="2">
+      <Source>The rest of them wild folk fled into the night.  Who knows what would've happened had they breached the gate.</Source>
+      <Dest>其余那些野蛮人在黑夜之中四散奔逃了。谁知道如果他们突破大门的话会发生什么事。</Dest>
+    </String>
+    <String List="0">
+      <Source>Clario?  I could've told you his potions were a hagraven's bargain.</Source>
+      <Dest>克拉里奥? 我早告诉你他的药水就是乌鸦鬼婆的便宜货.</Dest>
+    </String>
+    <String List="2">
+      <Source>You and everyone else.  I just refused to listen, as good as those potions tasted.</Source>
+      <Dest>你们这些人呐。我简直听不下去，能有多么好喝的药水啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>I even tested it by pricking my fingers before taking a swig.  Turns out that's just about all it will heal.</Source>
+      <Dest>我甚至试过喝之前扎我的手指。结果那玩意的治疗量正好够这点小伤。</Dest>
+    </String>
+    <String List="0">
+      <Source>Clario?  I could've told you his potions were a hagraven's bargain.</Source>
+      <Dest>克拉里奥? 我早告诉你他的药水就是乌鸦鬼婆的便宜货.</Dest>
+    </String>
+    <String List="0">
+      <Source>I've yet to meet this chef.  I'd like to try his potions myself.</Source>
+      <Dest>我还没见过这个厨师呢。我想自己试试他的药水儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd advise against it traveler.  He's a charlatan, a thief, and a damn good cook.</Source>
+      <Dest>我可要提点反对意见啦。他是个骗子，是个贼，但还真他妈是个牛掰的好厨子。</Dest>
+    </String>
+    <String List="2">
+      <Source>What I mean is, you might get tricked by the taste.  He might do a demonstration too, show you how it works.  But it only heals minor scratches.</Source>
+      <Dest>我的意思是，你可能会被那种美味所欺骗。他也会给你做示范，告诉你它是如何起作用的。但其实只能治一点轻微擦伤。</Dest>
+    </String>
+    <String List="0">
+      <Source>I've yet to meet this chef.  I'd like to try his potions myself.</Source>
+      <Dest>我还没见过这个厨师呢。我想自己试试他的药水儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven levers don't get stuck. This smells of foul play.</Source>
+      <Dest>矮人的升降机从来不会卡住，这感觉像是被人阴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, Dwarven craftsmanship is many things, but never shoddy.  I'd agree with you, if Wuuthmar didn't see it with his own eyes.</Source>
+      <Dest>是啊，矮人的工艺品种类繁多，但从来没有次品。我同意你的看法，如果巫斯莫不是亲眼所见的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven levers don't get stuck. This smells of foul play.</Source>
+      <Dest>矮人的升降机从来不会卡住，这感觉像是被人阴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>He was working the shift that night with my brother.  He also happened to be his closest friend.</Source>
+      <Dest>那天晚上他和我兄弟轮班。他也正是我兄弟最铁的哥们儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven levers don't get stuck. This smells of foul play.</Source>
+      <Dest>矮人的升降机从来不会卡住，这感觉像是被人阴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>When the horn didn't sound, Ungveir told him to run back to the city and wake the guard.</Source>
+      <Dest>当时号角吹不响，安维尔就叫他跑回城去叫醒守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven levers don't get stuck. This smells of foul play.</Source>
+      <Dest>矮人的升降机从来不会卡住，这感觉像是被人阴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The guard in the tower?  Dead.  Who knows how many more would have died that day, if Ungveir wasn't there to save them.</Source>
+      <Dest>塔楼里的卫兵？已经死了。如果那天不是安吉维尔救了他们，谁知还会死多少人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven levers don't get stuck. This smells of foul play.</Source>
+      <Dest>矮人的升降机从来不会卡住，这感觉像是被人阴了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My brother died a hero.  A savior of the Reach!  Anyone who says otherwise, feel free to raise your hand, and punch yourself in the face!</Source>
+      <Dest>我兄弟是以身殉职的英雄，瑞驰的拯救者！谁要是不这么认为的话，就请举起的手掌，用力扇自己个耳光吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>Aye, most of us, we work all day, but half the time we aren't actually working.  A rest here, a break there.  But not Ungveir.</Source>
+      <Dest>是啊，我们大多数人看起来是一天到晚地工作，但其实有半天都在摸鱼。这里歇会儿，那里待会儿。可安吉维尔就不会。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a good man. And an honest one.</Source>
+      <Dest>他的名声不错，诚实可靠。</Dest>
+    </String>
+    <String List="2">
+      <Source>I kept telling him, stop making us look bad!  But he not ony kept at it, he pushed me to do the same.</Source>
+      <Dest>我跟他说别那么卖力，让我们显得太懒！可他不光不听，还怂恿我也跟他一样勤快。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a good man. And an honest one.</Source>
+      <Dest>他的名声不错，诚实可靠。</Dest>
+    </String>
+    <String List="0">
+      <Source>He sounds like a good man. And an honest one.</Source>
+      <Dest>他的名声不错，诚实可靠。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pretty soon we were both making everyone else look like lazy sods.</Source>
+      <Dest>没过多久，我们俩都把别人比成懒蛋了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is a happy occasion friend, and when you say such things about my brother, I think I'd be happier if you were dead.</Source>
+      <Dest>站着说话不腰疼啊朋友，你这样说我兄弟的话，我就希望死的是你才好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brave, yes. Stupid, also. Your brother should have ran inside.</Source>
+      <Dest>英勇但却愚蠢。你兄弟应该已经冲进去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>The only reason he took on those sods alone is to give his watch-brother Wuuthmar time to alert the guard.</Source>
+      <Dest>他独自对抗那些家伙的唯一原因是为战友巫斯莫赢得时间去通知守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brave, yes. Stupid, also. Your brother should have ran inside.</Source>
+      <Dest>英勇但却愚蠢。你兄弟应该已经冲进去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If both of them died in battle, the Forsworn would have killed all of us in our sleep, and I wouldn't have the displeasure of talking to you.</Source>
+      <Dest>要是他俩都死在混战中，那些弃誓者就能趁我们熟睡一锅端了，我今天也就不用在这儿听你废话了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brave, yes. Stupid, also. Your brother should have ran inside.</Source>
+      <Dest>英勇但却愚蠢。你兄弟应该已经冲进去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>My brother was brave, but by no means stupid.  He was brilliant.</Source>
+      <Dest>我的兄弟十分勇武, 但并不傻。他是个了不起的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brave, yes. Stupid, also. Your brother should have ran inside.</Source>
+      <Dest>英勇但却愚蠢。你兄弟应该已经冲进去了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Brave, yes. Stupid, also. Your brother should have ran inside.</Source>
+      <Dest>英勇但却愚蠢。你兄弟应该已经冲进去了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyone who doesn't think so, feel free to raise your hand, and punch yourself in the face with it!</Source>
+      <Dest>谁要是不这么认为的话，就请举起的手掌，用力扇自己个耳光吧！</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust him with my life, and vouch for his words with my own.</Source>
+      <Dest>我对他的信任可以用生命作保，他说的话就跟我自己说的一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>How trustworthy is Wuuthmar?</Source>
+      <Dest>巫斯莫有多可靠?</Dest>
+    </String>
+    <String List="2">
+      <Source>Wuuthmar was more than a watch-brother to me and Ungveir.  He was our best friend.  We even made him an honorary member of the family.</Source>
+      <Dest>对我和安吉维尔而言，巫斯莫不仅仅是岗哨战友。他还是我们最好的朋友。我们甚至认他为家族的荣誉成员。</Dest>
+    </String>
+    <String List="0">
+      <Source>How trustworthy is Wuuthmar?</Source>
+      <Dest>巫斯莫有多可靠?</Dest>
+    </String>
+    <String List="0">
+      <Source>How trustworthy is Wuuthmar?</Source>
+      <Dest>巫斯莫有多可靠?</Dest>
+    </String>
+    <String List="2">
+      <Source>Thick as thieves, the 3 of us, ever since childhood. I'd sooner believe Thonar drops silver from his bottom before I'd believe Wuuthmar is a liar.</Source>
+      <Dest>我们三个从小形影不离。我宁愿相信【松瓦能拉出银子，也不相信巫斯莫会骗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Look, we can do this the easy way, or I can break your legs.</Source>
+      <Dest>看，我们可以轻而易举的做到它，或者我可以打断你的腿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You think I'm afraid of you? You can break my bones, but you can't break my will.</Source>
+      <Dest>你以为我怕你啊? 你可以敲断我的骨头, 但你没法击垮我的意志。</Dest>
+    </String>
+    <String List="0">
+      <Source>Look, we can do this the easy way, or I can break your legs.</Source>
+      <Dest>看，我们可以轻而易举的做到它，或者我可以打断你的腿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>You can chop off my legs, and I'll still stand taller than you ever could!</Source>
+      <Dest>你可以砍下我的腿，而我还是能站得比你这辈子都高！</Dest>
+    </String>
+    <String List="0">
+      <Source>Look, we can do this the easy way, or I can break your legs.</Source>
+      <Dest>看，我们可以轻而易举的做到它，或者我可以打断你的腿。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I won't be doing you or this bard any favors! In fact, I'm going to tell Yngvar to burn his list before putting your friend on it! Now away with you!</Source>
+      <Dest>我才不会帮你和这个吟游诗人任何忙！我今天跟你讲明白，我要去告诉英瓦在你把朋友名字写上去之前把那名单烧了！行了滚远点吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>The bard would like to sing the Jarl a dirge in honor of your brother.</Source>
+      <Dest>以你兄弟的名义，吟游诗人会很乐意为领主唱一曲挽歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then she doesn't know my brother. He didn't want a fancy funeral in front of people who would use his death for politics!</Source>
+      <Dest>所以她根本不了解我兄弟。他决不会用体面的葬礼帮那些政客大做宣传文章的！</Dest>
+    </String>
+    <String List="2">
+      <Source>Besides, if she's so good, why not ask Yngvar the Singer to update the list? He's the one who keeps it.</Source>
+      <Dest>此外，如果她的才艺真那么高，为什么不直接请歌颂者英瓦更新名单？拿着名单的人是他啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>The bard would like to sing the Jarl a dirge in honor of your brother.</Source>
+      <Dest>以你兄弟的名义，吟游诗人会很乐意为领主唱一曲挽歌。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you'll excuse me, I need to think about what I'm going to say to the Captain.</Source>
+      <Dest>那如果你没别的事儿了，我要腾出时间想想该怎么跟队长汇报了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The bard would like to sing the Jarl a dirge in honor of your brother.</Source>
+      <Dest>以你兄弟的名义，吟游诗人会很乐意为领主唱一曲挽歌。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother wants vengeance. Write down a bard's name, and you'll have it.</Source>
+      <Dest>你的兄弟想要复仇。写下那个吟游诗人的名字，你就大功告成了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>No, not vengeance. My brother wants justice. That's what he deserves, and that's what he'll get.</Source>
+      <Dest>不，没什么仇可报。我兄弟要的是公道。那才是他应得的，也一定会得到的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother wants vengeance. Write down a bard's name, and you'll have it.</Source>
+      <Dest>你的兄弟想要复仇。写下那个吟游诗人的名字，你就大功告成了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I'll be going through the proper channels of course, and if that fails, justice will be served at the bridge to Sovngarde.</Source>
+      <Dest>当然我一定要通过正当途径，那如果没成，就让正义降临在去松加德的桥上吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>So I don't need any favors. Besides, if this bard friend of yours wants one, she's better off talking to Yngvar. He's the one with the list.</Source>
+      <Dest>我不需要任何协助。此外，如果你的诗人朋友真的想实现她的愿望，最好去找英瓦谈谈。他才是那个掌管名单的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother wants vengeance. Write down a bard's name, and you'll have it.</Source>
+      <Dest>你的兄弟想要复仇。写下那个吟游诗人的名字，你就大功告成了。 </Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you'll excuse me, I need to think about what I'm going to say to the Captain.</Source>
+      <Dest>那如果你没别的事儿了，我要腾出时间想想该怎么跟队长汇报了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother wants vengeance. Write down a bard's name, and you'll have it.</Source>
+      <Dest>你的兄弟想要复仇。写下那个吟游诗人的名字，你就大功告成了。 </Dest>
+    </String>
+    <String List="0">
+      <Source>I want to honor the bard who aided your friend by naming her best in the Reach.</Source>
+      <Dest>我想把瑞驰最佳的荣誉给予协助你朋友的那个诗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I see. So she wants to perform for the Jarl, and thinks I will write her name in Yngvar's ledger.</Source>
+      <Dest>原来如此。她是想去为领主演出，所以想我就会帮忙把她的名字写上英瓦的名单。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to honor the bard who aided your friend by naming her best in the Reach.</Source>
+      <Dest>我想把瑞驰最佳的荣誉给予协助你朋友的那个诗人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I appreciate what she's done, but that would not be fair to the other bards. I am sorry, but you must tell her no.</Source>
+      <Dest>她为我做的我都很感激。但我那样做会对其他的吟游诗人们不公平。所以很抱歉，你得告诉她不行。</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, if you'll excuse me, I need to think about what I'm going to say to the Captain.</Source>
+      <Dest>那如果你没别的事儿了，我要腾出时间想想该怎么跟队长汇报了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to honor the bard who aided your friend by naming her best in the Reach.</Source>
+      <Dest>我想把瑞驰最佳的荣誉给予协助你朋友的那个诗人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I would like to ask you a favor on behalf of Wuuthmar and the bard.</Source>
+      <Dest>事实上，我想代表巫斯莫和诗人请你帮个忙。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, but if you think I will sully myself to get revenge, I'm sorry, but I won't.</Source>
+      <Dest>当然，但如果你认为我为了复仇不惜玷污自己，对不起，我不会的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I would like to ask you a favor on behalf of Wuuthmar and the bard.</Source>
+      <Dest>事实上，我想代表巫斯莫和诗人请你帮个忙。</Dest>
+    </String>
+    <String List="2">
+      <Source>The ones who killed my brother will rot in Cidhna Mine until the end of days, but it will be the Jarl who gives the sentence.</Source>
+      <Dest>杀我兄弟的凶手将在辛迪那矿坑终生受罚，而这命令要由领主来下发。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I would like to ask you a favor on behalf of Wuuthmar and the bard.</Source>
+      <Dest>事实上，我想代表巫斯莫和诗人请你帮个忙。</Dest>
+    </String>
+    <String List="2">
+      <Source>I swore an oath to protect the city and the guard, and I will die a thousand deaths before I break it!</Source>
+      <Dest>我起誓永远守护这座城市，万死不辞！</Dest>
+    </String>
+    <String List="2">
+      <Source>Somewhere, in Sovngarde, my brother is nodding his head.  Because if it were me who died, he would say they same.</Source>
+      <Dest>在松加德的某个地方。我的兄弟也在点头称是。因为如果死掉的人是我，他也会说同样的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Actually, I would like to ask you a favor on behalf of Wuuthmar and the bard.</Source>
+      <Dest>事实上，我想代表巫斯莫和诗人请你帮个忙。</Dest>
+    </String>
+    <String List="2">
+      <Source>What has the world come to, when a man can't even trust a fellow Nord...</Source>
+      <Dest>这世道是怎么了，连诺德人都不能相信了……</Dest>
+    </String>
+    <String List="0">
+      <Source>It fits the odd circumstances of your brother's death.</Source>
+      <Dest>这正好符合你兄弟那离奇的死亡状况。</Dest>
+    </String>
+    <String List="2">
+      <Source>But if there's corruption in our city, we need to root it out! I owe it to my brother to do so.</Source>
+      <Dest>但如果我们的城市有腐坏堕落之事，我们就必须去连根拔除！为了我的兄弟我也得这么做。</Dest>
+    </String>
+    <String List="0">
+      <Source>It fits the odd circumstances of your brother's death.</Source>
+      <Dest>这正好符合你兄弟那离奇的死亡状况。</Dest>
+    </String>
+    <String List="0">
+      <Source>It fits the odd circumstances of your brother's death.</Source>
+      <Dest>这正好符合你兄弟那离奇的死亡状况。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know why you brought me this letter, but I thank you. I hope Wuuthmar finds peace, wherever he is.</Source>
+      <Dest>我不知道为什么你给我带来这封信，但真的谢谢。希望巫斯莫就此寻得安宁，无论他在何处。</Dest>
+    </String>
+    <String List="0">
+      <Source>I see. Then Wuuthmar is a liar and possibly a murderer.</Source>
+      <Dest>我明白了。那么巫斯莫在撒谎，而且很有可能就是凶手。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, Wuuthmar is a fellow Nord! This letter...it must be a forgery! A conspiracy of some sort!</Source>
+      <Dest>不，巫斯莫可是个诺德人！这封信……这一定是伪造的！是个什么阴谋！</Dest>
+    </String>
+    <String List="0">
+      <Source>I see. Then Wuuthmar is a liar and possibly a murderer.</Source>
+      <Dest>我明白了。那么巫斯莫在撒谎，而且很有可能就是凶手。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet...my gut tells me its words ring true...</Source>
+      <Dest>不过……直觉告诉我这里面说的都是真的…</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords are susceptible to greed, just like any mortal.</Source>
+      <Dest>诺德人也很容易被贪婪所迷惑，就像任何人类一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>You know nothing, foreigner! A Nord will die as a beggar, eating a pile of his own waste before he soils himself with blood money!</Source>
+      <Dest>你懂什么啊，外地佬儿！诺德人就算是饿成吃屎的乞丐一样，也宁死不会昧着良心去赚血腥钱！</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords are susceptible to greed, just like any mortal.</Source>
+      <Dest>诺德人也很容易被贪婪所迷惑，就像任何人类一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet...for some reason...when I read this letter, my gut tells me its words ring true...</Source>
+      <Dest>但是……出于某种原因……当我读到这封信的时候，直觉告诉我这些话都是真的……</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords are susceptible to greed, just like any mortal.</Source>
+      <Dest>诺德人也很容易被贪婪所迷惑，就像任何人类一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>How dare you!.  You know as well as I that a Nord will die as a beggar, eating a pile of his own waste before he soils himself with blood money!</Source>
+      <Dest>你这么敢胡说！你跟我一样清楚诺德人就算是饿成吃屎的乞丐一样，也宁死不会昧着良心去赚血腥钱！</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords are susceptible to greed, just like any mortal.</Source>
+      <Dest>诺德人也很容易被贪婪所迷惑，就像任何人类一样。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet...for some reason...when I read this letter, my gut tells me its words ring true...</Source>
+      <Dest>但是……出于某种原因……当我读到这封信的时候，直觉告诉我这些话都是真的……</Dest>
+    </String>
+    <String List="2">
+      <Source>No! I refuse to believe it! What is earthly coin compared to the glory of Sovngarde? What fool would make that choice?</Source>
+      <Dest>不！我决不相信！俗世的铜臭怎么可能比得上松加德的荣耀？什么样的蠢货会做出那样的选择？</Dest>
+    </String>
+    <String List="0">
+      <Source>City guards are always taking bribes. They're scum, and they killed your kin.</Source>
+      <Dest>城市的守卫经常提起贿赂。真是一群渣滓，他们还杀了你的亲人。</Dest>
+    </String>
+    <String List="0">
+      <Source>City guards are always taking bribes. They're scum, and they killed your kin.</Source>
+      <Dest>城市的守卫经常提起贿赂。真是一群渣滓，他们还杀了你的亲人。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet...for some reason...when I read this letter, my gut tells me its words ring true...</Source>
+      <Dest>但是……出于某种原因……当我读到这封信的时候，直觉告诉我这些话都是真的……</Dest>
+    </String>
+    <String List="0">
+      <Source>It appears the city guard isn't immune to corruption.</Source>
+      <Dest>看来连守卫都没法抵挡这种堕落。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-impossible! The city guard is made of proud Nords!  Men and women who eat, sleep, and drink honor! They would never sink so low.</Source>
+      <Dest>不...不可能！城市守卫都是充满荣誉感的诺德人！他们以荣耀为饮，以荣耀为食，以荣耀为屋！他们永远不会堕落。</Dest>
+    </String>
+    <String List="0">
+      <Source>It appears the city guard isn't immune to corruption.</Source>
+      <Dest>看来连守卫都没法抵挡这种堕落。</Dest>
+    </String>
+    <String List="2">
+      <Source>And yet...for some reason...when I read this letter...my gut tells me its words ring true...</Source>
+      <Dest>但是……出于某种原因……当我读到这封信的时候，直觉告诉我这些话都是真的……</Dest>
+    </String>
+    <String List="2">
+      <Source>This...this is from Wuuthmar!  He says my brother was betrayed by the city guard!  This can't be!  A Nord would never betray his own watch-brother!</Source>
+      <Dest>这信是……这信是巫斯莫写的！他说是守卫出卖了我兄弟！这不可能！诺德人绝对不会出卖自己战友的啊！</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps this letter may clear things up for you.</Source>
+      <Dest>或许这封信能帮你理清头绪。</Dest>
+    </String>
+    <String List="0">
+      <Source>I am sure he's just fine. He was seen in Old Hroldan not too long ago.</Source>
+      <Dest>我确信他很好。不久之前还有人在老霍罗丹看见他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Old Hroldan?  Shor's beard, why would he be there?  That place is miles from anything!</Source>
+      <Dest>老霍尔丹？舒尔在上，他怎么会在千里之外的那么个地方啊？！</Dest>
+    </String>
+    <String List="0">
+      <Source>I would venture to guess that Wuuthmar was killed by Forsworn.</Source>
+      <Dest>我冒昧地猜测，巫斯莫是被弃誓者杀的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not inside the city! The Forsworn cowards wouldn't dare assault a member of the guard!</Source>
+      <Dest>不是在城市里！那些没种的弃誓者连袭击卫兵都不敢！</Dest>
+    </String>
+    <String List="0">
+      <Source>A permanent one.  Wuuthmar has fled the Reach.</Source>
+      <Dest>一个永生的存在。巫斯莫已经逃往了瑞驰。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fled?  Shor's beard, what do you mean, fled?  What in Oblivion would he be running from?</Source>
+      <Dest>逃离？我的舒尔大神呐，你说的逃离是什么意思？他他妈的干嘛要逃啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is Wuuthmar now?</Source>
+      <Dest>巫斯莫现在在哪儿？</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a good question. The captain of the guard was in here just a moment ago, asking the same thing.</Source>
+      <Dest>问得好。守卫队长刚才来过，问的也是这事儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where is Wuuthmar now?</Source>
+      <Dest>巫斯莫现在在哪儿？</Dest>
+    </String>
+    <String List="2">
+      <Source>To be honest, I've spent so much time alone I never noticed he was missing.  Maybe he took a leave of absence.</Source>
+      <Dest>老实说，我已经独处了很长时间却从没注意到他没在。也许只是去休假了吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>They would have raped, pillaged, then raped some more.  Ungveir is a hero.</Source>
+      <Dest>他们还会强奸，抢劫，再强奸，如此循环。 安吉维尔是一个英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>Right you are. Not that any of these ungrateful sods know it.</Source>
+      <Dest>就是说啊。而这些忘恩负义的东西却没一个知道。</Dest>
+    </String>
+    <String List="0">
+      <Source>They would have raped, pillaged, then raped some more.  Ungveir is a hero.</Source>
+      <Dest>他们还会强奸，抢劫，再强奸，如此循环。 安吉维尔是一个英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>They go about their lives as if nothing happened, and nothing did happen, thanks to my brother.</Source>
+      <Dest>他们继续正常地过活，好像什么都没发生过，也确实没有什么事发生，都是多亏了我的兄弟。</Dest>
+    </String>
+    <String List="0">
+      <Source>They would have raped, pillaged, then raped some more.  Ungveir is a hero.</Source>
+      <Dest>他们还会强奸，抢劫，再强奸，如此循环。 安吉维尔是一个英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>He's the one who took on the Forsworn, giving his watch-brother Wuuthmar time to alert the rest of the guard.</Source>
+      <Dest>他独自对抗弃誓者的进攻，为巫斯莫兄弟赢得了时间去通报其他的守卫。</Dest>
+    </String>
+    <String List="0">
+      <Source>They would have raped, pillaged, then raped some more.  Ungveir is a hero.</Source>
+      <Dest>他们还会强奸，抢劫，再强奸，如此循环。 安吉维尔是一个英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>We'd all be dead if it weren't for him! We should all raise their flagons to Ungveir the Undaunted, Defender of the Reach!</Source>
+      <Dest>如果不是他的话我们都会死！我们应该为无畏的安吉维尔举杯欢呼——瑞驰的守卫者万岁！</Dest>
+    </String>
+    <String List="0">
+      <Source>They would have raped, pillaged, then raped some more.  Ungveir is a hero.</Source>
+      <Dest>他们还会强奸，抢劫，再强奸，如此循环。 安吉维尔是一个英雄。</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyone who doesn't think so, feel free to raise your hand, and punch yourself in the face!</Source>
+      <Dest>谁要是不这么认为的话，就请举起的手掌，用力扇自己个耳光吧！</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm a bit embarrassed to say it, but it was a mudcrab.  Thing jumped up out of nowhere and tried to snatch it, like a thief swiping a pearl!</Source>
+      <Dest>说起这个有点丢人哪，只是一只泥沼蟹。不知从哪儿突然蹦出来夹我的眼睛，像盗贼扫荡珠宝一样！</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Bless my brother's heart, when he found out, he almost ripped out his own eye just so we'd match!</Source>
+      <Dest>我那好心的兄弟啊，他一听说这事，伤心得差点儿弄瞎自己一只眼睛好让我觉得平衡！</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, he wouldn't have had to, if I hadn't taken pity on that crazy chef and his worthless potions.</Source>
+      <Dest>当然，其实他根本不至于那样，如果之前我没有可怜那个疯狂的厨子还有他的垃圾药水的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>I drank four of five them and nary felt a thing. When my eye kept bleeding, I said to Oblivion with it and poured it over my eye.</Source>
+      <Dest>我喝了四五瓶，连一点儿感觉都没有。当时我眼睛还不断流血，就骂了句混帐然后把药水全都倒进了眼睛里。</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Might of made it worse.  By Ysmir's beard, it felt like a bloody bee hive was milling around in my eye, the way it stung and smelled like honey.</Source>
+      <Dest>Might of made it worse.  By Ysmir's beard, it felt like a bloody bee hive was milling around in my eye, the way it stung and smelled like honey.</Dest>
+    </String>
+    <String List="0">
+      <Source>How did you lose your eye?</Source>
+      <Dest>你的眼睛是怎么瞎的？</Dest>
+    </String>
+    <String List="2">
+      <Source>(Laughs) I've got to hand it to that chef though.  Here I was about to lose my eye, and half of me was thinking about how I wanted another taste.</Source>
+      <Dest>（笑）不过我不得不佩服那个厨子。当我就要失去一只眼睛的时候，还有一半心情在想这味道不错再来一瓶吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, there are people all over town saying the same.  We call them liars.</Source>
+      <Dest>是啊，全城的人都是这么说的。我们说他们都扯蛋。</Dest>
+    </String>
+    <String List="0">
+      <Source>There are corrupt guards here that were bribed by Thonar Silver-Blood.</Source>
+      <Dest>这些腐败的守卫都被托纳尔·银血贿赂了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, if the gossips and rumor-mongers want to ply their trades with lies, they should try a less ridiculous notion than a Nord succumbing to bribes.</Source>
+      <Dest>是啊，如果多嘴多舌的家伙和谣言贩子想在自己的生意里作假，那真没有比找诺德人行贿更加可笑的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Nords are indeed an honorable race.  Bribes are beneath them.</Source>
+      <Dest>诺德人当然是个光荣的种族。贿赂神马的都藏在暗处。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Make it quick.</Source>
+      <Dest>快点好吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>How can I help you?</Source>
+      <Dest>有什么我能效劳的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>你有什么心事吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Something on your mind?</Source>
+      <Dest>有什么想法？</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak.</Source>
+      <Dest>说。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sovngarde?  A beautiful place I'm sure!</Source>
+      <Dest>松加德？那绝对是个美丽的地方！</Dest>
+    </String>
+    <String List="2">
+      <Source>An arrow to the knee?  Ha!  My brother took ten arrows to the knee!</Source>
+      <Dest>膝盖中了一箭？哈！我兄弟的膝盖上可足足中了十箭呢！</Dest>
+    </String>
+    <String List="2">
+      <Source>Ungh!</Source>
+      <Dest>呃啊！</Dest>
+    </String>
+    <String List="2">
+      <Source>I've tasted potions better than this mead!  Where did you say you got it?</Source>
+      <Dest>我喝过的药都比这蜜酒要好喝！你说你是从哪搞到的来着？</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
