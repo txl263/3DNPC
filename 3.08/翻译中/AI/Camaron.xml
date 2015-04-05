@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Despite everything that's happened, the machine must still be studied. To be honest, it doesn't look anything remotely like a Propylon Chamber.</Source>
+      <Dest>虽然已经发生过那么多事，这台机器还是必须要研究明白。说实话，无论怎么看这玩意都不像是什么个石柱传送门。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Which is exciting in its own right. Once we figure out what it is the device actually does, we can start on the path of getting it done.</Source>
+      <Dest>以自己的力量将其实现令人兴奋。一旦我们查出这个仪器确实能够做些什么，我们就可以开始试着让其运转了。</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do now?</Source>
+      <Dest>你现在有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Either way your work is done. Whatever this discovery yields, you were instrumental in delivering it. Take this gold if you agree. Good.</Source>
+      <Dest>不管怎么说你的工作完成了。无论这次探索结果如何，你都提供了很大的帮助。如果你同意的话拿着这些钱。很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Interesting. Historically, that isn't entirely out of the realm of possibility, given what happened to the Falmer.</Source>
+      <Dest>真有趣，从历史上看，就发生在雪精灵上的事而言，那并非完全不可能。</Dest>
+    </String>
+    <String List="0">
+      <Source>He was a mad lizard who thought the Dwarves were returning to enslave us.</Source>
+      <Dest>他是个一心以为锻莫会回来奴役我们的疯子亚龙人。</Dest>
+    </String>
+    <String List="0">
+      <Source>He was a mad lizard who thought the Dwarves were returning to enslave us.</Source>
+      <Dest>他是个一心以为锻莫会回来奴役我们的疯子亚龙人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although yes, Scotti was completely insane, there's no denying that.</Source>
+      <Dest>即使是这样，斯科蒂也完全是疯了，没人会否认。</Dest>
+    </String>
+    <String List="0">
+      <Source>I guess Scotti wasn't such a capable fighter after all.</Source>
+      <Dest>我猜斯科蒂不是个称职的打手。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I grossly misjudged his ability and his character. I think it was that armor he wore. It looked rather prestigious on him.</Source>
+      <Dest>是的，我严重误判了他的能力和品格。我想是他穿的铠甲的缘故，那让他看上去似乎享有盛名。</Dest>
+    </String>
+    <String List="0">
+      <Source>I guess Scotti wasn't such a capable fighter after all.</Source>
+      <Dest>我猜斯科蒂不是个称职的打手。</Dest>
+    </String>
+    <String List="2">
+      <Source>I suppose if word got out, Camaron would never live this down. I will be sure to use that information to my advantage whenever she chides me.</Source>
+      <Dest>我猜要是这事儿传出去了，卡马隆的这一段黑历史就永远甭想洗白了。她要是责骂我，我绝对会拿这事儿说她。</Dest>
+    </String>
+    <String List="0">
+      <Source>No my lady, you should know by now I am as pure as the snow in Frostfall.</Source>
+      <Dest>不，我的夫人，你现在应该知道我和霜落月的雪一样纯洁。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it was genius of me to hire you that day in Gloomreach, but not because of your charm.</Source>
+      <Dest>是的，我那天在阴郁河段雇你这主意真是天才，但这和你的魅力无关。</Dest>
+    </String>
+    <String List="0">
+      <Source>No my lady, you should know by now I am as pure as the snow in Frostfall.</Source>
+      <Dest>不，我的夫人，你现在应该知道我和霜落月的雪一样纯洁。</Dest>
+    </String>
+    <String List="2">
+      <Source>I imagine I know exactly how Camaron must feel, to have you as my shield. But all good things must come to an end.</Source>
+      <Dest>有你保护我的情况下，我想我完完全全的知道卡马隆的感受了，但所有美好的事都会有一个终点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeack. You should have told me that when I hired you. I could've taken precautions. Now I'll have to bill you for the cure disease potion.</Source>
+      <Dest>啊哈。你应该在我雇佣你的时候就告诉我这事儿。我可不能预知未来。现在我则不得不给你治病用的药买单。</Dest>
+    </String>
+    <String List="0">
+      <Source>True. I have many diseases, but madness isn't one of them.</Source>
+      <Dest>是的。我浑身是病，但可没患疯病。</Dest>
+    </String>
+    <String List="0">
+      <Source>True. I have many diseases, but madness isn't one of them.</Source>
+      <Dest>是的。我浑身是病，但可没患疯病。</Dest>
+    </String>
+    <String List="2">
+      <Source>Although I suppose given everything you've done, I should be grateful. Things could have turned out much worse. Just ask the Redguard.</Source>
+      <Dest>尽管我觉得我已经为你所做的一切给予了报酬，但我还是要表示感激。事情本可能会变的更糟，去找那个红卫人吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have a high opinion of Camaron's bodyguard.</Source>
+      <Dest>你对卡马隆的侍卫评价很高嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, I am disappointed I didn't hire him first. It would have saved the lives of many of your predecessors.</Source>
+      <Dest>是啊，我太后悔没有先雇他来。不然在你之前就不会死那么多人呐。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have a high opinion of Camaron's bodyguard.</Source>
+      <Dest>你对卡马隆的侍卫评价很高嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>But their lives aren't our concern. Hopefully we'll be able to solve this dilemma without violence and save yours.</Source>
+      <Dest>但是他们的死活跟我们没有关系。希望我们能不用武力就能把你救出来。</Dest>
+    </String>
+    <String List="2">
+      <Source>You lead the way. Alftand is a few day's journey east.</Source>
+      <Dest>你带路。艾尔夫坦德还得再往东走几天。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have a high opinion of Camaron's bodyguard.</Source>
+      <Dest>你对卡马隆的侍卫评价很高嘛。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have a high opinion of Camaron's bodyguard.</Source>
+      <Dest>你对卡马隆的侍卫评价很高嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's better if we let Camaron get there first, so she can mull over her choices, or lack thereof.</Source>
+      <Dest>如果我们让卡马隆先到这会更好，这样她就能仔细考虑他的选择，或者其中的缺陷。</Dest>
+    </String>
+    <String List="0">
+      <Source>If this chamber is truly what you believe, this petty feud needs to stop.</Source>
+      <Dest>如果这个空间真的是你所相信的那样，那就该结束这点小恩怨。</Dest>
+    </String>
+    <String List="2">
+      <Source>As usual you and I are in full agreement. Although admittedly, it's easier to want to compromise when in the presence of that bodyguard.</Source>
+      <Dest>和往常一样，我们完全达成共识。虽然无可否认的是，在那个侍卫面前，我们更容易想要妥协。</Dest>
+    </String>
+    <String List="0">
+      <Source>If this chamber is truly what you believe, this petty feud needs to stop.</Source>
+      <Dest>如果这个空间真的是你所相信的那样，那就该结束这点小恩怨。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a result, we should do our best not provoke them. Let me do the talking. A confrontation will not end well with one so capable by her side.</Source>
+      <Dest>所以，我们得尽量不去激怒他们。让我去谈谈吧。有那么个本领高强的家伙在她身边，和他们硬碰硬是没有好结果的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Given what's at stake, hopefully this thing can be solved peacefully.</Source>
+      <Dest>考虑到目前的危急情况，希望这件事情可以和平解决。</Dest>
+    </String>
+    <String List="2">
+      <Source>That is my intent, especially given the fact that we wouldn't stand a chance against that bodyguard of hers.</Source>
+      <Dest>这样正合我意，特别是考虑到我们大概没有什么能打败她的机会。</Dest>
+    </String>
+    <String List="0">
+      <Source>Given what's at stake, hopefully this thing can be solved peacefully.</Source>
+      <Dest>考虑到目前的危急情况，希望这件事情可以和平解决。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a result, we should do our best not provoke them. Let me do the talking. A confrontation will not end well with one so capable by her side.</Source>
+      <Dest>所以，我们得尽量不去激怒他们。让我去谈谈吧。有那么个本领高强的家伙在她身边，和他们硬碰硬是没有好结果的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. The one in the Dwarven armor was rather intimidating.</Source>
+      <Dest>是的。那个穿着矮人甲的家伙真的很吓人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm glad it wasn't just me. I hope Camoran didn't notice the baubles of sweat pouring down my fingers.</Source>
+      <Dest>我很高兴自己不是孤零零的一个人。希望卡莫兰没注意到我用手指攥出汗了的小玩意儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. The one in the Dwarven armor was rather intimidating.</Source>
+      <Dest>是的。那个穿着矮人甲的家伙真的很吓人。</Dest>
+    </String>
+    <String List="2">
+      <Source>But we can't worry about that. Hopefully we'll be able to solve this dilemma without violence.</Source>
+      <Dest>但是我们现在不需要去考虑那些。希望我们能通过非暴力手段就解决这窘境。</Dest>
+    </String>
+    <String List="2">
+      <Source>You lead the way. Alftand is a few day's journey east.</Source>
+      <Dest>你带路。艾尔夫坦德还得再往东走几天。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. The one in the Dwarven armor was rather intimidating.</Source>
+      <Dest>是的。那个穿着矮人甲的家伙真的很吓人。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes. The one in the Dwarven armor was rather intimidating.</Source>
+      <Dest>是的。那个穿着矮人甲的家伙真的很吓人。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's better if we let Camaron get there first, so she can mull over her choices, or lack thereof.</Source>
+      <Dest>如果我们让卡马隆先到这会更好，这样她就能仔细考虑他的选择，或者其中的缺陷。</Dest>
+    </String>
+    <String List="0">
+      <Source>He didn't look so tough to me.</Source>
+      <Dest>看起来他对我不那么严厉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Your attempts to mask your adoration are unnecessary. I'm sure you were just as impressed by his presence as I was.</Source>
+      <Dest>你根本不必要尝试隐瞒你所信仰的东西。我相信你如我一般被神灵深深打动了。</Dest>
+    </String>
+    <String List="0">
+      <Source>He didn't look so tough to me.</Source>
+      <Dest>看起来他对我不那么严厉。</Dest>
+    </String>
+    <String List="2">
+      <Source>But we can't worry about that. Hopefully we'll be able to solve this dilemma without violence.</Source>
+      <Dest>但是我们现在不需要去考虑那些。希望我们能通过非暴力手段就解决这窘境。</Dest>
+    </String>
+    <String List="0">
+      <Source>He didn't look so tough to me.</Source>
+      <Dest>看起来他对我不那么严厉。</Dest>
+    </String>
+    <String List="2">
+      <Source>You lead the way. Alftand is just a few day's journey east.</Source>
+      <Dest>You lead the way. Alftand is just a few day's journey east.</Dest>
+    </String>
+    <String List="0">
+      <Source>He didn't look so tough to me.</Source>
+      <Dest>看起来他对我不那么严厉。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's better if we let Camaron get there first, so she can mull over her choices, or lack thereof.</Source>
+      <Dest>如果我们让卡马隆先到这会更好，这样她就能仔细考虑他的选择，或者其中的缺陷。</Dest>
+    </String>
+    <String List="0">
+      <Source>If the artifact I retrieved is real, then she'll likely try to steal it.</Source>
+      <Dest>如果我取回的工艺品是真的，那她可能会试着去偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>I haven't ruled it out, although the more likely scenario is her unleashing that bodyguard of hers upon us.</Source>
+      <Dest>我还没排除这种可能性，但我认为最可能的情形是她让她身边那个侍卫来对付我们。</Dest>
+    </String>
+    <String List="0">
+      <Source>If the artifact I retrieved is real, then she'll likely try to steal it.</Source>
+      <Dest>如果我取回的工艺品是真的，那她可能会试着去偷。</Dest>
+    </String>
+    <String List="2">
+      <Source>As a result, we should do our best not provoke them. Let me do the talking. A confrontation will not end well with one so capable by her side.</Source>
+      <Dest>所以，我们得尽量不去激怒他们。让我去谈谈吧。有那么个本领高强的家伙在她身边，和他们硬碰硬是没有好结果的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It didn't sound like much of a concession to me.</Source>
+      <Dest>在我看来这不算是多大的让步。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then you were obviously not paying attention. Which is fine, as that's not what you were hired to do.</Source>
+      <Dest>你显然没有集中注意力。但没关系，显然雇你们来不只是做这些的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It didn't sound like much of a concession to me.</Source>
+      <Dest>在我看来这不算是多大的让步。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fact that she told us where she and that unstoppable bodyguard of hers are headed is proof enough that the artifact you retrieved is real.</Source>
+      <Dest>事实上，她告诉了我们她在那里，然后以她那势不可挡的保镖为首，都充分的证明了你取回的工艺品是真的。</Dest>
+    </String>
+    <String List="0">
+      <Source>It didn't sound like much of a concession to me.</Source>
+      <Dest>在我看来这不算是多大的让步。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speaking of which, do not provoke them. Let me do the talking. A confrontation will not end well with one so capable by her side.</Source>
+      <Dest>说些不会激怒他们的话题。让我来负责这次谈判吧。有这么一个精明干练的人为她出谋划策，冲突将很难结束。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found a much more interesting discovery. A sentient Dwarven Spider.</Source>
+      <Dest>我找到了更有意思的东西，一个活蹦乱跳的矮人蜘蛛！</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure you found all sorts of fascinating technology, but when we find the Dwemer, they'll be able to show it to us themselves.</Source>
+      <Dest>我肯定你发现了各种各样有趣的技术，但我们找到锻莫的时候，他们可以亲自给我们展示。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found a much more interesting discovery. A sentient Dwarven Spider.</Source>
+      <Dest>我找到了更有意思的东西，一个活蹦乱跳的矮人蜘蛛！</Dest>
+    </String>
+    <String List="2">
+      <Source>Now hand the artifact over so I can show the Redguard.</Source>
+      <Dest>现在把工艺品交给我吧，我好给红卫人看。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, in Blackreach. The locations are connected through this cave.</Source>
+      <Dest>是的，在黑降。不同的地点通过这个洞穴来连接。</Dest>
+    </String>
+    <String List="2">
+      <Source>Naturally, even the Propylon Chambers have their limits. They would still need roads and bridges to deliver large goods.</Source>
+      <Dest>当然，就算是石柱传送门也有所局限性。他们还是需要路和桥来运输大件物品。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, in Blackreach. The locations are connected through this cave.</Source>
+      <Dest>是的，在黑降。不同的地点通过这个洞穴来连接。</Dest>
+    </String>
+    <String List="2">
+      <Source>But that's not for you to worry your pretty little head over. Hand me the artifact, and we'll let the Redguard's reaction tell us if it's real.</Source>
+      <Dest>但是这不需要你的那颗漂亮脑袋去考虑。把那工艺品给我，我们来让这红卫人的反应告诉我们他是否说了实话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is this Lexicon what we're looking for?</Source>
+      <Dest>这就是我们在找的方典吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now that will depend entirely on our friend's reaction to it. Hand it over and we'll see.</Source>
+      <Dest>现在就全看我们这位朋友的反应了。拿过来我们瞧瞧吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there a right way to Sovngarde?</Source>
+      <Dest>真的有通往松嘉德的路么？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, I suppose there isn't, not unless they consider drowning in a vat of mead to be the pinnacle of valor.</Source>
+      <Dest>不，我想没有，除非他们认为淹死在一大桶酒里就是肝胆过人了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there a right way to Sovngarde?</Source>
+      <Dest>真的有通往松嘉德的路么？</Dest>
+    </String>
+    <String List="2">
+      <Source>But there is a right way to the treasure, and it starts with you signing on to this expedition.</Source>
+      <Dest>但是有个不错的法子来获得财宝，而第一步，就是签字加入这个探险队。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there a right way to Sovngarde?</Source>
+      <Dest>真的有通往松嘉德的路么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust this arrangement works for you? Keep making that face if you agree.  Good.</Source>
+      <Dest>我相信这项协议对你适用？如果你同意请保持这个表情，很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>If there's profit to be had, then count me in.</Source>
+      <Dest>如果有钱可以赚，那就算我一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>Excellent, but remember our arrangement calls for the guarding of this body. I will be responsible for keeping it beautiful.</Source>
+      <Dest>好极了，但要记住我们的计划里包括守卫这具躯体。我会负责维持它的美丽。</Dest>
+    </String>
+    <String List="0">
+      <Source>If there's profit to be had, then count me in.</Source>
+      <Dest>如果有钱可以赚，那就算我一个。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust you can handle yourself in a fight? Keep that lower jaw jutted forward if the answer's yes. Good.</Source>
+      <Dest>我该相信你能在战斗中控制自己吗？觉得是的话就把你的下颚伸出来保持那个样子。很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. So long as you keep me fed and I get to smash things.</Source>
+      <Dest>好吧。既然你一直供我吃饭，我就去活动活动手脚吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you're a brute. Good. My last bodyguard was the kind of man who got winded tying his shoes.</Source>
+      <Dest>所以说你就是个畜生。好极了，我的上一任侍卫可是那种举手投足都能惊天动地的家伙。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. So long as you keep me fed and I get to smash things.</Source>
+      <Dest>好吧。既然你一直供我吃饭，我就去活动活动手脚吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>You will be a significant upgrade. It was smart of me to hire you.</Source>
+      <Dest>你会变成一个好帮手的，雇你真是个好决定。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bodyguard or not, this place is dangerous. We need to get you out of here.</Source>
+      <Dest>保镖或者别的什么，这个地方很危险。我们得把你从这里弄出去。</Dest>
+    </String>
+    <String List="2">
+      <Source>How charming. You think you know what I need. I think I've already established that.</Source>
+      <Dest>真可爱，你认为你知道我需要什么，我想我早就已经确认过这些了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Bodyguard or not, this place is dangerous. We need to get you out of here.</Source>
+      <Dest>保镖或者别的什么，这个地方很危险。我们得把你从这里弄出去。</Dest>
+    </String>
+    <String List="2">
+      <Source>First, you will clear the cave, then I will retrieve the artifact, and only then will we leave. Keep making that face if you understand. Good.</Source>
+      <Dest>首先，你要清理这个山洞，然后我会取回工艺品。再然后我们离开就好了。如果你明白了的话就继续这个呆滞的表情不要变。很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>A seventy-thirty split. Not gold, of course, but labor, which you'll be doing most of. We'll both take turns preparing the meals.</Source>
+      <Dest>七十块柴禾。当然这不是金币，但却是劳动的成果。你可能可以做得更好。我们会轮流准备饭菜。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on. We need to discuss terms first.</Source>
+      <Dest>稍等。我们得先谈谈条件。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hold on. We need to discuss terms first.</Source>
+      <Dest>稍等。我们得先谈谈条件。</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust this arrangement works for you? Keep making that face if you agree.  Good.</Source>
+      <Dest>我相信这项协议对你适用？如果你同意请保持这个表情，很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Have you done as I asked? Good.</Source>
+      <Dest>你照着我说的去做了吗？很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, that was...different. What could have possessed Scotti to turn on his own client?</Source>
+      <Dest>可是，那……不一样的。有什么会让斯科蒂跟他自己的顾客作对呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Thankfully, whatever disease he caught hasn't spread to you, or I'd be deader than a Draugr crypt.</Source>
+      <Dest>谢天谢地，不管他感染了什么样的疾病，他没有传染给你。不然我现在会死得比地穴里的尸鬼还彻底。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'm afraid that's as close to a concession as we're going to get. It's no coincidence the chamber is in Alftand.</Source>
+      <Dest>好吧，恐怕那是我们能所能达到的最近距离。那间房子在艾尔夫坦德里可能并非巧合。</Dest>
+    </String>
+    <String List="2">
+      <Source>And like it or not, the Redguard needs us. In fact, she doesn't like it all. That's what makes it all the more sweeter.</Source>
+      <Dest>而不管你喜不喜欢，那个红卫需要我们。实际上，她并不喜欢这样。于是这件事就变得更有意思了。</Dest>
+    </String>
+    <String List="2">
+      <Source>How deep do you think this gorge is? 50 feet? 100? Well, it'll only be half as deep as your pockets, when we find the artifact.</Source>
+      <Dest>你认为这峡谷有多深？50英尺？100英尺？好吧，当我们找到那玩意时，它只有你口袋的一半深。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's right, I said we. My bodyguard just took the long way to Sovngarde, down a Chaurus' stomach. You're going to be his replacement.</Source>
+      <Dest>That's right, I said we. My bodyguard just took the long way to Sovngarde, down a Chaurus' stomach. You're going to be his replacement.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you think the device can be repaired?</Source>
+      <Dest>你觉得这装置能修复吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>It will be a difficult task, seeing as our knowledge of Dwemer engineering is as spotty as a freckled leopard.</Source>
+      <Dest>这会是一项艰巨的任务，毕竟我们对锻莫人的机械几乎一无所知。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you think the device can be repaired?</Source>
+      <Dest>你觉得这装置能修复吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll need financial backing, but I'm sure someone in Winterhold will grant us the funding.</Source>
+      <Dest>我们将需要财政支援，不过我敢肯定在冬堡的一些人会给我们提供资金。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of artifact is in this cave?</Source>
+      <Dest>这洞里有什么样的工艺品？</Dest>
+    </String>
+    <String List="2">
+      <Source>What an odd thing to ask. That is, if you were my last bodyguard. I clearly explained to him what the artifact is.</Source>
+      <Dest>问了多么古怪的东西啊。那这样吧，如果你是我最后的防护。我会跟他解释清楚那个工艺品是什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of artifact is in this cave?</Source>
+      <Dest>这洞里有什么样的工艺品？</Dest>
+    </String>
+    <String List="2">
+      <Source>If he didn't like spending his winters in the void, I wouldn't have to repeat myself. This time, I will wait until we find it.</Source>
+      <Dest>如果他还想活下去，我就没必要再重复一遍我的话。这次，在我们找到之前我会一直等着。</Dest>
+    </String>
+    <String List="2">
+      <Source>Blink once if you understand, twice if you're confused, no times if there's cobwebs in my hair. Excellent.</Source>
+      <Dest>这次，我会等到我们找到它。懂了就眨一下眼，不懂眨两下，如果等到我头上结蜘蛛网可就来不及了。非常好。</Dest>
+    </String>
+    <String List="0">
+      <Source>What sort of artifact is in this cave?</Source>
+      <Dest>这洞里有什么样的工艺品？</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you're completely useless. Good to know.</Source>
+      <Dest>换句话说，你就是个废物。还好我知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>If a barbarian like yourself thinks this to be true, then good luck finding work on your own, without the slightest clue of how to find it.</Source>
+      <Dest>如果一个像你一样的野蛮人认为这是真的，那么祝你找到你自己的工作，虽然我估计你不太可能找得到吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>In other words, you're completely useless. Good to know.</Source>
+      <Dest>换句话说，你就是个废物。还好我知道了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like it or not you need me as much as I need you.</Source>
+      <Dest>不管你喜不喜欢，你都需要我，正如我需要你一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, there's a lot of ways to contribute outside of battle.</Source>
+      <Dest>除了战斗以外，还有很多种方式可以做出贡献。</Dest>
+    </String>
+    <String List="2">
+      <Source>Undoubtedly, but the majority of that burden will fall onto you, in order to justify the amount I'm considering paying you.</Source>
+      <Dest>毫无疑问，既然我都打算付给了你那么多钱了，那大部分的重担都会落在你的肩上。</Dest>
+    </String>
+    <String List="0">
+      <Source>Still, there's a lot of ways to contribute outside of battle.</Source>
+      <Dest>除了战斗以外，还有很多种方式可以做出贡献。</Dest>
+    </String>
+    <String List="2">
+      <Source>But the cooking is another matter, as I have a finicky tongue and it requires sharing the duties. Flare your nostrils if you understand. Good.</Source>
+      <Dest>但是做饭又是另一件麻烦事了，因为我长了一个挑剔的舌头，它需要分担责任。如果你了解了就把鼻子放灵光点，很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just how many bodyguards have died as a result of this expedition?</Source>
+      <Dest>有多少护卫死在了这次探险中？</Dest>
+    </String>
+    <String List="2">
+      <Source>The number isn't important. What matters is that their death is your opportunity.</Source>
+      <Dest>数字并不重要。重要的是他们的死是你的机会。</Dest>
+    </String>
+    <String List="2">
+      <Source>The same is true for all the failed explorers that came before me. You won't see me shedding a tear for their loss.</Source>
+      <Dest>在我之前道来的所有失败的探索者也是同理。不会看到我为他们流下一滴眼泪。</Dest>
+    </String>
+    <String List="0">
+      <Source>Just how many bodyguards have died as a result of this expedition?</Source>
+      <Dest>有多少护卫死在了这次探险中？</Dest>
+    </String>
+    <String List="0">
+      <Source>You use that word, "hiring." But I haven't been paid.</Source>
+      <Dest>你说的可是雇佣，可我根本没拿到钱呐。</Dest>
+    </String>
+    <String List="2">
+      <Source>The payment will come when the artifact is secured. It also guarantees you won't be spending your advance at the tavern.</Source>
+      <Dest>The payment will come when the artifact is secured. It also guarantees you won't be spending your advance at the tavern.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you possess any survival skills?</Source>
+      <Dest>你有掌握任何生存技能吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm alive, aren't I? Of course, that's due in part to my chief survival skill, the hiring of personal bodyguards.</Source>
+      <Dest>我还活着，不是吗？当然，那要归功于我的盗贼生存技巧，和我雇佣的私人保镖。</Dest>
+    </String>
+    <String List="0">
+      <Source>Judging by what I just heard, you appear to be willing to compromise.</Source>
+      <Dest>根据我的判断，你似乎想要妥协了。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not something I do willingly. I want this discovery just as bad as anyone.</Source>
+      <Dest>那些不是我自愿做的事。我希望这个发现不是很糟糕。</Dest>
+    </String>
+    <String List="0">
+      <Source>Judging by what I just heard, you appear to be willing to compromise.</Source>
+      <Dest>根据我的判断，你似乎想要妥协了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Of course, there's one outcome worse than having the Redguard find the Dwemer first. And that's if neither of us do.</Source>
+      <Dest>当然，还有比让红卫人先找到锻莫人更糟糕的呢，那就是咱俩都没找到。 </Dest>
+    </String>
+    <String List="2">
+      <Source>While you were retrieving the item, I realized that the return of the Dwemer takes precedence over any squabble between myself and the Redguard.</Source>
+      <Dest>当你取回物品的时候，我意识到锻莫的回归比我和红卫人的所有争论都要重要的多。</Dest>
+    </String>
+    <String List="0">
+      <Source>What changed?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What changed?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I think it was rather big of me to put my own interests aside, don't you?</Source>
+      <Dest>我认为这使我把相当大的一部分利益放在一边，不是么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What changed?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Blink once if you agree, twice if you really agree, and 3 times if I have food in my teeth. Good.</Source>
+      <Dest>如果你同意的话眨眼一次，如果你非常赞同眨两次，如果我牙上有食物残渣就眨三次。很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the history between you and Camaron?</Source>
+      <Dest>你和卡马隆之间有什么过节？</Dest>
+    </String>
+    <String List="2">
+      <Source>We're competitors in the exploration game. Fierce ones, at that. We'd probably get along if it didn't go against our best interests.</Source>
+      <Dest>在这场探索游戏中我们是竞争对手。这会很激烈的，如果没有触及到各自最大的利益我们最好和谐相处。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the history between you and Camaron?</Source>
+      <Dest>你和卡马隆之间有什么过节？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm not sure what the current tally is, but it doesn't matter anymore. This discovery will top all our previous history.</Source>
+      <Dest>我不清楚现在的记录是多少，不过没关系，跟这次比以前的根本不算什么。</Dest>
+    </String>
+    <String List="2">
+      <Source>These indices are enchanted to form a link between a circle of chambers, allowing you to transport across great distances.</Source>
+      <Dest>这些指数已被附魔用于形成一个环形空间，以允许你传送很远的距离。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain silent.)</Source>
+      <Dest>(保持沉默.)</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain silent.)</Source>
+      <Dest>(保持沉默.)</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, considering how advanced it was, there's an alternate theory that proposes some of this technology was borrowed from the Dwemer.</Source>
+      <Dest>好好想想那有多么先进，有理论认为有些技术是来自于锻莫的。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Remain silent.)</Source>
+      <Dest>(保持沉默.)</Dest>
+    </String>
+    <String List="2">
+      <Source>Some even say it explains the disappearance of the entire Dwemer race. I should know, as I'm the one who proposed that theory.</Source>
+      <Dest>有人甚至声称它解释了整个锻莫种族为何会灭亡的问题。我也该知道来着，毕竟这个理论是我提出来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>These indices are enchanted to form a link between a circle of chambers, allowing you to transport across great distances.</Source>
+      <Dest>这些指数已被附魔用于形成一个环形空间，以允许你传送很远的距离。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...</Source>
+      <Dest>Wait...</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...</Source>
+      <Dest>Wait...</Dest>
+    </String>
+    <String List="2">
+      <Source>Now, considering how advanced it was, there's an alternate theory that proposes some of this technology was borrowed from the Dwemer.</Source>
+      <Dest>好好想想那有多么先进，有理论认为有些技术是来自于锻莫的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait...</Source>
+      <Dest>Wait...</Dest>
+    </String>
+    <String List="2">
+      <Source>Some even say it explains the disappearance of the entire Dwemer race. I should know, as I'm the one who proposed that theory.</Source>
+      <Dest>有人甚至声称它解释了整个锻莫种族为何会灭亡的问题。我也该知道来着，毕竟这个理论是我提出来的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these artifacts doing in Skyrim?</Source>
+      <Dest>这些工艺品在天际省到底做什么用？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's common sense. If you build a temple, you will draw the devout. If you make a key, it will find its way to the right door.</Source>
+      <Dest>这是常识。如果你要修建一座神殿，你会虔诚地绘制它的蓝图。如果你做了一把钥匙，那么它终归会打开对应的门。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these artifacts doing in Skyrim?</Source>
+      <Dest>这些工艺品在天际省到底做什么用？</Dest>
+    </String>
+    <String List="2">
+      <Source>The artifacts are here because the Chamber is here. The presence of one proves the existence of the other.</Source>
+      <Dest>这些神器在这儿是因为密室在这儿。它们中的一个存在证明了另一个的存在。</Dest>
+    </String>
+    <String List="0">
+      <Source>What are these artifacts doing in Skyrim?</Source>
+      <Dest>这些工艺品在天际省到底做什么用？</Dest>
+    </String>
+    <String List="2">
+      <Source>Anyhow it's not your concern. I know you're smart, but for this task you need to think like you're two carrots short of a potage.</Source>
+      <Dest>无论如何，这不是你该关心的事儿。我知道你很聪明，但在这个任务上，你得保持着人为刀俎我为鱼肉的意识。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wouldn't the Dwemer use Lexicons as opposed to Indexes?</Source>
+      <Dest>难道这些锻莫人不会用方典来作为索引的相反面吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, while the Dunmer used enchanted Indices, the Dwemer typically store all relevant data into a single Lexicon.</Source>
+      <Dest>对，当丹莫们使用附魔指数的时候，锻模把所有的相关数据都储存到了一个单独的方典里。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wouldn't the Dwemer use Lexicons as opposed to Indexes?</Source>
+      <Dest>难道这些锻莫人不会用方典来作为索引的相反面吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Given we are searching for a Dwemer machine and not a Dunmer one, I would venture your guess is correct. But I make no assumptions.</Source>
+      <Dest>就我们在寻找矮人机械而不是黑暗精灵机械这点而言，我敢说你的猜测是正确的。但我不会做任何假设。</Dest>
+    </String>
+    <String List="2">
+      <Source>In ancient times, the Chimer and Dwemer united against a common enemy to form the Kingdom of Resdayn.</Source>
+      <Dest>在古代，北地精灵和锻莫团结一致对抗共同的敌人，从而形成了莱斯戴恩王国。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="2">
+      <Source>The two races couldn't be more different, but when two siblings live under the same house, they can't help but influence each other.</Source>
+      <Dest>The two races couldn't be more different, but when two siblings live under the same house, they can't help but influence each other.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you think the two races influenced each other?</Source>
+      <Dest>What makes you think the two races influenced each other?</Dest>
+    </String>
+    <String List="2">
+      <Source>I had heard a lecture in Winterhold on how the Dwemer used charged soul gems to animate machines and harness the power of the Gods.</Source>
+      <Dest>我在冬堡听了一场讲座，是关于锻莫如何利用灵魂石驱动机器，以及驾驭众神之力的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What makes you think the two races influenced each other?</Source>
+      <Dest>What makes you think the two races influenced each other?</Dest>
+    </String>
+    <String List="2">
+      <Source>It also led to the circumstances of their disappearance, when they were seemingly teleported to an unknown plane.</Source>
+      <Dest>这也导致了他们失踪的情况似乎是被传送到了另一个未知的位面。</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that relate to the device we're searching for?</Source>
+      <Dest>How does that relate to the device we're searching for?</Dest>
+    </String>
+    <String List="2">
+      <Source>It occurred to me that crystals were also used by the Chimer's descendants to charge the Propylon Chambers, and thus a theory was born.</Source>
+      <Dest>It occurred to me that crystals were also used by the Chimer's descendants to charge the Propylon Chambers, and thus a theory was born.</Dest>
+    </String>
+    <String List="0">
+      <Source>Is there any basis for this theory of yours?</Source>
+      <Dest>你这个理论有什么依据么？</Dest>
+    </String>
+    <String List="0">
+      <Source>How does that relate to the device we're searching for?</Source>
+      <Dest>How does that relate to the device we're searching for?</Dest>
+    </String>
+    <String List="2">
+      <Source>And thus, a theory was born. Roughly around the same time our Redguard friend was learning how to crawl.</Source>
+      <Dest>于是乎，一个伟大的理论诞生了，就在我们的红卫朋友们还在学习爬行的时候。</Dest>
+    </String>
+    <String List="0">
+      <Source>In the letter, Camaron also implied she was after a sphere.</Source>
+      <Dest>信里还说，卡玛隆提到她在追踪一个球形的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Machines of such importance are typically safeguarded with a tonal lock, and that requires an attunement sphere.</Source>
+      <Dest>如此重要的机器会被声波锁重点保护起来，那就需要靠调谐频率来解决了。</Dest>
+    </String>
+    <String List="0">
+      <Source>In the letter, Camaron also implied she was after a sphere.</Source>
+      <Dest>信里还说，卡玛隆提到她在追踪一个球形的东西。</Dest>
+    </String>
+    <String List="2">
+      <Source>Camaron has stayed a step ahead thus far, mostly with the help of that new bodyguard of hers, but if we get the lexicon she'll be forced to bargain.</Source>
+      <Dest>目前为止，卡马隆领先一步。这大多是因为她的新侍卫的帮助。但如果我们得到了方典，她就不得不跟我们做交易了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Camaron mentions a Propylon Chamber.</Source>
+      <Dest>卡玛隆提到了一个入口墓室。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, a teleportation device used by the Dunmer in ancient times, to travel between their strongholds.</Source>
+      <Dest>是啊，在古代，黑暗精灵们通过心灵传送装置往来于他们的据点。</Dest>
+    </String>
+    <String List="0">
+      <Source>Camaron mentions a Propylon Chamber.</Source>
+      <Dest>卡玛隆提到了一个入口墓室。</Dest>
+    </String>
+    <String List="2">
+      <Source>In order to activate them, a small cone-shaped object called an Index is required. </Source>
+      <Dest>要想激活它们，需要一个叫做索引的锥形物体。</Dest>
+    </String>
+    <String List="0">
+      <Source>Camaron mentions a Propylon Chamber.</Source>
+      <Dest>卡玛隆提到了一个入口墓室。</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you following me so far? Give me a sign if you aren't. Wonderful.</Source>
+      <Dest>你要跟我这么远么？如果你不就给我一个手势。很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>It does seem like an awful lot of effort to fool you.</Source>
+      <Dest>的确像是费这么大劲儿来糊弄你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. The irony is, if the girl used half of her ingenuity toward exploration as opposed to these tricks, she would have found the Lexicon already.</Source>
+      <Dest>是的，讽刺的是，如果这姑娘能够把她一半的精力用在探索上而不是诡计上，那她早就已经找到方典了。</Dest>
+    </String>
+    <String List="0">
+      <Source>I read the letter and I have to say I agree with every word.</Source>
+      <Dest>我读了那封信，而且我不得不说我完全同意它的每一句话。</Dest>
+    </String>
+    <String List="2">
+      <Source>I assume you don't mean every word, but the ones you understand. Which are apparently none of them.</Source>
+      <Dest>我想你不是成心说这种话的，但这只有你自己明白，你说的话明显口不对心。</Dest>
+    </String>
+    <String List="0">
+      <Source>I read the letter and I have to say I agree with every word.</Source>
+      <Dest>我读了那封信，而且我不得不说我完全同意它的每一句话。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know it seems confusing given how backwards your thinking is, but remember to read from left to right.</Source>
+      <Dest>鉴于你如此后知后觉，我知道这都把你搞糊涂了。但给我记住了，从左往右读。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't like being lied to. You said there was an artifact here.</Source>
+      <Dest>我不喜欢被人欺骗，你说了那里有一个工艺品的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, it seems we were both misled, but your anger should be directed at my Redguard colleague.</Source>
+      <Dest>哈啊，看来我们都被骗了；我觉得你应该把火气撒在我那红卫同僚身上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't like being lied to. You said there was an artifact here.</Source>
+      <Dest>我不喜欢被人欺骗，你说了那里有一个工艺品的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>She not only lied to you, but she has delayed your payment, and thus put food away from your table.</Source>
+      <Dest>她不仅对你撒谎， 还推延了你的报酬。甚至把桌上的食物推的离你远远的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't like being lied to. You said there was an artifact here.</Source>
+      <Dest>我不喜欢被人欺骗，你说了那里有一个工艺品的。.</Dest>
+    </String>
+    <String List="2">
+      <Source>She means to starve you and your family. Which makes her nothing short of a murderer.</Source>
+      <Dest>她是想把你和你的家人活活饿死，这种做法完全就是谋杀。</Dest>
+    </String>
+    <String List="0">
+      <Source>The letter's from a friend of yours, I take it?</Source>
+      <Dest>这信是你的某个朋友写的，我要接收吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not a friend, an enemy. And the enemy of your client is the one person in this world you should hate the most.</Source>
+      <Dest>不是朋友，就是敌人。而你客户的敌人是在这个世界上你最该恨的人。</Dest>
+    </String>
+    <String List="0">
+      <Source>The letter's from a friend of yours, I take it?</Source>
+      <Dest>这信是你的某个朋友写的，我要接收吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Because if she gets the Lexicon first, it will mean deathbells for the both of us. No one remembers who comes in second.</Source>
+      <Dest>因为如果她先拿到了方典，就意味着我们俩死定了。没有人会记得第二名。</Dest>
+    </String>
+    <String List="0">
+      <Source>The letter's from a friend of yours, I take it?</Source>
+      <Dest>这信是你的某个朋友写的，我要接收吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>For instance, can you name the second best chef in Tamriel, after the Gourmet?  Exactly.</Source>
+      <Dest>举个例子，我们都知道整个泰姆瑞尔大陆最棒的厨师是美食家，那你能说出厨艺排名第二的人的名字吗？结果显而易见。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found this letter. I believe it's addressed to you.</Source>
+      <Dest>我发现了这封信。我相信这是写给你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>What in Oblivion..."I sincerely hope you have turned back before reaching this letter, as it would represent a new low in explorer incompetence."</Source>
+      <Dest>这信真他妈的。。。“我真诚地希望您能在这封信寄到之前回来，因为这会打破探险家无能的新记录。”</Dest>
+    </String>
+    <String List="2">
+      <Source>Incompetence? We'll show that girl incompetence! Furrow your brow if you agree. Good.</Source>
+      <Dest>无能？那我们就让那个女孩看看什么是无能！如果你同意就舒展眉毛。很好。</Dest>
+    </String>
+    <String List="0">
+      <Source>I found this letter. I believe it's addressed to you.</Source>
+      <Dest>我发现了这封信。我相信这是写给你的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Falmer?</Source>
+      <Dest>这雪精灵怎么了？</Dest>
+    </String>
+    <String List="2">
+      <Source>They must be removed, of course, if we are to explore these grounds. I will do my best to stay out of your way.</Source>
+      <Dest>如果我们要一探到底的话，它们当然一定要被除掉。我会努力不碍你事的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you see the color of my robes? Of course you don't, they're camouflaged in the dark. So watch where you strike.</Source>
+      <Dest>看见我长袍上的颜色了吗？当然了你肯定没看见，它们都是黑色的。所以你干架的时候最好看着点儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Falmer?</Source>
+      <Dest>这雪精灵怎么了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's our next move?</Source>
+      <Dest>我们下一步做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll have to work on the assumption that the Redguard obtained the attunement sphere. Luckily we have one advantage. This key.</Source>
+      <Dest>We'll have to work on the assumption that the Redguard obtained the attunement sphere. Luckily we have one advantage. This key.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's our next move?</Source>
+      <Dest>我们下一步做什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't know if it unlocks a door or a chest, but it will undoubtedly lead you to the lexicon.</Source>
+      <Dest>I don't know if it unlocks a door or a chest, but it will undoubtedly lead you to the lexicon.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's our next move?</Source>
+      <Dest>我们下一步做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do?</Source>
+      <Dest>你接下来有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>I will head to Mzinchaleft to meet Camaron while you retrieve it. Afterward you will rendezvous with us at the nearby settlement of Stonehills.</Source>
+      <Dest>我会前往津查遗址去见卡马隆，而你负责把它找回来。完事儿以后你就去石山镇旁的定居点和我们会合。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's our next move?</Source>
+      <Dest>我们下一步做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do?</Source>
+      <Dest>你接下来有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>Here are my notes on the lexicon, but don't worry, you won't need to solve any puzzles. Just explore the ruins like you did this cave. Voraciously.</Source>
+      <Dest>Here are my notes on the lexicon, but don't worry, you won't need to solve any puzzles. Just explore the ruins like you did this cave. Voraciously.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's our next move?</Source>
+      <Dest>我们下一步做什么？</Dest>
+    </String>
+    <String List="0">
+      <Source>What will you do?</Source>
+      <Dest>你接下来有什么打算？</Dest>
+    </String>
+    <String List="2">
+      <Source>I trust you know how to proceed? Scratch your nose if you agree. No, scratch that. The idea not the nose. Just nod if you're confused.  Good.</Source>
+      <Dest>我想你应该知道该怎么做了？如果"是"那就挠你的鼻子。不，是挠那儿。没错，如果你同意就挠你的鼻子。如果你还有疑问的话就点头。恩很好。</Dest>
+    </String>
+    <String List="2">
+      <Source>What have you done? The buttons seem stuck!</Source>
+      <Dest>你干了些什么？按钮看起来卡住了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Camaron, stop that fool before he breaks something!</Source>
+      <Dest>卡马隆，在他弄坏什么东西之前快让他停下！</Dest>
+    </String>
+    <String List="2">
+      <Source>Dwarvenborn? What nonsense is this?</Source>
+      <Dest>矮人裔？什么狗屁玩意儿？</Dest>
+    </String>
+    <String List="2">
+      <Source>Scotti, what in Oblivion are you talking about?</Source>
+      <Dest>斯科蒂，你他奶奶的在鬼扯什么！？</Dest>
+    </String>
+    <String List="2">
+      <Source>Scotti, stop fooling around. Hurry up and place the lexicon into the device.</Source>
+      <Dest>斯科蒂，别瞎转悠了。赶紧把词典放到装置上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Let's not jump to conclusions. It may have been already damaged. And we don't really know where it will take us. It might just send us to Rorikstead.</Source>
+      <Dest>让我们不要急于下结论。它可能早就坏掉了。而我们不知道它会把我们带到哪里去。也许它只会把我们送到洛利克镇。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm alive...thank the Divines. Still in a state of shock, but alive. Why would Scotti do this? And how did he disable the machine?</Source>
+      <Dest>我还活着……感谢圣灵。虽然还在惊魂未定，但我还活着。为什么斯科蒂要这么做？他是怎么关闭这个机器的？</Dest>
+    </String>
+    <String List="2">
+      <Source>Camaron, are you alright?</Source>
+      <Dest>卡马隆，你还好吧？</Dest>
+    </String>
+    <String List="2">
+      <Source>No, not at all! I want us to share this discovery.  I'm sure there's room on this platform for the two of us.</Source>
+      <Dest>不，一点也不！我想要我们分享这个发现。我确信平台上有足够的空间容下我们两人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Scotti! Take the sphere and the Lexicon and place it in the machine!</Source>
+      <Dest>斯科蒂！带上这个球体和字典放在那个机器里！</Dest>
+    </String>
+    <String List="2">
+      <Source>Do you mean it? This isn't one of your tricks, is it?</Source>
+      <Dest>你想表达什么？想否认你耍的小花招儿，是吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right! And you know what? It was selfish of me to want this moment for myself. I want you to stand here with me.</Source>
+      <Dest>你是对的！你知道吗？只想独占这一瞬间的我实在是太自私啦。我想让你和我并肩而立。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I tire of people saying I would've never gotten anywhere without your assistance.</Source>
+      <Dest>我也听厌了别人说没有你帮忙我就什么也不是。</Dest>
+    </String>
+    <String List="2">
+      <Source>But you know what? Your people and my people, they're both right. Whether it's as rivals or colleagues, we are where we are because of each other.</Source>
+      <Dest>可是你知道吗？你的人跟我的人，双方都是对的。不管是竞争对手还是同事关系，我们都是为了对方而来的。</Dest>
+    </String>
+    <String List="2">
+      <Source>And while others may argue over who gets the credit, there's no denying this discovery belongs to the both of us.</Source>
+      <Dest>虽然大家可能会为了确定利益的分配而争吵不休，但无可否认的是：这个发现归功于我们两人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't need your help! I'm tired of our colleagues saying I rode your coattails!</Source>
+      <Dest>我不需要你帮我！我已经烦透了我的同事都说我没了你什么都不是！</Dest>
+    </String>
+    <String List="2">
+      <Source>It's an amazing day, Camaron. I know we've had our differences, but right now...they all seem so insignificant.</Source>
+      <Dest>真是个惊奇的一天啊，卡马隆。我知道我们彼此之间隔阂重重，但是现在。。。似乎这些都不重要了。</Dest>
+    </String>
+    <String List="2">
+      <Source>This is it! We've done it! After all this time...thousands of years...we're going to make contact with the Dwemer! Us!</Source>
+      <Dest>就是它！我们做到了！在数千年的岁月……过了如此之久以后……我们终于要和锻莫接触了! 我们!</Dest>
+    </String>
+    <String List="2">
+      <Source>By Julianos! Look at this place!</Source>
+      <Dest>尤里安诺思在上！看看这地方！</Dest>
+    </String>
+    <String List="2">
+      <Source>Go ahead. Pull the lever.</Source>
+      <Dest>来吧。拉动杆。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright, we're almost there. Just have your guard pull the lever opposite from me.</Source>
+      <Dest>好了，马上就完成了。只要让你的守卫把那撬棍往我反方向拉就好了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes, yes, of course. Here. Take the lexicon. For once, I don't mind following your act.</Source>
+      <Dest>好吧好吧，当然了。这儿，拿着词典吧。我就听你这么一次。</Dest>
+    </String>
+    <String List="2">
+      <Source>(Sigh) Maybe you're right. I suppose it would be just as unsavory to steal the Lexicon as it would be to share the credit.</Source>
+      <Dest>(叹气) 也许你是对的。我想这确实挺没品的，在方典马上会被展现于世的时候把它偷走什么的……</Dest>
+    </String>
+    <String List="2">
+      <Source>Fine. We can work together, but on one condition. I want to be the first to use the chamber. It's only fair, given I found it.</Source>
+      <Dest>很好。我们可以一起工作，但有一个条件。我想成为第一个使用密室的人。这很公平，你要知道它是我发现的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's beside the point. You still need the Lexicon to work the Chamber. Isn't it time we end this feud?</Source>
+      <Dest>那不是重点，你仍然需要方典使传送门得以运转。这不是终止我们的纠纷的最好时机吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha! Scotti would've killed them all had your bodyguard not intervened!</Source>
+      <Dest>哈！要不是你们这些保镖插一脚，斯科蒂早就把他们通通搞定了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, do you see now what your stubbornness has wrought? You could've have gotten yourself killed!</Source>
+      <Dest>哈，你现在看到自己的固执酿成的恶果了吧？你差点自己送自己上路！</Dest>
+    </String>
+    <String List="2">
+      <Source>We'll see who's bluffing when I take both the lexicon and the sphere to Alftand.  Come Scotti. We have Dwemer to find.</Source>
+      <Dest>我们会知道到底谁在胡说。现在，带上词典和球，让我们去艾尔夫坦德看看。来吧斯科蒂，我们还得找到那些锻莫人呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that your attempt at a bluff? Do you think I will just toss the Lexicon away?</Source>
+      <Dest>你想试着威胁我？你觉得我会只是把方典扔掉而已吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Your lips and your eyes are having a disagreement, and it's clear which one is telling the truth.</Source>
+      <Dest>你所说的与你那眼神里所反映出来的互相矛盾呢，谁在说谎这不是一目了然的事嘛。</Dest>
+    </String>
+    <String List="2">
+      <Source>So, Camaron, it appears it's my time to gloat. But I'm going to refrain. After all, you still have the sphere.</Source>
+      <Dest>所以，卡马隆，看上去这是个我该自鸣得意的时候。但我会保持克制的，毕竟,，你仍然掌握着矮人天球仪。</Dest>
+    </String>
+    <String List="2">
+      <Source>This game ends in a draw. And at this point, I don't mind sharing the credit. This is bigger than the both of us.</Source>
+      <Dest>这次比赛平局结束了。到了这个时候，我也不介意分享这个荣誉了。这对我们两人来说更为重要。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, this is my discovery! I don't need your fake Lexicon! I- I already found the real one, in some ruin you haven't heard of!</Source>
+      <Dest>不，这是我的发现！我不需要你的假方典！我。。。我已经找到了真正的那个！在一些甚至你听都没听说过的遗迹里！</Dest>
+    </String>
+    <String List="2">
+      <Source>No. Falcus is dead, as are all his predecessors. My new bodyguard, however, is alive and well, and has a present for the both of us.</Source>
+      <Dest>不，法库斯已经死了，跟他的所有祖先一起。我的新保镖倒是好好的活了下来，还有礼物要送给我们俩。</Dest>
+    </String>
+    <String List="2">
+      <Source>You mean Falcus? That fool isn't fit enough to fetch Scotti's slippers.</Source>
+      <Dest>你的意思是法库斯？那个呆子给斯科蒂提鞋都不配。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ha! You're one to talk, Camaron. If it weren't for that bodyguard of yours, you wouldn't last two seconds in a Dwemer ruin!</Source>
+      <Dest>哈！你自己说吧，卡马隆。要不是你的保镖，你在锻莫遗迹里连两秒都撑不了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I'll have you know I've hired someone just as capable.</Source>
+      <Dest>好吧，我会让你知道我雇来的人相当称职。</Dest>
+    </String>
+    <String List="2">
+      <Source>So you came...just as I predicted you would.</Source>
+      <Dest>所以你来了，如我所料。</Dest>
+    </String>
+    <String List="2">
+      <Source>I told Scotti only a true ignoramus would come to Mzinchaleft after I made it clear it was another ruse.</Source>
+      <Dest>我告诉斯科蒂说只有真正不学无术的人才会在我已经明确指出津扎遗址是另一个陷阱之后还会去那里。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yet you do serve a purpose. When we reintroduce ourselves to the Dwemer, they will wonder why it took so long for us to find them.</Source>
+      <Dest>然而你确实是有目的的，当我们再次向锻莫介绍自己时，他们会想为什么我们花了这么长时间才找到他们。</Dest>
+    </String>
+    <String List="2">
+      <Source>And I need only point them to exhibit A.  The lump of orichalcum you call a brain.</Source>
+      <Dest>而我只需要让他们出示一个重要物证，就是被你称之为大脑的那块儿奥里哈鲁根。</Dest>
+    </String>
+    <String List="2">
+      <Source>How in Oblivion the Falmer managed to get their hands on it, I have no idea, but the evidence is overwhelming. The artifact must be here.</Source>
+      <Dest>该死的，那堆雪精灵是怎么拿到这东西的？我可想不出来，但是证据是压倒性的。神器一定就在这儿。</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it? Did you find something?</Source>
+      <Dest>什么情况？你发现什么了吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are we clear on what needs to be done? Of course we are. Or else I wouldn't have hired you. Now go.</Source>
+      <Dest>我们清楚到底要做什么吗？我们当然清楚。否则我就不会雇佣你。现在走吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Nothing you say makes sense to me, so it makes no sense to stay.  Goodbye.</Source>
+      <Dest>你所说的对我毫无意义，没必要在留在这里。再见</Dest>
+    </String>
+    <String List="2">
+      <Source>Daylight felled, moons and stars, eaten as the day.  What is nigh but what has always been.  A single spot, the last page.</Source>
+      <Dest>黎明陨落，星星和月亮吞噬者白昼。几近达成却不断完善。简单的标记，最后的章节。</Dest>
+    </String>
+    <String List="0">
+      <Source>Ahem. Did someone say hero?  Look no further.</Source>
+      <Dest>Ahem. 有人说起过英雄吗？ 没有下文了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Speak no further, look no more.  The quickening slows the mortal four.  Salt and dirt, light and stars, meet your destiny from afar.</Source>
+      <Dest>不再交谈，不再观察。活泼放慢了四个凡人。盐与尘，光与星，改变你的命运从远处。</Dest>
+    </String>
+    <String List="0">
+      <Source>An Argonian, a Khajiit, an Elf, and an Imperial.</Source>
+      <Dest>一个亚龙人，一个虎人，一个精灵和一个帝国人。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, yes, yes, and no.  The second dressed, and the third signed, but neither scales nor Empires did she find.</Source>
+      <Dest>没有，有，有，没有。虎人被扒皮了，精灵被标记了，但不论是亚龙人还是帝国人她都没找着。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Elf was the leader.  Only his body was a worthy vessel.</Source>
+      <Dest>精灵们才是领导者。只有他们的身体才能成为一个有价值的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Knives cut, and are cut.  Dressed in blood while the other signed.  Sent to the void were the knives, and in its place comes wicked divine.</Source>
+      <Dest>刀子切断，然后被切断。刀子浸泡在血液里聆听人们哀叹。刀子被送入虚空，虚空中邪神躁动。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Elf was the leader.  Only his body was a worthy vessel.</Source>
+      <Dest>精灵们才是领导者。只有他们的身体才能成为一个有价值的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>The land it treads and blood is fed.  Different clothes, same grin, holes in the mask, where skin meets skin.</Source>
+      <Dest>它践踏大地，以鲜血为饮。不同的衣着，同样的笑靥，面具上的空洞，那里皮和皮相接。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Elf was the leader.  Only his body was a worthy vessel.</Source>
+      <Dest>精灵们才是领导者。只有他们的身体才能成为一个有价值的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is it wolf or pheasant, spider or fly?  Knives are green, and touch the sky.</Source>
+      <Dest>那是狼还是野鸡，蜘蛛还是苍蝇？刀子染上了绿色，飞上了天空。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Elf was the leader.  Only his body was a worthy vessel.</Source>
+      <Dest>精灵们才是领导者。只有他们的身体才能成为一个有价值的容器。</Dest>
+    </String>
+    <String List="2">
+      <Source>Find it well, find it plain.  All we are is in a name.  </Source>
+      <Dest>正确的去理解吧，朴素的去探寻吧。我们所有人的存在归属于同一个名字之下。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you have no idea how this happened to you.</Source>
+      <Dest>我估摸着你也不知道为什么这事会落到你头上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Seams ran jagged on a curved dome.  Shuddered.  Snapped.  Lost in moans.  </Source>
+      <Dest>弧形穹顶的缝合线呈锯齿状。来回摇动。哗哗作响。迷失在呻吟中。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you have no idea how this happened to you.</Source>
+      <Dest>我估摸着你也不知道为什么这事会落到你头上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thrusting pain...unending pain, never will it after.  Heart bleeds, but no blood comes.  Sorrow knows only laughter.</Source>
+      <Dest>那撕心裂肺的……永无止境的痛苦，再也不会有了。我的心在滴血，却没有真的血液流出来。我感到悲伤，却只能强颜欢笑。</Dest>
+    </String>
+    <String List="0">
+      <Source>I suppose you have no idea how this happened to you.</Source>
+      <Dest>我估摸着你也不知道为什么这事会落到你头上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Trust was given, trust was shaken.  Love she kept, so it was taken.</Source>
+      <Dest>信任可以给，信任可以丢。爱情她守着，然后被偷走。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>很高兴见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Met with darkness, met with stones, met with kisses and met with bones.</Source>
+      <Dest>遇见黑暗，遇见岩石，遇见吻还有遇见骨头。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="0">
+      <Source>Well met.</Source>
+      <Dest>很高兴见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>The pact is made, death draws near, life a shade that draws strength from fear.</Source>
+      <Dest>The pact is made, death draws near, life a shade that draws strength from fear.</Dest>
+    </String>
+    <String List="0">
+      <Source>This pact took place in a catacombs or a crypt.</Source>
+      <Dest>此协议达成于某个陵墓或地穴。</Dest>
+    </String>
+    <String List="2">
+      <Source>The sand says, "You must find the dead," and the tail says "We found them."</Source>
+      <Dest>流沙说，“你要找到死尸,” 尾巴 说 "我们找到他们了。</Dest>
+    </String>
+    <String List="0">
+      <Source>This pact took place in a catacombs or a crypt.</Source>
+      <Dest>此协议达成于某个陵墓或地穴。</Dest>
+    </String>
+    <String List="2">
+      <Source>A claws is brought, a wheel is turned and the end is near to ground them.</Source>
+      <Dest>龙爪已经带来了，轮盘也开始转动了，结局也在慢慢迫近。</Dest>
+    </String>
+    <String List="0">
+      <Source>This being you speak of is a High Elf.</Source>
+      <Dest>你说的这个家伙是个高精灵.</Dest>
+    </String>
+    <String List="2">
+      <Source>Eldawyn,  Eldawyn, a Mer to be scorned.  Plaintive cries and knells of death like echoes of newborn.</Source>
+      <Dest>艾德温,  艾德温, 一个受人嘲笑的精灵。哀伤的哭泣和如婴儿呜咽一般的丧钟声。</Dest>
+    </String>
+    <String List="0">
+      <Source>This being you speak of is a High Elf.</Source>
+      <Dest>你说的这个家伙是个高精灵.</Dest>
+    </String>
+    <String List="2">
+      <Source>Dressed in blood, and washed in white, and winter turns to endless fright.  For what is lack if all is lack and day is same as night.</Source>
+      <Dest>Dressed in blood, and washed in white, and winter turns to endless fright.  For what is lack if all is lack and day is same as night.</Dest>
+    </String>
+    <String List="0">
+      <Source>You don't strike me as vain.  Mad perhaps, but not vain.</Source>
+      <Dest>或许有点疯狂，但是你对我的打击并非白费。</Dest>
+    </String>
+    <String List="2">
+      <Source>The taunt is for the name, but let it fester, and truth it became.</Source>
+      <Dest>The taunt is for the name, but let it fester, and truth it became.</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are your parents now?</Source>
+      <Dest>你的双亲现在在哪?</Dest>
+    </String>
+    <String List="2">
+      <Source>Lukewarm sunrise.  The monarch dances, and the dragon lies.   </Source>
+      <Dest>冷冷的阳光下，君王翩翩起舞，巨龙尘归于土。</Dest>
+    </String>
+    <String List="0">
+      <Source>Where are your parents now?</Source>
+      <Dest>你的双亲现在在哪?</Dest>
+    </String>
+    <String List="2">
+      <Source>Green pillows flank ground so true, and ringed stalks lean to seams of blue.</Source>
+      <Dest>Green pillows flank ground so true, and ringed stalks lean to seams of blue.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Redguard was murdered for corrupting the blood ritual with loose sand.</Source>
+      <Dest>这个红卫人因用松散的沙子干扰血腥仪式而被谋杀。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sand in skin, but no sand to touch, the dunes swept over a pact of blood.</Source>
+      <Dest>沙子附在皮肤上，却触摸不到，这片沙丘遍布着血之契约。</Dest>
+    </String>
+    <String List="0">
+      <Source>A Redguard, an Argonian, an Elf, and a Nord.</Source>
+      <Dest>一个红卫人，一个亚龙人，一个精灵，以及一个诺德人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Not for scales, scales they tip, for malice and quickened life adrift.</Source>
+      <Dest>并没有鳞，他们抛弃了鳞，出于他们的恨意，和漂泊生活的艰辛。</Dest>
+    </String>
+    <String List="0">
+      <Source>An Orc.  Big, green, although you left out the ugly part.</Source>
+      <Dest>一个兽人。大个，绿色的。尽管你忽略了最丑陋的部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>Malacath born, kin to no spell, slave to no other but steel's bell.</Source>
+      <Dest>玛拉凯斯诞生了，既不用咒语也不奴役他人，只有丧钟的鸣响。</Dest>
+    </String>
+    <String List="0">
+      <Source>An Orc.  Big, green, although you left out the "master race" part.</Source>
+      <Dest>一个兽人。硕大，稚嫩，不过你漏了“优等民族”那部分。</Dest>
+    </String>
+    <String List="2">
+      <Source>Malacath born, kin to no spell, slave to no other but steel's bell.</Source>
+      <Dest>玛拉凯斯诞生了，既不用咒语也不奴役他人，只有丧钟的鸣响。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords crave death.  It made for a worthy sacrifice.</Source>
+      <Dest>诺德人渴望死亡。这造就了有价值的牺牲。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stout as oak, blood like wine, worthy was he of earthly crime.</Source>
+      <Dest>如橡树一般健壮，如醇酒一般热血，仿佛就为了在世间犯罪而生。</Dest>
+    </String>
+    <String List="0">
+      <Source>Nords crave death.  It made for a worthy sacrifice.</Source>
+      <Dest>诺德人渴望死亡。这造就了有价值的牺牲。</Dest>
+    </String>
+    <String List="2">
+      <Source>But ritual conjured is ritual complete.  Frozen breath cannot halt speech.  </Source>
+      <Dest>但召唤仪式的魔法已经完成了。寒气纵刺骨，而终不能封言语.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Strange that they couldn't distinguish your smell from a corpse.</Source>
+      <Dest>奇怪的是他们居然不能用气味将你和那些尸体区分开来。</Dest>
+    </String>
+    <String List="0">
+      <Source>Strange that they couldn't distinguish your smell from a corpse.</Source>
+      <Dest>奇怪的是他们居然不能用气味将你和那些尸体区分开来。</Dest>
+    </String>
+    <String List="2">
+      <Source>It corrupts the end of a tail's nose, to doubt it means the plant is grown.</Source>
+      <Dest>It corrupts the end of a tail's nose, to doubt it means the plant is grown.</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, that was a lovely verse. I'd like to hear another.</Source>
+      <Dest>喔～好诗啊好诗，我还想再听一首。</Dest>
+    </String>
+    <String List="2">
+      <Source>Verses are words, and words perverse.  They speak and yet say none.  Round and round, up and down, until the period comes.</Source>
+      <Dest>诗是文字，反常的文字。它们陈述一切却又无所表达。一遍又一遍，翻来覆去，直到划上句号。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh, that was a lovely verse. I'd like to hear another.</Source>
+      <Dest>喔～好诗啊好诗，我还想再听一首。</Dest>
+    </String>
+    <String List="2">
+      <Source>The pact is done, signed in blood, and all is soon forgot, for dressed in blood the evil comes and the world is long for naught.  </Source>
+      <Dest>血之契约已经成立，一切都将会被遗忘，邪恶踏着鲜血而来，世界将会沦陷。  </Dest>
+    </String>
+    <String List="2">
+      <Source>Four mortals made a pact, dressed in blood, signed in blood...</Source>
+      <Dest>Four mortals made a pact, dressed in blood, signed in blood...</Dest>
+    </String>
+    <String List="2">
+      <Source>The hollows scream words unknown, knells of silence to forewarn, that which cannot be unseen, darkness fathomed daylight's dream.</Source>
+      <Dest>山谷喊叫着未知的话语, 丧钟沉默着发出警鸣。那是不能视而不见的,  在黑暗之中追寻阳光的愿望。</Dest>
+    </String>
+    <String List="2">
+      <Source>Signed in blood, dressed in blood...Neither death nor calm or coming spring can stop the scarlet rain or sea.</Source>
+      <Dest>以血为势，全身浴血，无论是不平静的死亡，还是春天来临，都不能平息猩红的雨和血海。</Dest>
+    </String>
+    <String List="2">
+      <Source>For the seeds have been planted in the void, and the void planted in the seed.</Source>
+      <Dest>因为种子被植于虚空之中，而虚空也被种于种子之内。</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem ill. Perhaps a bottle of skooma will restore your insanity.</Source>
+      <Dest>你貌似生病了。可能一瓶斯库玛能恢复你的错乱。</Dest>
+    </String>
+    <String List="2">
+      <Source>Rot and die, maggots and flies, ill omens and ill wind.  The dawn of terror is the dusk of man, and the fishwife knows it's grim.</Source>
+      <Dest>腐烂和死亡,蛆虫和苍蝇,和不幸。恐惧的黎明是人类之黄昏。连卖鱼妇都知道他的恐怖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four mortals made the pact, dressed in blood, signed in blood...</Source>
+      <Dest>四个凡人立下契约，同生共死，以血立契……</Dest>
+    </String>
+    <String List="2">
+      <Source>Don't pull the tail, let light's anchor fail...</Source>
+      <Dest>别拉那亚龙人，让光之印记陨落吧……</Dest>
+    </String>
+    <String List="2">
+      <Source>Salt and ash, dust and dirt, from whence we came is where we return.</Source>
+      <Dest>尘埃落定，灰烬散去，起源之处即是归途终点。</Dest>
+    </String>
+    <String List="2">
+      <Source>Life, death, life again, brings death upon all daylight's end.</Source>
+      <Dest>生死轮回，未曾止息，亡灵飘摇，直至终结。</Dest>
+    </String>
+    <String List="2">
+      <Source>The break of day, the death of light, a new beginning for the night.</Source>
+      <Dest>破晓时分，光芒慢慢死亡，而夜晚又到了再次复苏之时。</Dest>
+    </String>
+    <String List="2">
+      <Source>Insipid, involuntary, blinding infirmity, in that instill death inside the unworthy.</Source>
+      <Dest>平淡的,无意识的, 盲目的 弱点, 在那儿逐渐步入死亡于无用之内.</Dest>
+    </String>
+    <String List="2">
+      <Source>Dressed in blood, dress the wound, the egg hunts in secret from the womb.</Source>
+      <Dest>衣服浸满了血,包扎着伤口,圆卵在子宫中悄悄的狩猎。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pray, pray, pray.  Pray there is no prey, for with it comes the end of days.</Source>
+      <Dest>祈祷，祈祷，祈祷，祈祷这里没有猎物，祈祷可以和它一起迎来末日。</Dest>
+    </String>
+    <String List="2">
+      <Source>Did you hear what happened to the fishwife?  Spoiled, spoiled beyond repair, never was she always fair.</Source>
+      <Dest>你听说卖鱼妇发生了什么事吗？变质，变质到无法恢复，她不会永远都是美丽的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Pimpled skin and wilted bone, atrophy and darkness groans...</Source>
+      <Dest>起疹的皮肤和枯萎的骨骼，虚弱而模糊的呻吟……</Dest>
+    </String>
+    <String List="2">
+      <Source>Vestigial, evil, evil, vestigial.  Live again, die no more, the pact was made by mortals four.</Source>
+      <Dest>退化，邪恶，邪恶，退化。重活一次，不再死亡，这协议是由四个凡人制定的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four heroes will make tomorrow, to send the blight to endless hollow.</Source>
+      <Dest>四位英雄将在明日动身，把枯萎病送往无尽山洞。</Dest>
+    </String>
+    <String List="2">
+      <Source>The first holds a book, turning time's flow; the second wields a shout to open skybound doors.</Source>
+      <Dest>第一步：翻开书，让时间流转；第二步：使用龙吼，打开天限之门。</Dest>
+    </String>
+    <String List="2">
+      <Source>The third a betrayer whose seeks to redeem, while the fourth is the needle from which we weave.</Source>
+      <Dest>第三个人，是个试图弥补的背叛者，而第四个是我们所编织之物的针。</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy there, Breton. You shouldn't be down here.  It's dangerous.</Source>
+      <Dest>当心，布莱顿人。你不应该在这下面。这很危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>Down in shadow, lost in grief, trapped in the void's endless trench.  To unknowable depths and terror's height, goes our downward ascent.</Source>
+      <Dest>在阴影中沉沦，在哀痛中迷失，被困在无尽的空虚之中。深不见底的深渊，无止尽的堕落。</Dest>
+    </String>
+    <String List="0">
+      <Source>Easy there, Breton. You shouldn't be down here.  It's dangerous.</Source>
+      <Dest>当心，布莱顿人。你不应该在这下面。这很危险。</Dest>
+    </String>
+    <String List="2">
+      <Source>For signed in blood they came, and dressed in blood they went.  When mortals four of reaper's fame, that all may soon repent.</Source>
+      <Dest>For signed in blood they came, and dressed in blood they went.  When mortals four of reaper's fame, that all may soon repent.</Dest>
+    </String>
+    <String List="0">
+      <Source>Does Styrr know you're down here?</Source>
+      <Dest>Styrr知道你在这里吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The priest said to the dead one, "These apples I want no more."  The priest said to the wind, "I light these fires so bones are warm."</Source>
+      <Dest>牧师告诉亡灵，“我不再想要这些苹果了。”牧师告诉风，“我升起了火，骨头得以温暖。”</Dest>
+    </String>
+    <String List="0">
+      <Source>Does Styrr know you're down here?</Source>
+      <Dest>Styrr知道你在这里吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>The priest tends to the dead, as the priest should.  The fishwife is not seen or heard or even understood.</Source>
+      <Dest>祭司照顾死者，因为祭司应该这么做。没再见过，听说过，也从不会理解那个臭婆娘。</Dest>
+    </String>
+    <String List="0">
+      <Source>Does Styrr know you're down here?</Source>
+      <Dest>Styrr知道你在这里吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Knows not, or cares not, or cares too much to care.  Priest moves and Arkay guides, in light is mystery bare.</Source>
+      <Dest>不论你理解也否，关心也罢，亦或是关心的太大发了。祭祀的感化连同阿尔凯的指引，都会在神秘的光芒中暴露无遗。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know of this pact?</Source>
+      <Dest>你对这个契约知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>The tail said, "I smell another," the knives said, "You smell a corpse."  Bones rattle and bones wake and smells are voices hoarse.</Source>
+      <Dest>亚龙人说，“我闻到了别的东西。”刀说，“你闻到的是尸体。”骨头嘎嘎作响，苏醒过来，察觉出那些声音有些沙哑。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know of this pact?</Source>
+      <Dest>你对这个契约知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>Four mortals made the pact, but another sat in shallows.  No one sees the short, the poor, or the blind in the shadows.</Source>
+      <Dest>四个凡人做出了这个约定，但另一个却坐在沙滩上。谁都没有看见阴影之中的矮子，穷人，或那个瞎子。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know of this pact?</Source>
+      <Dest>你对这个契约知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>The fifth one heard the pact, but did not speak or sign.  Shivered, trembled, fought for warmth in cold's frigid bind.</Source>
+      <Dest>第五人听到了协议，但不做声响。颤栗着，发抖着，在寒冷冰凉的束缚里为温暖挣扎。</Dest>
+    </String>
+    <String List="0">
+      <Source>How do you know of this pact?</Source>
+      <Dest>你对这个契约知道多少？</Dest>
+    </String>
+    <String List="2">
+      <Source>In the shade to hide from shades and say the words that felled the day.</Source>
+      <Dest>在阴影中躲避其他阴影，还说着抱怨生活的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then the fates have brought me here. I am your champion.</Source>
+      <Dest>命运带我来到了你的面前，我就是你的勇士！</Dest>
+    </String>
+    <String List="2">
+      <Source>Steel tongues and iron teeth, clack day and night for but a septim's piece.</Source>
+      <Dest>钢牙铁齿日日夜夜帮帮作响只换了一点点金币。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about this pact.</Source>
+      <Dest>跟我說說這個合約。</Dest>
+    </String>
+    <String List="2">
+      <Source>Four mortals said the words, and brought the blight upon this land.  Two knives, one tail, and the hour of death is soon at hand.</Source>
+      <Dest>四个凡人道出禁语，瘟疫降临这片土地。手上的不止两把匕首，还有死亡时刻的临近。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about this pact.</Source>
+      <Dest>跟我說說這個合約。</Dest>
+    </String>
+    <String List="2">
+      <Source>The third with sand between her toes, the fourth with ice upon his breath.  Together in ritual and sunken time, they seek the dismal death.</Source>
+      <Dest>第三个趾缝含沙，第四个鼻息含冰。在仪式与沉没之时，索寻着凄凉之死。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about this pact.</Source>
+      <Dest>跟我說說這個合約。</Dest>
+    </String>
+    <String List="2">
+      <Source>The stage is built, but the chairs are all but sterile.  A place for one who sits opposed.  A challenger.  A champion.  A hero.</Source>
+      <Dest>The stage is built, but the chairs are all but sterile.  A place for one who sits opposed.  A challenger.  A champion.  A hero.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me about this pact.</Source>
+      <Dest>跟我說說這個合約。</Dest>
+    </String>
+    <String List="2">
+      <Source>For when darkness fells the day and swallows the stars, all that is left to light the path is the fire that burns in mortal hearts.</Source>
+      <Dest>因为，当暗黑降临，日月星辰黯淡无光时，唯一能照亮前行之路的，便只剩凡人心中曳动的火光。</Dest>
+    </String>
+    <String List="0">
+      <Source>They killed the Khajiit for his cowardice.</Source>
+      <Dest>他们因這虎人的怯懦而杀了他。</Dest>
+    </String>
+    <String List="2">
+      <Source>Fear perhaps, love maybe, what is the provenance of true denial?  Know I not, but I know this.  The robe was dressed in blue.</Source>
+      <Dest>或许是恐惧，也许是爱，被拒绝的真相起源又是如何？我是不知道，但我知道。这长袍被蓝色装饰着。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're mad. Your prophecies are the ramblings of a mad woman. Good day.</Source>
+      <Dest>你疯了。你的预言是一个疯狂的女人的随笔。再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oceans rise, waves and tide, cresting over shoals.  The mad fish sing in bubbled rhyme and play in coral bowls.</Source>
+      <Dest>海水潮起，波涛淹没浅滩。疯狂的鱼儿在珊瑚丛中畅游，用有韵律的气泡歌唱。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're mad. Your prophecies are the ramblings of a mad woman. Good day.</Source>
+      <Dest>你疯了。你的预言是一个疯狂的女人的随笔。再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>The corporeal become funereal.  Imagination is nothing real.  When five become one, all will kneel.</Source>
+      <Dest>有形之物皆悲伤，空想之景全成空。当五归于一，众生皆俯首。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you be more clear?  Who made this pact?</Source>
+      <Dest>你能再明了点吗？谁签的这协议？</Dest>
+    </String>
+    <String List="2">
+      <Source>The cat whispered doubt to the knives, but its blades cut through the knee.  It quivered no more, and fur sat matted, lapping meekly at its fleas.</Source>
+      <Dest>虎人呻吟着尝试去拔匕首，但是匕首的刀刃刺穿了膝盖。它不再颤抖，身上的毛皮也不再直立，倒伏下来留给身上的跳蚤在其中蹦跳。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you be more clear?  Who made this pact?</Source>
+      <Dest>你能再明了点吗？谁签的这协议？</Dest>
+    </String>
+    <String List="2">
+      <Source>The knives nodded to frozen breath, as it read from tome of forgotten death.  Flame rose, flame cold, wretched, wrenching soul of old.</Source>
+      <Dest>骑士们随着渐渐冷却的呼吸低下了头，如同在阅读一本被遗忘的亡者的著作。火焰燃起，又渐渐熄灭。悲惨啊，悲惨的古老亡魂啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Can you be more clear?  Who made this pact?</Source>
+      <Dest>你能再明了点吗？谁签的这协议？</Dest>
+    </String>
+    <String List="2">
+      <Source>From the earth, born anew, cleansed through blood and both defiled. Water mixed with grains of sand, cut from the curve of the mother's child.</Source>
+      <Dest>From the earth, born anew, cleansed through blood and both defiled. Water mixed with grains of sand, cut from the curve of the mother's child.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Khajiit, an Elf, a Nord, and a Redguard.</Source>
+      <Dest>一个虎人，一个精灵，一个诺德人和一个红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Frozen words, conjured life.  Soul unbound to cause limitless strife.  </Source>
+      <Dest>冻结的语言, 诅咒的生命。 灵魂的释放带来无尽的冲突。  </Dest>
+    </String>
+    <String List="0">
+      <Source>A Khajiit, an Elf, a Nord, and a Redguard.</Source>
+      <Dest>一个虎人，一个精灵，一个诺德人和一个红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>Daylight's end is Nirn's final chapter, sand on the rug, frozen not long after.</Source>
+      <Dest>黄昏已至，奈恩将终。沙与兽皮，瑟瑟冰封。</Dest>
+    </String>
+    <String List="0">
+      <Source>A Khajiit, an Elf, a Nord, and a Redguard.</Source>
+      <Dest>一个虎人，一个精灵，一个诺德人和一个红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>So it was said, and then signed in blood, but only for three, and not for one.</Source>
+      <Dest>就像是谣传的那样，他们在鲜血中留下印记，但是是三个，而不只一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>A Khajiit, an Elf, a Nord, and a Redguard.</Source>
+      <Dest>一个虎人，一个精灵，一个诺德人和一个红卫人。</Dest>
+    </String>
+    <String List="2">
+      <Source>The fourth was dressed in shades of red, one soul entered while the other fled.</Source>
+      <Dest>第四个包裹在红色的阴影之中。当这个灵魂进入的时候，另一个灵魂趁机逃掉了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>Names are all we are.  Name it, and it shall be known.  It wears a new name, wears it proud, same as the old.</Source>
+      <Dest>对我们而言名字就是一切。给它起个名,然后这个名就会为人所知。它自豪的用上了一个新名字，不亚于旧名字。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>Mother said, "Your name is Gwyvane." Father agreed, "It's a lovely name."</Source>
+      <Dest>老妈说：“你就叫桂帆好了。”老爸同意：“这名字真可爱嘿。”</Dest>
+    </String>
+    <String List="0">
+      <Source>Who are you?</Source>
+      <Dest>你是谁？</Dest>
+    </String>
+    <String List="2">
+      <Source>The children called her "ugly and vain."  Mother said, "Ignore their game."</Source>
+      <Dest>孩子们说她“丑恶又虚荣”。而母亲说，“无视他们的戏弄吧。”</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't appear as if you came from a broken home.  Yet something broke you.</Source>
+      <Dest>或许你并非来自一个破碎的家庭。但确有些什么毁了你。</Dest>
+    </String>
+    <String List="2">
+      <Source>The knives said and spoke too clear, "The land will cry with pain, and pray for a time when they could but fear."</Source>
+      <Dest>这些武装者讲的再明白不过了，“整片土地都会痛苦的哭喊。即使有一丝喘息的时间也只能在恐惧中祈祷。”</Dest>
+    </String>
+    <String List="0">
+      <Source>It doesn't appear as if you came from a broken home.  Yet something broke you.</Source>
+      <Dest>或许你并非来自一个破碎的家庭。但确有些什么毁了你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mother guide me, Father, guide me, strength to watch it all go by me.</Source>
+      <Dest>母亲，引导我。父亲，引导我。力量，让我随之而去。</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

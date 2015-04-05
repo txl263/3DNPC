@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Here. Have a gold piece. (1 gold)</Source>
+      <Dest>来，这枚金币拿去。(1金币)</Dest>
+    </String>
+    <String List="2">
+      <Source>Wonderful. Just a couple more of my little gold friends and we'll have enough for another bottle. It's just too bad they don't sell mead by the sip.</Source>
+      <Dest>Wonderful. Just a couple more of my little gold friends and we'll have enough for another bottle. It's just too bad they don't sell mead by the sip.</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. Have a gold piece. (1 gold)</Source>
+      <Dest>来，这枚金币拿去。(1金币)</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. Have a drink on me.</Source>
+      <Dest>拿去，我身上有些喝的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You my lady, are a champion.  A mead-maiden. A wine wizard for the ages.  Thank you.</Source>
+      <Dest>我的夫人，你是个战士。是位蜜酒少女。这个时代的葡萄酒奇才。谢谢你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. Have a drink on me.</Source>
+      <Dest>拿去，我身上有些喝的。</Dest>
+    </String>
+    <String List="2">
+      <Source>You sir, are a champion.  An ale-archer.  A wine wizard for the ages.  Thank you.</Source>
+      <Dest>你的先生是一名战士。这个时代的麦芽酒弓箭手和葡萄酒魔法师。这还真是谢谢啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Here. Have a drink on me.</Source>
+      <Dest>拿去，我身上有些喝的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Got any ale or mead?</Source>
+      <Dest>有酒或肉吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="2">
+      <Source>I think people shaw I was making good bread out of that grain, as the passhersby starting handing me their coins.</Source>
+      <Dest>I think people shaw I was making good bread out of that grain, as the passhersby starting handing me their coins.</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="2">
+      <Source>Zenithar's blessing, no doubt.  As far as I'm concerned, we're practically partners in this thing.  Shtill waiting for that idea, though.</Source>
+      <Dest>泽尼萨尔祝福你，毫无疑问。就我而言，我们在这件事上是合作伙伴。虽然我觉得这依旧不是个好主意。</Dest>
+    </String>
+    <String List="0">
+      <Source>Then what happened?</Source>
+      <Dest>那么发生了什么事情？</Dest>
+    </String>
+    <String List="2">
+      <Source>Need shome more drink to looshen up all the wax in my head.  Too bad for my inveshtors.  Until that idea comes, it's all just a lot of shunk cost.</Source>
+      <Dest>要再来些酒涮涮我脑子里的浆糊。对我的投资者来说不是什么好消息。除非那个点子找上我，否则他们只能白白投钱。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you from around these parts?</Source>
+      <Dest>你是这一带的人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh by the Divines no. I come from a little town known as Rorikshtead.  It's a fine hamlet, but I knew that Zenithar had bigger things planned for me.</Source>
+      <Dest>哦，看在圣灵的份上，不。我从一个叫洛里斯泰德的小村子里来。那是个静谧安详的小村庄，但是我知道泽尼萨尔会赋予我更重要的任务。</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you from around these parts?</Source>
+      <Dest>你是这一带的人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Through his wisdom I was guided here to Sholitude.  And true to his word, it turned out to be a great place to make an honesht living.</Source>
+      <Dest>Through his wisdom I was guided here to Sholitude.  And true to his word, it turned out to be a great place to make an honesht living.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you from around these parts?</Source>
+      <Dest>你是这一带的人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Every day I walk out to the market and collect sheed money for my business venture.</Source>
+      <Dest>Every day I walk out to the market and collect sheed money for my business venture.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you from around these parts?</Source>
+      <Dest>你是这一带的人吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>At first, I wasn't even doing that.  Just came out to get a little sun, look at the competing businesses, and start milling the grain in my head.</Source>
+      <Dest>最早我压根就不是做那个的。我只是走到室外晒晒太阳，看看忙碌的买卖，然后做做白日梦什么的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  I would like to invest in your business.</Source>
+      <Dest>有意思。我会投资你的生意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure thing.  Most people just give me a gold piece every now and then, but you're welcome to give as much as you want.</Source>
+      <Dest>当然好。大部分人一般只给我一点点金子而已，不过你给的越多越好，我随时欢迎。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  I would like to invest in your business.</Source>
+      <Dest>有意思。我会投资你的生意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't shay you'll ever see any of it ever again.  Can't shay I'll even remember who you are come tomorrow.</Source>
+      <Dest>我不敢说你以后还会再见到它们。我甚至不敢保证我明天见到你时还会不会记得你。</Dest>
+    </String>
+    <String List="0">
+      <Source>Interesting.  I would like to invest in your business.</Source>
+      <Dest>有意思。我会投资你的生意的。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the problem with this infernal brain of mine.  Always tripping over memories, better to just pretend they never happened so you don't fall.</Source>
+      <Dest>这是我该死脑袋的毛病。总是被回忆磕得头破血流，最好假装那些事从没发生过，这样你就不会跌倒了。</Dest>
+    </String>
+    <String List="0">
+      <Source>My apologies, milord, I didn't realize.</Source>
+      <Dest>我的错，老爷，我没意识到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Eashy mishtake, what with the shtate of my tunic, and the fact that I shleep on the shtreet.</Source>
+      <Dest>这错误很容易犯，我之所以看起来这个样子，事实上是因为我睡在了街上。</Dest>
+    </String>
+    <String List="0">
+      <Source>My apologies, milord, I didn't realize.</Source>
+      <Dest>我的错，老爷，我没意识到。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, I could shop at Radiant Raiment, maybe buy that house, what's-it-called, Proudshpire Manor, but that would exhaust a tenth of my fortune.</Source>
+      <Dest>好的，我会去锦衣花点钱，或者索性把那幢叫..叫豪塔别墅的房子给买下来，不过这确实会花掉我十分之一的财产。</Dest>
+    </String>
+    <String List="0">
+      <Source>My apologies, milord, I didn't realize.</Source>
+      <Dest>我的错，老爷，我没意识到。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, what's it going for, 5 gold pieces?  7, maybe?  Then you got to furnish it too.</Source>
+      <Dest>我的意思是，这能有几个钱？5个大洋？还是7个？无论多少你也要给点啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>My apologies, milord, I didn't realize.</Source>
+      <Dest>我的错，老爷，我没意识到。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'd be a bit foolish to shquander my fortune on shomething I don't need.</Source>
+      <Dest>把财富浪费在一些我不需要的东西上面真是有点愚蠢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Um, let's see...</Source>
+      <Dest>呃，让我们瞧瞧……</Dest>
+    </String>
+    <String List="2">
+      <Source>You know what helps with memory?  Some Matze.  Drink they have in Morrowind.  Made from saltrice.  Really invigorates.</Source>
+      <Dest>You know what helps with memory?  Some Matze.  Drink they have in Morrowind.  Made from saltrice.  Really invigorates.</Dest>
+    </String>
+    <String List="0">
+      <Source>Um, let's see...</Source>
+      <Dest>呃，让我们瞧瞧……</Dest>
+    </String>
+    <String List="2">
+      <Source>Shome like to brew it with a touch of comberry like its shome short of brandy, but I like it good and raw.  It's my favorite drink.</Source>
+      <Dest>有些人也喜欢加少许的梳子梅来将它酿造成某种白兰地，而我呢，我就喜欢啥都不加的那种酿造产品。那是我最喜欢的饮料。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who knows.</Source>
+      <Dest>谁知道呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>You know what helps with memory?  Some Matze.  Drink they have in Morrowind.  Made from saltrice.  Really invigorates.</Source>
+      <Dest>You know what helps with memory?  Some Matze.  Drink they have in Morrowind.  Made from saltrice.  Really invigorates.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who knows.</Source>
+      <Dest>谁知道呢？</Dest>
+    </String>
+    <String List="2">
+      <Source>Shome like to brew it with a touch of comberry like its shome short of brandy, but I like it good and raw.  It's my favorite drink.</Source>
+      <Dest>有些人也喜欢加少许的梳子梅来将它酿造成某种白兰地，而我呢，我就喜欢啥都不加的那种酿造产品。那是我最喜欢的饮料。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your favorite thing to drink overall?</Source>
+      <Dest>你最喜欢喝的东西是啥？</Dest>
+    </String>
+    <String List="2">
+      <Source>Now that's a good question.  Sure I like shpiced wine, but for the most part I'm a shimple man of shimple tastes.</Source>
+      <Dest>Now that's a good question.  Sure I like shpiced wine, but for the most part I'm a shimple man of shimple tastes.</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your favorite thing to drink overall?</Source>
+      <Dest>你最喜欢喝的东西是啥？</Dest>
+    </String>
+    <String List="2">
+      <Source>Mostly because the fancy drinks are too expensive.  25 gold for Black-Briar Mead?  By Zenithar, what do they feed their bees!  Diamonds?</Source>
+      <Dest>最重要的原因是花式饮品太贵了。二十五金币一瓶黑棘蜜酒？泽尼萨尔在上，这群家伙用什么来喂蜜蜂？钻石吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's your favorite thing to drink overall?</Source>
+      <Dest>你最喜欢喝的东西是啥？</Dest>
+    </String>
+    <String List="2">
+      <Source>At least Evette's prices are somewhat reasonable.  For wine, anyway. Maybe not beer. Wait, what were we talking about again?  Can't recall.</Source>
+      <Dest>至少爱芙缇的价格还算合情合理。起码葡萄酒不贵。啤酒就另一回事了。等一下，我们刚才在讨论什么啊？想不起来了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Get a job, you drunken lout.</Source>
+      <Dest>你这醉汉，去找份工作吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yeah, get a job, you drunken louts!  Who are we screaming at?</Source>
+      <Dest>对，找份工作，你这个酒鬼！谁怕谁啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>You could drink an Elf, but you'd have to be a vampire.</Source>
+      <Dest>只要你表现得像一个吸血鬼，那你当然可以喝精灵的血。</Dest>
+    </String>
+    <String List="2">
+      <Source>And who wants to be that?  I'm pale enough as it is. Need to get more shun.  </Source>
+      <Dest>谁想变成那样？我的脸已经这么苍白了，我需要避开的远一点。 </Dest>
+    </String>
+    <String List="0">
+      <Source>You could drink an Elf, but you'd have to be a vampire.</Source>
+      <Dest>只要你表现得像一个吸血鬼，那你当然可以喝精灵的血。</Dest>
+    </String>
+    <String List="2">
+      <Source>I heard it helps if you shpread Dwarven oil on your shkin.  Shounds expensive, and beshides, where am I going to find a Dwarf?</Source>
+      <Dest>我听说把矮人油抹到你的皮肤上会有所帮助。听上去就略贵啊，更何况我该上哪儿去找个矮人啊？</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the best thing to drink in Solitude?</Source>
+      <Dest>独孤城最棒的饮品是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Eashy. Shpiced wine. Normally I wouldn't touch the shtuff, but that Evette Shan's like shome short of Wine-Wizard or shomething.  </Source>
+      <Dest>很简单，香料酒，一般情况下我才不碰那东西咧，但爱芙缇·珊的酒就像是种魔酒或其他什么东西一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>What's the best thing to drink in Solitude?</Source>
+      <Dest>独孤城最棒的饮品是什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I keep telling her she should train as a Mead-Maiden inshtead, or an Ale-Archer, tap into her...full potential.</Source>
+      <Dest>我一直告诉她说早先她应当被训练成为一名侍酒，或者一名啤酒猎手，开发她的…全部潜能。</Dest>
+    </String>
+    <String List="0">
+      <Source>I want to go back to my earlier questions.</Source>
+      <Dest>让我们回到先前的问题上。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?  What?</Source>
+      <Dest>哈？什么事情？</Dest>
+    </String>
+    <String List="0">
+      <Source>A pauper who fancies himself a noble. How absurd.</Source>
+      <Dest>一个乞丐把自己想像成贵族。真可笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>I don't do anything fancy. Just live a humble life, don't shpend coin on things I don't need.</Source>
+      <Dest>我从不抱任何幻想。我只想过平庸的生活，不在不需要的东西上乱花钱。</Dest>
+    </String>
+    <String List="0">
+      <Source>A pauper who fancies himself a noble. How absurd.</Source>
+      <Dest>一个乞丐把自己想像成贵族。真可笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, I could shop at Radiant Raiment, maybe buy that house, what's-it-called, Proudshpire Manor, but that would exhaust a tenth of my fortune.</Source>
+      <Dest>好的，我会去锦衣花点钱，或者索性把那幢叫..叫豪塔别墅的房子给买下来，不过这确实会花掉我十分之一的财产。</Dest>
+    </String>
+    <String List="0">
+      <Source>A pauper who fancies himself a noble. How absurd.</Source>
+      <Dest>一个乞丐把自己想像成贵族。真可笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>I mean, what's it going for, 5 gold pieces?  7, maybe?  Then you got to furnish it too.</Source>
+      <Dest>我的意思是，这能有几个钱？5个大洋？还是7个？无论多少你也要给点啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>A pauper who fancies himself a noble. How absurd.</Source>
+      <Dest>一个乞丐把自己想像成贵族。真可笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>It'd be a bit foolish to shquander my fortune on shomething I don't need.</Source>
+      <Dest>把财富浪费在一些我不需要的东西上面真是有点愚蠢。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a bad sneak and your breath smells like a troll's crotch.</Source>
+      <Dest>你是个偷偷摸摸的混蛋，而且你喷出的气有一股巨魔下体的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>It does? Oh dear, I better do shomething about that then. Chewing on Dragon's Tongue usually does the trick.</Source>
+      <Dest>It does? Oh dear, I better do shomething about that then. Chewing on Dragon's Tongue usually does the trick.</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a bad sneak and your breath smells like a troll's crotch.</Source>
+      <Dest>你是个偷偷摸摸的混蛋，而且你喷出的气有一股巨魔下体的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>At least, that's what my pershonal alchemist used to tell me. Was the fire that burned up the shtink.  </Source>
+      <Dest>至少，我的私人炼金师曾经告诉我，火会烧掉那些讨人厌的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>You're a bad sneak and your breath smells like a troll's crotch.</Source>
+      <Dest>你是个偷偷摸摸的混蛋，而且你喷出的气有一股巨魔下体的味道。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I had to get rid of him so I could buy more mead. I didn't get wealthy by wasting my fortune on luxuries.</Source>
+      <Dest>可我必须先甩掉他才能去买更多蜜酒。把财富浪费在奢侈品上可不能让我致富。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you may be undervaluing the Blue Palace and the Empire.</Source>
+      <Dest>我想你可能低估了蓝宫和帝国。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh, I don't know about that, but I'll agree to dishagree. Ain't no point arguing over a deal I'd never make.</Source>
+      <Dest>Oh, I don't know about that, but I'll agree to dishagree. Ain't no point arguing over a deal I'd never make.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you may be undervaluing the Blue Palace and the Empire.</Source>
+      <Dest>我想你可能低估了蓝宫和帝国。</Dest>
+    </String>
+    <String List="2">
+      <Source>Like talking to shomebody about shwapping wives and children.</Source>
+      <Dest>像是对别人谈论拐卖妇幼人群一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>I think you may be undervaluing the Blue Palace and the Empire.</Source>
+      <Dest>我想你可能低估了蓝宫和帝国。</Dest>
+    </String>
+    <String List="2">
+      <Source>Sure, looks good on paper, but you shaid the words at the Temple and Mara don't appreciate fibbing.</Source>
+      <Dest>当然，在纸面上看起来是不错，但要你在神殿里玛拉可不会不喜欢谎话。</Dest>
+    </String>
+    <String List="0">
+      <Source>One cannot subsist solely on liquor.</Source>
+      <Dest>人光靠酒可活不下去。</Dest>
+    </String>
+    <String List="2">
+      <Source>Is that right?  You don't shay.  At least, not that.  You don't shay that.  It ain't right.  Wait, now I forgot what we were talking about.</Source>
+      <Dest>是这样吗？你别说了。最起码，别这个德行。你不能这么说。这么说是不对的。等等，咱刚才聊啥来着？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh, what?  Who are you? You...you come to shteal my Dragon Breath mead?  Well too bad! Shome fellow already did that.</Source>
+      <Dest>嘿，啥啊？你谁啊？你……你是来偷我龙息酒的？太遗憾了！已经有些家伙这么做了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You stupid, drunk beggar. I ought to do the city a favor and kill you now.</Source>
+      <Dest>你这个愚蠢的醉酒乞丐。我现在就要替这座城市除掉你。</Dest>
+    </String>
+    <String List="2">
+      <Source>Whoa, whoa, whoa!  Shlow down there, friend.  I'm no beggar.  Just thrifty is all.</Source>
+      <Dest>喔，喔，喔！慢着，朋友。我不是乞丐。只是有点儿节俭。</Dest>
+    </String>
+    <String List="0">
+      <Source>You stupid, drunk beggar. I ought to do the city a favor and kill you now.</Source>
+      <Dest>你这个愚蠢的醉酒乞丐。我现在就要替这座城市除掉你。</Dest>
+    </String>
+    <String List="2">
+      <Source>I didn't get wealthy by wasting my fortune on luxuries like fancy clothes and things.</Source>
+      <Dest>我没有把我的财富浪费在购买类似于昂贵的衣服或是其他的奢侈品上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer a town with a good Beer-Maiden myself.</Source>
+      <Dest>我自己更喜欢跟一个城里好酒量的妹子喝酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>I agree, damn city ought to be ashamed of itshelf.  Beer will get you just as drunk as any wine, for half the price.</Source>
+      <Dest>我同意，这该死的城市应该自觉羞耻。啤酒能像任何其他酒一样让你醉倒，而且只要它们一半的价钱。</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer a town with a good Beer-Maiden myself.</Source>
+      <Dest>我自己更喜欢跟一个城里好酒量的妹子喝酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I guess Evette's under pressure to shupport that wight she lives with, and marking up wine bottles is like shome short of tradition around here.</Source>
+      <Dest>不过我猜爱芙缇要扛起生活的重担挺困难的，标记酒瓶在这里只是个短期的买卖。</Dest>
+    </String>
+    <String List="0">
+      <Source>I prefer a town with a good Beer-Maiden myself.</Source>
+      <Dest>我自己更喜欢跟一个城里好酒量的妹子喝酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Poor girl needs to leave the city. Train with the Greybeards or shomething.  Broaden her horizons.</Source>
+      <Dest>可怜的女孩需要离开这个城市。去找灰胡子训练或别的人，以开阔她的眼界.</Dest>
+    </String>
+    <String List="0">
+      <Source>The man you describe bears a resemblance to you.</Source>
+      <Dest>你描述的那个男人和你有类似之处。</Dest>
+    </String>
+    <String List="2">
+      <Source>He does? That's not good. People might mistake him for me. I got a reputation to protect, you know.  Being nobility and all.</Source>
+      <Dest>是他干的？这下可坏了。别人一定以为是我呢。我的名声可不能毁在这儿啊是吧你说。一世英名啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it looks like a beggar and smells like a beggar, well...</Source>
+      <Dest>哦好吧，如果这看起来像个乞丐闻起来也像个乞丐的话...</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, what? Don't just shtart a sentence and shtop it halfway.  You're leaving me in shushpence! Wait, what were we talking about?</Source>
+      <Dest>嘿，那是啥？只说开头然后说到中间就停下来你是想憋死我吗。后面是啥？等等，咱刚说到哪儿了？</Dest>
+    </String>
+    <String List="0">
+      <Source>If it looks like a beggar and smells like a beggar, well...</Source>
+      <Dest>哦好吧，如果这看起来像个乞丐闻起来也像个乞丐的话...</Dest>
+    </String>
+    <String List="2">
+      <Source>Shee? You can't grow a convershation out of half a thought. Like buying one of them manors and forgetting to furnish it.</Source>
+      <Dest>看到了吧？你不能让谈话半途偏离原先的想法。就像买下一个庄园而不去管理它一样。</Dest>
+    </String>
+    <String List="0">
+      <Source>If it looks like a beggar and smells like a beggar, well...</Source>
+      <Dest>哦好吧，如果这看起来像个乞丐闻起来也像个乞丐的话...</Dest>
+    </String>
+    <String List="2">
+      <Source>Might as well live on the shtreet!  Especially with the prices those things are going for. How much is Proudshpire Manor? 6, 7 gold pieces?</Source>
+      <Dest>结果就跟住在街上没啥区别！尤其是价格贵得特别离谱的那种。那间傲矛别墅多钱来着？六块，还是七块金币？</Dest>
+    </String>
+    <String List="0">
+      <Source>If it looks like a beggar and smells like a beggar, well...</Source>
+      <Dest>哦好吧，如果这看起来像个乞丐闻起来也像个乞丐的话...</Dest>
+    </String>
+    <String List="2">
+      <Source>It'd be a bit foolish to shquander my fortune on shomething I don't need.</Source>
+      <Dest>把财富浪费在一些我不需要的东西上面真是有点愚蠢。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who stole your mead?</Source>
+      <Dest>谁偷了你的蜜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>Real clumsy drunk, bald as a chicken egg, and a face with just as much expression.</Source>
+      <Dest>醉的一塌糊涂，秃得像一个鸡蛋，一张面瘫脸。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who stole your mead?</Source>
+      <Dest>谁偷了你的蜜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>A brown egg though. Redguard, with white whiskers and beggar clothes as dirty as the wrong end of a horker.</Source>
+      <Dest>有些许的白胡子，穿的一身乞丐服搞得像海象屁股一样脏。这就是红卫人，不过是个棕色的蛋。</Dest>
+    </String>
+    <String List="0">
+      <Source>Who stole your mead?</Source>
+      <Dest>谁偷了你的蜜酒？</Dest>
+    </String>
+    <String List="2">
+      <Source>Drank it all, he did.  You shee that thief, you tell him he's a bad sneak, and his breath shmells like...like a troll's crotch!  Alsho mead.</Source>
+      <Dest>他全喝光了。你瞧那个小贼，你跟他说他藏的太烂，还有他的气息闻起来就像呃，巨魔的“鸟”窝！还有蜜酒。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I see him, I'll let you know.</Source>
+      <Dest>如果我见到他，我会通知你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good. You can shtart by looking inshide puddles or rivers. That's where I usually find the bandit.</Source>
+      <Dest>好。你去水坑里或河里看看吧，我经常在那些地方发现强盗。</Dest>
+    </String>
+    <String List="0">
+      <Source>If I see him, I'll let you know.</Source>
+      <Dest>如果我见到他，我会通知你的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Can't have thieves roaming about in a city like Sholitude. This town is shupposed to be as clean as it is shafe. A home for nobles like me.</Source>
+      <Dest>小偷绝不能像在独孤城一样的城市中随意漫游。这个属于我们的小镇是如此的干净。就像我这样的贵族应该呆的地方。</Dest>
+    </String>
+    <String List="0">
+      <Source>So exactly how wealthy are you?</Source>
+      <Dest>那你到底是多富有？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, I got three bottles of liquor on me, and about forty or so gold pieces. Enough to buy the Blue Palace I reckon, and the Imperial army.</Source>
+      <Dest>看呐，我喝了三瓶烈酒，还有差不多40个金币。我想这些足够去买下蓝宫还有整个帝国军队的了。</Dest>
+    </String>
+    <String List="0">
+      <Source>So exactly how wealthy are you?</Source>
+      <Dest>那你到底是多富有？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd probably get them to throw a few of those Elves in there too, just to shweeten the deal.  Not that I'd do it.  You can't drink an Elf.</Source>
+      <Dest>I'd probably get them to throw a few of those Elves in there too, just to shweeten the deal.  Not that I'd do it.  You can't drink an Elf.</Dest>
+    </String>
+    <String List="0">
+      <Source>Preach, my inebriated friend, preach.</Source>
+      <Dest>布教，我的酒鬼朋友，布教。</Dest>
+    </String>
+    <String List="2">
+      <Source>What?  Who's inebriated?  The priest?  Good for her.</Source>
+      <Dest>什么？谁喝醉了？那个祭司？真有她的。</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Divines' name is an Ale-Archer?</Source>
+      <Dest>麦芽酒射手是什么鬼东西啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>It's short of like a Shword-Shinger. You've heard of those, right?  Well, you probably heard it wrong, so I'll tell you anyway.</Source>
+      <Dest>这有点像一个剑咏者。你听说过这些，对吗？呃，你听到的可能是错的。所以我至少得告诉你这点。</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Divines' name is an Ale-Archer?</Source>
+      <Dest>麦芽酒射手是什么鬼东西啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>The Anshei, they could channel their own shpirit into a weapon.  Called it The Way of the Shpirit Shword.</Source>
+      <Dest>The Anshei, they could channel their own shpirit into a weapon.  Called it The Way of the Shpirit Shword.</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Divines' name is an Ale-Archer?</Source>
+      <Dest>麦芽酒射手是什么鬼东西啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>In the old tongue it was known as "Shehai Shen She Ru."  Ha, shay that five times fast!</Source>
+      <Dest>在古语中它被叫“Shehai Shen she su”。哈哈，加速5倍说一遍！</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Divines' name is an Ale-Archer?</Source>
+      <Dest>麦芽酒射手是什么鬼东西啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>In any case, I figured if you were an Ale-Shaint instead of a Shword one, you could channel your shpirit into a bottle.</Source>
+      <Dest>不管怎么说，我发现如果你是崇拜麦芽酒更甚于一把长剑，你可以把你自己的灵魂引导进一个酒瓶里去。</Dest>
+    </String>
+    <String List="0">
+      <Source>What in Divines' name is an Ale-Archer?</Source>
+      <Dest>麦芽酒射手是什么鬼东西啊？</Dest>
+    </String>
+    <String List="2">
+      <Source>And you got all shorts of different classes.  You got the Mead-Monks and Wine-Wizards, Beer-Berserkers and of course, Ale-Archers.</Source>
+      <Dest>And you got all shorts of different classes.  You got the Mead-Monks and Wine-Wizards, Beer-Berserkers and of course, Ale-Archers.</Dest>
+    </String>
+    <String List="0">
+      <Source>But you're already wealthy. There's no need to start a business now.</Source>
+      <Dest>但你已经很富了。没必要现在去做生意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh.  By Zenithar, you're right!  Must've already shold the business.  Only way to explain all these profits.</Source>
+      <Dest>哈，以泽尼萨尔的名义，你是对的！他一定卖掉了那个生意，这是这件事情唯一说得通的解释.</Dest>
+    </String>
+    <String List="0">
+      <Source>But you're already wealthy. There's no need to start a business now.</Source>
+      <Dest>但你已经很富了。没必要现在去做生意。</Dest>
+    </String>
+    <String List="2">
+      <Source>That's the problem with this infernal brain of mine.  Always shtumbling over memories like this.  Should've realized I was already retired.</Source>
+      <Dest>问题是我这可恶的脑子，从来没有忘记这些事情，从来没有意识到我已经准备退休了。</Dest>
+    </String>
+    <String List="0">
+      <Source>40 gold?  I wouldn't pay more than 20 for that monstrosity.</Source>
+      <Dest>40金币？为那种可怕的东西我才不会花20金币以上的钱呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yesh, perhaps, but you have to remember the palace comes with its own cook, and probably a wine cellar or shomething.</Source>
+      <Dest>是啊，不过，你得记住，宫廷一般带着自己的厨师，或许有些时候还自带一个酒窖或者别的什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>40 gold?  I wouldn't pay more than 20 for that monstrosity.</Source>
+      <Dest>40金币？为那种可怕的东西我才不会花20金币以上的钱呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's like buying a cow. You aren't buying it for the leather, the milk, or the meat.  And you certainly aren't buying it for the fleas.</Source>
+      <Dest>这就像是去买一头奶牛。你不是为了它的皮肉或牛奶去买的，当然也肯定不是为了它身上的跳蚤去买的。</Dest>
+    </String>
+    <String List="0">
+      <Source>40 gold?  I wouldn't pay more than 20 for that monstrosity.</Source>
+      <Dest>40金币？为那种可怕的东西我才不会花20金币以上的钱呢。</Dest>
+    </String>
+    <String List="2">
+      <Source>In fact, what do you buy cows for?  Beats me. Which is why I would never buy the Blue Palace.</Source>
+      <Dest>事实上，你买牛为了什么？我不知道。这就是为什么我永远不会买下蓝宫。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>Shome may call it a dishease, the way people can't shtop drinking.  Well, if it's a rash, it's a rash of euphoria.</Source>
+      <Dest>有人可能会把忍不住喝酒叫病。好吧，如果这是病的话，这病还挺爽。</Dest>
+    </String>
+    <String List="0">
+      <Source>What do you mean by that?</Source>
+      <Dest>你指的是什么意思？</Dest>
+    </String>
+    <String List="2">
+      <Source>If it's a fever, it's a fever I'd say hello to any day of the week and twice on Shundas.</Source>
+      <Dest>If it's a fever, it's a fever I'd say hello to any day of the week and twice on Shundas.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever consider spending more money on food?</Source>
+      <Dest>难道你就没有考虑过在食物上多花点钱？</Dest>
+    </String>
+    <String List="2">
+      <Source>Ale is food. Beer is food. Shpiced wine even has jazbay grapes in it or shomething. Shays so right on the label.</Source>
+      <Dest>麦芽酒是食物，啤酒也是。就连有架子湾葡萄和其他不明物体的香料酒也是。说的太精辟了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever consider spending more money on food?</Source>
+      <Dest>难道你就没有考虑过在食物上多花点钱？</Dest>
+    </String>
+    <String List="2">
+      <Source>Mead's made from honey too.  Folk like to put in all shorts of healthy ingredients too, like dried frost mirriam, Elves ear, and juniper berries.</Source>
+      <Dest>蜜酒也是用蜂蜜做的。人们喜欢向里面加入各种养生的材料，像寒霜甘草，精灵耳还有杜松子。</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you ever consider spending more money on food?</Source>
+      <Dest>难道你就没有考虑过在食物上多花点钱？</Dest>
+    </String>
+    <String List="2">
+      <Source>Just about all shpirits got shome kind of food in them.  But they got happiness in them too.</Source>
+      <Dest>只不过所有的灵魂能从它们中获取某种食物，但是他们也乐在其中。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could try brewing your own liquor.</Source>
+      <Dest>你可以试着自己酿酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Wait...you can do that?  Is it cheap?  I remember I tried to grow my own cabbages once, didn't turn out too well.</Source>
+      <Dest>Wait...you can do that?  Is it cheap?  I remember I tried to grow my own cabbages once, didn't turn out too well.</Dest>
+    </String>
+    <String List="0">
+      <Source>You could try brewing your own liquor.</Source>
+      <Dest>你可以试着自己酿酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Planted a bunch of sheeds over in that cemetery by the Hall of the Dead.  Figured the corpshes would be good for the shoil.</Source>
+      <Dest>Planted a bunch of sheeds over in that cemetery by the Hall of the Dead.  Figured the corpshes would be good for the shoil.</Dest>
+    </String>
+    <String List="0">
+      <Source>You could try brewing your own liquor.</Source>
+      <Dest>你可以试着自己酿酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Nothing came out except more nightshade. Then I ate those to shee if maybe they were like them purple cabbages, but nope, just plain ol' nightshade.</Source>
+      <Dest>结果除了几个茄子以外什么都没长出来。于是我就吃了它们以确认它们是不是紫色的包心菜，但不是，它们就是普通的茄子。</Dest>
+    </String>
+    <String List="0">
+      <Source>You could try brewing your own liquor.</Source>
+      <Dest>你可以试着自己酿酒。</Dest>
+    </String>
+    <String List="2">
+      <Source>Good thing too, as I hate cabbages.  Don't know why I was growing them to begin with.</Source>
+      <Dest>也是好事，因为我讨厌卷心菜。真不知道我一开始干嘛要种它们。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm afraid your investors will be unsatisfied with your current state.</Source>
+      <Dest>我觉得你的投资者恐怕不会对你现在的状态感到满意。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're afraid?  What are you afraid of?  Is it...corn?</Source>
+      <Dest>你害怕了？你到底在害怕什么？是……鸡眼？</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm afraid your investors will be unsatisfied with your current state.</Source>
+      <Dest>我觉得你的投资者恐怕不会对你现在的状态感到满意。</Dest>
+    </String>
+    <String List="2">
+      <Source>I used to be afraid of shomething once.  I think it was called a "Giraud Gemane."  Creepy thing with a floppy jester's hat.</Source>
+      <Dest>我以前害怕过一个玩意儿。我记得是个叫“吉劳德．格玛尼”的，让人毛骨悚然的东西。老戴着一顶松软的小丑帽子的让人毛骨悚然的东西。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm afraid your investors will be unsatisfied with your current state.</Source>
+      <Dest>我觉得你的投资者恐怕不会对你现在的状态感到满意。</Dest>
+    </String>
+    <String List="2">
+      <Source>Never did like jesters.  Them and one other thing.  Best I don't remember what.  Better to forget your memories than shtumble over them in the dark.</Source>
+      <Dest>Never did like jesters.  Them and one other thing.  Best I don't remember what.  Better to forget your memories than shtumble over them in the dark.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, that's a good deal, but only because I like Elves.</Source>
+      <Dest>当然，这是一个好买卖，但是这只是因为我喜欢Elves.</Dest>
+    </String>
+    <String List="2">
+      <Source>You too huh?  Shome people don't like them, but I can't get mad at anything with pointy ears.</Source>
+      <Dest>你也是啊哈？有些人不喜欢他们，但我一看见尖耳朵的东西就毫无抵抗力。</Dest>
+    </String>
+    <String List="0">
+      <Source>Sure, that's a good deal, but only because I like Elves.</Source>
+      <Dest>当然，这是一个好买卖，但是这只是因为我喜欢Elves.</Dest>
+    </String>
+    <String List="2">
+      <Source>Nope, I love me shome Elves.  High Elves, Low Elves, Middle Elves.  I might even be in love with them, if love weren't so damn expenshive.</Source>
+      <Dest>不不不，我喜欢精灵，不论是高精灵，矮精灵，不高不矮的精灵。我甚至愿意和他们相爱，如果恋爱不是他妈的那么贵的话。</Dest>
+    </String>
+    <String List="0">
+      <Source>Forty gold?  Not even 40,000 would be enough.</Source>
+      <Dest>40金币？再加三个零都不够啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>40,000?  You can buy like...a hundred bottles of Balmora Blue with that.  No, not even close.  You got about three zeroes too many there.</Source>
+      <Dest>40,000？你能买到大概...一百多瓶的蓝色巴尔莫拉。 不还要多，还得加上三个零。</Dest>
+    </String>
+    <String List="0">
+      <Source>Forty gold?  Not even 40,000 would be enough.</Source>
+      <Dest>40金币？再加三个零都不够啊。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's not your fault though.  Nobody values good arithmetic any more.  You just keep at it and don't get dishcouraged.  It'll all make shense someday.</Source>
+      <Dest>这不全是你的错。已经没有人重视算术这个技能了。你只要继续加油，别泄气。总有一天会看到效果的。</Dest>
+    </String>
+    <String List="2">
+      <Source>With three beers down, the Orc did frown and bid the Elf goodbye. For none could know t'was not for show, and someone had to die.</Source>
+      <Dest>三杯啤酒穿肠走，兽人精灵要分手。这不是啥表演秀，而是某人要死咯。</Dest>
+    </String>
+    <String List="2">
+      <Source>There once was a woman as fair as an evening of springtime in old Stros M'Kai.</Source>
+      <Dest>There once was a woman as fair as an evening of springtime in old Stros M'Kai.</Dest>
+    </String>
+    <String List="2">
+      <Source>Her smile was a breeze that laughed through the trees and the sand colored her eyes.</Source>
+      <Dest>她的笑靥似微风轻拂，穿林涉水，激扬沙丛，绚烂了她的双瞳。</Dest>
+    </String>
+    <String List="2">
+      <Source>Alright.</Source>
+      <Dest>好吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Until next time.</Source>
+      <Dest>下回见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Were you shaying something?  I don't hear so good.</Source>
+      <Dest>等等，刚才你说什么来着？我没听太清。</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm? Were we talking just now?</Source>
+      <Dest>嗯？我们刚才在聊天吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>Huh?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

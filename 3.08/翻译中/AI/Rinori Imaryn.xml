@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>3DNPC.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I know what I think.  I think your "friend" is too dangerous too let live.</Source>
+      <Dest>我知道我在想什么。我觉得你的“朋友”太危险以至于不能让他活着。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I beg for your mercy.</Source>
+      <Dest>我……我求求你大发慈悲吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was foolish of them to expect so much. You couldn't corral a butterfly.</Source>
+      <Dest>It was foolish of them to expect so much. You couldn't corral a butterfly.</Dest>
+    </String>
+    <String List="2">
+      <Source>You're right. I'm not a leader.I'm weak. I...I wasn't strong enough to save him.</Source>
+      <Dest>You're right. I'm not a leader.I'm weak. I...I wasn't strong enough to save him.</Dest>
+    </String>
+    <String List="0">
+      <Source>Perhaps if you slept more you wouldn't...pause...so much.</Source>
+      <Dest>也许你多睡点觉就不会……这么…卡…了。</Dest>
+    </String>
+    <String List="2">
+      <Source>You can't treat people this way. Many of us have lost our homes. Our families!</Source>
+      <Dest>You can't treat people this way. Many of us have lost our homes. Our families!</Dest>
+    </String>
+    <String List="0">
+      <Source>To be honest, I haven't traveled much, or seen many landmarks.</Source>
+      <Dest>老实说，我也没旅行过多远，或者说，我去过的地方还很少。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh. Well, if at some point you do, I'd love it if you came back and shared your experiences.</Source>
+      <Dest>Oh. Well, if at some point you do, I'd love it if you came back and shared your experiences.</Dest>
+    </String>
+    <String List="0">
+      <Source>Do you visit the Stone Quarter often?</Source>
+      <Dest>你常去石头居住区吗?</Dest>
+    </String>
+    <String List="2">
+      <Source>Just the market. Aval pities me. The meat is fresh, and never cooked.</Source>
+      <Dest>Just the market. Aval pities me. The meat is fresh, and never cooked.</Dest>
+    </String>
+    <String List="0">
+      <Source>You need to sleep. The fatigue is wearing on you.</Source>
+      <Dest>你需要睡一觉。疲劳正在吞没你。</Dest>
+    </String>
+    <String List="2">
+      <Source>It...it isn't fatigue. Jora said it was shock. After all that's happened, sometimes the words...they get caught in my throat.</Source>
+      <Dest>It...it isn't fatigue. Jora said it was shock. After all that's happened, sometimes the words...they get caught in my throat.</Dest>
+    </String>
+    <String List="0">
+      <Source>These are troubled times. Good people must rely on each other.</Source>
+      <Dest>These are troubled times. Good people must rely on each other.</Dest>
+    </String>
+    <String List="2">
+      <Source>I know, but...I don't think I'm someone you can rely on.</Source>
+      <Dest>我懂，可是……我觉得自己不是那种可靠的人吧。</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires are made of ashes and flesh. Yet it's the flesh part that is unnatural.</Source>
+      <Dest>吸血鬼由灰和血肉组成，血肉的部分也不是自然而成的。</Dest>
+    </String>
+    <String List="2">
+      <Source>So...so that means he's dead. They're all dead. Even if they're alive. </Source>
+      <Dest>So...so that means he's dead. They're all dead. Even if they're alive. </Dest>
+    </String>
+    <String List="0">
+      <Source>Foolish boy. What happened next?</Source>
+      <Dest>傻孩子……然后发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Father chased after him. Mother and I...we followed. We passed Hollyfrost Farm just as Feldas started to cross the river. </Source>
+      <Dest>爸爸追赶着他。妈妈和我……紧随其后。当芬达斯开始过河时我们正好经过圣洁冰霜农场。</Dest>
+    </String>
+    <String List="0">
+      <Source>Foolish boy. What happened next?</Source>
+      <Dest>傻孩子……然后发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>He hopped on a large ice floe by the bank.  I thought he'd slip.  Mother hollered at Feldas to be careful.  He just stamped his feet.</Source>
+      <Dest>他跳上一块大浮冰。我想他摔倒了。妈妈大叫着告诉芬达斯要小心. 他却只是干跺脚。</Dest>
+    </String>
+    <String List="0">
+      <Source>Foolish boy. What happened next?</Source>
+      <Dest>傻孩子……然后发生了什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Then...it all happened so fast. The floe...it didn't crack, it didn't even make a sound. It just came straight through the ice  Like a ghost.</Source>
+      <Dest>Then...it all happened so fast. The floe...it didn't crack, it didn't even make a sound. It just came straight through the ice  Like a ghost.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's understandable, given how young and excitable he was.</Source>
+      <Dest>可以理解，当时他那么年轻又那么兴奋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Father chased after him. Mother and I...we followed. We passed Hollyfrost Farm just as Feldas started to cross the river. </Source>
+      <Dest>爸爸追赶着他。妈妈和我……紧随其后。当芬达斯开始过河时我们正好经过圣洁冰霜农场。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's understandable, given how young and excitable he was.</Source>
+      <Dest>可以理解，当时他那么年轻又那么兴奋。</Dest>
+    </String>
+    <String List="2">
+      <Source>He hopped on a large ice floe by the bank.  I thought he'd slip.  Mother hollered at Feldas to be careful.  He just stamped his feet.</Source>
+      <Dest>他跳上一块大浮冰。我想他摔倒了。妈妈大叫着告诉芬达斯要小心. 他却只是干跺脚。</Dest>
+    </String>
+    <String List="0">
+      <Source>It's understandable, given how young and excitable he was.</Source>
+      <Dest>可以理解，当时他那么年轻又那么兴奋。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then...it all happened so fast. The floe...it didn't crack, it didn't even make a sound. It just came straight through the ice. Like a ghost.</Source>
+      <Dest>Then...it all happened so fast. The floe...it didn't crack, it didn't even make a sound. It just came straight through the ice. Like a ghost.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="2">
+      <Source>We had just crossed the border to Refugee's Rest. Father read the decree.  Mother placed mountain flowers by the shallow grave markers.</Source>
+      <Dest>We had just crossed the border to Refugee's Rest. Father read the decree.  Mother placed mountain flowers by the shallow grave markers.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="2">
+      <Source>Only Feldas didn't care about graves and monuments...it was already an hour past midnight...he shouldn't have gone on ahead.  </Source>
+      <Dest>Only Feldas didn't care about graves and monuments...it was already an hour past midnight...he shouldn't have gone on ahead.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="2">
+      <Source>He was so excited...we heard him calling through the darkness. </Source>
+      <Dest>他当时很激动……我们能听见他在黑暗中呼喊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="2">
+      <Source>He could see the lights from the dock, and if you squinted, you could almost see the outline of the palace.</Source>
+      <Dest>He could see the lights from the dock, and if you squinted, you could almost see the outline of the palace.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What did? What came through the ice?</Source>
+      <Dest>那是什么？什么穿过了冰？</Dest>
+    </String>
+    <String List="2">
+      <Source>It was...it was a hand.</Source>
+      <Dest>这是……这是只手。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What did? What came through the ice?</Source>
+      <Dest>那是什么？什么穿过了冰？</Dest>
+    </String>
+    <String List="2">
+      <Source>When Feldas hit the floor, the ice broke. He...he fell in, and father went in after. Mother was screaming, and I...I just froze.</Source>
+      <Dest>When Feldas hit the floor, the ice broke. He...he fell in, and father went in after. Mother was screaming, and I...I just froze.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What did? What came through the ice?</Source>
+      <Dest>那是什么？什么穿过了冰？</Dest>
+    </String>
+    <String List="2">
+      <Source>We were standing on the embankment, when...more of them...they came right out of the snow.  </Source>
+      <Dest>We were standing on the embankment, when...more of them...they came right out of the snow.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What did? What came through the ice?</Source>
+      <Dest>那是什么？什么穿过了冰？</Dest>
+    </String>
+    <String List="2">
+      <Source>I felt a hand...it was cold...so cold...and I fainted. They say my blood turned hot as fire...but all I remember was the frigidness of that hand.</Source>
+      <Dest>I felt a hand...it was cold...so cold...and I fainted. They say my blood turned hot as fire...but all I remember was the frigidness of that hand.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I woke up inside the temple. Jora was whispering a prayer. I felt so strange...so weak. </Source>
+      <Dest>I woke up inside the temple. Jora was whispering a prayer. I felt so strange...so weak. </Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Lortheim said a Nord named Brunwulf saved me, when the guards did nothing. By himself, I was the only one he could save.</Source>
+      <Dest>罗瑟姆说是有个叫布伦武夫的诺德人救了我，当时连卫兵都没有出手。凭一己之力，他也只能救我一个。</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>The priest put a cold towel to my brow, and I looked up at the great statue of Talos. It almost felt like...like he was sneering at me.</Source>
+      <Dest>The priest put a cold towel to my brow, and I looked up at the great statue of Talos. It almost felt like...like he was sneering at me.</Dest>
+    </String>
+    <String List="0">
+      <Source>Tell me what happened the night you arrived in Windhelm.</Source>
+      <Dest>告诉我发生了什么事，晚上你来到风盔城.</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>He was telling me it was my fault. My burden. I...I'm sorry. I don't want to talk about this anymore.</Source>
+      <Dest>He was telling me it was my fault. My burden. I...I'm sorry. I don't want to talk about this anymore.</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, the city it rivals is Seyda Neen. As in both are forgettable.</Source>
+      <Dest>Well, the city it rivals is Seyda Neen. As in both are forgettable.</Dest>
+    </String>
+    <String List="2">
+      <Source>But Seyda Neen is the swamp fever capital of the world.  That is not something you can easily forget.</Source>
+      <Dest>但西达尼恩是世界上的疟疾之都。这不是你可以轻易忘记的事。</Dest>
+    </String>
+    <String List="0">
+      <Source>I take it you left Morrowind because the land is not fertile.</Source>
+      <Dest>我认为你离开晨风的原因是因为那里不够富饶。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes. The growth has been so slow. They say Vvardenfell was once a place of many wonders. And far less sorrow.</Source>
+      <Dest>Yes. The growth has been so slow. They say Vvardenfell was once a place of many wonders. And far less sorrow.</Dest>
+    </String>
+    <String List="0">
+      <Source>It was a big sweet roll. It was filled with members of the Blades.</Source>
+      <Dest>It was a big sweet roll. It was filled with members of the Blades.</Dest>
+    </String>
+    <String List="2">
+      <Source>Were they hiding, or just bait?</Source>
+      <Dest>他们躲起来了，或者只是圈套？</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother sounds foolhardy. Emphasis on the "fool" part.</Source>
+      <Dest>Your brother sounds foolhardy. Emphasis on the "fool" part.</Dest>
+    </String>
+    <String List="2">
+      <Source>He was still my brother. You have no right, but...it was not you...not you who killed him. It was me.</Source>
+      <Dest>He was still my brother. You have no right, but...it was not you...not you who killed him. It was me.</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampirism is not a curse.  It's not a disease.  It's a blessing.</Source>
+      <Dest>吸血鬼热不是诅咒也不是疾病，而是祝福。</Dest>
+    </String>
+    <String List="2">
+      <Source>I cannot...I will not believe that such a thing could ever be an agent of good.</Source>
+      <Dest>我不能...我没法相信这样的东西会是善良的代表。</Dest>
+    </String>
+    <String List="0">
+      <Source>...but only if they stand on their toes.</Source>
+      <Dest>...但如果他们踮着脚尖。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'd better bring a footstool.</Source>
+      <Dest>我最好自带个脚凳。</Dest>
+    </String>
+    <String List="0">
+      <Source>Why so defensive? We haven't even met.</Source>
+      <Dest>Why so defensive? We haven't even met.</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry, I just want to be left alone.</Source>
+      <Dest>真对不起，我只是想一个人呆会儿。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Throat of the World. Where mortals can touch the stars...</Source>
+      <Dest>世界之喉，那是一个让凡人也可以摸到星星的地方...</Dest>
+    </String>
+    <String List="2">
+      <Source>Really?</Source>
+      <Dest>Really? </Dest>
+    </String>
+    <String List="2">
+      <Source>Really?</Source>
+      <Dest>真的吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>Well, looks like you've found it.</Source>
+      <Dest>嗯...看起来你已经找到它了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry. Please. I'm not a monster.</Source>
+      <Dest>I'm sorry. Please. I'm not a monster.</Dest>
+    </String>
+    <String List="0">
+      <Source>I think it's an improvement.</Source>
+      <Dest>我认为这是一个进步。</Dest>
+    </String>
+    <String List="2">
+      <Source>You must be very strong to be so mean. I envy you.</Source>
+      <Dest>You must be very strong to be so mean. I envy you.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was Feldas?</Source>
+      <Dest>菲尔达斯是何方神圣？?</Dest>
+    </String>
+    <String List="2">
+      <Source>He was my brother. My fraternal twin. But the only thing we shared was our birthday.</Source>
+      <Dest>He was my brother. My fraternal twin. But the only thing we shared was our birthday.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was Feldas?</Source>
+      <Dest>菲尔达斯是何方神圣？?</Dest>
+    </String>
+    <String List="2">
+      <Source>He was brash. He never listened. When we were children, he'd use illusion spells to steal sweets from the cupboard.</Source>
+      <Dest>He was brash. He never listened. When we were children, he'd use illusion spells to steal sweets from the cupboard.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was Feldas?</Source>
+      <Dest>菲尔达斯是何方神圣？?</Dest>
+    </String>
+    <String List="2">
+      <Source>When the elders forbade destruction magic, he would rush me to the neighbor's yard and set fire to the chickens.</Source>
+      <Dest>When the elders forbade destruction magic, he would rush me to the neighbor's yard and set fire to the chickens.</Dest>
+    </String>
+    <String List="0">
+      <Source>Who was Feldas?</Source>
+      <Dest>菲尔达斯是何方神圣？?</Dest>
+    </String>
+    <String List="2">
+      <Source>The elders blamed me. I was the responsible one. They said I was supposed to stop him. That it was my fault. They...they were right.</Source>
+      <Dest>The elders blamed me. I was the responsible one. They said I was supposed to stop him. That it was my fault. They...they were right.</Dest>
+    </String>
+    <String List="0">
+      <Source>New flora will rise from the ashfall, as it has for centuries.</Source>
+      <Dest>鲜花和嫩草会从废土死灰中长出，世世代代都是如此。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I am comforted by your words. But I am saddened too. While life will return, I will never get to see the cantons of Vivec City.</Source>
+      <Dest>I...I am comforted by your words. But I am saddened too. While life will return, I will never get to see the cantons of Vivec City.</Dest>
+    </String>
+    <String List="0">
+      <Source>Take it easy. I mean you no harm.</Source>
+      <Dest>放松，我是说你没受伤。</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you. But if you have questions, I'm afraid I won't be of much help.</Source>
+      <Dest>Thank you. But if you have questions, I'm afraid I won't be of much help.</Dest>
+    </String>
+    <String List="0">
+      <Source>Morrowind is charming.  But Skyrim lays claim to many wonders as well.</Source>
+      <Dest>晨风省是个风景优美的地方。但是天际省人认为他们的家乡同样拥有众多的奇观异景</Dest>
+    </String>
+    <String List="2">
+      <Source>I know, but I cannot bear to see them alone. Perhaps...you would be willing to describe them for me?</Source>
+      <Dest>I know, but I cannot bear to see them alone. Perhaps...you would be willing to describe them for me?</Dest>
+    </String>
+    <String List="0">
+      <Source>Relax. It was a jest.</Source>
+      <Dest>放轻松，只是开个玩笑。</Dest>
+    </String>
+    <String List="2">
+      <Source>Oh. Please don't do that again.</Source>
+      <Dest>Oh. Please don't do that again.</Dest>
+    </String>
+    <String List="0">
+      <Source>Take your time. Breathe.</Source>
+      <Dest>抓紧时间，呼吸.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you. Feldas used to tell me the same, but for different reasons. I...I was always so angry with him.</Source>
+      <Dest>Thank you. Feldas used to tell me the same, but for different reasons. I...I was always so angry with him.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Shrine of Azura. Her arms touch the heavens, holding the sun and the moon.</Source>
+      <Dest>阿祖拉的祭坛。她的臂膀伸入天堂。抓着太阳和月亮。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I've heard of it. They say she looks east, to Morrowind, and her visions prophesied the Red Year.</Source>
+      <Dest>I...I've heard of it. They say she looks east, to Morrowind, and her visions prophesied the Red Year.</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonsreach.  Where King Olaf baited the dragon Numinex, with a sweet roll.</Source>
+      <Dest>龙临堡.  听说就是奥拉夫国王诱捕恶龙怒米奈科斯的地方，用的诱饵是甜甜圈。</Dest>
+    </String>
+    <String List="2">
+      <Source>A sweetroll? No...that's not true. I...I'm not that naive.</Source>
+      <Dest>A sweetroll? No...that's not true. I...I'm not that naive.</Dest>
+    </String>
+    <String List="0">
+      <Source>What comes? Out with it, girl!</Source>
+      <Dest>然后呢？快说，小姑娘！</Dest>
+    </String>
+    <String List="2">
+      <Source>Vampires...so many of them I...Feldas. Poor Feldas.  It was all my fault.  I was supposed to watch him.</Source>
+      <Dest>吸血鬼们...一大群。我...芬达斯。可怜的芬达斯。这全是我的错。我本该看好他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh yes you are. You're an evil monster. You should be punished.</Source>
+      <Dest>Oh yes you are. You're an evil monster. You should be punished.</Dest>
+    </String>
+    <String List="2">
+      <Source>No! I promise you I'm not...I'm not like the others. Sometimes I'm tempted  but...but I'm not a bad person!</Source>
+      <Dest>No! I promise you I'm not...I'm not like the others. Sometimes I'm tempted  but...but I'm not a bad person!</Dest>
+    </String>
+    <String List="0">
+      <Source>Oh yes you are. You're an evil monster. You should be punished.</Source>
+      <Dest>Oh yes you are. You're an evil monster. You should be punished.</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I can answer your questions.  Then you can judge for yourself.</Source>
+      <Dest>我…我可以回答你的问题。然后你就可以做出自己的判断。</Dest>
+    </String>
+    <String List="0">
+      <Source>I just wanted to talk.</Source>
+      <Dest>我只是想谈谈。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know, but I don't know much about the city. I'm new here, like you.  </Source>
+      <Dest>I know, but I don't know much about the city. I'm new here, like you.  </Dest>
+    </String>
+    <String List="0">
+      <Source>We? You seem to be alone.</Source>
+      <Dest>我们？你可是一个人。</Dest>
+    </String>
+    <String List="2">
+      <Source>My family. They're...they're gone.</Source>
+      <Dest>My family. They're...they're gone.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pink petals bloom under a shaft of moonlight, as waterfalls cascade around it.</Source>
+      <Dest>粉色的花瓣在一束月光下开放，旁边有着喷流的瀑布</Dest>
+    </String>
+    <String List="2">
+      <Source>It sounds quite beautiful.</Source>
+      <Dest>这听起来很美。</Dest>
+    </String>
+    <String List="0">
+      <Source>That's all I've got for now.</Source>
+      <Dest>我手头就有这些了。</Dest>
+    </String>
+    <String List="2">
+      <Source>That was almost...fun. To think I had forgotten what it was like to smile. Thank you.</Source>
+      <Dest>That was almost...fun. To think I had forgotten what it was like to smile. Thank you.</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you lived in Windhelm?</Source>
+      <Dest>你在风盔城生活多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>Not long. I haven't found a place yet since...since we left Morrowind. They have beds at Candlehearth Hall, but the people aren't very friendly.</Source>
+      <Dest>Not long. I haven't found a place yet since...since we left Morrowind. They have beds at Candlehearth Hall, but the people aren't very friendly.</Dest>
+    </String>
+    <String List="0">
+      <Source>How long have you lived in Windhelm?</Source>
+      <Dest>你在风盔城生活多久了？</Dest>
+    </String>
+    <String List="2">
+      <Source>But Ambarys lets me stay at the Cornerclub. There aren't many beds. But...I don't sleep much anyway.</Source>
+      <Dest>But Ambarys lets me stay at the Cornerclub. There aren't many beds. But...I don't sleep much anyway.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the docks?</Source>
+      <Dest>那码头怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Are you...are you following me?</Source>
+      <Dest>你……你是在跟着我吗？</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the docks?</Source>
+      <Dest>那码头怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>Well, um, we're here aren't we?</Source>
+      <Dest>Well, um, we're here aren't we?</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="0">
+      <Source>What happened?</Source>
+      <Dest>发生什么事了？</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sorry. It's just...it hurts to talk about it.</Source>
+      <Dest>I'm sorry. It's just...it hurts to talk about it.</Dest>
+    </String>
+    <String List="0">
+      <Source>As opposed to the catacombs.  With all its ash and dust.</Source>
+      <Dest>相对于地下墓穴。所有的灰尘。</Dest>
+    </String>
+    <String List="2">
+      <Source>I like it. I mean, I like knowing that...we're all dust in the end. It comforts me.</Source>
+      <Dest>I like it. I mean, I like knowing that...we're all dust in the end. It comforts me.</Dest>
+    </String>
+    <String List="0">
+      <Source>As opposed to the catacombs.  With all its ash and dust.</Source>
+      <Dest>相对于地下墓穴。所有的灰尘。</Dest>
+    </String>
+    <String List="2">
+      <Source>It doesn't matter who you are...what you are...it all whittles away.</Source>
+      <Dest>不管你是谁，你做什么，都会随风飘去。</Dest>
+    </String>
+    <String List="0">
+      <Source>As opposed to the catacombs.  With all its ash and dust.</Source>
+      <Dest>相对于地下墓穴。所有的灰尘。</Dest>
+    </String>
+    <String List="2">
+      <Source>It's strange. When certain...creatures are made, I've heard their insides are turned to dust. Like corpses returned to time.</Source>
+      <Dest>It's strange. When certain...creatures are made, I've heard their insides are turned to dust. Like corpses returned to time.</Dest>
+    </String>
+    <String List="0">
+      <Source>As opposed to the catacombs.  With all its ash and dust.</Source>
+      <Dest>相对于地下墓穴。所有的灰尘。</Dest>
+    </String>
+    <String List="2">
+      <Source>But...their flesh. It's ageless. As if time forgot them. And I don't know which part is unreal. </Source>
+      <Dest>But...their flesh. It's ageless. As if time forgot them. And I don't know which part is unreal. </Dest>
+    </String>
+    <String List="0">
+      <Source>As opposed to the catacombs.  With all its ash and dust.</Source>
+      <Dest>相对于地下墓穴。所有的灰尘。</Dest>
+    </String>
+    <String List="2">
+      <Source>If I told you someone I knew...was taken by a vampire, would that mean he was...alive?</Source>
+      <Dest>If I told you someone I knew...was taken by a vampire, would that mean he was...alive?</Dest>
+    </String>
+    <String List="0">
+      <Source>Many brave Dunmer were lost migrating to Skyrim. I'm sorry for your loss.</Source>
+      <Dest>许多勇敢的暗精灵在迁徙到天际的途中死去了，我很遗憾。</Dest>
+    </String>
+    <String List="2">
+      <Source>Feldas wasn't brave. He was stupid! Always rushing in! Always...I'm sorry. You don't need to hear this.</Source>
+      <Dest>Feldas wasn't brave. He was stupid! Always rushing in! Always...I'm sorry. You don't need to hear this.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Eldergleam Sanctuary.  A grove that rivals any city.</Source>
+      <Dest>古藤圣所。媲美任何一座城市的小树林。</Dest>
+    </String>
+    <String List="2">
+      <Source>Ah, I'd like to hear more.</Source>
+      <Dest>啊，我想听更多。</Dest>
+    </String>
+    <String List="0">
+      <Source>Wouldn't it save time to eat a cooked meal?</Source>
+      <Dest>直接吃顿现成的饭岂不是更省时间么？</Dest>
+    </String>
+    <String List="2">
+      <Source>I can't afford to. It...it has to be raw.</Source>
+      <Dest>我买不起。它...它必须得是生的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I don't know what happened, but blaming yourself isn't healthy.</Source>
+      <Dest>我不知道发生了什么，不过责怪你自己总是不健康的。</Dest>
+    </String>
+    <String List="2">
+      <Source>No, it's all my fault. I...I was supposed to look after him. I was the mature one.</Source>
+      <Dest>No, it's all my fault. I...I was supposed to look after him. I was the mature one.</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Source>
+      <Dest>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Dest>
+    </String>
+    <String List="2">
+      <Source>I wish I could. Fall into a river and drown. Be with Feldas, mother, and father again.</Source>
+      <Dest>I wish I could. Fall into a river and drown. Be with Feldas, mother, and father again.</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Source>
+      <Dest>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Dest>
+    </String>
+    <String List="2">
+      <Source>It was a lake...that's where the things lived. The lake is where Lortheim said they come from, before heading upriver to the docks to feed.</Source>
+      <Dest>这个湖...就是那些东西的老巢。罗瑟姆说的，在他们沿河往上游走到码头吃点心之前。</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Source>
+      <Dest>Fine. Wallow in your lake of self-pity. In fact, I hope you drown in it.</Dest>
+    </String>
+    <String List="2">
+      <Source>They...they live there. They still do. They come from the south, at the fork in the river. Near Mara's Eye.</Source>
+      <Dest>They...they live there. They still do. They come from the south, at the fork in the river. Near Mara's Eye.</Dest>
+    </String>
+    <String List="0">
+      <Source>You seem to have found your voice. Now tell me what happened.</Source>
+      <Dest>You seem to have found your voice. Now tell me what happened.</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I don't want to talk about it. Not to you.</Source>
+      <Dest>I...I don't want to talk about it. Not to you.</Dest>
+    </String>
+    <String List="0">
+      <Source>It's up to you. If you are ready, a man in Morthal named Falion can help.</Source>
+      <Dest>It's up to you. If you are ready, a man in Morthal named Falion can help.</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you. I will see him, if the burden becomes too much to bear. But I still hold out hope that...that I will not go alone.</Source>
+      <Dest>Thank you. I will see him, if the burden becomes too much to bear. But I still hold out hope that...that I will not go alone.</Dest>
+    </String>
+    <String List="0">
+      <Source>There is a cure, but you must feed first to tip the scales toward life.</Source>
+      <Dest>是有治疗的方法，但你首先得吃饱，这是维持生命的基本。</Dest>
+    </String>
+    <String List="2">
+      <Source>So it's true. The thing I revile most is my only salvation. It seems...almost cruel.</Source>
+      <Dest>So it's true. The thing I revile most is my only salvation. It seems...almost cruel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Slow down. What are you talking about?</Source>
+      <Dest>喘口气，慢慢说什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>There were so many that night...so cold...I...I need some time alone. Forgive me.</Source>
+      <Dest>There were so many that night...so cold...I...I need some time alone. Forgive me.</Dest>
+    </String>
+    <String List="0">
+      <Source>What about the Hall of the Dead?</Source>
+      <Dest>亡者之厅怎么样？</Dest>
+    </String>
+    <String List="2">
+      <Source>I like the shrine. And I...I don't like sunsets. The sky flushes with color, and it...it reminds me of things.</Source>
+      <Dest>I like the shrine. And I...I don't like sunsets. The sky flushes with color, and it...it reminds me of things.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, being a vampire is wrong. Very, very wrong. Which is why it must be fun.</Source>
+      <Dest>是啊，做一个吸血鬼是个错误，非常离谱的错误。所以一定超有乐子！</Dest>
+    </String>
+    <String List="2">
+      <Source>No. I won't give in. But I will give up. I'm so tired of fighting it. I can only hope Feldas, mother, and father can hold out a little longer.</Source>
+      <Dest>不，我绝不屈服。但是我放弃了，我厌倦了争斗。我只能希望芬达斯，父母亲可以多坚持一段时间。</Dest>
+    </String>
+    <String List="0">
+      <Source>You can see them when I end your miserable life.</Source>
+      <Dest>等你那悲惨的生命被我终结了之后，你就能与他们见面了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then do it. I-I'm tired. So tired of fighting. I can only hope Feldas, mother, and father can hold out a little longer.</Source>
+      <Dest>那去做吧，我已经累了。战斗让我感到厌烦，我只期望芬达斯，妈妈还有爸爸能再多坚持一阵。</Dest>
+    </String>
+    <String List="0">
+      <Source>Your brother was a monster who fed on the innocent. Mourn him not.</Source>
+      <Dest>你哥哥是一个吃人的怪物。别为他伤心了 。</Dest>
+    </String>
+    <String List="2">
+      <Source>No...he was eager...so full of life...it wasn't his fault. It was mine.</Source>
+      <Dest>不...他对生命...多么渴望...都是我的错，我的错啊。</Dest>
+    </String>
+    <String List="0">
+      <Source>Feldas is gone. He wanted to tell you he was sorry.</Source>
+      <Dest>菲尔达斯走了。他想告诉你他感到抱歉。</Dest>
+    </String>
+    <String List="2">
+      <Source>Feldas? You spoke with him? Where is he? I want to see him!</Source>
+      <Dest>芬达斯？你跟他说话了？他在哪儿？我要见他！</Dest>
+    </String>
+    <String List="0">
+      <Source>No, it isn't. But I'm afraid they're gone for good now.</Source>
+      <Dest>不，不是这样。但是我怕他们一去不复返了。</Dest>
+    </String>
+    <String List="2">
+      <Source>Then it's too late. I prayed to Arkay for life, but now...I ask him for solace as I mourn.</Source>
+      <Dest>那看来太迟了。我曾向阿尔凯祈祷生命，可现在……我只能在哀恸中祈求一点安慰了。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, being a vampire is wrong. Very, very wrong. Which is why it must be fun.</Source>
+      <Dest>是啊，做一个吸血鬼是个错误，非常离谱的错误。所以一定超有乐子！</Dest>
+    </String>
+    <String List="2">
+      <Source>Please...leave me be. I don't want any trouble.</Source>
+      <Dest>Please...leave me be. I don't want any trouble.</Dest>
+    </String>
+    <String List="0">
+      <Source>Yes, being a vampire is wrong. Very, very wrong. Which is why it must be fun.</Source>
+      <Dest>是啊，做一个吸血鬼是个错误，非常离谱的错误。所以一定超有乐子！</Dest>
+    </String>
+    <String List="2">
+      <Source>Feldas, mother, father...we're dead, aren't we. All of us. Even me. But is it wrong to want to see them again?</Source>
+      <Dest>芬达斯，妈，爸...我们死了，是吧？全都死了，连我也是。可想要再见他们一面也是错吗？</Dest>
+    </String>
+    <String List="2">
+      <Source>All right, then.</Source>
+      <Dest>那就这样吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>Farewell.</Source>
+      <Dest>再会。</Dest>
+    </String>
+    <String List="2">
+      <Source>Goodbye.</Source>
+      <Dest>再见。</Dest>
+    </String>
+    <String List="2">
+      <Source>Greetings.</Source>
+      <Dest>贵安。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>你好。</Dest>
+    </String>
+    <String List="2">
+      <Source>Well met.</Source>
+      <Dest>很高兴见面。</Dest>
+    </String>
+    <String List="2">
+      <Source>Yes?</Source>
+      <Dest>什么事？</Dest>
+    </String>
+    <String List="2">
+      <Source>What is it?</Source>
+      <Dest>什么？</Dest>
+    </String>
+    <String List="2">
+      <Source>Hm?</Source>
+      <Dest>嗯？</Dest>
+    </String>
+    <String List="2">
+      <Source>I asked Falion to have the body sent back to Cyrodiil. He should be home.</Source>
+      <Dest>我让法利昂把尸体送回了赛瑞迪尔。他应该落叶归根了。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I appreciate all you've done for me.</Source>
+      <Dest>谢……谢谢你为我做的一切。</Dest>
+    </String>
+    <String List="2">
+      <Source>I hope mother and father are okay. But I don't know if it's worth the consequences.</Source>
+      <Dest>我希望父母没事。但我并不知道究竟怎么样。</Dest>
+    </String>
+    <String List="2">
+      <Source>Feldas. I'm glad he's found peace.</Source>
+      <Dest>芬达斯。我很高兴他寻到了安宁。</Dest>
+    </String>
+    <String List="0">
+      <Source>Unfortunately, he never told me either.</Source>
+      <Dest>真不幸，他也从来没有告诉我。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure it was beautiful. Maybe someday, I'll meet someone who knows it. And I'll know the name of the person I honor.</Source>
+      <Dest>我确定这是美好的。也许某一天，我会遇见某个知情的人，然后我就能知道这个我所尊敬之人的名字了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was some Argonian garble.</Source>
+      <Dest>这是些亚龙人在断章取义。 </Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure it was beautiful. Maybe someday, I'll meet someone who knows it. And I'll know the name of the person I honor.</Source>
+      <Dest>我确定这是美好的。也许某一天，我会遇见某个知情的人，然后我就能知道这个我所尊敬之人的名字了。</Dest>
+    </String>
+    <String List="0">
+      <Source>You wouldn't understand it.</Source>
+      <Dest>你是不会理解的。</Dest>
+    </String>
+    <String List="2">
+      <Source>I'm sure it was beautiful. Maybe someday, I'll meet someone who knows it. And I'll know the name of the person I honor.</Source>
+      <Dest>我确定这是美好的。也许某一天，我会遇见某个知情的人，然后我就能知道这个我所尊敬之人的名字了。</Dest>
+    </String>
+    <String List="0">
+      <Source>It was Among-the-Hist.</Source>
+      <Dest>是伊斯特之阿蒙干的！</Dest>
+    </String>
+    <String List="2">
+      <Source>That's a beautiful name. I'll remember it always.</Source>
+      <Dest>这真是个美丽的名字。我会一直铭记在心的。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have your life back. Don't let it go to waste.</Source>
+      <Dest>你过去有你自己的生活。不要去浪费它。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I know. He did for me what I didn't do for Feldas. He saved me. I owe it to him to live.</Source>
+      <Dest>我...我知道。他救了我，我却没有救芬达斯。我欠他一条命。</Dest>
+    </String>
+    <String List="0">
+      <Source>You have your life back. Don't let it go to waste.</Source>
+      <Dest>你过去有你自己的生活。不要去浪费它。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said he hunted vampires...but he was so kind.  I never even knew his name.</Source>
+      <Dest>He said he hunted vampires...but he was so kind.  I never even knew his name.</Dest>
+    </String>
+    <String List="0">
+      <Source>It should've been you.</Source>
+      <Dest>应该就是你吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I know. Everything has been my fault. Feldas too. But that won't change.</Source>
+      <Dest>我...我知道，这一切都是我的错。芬达斯也有错。不过这改变不了什么。</Dest>
+    </String>
+    <String List="0">
+      <Source>It should've been you.</Source>
+      <Dest>应该就是你吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>I...I have to do my best to live. To honor the life he saved.</Source>
+      <Dest>我需要尽我所能地活下去。为了纪念这条他所拯救的生命。</Dest>
+    </String>
+    <String List="0">
+      <Source>It should've been you.</Source>
+      <Dest>应该就是你吧。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said he hunted vampires...but he was so kind.  I never even knew his name.</Source>
+      <Dest>He said he hunted vampires...but he was so kind.  I never even knew his name.</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry. I didn't know this is what he planned.</Source>
+      <Dest>真对不起！我不知道他的计划是这个样子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>Neither did I. I would've never allowed it. It should have been me.</Source>
+      <Dest>我也没有。我绝不会允许它的。这一切应该发生在我身上。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry. I didn't know this is what he planned.</Source>
+      <Dest>真对不起！我不知道他的计划是这个样子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I...I have to do my best. He gave me everything...and I owe it to him to do the same.</Source>
+      <Dest>但我...我必须尽我最大的努力。他给了我一切 ...做这样的事是我欠他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>I'm sorry. I didn't know this is what he planned.</Source>
+      <Dest>真对不起！我不知道他的计划是这个样子的。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said he hunted vampires...but he was so kind. I never even knew his name.</Source>
+      <Dest>He said he hunted vampires...but he was so kind. I never even knew his name.</Dest>
+    </String>
+    <String List="0">
+      <Source>All we can do now is honor his wishes. I will fight, and you will live.</Source>
+      <Dest>我们所还能做的就是尊重他的意愿，我继续我的战斗，你继续你的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>You're so strong. He told me I was the same. But then why do I feel so helpless?</Source>
+      <Dest>你强壮极了。他也是那样告诉我的。但为什么我会感觉这般的绝望？</Dest>
+    </String>
+    <String List="0">
+      <Source>All we can do now is honor his wishes. I will fight, and you will live.</Source>
+      <Dest>我们所还能做的就是尊重他的意愿，我继续我的战斗，你继续你的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>But I...I have to do my best. He gave me everything...and I owe it to him to do the same.</Source>
+      <Dest>但我...我必须尽我最大的努力。他给了我一切 ...做这样的事是我欠他的。</Dest>
+    </String>
+    <String List="0">
+      <Source>All we can do now is honor his wishes. I will fight, and you will live.</Source>
+      <Dest>我们所还能做的就是尊重他的意愿，我继续我的战斗，你继续你的生活。</Dest>
+    </String>
+    <String List="2">
+      <Source>He said he hunted vampires...but he was so kind.  I never even knew his name.</Source>
+      <Dest>He said he hunted vampires...but he was so kind.  I never even knew his name.</Dest>
+    </String>
+    <String List="2">
+      <Source>No...I...didn't want this...not like this...</Source>
+      <Dest>不……我……我不想这样……不是像你想的那样……</Dest>
+    </String>
+    <String List="2">
+      <Source>H-he's dead...</Source>
+      <Dest>他..他死了...</Dest>
+    </String>
+    <String List="2">
+      <Source>Thank you. I-I'll never forget what you've done for me.</Source>
+      <Dest>Thank you. I-I'll never forget what you've done for me.</Dest>
+    </String>
+    <String List="2">
+      <Source>The sun...it's so...warm.</Source>
+      <Dest>太阳...好..温暖。</Dest>
+    </String>
+    <String List="2">
+      <Source>Stop the ritual! Stop it! I beg you!</Source>
+      <Dest>停下仪式吧！停下来！求你了！</Dest>
+    </String>
+    <String List="2">
+      <Source>Please! Don't do this!</Source>
+      <Dest>求求你！别这样！</Dest>
+    </String>
+    <String List="2">
+      <Source>No! You can't!</Source>
+      <Dest>不！你不能！</Dest>
+    </String>
+    <String List="2">
+      <Source>Right...right here?</Source>
+      <Dest>就在……就在这里？</Dest>
+    </String>
+    <String List="2">
+      <Source>I-I'll try. For Feldas. For mother, father.  For everyone.</Source>
+      <Dest>我…我…会做的。为了芬达斯，为了我父亲、我母亲，还有为了所有人。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-it's you! But...I want to wait for mother and father.</Source>
+      <Dest>是……是你！但……我想等等我的父母。</Dest>
+    </String>
+    <String List="2">
+      <Source>Please...I just want to be left alone!</Source>
+      <Dest>求求你...我只想自己呆一会！</Dest>
+    </String>
+    <String List="2">
+      <Source>Tunnels? I-I don't understand.</Source>
+      <Dest>隧道？我……我不明白。</Dest>
+    </String>
+    <String List="2">
+      <Source>I know. I told you. They came through ice...</Source>
+      <Dest>我知道。我跟你说过。他们踏着冰雪而来。</Dest>
+    </String>
+    <String List="2">
+      <Source>I-It's you. You've come back.</Source>
+      <Dest>是...是你啊。你回来了。</Dest>
+    </String>
+    <String List="2">
+      <Source>No...no longer with the clan. Twins...like Rinori...tell her...I'm sorry...it was my fault.</Source>
+      <Dest>不……不再有这个家族了。双胞胎……瑞诺丽……告诉她……我很抱歉……这都是我的错。</Dest>
+    </String>
+    <String List="2">
+      <Source>Mara's Eye...They came from Mara's Eye...through the ice...</Source>
+      <Dest>玛拉之眼......他们穿越冰境......自玛拉之眼而来......</Dest>
+    </String>
+    <String List="2">
+      <Source>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Source>
+      <Dest>But either way, I hope it finds a use for it. And thanks again. I almost forgot what it felt like. Kindness.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
