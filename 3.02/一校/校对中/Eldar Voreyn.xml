@@ -6,755 +6,719 @@
     <Dest>chinese</Dest>
   </Params>
   <Content>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Would there be any? Profits?</Source>
-      <Dest>哪里还有吗， Profits?</Dest>
+      <Dest>真的吗？有利可图？</Dest>
     </String>
-    <String List="0">
-      <Source>Would there be any? Profits?</Source>
-      <Dest>哪里还有吗， Profits?</Dest>
+    <String List="2" Partial="1">
+      <Source>Indeed. I've found people are willing to pay you gold to take their junk off their hands.</Source>
+      <Dest>那当然。我发现有人会付钱让你把他们手里的垃圾收走。</Dest>
     </String>
-    <String List="0">
-      <Source>Would there be any? Profits?</Source>
-      <Dest>哪里还有吗， Profits?</Dest>
-    </String>
-    <String List="0">
-      <Source>Would there be any? Profits?</Source>
-      <Dest>哪里还有吗， Profits?</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So now you hoard other people's junk as well?</Source>
-      <Dest>所以你现在也开始处理别人的麻烦了？</Dest>
+      <Dest>所以你现在也从别人手里收垃圾？</Dest>
     </String>
-    <String List="0">
-      <Source>So now you hoard other people's junk as well?</Source>
-      <Dest>所以你现在也开始处理别人的麻烦了？</Dest>
-    </String>
-    <String List="0">
-      <Source>So now you hoard other people's junk as well?</Source>
-      <Dest>所以你现在也开始处理别人的麻烦了？</Dest>
-    </String>
-    <String List="0">
-      <Source>So now you hoard other people's junk as well?</Source>
-      <Dest>所以你现在也开始处理别人的麻烦了？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Good. I hate that guy.</Source>
       <Dest>好极了，我讨厌那个家伙。</Dest>
     </String>
-    <String List="0">
-      <Source>Good. I hate that guy.</Source>
-      <Dest>好极了，我讨厌那个家伙。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Aren't you worried people will just steal your inventory?</Source>
       <Dest>你难道不担心人们会偷你的东西么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Are there any items of no value to anyone?</Source>
-      <Dest>难道还有东西是对任何人都无价值的？</Dest>
+      <Dest>有没有什么东西是对任何人都毫无价值的？</Dest>
     </String>
-    <String List="0">
-      <Source>Are there any items of no value to anyone?</Source>
-      <Dest>难道还有东西是对任何人都无价值的？</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How do you determine what's junk? You must have some value system.</Source>
-      <Dest>你怎样决定什么是垃圾？你一定有一些价值观。</Dest>
+      <Dest>你怎样判断什么是垃圾？你一定有一套评估体系。</Dest>
     </String>
-    <String List="0">
-      <Source>How do you determine what's junk? You must have some value system.</Source>
-      <Dest>你怎样决定什么是垃圾？你一定有一些价值观。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you determine what's junk? You must have some value system.</Source>
-      <Dest>你怎样决定什么是垃圾？你一定有一些价值观。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you determine what's junk? You must have some value system.</Source>
-      <Dest>你怎样决定什么是垃圾？你一定有一些价值观。</Dest>
-    </String>
-    <String List="0">
-      <Source>How do you determine what's junk? You must have some value system.</Source>
-      <Dest>你怎样决定什么是垃圾？你一定有一些价值观。</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>A shrewd business plan.  I wish I'd thought of it.</Source>
       <Dest>一个精明的商业计划。我应该想到这一点的。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>(Lie) Nazeem's already dead.</Source>
       <Dest>（撒谎）纳奇姆已经死了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why set up at Whitewatch Tower?</Source>
       <Dest>为什么要建立在白漫哨塔?</Dest>
     </String>
-    <String List="0">
-      <Source>Why set up at Whitewatch Tower?</Source>
-      <Dest>为什么要建立在白漫哨塔?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why set up at Whitewatch Tower?</Source>
-      <Dest>为什么要建立在白漫哨塔?</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I have a house in Whiterun. It's quaint.</Source>
       <Dest>我在白漫城有个典雅的房子。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Real estate is not something you can just buy. Someone has to sell.</Source>
       <Dest>地产可不是你说买就能买到的，得有人出售才行。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Real estate is not something you can just buy. Someone has to sell.</Source>
       <Dest>地产可不是你说买就能买到的，得有人出售才行。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Real estate is not something you can just buy. Someone has to sell.</Source>
       <Dest>地产可不是你说买就能买到的，得有人出售才行。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Yes, you got me.  It was my plan all along to copy the worst idea ever.</Source>
       <Dest>哦，被你发现了，我的计划就是直接照抄这糟透了的主意。</Dest>
     </String>
-    <String List="0">
+    <String List="2" Partial="1">
+      <Source>Oh, ha-ha. Laugh it up stranger, but we'll see who's laughing when I'm in the cloud district, dining with the other lords.</Source>
+      <Dest>噢，呵呵。尽管笑吧陌生人，不过我想瞧瞧当我在云顶区和领主们做着生意的时候，到底是谁在笑。</Dest>
+    </String>
+    <String List="0" Partial="1">
       <Source>Washing them clean could triple their value.</Source>
       <Dest>把它们洗洗干净就能值三倍的价钱。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Some people call this junk...</Source>
       <Dest>有的人管这叫垃圾…</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Some people call this junk...</Source>
       <Dest>有的人管这叫垃圾…</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Some people call this junk...</Source>
       <Dest>有的人管这叫垃圾…</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Some people call this junk...</Source>
       <Dest>有的人管这叫垃圾…</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Nazeem's already dead.</Source>
       <Dest>纳齐姆已经死了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What if I replaced the college books with your burned ones and you sold them?</Source>
-      <Dest>如果我用学院的书来换你这些被烧掉的，你会把它们卖掉吗？</Dest>
+      <Dest>我用你这些烧毁的书去偷换掉学院的书，然后你再卖掉它们，你看怎么样？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Wait, you want me to pay you to take my junk?</Source>
       <Dest>等一下，你是说我出钱请你拿走我的垃圾？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>True, those roads are certainly notorious.</Source>
       <Dest>确实，这些道路的名声的确不怎么样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>True, those roads are certainly notorious.</Source>
       <Dest>确实，这些道路的名声的确不怎么样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>True, those roads are certainly notorious.</Source>
       <Dest>确实，这些道路的名声的确不怎么样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>True, those roads are certainly notorious.</Source>
       <Dest>确实，这些道路的名声的确不怎么样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>True, those roads are certainly notorious.</Source>
       <Dest>确实，这些道路的名声的确不怎么样。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It's mad enough to work, but stupid enough to fail.</Source>
       <Dest>干这活儿是太疯狂，可没干成是太愚蠢。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>It's mad enough to work, but stupid enough to fail.</Source>
       <Dest>干这活儿是太疯狂，可没干成是太愚蠢。</Dest>
     </String>
-    <String List="0">
-      <Source>It's mad enough to work, but stupid enough to fail.</Source>
-      <Dest>干这活儿是太疯狂，可没干成是太愚蠢。</Dest>
+    <String List="2" Partial="1">
+      <Source>That is music to my ears, sera, for a truly great idea is often mistaken for madness.</Source>
+      <Dest>在我耳中您这句就是天籁啊，因为真正伟大的想法总被误认为是疯狂。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Impossible. You already own a premium location.</Source>
       <Dest>没门儿！你已经有一个超好的位置了。</Dest>
     </String>
-    <String List="0">
+    <String List="2" Partial="1">
+      <Source>That's right. Guards stationed day and night, and all the weary adventurers an Elf could ask for.</Source>
+      <Dest>没错。日夜驻守在这里的守卫，背包满当当的疲惫旅者，这里应有尽有。</Dest>
+    </String>
+    <String List="0" Partial="1">
       <Source>You invested poorly.  Ruined books are where the profit is.</Source>
-      <Dest>你这投资回报太惨了，所有的利润就是这些残破的书本。.</Dest>
+      <Dest>你的投资方向有问题。损毁的书籍才是真正的利润所在。</Dest>
     </String>
-    <String List="0">
-      <Source>You invested poorly.  Ruined books are where the profit is.</Source>
-      <Dest>你这投资回报太惨了，所有的利润就是这些残破的书本。.</Dest>
-    </String>
-    <String List="0">
-      <Source>You invested poorly.  Ruined books are where the profit is.</Source>
-      <Dest>你这投资回报太惨了，所有的利润就是这些残破的书本。.</Dest>
-    </String>
-    <String List="0">
-      <Source>I'm an adventurer, not some lowly shopkeep.</Source>
-      <Dest>我仍然是个冒险家，不是什么狗屁的杂货店主。</Dest>
-    </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It may be shrewd, but it takes a long time to bear fruit.  I have to play the market right, or else the only person I'll make rich is Belethor.</Source>
       <Dest>这或许确实是个精明的计划，不过得花很长时间才能起效。我得把这个市场的运营拉上正轨，否则发财的人就不是我而是贝莱托尔了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Welcome to Eldar's Junk Emporium, traveler!  I'll take any junk you've found on your travels, for a nominal fee.</Source>
-      <Dest>欢迎来到爱尔达垃圾商场！我将带走您在旅行中找到的任何垃圾，并象征性地收取一点费用。</Dest>
+      <Dest>欢迎来到爱尔达跳蚤市场！我将带走您在旅行中找到的任何垃圾，并象征性地收取一点费用。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Not a good idea. The books would be way too valuable, and the evidence would point right to me.</Source>
       <Dest>不是个好主意。那些书实在太贵重，而且所有证据都会直接指向我。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You can hand any items over to me or leave them in the chest.  It's all on the honor system.  </Source>
       <Dest>你可以把东西交给我保管或者把它们留在箱子里。这些都是比较体面的做法。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>If people willing to buy all the crap most of us throw away, then imagine the profits to be had in collecting it.</Source>
       <Dest>如果人们愿意购买被我们中的大多数人扔掉的垃圾，那么可以想象收集那些垃圾所能带来的巨大利润。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>With the money I've earned, I suppose I could open a separate stall in Whiterun for more valuable goods.</Source>
-      <Dest>我用自己挣来的钱，可以在白漫城开另一个摊子卖更好的东西。</Dest>
+      <Dest>所以我认为用我赚来的钱，我可以在雪漫开一家分店来买卖价值较高的东西。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>But the overhead doesn't justify the profits, especially with the Jarl's taxes and everyone else undercutting my prices.</Source>
+      <Dest>但是高成本并不意味着高收益，尤其是这里需要向领主缴纳税款，其他人还会压低我的价格。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>To the west, you have Riverwood, where most travelers have already unloaded their wares at Lucan's shop.</Source>
-      <Dest>向西走，你就会到河木镇,那里大多数的旅行者都在Lucan的商店里出售他们的商品。</Dest>
+      <Dest>再往西，就来到了河木镇，大多数旅行者在路坎的店里就把东西处理掉了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Such ideas are separated from us like the farms surrounding the city.  The great thinkers are mocked for trying to see them through walls of stone.</Source>
-      <Dest>这想法从我们这里分离出去如农场围绕着城市一般。  伟大的思考者们试着看着它们穿越石墙。 </Dest>
+      <Dest>这样的想法就如同散布在城墙之外的农场一样潜藏在我们周围。伟大的思想者们总因为想要透过石墙看到墙外的世界而饱受讥讽。 </Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ah, so you're a junk man as well.  I know the value of a ruined book.  Especially in the winter, they'll work just as good as firewood.</Source>
-      <Dest>啊，原来你也是捡破烂的。我知道这些破败的书籍的价值。尤其是在冬天时，它们跟木柴一样好用。</Dest>
+      <Dest>啊，原来你也是捡破烂的。我知道这些损毁的书籍的价值。尤其是在冬天时，它们跟木柴一样好用。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Especially the thick volumes, like "The Wolf Queen," or one of Barenziah's 900 biographies.  </Source>
+      <Dest>特别是那些大部头，就像“狼女王”，或者是巴兰兹亚的九百传记那种。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>But some of the rarer books I save for more discerning buyers.  Even with half the pages ruined, they're still worth something to collectors.</Source>
       <Dest>但一些罕见的书我都留给了更为识货的买家。即使有半本儿书已经毁了，但它们仍有一些收藏的价值。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>What? You? What did you do, save the city? Oh wait, you did, didn't you. I bet the greedy bastards still didn't give you a discount.</Source>
-      <Dest>什么？你？你做了什么，救了城市吗？哦，等一下， 你做了，不是么。我打赌那个贪婪的混蛋仍然什么回扣都没给你。</Dest>
+      <Dest>什么？你？你做了什么，拯救了城市吗？哦等等， 你确实拯救了城市，不是么。我赌那个贪婪的混账连一点折扣都没给你。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>What?  You lie.  There's no way anyone would let him off so easy.</Source>
-      <Dest>什么？你撒谎。没人能让他那么容易的就离开。</Dest>
+      <Dest>什么？你撒谎。没人会让他这么轻易就得到解脱。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Most of 'em are adventurers, who come out of a cave with more loot than they can carry, only to find it's still a three hour walk back to Whiterun.  </Source>
-      <Dest>大多从山洞掠回各种超越人体负重极限的战利品的家伙，都是些冒险者。只是他们隔三差五的就得回雪漫城一趟。</Dest>
+      <Dest>大多是冒险者，背着太多负重刚从山洞里跑出来，却发现还有三个钟头才能走回雪漫。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Most of whom are adventurers, who come out of a cave with more loot than they can carry, only to find it's still a 3 hour walk to Whiterun.</Source>
+      <Dest>这类人大多是冒险者，背着一身负重刚从山洞里跑出来，却发现还有三个钟头才能走回雪漫。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>That's right. I've found people are willing to pay you gold to take their junk off their hands.</Source>
-      <Dest>这就是了。我发现人们都愿意给你钱，让你给他们的脏活儿擦屁股。</Dest>
+      <Dest>没错。我发现人们很乐意为把他们手上的垃圾收走而付钱。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You can hand any items over to me or leave them in the chest at Whitewatch Tower.  It's all on the honor system.  </Source>
-      <Dest>你可以把任何东西交给我或者仍在白望塔楼的箱子里。它们都会【记录在荣耀系统】上。</Dest>
+      <Dest>你可以把东西交到我手上或者留在白望哨塔的箱子里。这些都是比较体面的做法。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It's a prime location. To the north is empty tundra and Giant camps, and the guard station is too close to Fort Greymoor for my liking.</Source>
-      <Dest>这是很重要的地点。往北是空旷的苔原和巨人营地，警卫站对我来说距离灰色荒原堡垒太近了。</Dest>
+      <Dest>这里是最佳地点。再往北就只有空旷的苔原和巨人营地，而警卫站对我而言又离灰色荒原堡垒太近了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>There are no bandits to alleviate them of their burdens, or any shops to do the same. </Source>
-      <Dest>没有谁能让他们的货减轻点儿，不论是商店还是强盗。 </Dest>
+      <Dest>一路上没有什么能帮他们减轻身上的负重，不管是商店还是强盗。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Smarmy fetcher has lots of enemies. Says stuff like, "Do you get to the cloud district often?  Of course you don't, because you're a filthy beggar."</Source>
-      <Dest>虚情假意的访问者总是树敌颇多。比如说“你经常去云霄区吗？哦你当然不常去啦，因为你只是个肮脏的乞丐。”</Dest>
+      <Dest>那条讨厌的走狗树敌颇多。经常说些“你常去云霄区吗？哦你当然不常去啦，因为你只是个脏兮兮的乞丐。”</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Now he didn't buy everything of course, but he bought enough to where I didn't have to sell the silverware.</Source>
-      <Dest>现在他当然没把所有东西都买下，不过跟他交易换来的钱已经足够让我不至于卖掉银器了。</Dest>
+      <Dest>当然他没买下所有东西，不过跟他交易换来的钱已经足够让我不至于卖掉银器了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>More importantly, I had stumbled upon an idea. </Source>
       <Dest>更重要的是，我灵光一现想出了一个主意。 </Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I was hoping to save up for a place like Breezehome, but I don't have the coin just yet.  </Source>
-      <Dest>我希望能存钱买到一个风宅那样的地方，但我还一枚硬币都没有呢。 </Dest>
+      <Dest>我希望能存钱买到一个风宅那样的地方，但我暂时还没那个钱。 </Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Then there's the politics.  Don't know whose spear you have to polish to get on top of the waiting list, but I imagine it tastes foul going down.</Source>
+      <Dest>这还牵扯到政治手腕。我现在还不知道要需要帮哪位老爷擦矛才能排到购房名单的最前排，不过我猜被排到后面的感觉肯定不好受。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>You're a clever one to see that.  As you might expect, I can't put anything too valuable in the chest, or it'd be too difficult to guard.</Source>
-      <Dest>你是个聪明人，正如你所想到的，我不能把那些太有价值的东西放在箱子里，否则想防护起来就太过困难了。</Dest>
+      <Dest>能发现这点说明你是个聪明人。也许你已经想到，我不可能把太值钱的东西放在箱子里，不然想看牢它们会很有难度。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Now the guards here will stop the occasional thief so long as I wet their beaks.</Source>
+      <Dest>现在只要我时不时请守卫杯酒，他们就会帮我杜绝盗窃现象。</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <Source>I'm an adventurer, not some lowly shopkeep.</Source>
+      <Dest>我是个冒险者，而不是什么摆摊的杂碎。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>Is that what you call yourselves? I like to call you my pack mules. Now do you have any questions, or are we done here?</Source>
-      <Dest>你们是那么称呼自己的？我喜欢把你们叫做屌丝帮。现在你还有任何问题吗？还是说我们可以结束了？</Dest>
+      <Dest>你们是那么称呼自己的？我喜欢把你们称呼为我的货驴。现在你还有任何问题吗？还是说我们可以结束了？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Indeed. I wash them at the Drunken Huntsmen before I take them to Belethor.  I keep them dirty for now to lower their value and dissuade thieves.</Source>
-      <Dest>确实如此。在把带去贝莱托尔那儿之前我会先在酩酊猎人把它们清洗一下。现在我先让看起来它们脏兮兮的，这样小偷就会觉得它们不值钱放我一马了。</Dest>
+      <Dest>确实如此。在把它们带去贝莱托尔那儿之前我会先去酩酊猎人清洗一下。暂时先让它们脏兮兮的能唬走不少小贼。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I'm in the business of greed and fatigue, traveler. The greed makes 'em pick up the junk, and the fatigue makes 'em drop it.</Source>
-      <Dest>我以贪婪和疲惫为生，旅行者。贪婪使他们捡起了垃圾，而疲惫又让他们扔掉了它。</Dest>
+      <Dest>我做的是贪婪与疲倦的生意，旅行者。是贪婪让人们捡起那些垃圾，而疲倦让他们想要丢弃。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Unfortunately, you're right about that.  And you have to be a resident to get a seat at the Jarl's table.  </Source>
       <Dest>你很不幸地说中了，只有成为这里的居民，才能领主的桌边享有一席之位。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Yet it's only when they conquer the hill that they truly accept defeat.  For when they reach the apex, they find Dragonsreach tantalizingly close.</Source>
-      <Dest>然而当他们占领山顶时才真的意识到自己的失败。在他们冲上山顶后，他们焦躁地发现龙临厅的大门是关上的。</Dest>
+      <Dest>然而当他们登上山顶时才真的意识到自己的失败。在他们冲上山顶后，才会焦躁地发现从这里是进不去龙临厅的。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>But if my business attracts hordes of bandits and other unmentionables, then suddenly my coin ain't worth the price of me being here.</Source>
-      <Dest>万一强盗或者其他的什么打上了我的生意的主意，那我岂不是突然就变得一无所有了吗?</Dest>
+      <Dest>但万一我的营生惹来了大群的强盗或者其他想都不敢想的东西，那么我赚到的钱在我的性命面前会变得一文不值。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Burned books. I found that out the hard way when even Belethor refused to buy them. Not even good for kindling, he said.</Source>
-      <Dest>烧掉那些书。在即使连贝莱托尔也不想买它们的时候，我发现这不是件容易事儿。那些书都不怎么好烧，他说。</Dest>
+      <Dest>焚毁的书籍。连贝莱托尔都不想买它们的时候我发现的。他说这些书连用来烧都不合适。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Hello, I'm Eldar, owner of Eldar's Junk Emporium at Whitewatch Tower.  See me at my store if you want to leave any junk you find on your travels.</Source>
-      <Dest>您好，我是尔达尔, 白望塔的尔达尔废品大卖场的店主. 。如果您想要处理任何在旅行中得到的不需要的东西，请随时光临小店。</Dest>
+      <Dest>您好，我是艾尔达，白望塔的艾尔达跳蚤市场的店主。如果您想要处理任何在旅行中得到的不需要的东西，请随时光临小店。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The mountains loom over the south, peaks which no mortal dare climb, and to the southeast lay the Valtheim Towers, which bandits often occupy.</Source>
-      <Dest>山脉赫然耸立在南部，其间的山脉无人胆敢攀爬。东南之处坐落着沃尔瑟姆塔楼，那里一直以来都被强盗牢牢占据着。</Dest>
+      <Dest>山脉赫然耸立在南面，没人有胆量攀爬那些山峰。往东南就只有沃尔瑟姆塔楼，而那里一直以来都被强盗牢牢占据着。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I'm in the business of greed and fatigue, traveler.  The greed makes 'em pick up the junk, and the fatigue makes 'em drop it.</Source>
       <Dest>我做的是贪婪与疲倦的生意，旅行者。是贪婪让人们建起那些垃圾，而疲倦让他们想要丢弃。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Their only foe is a shallow incline, but to an over-encumbered soul, it can seem larger than any dragon.</Source>
       <Dest>他们唯一的敌人是一个缓坡，但是对于一个劳累过度的人来说，那比任何一条巨龙都要庞大。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Really?  Then who was that smarmy Redguard I bumped into in the Market District the other day?  His brother?</Source>
-      <Dest>真的？是那天在Market District迎面撞上我的红卫人？他的兄弟？</Dest>
+      <Dest>真的吗？那么那天我在集市区碰见的那个傲慢的红卫人是谁？他的兄弟吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>So drop what you can, and take what you must.  That's our motto at Eldar's Junk Emporium.</Source>
       <Dest>弃你可离，取你所需。在艾尔达跳蚤市场，这就是至理名言。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>So drop what you can, and take what you must.  That's our motto at Eldar's Junk Emporium.</Source>
       <Dest>弃你可离，取你所需。在艾尔达跳蚤市场，这就是至理名言。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That's where I come in. I turn their junk around and sell it to Belethor.  Divines only know who purchases it from him.</Source>
-      <Dest>而我的作用就体现在这一环节。我变废为宝然后将它们卖给贝莱托尔。不过大概只有神才知道他把那些东西卖给谁了。</Dest>
+      <Dest>而我的作用就体现在这一环节。我收取他们的垃圾然后卖给贝莱托尔。天知道他会把那些东西卖给谁。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That's where I come in. I turn their junk around and sell it to Belethor.  Divines only know who purchases it from him.</Source>
-      <Dest>而我的作用就体现在这一环节。我变废为宝然后将它们卖给贝莱托尔。不过大概只有神才知道他把那些东西卖给谁了。</Dest>
+      <Dest>而我的作用就体现在这一环节。我收取他们的垃圾然后卖给贝莱托尔。天知道他会把那些东西卖给谁。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That's right, a flat fee of 20 gold for taking your junk off your hands.  I also take any items of acceptable value.</Source>
-      <Dest>对的, 给你20金币收购你手上的垃圾. 我也会以合理的价格收购任何东西.</Dest>
+      <Dest>对的，只收20金币我就愿意拿走你手上的垃圾。当然我也乐意拿些价值不错的东西。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>That's right, a flat fee of 20 gold for taking your junk off your hands.  I also take any items of acceptable value.</Source>
-      <Dest>对的, 给你20金币收购你手上的垃圾. 我也会以合理的价格收购任何东西.</Dest>
+      <Dest>对的，只收20金币我就愿意拿走你手上的垃圾。当然我也乐意拿些价值不错的东西。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The entrance, however, is all the way on the other side.</Source>
-      <Dest>无论如何，入口都在路的另一边。</Dest>
+      <Dest>然而城市的入口却远在另一侧。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Worried?  (Laughs) You must be mad if you think someone is going to risk the ire of the guard to steal a bunch of dirty bowls and forks.</Source>
       <Dest>担心吗？(笑声)你一定是疯了才会觉得有人会冒着惹怒守卫的危险去偷一堆脏碗和刀叉。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Indeed. I rushed home and picked up every worthless trinket, every old rag, piece of lint, and loaf of moldy old bread I could find.</Source>
       <Dest>确实。我跑回家拿起我能找到的每一个不值钱的项链，每一块抹布，每一个线头，和每一块发霉的面包。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>When an idea is a success, everyone assumes he actually did it.  See through walls of stone.  When all he really did was stand on his toes.</Source>
-      <Dest>当一个主意获得成功时，每个人都认为事情是他亲自做的。而他需要的只是敏锐的洞察力。他事实上连指头都不用动一下。</Dest>
+      <Dest>当一个主意获得成功时，所有人都以为他的目光真的能穿透高墙。然而他所做的无非就是站在那里而已。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Travelers from the east, however, face no peril other than the occasional divot in the road, and the stare of Vantus' wife.</Source>
-      <Dest>旅行者从东边而来，无论如何，他没有遇到比地面上的草皮，还有跟万图斯的妻子凝视更危险的事了。</Dest>
+      <Dest>然而从东边来的旅人，尚未遇到过比地面上的草皮和万图斯妻子的冷眼更危险的东西。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Well, this beggar's going to own all of Dragonsreach by the time he's done.</Source>
-      <Dest>当他完成之时就是这个乞丐拥有龙宵宫之时。</Dest>
+      <Dest>啊，这个乞丐在他还没走到之前就能买下整座龙霄宫。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Now I've got enough worthless books to fill the library in Winterhold, but I'm still holding out hope the market will turn.</Source>
-      <Dest>现在我已经有足够的珍贵书籍珍藏在冬堡图书馆, 但我依然希望市场会有所好转。</Dest>
+      <Dest>现在我手上这种无用的书已经够塞满整座冬拥城图书馆了，但我仍抱有市场风向转变的期望。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>How do you know the scene hasn't been tampered with?</Source>
       <Dest>你们怎么能确保现在看到的这些没有被篡改过。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you plan to do with all that junk?</Source>
       <Dest>你打算用那些垃圾做些什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you plan to do with all that junk?</Source>
       <Dest>你打算用那些垃圾做些什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you plan to do with all that junk?</Source>
       <Dest>你打算用那些垃圾做些什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you plan to do with all that junk?</Source>
       <Dest>你打算用那些垃圾做些什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>What do you have for sale?</Source>
       <Dest>你有啥卖的？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I was, but I changed my mind now that you're on to me.</Source>
-      <Dest>是的，但我现在不觉得你看穿我了。</Dest>
+      <Dest>是的，但我改主意了，现在我跟你是一伙的了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Some polish spears. Others slay dragons.</Source>
-      <Dest>有的人负责擦亮长矛，有的人负责杀死巨龙。</Dest>
+      <Dest>有的人擦矛，有的人屠龙。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I'm telling Nazeem right now of your plans. You're ruined.</Source>
       <Dest>我正把你的计划告诉纳齐姆，你完蛋了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I'm telling Nazeem right now of your plans. You're ruined.</Source>
       <Dest>我正把你的计划告诉纳齐姆，你完蛋了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So what did you do?</Source>
       <Dest>那么你做了什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So what did you do?</Source>
       <Dest>那么你做了什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So what did you do?</Source>
       <Dest>那么你做了什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>So what did you do?</Source>
       <Dest>那么你做了什么？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Why Nazeem?</Source>
-      <Dest>为什么是Nazeem?</Dest>
+      <Dest>为什么是纳奇姆？</Dest>
     </String>
-    <String List="0">
-      <Source>Why Nazeem?</Source>
-      <Dest>为什么是Nazeem?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why Nazeem?</Source>
-      <Dest>为什么是Nazeem?</Dest>
-    </String>
-    <String List="0">
-      <Source>Why Nazeem?</Source>
-      <Dest>为什么是Nazeem?</Dest>
-    </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>You forgot basic knives and forks. Worthless.</Source>
-      <Dest>你这个渣滓连刀叉都不会用了。</Dest>
+      <Dest>你还忘了最常见的刀叉。它们也毫无价值。</Dest>
     </String>
-    <String List="0">
-      <Source>You forgot basic knives and forks. Worthless.</Source>
-      <Dest>你这个渣滓连刀叉都不会用了。</Dest>
+    <String List="2" Partial="1">
+      <Source>Maybe now, but unlike burned books, they still have utility. </Source>
+      <Dest>现在也许是吧，但不像烧毁的书籍，它们依旧是有用的。</Dest>
     </String>
-    <String List="0">
+    <String List="2" Partial="1">
+      <Source>In fact, the market may change soon, with blacksmiths too busy forging swords to bother with common dinnerware.</Source>
+      <Dest>实际上，当铁匠们都忙着铸剑而无暇打造日用餐具的时候，市场需求也许会迅速转变。</Dest>
+    </String>
+    <String List="0" Partial="1">
       <Source>What sort of junk do you collect?</Source>
       <Dest>你在收集什么破烂？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I've met broomsticks with more business sense.</Source>
       <Dest>我已发现扫帚的商业意义了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I've met broomsticks with more business sense.</Source>
       <Dest>我已发现扫帚的商业意义了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not by themselves, but a thousand forks and knives would be valuable.</Source>
       <Dest>它们本身并不起眼，不过数量大了可就值钱了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not by themselves, but a thousand forks and knives would be valuable.</Source>
       <Dest>它们本身并不起眼，不过数量大了可就值钱了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Not by themselves, but a thousand forks and knives would be valuable.</Source>
       <Dest>它们本身并不起眼，不过数量大了可就值钱了。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>The last one who called me mad, I sewed his mouth shut.  Now he calls me "mmm."</Source>
       <Dest>上一位管我叫疯子的，我把他的嘴缝上了。现在他管我叫"唔唔唔…"</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Is this your long term business plan?</Source>
       <Dest>这就是你这生意的远景规划？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Is this your long term business plan?</Source>
       <Dest>这就是你这生意的远景规划？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>Is this your long term business plan?</Source>
       <Dest>这就是你这生意的远景规划？</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I don't know if revenge is worth living in a troll den like Whiterun.</Source>
       <Dest>我不知道为了复仇住在像雪漫那样的巨魔巢穴里是不是值得的。</Dest>
     </String>
-    <String List="0">
+    <String List="0" Partial="1">
       <Source>I don't know if revenge is worth living in a troll den like Whiterun.</Source>
       <Dest>我不知道为了复仇住在像雪漫那样的巨魔巢穴里是不是值得的。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The finest brooms in Tamriel.</Source>
-      <Dest>泰姆瑞尔最好的扫帚</Dest>
+      <Dest>泰姆瑞尔最好的扫帚。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Glass jars? Of course! They come in broken, and busted.</Source>
       <Dest>玻璃瓶？当然！它们在被发现的时候就已经破损毁坏了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>You don't happen to have any spare brooms, do you?</Source>
       <Dest>你该不会正好有备用的扫帚吧？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Well, people would think he was the Skyforge the way the steam would come out of his ears.</Source>
-      <Dest>嗯，人们可能会认为他就是天空熔炉，然后蒸汽从他耳朵冒出来。</Dest>
+      <Dest>嗯，到时候他七窍生烟的样子一定会让人想起天空熔炉。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Why?  Are you trying to muscle in on my business?</Source>
-      <Dest>为什么？你想插手我的生意吗？</Dest>
+      <Dest>怎么？你想插手我的生意吗？</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Until next time.</Source>
       <Dest>下回见。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I chuckled, of course, and was about to slide the spoon into my tunic when Belethor asked me, "How much?"  I asked him, "For the silverware?"</Source>
-      <Dest>我呵呵一笑，当然，汤勺滑进我的外套的同时，贝莱托尔问我：“多少钱？”我则问他：“是银的吗？”</Dest>
+      <Dest>当然，我呵呵一笑，正当我打算把木勺悄悄塞到我衣兜里时，贝莱托尔问我：“多少钱？”我则问他：“这些银器吗？”</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Only when I placed the set on the counter, I noticed there was an old wooden spoon lumped in with the silverware.  </Source>
-      <Dest>当我把这套东西放在台面上时，我发现银器里熔进了一根老旧木勺。</Dest>
+      <Dest>当我把这套银器放在台面上时，我发现其中里混进了一把老旧的木勺。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It was a family heirloom, and I was loathe to part with it, but it was the only thing in my possession worth a bloody septim.  </Source>
-      <Dest>这是我家里的传家宝，我真的不想割舍它。 但这是我唯一能换点不幸的钱的财产了。</Dest>
+      <Dest>这是我家里的传家宝，我真的不想割舍它。但这是我手里仅剩还值点该死的金子的东西了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Once market demand is high and supply is low, then I make my move.  That's the only way this junk has any value.  This can take months, even years.  </Source>
-      <Dest>一旦市场上供不应求，就该我出行动了。这是唯一让这堆破烂儿能产生什么价值的方法。而这会耗时数月，甚至数年的时间。  </Dest>
+      <Dest>一旦市场上供不应求，就该我行动了。这是唯一让这堆破烂儿能产生价值的方法。这会耗时数月，甚至数年。  </Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Why, sell it of course. The idea came to me when I was shopping at Belethor's General Goods Store.  </Source>
-      <Dest>为什么，当然是卖掉它了。我在贝莱托尔日用品店购物的时候就想这么干了。</Dest>
+      <Dest>怎么，当然是卖掉它了。这主意是我在贝莱托尔杂货店买东西的时候想到的。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Not many people can find the place, to be honest, since it's not on any map.</Source>
       <Dest>说实话，没多少人能找到这个地方。因为那里在任何一份地图上都没有标示。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Well, then let their families know.  Someone has to inherit all their junk.</Source>
       <Dest>哎，那就去告诉他们全家吧。总要有人继承他们全部的垃圾。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Too much junk weighing you down?  For twenty gold I can take it off your hands for you.</Source>
       <Dest>包里垃圾太多拿不动了？给我20块就帮你处理掉。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>But if a poor farmer somehow managed to worm his way to the Cloud District...</Source>
-      <Dest>但如果一个卑贱的农民不知怎的的混进了云霄区 ...</Dest>
+      <Dest>但如果一个卑贱的农民不知怎的的攀进了云霄区……</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>No thief has the patience to wait this long, not when there are plenty of other things he can steal, and not when his stomach growls for food.</Source>
-      <Dest>没有哪个盗贼会有如此耐心等待这么久的，除非有大量的东西可以偷到，或者他们实在是饥肠辘辘了。</Dest>
+      <Dest>没有哪个盗贼会有如此耐心等待这么久的，尤其是有大把其他东西可偷，而他们又饥肠辘辘的时候。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Good, you saved yourself a lot of heartache.  I've surveyed the land around here, and this is the best location for a business of this type.</Source>
-      <Dest>好极了，你去除了你的心病。我已经调查过这周围了，这是做这类生意的最佳地段。</Dest>
+      <Dest>好极了，你免去了自己许多麻烦。我已经调查过这周围了，这是做这类生意的最佳地段。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Do I look like a dragon slayer?  Wait, that came out wrong.  Makes it sound like I look like a spear polisher.</Source>
-      <Dest>我看起来像个屠龙者吗？等等，那明显是错的。原因可能是我看起来像个打磨长矛的人吧。</Dest>
+      <Dest>我看起来像屠龙的人吗？等下，你这话不对。听起来就像在说我是个擦矛的人。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>There's no one in all of Tamriel who has a lower opinion of what I collect, and the man who collects them.</Source>
-      <Dest>整个塔玛瑞尔大陆无人对我的收藏物，及收藏者我有所异议。</Dest>
+      <Dest>整个塔玛瑞尔大陆都找不到比他更瞧不起我和我所收集的东西的人。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>While you're slaving in some mine trying to pluck a flawless diamond, I'll have traded my brooms for seven.</Source>
       <Dest>当你在不知道哪些矿洞里苦苦需找一个完美无瑕的钻石的时候，我已经卖出去七把扫帚了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>My goal is to buy a house in Whiterun, and run my own business in the Market District.  </Source>
-      <Dest>我的目标是在白漫城买一栋房子，然后在云霄区开一家属于我自己的商店。</Dest>
+      <Dest>我的目标是在白漫城买一栋房子，然后在集市区开一家属于我自己的商店。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Please, do come back. (Laughs) Sorry, I couldn't help myself.</Source>
-      <Dest>求你了，回来吧。（笑声）对不起，我帮不了我自己。</Dest>
+      <Dest>请务必，再来光顾。（笑声）对不起，我我没忍住。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
+      <Source>Remember traveler, pick up everything that isn't nailed to the floor. And maybe those things too if you can manage.</Source>
+      <Dest>旅行者，记得拿走所有没被钉在地板上的东西。要是你办得到的话把那些钉住的也一并拿走。</Dest>
+    </String>
+    <String List="2" Partial="1">
       <Source>But my motivation is to get a seat at the Jarl's table, right across from Nazeem.</Source>
-      <Dest>但我只是想在领主的议事桌上得到一个位置而已，一个刚好面对纳奇姆的位置。</Dest>
+      <Dest>但我最原始的动机是想在领主的议事桌上得到一个位置，一个刚好面对纳奇姆的位置。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Oh, and where would you rather live? Solitude? An entire city full of people like Nazeem. Riften? You'll lose your home before you get the door open.</Source>
-      <Dest>噢，那你更喜欢在哪里生活呢？独孤城？满大街都是纳兹姆之流的装13犯。裂谷城？在你把门打开之前家里的东西就能丢光了啊。</Dest>
+      <Dest>噢，那你更喜欢在哪里生活呢？独孤城？那里满大街都是纳奇姆那样的人。裂谷城？在你打开家门之前你家就会被偷个精光。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Oh, I meant no offense, traveler.  But if you'd like to leave your needle and thread in the box, I'd be willing to waive the fee.</Source>
       <Dest>哦，没有冒犯之意，旅行者。但如果你想把自己的针线留在这个盒子里，我就不收钱了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>All right, then.</Source>
       <Dest>那就这样吧。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Satchel feeling a bit heavy?  Come see me at my store at Whitewatch Tower.</Source>
-      <Dest>感觉背包有点重吗？来皖城哨塔的商店见我吧。</Dest>
+      <Dest>感觉背包有点重吗？来白望哨塔的商店见我吧。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>It was about a year ago, after Nazeem had fired me from Chillfurrow Farm for sleeping on the job.  </Source>
       <Dest>大概是一年以前的事情了，在我因为工作时睡觉而被纳奇姆从寒犁农场炒鱿鱼以后。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>But only if you had the patience to move them.  Even Belethor wouldn't buy all the junk in my inventory.  I have to wait until his stock runs low.</Source>
       <Dest>除非你有耐心去搬它们。连贝莱托尔都不会把我货物清单上的什物全买下来。得等到他存货用得差不多的时候。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>And the fool said, "No!  No, the spoon!"</Source>
-      <Dest>然后一个蠢货说：“不！别用勺子！”</Dest>
+      <Dest>然后那个蠢货说：“不！不，我是说那把勺子！”</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>When he fired me, I thought of ways to get back at him. Poison his food, bed his wife, burn his crops.  In the end though, it wasn't worth it.</Source>
-      <Dest>当他向我发动攻击时，我就想了各种办法报复他。给他的食物投毒，睡他老婆，烧他庄稼。最后我想想，我觉得不值得。</Dest>
+      <Dest>他炒我鱿鱼的时候，我想了各种办法报复他。给他的食物投毒，睡他老婆，烧他庄稼。最后我想想，我觉得不值得。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Anyway, I was desperate for coin, and I decided to sell a set of antique silverware that I had kept packed away in an old sack.</Source>
-      <Dest>无论如何，我现在缺钱，我决定卖掉一套我已经在袋子里整理好的银质古董。</Dest>
+      <Dest>总之，我当时急需钱，我决定卖掉一套我已经在袋子里整理好的银质古董。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Be seeing you.</Source>
       <Dest>再见。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>I rolled them up in an old cloth, and went to Belethor to get it appraised.  </Source>
-      <Dest>我拿了件旧衣服把它们包起来，冲去 Belethor 杂货店估了个价。</Dest>
+      <Dest>我拿了件旧衣服把它们包起来，冲去贝莱托尔杂货店估了个价。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ah, nothing like a batch of fresh junk to brighten my day.</Source>
       <Dest>啊，没什么东西能像一堆新鲜的垃圾一样让我眼前一亮了。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Take a look.</Source>
       <Dest>随便看看。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Greetings.</Source>
       <Dest>你好。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Ha! Brooms happen to be some of my most popular pieces.  Lots of death means lots of empty rooms and piles of dust.  </Source>
-      <Dest>哈！扫帚碰巧是我最受欢迎的作品。大量的死亡意味着一堆的空屋子和满屋子灰。</Dest>
+      <Dest>哈！扫帚碰巧是我最受欢迎的商品。大量的人员伤亡意味着一堆的空屋子和满屋子灰。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>None of those things mattered to him, and when all accounts were settled he'd still be rich and I'd still be poor.  </Source>
-      <Dest>这些事他一个都不在乎，当所有的账目都稳当了，他富得流油，而我仍一贫如洗。</Dest>
+      <Dest>他根本不在乎这些，而就算我进行了这些报复，他依然富得流油，而我仍是一贫如洗。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Some people call this junk, but not Belethor.</Source>
       <Dest>有些人把这叫做垃圾，贝莱托尔可不会。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Go ahead. That high-minded fool will laugh in your face, right before he spits in it.  </Source>
-      <Dest>去吧。那个自大的白痴肯定会先对着你得意地笑，然后笑不出来，恼羞成怒的。</Dest>
+      <Dest>你去啊。那个自大的蠢货肯定会冲着你大小，然后吐你一脸口水。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Over-encumbered traveler?  I can help you with that.</Source>
       <Dest>你身上带的东西超重了吗？我能帮你分担一点儿。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Depends on what you mean. But no, I don't plan on being here forever.</Source>
-      <Dest>看你的意思了。但是我可不打算永远待在这里噢。</Dest>
+      <Dest>这取决于你想问哪方面。不过，我并不打算永远呆在这里。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>One day I'll take my place at the Jarl's table.  And when I do, the look on Nazeem's face will have made all the struggle worth it.</Source>
       <Dest>会有那么一天，领主的桌子会出现我属于的位置。而当我做到了的时候，纳奇姆脸上精彩的表情将证明我的一切努力都没白费。。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Markarth?  Who wants to live near a prison. And there's no way a Dark Elf like me is moving to Windhelm.</Source>
       <Dest>马卡斯城？谁会愿意住在一座监狱旁边。而且像我这样的黑精灵也没办法搬到风盔城。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Forks, brooms, pretty much everything you don't need.</Source>
-      <Dest>叉子，扫帚，都是些你完全不需要的东西。</Dest>
+      <Dest>叉子，扫帚，一切你不需要的东西。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>The only reason the guard were able to arrest my father is because he was forced to spend the night in Solitude.</Source>
       <Dest>守卫逮捕我父亲唯一可行的理由就是他非自愿而不得不在独孤城过了一夜。</Dest>
     </String>
-    <String List="2">
+    <String List="2" Partial="1">
       <Source>Need something?</Source>
       <Dest>需要些什么吗？</Dest>
     </String>
